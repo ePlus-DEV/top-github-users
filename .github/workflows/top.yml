@@ -1,0 +1,23 @@
+name: Top GitHub Users
+on:
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - "main"
+  workflow_dispatch:
+jobs:
+  release:
+    name: GitHub Active Users
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18.16.1
+      - uses: ePlus-DEV/top-github-users-action@master
+        env:
+          CUSTOM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
