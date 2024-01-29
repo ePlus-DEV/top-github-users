@@ -1,11 +1,14 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches:
-      - "main"
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+  #   push:
+  #     branches:
+  #       - "main"
+  workflow_run:
+    workflows: ["Top GitHub Users"]
+    types: [completed]
+  # Review gh actions docs if you want to further define triggers, paths, etc
+  # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 permissions:
   contents: write
