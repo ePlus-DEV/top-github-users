@@ -1,11 +1,14 @@
-# Top GitHub Users By Followers in Yemen [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+---
+title: Top GitHub Users By Followers in Yemen 
+---
+# Top GitHub Users By Followers in Yemen [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="24">](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `number of followers` of users in Yemen on `2024/1/29 12:56 PM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
+The `number of followers` of users in Yemen on `2024/1/30 5:48 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -115,23 +118,10 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>@tyacan </td>
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
-		<td>587</td>
+		<td>588</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/Asbaharoon">
-				<img src="https://avatars.githubusercontent.com/u/98842320?s=72&u=e98cd5d8a03bf1e61f2090806e8301789c0cbf13&v=4" width="24" alt="Avatar of Asbaharoon"> Asbaharoon
-			</a><br/>
-			Abdullah Baharoon
-		</td>
-		<td>@openjdk And @graalvm <br/></td>
-		<td>No Twitter Username</td>
-		<td>Yemen</td>
-		<td>500</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/mbahomaid">
 				<img src="https://avatars.githubusercontent.com/u/62332741?s=72&u=0fff172ee36aeea82e20b0924502a2a6e645a36c&v=4" width="24" alt="Avatar of mbahomaid"> mbahomaid
@@ -141,7 +131,20 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MustafaBahomaid">MustafaBahomaid</a></td>
 		<td>Yemen</td>
-		<td>495</td>
+		<td>507</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/Asbaharoon">
+				<img src="https://avatars.githubusercontent.com/u/98842320?s=72&u=e98cd5d8a03bf1e61f2090806e8301789c0cbf13&v=4" width="24" alt="Avatar of Asbaharoon"> Asbaharoon
+			</a><br/>
+			Abdullah Baharoon
+		</td>
+		<td>@openjdk And @graalvm <br/></td>
+		<td>No Twitter Username</td>
+		<td>Yemen</td>
+		<td>501</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -284,7 +287,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>Co-founder @yemenopensource, Member Of<br/>@open-sale<br/></td>
 		<td><a href="https://twitter.com/muathye">muathye</a></td>
 		<td>Yemen</td>
-		<td>115</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -310,7 +313,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sana'a, Yemen</td>
-		<td>96</td>
+		<td>97</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -375,7 +378,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>@re-coded-sana-a-boo  </td>
 		<td><a href="https://twitter.com/FatimaAlmashhor">FatimaAlmashhor</a></td>
 		<td>Yemen</td>
-		<td>68</td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -544,23 +547,10 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aymanmalhattami">aymanmalhattami</a></td>
 		<td>Yemen</td>
-		<td>43</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>35</td>
-		<td>
-			<a href="https://github.com/akramghaleb">
-				<img src="https://avatars.githubusercontent.com/u/46090581?s=72&u=15fa715bf39cb9c7e926ad3253504284b7adbfc2&v=4" width="24" alt="Avatar of akramghaleb"> akramghaleb
-			</a><br/>
-			Akram Ghaleb
-		</td>
-		<td>Akramdev </td>
-		<td>No Twitter Username</td>
-		<td>Yemen</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>36</td>
 		<td>
 			<a href="https://github.com/Thenmee">
 				<img src="https://avatars.githubusercontent.com/u/37501477?s=72&u=b5149502e32027ef7d227ae0ef232317dda24934&v=4" width="24" alt="Avatar of Thenmee"> Thenmee
@@ -571,6 +561,19 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
 		<td>42</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/akramghaleb">
+				<img src="https://avatars.githubusercontent.com/u/46090581?s=72&u=15fa715bf39cb9c7e926ad3253504284b7adbfc2&v=4" width="24" alt="Avatar of akramghaleb"> akramghaleb
+			</a><br/>
+			Akram Ghaleb
+		</td>
+		<td>Akramdev </td>
+		<td>No Twitter Username</td>
+		<td>Yemen</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1836,6 +1839,19 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 	<tr>
 		<td>134</td>
 		<td>
+			<a href="https://github.com/Mr-NumberOne">
+				<img src="https://avatars.githubusercontent.com/u/88376540?s=72&u=0ec81b2c5f8afe8f588d5f9ab539e863ece7e852&v=4" width="24" alt="Avatar of Mr-NumberOne"> Mr-NumberOne
+			</a><br/>
+			Ahmed Maher Ali Al-Maqtari 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Yemen / Sana'a</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a href="https://github.com/BasilHomadi">
 				<img src="https://avatars.githubusercontent.com/u/8434448?s=72&u=d478e12e774a5e053adb27b60d2f83fcc0132d4b&v=4" width="24" alt="Avatar of BasilHomadi"> BasilHomadi
 			</a><br/>
@@ -1847,7 +1863,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/Abdulrahman-Shaiban">
 				<img src="https://avatars.githubusercontent.com/u/35997709?s=72&u=922ff9c6bbb5d180ad952d605c445bfbaf2d38ba&v=4" width="24" alt="Avatar of Abdulrahman-Shaiban"> Abdulrahman-Shaiban
@@ -1860,7 +1876,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/MajdiSobain">
 				<img src="https://avatars.githubusercontent.com/u/18087119?s=72&v=4" width="24" alt="Avatar of MajdiSobain"> MajdiSobain
@@ -1873,7 +1889,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/eng-somaia">
 				<img src="https://avatars.githubusercontent.com/u/67667172?s=72&u=e8657051bbade32747f921e4ce5981ee828731d0&v=4" width="24" alt="Avatar of eng-somaia"> eng-somaia
@@ -1886,7 +1902,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/riyadalshatbi">
 				<img src="https://avatars.githubusercontent.com/u/59564999?s=72&u=dbfa156d61fee8fc3ce02501b835b6070ab8f5a5&v=4" width="24" alt="Avatar of riyadalshatbi"> riyadalshatbi
@@ -1899,7 +1915,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/AbdulganiAlmonifi">
 				<img src="https://avatars.githubusercontent.com/u/76177645?s=72&u=22d632270032b3b7255cc1b8549edd7cf944fce9&v=4" width="24" alt="Avatar of AbdulganiAlmonifi"> AbdulganiAlmonifi
@@ -1912,7 +1928,7 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/Hamza-Mughales">
 				<img src="https://avatars.githubusercontent.com/u/63534017?s=72&u=3fdcd12c2b18104c1aa46fa7201365a4cc4cefff&v=4" width="24" alt="Avatar of Hamza-Mughales"> Hamza-Mughales
@@ -1922,19 +1938,6 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/Mr-NumberOne">
-				<img src="https://avatars.githubusercontent.com/u/88376540?s=72&u=0ec81b2c5f8afe8f588d5f9ab539e863ece7e852&v=4" width="24" alt="Avatar of Mr-NumberOne"> Mr-NumberOne
-			</a><br/>
-			Ahmed Maher Ali Al-Maqtari 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Yemen / Sana'a</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -3123,19 +3126,6 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 	<tr>
 		<td>233</td>
 		<td>
-			<a href="https://github.com/SADIQ12ALOTMI">
-				<img src="https://avatars.githubusercontent.com/u/78486332?s=72&u=4dadfc67fcbc5fa109e7d47486d40d7ec1eb7a4a&v=4" width="24" alt="Avatar of SADIQ12ALOTMI"> SADIQ12ALOTMI
-			</a><br/>
-			SADIQ12ALOTMI
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NO_ONE_AS_ME_">NO_ONE_AS_ME_</a></td>
-		<td>Yemen-sana,a</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
 			<a href="https://github.com/moatasem-alhilali">
 				<img src="https://avatars.githubusercontent.com/u/102373038?s=72&u=45503f2797b87607e06e5c8f36d936eea6dccc19&v=4" width="24" alt="Avatar of moatasem-alhilali"> moatasem-alhilali
 			</a><br/>
@@ -3144,6 +3134,19 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/SADIQ12ALOTMI">
+				<img src="https://avatars.githubusercontent.com/u/78486332?s=72&u=4dadfc67fcbc5fa109e7d47486d40d7ec1eb7a4a&v=4" width="24" alt="Avatar of SADIQ12ALOTMI"> SADIQ12ALOTMI
+			</a><br/>
+			SADIQ12ALOTMI
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NO_ONE_AS_ME_">NO_ONE_AS_ME_</a></td>
+		<td>Yemen-sana,a</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -5931,19 +5934,6 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 	<tr>
 		<td>449</td>
 		<td>
-			<a href="https://github.com/ecyemen">
-				<img src="https://avatars.githubusercontent.com/u/67257521?s=72&v=4" width="24" alt="Avatar of ecyemen"> ecyemen
-			</a><br/>
-			Ecommerce Yemen
-		</td>
-		<td>Ecommerce Yemen Co. Ltd.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Yemen</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>450</td>
-		<td>
 			<a href="https://github.com/7x5x">
 				<img src="https://avatars.githubusercontent.com/u/95053962?s=72&u=9be419cbff1647356837ed3498d7d8a5b74a1660&v=4" width="24" alt="Avatar of 7x5x"> 7x5x
 			</a><br/>
@@ -5952,6 +5942,19 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sana'a Yemen</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/ecyemen">
+				<img src="https://avatars.githubusercontent.com/u/67257521?s=72&v=4" width="24" alt="Avatar of ecyemen"> ecyemen
+			</a><br/>
+			Ecommerce Yemen
+		</td>
+		<td>Ecommerce Yemen Co. Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Yemen</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -6061,19 +6064,6 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/13202916251441262485">
-				<img src="https://avatars.githubusercontent.com/u/114783960?s=72&v=4" width="24" alt="Avatar of 13202916251441262485"> 13202916251441262485
-			</a><br/>
-			appear
-		</td>
-		<td>Mukalla </td>
-		<td>No Twitter Username</td>
-		<td>Bin Ayner st,Al Mukalka,Yemen</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
 			<a href="https://github.com/kerasan">
 				<img src="https://avatars.githubusercontent.com/u/18704566?s=72&v=4" width="24" alt="Avatar of kerasan"> kerasan
 			</a><br/>
@@ -6082,6 +6072,19 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yemen</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/13202916251441262485">
+				<img src="https://avatars.githubusercontent.com/u/114783960?s=72&v=4" width="24" alt="Avatar of 13202916251441262485"> 13202916251441262485
+			</a><br/>
+			appear
+		</td>
+		<td>Mukalla </td>
+		<td>No Twitter Username</td>
+		<td>Bin Ayner st,Al Mukalka,Yemen</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7556,19 +7559,6 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 	<tr>
 		<td>574</td>
 		<td>
-			<a href="https://github.com/khaledalbanna">
-				<img src="https://avatars.githubusercontent.com/u/38574791?s=72&v=4" width="24" alt="Avatar of khaledalbanna"> khaledalbanna
-			</a><br/>
-			Khaled Albanna
-		</td>
-		<td>Ybrd-yemen Bank </td>
-		<td>No Twitter Username</td>
-		<td>yemen</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
 			<a href="https://github.com/miyemen">
 				<img src="https://avatars.githubusercontent.com/u/112623949?s=72&u=f63e4e1dd08a43bd50e85acb6e34929ff27ec673&v=4" width="24" alt="Avatar of miyemen"> miyemen
 			</a><br/>
@@ -7577,6 +7567,19 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>Marketing Impact - Yemen<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sana`a, Yemen</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/khaledalbanna">
+				<img src="https://avatars.githubusercontent.com/u/38574791?s=72&v=4" width="24" alt="Avatar of khaledalbanna"> khaledalbanna
+			</a><br/>
+			Khaled Albanna
+		</td>
+		<td>Ybrd-yemen Bank </td>
+		<td>No Twitter Username</td>
+		<td>yemen</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8368,4 +8371,4 @@ There are `917 users`  in Yemen. You need at least `0 followers` to be on this l
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
