@@ -1,11 +1,14 @@
-# Top GitHub Users By Followers in Maldives [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+---
+title: Top GitHub Users By Followers in Maldives 
+---
+# Top GitHub Users By Followers in Maldives [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="24">](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `number of followers` of users in Maldives on `2024/1/29 10:22 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `number of followers` of users in Maldives on `2024/1/30 3:27 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -115,7 +118,7 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Frustraceans Llc </td>
 		<td>No Twitter Username</td>
 		<td>Male, Maldives</td>
-		<td>295</td>
+		<td>296</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -887,6 +890,19 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>61</td>
 		<td>
+			<a href="https://github.com/mnazaal">
+				<img src="https://avatars.githubusercontent.com/u/18580527?s=72&u=8426c8ab5ba75c817bc84bb77d8699cafc7060b7&v=4" width="24" alt="Avatar of mnazaal"> mnazaal
+			</a><br/>
+			Nazaal
+		</td>
+		<td>Aalto University </td>
+		<td><a href="https://twitter.com/mnazaaI">mnazaaI</a></td>
+		<td>Maldives</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
 			<a href="https://github.com/dhivehi">
 				<img src="https://avatars.githubusercontent.com/u/18715293?s=72&u=656cdfdcf7cc47d52cc207a9b84afab01e533393&v=4" width="24" alt="Avatar of dhivehi"> dhivehi
 			</a><br/>
@@ -898,7 +914,7 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/infosecjunky">
 				<img src="https://avatars.githubusercontent.com/u/909969?s=72&u=11f5cd8e310ab71853233ad9037d12b79257f3f7&v=4" width="24" alt="Avatar of infosecjunky"> infosecjunky
@@ -911,7 +927,7 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/ibnnajjaar">
 				<img src="https://avatars.githubusercontent.com/u/7188633?s=72&u=1bd3d71f2161d42958fffb51df0c3d7b770f8a95&v=4" width="24" alt="Avatar of ibnnajjaar"> ibnnajjaar
@@ -924,7 +940,7 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/aiman1717a">
 				<img src="https://avatars.githubusercontent.com/u/36910126?s=72&u=73b3ccb41486019a93e79d30f90142540a4000fb&v=4" width="24" alt="Avatar of aiman1717a"> aiman1717a
@@ -933,19 +949,6 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>Theeru Pvt Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Maldives</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/mnazaal">
-				<img src="https://avatars.githubusercontent.com/u/18580527?s=72&u=8426c8ab5ba75c817bc84bb77d8699cafc7060b7&v=4" width="24" alt="Avatar of mnazaal"> mnazaal
-			</a><br/>
-			Nazaal
-		</td>
-		<td>Aalto University </td>
-		<td><a href="https://twitter.com/mnazaaI">mnazaaI</a></td>
 		<td>Maldives</td>
 		<td>13</td>
 	</tr>
@@ -2408,19 +2411,6 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>178</td>
 		<td>
-			<a href="https://github.com/Jumail">
-				<img src="https://avatars.githubusercontent.com/u/7672055?s=72&u=2d7ee2b7bb7f1c27676d5b80b9feca7cf80d1c20&v=4" width="24" alt="Avatar of Jumail"> Jumail
-			</a><br/>
-			Jamm
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Male' Maldives</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
 			<a href="https://github.com/nihanali">
 				<img src="https://avatars.githubusercontent.com/u/71478269?s=72&v=4" width="24" alt="Avatar of nihanali"> nihanali
 			</a><br/>
@@ -2429,6 +2419,19 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>@raydiusmv </td>
 		<td><a href="https://twitter.com/nihanalii">nihanalii</a></td>
 		<td>Maldives</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Jumail">
+				<img src="https://avatars.githubusercontent.com/u/7672055?s=72&u=2d7ee2b7bb7f1c27676d5b80b9feca7cf80d1c20&v=4" width="24" alt="Avatar of Jumail"> Jumail
+			</a><br/>
+			Jamm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Male' Maldives</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -3623,4 +3626,4 @@ There are `576 users`  in Maldives. You need at least `0 followers` to be on thi
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
