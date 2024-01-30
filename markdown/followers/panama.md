@@ -1,11 +1,14 @@
-# Top GitHub Users By Followers in Panama [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+---
+title: Top GitHub Users By Followers in Panama 
+---
+# Top GitHub Users By Followers in Panama [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="24">](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panama">
 </a>
 
-The `number of followers` of users in Panama on `2024/1/30 1:01 AM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
+The `number of followers` of users in Panama on `2024/1/30 6:08 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -1069,6 +1072,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>75</td>
 		<td>
+			<a href="https://github.com/kevinknights29">
+				<img src="https://avatars.githubusercontent.com/u/74464814?s=72&u=a8ee066606882a0c8f73fee5e263a2d970d65b4e&v=4" width="24" alt="Avatar of kevinknights29"> kevinknights29
+			</a><br/>
+			Kevin Knights
+		</td>
+		<td>Dell Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Panama</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
 			<a href="https://github.com/Jcanotorr06">
 				<img src="https://avatars.githubusercontent.com/u/59259618?s=72&u=b4abf55d54640f25e7a2fb4dc2fc353aa878a73b&v=4" width="24" alt="Avatar of Jcanotorr06"> Jcanotorr06
 			</a><br/>
@@ -1080,7 +1096,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/atourino">
 				<img src="https://avatars.githubusercontent.com/u/13043?s=72&v=4" width="24" alt="Avatar of atourino"> atourino
@@ -1091,19 +1107,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Panama City, Panama</td>
 		<td>17</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/kevinknights29">
-				<img src="https://avatars.githubusercontent.com/u/74464814?s=72&u=a8ee066606882a0c8f73fee5e263a2d970d65b4e&v=4" width="24" alt="Avatar of kevinknights29"> kevinknights29
-			</a><br/>
-			Kevin Knights
-		</td>
-		<td>Dell Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Panama</td>
-		<td>16</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1953,6 +1956,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>143</td>
 		<td>
+			<a href="https://github.com/tapilew">
+				<img src="https://avatars.githubusercontent.com/u/86934099?s=72&u=3b81d99320045604858238c33859ae7153be7d88&v=4" width="24" alt="Avatar of tapilew"> tapilew
+			</a><br/>
+			Luis Tapia N.
+		</td>
+		<td>Student @ Utp </td>
+		<td><a href="https://twitter.com/tapilew">tapilew</a></td>
+		<td>Panama</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
 			<a href="https://github.com/captainsparrow10">
 				<img src="https://avatars.githubusercontent.com/u/62343905?s=72&u=195ee3190a73454b4dbe689f56b5496851787587&v=4" width="24" alt="Avatar of captainsparrow10"> captainsparrow10
 			</a><br/>
@@ -1964,7 +1980,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/kirill-terekhov">
 				<img src="https://avatars.githubusercontent.com/u/6803580?s=72&v=4" width="24" alt="Avatar of kirill-terekhov"> kirill-terekhov
@@ -1977,7 +1993,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/softd3v">
 				<img src="https://avatars.githubusercontent.com/u/16480452?s=72&u=a41e142ede156d0190ca41a9989a131ca85fd7db&v=4" width="24" alt="Avatar of softd3v"> softd3v
@@ -1990,7 +2006,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/jaimesbga">
 				<img src="https://avatars.githubusercontent.com/u/50469507?s=72&u=9128b691e93480047032c33aedb9a76c67c3426a&v=4" width="24" alt="Avatar of jaimesbga"> jaimesbga
@@ -2003,7 +2019,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/ecedenyo">
 				<img src="https://avatars.githubusercontent.com/u/2360081?s=72&v=4" width="24" alt="Avatar of ecedenyo"> ecedenyo
@@ -2016,7 +2032,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/JohnnyJamesNavarro">
 				<img src="https://avatars.githubusercontent.com/u/26759471?s=72&u=64900804e8f65dd5daf300d6cfdf187cd9b9e5d9&v=4" width="24" alt="Avatar of JohnnyJamesNavarro"> JohnnyJamesNavarro
@@ -2029,7 +2045,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/Sascha-Tech">
 				<img src="https://avatars.githubusercontent.com/u/20372662?s=72&u=76a7dd25b56531f08a5ccb421c5425019b477195&v=4" width="24" alt="Avatar of Sascha-Tech"> Sascha-Tech
@@ -2042,7 +2058,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/GabrielFrontDev">
 				<img src="https://avatars.githubusercontent.com/u/103856447?s=72&u=a2673d38bae9b5f5672ab71d4e56b7b1771ae319&v=4" width="24" alt="Avatar of GabrielFrontDev"> GabrielFrontDev
@@ -2055,7 +2071,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/blackkpearl">
 				<img src="https://avatars.githubusercontent.com/u/69696187?s=72&u=de1440ab553f2ec0dd759320b8180881195b76cc&v=4" width="24" alt="Avatar of blackkpearl"> blackkpearl
@@ -2068,7 +2084,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/JuanCCS">
 				<img src="https://avatars.githubusercontent.com/u/5272662?s=72&u=63157cd309ebfd3cbee9e118d34fdd1cc4ff253b&v=4" width="24" alt="Avatar of JuanCCS"> JuanCCS
@@ -2081,7 +2097,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/SuperElectron">
 				<img src="https://avatars.githubusercontent.com/u/11896926?s=72&u=ebc1534316d9f5369c9a300cbdeb4848995b8eea&v=4" width="24" alt="Avatar of SuperElectron"> SuperElectron
@@ -2094,7 +2110,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/fervarela28">
 				<img src="https://avatars.githubusercontent.com/u/3697180?s=72&u=057e48fe4c7d8f4bcb3d54cdcaded4126132ad11&v=4" width="24" alt="Avatar of fervarela28"> fervarela28
@@ -2107,7 +2123,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/coredumped">
 				<img src="https://avatars.githubusercontent.com/u/53845?s=72&u=5afe376b5d6b8508664b486e8ef77a4d0698ebdc&v=4" width="24" alt="Avatar of coredumped"> coredumped
@@ -2117,19 +2133,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Panama City, Panama</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/tapilew">
-				<img src="https://avatars.githubusercontent.com/u/86934099?s=72&u=3b81d99320045604858238c33859ae7153be7d88&v=4" width="24" alt="Avatar of tapilew"> tapilew
-			</a><br/>
-			Luis Tapia N.
-		</td>
-		<td>Student @ Utp </td>
-		<td><a href="https://twitter.com/tapilew">tapilew</a></td>
-		<td>Panama</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -5125,6 +5128,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>387</td>
 		<td>
+			<a href="https://github.com/jaimesoad">
+				<img src="https://avatars.githubusercontent.com/u/67212214?s=72&u=716ee8246c347b2f238ac1e3530602e02e504ae7&v=4" width="24" alt="Avatar of jaimesoad"> jaimesoad
+			</a><br/>
+			Jaime Acosta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Panama City, Panama</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
 			<a href="https://github.com/pahasara-ridmaka">
 				<img src="https://avatars.githubusercontent.com/u/50484252?s=72&u=3a95241eb5b2482c206a5119c8bc5667ecd7146d&v=4" width="24" alt="Avatar of pahasara-ridmaka"> pahasara-ridmaka
 			</a><br/>
@@ -5136,25 +5152,12 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/ficazam">
 				<img src="https://avatars.githubusercontent.com/u/62767203?s=72&u=ed8f7353f5efc5d476668dd55d9a4d2beb830792&v=4" width="24" alt="Avatar of ficazam"> ficazam
 			</a><br/>
 			Felipe Icaza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Panama City, Panama</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/jaimesoad">
-				<img src="https://avatars.githubusercontent.com/u/67212214?s=72&u=716ee8246c347b2f238ac1e3530602e02e504ae7&v=4" width="24" alt="Avatar of jaimesoad"> jaimesoad
-			</a><br/>
-			Jaime Acosta
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5372,19 +5375,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>406</td>
 		<td>
-			<a href="https://github.com/d3layd">
-				<img src="https://avatars.githubusercontent.com/u/42395324?s=72&u=925a1902833f2b4ff2558a56914547b91becd3c1&v=4" width="24" alt="Avatar of d3layd"> d3layd
-			</a><br/>
-			Dennis Layden
-		</td>
-		<td>Foolproof Labs </td>
-		<td><a href="https://twitter.com/d3layd">d3layd</a></td>
-		<td>Panama City Beach, Florida</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
 			<a href="https://github.com/saruman">
 				<img src="https://avatars.githubusercontent.com/u/813190?s=72&v=4" width="24" alt="Avatar of saruman"> saruman
 			</a><br/>
@@ -5393,6 +5383,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>Soft Media Development </td>
 		<td>No Twitter Username</td>
 		<td>Panama</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/d3layd">
+				<img src="https://avatars.githubusercontent.com/u/42395324?s=72&u=925a1902833f2b4ff2558a56914547b91becd3c1&v=4" width="24" alt="Avatar of d3layd"> d3layd
+			</a><br/>
+			Dennis Layden
+		</td>
+		<td>Foolproof Labs </td>
+		<td><a href="https://twitter.com/d3layd">d3layd</a></td>
+		<td>Panama City Beach, Florida</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -6568,19 +6571,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>498</td>
 		<td>
-			<a href="https://github.com/powerfulsaso">
-				<img src="https://avatars.githubusercontent.com/u/34785107?s=72&u=a4ada08a5f942f7a3fcb82fc44a92dd3d508ba3a&v=4" width="24" alt="Avatar of powerfulsaso"> powerfulsaso
-			</a><br/>
-			powerfulsaso
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Panama</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>499</td>
-		<td>
 			<a href="https://github.com/rolmos1990">
 				<img src="https://avatars.githubusercontent.com/u/20683623?s=72&u=3a85ae1963410a51704405a689662faf682f9d93&v=4" width="24" alt="Avatar of rolmos1990"> rolmos1990
 			</a><br/>
@@ -6588,6 +6578,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		</td>
 		<td>Goaly Inc </td>
 		<td><a href="https://twitter.com/goaly">goaly</a></td>
+		<td>Panama</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/powerfulsaso">
+				<img src="https://avatars.githubusercontent.com/u/34785107?s=72&u=a4ada08a5f942f7a3fcb82fc44a92dd3d508ba3a&v=4" width="24" alt="Avatar of powerfulsaso"> powerfulsaso
+			</a><br/>
+			powerfulsaso
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Panama</td>
 		<td>1</td>
 	</tr>
@@ -6776,19 +6779,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>514</td>
 		<td>
-			<a href="https://github.com/NineXYZ">
-				<img src="https://avatars.githubusercontent.com/u/66285369?s=72&u=4a1380ce96574907963d50d76f9514b2c438306e&v=4" width="24" alt="Avatar of NineXYZ"> NineXYZ
-			</a><br/>
-			ナイシ
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nine_sigma">nine_sigma</a></td>
-		<td>Panama</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
 			<a href="https://github.com/JoseM-Zhang">
 				<img src="https://avatars.githubusercontent.com/u/126712665?s=72&u=e1b87a0810f6f7180e920544a8d68c635f2f37ff&v=4" width="24" alt="Avatar of JoseM-Zhang"> JoseM-Zhang
 			</a><br/>
@@ -6796,6 +6786,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Panama</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/NineXYZ">
+				<img src="https://avatars.githubusercontent.com/u/66285369?s=72&u=4a1380ce96574907963d50d76f9514b2c438306e&v=4" width="24" alt="Avatar of NineXYZ"> NineXYZ
+			</a><br/>
+			ナイシ
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nine_sigma">nine_sigma</a></td>
 		<td>Panama</td>
 		<td>1</td>
 	</tr>
@@ -6945,19 +6948,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>527</td>
 		<td>
-			<a href="https://github.com/rodriguez-sosa">
-				<img src="https://avatars.githubusercontent.com/u/27388771?s=72&u=16d2c454078613c2ecebd5b20d2caeca3840f5c7&v=4" width="24" alt="Avatar of rodriguez-sosa"> rodriguez-sosa
-			</a><br/>
-			José Rodríguez Sosa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Panama</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>528</td>
-		<td>
 			<a href="https://github.com/aibanez29">
 				<img src="https://avatars.githubusercontent.com/u/29167693?s=72&v=4" width="24" alt="Avatar of aibanez29"> aibanez29
 			</a><br/>
@@ -6966,6 +6956,19 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>Intechideas </td>
 		<td>No Twitter Username</td>
 		<td>Panama City</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
+			<a href="https://github.com/rodriguez-sosa">
+				<img src="https://avatars.githubusercontent.com/u/27388771?s=72&u=16d2c454078613c2ecebd5b20d2caeca3840f5c7&v=4" width="24" alt="Avatar of rodriguez-sosa"> rodriguez-sosa
+			</a><br/>
+			José Rodríguez Sosa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Panama</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -9818,19 +9821,6 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 	<tr>
 		<td>748</td>
 		<td>
-			<a href="https://github.com/sthefannymmota">
-				<img src="https://avatars.githubusercontent.com/u/108945195?s=72&u=7d91494616a86f727b2dffc9ead4fa813c0aa00e&v=4" width="24" alt="Avatar of sthefannymmota"> sthefannymmota
-			</a><br/>
-			Sthefanny Mota
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Panama City </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>749</td>
-		<td>
 			<a href="https://github.com/enrique-rivera-baires-dev">
 				<img src="https://avatars.githubusercontent.com/u/90808737?s=72&u=37e16cbc7ad7b0904a9f04f1c8e8c5a207aae5e3&v=4" width="24" alt="Avatar of enrique-rivera-baires-dev"> enrique-rivera-baires-dev
 			</a><br/>
@@ -9842,7 +9832,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/soloposmenu">
 				<img src="https://avatars.githubusercontent.com/u/83898133?s=72&u=78689a0cd95bdedc978286eda58b912366cc75e6&v=4" width="24" alt="Avatar of soloposmenu"> soloposmenu
@@ -9855,7 +9845,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/Eriolp">
 				<img src="https://avatars.githubusercontent.com/u/4379124?s=72&u=12fbcc4edd55b7777d7defe31d8583e5a84d8ce3&v=4" width="24" alt="Avatar of Eriolp"> Eriolp
@@ -9868,7 +9858,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/tuliopa">
 				<img src="https://avatars.githubusercontent.com/u/321931?s=72&u=27550f6cdc0fc31f248791668c2023b3f72b0c99&v=4" width="24" alt="Avatar of tuliopa"> tuliopa
@@ -9881,7 +9871,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/emieevans">
 				<img src="https://avatars.githubusercontent.com/u/40321870?s=72&u=bc259a6032b446ee8d472cda90fd8eedbdb9d838&v=4" width="24" alt="Avatar of emieevans"> emieevans
@@ -9894,7 +9884,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/DevSantosPa">
 				<img src="https://avatars.githubusercontent.com/u/81706870?s=72&u=0a78b45bb8c19233eb2446baa439ad1b5aa74091&v=4" width="24" alt="Avatar of DevSantosPa"> DevSantosPa
@@ -9907,7 +9897,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/RunzWithScissors">
 				<img src="https://avatars.githubusercontent.com/u/7890210?s=72&v=4" width="24" alt="Avatar of RunzWithScissors"> RunzWithScissors
@@ -9920,7 +9910,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/TEV8118">
 				<img src="https://avatars.githubusercontent.com/u/16737592?s=72&u=2d7be557b39e4b8bf89d58cad52d3782bb295e3f&v=4" width="24" alt="Avatar of TEV8118"> TEV8118
@@ -9933,7 +9923,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/franciscogimeno">
 				<img src="https://avatars.githubusercontent.com/u/25434863?s=72&u=310a5357e38b17695c6ecc3e7b1ac8c0a3b1989f&v=4" width="24" alt="Avatar of franciscogimeno"> franciscogimeno
@@ -9946,7 +9936,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/jeremiassgg">
 				<img src="https://avatars.githubusercontent.com/u/40400198?s=72&v=4" width="24" alt="Avatar of jeremiassgg"> jeremiassgg
@@ -9959,7 +9949,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/cornelioroyer">
 				<img src="https://avatars.githubusercontent.com/u/6854412?s=72&u=20a71d1b3637c60ad210bb28cf0bc1d000c6433f&v=4" width="24" alt="Avatar of cornelioroyer"> cornelioroyer
@@ -9972,7 +9962,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/alchemesh">
 				<img src="https://avatars.githubusercontent.com/u/27002424?s=72&u=ce22325b4ab731e5221403c0767f5ac33eb37e93&v=4" width="24" alt="Avatar of alchemesh"> alchemesh
@@ -9985,7 +9975,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/niacubilla">
 				<img src="https://avatars.githubusercontent.com/u/60896546?s=72&u=b0eac89d6eeb42a5538b1d9be082833f8d68f8c9&v=4" width="24" alt="Avatar of niacubilla"> niacubilla
@@ -9998,7 +9988,7 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/myroslawa">
 				<img src="https://avatars.githubusercontent.com/u/36175910?s=72&v=4" width="24" alt="Avatar of myroslawa"> myroslawa
@@ -10084,4 +10074,4 @@ There are `871 users`  in Panama. You need at least `0 followers` to be on this 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
