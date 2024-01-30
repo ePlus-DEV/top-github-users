@@ -1,11 +1,14 @@
-# Top GitHub Users By Followers in Iceland [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+---
+title: Top GitHub Users By Followers in Iceland 
+---
+# Top GitHub Users By Followers in Iceland [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="24">](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `number of followers` of users in Iceland on `2024/1/29 7:43 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `number of followers` of users in Iceland on `2024/1/30 12:38 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -128,7 +131,7 @@ There are `909 users`  in Iceland. You need at least `2 followers` to be on this
 		<td>Tencent </td>
 		<td><a href="https://twitter.com/lss233_">lss233_</a></td>
 		<td>Iceland III</td>
-		<td>591</td>
+		<td>592</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -11846,19 +11849,6 @@ There are `909 users`  in Iceland. You need at least `2 followers` to be on this
 	<tr>
 		<td>904</td>
 		<td>
-			<a href="https://github.com/kiddiak">
-				<img src="https://avatars.githubusercontent.com/u/7880226?s=72&u=bc1ab0fbb9f5a7e90670abe935f9b8e5677738e4&v=4" width="24" alt="Avatar of kiddiak"> kiddiak
-			</a><br/>
-			Kristinn Kristinsson
-		</td>
-		<td>@antodigital </td>
-		<td>No Twitter Username</td>
-		<td>Iceland</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>905</td>
-		<td>
 			<a href="https://github.com/xorglub">
 				<img src="https://avatars.githubusercontent.com/u/25368117?s=72&u=c8b7e85c20287687272a35d41b9d323cb37ea407&v=4" width="24" alt="Avatar of xorglub"> xorglub
 			</a><br/>
@@ -11870,7 +11860,7 @@ There are `909 users`  in Iceland. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/sigurthors">
 				<img src="https://avatars.githubusercontent.com/u/31075118?s=72&u=9e1a74c0ee7479d072eacd05da2850fd85eca92a&v=4" width="24" alt="Avatar of sigurthors"> sigurthors
@@ -11883,7 +11873,7 @@ There are `909 users`  in Iceland. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/antab">
 				<img src="https://avatars.githubusercontent.com/u/1562637?s=72&v=4" width="24" alt="Avatar of antab"> antab
@@ -11891,6 +11881,19 @@ There are `909 users`  in Iceland. You need at least `2 followers` to be on this
 			Arnar Mar Sig
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iceland</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>907</td>
+		<td>
+			<a href="https://github.com/kiddiak">
+				<img src="https://avatars.githubusercontent.com/u/7880226?s=72&u=bc1ab0fbb9f5a7e90670abe935f9b8e5677738e4&v=4" width="24" alt="Avatar of kiddiak"> kiddiak
+			</a><br/>
+			Kristinn Kristinsson
+		</td>
+		<td>@antodigital </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>2</td>
@@ -11995,4 +11998,4 @@ There are `909 users`  in Iceland. You need at least `2 followers` to be on this
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
