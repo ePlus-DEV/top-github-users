@@ -1,16 +1,16 @@
-# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/blob/master/graph/749591754/small/week.png" height="24">](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/blob/master/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
-<a href="https://gayanvoice.github.io/top-github-users/index.html">
-	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
+<a href="https://top-github-users.eplus.dev">
+	<img align="right" width="400" src="https://github.com/ePlus.DEV/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/30 1:42 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/30 1:49 AM UTC`.
 
 This repository contains users `138 countries` and `674 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/ePlus-DEV/top-github-users/blob/main/config.json).
 
-Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
+Contribute to GitHub action [ePlus.DEV/top-github-users-action](https://github.com/ePlus.DEV/top-github-users-action). The project maintained by [ePlus.DEV](https://github.com/ePlus.DEV). Don't forget to follow him on [GitHub](https://github.com/ePlus.DEV), [Twitter](https://twitter.com/david), and [Website](https://eplus.dev/).
 
 <table>
 	<tr>
@@ -2081,4 +2081,4 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
