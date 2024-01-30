@@ -1,11 +1,14 @@
-# Top GitHub Users By Total Contributions in Andorra [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+---
+title: Top GitHub Users By Total Contributions in Andorra 
+---
+# Top GitHub Users By Total Contributions in Andorra [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749591754/small/week.png" height="24">](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/1/29 1:34 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/1/30 6:27 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -116,8 +119,8 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Pencil, Itamaesan & Superdata<br/></td>
 		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
 		<td>Andorra, Andorra La Vella</td>
-		<td>1795</td>
-		<td>6218</td>
+		<td>1798</td>
+		<td>6222</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +134,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>96</td>
-		<td>2293</td>
+		<td>2297</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +148,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>98</td>
-		<td>2106</td>
+		<td>2108</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +176,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>11</td>
-		<td>1963</td>
+		<td>1965</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -200,8 +203,8 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@leather-wallet </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>1619</td>
-		<td>1659</td>
+		<td>1627</td>
+		<td>1667</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -243,7 +246,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>359</td>
-		<td>1336</td>
+		<td>1337</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -271,7 +274,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>1197</td>
+		<td>1201</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,7 +288,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>1128</td>
+		<td>1135</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -326,8 +329,8 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@nibiruchain </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>257</td>
-		<td>1053</td>
+		<td>259</td>
+		<td>1057</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -369,7 +372,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>38</td>
-		<td>911</td>
+		<td>914</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -397,7 +400,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
-		<td>861</td>
+		<td>871</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -453,7 +456,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Ordino, Andorra</td>
 		<td>116</td>
-		<td>706</td>
+		<td>712</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -466,8 +469,8 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@minaprotocol </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>466</td>
-		<td>663</td>
+		<td>471</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -481,7 +484,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>17</td>
-		<td>653</td>
+		<td>654</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -494,8 +497,8 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@canonical </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>650</td>
-		<td>650</td>
+		<td>651</td>
+		<td>651</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -537,7 +540,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>134</td>
-		<td>567</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -649,7 +652,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/ph3t_">ph3t_</a></td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>330</td>
+		<td>331</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -733,7 +736,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Canillo, Andorra</td>
 		<td>3</td>
-		<td>210</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1018,6 +1021,20 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>66</td>
 		<td>
+			<a href="https://github.com/cdiazs00">
+				<img src="https://avatars.githubusercontent.com/u/132393517?s=72&v=4" width="24" alt="Avatar of cdiazs00"> cdiazs00
+			</a><br/>
+			Carlos Díaz Sánchez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramanet</td>
+		<td>50</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
 			<a href="https://github.com/mortegaj">
 				<img src="https://avatars.githubusercontent.com/u/16175986?s=72&v=4" width="24" alt="Avatar of mortegaj"> mortegaj
 			</a><br/>
@@ -1030,7 +1047,7 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/rjara001">
 				<img src="https://avatars.githubusercontent.com/u/1524045?s=72&v=4" width="24" alt="Avatar of rjara001"> rjara001
@@ -1042,20 +1059,6 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>49</td>
 		<td>49</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/cdiazs00">
-				<img src="https://avatars.githubusercontent.com/u/132393517?s=72&v=4" width="24" alt="Avatar of cdiazs00"> cdiazs00
-			</a><br/>
-			Carlos Díaz Sánchez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramanet</td>
-		<td>48</td>
-		<td>48</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -2433,4 +2436,4 @@ There are `317 users`  in Andorra. You need at least `0 followers` to be on this
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
