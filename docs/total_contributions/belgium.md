@@ -8449,7 +8449,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 		</td>
 		<td>@optis </td>
 		<td><a href="https://twitter.com/g00glen00b">g00glen00b</a></td>
-		<td>import {Antwerp} from 'BE';</td>
+		<td>Antwerp</td>
 		<td>93</td>
 		<td>93</td>
 	</tr>

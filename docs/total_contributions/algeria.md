@@ -3238,7 +3238,7 @@ There are `973 users`  in Algeria. You need at least `9 followers` to be on this
 			<a href="https://github.com/ViNoS-ab">
 				<img src="https://avatars.githubusercontent.com/u/61888585?s=72&u=5b7ec3e1c4f26b73531e48b4db11548fa0534631&v=4" width="24" alt="Avatar of ViNoS-ab"/> ViNoS-ab
 			</a><br/>
-			${ṽïηøṧ}
+			ṽïηøṧ
 		</td>
 		<td>@gdgalgiers </td>
 		<td>No Twitter Username</td>
@@ -3280,7 +3280,7 @@ There are `973 users`  in Algeria. You need at least `9 followers` to be on this
 			<a href="https://github.com/iMrDJAi">
 				<img src="https://avatars.githubusercontent.com/u/42304709?s=72&v=4" width="24" alt="Avatar of iMrDJAi"/> iMrDJAi
 			</a><br/>
-			${Mr.DJA}
+			Mr.DJA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
