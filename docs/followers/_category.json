@@ -1,9 +1,0 @@
-{
-  "label": "Followers",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Top GitHub Users By Public Contributions",
-    "slug": "followers"
-  }
-}
