@@ -11,9 +11,9 @@ slug: /
 	<img align="right" width="400" src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country"/>
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 4:12 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 4:33 PM UTC`.
 
-This repository contains users `28 countries` and `193 cities`. 
+This repository contains users `27 countries` and `185 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/ePlus-DEV/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action). The project maintained by [ePlus-DEV](https://github.com/ePlus-DEV). Don't forget to follow him on [GitHub](https://github.com/ePlus-DEV), [Twitter](https://twitter.com/david_nguyen94), and [Website](https://eplus.dev/).
@@ -328,23 +328,6 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 			<code>Tijuana</code> 
 			<code>Monterrey</code> 
 			<code>Mexicali</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/netherlands.md">
-				Netherlands
-			</a>
-		</td>
-		<td>
-			<code>Amsterdam</code> 
-			<code>Rotterdam</code> 
-			<code>The-hague</code> 
-			<code>Utrecht</code> 
-			<code>Eindhoven</code> 
-			<code>Groningen</code> 
-			<code>Tilburg</code> 
-			<code>Almere</code> 
 		</td>
 	</tr>
 	<tr>
