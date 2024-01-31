@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktop_github_users=self.webpackChunktop_github_users||[]).push([[3665],{354:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/vi/blog/tags/hola","allTagsPath":"/vi/blog/tags","count":1,"unlisted":false}')}}]);
