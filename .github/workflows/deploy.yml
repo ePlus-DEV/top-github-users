@@ -4,8 +4,11 @@ on:
   #   push:
   #     branches:
   #       - "main"
-  schedule:
-    - cron: "*/30 * * * *"
+  # schedule:
+  #   - cron: "*/30 * * * *"
+  workflow_run:
+    workflows: ["Top GitHub Users"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
