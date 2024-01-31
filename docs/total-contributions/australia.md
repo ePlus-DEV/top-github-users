@@ -59,42 +59,42 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 		</td>
 		<td>
 			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://t.me/share/url?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md&text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://vk.com/share.php?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
 			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
 	</tr>
@@ -12705,42 +12705,42 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 		</td>
 		<td>
 			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://t.me/share/url?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md&text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://vk.com/share.php?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
 			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
-				<img src="https://github.com/ePlus-DEV/top-github-users-action/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
 	</tr>
