@@ -8957,7 +8957,7 @@ There are `990 users`  in Egypt. You need at least `48 followers` to be on this 
 		</td>
 		<td>University Of Science And<br/>Technology,<br/>Zewail<br/>City<br/></td>
 		<td><a href="https://twitter.com/abs_waleedm">abs_waleedm</a></td>
-		<td>Cairo <> Alexandria, Egypt</td>
+		<td>Cairo - Alexandria, Egypt</td>
 		<td>62</td>
 	</tr>
 	<tr>

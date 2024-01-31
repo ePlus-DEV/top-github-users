@@ -6166,7 +6166,7 @@ There are `982 users`  in Portugal. You need at least `61 followers` to be on th
 		</td>
 		<td>@c4dm </td>
 		<td><a href="https://twitter.com/umpedronosapato">umpedronosapato</a></td>
-		<td>London <> Porto</td>
+		<td>London - Porto</td>
 		<td>120</td>
 		<td>379</td>
 	</tr>

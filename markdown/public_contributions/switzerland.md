@@ -624,7 +624,7 @@ There are `900 users`  in Switzerland. You need at least `74 followers` to be on
 		</td>
 		<td>@socketsupply </td>
 		<td><a href="https://twitter.com/josephwerle">josephwerle</a></td>
-		<td>NYC <> Geneva</td>
+		<td>NYC - Geneva</td>
 		<td>1828</td>
 	</tr>
 	<tr>

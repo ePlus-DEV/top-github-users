@@ -2505,7 +2505,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/abuseofnotation">
 				<img src="https://avatars.githubusercontent.com/u/4872512?s=72&u=b70795f1d4e356aeae0382d280c641e97fb912e0&v=4" width="24" alt="Avatar of abuseofnotation"> abuseofnotation
 			</a><br/>
-			<>
+			-
 		</td>
 		<td>Open To Work </td>
 		<td><a href="https://twitter.com/alexanderkatt">alexanderkatt</a></td>
