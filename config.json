@@ -15,7 +15,6 @@
       { "country":  "italy", "geoName": "Italy", "cities": ["rome", "venice", "florence", "turin", "milan", "naples", "bologna", "genoa"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" },
       { "country":  "japan", "geoName": "Japan", "cities": ["tokyo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" },
       { "country":  "mexico", "geoName": "Mexico", "cities": ["mexico-city", "guadalajara", "puebla", "ciudad-juárez", "tijuana", "monterrey", "mexicali"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" },
-      { "country":  "netherlands", "geoName": "Netherlands", "cities": ["amsterdam", "rotterdam", "the-hague", "utrecht", "eindhoven", "groningen", "tilburg", "almere"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" },
       { "country":  "poland", "geoName": "Poland", "cities": ["warsaw", "kraków", "łódź", "wrocław", "poznań", "gdansk", "szczecin", "bydgoszcz"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
       { "country":  "russia", "geoName": "Russia", "cities": ["moscow", "saint-petersburg", "yekaterinburg", "novosibirsk", "kazan", "omsk", "volgograd", "chelyabinsk", "krasnoyarsk"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" },
       { "country":  "singapore", "geoName": "Singapore", "cities": ["singapore"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" },
