@@ -11441,4 +11441,3 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
 - Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- Code - [MIT](./LICENSE) © [David Nguyen](https://github.com/hoangsvit)
