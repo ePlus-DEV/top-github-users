@@ -4,11 +4,8 @@ on:
   #   push:
   #     branches:
   #       - "main"
-  workflow_run:
-    workflows: ["Top GitHub Users"]
-    types: [completed]
-  # Review gh actions docs if you want to further define triggers, paths, etc
-  # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+  schedule:
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
