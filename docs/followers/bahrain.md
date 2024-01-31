@@ -465,7 +465,7 @@ There are `890 users`  in Bahrain. You need at least `0 followers` to be on this
 			<a href="https://github.com/a7md">
 				<img src="https://avatars.githubusercontent.com/u/64811467?s=72&u=948984c3e4431161ef974a2c25e383fb9026a001&v=4" width="24" alt="Avatar of a7md"/> a7md
 			</a><br/>
-			{ahmed}
+			ahmed
 		</td>
 		<td>Dokan It Sa </td>
 		<td>No Twitter Username</td>
