@@ -690,7 +690,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 		</td>
 		<td>@google Brain Zürich </td>
 		<td>No Twitter Username</td>
-		<td><3 Belgium, Switzerland</td>
+		<td>Belgium, Switzerland</td>
 		<td>533</td>
 	</tr>
 	<tr>

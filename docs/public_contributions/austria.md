@@ -168,7 +168,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Gregor Mitscha-Baude
 		</td>
-		<td>O(1) Labs @o1-labs <br/></td>
+		<td>O(1) Labs o1-labs <br/></td>
 		<td><a href="https://twitter.com/mitschabaude">mitschabaude</a></td>
 		<td>Vienna, Austria</td>
 		<td>4368</td>
@@ -207,7 +207,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christoph Wurst
 		</td>
-		<td>@nextcloud-gmbh </td>
+		<td>nextcloud-gmbh </td>
 		<td><a href="https://twitter.com/ChristophWurst">ChristophWurst</a></td>
 		<td>Austria</td>
 		<td>3796</td>
@@ -298,7 +298,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Markus Unterwaditzer
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td><a href="https://twitter.com/untitaker">untitaker</a></td>
 		<td>Vienna, Austria</td>
 		<td>2447</td>
@@ -402,7 +402,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Philipp Spiess
 		</td>
-		<td>@sourcegraph </td>
+		<td>sourcegraph </td>
 		<td><a href="https://twitter.com/PhilippSpiess">PhilippSpiess</a></td>
 		<td>Vienna, Austria</td>
 		<td>2167</td>
@@ -415,7 +415,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Viktor Hofer
 		</td>
-		<td>@microsoft </td>
+		<td>microsoft </td>
 		<td><a href="https://twitter.com/ViktorHofer">ViktorHofer</a></td>
 		<td>Austria, Europe</td>
 		<td>2108</td>
@@ -428,7 +428,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Karl Horky
 		</td>
-		<td>@upleveled </td>
+		<td>upleveled </td>
 		<td><a href="https://twitter.com/karlhorky">karlhorky</a></td>
 		<td>Vienna</td>
 		<td>2071</td>
@@ -441,7 +441,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Arpad Borsos
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>1991</td>
@@ -467,7 +467,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Schranz
 		</td>
-		<td>Sulu Gmbh (@sulu) </td>
+		<td>Sulu Gmbh (sulu) </td>
 		<td><a href="https://twitter.com/alex_s_">alex_s_</a></td>
 		<td>Dornbirn, Austria</td>
 		<td>1890</td>
@@ -480,7 +480,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Luca Forstner
 		</td>
-		<td>@getsentry (sentry.io) </td>
+		<td>getsentry (sentry.io) </td>
 		<td><a href="https://twitter.com/LucaForstner">LucaForstner</a></td>
 		<td>Vienna, Austria</td>
 		<td>1887</td>
@@ -493,7 +493,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Paul Natsuo Kishimoto
 		</td>
-		<td>International Institute For Applied<br/>Systems<br/>Analysis<br/>@iiasa<br/></td>
+		<td>International Institute For Applied<br/>Systems<br/>Analysis<br/>iiasa<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vienna, AT</td>
 		<td>1782</td>
@@ -558,7 +558,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christian Nagel
 		</td>
-		<td>@cninnovation  </td>
+		<td>cninnovation  </td>
 		<td><a href="https://twitter.com/christiannagel">christiannagel</a></td>
 		<td>Austria</td>
 		<td>1666</td>
@@ -597,7 +597,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jens W. Klein
 		</td>
-		<td>Klein & Partner Kg<br/>And<br/><br/>@bluedynamics<br/><br/></td>
+		<td>Klein & Partner Kg<br/>And<br/><br/>bluedynamics<br/><br/></td>
 		<td><a href="https://twitter.com/yenzenz">yenzenz</a></td>
 		<td>Innsbruck, Austria, Europe</td>
 		<td>1580</td>
@@ -610,7 +610,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			No Name
 		</td>
-		<td>Matrix @1fexd:matrix.org, Discord 1fexd<br/></td>
+		<td>Matrix 1fexd:matrix.org, Discord 1fexd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>1547</td>
@@ -636,7 +636,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alan Hamlett
 		</td>
-		<td>@wakatime </td>
+		<td>wakatime </td>
 		<td><a href="https://twitter.com/alanhamlett">alanhamlett</a></td>
 		<td>Vienna, Austria </td>
 		<td>1518</td>
@@ -662,7 +662,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Köplinger
 		</td>
-		<td>@microsoft </td>
+		<td>microsoft </td>
 		<td><a href="https://twitter.com/akoeplinger">akoeplinger</a></td>
 		<td>Austria</td>
 		<td>1485</td>
@@ -675,7 +675,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Marc Rousavy
 		</td>
-		<td>Ceo At @margelo </td>
+		<td>Ceo At margelo </td>
 		<td><a href="https://twitter.com/mrousavy">mrousavy</a></td>
 		<td>Vienna, Austria</td>
 		<td>1482</td>
@@ -714,7 +714,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christoph Pader
 		</td>
-		<td>@margelo </td>
+		<td>margelo </td>
 		<td><a href="https://twitter.com/ChristophPader">ChristophPader</a></td>
 		<td>Vienna, Austria</td>
 		<td>1456</td>
@@ -727,7 +727,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michi Hoffmann
 		</td>
-		<td>@getsentry </td>
+		<td>getsentry </td>
 		<td><a href="https://twitter.com/cleptric">cleptric</a></td>
 		<td>Vienna, Austria</td>
 		<td>1454</td>
@@ -740,7 +740,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alex Kirk
 		</td>
-		<td>@automattic  </td>
+		<td>automattic  </td>
 		<td><a href="https://twitter.com/akirk">akirk</a></td>
 		<td>Vienna, Austria</td>
 		<td>1425</td>
@@ -792,7 +792,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Kevin Papst
 		</td>
-		<td>@kimai </td>
+		<td>kimai </td>
 		<td><a href="https://twitter.com/keleo">keleo</a></td>
 		<td>Austria, Vienna</td>
 		<td>1324</td>
@@ -818,7 +818,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Oliver Zehentleitner
 		</td>
-		<td>@lucit-systems-and-d </td>
+		<td>lucit-systems-and-d </td>
 		<td><a href="https://twitter.com/unicorn_oz">unicorn_oz</a></td>
 		<td>Vienna, Austria</td>
 		<td>1316</td>
@@ -857,7 +857,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Miroslav Jonaš
 		</td>
-		<td>@nrwl </td>
+		<td>nrwl </td>
 		<td><a href="https://twitter.com/meeroslav">meeroslav</a></td>
 		<td>Vienna, Austria</td>
 		<td>1283</td>
@@ -909,7 +909,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Eckert
 		</td>
-		<td>@hashicorp </td>
+		<td>hashicorp </td>
 		<td><a href="https://twitter.com/thomaseckert_">thomaseckert_</a></td>
 		<td>Vienna, VA</td>
 		<td>1155</td>
@@ -935,7 +935,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Aydin Hassan
 		</td>
-		<td>@shopware </td>
+		<td>shopware </td>
 		<td><a href="https://twitter.com/aydin_h">aydin_h</a></td>
 		<td>Vienna, Austria </td>
 		<td>1141</td>
@@ -1065,7 +1065,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			NullDev // Chris
 		</td>
-		<td>Nulldev @nulldevco  </td>
+		<td>Nulldev nulldevco  </td>
 		<td><a href="https://twitter.com/null_ping">null_ping</a></td>
 		<td>Austria</td>
 		<td>992</td>
@@ -1091,7 +1091,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Florian Haas
 		</td>
-		<td>@citynetwork, @hastexo </td>
+		<td>citynetwork, hastexo </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>981</td>
@@ -1117,7 +1117,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Bromley
 		</td>
-		<td>@vendure-ecommerce  </td>
+		<td>vendure-ecommerce  </td>
 		<td><a href="https://twitter.com/michlbrmly">michlbrmly</a></td>
 		<td>Vienna, Austria</td>
 		<td>962</td>
@@ -1130,7 +1130,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Roman Khavronenko
 		</td>
-		<td>@victoriametrics </td>
+		<td>victoriametrics </td>
 		<td><a href="https://twitter.com/hagen1778">hagen1778</a></td>
 		<td>Vienna</td>
 		<td>958</td>
@@ -1169,7 +1169,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Anton Pirker
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>946</td>
@@ -1182,7 +1182,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Hanno J. Gödecke
 		</td>
-		<td>@margelo </td>
+		<td>margelo </td>
 		<td><a href="https://twitter.com/hanno_jg">hanno_jg</a></td>
 		<td>Vienna, AT</td>
 		<td>922</td>
@@ -1247,7 +1247,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Stefan Dej
 		</td>
-		<td>@mainsail-crew </td>
+		<td>mainsail-crew </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>879</td>
@@ -1325,7 +1325,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jan Michael Auer
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>844</td>
@@ -1429,7 +1429,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Raphael Mitsch
 		</td>
-		<td>@explosion  </td>
+		<td>explosion  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>806</td>
@@ -1455,7 +1455,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Rashed
 		</td>
-		<td>@localstack </td>
+		<td>localstack </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>797</td>
@@ -1572,7 +1572,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Daniils Petrovs
 		</td>
-		<td>@platogo </td>
+		<td>platogo </td>
 		<td><a href="https://twitter.com/DaniruKun">DaniruKun</a></td>
 		<td>Vienna, Austria</td>
 		<td>732</td>
@@ -1585,7 +1585,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Rausch
 		</td>
-		<td>@localstack @cognitivexr </td>
+		<td>localstack cognitivexr </td>
 		<td><a href="https://twitter.com/thrauat">thrauat</a></td>
 		<td>Vienna, Austria</td>
 		<td>721</td>
@@ -1702,7 +1702,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Patrick Favre
 		</td>
-		<td>@senacor  </td>
+		<td>senacor  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>691</td>
@@ -1728,7 +1728,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Roman Zavarnitsyn
 		</td>
-		<td>@getsentry </td>
+		<td>getsentry </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>688</td>
@@ -1858,7 +1858,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Philip Langer
 		</td>
-		<td>@eclipsesource </td>
+		<td>eclipsesource </td>
 		<td><a href="https://twitter.com/PhilChip23">PhilChip23</a></td>
 		<td>Vienna, Austria</td>
 		<td>652</td>
@@ -1884,7 +1884,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christopher Ehrlich
 		</td>
-		<td>@axiomhq </td>
+		<td>axiomhq </td>
 		<td><a href="https://twitter.com/ccccjjjjeeee">ccccjjjjeeee</a></td>
 		<td>Vienna, Austria</td>
 		<td>647</td>
@@ -1910,7 +1910,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Lukas Prochazka
 		</td>
-		<td>@upleveled </td>
+		<td>upleveled </td>
 		<td><a href="https://twitter.com/LucaVanFeinsten">LucaVanFeinsten</a></td>
 		<td>Vienna</td>
 		<td>642</td>
@@ -1923,7 +1923,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Armin Ruech
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>639</td>
@@ -1962,7 +1962,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ricki Hirner
 		</td>
-		<td>@bitfireat </td>
+		<td>bitfireat </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>624</td>
@@ -2014,7 +2014,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Georg Ringer
 		</td>
-		<td>Studio Mitte @studiomitte </td>
+		<td>Studio Mitte studiomitte </td>
 		<td><a href="https://twitter.com/georg_ringer">georg_ringer</a></td>
 		<td>Linz</td>
 		<td>610</td>
@@ -2040,7 +2040,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Daniel Griesser
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td><a href="https://twitter.com/DanielGri">DanielGri</a></td>
 		<td>Vienna</td>
 		<td>603</td>
@@ -2105,7 +2105,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jakob Hofer
 		</td>
-		<td>Htl Leonding | @dynatrace<br/></td>
+		<td>Htl Leonding | dynatrace<br/></td>
 		<td><a href="https://twitter.com/_SIM_YT">_SIM_YT</a></td>
 		<td>Austria</td>
 		<td>595</td>
@@ -2183,7 +2183,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Riedl Kevin, Bsc.
 		</td>
-		<td>@wavect.io </td>
+		<td>wavect.io </td>
 		<td><a href="https://twitter.com/wavect_eth">wavect_eth</a></td>
 		<td>Innsbruck, Tirol, Austria</td>
 		<td>566</td>
@@ -2196,7 +2196,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Josef Eisl
 		</td>
-		<td>@oracle Labs </td>
+		<td>oracle Labs </td>
 		<td><a href="https://twitter.com/zapstercc">zapstercc</a></td>
 		<td>Linz/Austria</td>
 		<td>559</td>
@@ -2222,7 +2222,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Koray Koska
 		</td>
-		<td>@vitracash  </td>
+		<td>vitracash  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>554</td>
@@ -2339,7 +2339,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Maximilian Hesselbarth
 		</td>
-		<td>International Institute For Applied<br/>Systems<br/>Analysis<br/>@iiasa<br/></td>
+		<td>International Institute For Applied<br/>Systems<br/>Analysis<br/>iiasa<br/></td>
 		<td><a href="https://twitter.com/MHKHesselbarth">MHKHesselbarth</a></td>
 		<td>Vienna, Austria</td>
 		<td>514</td>
@@ -2378,7 +2378,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jan Müller
 		</td>
-		<td>@senacor </td>
+		<td>senacor </td>
 		<td><a href="https://twitter.com/DerYeger">DerYeger</a></td>
 		<td>Vienna, Austria</td>
 		<td>505</td>
@@ -2404,7 +2404,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Anton Ovchinnikov
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>501</td>
@@ -2417,7 +2417,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ennio Visconti
 		</td>
-		<td>@trust-cps-group  </td>
+		<td>trust-cps-group  </td>
 		<td><a href="https://twitter.com/ennioVisco">ennioVisco</a></td>
 		<td>Vienna, Austria</td>
 		<td>499</td>
@@ -2508,7 +2508,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Julian Rubisch
 		</td>
-		<td>@minthesize </td>
+		<td>minthesize </td>
 		<td><a href="https://twitter.com/julian_rubisch">julian_rubisch</a></td>
 		<td>Vienna, Austria</td>
 		<td>488</td>
@@ -2573,7 +2573,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Lisi Linhart
 		</td>
-		<td>@storyblok </td>
+		<td>storyblok </td>
 		<td><a href="https://twitter.com/lisi_linhart">lisi_linhart</a></td>
 		<td>Salzburg</td>
 		<td>484</td>
@@ -2638,7 +2638,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Tino Hager
 		</td>
-		<td>@nager </td>
+		<td>nager </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>465</td>
@@ -2703,7 +2703,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Bruno Paulino
 		</td>
-		<td>Tech Lead @n26 </td>
+		<td>Tech Lead n26 </td>
 		<td><a href="https://twitter.com/bpaulino0">bpaulino0</a></td>
 		<td>Vienna, Austria</td>
 		<td>448</td>
@@ -2768,7 +2768,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mathieu Gravey
 		</td>
-		<td>@igf-oeaw | Austrian Academy<br/>Of<br/>Sciences<br/>-<br/>Institute<br/>For<br/>Interdisciplinary<br/>Mountain<br/>Research<br/></td>
+		<td>igf-oeaw | Austrian Academy<br/>Of<br/>Sciences<br/>-<br/>Institute<br/>For<br/>Interdisciplinary<br/>Mountain<br/>Research<br/></td>
 		<td><a href="https://twitter.com/mathieuGravey">mathieuGravey</a></td>
 		<td>Innsbruck</td>
 		<td>422</td>
@@ -2807,7 +2807,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Anto Subash
 		</td>
-		<td>@iiasa </td>
+		<td>iiasa </td>
 		<td><a href="https://twitter.com/antosubash">antosubash</a></td>
 		<td>Vienna, Austria</td>
 		<td>416</td>
@@ -2859,7 +2859,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Georg Gadinger
 		</td>
-		<td>@runtastic </td>
+		<td>runtastic </td>
 		<td>No Twitter Username</td>
 		<td>Linz, Austria</td>
 		<td>414</td>
@@ -2911,7 +2911,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christian Köberl
 		</td>
-		<td>Porsche Informatik @porscheinformatik </td>
+		<td>Porsche Informatik porscheinformatik </td>
 		<td><a href="https://twitter.com/derkoe">derkoe</a></td>
 		<td>Salzburg, Austria</td>
 		<td>409</td>
@@ -2963,7 +2963,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin Jung
 		</td>
-		<td>@iiasa  </td>
+		<td>iiasa  </td>
 		<td><a href="https://twitter.com/Martin_Ecology">Martin_Ecology</a></td>
 		<td>Vienna</td>
 		<td>404</td>
@@ -2989,7 +2989,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jürgen Etzlstorfer
 		</td>
-		<td>@microsoft </td>
+		<td>microsoft </td>
 		<td><a href="https://twitter.com/jetzlstorfer">jetzlstorfer</a></td>
 		<td>Austria</td>
 		<td>399</td>
@@ -3041,7 +3041,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Walter Rafelsberger
 		</td>
-		<td>@elastic </td>
+		<td>elastic </td>
 		<td><a href="https://twitter.com/walterra">walterra</a></td>
 		<td>Austria</td>
 		<td>392</td>
@@ -3080,7 +3080,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Andreas Grabner
 		</td>
-		<td>@dynatrace  </td>
+		<td>dynatrace  </td>
 		<td><a href="https://twitter.com/grabnerandi">grabnerandi</a></td>
 		<td>Linz, Austria</td>
 		<td>385</td>
@@ -3119,7 +3119,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Adam Serafin
 		</td>
-		<td>@luxonis  </td>
+		<td>luxonis  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>379</td>
@@ -3158,7 +3158,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			José Fernando Höwer Barbosa
 		</td>
-		<td>@upleveled </td>
+		<td>upleveled </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>375</td>
@@ -3210,7 +3210,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Miklós Koren
 		</td>
-		<td>@ceumicrodata And @ceu-economics-and-b <br/></td>
+		<td>ceumicrodata And ceu-economics-and-b <br/></td>
 		<td><a href="https://twitter.com/korenmiklos">korenmiklos</a></td>
 		<td>Vienna</td>
 		<td>368</td>
@@ -3275,7 +3275,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Troger
 		</td>
-		<td>@runtastic </td>
+		<td>runtastic </td>
 		<td>No Twitter Username</td>
 		<td>Puchenau, Austria</td>
 		<td>363</td>
@@ -3288,7 +3288,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Erik Unger
 		</td>
-		<td>@domonda  </td>
+		<td>domonda  </td>
 		<td><a href="https://twitter.com/ungerik">ungerik</a></td>
 		<td>Vienna, Austria</td>
 		<td>350</td>
@@ -3301,7 +3301,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Johann Petrak
 		</td>
-		<td>@sheffieldnlp, @gatenlp, @ofai </td>
+		<td>sheffieldnlp, gatenlp, ofai </td>
 		<td><a href="https://twitter.com/johann_p">johann_p</a></td>
 		<td>Vienna, AT and Sheffield, UK</td>
 		<td>350</td>
@@ -3587,7 +3587,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Vadim Smakhtin
 		</td>
-		<td>@sovereign-nature </td>
+		<td>sovereign-nature </td>
 		<td><a href="https://twitter.com/vadim_smakhtin">vadim_smakhtin</a></td>
 		<td>Innsbruck</td>
 		<td>317</td>
@@ -3730,7 +3730,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Werner Robitza
 		</td>
-		<td>@aveq-research  </td>
+		<td>aveq-research  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>303</td>
@@ -3743,7 +3743,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			David Hellmann
 		</td>
-		<td>@dynatrace  </td>
+		<td>dynatrace  </td>
 		<td><a href="https://twitter.com/davidhellmann">davidhellmann</a></td>
 		<td>Linz</td>
 		<td>300</td>
@@ -3821,7 +3821,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Köppl
 		</td>
-		<td>@iteratec </td>
+		<td>iteratec </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>285</td>
@@ -3847,7 +3847,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alex Hirsch
 		</td>
-		<td>@ph3at  </td>
+		<td>ph3at  </td>
 		<td>No Twitter Username</td>
 		<td>Innsbruck</td>
 		<td>282</td>
@@ -3860,7 +3860,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mario Kahlhofer
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td><a href="https://twitter.com/blu3r4y_at">blu3r4y_at</a></td>
 		<td>Linz, Austria</td>
 		<td>281</td>
@@ -3899,7 +3899,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Chris Hofstaedtler
 		</td>
-		<td>@deduktiva </td>
+		<td>deduktiva </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>270</td>
@@ -4016,7 +4016,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin Leitner-Ankerl
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td><a href="https://twitter.com/sunitram">sunitram</a></td>
 		<td>Altenberg bei Linz, Austria</td>
 		<td>259</td>
@@ -4042,7 +4042,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Gerhard Stöbich
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>258</td>
@@ -4250,7 +4250,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mario Guggenberger
 		</td>
-		<td>@bitmovin </td>
+		<td>bitmovin </td>
 		<td>No Twitter Username</td>
 		<td>Klagenfurt, Austria</td>
 		<td>229</td>
@@ -4276,7 +4276,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christian Neumüller
 		</td>
-		<td>@dynatrace  </td>
+		<td>dynatrace  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>228</td>
@@ -4289,7 +4289,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Manfred Kaiser
 		</td>
-		<td>@ssh-mitm </td>
+		<td>ssh-mitm </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>228</td>
@@ -4432,7 +4432,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Hirner
 		</td>
-		<td>@moonvision  </td>
+		<td>moonvision  </td>
 		<td><a href="https://twitter.com/cybertreiber">cybertreiber</a></td>
 		<td>Vienna</td>
 		<td>213</td>
@@ -4471,7 +4471,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mario Uher
 		</td>
-		<td>@yodeltalk  </td>
+		<td>yodeltalk  </td>
 		<td><a href="https://twitter.com/ream88">ream88</a></td>
 		<td>Linz, Austria</td>
 		<td>211</td>
@@ -4523,7 +4523,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin
 		</td>
-		<td>@merit-circle </td>
+		<td>merit-circle </td>
 		<td><a href="https://twitter.com/xtools_">xtools_</a></td>
 		<td>Vienna, Austria</td>
 		<td>209</td>
@@ -4627,7 +4627,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Marko Denic
 		</td>
-		<td>@webideenreich </td>
+		<td>webideenreich </td>
 		<td><a href="https://twitter.com/denicmarko">denicmarko</a></td>
 		<td>Austria</td>
 		<td>200</td>
@@ -4640,7 +4640,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Fellinger
 		</td>
-		<td>@grodaus </td>
+		<td>grodaus </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>200</td>
@@ -4705,7 +4705,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Diener
 		</td>
-		<td>Founder @gomogi | Head<br/>Of<br/>Development<br/>Strucinspect<br/></td>
+		<td>Founder gomogi | Head<br/>Of<br/>Development<br/>Strucinspect<br/></td>
 		<td><a href="https://twitter.com/spatialmounty">spatialmounty</a></td>
 		<td>Klagenfurt, Austria</td>
 		<td>191</td>
@@ -4796,7 +4796,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Tobias Lins
 		</td>
-		<td>@vercel </td>
+		<td>vercel </td>
 		<td><a href="https://twitter.com/linstobias">linstobias</a></td>
 		<td>Austria</td>
 		<td>181</td>
@@ -4913,7 +4913,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			mario
 		</td>
-		<td>@netconomy </td>
+		<td>netconomy </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>175</td>
@@ -4926,7 +4926,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Bernhard Urban-Forster
 		</td>
-		<td>@oracle </td>
+		<td>oracle </td>
 		<td><a href="https://twitter.com/lewurm">lewurm</a></td>
 		<td>Austria</td>
 		<td>174</td>
@@ -4991,7 +4991,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christian Cito
 		</td>
-		<td>@madebyarthouse </td>
+		<td>madebyarthouse </td>
 		<td><a href="https://twitter.com/chrcit">chrcit</a></td>
 		<td>Vienna</td>
 		<td>168</td>
@@ -5056,7 +5056,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Klaus Purer
 		</td>
-		<td>@jobiqo </td>
+		<td>jobiqo </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>165</td>
@@ -5160,7 +5160,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Sandberg
 		</td>
-		<td>@invest-composer </td>
+		<td>invest-composer </td>
 		<td><a href="https://twitter.com/alexandberg">alexandberg</a></td>
 		<td>Austria (Remote)</td>
 		<td>158</td>
@@ -5212,7 +5212,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Miron
 		</td>
-		<td>@streetyoga  </td>
+		<td>streetyoga  </td>
 		<td>No Twitter Username</td>
 		<td>Austria, Vienna</td>
 		<td>155</td>
@@ -5251,7 +5251,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Martinz
 		</td>
-		<td>@shiftphones  </td>
+		<td>shiftphones  </td>
 		<td>No Twitter Username</td>
 		<td>Wolfsberg | Austria</td>
 		<td>151</td>
@@ -5277,7 +5277,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Julian Pufler
 		</td>
-		<td>@lean-coders </td>
+		<td>lean-coders </td>
 		<td><a href="https://twitter.com/pujux_">pujux_</a></td>
 		<td>Vienna, Austria</td>
 		<td>149</td>
@@ -5329,7 +5329,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Matthias Holzinger
 		</td>
-		<td>@cloudflightio </td>
+		<td>cloudflightio </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>142</td>
@@ -5368,7 +5368,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Philipp Defner
 		</td>
-		<td>@justwatchcom  </td>
+		<td>justwatchcom  </td>
 		<td><a href="https://twitter.com/tehwey">tehwey</a></td>
 		<td>Innsbruck / Berlin</td>
 		<td>138</td>
@@ -5459,7 +5459,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mario Ranftl
 		</td>
-		<td>@allaboutapps  </td>
+		<td>allaboutapps  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>129</td>
@@ -5550,7 +5550,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jan Grodowski
 		</td>
-		<td>@rainforestapp </td>
+		<td>rainforestapp </td>
 		<td><a href="https://twitter.com/mrgrodo">mrgrodo</a></td>
 		<td>Salzburg, Austria</td>
 		<td>126</td>
@@ -5563,7 +5563,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Pöchtrager
 		</td>
-		<td>@combeenation </td>
+		<td>combeenation </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>125</td>
@@ -5706,7 +5706,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Manfred Wallner
 		</td>
-		<td>@ksengineers </td>
+		<td>ksengineers </td>
 		<td><a href="https://twitter.com/schusterfredl">schusterfredl</a></td>
 		<td>Leibnitz, Austria</td>
 		<td>116</td>
@@ -5732,7 +5732,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Philippa Markovics
 		</td>
-		<td>@nextjournal  </td>
+		<td>nextjournal  </td>
 		<td><a href="https://twitter.com/unkai">unkai</a></td>
 		<td>Vienna, Austria</td>
 		<td>115</td>
@@ -5810,7 +5810,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Lukas Bachschwell
 		</td>
-		<td>@skaarhoj  </td>
+		<td>skaarhoj  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>112</td>
@@ -5823,7 +5823,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Olaf Lessenich
 		</td>
-		<td>@eclipsesource + @nm-wu (wu<br/>Vienna)<br/></td>
+		<td>eclipsesource + nm-wu (wu<br/>Vienna)<br/></td>
 		<td><a href="https://twitter.com/OlafLessenich">OlafLessenich</a></td>
 		<td>Vienna</td>
 		<td>111</td>
@@ -5836,7 +5836,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Betty Steger
 		</td>
-		<td>@hundertelf  </td>
+		<td>hundertelf  </td>
 		<td><a href="https://twitter.com/_bettysteger">_bettysteger</a></td>
 		<td>Salzburg, Austria</td>
 		<td>110</td>
@@ -5901,7 +5901,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Max Riegler
 		</td>
-		<td>@openresearch </td>
+		<td>openresearch </td>
 		<td>No Twitter Username</td>
 		<td>Graz, Austria</td>
 		<td>106</td>
@@ -5914,7 +5914,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ashley Camba
 		</td>
-		<td>@getsentry  </td>
+		<td>getsentry  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>106</td>
@@ -5966,7 +5966,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Daniel Bugl
 		</td>
-		<td>@touchlay </td>
+		<td>touchlay </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>101</td>
@@ -5992,7 +5992,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Georg Haaser
 		</td>
-		<td>@vrvis @aardworx </td>
+		<td>vrvis aardworx </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>101</td>
@@ -6031,7 +6031,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin Breuss
 		</td>
-		<td>@realpython </td>
+		<td>realpython </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>100</td>
@@ -6044,7 +6044,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Aydın Eraydın
 		</td>
-		<td>Software Engineer @tricentis </td>
+		<td>Software Engineer tricentis </td>
 		<td><a href="https://twitter.com/aeraydin">aeraydin</a></td>
 		<td>Vienna, Austria</td>
 		<td>100</td>
@@ -6083,7 +6083,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Willi Ye
 		</td>
-		<td>@snapchat </td>
+		<td>snapchat </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>98</td>
@@ -6148,7 +6148,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Taschauer
 		</td>
-		<td>@miraclapp </td>
+		<td>miraclapp </td>
 		<td><a href="https://twitter.com/TomTasche">TomTasche</a></td>
 		<td>Vienna, Austria</td>
 		<td>95</td>
@@ -6174,7 +6174,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Johannes Wachter
 		</td>
-		<td>Sulu Gmbh (@sulu) </td>
+		<td>Sulu Gmbh (sulu) </td>
 		<td><a href="https://twitter.com/wachterjohannes">wachterjohannes</a></td>
 		<td>Hohenems, Austria</td>
 		<td>94</td>
@@ -6265,7 +6265,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Himbeer
 		</td>
-		<td>@kinecttovr @boxofdevs </td>
+		<td>kinecttovr boxofdevs </td>
 		<td><a href="https://twitter.com/himbeerme">himbeerme</a></td>
 		<td>Austria</td>
 		<td>89</td>
@@ -6278,7 +6278,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Oliver Kuckertz
 		</td>
-		<td>@authenticvision </td>
+		<td>authenticvision </td>
 		<td>No Twitter Username</td>
 		<td>Salzburg</td>
 		<td>89</td>
@@ -6369,7 +6369,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Florian Eckerstorfer
 		</td>
-		<td>@mysugr  </td>
+		<td>mysugr  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Europe</td>
 		<td>85</td>
@@ -6382,7 +6382,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Daniel
 		</td>
-		<td>@wu-rds </td>
+		<td>wu-rds </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>85</td>
@@ -6408,7 +6408,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Daniel Eder
 		</td>
-		<td>@telekom </td>
+		<td>telekom </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>84</td>
@@ -6499,7 +6499,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Stefan Natter
 		</td>
-		<td>@traveltechdeluxe </td>
+		<td>traveltechdeluxe </td>
 		<td><a href="https://twitter.com/natterstefan">natterstefan</a></td>
 		<td>Austria</td>
 		<td>78</td>
@@ -6512,7 +6512,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christoph Hochstrasser
 		</td>
-		<td>@hochstrasserio  </td>
+		<td>hochstrasserio  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>78</td>
@@ -6551,7 +6551,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Sean McIntyre
 		</td>
-		<td>@fishtown-analytics </td>
+		<td>fishtown-analytics </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>77</td>
@@ -6616,7 +6616,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Kowarik
 		</td>
-		<td>@statistikat  </td>
+		<td>statistikat  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>74</td>
@@ -6772,7 +6772,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Florian Kapfenberger
 		</td>
-		<td>@untis.at </td>
+		<td>untis.at </td>
 		<td><a href="https://twitter.com/phiilu">phiilu</a></td>
 		<td>Austria</td>
 		<td>67</td>
@@ -6785,7 +6785,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Matthias Buchetics
 		</td>
-		<td>@allaboutapps </td>
+		<td>allaboutapps </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>67</td>
@@ -6837,7 +6837,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Andrey Okonetchnikov
 		</td>
-		<td>@component-driven  </td>
+		<td>component-driven  </td>
 		<td><a href="https://twitter.com/okonetchnikov">okonetchnikov</a></td>
 		<td>Vienna, Austria</td>
 		<td>64</td>
@@ -6850,7 +6850,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Timo Lins
 		</td>
-		<td>@vercel </td>
+		<td>vercel </td>
 		<td><a href="https://twitter.com/timolins">timolins</a></td>
 		<td>Vienna, Austria</td>
 		<td>64</td>
@@ -6863,7 +6863,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Moncef Belyamani
 		</td>
-		<td>@rubyonmac  </td>
+		<td>rubyonmac  </td>
 		<td><a href="https://twitter.com/monfresh">monfresh</a></td>
 		<td>Vienna, VA</td>
 		<td>64</td>
@@ -6876,7 +6876,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ali Rezaiyan
 		</td>
-		<td>@bitpanda-labs </td>
+		<td>bitpanda-labs </td>
 		<td><a href="https://twitter.com/arezaiyan">arezaiyan</a></td>
 		<td>Vienna</td>
 		<td>64</td>
@@ -6967,7 +6967,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Claire Xen
 		</td>
-		<td>@yosyshq  </td>
+		<td>yosyshq  </td>
 		<td><a href="https://twitter.com/oe1cxw">oe1cxw</a></td>
 		<td>Vienna</td>
 		<td>63</td>
@@ -7136,7 +7136,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Wiesner
 		</td>
-		<td>@morpher-io  </td>
+		<td>morpher-io  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>57</td>
@@ -7149,7 +7149,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Giulio Zausa‮ 
 		</td>
-		<td>@buildwithflux </td>
+		<td>buildwithflux </td>
 		<td><a href="https://twitter.com/giuliozausa">giuliozausa</a></td>
 		<td>Graz, Austria</td>
 		<td>57</td>
@@ -7162,7 +7162,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Guillermo Muntaner
 		</td>
-		<td>@journiapp </td>
+		<td>journiapp </td>
 		<td><a href="https://twitter.com/guillermomp87">guillermomp87</a></td>
 		<td>Vienna, Austria</td>
 		<td>57</td>
@@ -7331,7 +7331,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mike Ivanov
 		</td>
-		<td>@dvizz_app  </td>
+		<td>dvizz_app  </td>
 		<td>No Twitter Username</td>
 		<td>Minsk -> Vienna</td>
 		<td>53</td>
@@ -7383,7 +7383,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ahmad
 		</td>
-		<td>@gitlabhq </td>
+		<td>gitlabhq </td>
 		<td><a href="https://twitter.com/ahyield">ahyield</a></td>
 		<td>Vienna, Austria</td>
 		<td>51</td>
@@ -7396,7 +7396,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander (Rössler) Poss
 		</td>
-		<td>@machinekodercompany </td>
+		<td>machinekodercompany </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>51</td>
@@ -7422,7 +7422,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Zargham
 		</td>
-		<td>@blockscience </td>
+		<td>blockscience </td>
 		<td>No Twitter Username</td>
 		<td>San Fransisco, CA; Phoenix, AZ; Philadelphia, PA; Vienna, Austria</td>
 		<td>51</td>
@@ -7461,7 +7461,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Stefan Kasberger
 		</td>
-		<td>@brz-gmbh </td>
+		<td>brz-gmbh </td>
 		<td><a href="https://twitter.com/stefankasberger">stefankasberger</a></td>
 		<td>Vienna</td>
 		<td>50</td>
@@ -7526,7 +7526,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Otto Winter
 		</td>
-		<td>@esphome, @tuwien </td>
+		<td>esphome, tuwien </td>
 		<td><a href="https://twitter.com/OttoWinter_">OttoWinter_</a></td>
 		<td>Vienna, Austria</td>
 		<td>48</td>
@@ -7552,7 +7552,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Edmund Haselwanter
 		</td>
-		<td>@infralovers </td>
+		<td>infralovers </td>
 		<td><a href="https://twitter.com/ehaselwanter">ehaselwanter</a></td>
 		<td>Graz</td>
 		<td>48</td>
@@ -7604,7 +7604,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ismail Oguzhan Ay
 		</td>
-		<td>@epitome </td>
+		<td>epitome </td>
 		<td>No Twitter Username</td>
 		<td>Austria, Wien</td>
 		<td>45</td>
@@ -7669,7 +7669,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			S M Mohi Us Sunnat
 		</td>
-		<td>@nativewaves </td>
+		<td>nativewaves </td>
 		<td><a href="https://twitter.com/sunnat629">sunnat629</a></td>
 		<td>Salzburg, Austria</td>
 		<td>44</td>
@@ -7747,7 +7747,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Luis Nell
 		</td>
-		<td>@cod1sta  </td>
+		<td>cod1sta  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>41</td>
@@ -7838,7 +7838,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Frederic Köberl
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td><a href="https://twitter.com/internetztube">internetztube</a></td>
 		<td>Linz, Austria</td>
 		<td>39</td>
@@ -7903,7 +7903,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Gerhard Brueckl
 		</td>
-		<td>@paiqo  </td>
+		<td>paiqo  </td>
 		<td><a href="https://twitter.com/gbrueckl">gbrueckl</a></td>
 		<td>Austria</td>
 		<td>38</td>
@@ -8085,7 +8085,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Stefan
 		</td>
-		<td>@iaik, Graz University Of<br/>Technology<br/></td>
+		<td>iaik, Graz University Of<br/>Technology<br/></td>
 		<td><a href="https://twitter.com/stefan2904">stefan2904</a></td>
 		<td>Graz, Vienna & Koroška, Europe, Earth</td>
 		<td>33</td>
@@ -8150,7 +8150,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Laura Tacho
 		</td>
-		<td>@aulaeducation  </td>
+		<td>aulaeducation  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>32</td>
@@ -8176,7 +8176,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			James Walmsley
 		</td>
-		<td>Vitalelement Uk (@vitalelement) </td>
+		<td>Vitalelement Uk (vitalelement) </td>
 		<td><a href="https://twitter.com/jameswalmsley">jameswalmsley</a></td>
 		<td>Austria/UK</td>
 		<td>32</td>
@@ -8215,7 +8215,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Gebetsroither
 		</td>
-		<td>@mgit-at  </td>
+		<td>mgit-at  </td>
 		<td>No Twitter Username</td>
 		<td>Graz</td>
 		<td>32</td>
@@ -8319,7 +8319,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			TannerGabriel
 		</td>
-		<td>@dynatrace @keptn  </td>
+		<td>dynatrace keptn  </td>
 		<td><a href="https://twitter.com/GabrielTanner14">GabrielTanner14</a></td>
 		<td>Austria</td>
 		<td>30</td>
@@ -8332,7 +8332,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Florian Motlik
 		</td>
-		<td>@theserverlessway  </td>
+		<td>theserverlessway  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>30</td>
@@ -8436,7 +8436,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Frank Gregor
 		</td>
-		<td>@cadrage </td>
+		<td>cadrage </td>
 		<td>No Twitter Username</td>
 		<td>Bregenz</td>
 		<td>27</td>
@@ -8488,7 +8488,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Matthias Zeis
 		</td>
-		<td>@limesoda  </td>
+		<td>limesoda  </td>
 		<td><a href="https://twitter.com/mzeis">mzeis</a></td>
 		<td>Vienna, Austria</td>
 		<td>26</td>
@@ -8540,7 +8540,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Felix De Montis
 		</td>
-		<td>@orfon </td>
+		<td>orfon </td>
 		<td><a href="https://twitter.com/dervondenbergen">dervondenbergen</a></td>
 		<td>Vienna, Austria</td>
 		<td>25</td>
@@ -8566,7 +8566,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jan Peer Stöcklmair
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td>No Twitter Username</td>
 		<td>Vienna / AUT / Europe / Earth </td>
 		<td>25</td>
@@ -8631,7 +8631,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Schranz
 		</td>
-		<td>@lemmings-io  </td>
+		<td>lemmings-io  </td>
 		<td><a href="https://twitter.com/__tosh">__tosh</a></td>
 		<td>Vienna, Europe</td>
 		<td>24</td>
@@ -8696,7 +8696,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Franz
 		</td>
-		<td>@hexagon-geo-surv </td>
+		<td>hexagon-geo-surv </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>23</td>
@@ -8826,7 +8826,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Petr Levtonov
 		</td>
-		<td>Bitpanda @bitpanda-labs </td>
+		<td>Bitpanda bitpanda-labs </td>
 		<td><a href="https://twitter.com/TheLevti">TheLevti</a></td>
 		<td>Vienna, Austria</td>
 		<td>22</td>
@@ -8865,7 +8865,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Marko Locher
 		</td>
-		<td>@stellatehq </td>
+		<td>stellatehq </td>
 		<td><a href="https://twitter.com/mlocher">mlocher</a></td>
 		<td>Vienna, Austria</td>
 		<td>21</td>
@@ -8891,7 +8891,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Andreas Eger
 		</td>
-		<td>@runtastic </td>
+		<td>runtastic </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>21</td>
@@ -9021,7 +9021,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin Gratzer
 		</td>
-		<td>@meisterlabs @topminds </td>
+		<td>meisterlabs topminds </td>
 		<td>No Twitter Username</td>
 		<td>Klagenfurt, Austria</td>
 		<td>19</td>
@@ -9151,7 +9151,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Adrián Bolonio
 		</td>
-		<td>@miroapp-dev </td>
+		<td>miroapp-dev </td>
 		<td><a href="https://twitter.com/bolonio">bolonio</a></td>
 		<td>Vienna, Austria</td>
 		<td>17</td>
@@ -9242,7 +9242,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Balázs Rostás
 		</td>
-		<td>@bitrise-io </td>
+		<td>bitrise-io </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>16</td>
@@ -9333,7 +9333,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Daniel Rudrich
 		</td>
-		<td>@atmokyaudio And Institute Of<br/>Electronic<br/>Music<br/>And<br/>Acoustics,<br/>Graz<br/></td>
+		<td>atmokyaudio And Institute Of<br/>Electronic<br/>Music<br/>And<br/>Acoustics,<br/>Graz<br/></td>
 		<td>No Twitter Username</td>
 		<td>Graz, Austria</td>
 		<td>15</td>
@@ -9346,7 +9346,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Oleh Aloshkin
 		</td>
-		<td>@deepopinion </td>
+		<td>deepopinion </td>
 		<td><a href="https://twitter.com/aleshaoleg">aleshaoleg</a></td>
 		<td>Vienna, Austria</td>
 		<td>15</td>
@@ -9359,7 +9359,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Re7Pntx
 		</td>
-		<td></whatsappcode> </td>
+		<td>whatsappcode</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>15</td>
@@ -9398,7 +9398,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin Sudmanns
 		</td>
-		<td>@sen2cube-at  </td>
+		<td>sen2cube-at  </td>
 		<td>No Twitter Username</td>
 		<td>Salzburg, Austria</td>
 		<td>14</td>
@@ -9437,7 +9437,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Gábor Békés
 		</td>
-		<td>Central European University @ceu-economics-and-b<br/><br/></td>
+		<td>Central European University ceu-economics-and-b<br/><br/></td>
 		<td><a href="https://twitter.com/GaborBekes">GaborBekes</a></td>
 		<td>Vienna, Austria</td>
 		<td>13</td>
@@ -9515,7 +9515,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Greifeneder
 		</td>
-		<td>@beeonegmbh  </td>
+		<td>beeonegmbh  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>12</td>
@@ -9697,7 +9697,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Martin Etmajer
 		</td>
-		<td>@boehringer-ingelhei </td>
+		<td>boehringer-ingelhei </td>
 		<td><a href="https://twitter.com/metmajer">metmajer</a></td>
 		<td>Linz, Austria</td>
 		<td>10</td>
@@ -9710,7 +9710,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Matthias Esterl
 		</td>
-		<td>@animaldesign </td>
+		<td>animaldesign </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>10</td>
@@ -9775,7 +9775,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Leiter
 		</td>
-		<td>@fasky-software </td>
+		<td>fasky-software </td>
 		<td>No Twitter Username</td>
 		<td>Graz</td>
 		<td>9</td>
@@ -9866,7 +9866,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Robert Gründler
 		</td>
-		<td>@ecosio  </td>
+		<td>ecosio  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna / Austria</td>
 		<td>8</td>
@@ -9944,7 +9944,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Petar Forai
 		</td>
-		<td>@aws </td>
+		<td>aws </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>8</td>
@@ -9996,7 +9996,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Philipp Krenn
 		</td>
-		<td>@elastic  </td>
+		<td>elastic  </td>
 		<td><a href="https://twitter.com/xeraa">xeraa</a></td>
 		<td>Vienna, Austria</td>
 		<td>7</td>
@@ -10009,7 +10009,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Pointhuber
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td><a href="https://twitter.com/Chaos_Robotic">Chaos_Robotic</a></td>
 		<td>Austria</td>
 		<td>7</td>
@@ -10087,7 +10087,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Tobias Herber
 		</td>
-		<td>@loopbound @weekrise </td>
+		<td>loopbound weekrise </td>
 		<td><a href="https://twitter.com/tobiasherber_">tobiasherber_</a></td>
 		<td>Austria</td>
 		<td>7</td>
@@ -10100,7 +10100,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Christoph Neumüller
 		</td>
-		<td>@dynatrace  </td>
+		<td>dynatrace  </td>
 		<td>No Twitter Username</td>
 		<td>Linz, Austria</td>
 		<td>7</td>
@@ -10126,7 +10126,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Tobias Neumann
 		</td>
-		<td>@impimba @zuberlab @obenauflab <br/></td>
+		<td>impimba zuberlab obenauflab <br/></td>
 		<td><a href="https://twitter.com/fh_fingolfin">fh_fingolfin</a></td>
 		<td>Vienna</td>
 		<td>7</td>
@@ -10178,7 +10178,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Lukas Steinbrecher
 		</td>
-		<td>@senacor </td>
+		<td>senacor </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, AT</td>
 		<td>6</td>
@@ -10191,7 +10191,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Tom Hatzer
 		</td>
-		<td>@twopeaks-digital </td>
+		<td>twopeaks-digital </td>
 		<td><a href="https://twitter.com/phpastes">phpastes</a></td>
 		<td>Bregenz, Austria</td>
 		<td>6</td>
@@ -10243,7 +10243,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Franz Josef Kaiser
 		</td>
-		<td>@wecodemore </td>
+		<td>wecodemore </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>5</td>
@@ -10295,7 +10295,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jürgen Cito
 		</td>
-		<td>Tu Wien And @facebookresearch<br/><br/></td>
+		<td>Tu Wien And facebookresearch<br/><br/></td>
 		<td><a href="https://twitter.com/citostyle">citostyle</a></td>
 		<td>Vienna, Austria</td>
 		<td>5</td>
@@ -10308,7 +10308,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			David Medenjak
 		</td>
-		<td>@allaboutapps  </td>
+		<td>allaboutapps  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>5</td>
@@ -10360,7 +10360,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Jozef Kutej
 		</td>
-		<td>@meon  </td>
+		<td>meon  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>5</td>
@@ -10373,7 +10373,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			No Name
 		</td>
-		<td>@fit-up Gmbh </td>
+		<td>fit-up Gmbh </td>
 		<td><a href="https://twitter.com/bensuerdgn">bensuerdgn</a></td>
 		<td>Linz, Austria</td>
 		<td>5</td>
@@ -10503,7 +10503,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Allan Berger
 		</td>
-		<td>@blossom, @lemmings-io  </td>
+		<td>blossom, lemmings-io  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, San Francisco, London</td>
 		<td>4</td>
@@ -10594,7 +10594,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Maria Christakis
 		</td>
-		<td>Professor @ Tu Wien<br/>Informatics<br/></td>
+		<td>Professor  Tu Wien<br/>Informatics<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>4</td>
@@ -10620,7 +10620,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Victor Pantoja
 		</td>
-		<td>@deepopinion </td>
+		<td>deepopinion </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
 		<td>4</td>
@@ -10633,7 +10633,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Michael Altmann
 		</td>
-		<td>@techtalk </td>
+		<td>techtalk </td>
 		<td><a href="https://twitter.com/michael_altmann">michael_altmann</a></td>
 		<td>Vienna, Austria</td>
 		<td>4</td>
@@ -10672,7 +10672,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Thomas Pink
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td>No Twitter Username</td>
 		<td>Linz, Austria</td>
 		<td>4</td>
@@ -10685,7 +10685,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mina Beiki
 		</td>
-		<td>@studoverse </td>
+		<td>studoverse </td>
 		<td>No Twitter Username</td>
 		<td>Graz, Austria</td>
 		<td>3</td>
@@ -10711,7 +10711,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Dražen Lučanin
 		</td>
-		<td>@punkrockdev  </td>
+		<td>punkrockdev  </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb / Vienna</td>
 		<td>3</td>
@@ -10802,7 +10802,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Philipp Naderer-Puiu
 		</td>
-		<td>@orfon  </td>
+		<td>orfon  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>3</td>
@@ -10815,7 +10815,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mazin Power
 		</td>
-		<td>@bloomandwild  </td>
+		<td>bloomandwild  </td>
 		<td><a href="https://twitter.com/mazin_power">mazin_power</a></td>
 		<td>Vienna, AT</td>
 		<td>3</td>
@@ -10828,7 +10828,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			tobi
 		</td>
-		<td>@brothersaustria  </td>
+		<td>brothersaustria  </td>
 		<td><a href="https://twitter.com/tobithefox">tobithefox</a></td>
 		<td>Austria, Braunau</td>
 		<td>3</td>
@@ -10841,7 +10841,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Gilbert Tanner
 		</td>
-		<td>@dynatrace </td>
+		<td>dynatrace </td>
 		<td><a href="https://twitter.com/Tanner__Gilbert">Tanner__Gilbert</a></td>
 		<td>Austria</td>
 		<td>2</td>
@@ -10893,7 +10893,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Juliano Petronetto
 		</td>
-		<td>@petronettodev </td>
+		<td>petronettodev </td>
 		<td><a href="https://twitter.com/petronettodev">petronettodev</a></td>
 		<td>Vienna, Austria</td>
 		<td>2</td>
@@ -11036,7 +11036,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Markus Hösel
 		</td>
-		<td>@3-s-it  </td>
+		<td>3-s-it  </td>
 		<td><a href="https://twitter.com/gehtmaguad">gehtmaguad</a></td>
 		<td>Vienna, Austria</td>
 		<td>2</td>
@@ -11062,7 +11062,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Mustafa Yasin Halici
 		</td>
-		<td>@nxp Semiconductors </td>
+		<td>nxp Semiconductors </td>
 		<td>No Twitter Username</td>
 		<td>Graz</td>
 		<td>2</td>
@@ -11101,7 +11101,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Dennis Daume
 		</td>
-		<td>@getmimo </td>
+		<td>getmimo </td>
 		<td><a href="https://twitter.com/flagbug">flagbug</a></td>
 		<td>Vienna, Austria</td>
 		<td>1</td>
@@ -11114,7 +11114,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			DominikAngerer
 		</td>
-		<td>@storyblok   </td>
+		<td>storyblok   </td>
 		<td><a href="https://twitter.com/domangerer">domangerer</a></td>
 		<td>Linz, Austria</td>
 		<td>1</td>
@@ -11127,7 +11127,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Roman Kuba
 		</td>
-		<td>@codesandbox </td>
+		<td>codesandbox </td>
 		<td><a href="https://twitter.com/codebryo">codebryo</a></td>
 		<td>Austria</td>
 		<td>1</td>
@@ -11140,7 +11140,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Patrick Löwenstein
 		</td>
-		<td>@george-labs </td>
+		<td>george-labs </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>1</td>
@@ -11387,7 +11387,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Em Karisch
 		</td>
-		<td>@khaossolutions  </td>
+		<td>khaossolutions  </td>
 		<td><a href="https://twitter.com/QuinkKhaos">QuinkKhaos</a></td>
 		<td>Salzburg, Austria</td>
 		<td>1</td>
@@ -11413,7 +11413,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Ramiz Wachtler
 		</td>
-		<td>@starshipteam  </td>
+		<td>starshipteam  </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>1</td>
@@ -11484,7 +11484,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 
 ## 📦 Third party
 
-- [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
+- [octokit/graphql](https://www.npmjs.com/package/octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License

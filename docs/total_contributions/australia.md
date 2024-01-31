@@ -2973,7 +2973,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			</a><br/>
 			Jichao Ouyang
 		</td>
-		<td>@myob-technology <=< @thoughtworks </td>
+		<td>@myob-technology @thoughtworks </td>
 		<td><a href="https://twitter.com/oyanglulu">oyanglulu</a></td>
 		<td>Melbourne, AU</td>
 		<td>55</td>

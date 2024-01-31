@@ -1124,7 +1124,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Alexander Schranz
 		</td>
-		<td>Sulu Gmbh (@sulu) </td>
+		<td>whatsappcode </td>
 		<td><a href="https://twitter.com/alex_s_">alex_s_</a></td>
 		<td>Dornbirn, Austria</td>
 		<td>1890</td>
@@ -6556,7 +6556,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Johannes Wachter
 		</td>
-		<td>Sulu Gmbh (@sulu) </td>
+		<td>whatsappcode </td>
 		<td><a href="https://twitter.com/wachterjohannes">wachterjohannes</a></td>
 		<td>Hohenems, Austria</td>
 		<td>94</td>
@@ -11148,7 +11148,7 @@ There are `955 users`  in Austria. You need at least `39 followers` to be on thi
 			</a><br/>
 			Re7Pntx
 		</td>
-		<td></whatsappcode> </td>
+		<td>whatsappcode</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
 		<td>15</td>

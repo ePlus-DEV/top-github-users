@@ -7357,7 +7357,7 @@ There are `962 users`  in Armenia. You need at least `6 followers` to be on this
 		</td>
 		<td>Sfl Llc </td>
 		<td>No Twitter Username</td>
-		<td>Armenia, Yerevan</td>
+		<td>Armenia Yerevan</td>
 		<td>1</td>
 		<td>49</td>
 	</tr>

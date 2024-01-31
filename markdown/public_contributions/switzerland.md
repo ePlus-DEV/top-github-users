@@ -7410,7 +7410,7 @@ There are `900 users`  in Switzerland. You need at least `74 followers` to be on
 		</td>
 		<td>@google Brain Zürich </td>
 		<td>No Twitter Username</td>
-		<td><3 Belgium, Switzerland</td>
+		<td>Belgium, Switzerland</td>
 		<td>36</td>
 	</tr>
 	<tr>
