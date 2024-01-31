@@ -11,9 +11,9 @@ slug: /
 	<img align="right" width="400" src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country"/>
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 4:33 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 4:45 PM UTC`.
 
-This repository contains users `27 countries` and `185 cities`. 
+This repository contains users `19 countries` and `130 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/ePlus-DEV/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action). The project maintained by [ePlus-DEV](https://github.com/ePlus-DEV). Don't forget to follow him on [GitHub](https://github.com/ePlus-DEV), [Twitter](https://twitter.com/david_nguyen94), and [Website](https://eplus.dev/).
@@ -257,55 +257,6 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/iran.md">
-				Iran
-			</a>
-		</td>
-		<td>
-			<code>Tehran</code> 
-			<code>Isfahan</code> 
-			<code>Tabriz</code> 
-			<code>Shiraz</code> 
-			<code>Mashhad</code> 
-			<code>Qom</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/israel.md">
-				Israel
-			</a>
-		</td>
-		<td>
-			<code>Jerusalem</code> 
-			<code>Tel-aviv</code> 
-			<code>Haifa</code> 
-			<code>Lod</code> 
-			<code>Be'er-sheva</code> 
-			<code>Ashkelon</code> 
-			<code>Bat-yam</code> 
-			<code>Netanya</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/italy.md">
-				Italy
-			</a>
-		</td>
-		<td>
-			<code>Rome</code> 
-			<code>Venice</code> 
-			<code>Florence</code> 
-			<code>Turin</code> 
-			<code>Milan</code> 
-			<code>Naples</code> 
-			<code>Bologna</code> 
-			<code>Genoa</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/japan.md">
 				Japan
 			</a>
@@ -391,72 +342,6 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/sweden.md">
-				Sweden
-			</a>
-		</td>
-		<td>
-			<code>Stockholm</code> 
-			<code>Gothenburg</code> 
-			<code>Malmö</code> 
-			<code>Uppsala</code> 
-			<code>Västerås</code> 
-			<code>Örebro</code> 
-			<code>Linköping</code> 
-			<code>Helsingborg</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/switzerland.md">
-				Switzerland
-			</a>
-		</td>
-		<td>
-			<code>Zurich</code> 
-			<code>Geneva</code> 
-			<code>Basel</code> 
-			<code>Bern</code> 
-			<code>Lausanne</code> 
-			<code>Lucerne</code> 
-			<code>St-gallen</code> 
-			<code>Winterthur</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/thailand.md">
-				Thailand
-			</a>
-		</td>
-		<td>
-			<code>Bangkok</code> 
-			<code>Chiang-mai</code> 
-			<code>Phuket</code> 
-			<code>Pattaya</code> 
-			<code>Krabi</code> 
-			<code>Chiang-rai</code> 
-			<code>Hat-yai</code> 
-			<code>Nonthaburi</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/turkey.md">
-				Turkey
-			</a>
-		</td>
-		<td>
-			<code>Istanbul</code> 
-			<code>Ankara</code> 
-			<code>Izmir</code> 
-			<code>Konya</code> 
-			<code>Gaziantep</code> 
-			<code>Adana</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/ukraine.md">
 				Ukraine
 			</a>
@@ -466,18 +351,6 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 			<code>Lviv</code> 
 			<code>Kharkiv</code> 
 			<code>Odesa</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/united_arab_emirates.md">
-				United Arab Emirates
-			</a>
-		</td>
-		<td>
-			<code>Dubai</code> 
-			<code>Sharjah</code> 
-			<code>Ajman</code> 
 		</td>
 	</tr>
 	<tr>
