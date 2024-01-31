@@ -6,9 +6,9 @@ on:
   #       - "main"
   # schedule:
   #   - cron: "*/30 * * * *"
-  # workflow_run:
-  #   workflows: ["Top GitHub Users"]
-  #   types: [completed]
+  workflow_run:
+    workflows: ["Top GitHub Users"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
