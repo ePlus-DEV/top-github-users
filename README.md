@@ -5,15 +5,16 @@ slug: /
 ---
 
 # Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
 	<img align="right" width="400" src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country"/>
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 3:16 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers` by country or state. The list updated `2024/1/31 3:16 PM UTC`.
 
-This repository contains users `28 countries` and `193 cities`. 
+This repository contains users `28 countries` and `193 cities`.
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/ePlus-DEV/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action). The project maintained by [ePlus-DEV](https://github.com/ePlus-DEV). Don't forget to follow him on [GitHub](https://github.com/ePlus-DEV), [Twitter](https://twitter.com/david_nguyen94), and [Website](https://eplus.dev/).
@@ -41,7 +42,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/ePlus-DEV/top-github-users">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/ePlus-DEV/top-github-users">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -559,7 +560,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/ePlus-DEV/top-github-users">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/ePlus-DEV/top-github-users">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -611,6 +612,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)

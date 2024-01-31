@@ -1,9 +1,10 @@
 ---
-title: India 
-description: Top GitHub Users By Public Contributions in India 
+title: India
+description: Top GitHub Users By Public Contributions in India
 ---
 
 # Top GitHub Users By Public Contributions in India [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
@@ -14,7 +15,7 @@ The `public contributions` by users in India on `2024/1/31 3:07 PM UTC`. This li
 
 There are `28 countries` and `193 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `968 users`  in India. You need at least `246 followers` to be on this list.
+There are `968 users` in India. You need at least `246 followers` to be on this list.
 
 <table>
 	<tr>
@@ -53,7 +54,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20India&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/india.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20India&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/india.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -118,7 +119,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Jayant Goel
 		</td>
 		<td>@talentdecrypt @theatron </td>
-		<td><a href="https://twitter.com/JayantGoel001">JayantGoel001</a></td>
+		<td><a target="_blank" href="https://twitter.com/JayantGoel001">JayantGoel001</a></td>
 		<td>Ghaziabad India Planet C53</td>
 		<td>15489</td>
 	</tr>
@@ -131,7 +132,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vinayak Kulkarni
 		</td>
 		<td>@dscvrone </td>
-		<td><a href="https://twitter.com/_vinayak_k">_vinayak_k</a></td>
+		<td><a target="_blank" href="https://twitter.com/_vinayak_k">_vinayak_k</a></td>
 		<td>Pune India</td>
 		<td>13502</td>
 	</tr>
@@ -144,7 +145,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Utkarsh Ashok Pathrabe
 		</td>
 		<td>Nvidia Graphics Pvt Ltd<br/></td>
-		<td><a href="https://twitter.com/UtkarshPathrabe">UtkarshPathrabe</a></td>
+		<td><a target="_blank" href="https://twitter.com/UtkarshPathrabe">UtkarshPathrabe</a></td>
 		<td>Pune India</td>
 		<td>11647</td>
 	</tr>
@@ -157,7 +158,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vaishnavi Lugade
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vaishnavilugade">vaishnavilugade</a></td>
+		<td><a target="_blank" href="https://twitter.com/vaishnavilugade">vaishnavilugade</a></td>
 		<td> Maharashtra  India </td>
 		<td>9969</td>
 	</tr>
@@ -170,7 +171,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arya Shah
 		</td>
 		<td>@openaod </td>
-		<td><a href="https://twitter.com/aryashah2k">aryashah2k</a></td>
+		<td><a target="_blank" href="https://twitter.com/aryashah2k">aryashah2k</a></td>
 		<td>Mumbai India</td>
 		<td>9945</td>
 	</tr>
@@ -183,7 +184,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			CodeWhiteWeb
 		</td>
 		<td>@elphabot @chataribot @hackclub @eddiehubcommunity<br/>@mtmgame<br/><br/></td>
-		<td><a href="https://twitter.com/CodeWhiteWeb1">CodeWhiteWeb1</a></td>
+		<td><a target="_blank" href="https://twitter.com/CodeWhiteWeb1">CodeWhiteWeb1</a></td>
 		<td>India</td>
 		<td>7115</td>
 	</tr>
@@ -196,7 +197,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sandeep Singh
 		</td>
 		<td>@projectdiscovery </td>
-		<td><a href="https://twitter.com/emgeekboy">emgeekboy</a></td>
+		<td><a target="_blank" href="https://twitter.com/emgeekboy">emgeekboy</a></td>
 		<td>India</td>
 		<td>5087</td>
 	</tr>
@@ -209,7 +210,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Harminder Virk
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AmanVirk1">AmanVirk1</a></td>
+		<td><a target="_blank" href="https://twitter.com/AmanVirk1">AmanVirk1</a></td>
 		<td>India</td>
 		<td>3696</td>
 	</tr>
@@ -261,7 +262,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam Mathur
 		</td>
 		<td>Codementor </td>
-		<td><a href="https://twitter.com/meshivammathur">meshivammathur</a></td>
+		<td><a target="_blank" href="https://twitter.com/meshivammathur">meshivammathur</a></td>
 		<td>India</td>
 		<td>2953</td>
 	</tr>
@@ -287,7 +288,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arjun C Vinod
 		</td>
 		<td>127001 </td>
-		<td><a href="https://twitter.com/arjuncvinod7">arjuncvinod7</a></td>
+		<td><a target="_blank" href="https://twitter.com/arjuncvinod7">arjuncvinod7</a></td>
 		<td>India</td>
 		<td>2767</td>
 	</tr>
@@ -326,7 +327,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Avinash Ranjan
 		</td>
 		<td>@one24store @theopencode @dscciem </td>
-		<td><a href="https://twitter.com/iavinashranjan">iavinashranjan</a></td>
+		<td><a target="_blank" href="https://twitter.com/iavinashranjan">iavinashranjan</a></td>
 		<td>Kolkata West Bengal India</td>
 		<td>2674</td>
 	</tr>
@@ -339,7 +340,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sayak Paul
 		</td>
 		<td>@huggingface </td>
-		<td><a href="https://twitter.com/RisingSayak">RisingSayak</a></td>
+		<td><a target="_blank" href="https://twitter.com/RisingSayak">RisingSayak</a></td>
 		<td>Kolkata India</td>
 		<td>2671</td>
 	</tr>
@@ -365,7 +366,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anmol Baranwal
 		</td>
 		<td>@eddiehubcommunity @webxdao @accessibleforall @guidlify<br/></td>
-		<td><a href="https://twitter.com/Anmol_Codes">Anmol_Codes</a></td>
+		<td><a target="_blank" href="https://twitter.com/Anmol_Codes">Anmol_Codes</a></td>
 		<td>INDIA</td>
 		<td>2206</td>
 	</tr>
@@ -378,7 +379,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sasi
 		</td>
 		<td>@tapexyz </td>
-		<td><a href="https://twitter.com/sasicodes">sasicodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/sasicodes">sasicodes</a></td>
 		<td>India</td>
 		<td>1993</td>
 	</tr>
@@ -391,7 +392,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			AKSHITA GUPTA
 		</td>
 		<td>@virtualanatomy </td>
-		<td><a href="https://twitter.com/Akshita_archer">Akshita_archer</a></td>
+		<td><a target="_blank" href="https://twitter.com/Akshita_archer">Akshita_archer</a></td>
 		<td>India</td>
 		<td>1961</td>
 	</tr>
@@ -404,7 +405,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Samir Paul
 		</td>
 		<td>National Institute Of Technology<br/>Durgapur<br/></td>
-		<td><a href="https://twitter.com/SamirPaulb">SamirPaulb</a></td>
+		<td><a target="_blank" href="https://twitter.com/SamirPaulb">SamirPaulb</a></td>
 		<td>Bengaluru Karnataka India</td>
 		<td>1952</td>
 	</tr>
@@ -417,7 +418,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hitesh Kumar Saini
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alexmercerind">alexmercerind</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexmercerind">alexmercerind</a></td>
 		<td>Dehradun India</td>
 		<td>1809</td>
 	</tr>
@@ -430,7 +431,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mrugesh Mohapatra
 		</td>
 		<td>@freecodecamp  </td>
-		<td><a href="https://twitter.com/raisedadead">raisedadead</a></td>
+		<td><a target="_blank" href="https://twitter.com/raisedadead">raisedadead</a></td>
 		<td>Bengaluru India</td>
 		<td>1781</td>
 	</tr>
@@ -456,7 +457,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nitin Kumar
 		</td>
 		<td> @webpack @eslint @razorpay<br/></td>
-		<td><a href="https://twitter.com/snitin315">snitin315</a></td>
+		<td><a target="_blank" href="https://twitter.com/snitin315">snitin315</a></td>
 		<td>INDIA</td>
 		<td>1727</td>
 	</tr>
@@ -469,7 +470,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saalim Quadri
 		</td>
 		<td>@stormbreakerproject @lineageos </td>
-		<td><a href="https://twitter.com/danascape">danascape</a></td>
+		<td><a target="_blank" href="https://twitter.com/danascape">danascape</a></td>
 		<td>Bangalore India</td>
 		<td>1653</td>
 	</tr>
@@ -482,7 +483,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			MAZHAR
 		</td>
 		<td>Lead Engineer @ Tokopedia<br/></td>
-		<td><a href="https://twitter.com/CSwithMIK">CSwithMIK</a></td>
+		<td><a target="_blank" href="https://twitter.com/CSwithMIK">CSwithMIK</a></td>
 		<td>Noida India</td>
 		<td>1573</td>
 	</tr>
@@ -495,7 +496,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Divy Srivastava
 		</td>
 		<td>@denoland </td>
-		<td><a href="https://twitter.com/undefined_void">undefined_void</a></td>
+		<td><a target="_blank" href="https://twitter.com/undefined_void">undefined_void</a></td>
 		<td>India</td>
 		<td>1461</td>
 	</tr>
@@ -508,7 +509,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vedant Chainani
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Envoy_1084">Envoy_1084</a></td>
+		<td><a target="_blank" href="https://twitter.com/Envoy_1084">Envoy_1084</a></td>
 		<td>India</td>
 		<td>1449</td>
 	</tr>
@@ -534,7 +535,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Puneeth Chaganti
 		</td>
 		<td>@tarides </td>
-		<td><a href="https://twitter.com/punchagan">punchagan</a></td>
+		<td><a target="_blank" href="https://twitter.com/punchagan">punchagan</a></td>
 		<td>India</td>
 		<td>1394</td>
 	</tr>
@@ -547,7 +548,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pradumna Saraf
 		</td>
 		<td>Livecycle </td>
-		<td><a href="https://twitter.com/pradumna_saraf">pradumna_saraf</a></td>
+		<td><a target="_blank" href="https://twitter.com/pradumna_saraf">pradumna_saraf</a></td>
 		<td>India</td>
 		<td>1382</td>
 	</tr>
@@ -560,7 +561,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Divyansh Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_brc_dd">_brc_dd</a></td>
+		<td><a target="_blank" href="https://twitter.com/_brc_dd">_brc_dd</a></td>
 		<td>India</td>
 		<td>1380</td>
 	</tr>
@@ -573,7 +574,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sarthak Roy
 		</td>
 		<td>@arrowos @cipheros @pixelosaosp </td>
-		<td><a href="https://twitter.com/sarthak2002">sarthak2002</a></td>
+		<td><a target="_blank" href="https://twitter.com/sarthak2002">sarthak2002</a></td>
 		<td>Chennai India</td>
 		<td>1333</td>
 	</tr>
@@ -612,7 +613,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chandan Gowda
 		</td>
 		<td>Student At Sjce Mysore<br/></td>
-		<td><a href="https://twitter.com/chandansgowdru">chandansgowdru</a></td>
+		<td><a target="_blank" href="https://twitter.com/chandansgowdru">chandansgowdru</a></td>
 		<td>Mysuru Karnataka India</td>
 		<td>1209</td>
 	</tr>
@@ -625,7 +626,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Harsh Mishra
 		</td>
 		<td>Localstack </td>
-		<td><a href="https://twitter.com/harsh_casper">harsh_casper</a></td>
+		<td><a target="_blank" href="https://twitter.com/harsh_casper">harsh_casper</a></td>
 		<td>Chennai</td>
 		<td>1207</td>
 	</tr>
@@ -638,7 +639,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Tamal Das 
 		</td>
 		<td>Ex Engineering @workduck </td>
-		<td><a href="https://twitter.com/tamalCodes">tamalCodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/tamalCodes">tamalCodes</a></td>
 		<td>India</td>
 		<td>1193</td>
 	</tr>
@@ -651,7 +652,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Yashovardhan Agrawal
 		</td>
 		<td>@web3auth </td>
-		<td><a href="https://twitter.com/yashovardhan">yashovardhan</a></td>
+		<td><a target="_blank" href="https://twitter.com/yashovardhan">yashovardhan</a></td>
 		<td>India</td>
 		<td>1187</td>
 	</tr>
@@ -664,7 +665,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Soumik Rakshit
 		</td>
 		<td>@wandb </td>
-		<td><a href="https://twitter.com/soumikRakshit96">soumikRakshit96</a></td>
+		<td><a target="_blank" href="https://twitter.com/soumikRakshit96">soumikRakshit96</a></td>
 		<td>Kolkata West Bengal India</td>
 		<td>1169</td>
 	</tr>
@@ -690,7 +691,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nemo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/captn3m0">captn3m0</a></td>
+		<td><a target="_blank" href="https://twitter.com/captn3m0">captn3m0</a></td>
 		<td>Bangalore India</td>
 		<td>1143</td>
 	</tr>
@@ -703,7 +704,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vaibhav More
 		</td>
 		<td>@esyasoft Technology  @cognizant<br/>@growthpal<br/>Technology<br/>@masaicourse<br/></td>
-		<td><a href="https://twitter.com/mvaibhav131">mvaibhav131</a></td>
+		<td><a target="_blank" href="https://twitter.com/mvaibhav131">mvaibhav131</a></td>
 		<td>India</td>
 		<td>1142</td>
 	</tr>
@@ -716,7 +717,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dani John
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rocksdanister">rocksdanister</a></td>
+		<td><a target="_blank" href="https://twitter.com/rocksdanister">rocksdanister</a></td>
 		<td>India</td>
 		<td>1138</td>
 	</tr>
@@ -729,7 +730,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sahil Kumar
 		</td>
 		<td>@tideplatform </td>
-		<td><a href="https://twitter.com/xsahil03x">xsahil03x</a></td>
+		<td><a target="_blank" href="https://twitter.com/xsahil03x">xsahil03x</a></td>
 		<td>India</td>
 		<td>1116</td>
 	</tr>
@@ -742,7 +743,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Susmita Dey
 		</td>
 		<td>@devsintech </td>
-		<td><a href="https://twitter.com/its_SusmitaDey">its_SusmitaDey</a></td>
+		<td><a target="_blank" href="https://twitter.com/its_SusmitaDey">its_SusmitaDey</a></td>
 		<td>Kolkata India</td>
 		<td>1114</td>
 	</tr>
@@ -768,7 +769,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dhruv Manilawala
 		</td>
 		<td>@astralsh </td>
-		<td><a href="https://twitter.com/dhruvmanilawala">dhruvmanilawala</a></td>
+		<td><a target="_blank" href="https://twitter.com/dhruvmanilawala">dhruvmanilawala</a></td>
 		<td>Bengaluru India</td>
 		<td>1097</td>
 	</tr>
@@ -794,7 +795,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayush Soni
 		</td>
 		<td>@go2workapp @fastnstack @fifthtry @magicdotapp<br/>@economizecloud<br/>@hekors<br/></td>
-		<td><a href="https://twitter.com/ayushsoni1010">ayushsoni1010</a></td>
+		<td><a target="_blank" href="https://twitter.com/ayushsoni1010">ayushsoni1010</a></td>
 		<td>India</td>
 		<td>1069</td>
 	</tr>
@@ -820,7 +821,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			K Siva Prasad Reddy
 		</td>
 		<td>Docker Inc </td>
-		<td><a href="https://twitter.com/sivalabs">sivalabs</a></td>
+		<td><a target="_blank" href="https://twitter.com/sivalabs">sivalabs</a></td>
 		<td>Hyderabad India</td>
 		<td>1024</td>
 	</tr>
@@ -833,7 +834,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam
 		</td>
 		<td>Learnawsio </td>
-		<td><a href="https://twitter.com/ShivamJoker">ShivamJoker</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShivamJoker">ShivamJoker</a></td>
 		<td>India New Delhi</td>
 		<td>1002</td>
 	</tr>
@@ -872,7 +873,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kumar Laxmikant
 		</td>
 		<td>Amrita Vishwa Vidyapeetham </td>
-		<td><a href="https://twitter.com/KumarLaxmikant2">KumarLaxmikant2</a></td>
+		<td><a target="_blank" href="https://twitter.com/KumarLaxmikant2">KumarLaxmikant2</a></td>
 		<td>New Delhi India</td>
 		<td>966</td>
 	</tr>
@@ -911,7 +912,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saurabh Daware
 		</td>
 		<td>Frontend @razorpay  Building<br/>@abelljs<br/></td>
-		<td><a href="https://twitter.com/saurabhdawaree">saurabhdawaree</a></td>
+		<td><a target="_blank" href="https://twitter.com/saurabhdawaree">saurabhdawaree</a></td>
 		<td>India</td>
 		<td>933</td>
 	</tr>
@@ -924,7 +925,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Suraj Patil
 		</td>
 		<td>Huggingface </td>
-		<td><a href="https://twitter.com/psuraj28">psuraj28</a></td>
+		<td><a target="_blank" href="https://twitter.com/psuraj28">psuraj28</a></td>
 		<td>India</td>
 		<td>898</td>
 	</tr>
@@ -937,7 +938,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aniket
 		</td>
 		<td>@ethereum  </td>
-		<td><a href="https://twitter.com/AniketEngg">AniketEngg</a></td>
+		<td><a target="_blank" href="https://twitter.com/AniketEngg">AniketEngg</a></td>
 		<td>India</td>
 		<td>891</td>
 	</tr>
@@ -950,7 +951,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Santhosh Thottingal
 		</td>
 		<td>@wikimedia @smc  </td>
-		<td><a href="https://twitter.com/santhoshtr">santhoshtr</a></td>
+		<td><a target="_blank" href="https://twitter.com/santhoshtr">santhoshtr</a></td>
 		<td>Thiruvananthapuram Kerala India</td>
 		<td>878</td>
 	</tr>
@@ -963,7 +964,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhishek Kumar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Abhi_dev_dude">Abhi_dev_dude</a></td>
+		<td><a target="_blank" href="https://twitter.com/Abhi_dev_dude">Abhi_dev_dude</a></td>
 		<td>India</td>
 		<td>874</td>
 	</tr>
@@ -976,7 +977,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohit Jain
 		</td>
 		<td>@kingtechnologies </td>
-		<td><a href="https://twitter.com/Rohit_Jain19060">Rohit_Jain19060</a></td>
+		<td><a target="_blank" href="https://twitter.com/Rohit_Jain19060">Rohit_Jain19060</a></td>
 		<td>Rajgarh Rajasthan INDIA</td>
 		<td>872</td>
 	</tr>
@@ -1015,7 +1016,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sagnik Ghosh
 		</td>
 		<td>Msac </td>
-		<td><a href="https://twitter.com/sagnikghoshcr7">sagnikghoshcr7</a></td>
+		<td><a target="_blank" href="https://twitter.com/sagnikghoshcr7">sagnikghoshcr7</a></td>
 		<td>Kolkata</td>
 		<td>832</td>
 	</tr>
@@ -1028,7 +1029,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sumit Saurabh
 		</td>
 		<td>@novuhq </td>
-		<td><a href="https://twitter.com/sumitsaurabh927">sumitsaurabh927</a></td>
+		<td><a target="_blank" href="https://twitter.com/sumitsaurabh927">sumitsaurabh927</a></td>
 		<td>India</td>
 		<td>831</td>
 	</tr>
@@ -1041,7 +1042,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ajeet Singh Raina Docker Captain ARM Innovator
 		</td>
 		<td>Docker Inc </td>
-		<td><a href="https://twitter.com/ajeetsraina">ajeetsraina</a></td>
+		<td><a target="_blank" href="https://twitter.com/ajeetsraina">ajeetsraina</a></td>
 		<td>Bengaluru</td>
 		<td>824</td>
 	</tr>
@@ -1067,7 +1068,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Manoj Vivek
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vivek_jonam">vivek_jonam</a></td>
+		<td><a target="_blank" href="https://twitter.com/vivek_jonam">vivek_jonam</a></td>
 		<td>Coimbatore India</td>
 		<td>812</td>
 	</tr>
@@ -1080,7 +1081,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Param Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iliekcomputers">iliekcomputers</a></td>
+		<td><a target="_blank" href="https://twitter.com/iliekcomputers">iliekcomputers</a></td>
 		<td>India</td>
 		<td>809</td>
 	</tr>
@@ -1145,7 +1146,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sulagna Dutta Roy
 		</td>
 		<td>Priceline </td>
-		<td><a href="https://twitter.com/SulagnaDuttaRo1">SulagnaDuttaRo1</a></td>
+		<td><a target="_blank" href="https://twitter.com/SulagnaDuttaRo1">SulagnaDuttaRo1</a></td>
 		<td>MumbaiIndia</td>
 		<td>748</td>
 	</tr>
@@ -1158,7 +1159,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akhil Narang
 		</td>
 		<td>@frappe  </td>
-		<td><a href="https://twitter.com/akhilnarang1999">akhilnarang1999</a></td>
+		<td><a target="_blank" href="https://twitter.com/akhilnarang1999">akhilnarang1999</a></td>
 		<td>India</td>
 		<td>745</td>
 	</tr>
@@ -1171,7 +1172,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Soumyadip Chowdhury
 		</td>
 		<td>Senior Software Engineer @redhatofficial<br/></td>
-		<td><a href="https://twitter.com/s_oumyadip">s_oumyadip</a></td>
+		<td><a target="_blank" href="https://twitter.com/s_oumyadip">s_oumyadip</a></td>
 		<td>Kolkata India</td>
 		<td>743</td>
 	</tr>
@@ -1184,7 +1185,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Wasiq Bhamla
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/WasiqBhamla">WasiqBhamla</a></td>
+		<td><a target="_blank" href="https://twitter.com/WasiqBhamla">WasiqBhamla</a></td>
 		<td>Mumbai India</td>
 		<td>735</td>
 	</tr>
@@ -1197,7 +1198,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayush Chaurasia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/loldedxd">loldedxd</a></td>
+		<td><a target="_blank" href="https://twitter.com/loldedxd">loldedxd</a></td>
 		<td>india</td>
 		<td>732</td>
 	</tr>
@@ -1210,7 +1211,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mohammad Faisal Khatri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mfaisal_khatri">mfaisal_khatri</a></td>
+		<td><a target="_blank" href="https://twitter.com/mfaisal_khatri">mfaisal_khatri</a></td>
 		<td>Mumbai</td>
 		<td>719</td>
 	</tr>
@@ -1223,7 +1224,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kiran Jonnalagadda
 		</td>
 		<td>Hasgeek </td>
-		<td><a href="https://twitter.com/jackerhack">jackerhack</a></td>
+		<td><a target="_blank" href="https://twitter.com/jackerhack">jackerhack</a></td>
 		<td>Bangalore India</td>
 		<td>717</td>
 	</tr>
@@ -1262,7 +1263,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya Chatterjee
 		</td>
 		<td>@opengenus  </td>
-		<td><a href="https://twitter.com/opengenus">opengenus</a></td>
+		<td><a target="_blank" href="https://twitter.com/opengenus">opengenus</a></td>
 		<td> India </td>
 		<td>712</td>
 	</tr>
@@ -1275,7 +1276,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sarthak Shrivastava
 		</td>
 		<td>@bitfumes  </td>
-		<td><a href="https://twitter.com/sarthaksavvy">sarthaksavvy</a></td>
+		<td><a target="_blank" href="https://twitter.com/sarthaksavvy">sarthaksavvy</a></td>
 		<td>India</td>
 		<td>709</td>
 	</tr>
@@ -1288,7 +1289,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Yash Sehgal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/yashsehgaldev">yashsehgaldev</a></td>
+		<td><a target="_blank" href="https://twitter.com/yashsehgaldev">yashsehgaldev</a></td>
 		<td>India</td>
 		<td>707</td>
 	</tr>
@@ -1314,7 +1315,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Navendu Pottekkat
 		</td>
 		<td>Api7ai </td>
-		<td><a href="https://twitter.com/realPottekkat">realPottekkat</a></td>
+		<td><a target="_blank" href="https://twitter.com/realPottekkat">realPottekkat</a></td>
 		<td>Kerala India</td>
 		<td>697</td>
 	</tr>
@@ -1327,7 +1328,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sadanand Pai
 		</td>
 		<td>Atlassian </td>
-		<td><a href="https://twitter.com/paicube">paicube</a></td>
+		<td><a target="_blank" href="https://twitter.com/paicube">paicube</a></td>
 		<td>Bengaluru</td>
 		<td>687</td>
 	</tr>
@@ -1340,7 +1341,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Deepak bhardwaj
 		</td>
 		<td>Vivekananda Institute Of Professional<br/>Studies<br/></td>
-		<td><a href="https://twitter.com/deepak96437622">deepak96437622</a></td>
+		<td><a target="_blank" href="https://twitter.com/deepak96437622">deepak96437622</a></td>
 		<td>New Delhi</td>
 		<td>673</td>
 	</tr>
@@ -1353,7 +1354,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shreyas Patil
 		</td>
 		<td>@paytm </td>
-		<td><a href="https://twitter.com/imShreyasPatil">imShreyasPatil</a></td>
+		<td><a target="_blank" href="https://twitter.com/imShreyasPatil">imShreyasPatil</a></td>
 		<td>Jalgaon Maharashtra India</td>
 		<td>668</td>
 	</tr>
@@ -1379,7 +1380,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Devansh Batham
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/0xAsm0d3us">0xAsm0d3us</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xAsm0d3us">0xAsm0d3us</a></td>
 		<td>India</td>
 		<td>650</td>
 	</tr>
@@ -1392,7 +1393,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chetan Nada
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/chetannada">chetannada</a></td>
+		<td><a target="_blank" href="https://twitter.com/chetannada">chetannada</a></td>
 		<td>India</td>
 		<td>645</td>
 	</tr>
@@ -1405,7 +1406,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Swadesh Behera
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/itswadesh">itswadesh</a></td>
+		<td><a target="_blank" href="https://twitter.com/itswadesh">itswadesh</a></td>
 		<td>India</td>
 		<td>642</td>
 	</tr>
@@ -1418,7 +1419,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Raj Kumar
 		</td>
 		<td>Vellore Institute Of Technology<br/></td>
-		<td><a href="https://twitter.com/raj1553_">raj1553_</a></td>
+		<td><a target="_blank" href="https://twitter.com/raj1553_">raj1553_</a></td>
 		<td>India</td>
 		<td>638</td>
 	</tr>
@@ -1431,7 +1432,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Puru Vijay
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/puruvjdev">puruvjdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/puruvjdev">puruvjdev</a></td>
 		<td>Jaipur</td>
 		<td>629</td>
 	</tr>
@@ -1444,7 +1445,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Milind Mishra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/milindstwt">milindstwt</a></td>
+		<td><a target="_blank" href="https://twitter.com/milindstwt">milindstwt</a></td>
 		<td>Dhanbad India</td>
 		<td>622</td>
 	</tr>
@@ -1470,7 +1471,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			soham
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zemse_">zemse_</a></td>
+		<td><a target="_blank" href="https://twitter.com/zemse_">zemse_</a></td>
 		<td>mumbai</td>
 		<td>604</td>
 	</tr>
@@ -1483,7 +1484,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Soumya Sagnik Khanda
 		</td>
 		<td>Flipkart </td>
-		<td><a href="https://twitter.com/Soumya_Sagnik">Soumya_Sagnik</a></td>
+		<td><a target="_blank" href="https://twitter.com/Soumya_Sagnik">Soumya_Sagnik</a></td>
 		<td>Bengaluru India</td>
 		<td>603</td>
 	</tr>
@@ -1522,7 +1523,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mallikarjun M 
 		</td>
 		<td>Codebustler </td>
-		<td><a href="https://twitter.com/CodeBustler">CodeBustler</a></td>
+		<td><a target="_blank" href="https://twitter.com/CodeBustler">CodeBustler</a></td>
 		<td>Hyderabad </td>
 		<td>592</td>
 	</tr>
@@ -1548,7 +1549,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			BPB Online
 		</td>
 		<td>Bpb Online </td>
-		<td><a href="https://twitter.com/bpbonline">bpbonline</a></td>
+		<td><a target="_blank" href="https://twitter.com/bpbonline">bpbonline</a></td>
 		<td>Delhi India</td>
 		<td>588</td>
 	</tr>
@@ -1561,7 +1562,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shikha Gupta
 		</td>
 		<td>Masai School </td>
-		<td><a href="https://twitter.com/ShikhaG61708689">ShikhaG61708689</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShikhaG61708689">ShikhaG61708689</a></td>
 		<td>ShahdolMadhyaPradeshIndia</td>
 		<td>588</td>
 	</tr>
@@ -1574,7 +1575,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vishal Rajput
 		</td>
 		<td>Netaji Subhas University Of<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/vishalraj_1">vishalraj_1</a></td>
+		<td><a target="_blank" href="https://twitter.com/vishalraj_1">vishalraj_1</a></td>
 		<td>New Delhi India</td>
 		<td>579</td>
 	</tr>
@@ -1587,7 +1588,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Liyas Thomas
 		</td>
 		<td>@hoppscotch </td>
-		<td><a href="https://twitter.com/liyasthomas">liyasthomas</a></td>
+		<td><a target="_blank" href="https://twitter.com/liyasthomas">liyasthomas</a></td>
 		<td>Kerala India</td>
 		<td>568</td>
 	</tr>
@@ -1600,7 +1601,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rajasegar Chandran
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rajasegar_c">rajasegar_c</a></td>
+		<td><a target="_blank" href="https://twitter.com/rajasegar_c">rajasegar_c</a></td>
 		<td>Chennai India</td>
 		<td>567</td>
 	</tr>
@@ -1613,7 +1614,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anurag Hazra
 		</td>
 		<td>@razorpay </td>
-		<td><a href="https://twitter.com/anuraghazru">anuraghazru</a></td>
+		<td><a target="_blank" href="https://twitter.com/anuraghazru">anuraghazru</a></td>
 		<td>India West Bengal</td>
 		<td>566</td>
 	</tr>
@@ -1626,7 +1627,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nirmalya Ghosh
 		</td>
 		<td>Mintlify </td>
-		<td><a href="https://twitter.com/NirmalyaGhosh_">NirmalyaGhosh_</a></td>
+		<td><a target="_blank" href="https://twitter.com/NirmalyaGhosh_">NirmalyaGhosh_</a></td>
 		<td>India</td>
 		<td>565</td>
 	</tr>
@@ -1639,7 +1640,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Jayant Kumar
 		</td>
 		<td>Senior Android Engineer At<br/>@antinolabs<br/></td>
-		<td><a href="https://twitter.com/nameisjayant">nameisjayant</a></td>
+		<td><a target="_blank" href="https://twitter.com/nameisjayant">nameisjayant</a></td>
 		<td>New Delhi India</td>
 		<td>562</td>
 	</tr>
@@ -1665,7 +1666,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Janishar Ali
 		</td>
 		<td>@curiousjr </td>
-		<td><a href="https://twitter.com/janisharali">janisharali</a></td>
+		<td><a target="_blank" href="https://twitter.com/janisharali">janisharali</a></td>
 		<td>New Delhi India</td>
 		<td>560</td>
 	</tr>
@@ -1678,7 +1679,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashok IT
 		</td>
 		<td>Ashok It </td>
-		<td><a href="https://twitter.com/AshokITSchool">AshokITSchool</a></td>
+		<td><a target="_blank" href="https://twitter.com/AshokITSchool">AshokITSchool</a></td>
 		<td>Hyderabad</td>
 		<td>555</td>
 	</tr>
@@ -1691,7 +1692,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			HOSHIYAR SINGH JYANI
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hoshiyarjyani">hoshiyarjyani</a></td>
+		<td><a target="_blank" href="https://twitter.com/hoshiyarjyani">hoshiyarjyani</a></td>
 		<td>Jaipur Rajasthan</td>
 		<td>549</td>
 	</tr>
@@ -1704,7 +1705,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Siddhant Khare
 		</td>
 		<td>@gitpodio </td>
-		<td><a href="https://twitter.com/Siddhant_K_code">Siddhant_K_code</a></td>
+		<td><a target="_blank" href="https://twitter.com/Siddhant_K_code">Siddhant_K_code</a></td>
 		<td>Jabalpur India</td>
 		<td>544</td>
 	</tr>
@@ -1717,7 +1718,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya Oberai
 		</td>
 		<td>@appwrite </td>
-		<td><a href="https://twitter.com/adityaoberai1">adityaoberai1</a></td>
+		<td><a target="_blank" href="https://twitter.com/adityaoberai1">adityaoberai1</a></td>
 		<td>Bengaluru India</td>
 		<td>537</td>
 	</tr>
@@ -1730,7 +1731,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kaiwalya Koparkar
 		</td>
 		<td>@elestio </td>
-		<td><a href="https://twitter.com/kaiwalya_">kaiwalya_</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaiwalya_">kaiwalya_</a></td>
 		<td>Nashik India</td>
 		<td>536</td>
 	</tr>
@@ -1756,7 +1757,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			AB
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bhadra_arijit">bhadra_arijit</a></td>
+		<td><a target="_blank" href="https://twitter.com/bhadra_arijit">bhadra_arijit</a></td>
 		<td>Bangalore India</td>
 		<td>522</td>
 	</tr>
@@ -1769,7 +1770,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Collabnix
 		</td>
 		<td>@collabnix </td>
-		<td><a href="https://twitter.com/collabnix">collabnix</a></td>
+		<td><a target="_blank" href="https://twitter.com/collabnix">collabnix</a></td>
 		<td>Bengaluru</td>
 		<td>520</td>
 	</tr>
@@ -1795,7 +1796,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dhaiwat
 		</td>
 		<td>@fuellabs </td>
-		<td><a href="https://twitter.com/dhaiwat10">dhaiwat10</a></td>
+		<td><a target="_blank" href="https://twitter.com/dhaiwat10">dhaiwat10</a></td>
 		<td>Surat India</td>
 		<td>518</td>
 	</tr>
@@ -1821,7 +1822,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kinshuk Banerjee
 		</td>
 		<td>@gncsgi  </td>
-		<td><a href="https://twitter.com/Kinshuk_1729">Kinshuk_1729</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kinshuk_1729">Kinshuk_1729</a></td>
 		<td>Jabalpur  Madhya Pradesh  India</td>
 		<td>515</td>
 	</tr>
@@ -1847,7 +1848,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ujaval Gandhi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/spatialthoughts">spatialthoughts</a></td>
+		<td><a target="_blank" href="https://twitter.com/spatialthoughts">spatialthoughts</a></td>
 		<td>India</td>
 		<td>511</td>
 	</tr>
@@ -1860,7 +1861,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Naman Kumar
 		</td>
 		<td>@producthunt </td>
-		<td><a href="https://twitter.com/TheNamanKumar">TheNamanKumar</a></td>
+		<td><a target="_blank" href="https://twitter.com/TheNamanKumar">TheNamanKumar</a></td>
 		<td>New Delhi India</td>
 		<td>510</td>
 	</tr>
@@ -1886,7 +1887,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rishav Chanda
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RishavChanda">RishavChanda</a></td>
+		<td><a target="_blank" href="https://twitter.com/RishavChanda">RishavChanda</a></td>
 		<td>Kolkata West Bengal India</td>
 		<td>508</td>
 	</tr>
@@ -1912,7 +1913,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kushashwa Ravi Shrimali
 		</td>
 		<td>@abnormalsecurity </td>
-		<td><a href="https://twitter.com/kushashwa">kushashwa</a></td>
+		<td><a target="_blank" href="https://twitter.com/kushashwa">kushashwa</a></td>
 		<td>India</td>
 		<td>493</td>
 	</tr>
@@ -1925,7 +1926,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arnav Gupta
 		</td>
 		<td>@scaleracademy </td>
-		<td><a href="https://twitter.com/championswimmer">championswimmer</a></td>
+		<td><a target="_blank" href="https://twitter.com/championswimmer">championswimmer</a></td>
 		<td>Bangalore India</td>
 		<td>491</td>
 	</tr>
@@ -1938,7 +1939,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya Shakya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adi1090x">adi1090x</a></td>
+		<td><a target="_blank" href="https://twitter.com/adi1090x">adi1090x</a></td>
 		<td>India</td>
 		<td>489</td>
 	</tr>
@@ -1951,7 +1952,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Thejesh GN
 		</td>
 		<td>Independent Technologist </td>
-		<td><a href="https://twitter.com/thej">thej</a></td>
+		<td><a target="_blank" href="https://twitter.com/thej">thej</a></td>
 		<td>Bangalore India</td>
 		<td>489</td>
 	</tr>
@@ -1977,7 +1978,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Monu Kumar
 		</td>
 		<td>Coding Blocks  </td>
-		<td><a href="https://twitter.com/monukumar98_">monukumar98_</a></td>
+		<td><a target="_blank" href="https://twitter.com/monukumar98_">monukumar98_</a></td>
 		<td>New Delhi</td>
 		<td>483</td>
 	</tr>
@@ -1990,7 +1991,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akshay Vs
 		</td>
 		<td>Student </td>
-		<td><a href="https://twitter.com/Akshay_vs__">Akshay_vs__</a></td>
+		<td><a target="_blank" href="https://twitter.com/Akshay_vs__">Akshay_vs__</a></td>
 		<td>Kerala India</td>
 		<td>481</td>
 	</tr>
@@ -2003,7 +2004,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Swastik Baranwal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Delta2315">Delta2315</a></td>
+		<td><a target="_blank" href="https://twitter.com/Delta2315">Delta2315</a></td>
 		<td>Delhi India</td>
 		<td>473</td>
 	</tr>
@@ -2029,7 +2030,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ritesh Yadav
 		</td>
 		<td>@getporter @pydataguna @intellectai </td>
-		<td><a href="https://twitter.com/RiteshYadav_1">RiteshYadav_1</a></td>
+		<td><a target="_blank" href="https://twitter.com/RiteshYadav_1">RiteshYadav_1</a></td>
 		<td>KanpurIndia</td>
 		<td>459</td>
 	</tr>
@@ -2094,7 +2095,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akash Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/akashsingh3031">akashsingh3031</a></td>
+		<td><a target="_blank" href="https://twitter.com/akashsingh3031">akashsingh3031</a></td>
 		<td>India</td>
 		<td>448</td>
 	</tr>
@@ -2107,7 +2108,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Yusuf Shakeel
 		</td>
 		<td>Thoughtworks </td>
-		<td><a href="https://twitter.com/yusufshakeel">yusufshakeel</a></td>
+		<td><a target="_blank" href="https://twitter.com/yusufshakeel">yusufshakeel</a></td>
 		<td>India</td>
 		<td>446</td>
 	</tr>
@@ -2146,7 +2147,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Azeem Idrisi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Azeem_5202">Azeem_5202</a></td>
+		<td><a target="_blank" href="https://twitter.com/Azeem_5202">Azeem_5202</a></td>
 		<td>New Delhi India</td>
 		<td>437</td>
 	</tr>
@@ -2159,7 +2160,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pranjay Poddar
 		</td>
 		<td>@paypal </td>
-		<td><a href="https://twitter.com/PranjayPoddar">PranjayPoddar</a></td>
+		<td><a target="_blank" href="https://twitter.com/PranjayPoddar">PranjayPoddar</a></td>
 		<td>Bangalore India</td>
 		<td>432</td>
 	</tr>
@@ -2172,7 +2173,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhisek Datta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/abh1sek">abh1sek</a></td>
+		<td><a target="_blank" href="https://twitter.com/abh1sek">abh1sek</a></td>
 		<td>Bangalore India</td>
 		<td>431</td>
 	</tr>
@@ -2185,7 +2186,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Khushboo Verma
 		</td>
 		<td>Appwrite </td>
-		<td><a href="https://twitter.com/khushbooverma_">khushbooverma_</a></td>
+		<td><a target="_blank" href="https://twitter.com/khushbooverma_">khushbooverma_</a></td>
 		<td>Bengaluru India</td>
 		<td>429</td>
 	</tr>
@@ -2224,7 +2225,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Piyush Garg
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/piyushgarg_dev">piyushgarg_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/piyushgarg_dev">piyushgarg_dev</a></td>
 		<td>India</td>
 		<td>421</td>
 	</tr>
@@ -2237,7 +2238,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhay Faldu
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/abhayfaldu19">abhayfaldu19</a></td>
+		<td><a target="_blank" href="https://twitter.com/abhayfaldu19">abhayfaldu19</a></td>
 		<td>Jamnagar Gujrat India</td>
 		<td>417</td>
 	</tr>
@@ -2250,7 +2251,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sushant Kumar
 		</td>
 		<td>Pantheon Digital </td>
-		<td><a href="https://twitter.com/Sushantkr961">Sushantkr961</a></td>
+		<td><a target="_blank" href="https://twitter.com/Sushantkr961">Sushantkr961</a></td>
 		<td>BiharIndia</td>
 		<td>416</td>
 	</tr>
@@ -2302,7 +2303,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ali Solanki
 		</td>
 		<td>Show World Film Directory<br/></td>
-		<td><a href="https://twitter.com/alisolankii">alisolankii</a></td>
+		<td><a target="_blank" href="https://twitter.com/alisolankii">alisolankii</a></td>
 		<td>Andheri West Mumbai India</td>
 		<td>398</td>
 	</tr>
@@ -2315,7 +2316,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Jagan
 		</td>
 		<td>Jgnacademy </td>
-		<td><a href="https://twitter.com/aauturch">aauturch</a></td>
+		<td><a target="_blank" href="https://twitter.com/aauturch">aauturch</a></td>
 		<td>chennai</td>
 		<td>396</td>
 	</tr>
@@ -2328,7 +2329,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sajjad Anwar
 		</td>
 		<td>@developmentseed  </td>
-		<td><a href="https://twitter.com/geohacker">geohacker</a></td>
+		<td><a target="_blank" href="https://twitter.com/geohacker">geohacker</a></td>
 		<td>Bangalore India</td>
 		<td>395</td>
 	</tr>
@@ -2354,7 +2355,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amar Prakash Pandey
 		</td>
 		<td>@sahajsoft </td>
-		<td><a href="https://twitter.com/iamarpandey">iamarpandey</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamarpandey">iamarpandey</a></td>
 		<td>India</td>
 		<td>392</td>
 	</tr>
@@ -2367,7 +2368,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Avneesh Agarwal
 		</td>
 		<td>@thirdwebdev </td>
-		<td><a href="https://twitter.com/avneesh0612">avneesh0612</a></td>
+		<td><a target="_blank" href="https://twitter.com/avneesh0612">avneesh0612</a></td>
 		<td>Kolkata India</td>
 		<td>391</td>
 	</tr>
@@ -2380,7 +2381,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saurabh Kumar
 		</td>
 		<td>@fueled </td>
-		<td><a href="https://twitter.com/_theskumar">_theskumar</a></td>
+		<td><a target="_blank" href="https://twitter.com/_theskumar">_theskumar</a></td>
 		<td>New Delhi India</td>
 		<td>389</td>
 	</tr>
@@ -2393,7 +2394,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Omraj Sharma
 		</td>
 		<td>Wheelseye </td>
-		<td><a href="https://twitter.com/om_raj_sharma">om_raj_sharma</a></td>
+		<td><a target="_blank" href="https://twitter.com/om_raj_sharma">om_raj_sharma</a></td>
 		<td>India</td>
 		<td>387</td>
 	</tr>
@@ -2406,7 +2407,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam Chaudhary
 		</td>
 		<td>Wlc Technology </td>
-		<td><a href="https://twitter.com/sivamchdhry">sivamchdhry</a></td>
+		<td><a target="_blank" href="https://twitter.com/sivamchdhry">sivamchdhry</a></td>
 		<td>Lucknow Uttar Pradesh</td>
 		<td>382</td>
 	</tr>
@@ -2432,7 +2433,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Urvashi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/urvaxhi">urvaxhi</a></td>
+		<td><a target="_blank" href="https://twitter.com/urvaxhi">urvaxhi</a></td>
 		<td>India</td>
 		<td>368</td>
 	</tr>
@@ -2445,7 +2446,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Deven Joshi
 		</td>
 		<td>Getstreamio </td>
-		<td><a href="https://twitter.com/DevenJoshi7">DevenJoshi7</a></td>
+		<td><a target="_blank" href="https://twitter.com/DevenJoshi7">DevenJoshi7</a></td>
 		<td>Pune Maharashtra</td>
 		<td>366</td>
 	</tr>
@@ -2471,7 +2472,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kamlesh Chandnani
 		</td>
 		<td>Razorpay </td>
-		<td><a href="https://twitter.com/_kamlesh_">_kamlesh_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_kamlesh_">_kamlesh_</a></td>
 		<td>Bangalore India</td>
 		<td>365</td>
 	</tr>
@@ -2497,7 +2498,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nabarun Pal
 		</td>
 		<td>Vmware </td>
-		<td><a href="https://twitter.com/theonlynabarun">theonlynabarun</a></td>
+		<td><a target="_blank" href="https://twitter.com/theonlynabarun">theonlynabarun</a></td>
 		<td>Remote  India</td>
 		<td>358</td>
 	</tr>
@@ -2510,7 +2511,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aashutosh Rathi
 		</td>
 		<td>@regieio @2amdevs </td>
-		<td><a href="https://twitter.com/AashutoshRathi">AashutoshRathi</a></td>
+		<td><a target="_blank" href="https://twitter.com/AashutoshRathi">AashutoshRathi</a></td>
 		<td>Bengaluru India</td>
 		<td>357</td>
 	</tr>
@@ -2523,7 +2524,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Raghu S
 		</td>
 		<td>Remote </td>
-		<td><a href="https://twitter.com/raghu7_">raghu7_</a></td>
+		<td><a target="_blank" href="https://twitter.com/raghu7_">raghu7_</a></td>
 		<td>Bengaluru</td>
 		<td>356</td>
 	</tr>
@@ -2536,7 +2537,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sanju S
 		</td>
 		<td>@thisuxhq </td>
-		<td><a href="https://twitter.com/spikeysanju">spikeysanju</a></td>
+		<td><a target="_blank" href="https://twitter.com/spikeysanju">spikeysanju</a></td>
 		<td>Chennai India</td>
 		<td>354</td>
 	</tr>
@@ -2549,7 +2550,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saiyam Pathak
 		</td>
 		<td>Civo </td>
-		<td><a href="https://twitter.com/saiyampathak">saiyampathak</a></td>
+		<td><a target="_blank" href="https://twitter.com/saiyampathak">saiyampathak</a></td>
 		<td>Bangalore India</td>
 		<td>354</td>
 	</tr>
@@ -2575,7 +2576,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sameer Naik
 		</td>
 		<td>Triggermesh Inc </td>
-		<td><a href="https://twitter.com/sameersbn">sameersbn</a></td>
+		<td><a target="_blank" href="https://twitter.com/sameersbn">sameersbn</a></td>
 		<td>Goa India</td>
 		<td>345</td>
 	</tr>
@@ -2601,7 +2602,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			RAJAT AGRAWAL
 		</td>
 		<td>Saunidhi Infotech </td>
-		<td><a href="https://twitter.com/RAJATAGRAWAL310">RAJATAGRAWAL310</a></td>
+		<td><a target="_blank" href="https://twitter.com/RAJATAGRAWAL310">RAJATAGRAWAL310</a></td>
 		<td>Bangalore India</td>
 		<td>345</td>
 	</tr>
@@ -2627,7 +2628,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anand Chitipothu
 		</td>
 		<td>@pipalacademy </td>
-		<td><a href="https://twitter.com/anandology">anandology</a></td>
+		<td><a target="_blank" href="https://twitter.com/anandology">anandology</a></td>
 		<td>Bangalore India</td>
 		<td>336</td>
 	</tr>
@@ -2640,7 +2641,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nishant Kumar
 		</td>
 		<td>Cybernatico </td>
-		<td><a href="https://twitter.com/nishants440">nishants440</a></td>
+		<td><a target="_blank" href="https://twitter.com/nishants440">nishants440</a></td>
 		<td>India World</td>
 		<td>336</td>
 	</tr>
@@ -2653,7 +2654,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rudra Saraswat
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RudraSaraswat1">RudraSaraswat1</a></td>
+		<td><a target="_blank" href="https://twitter.com/RudraSaraswat1">RudraSaraswat1</a></td>
 		<td>India</td>
 		<td>335</td>
 	</tr>
@@ -2666,7 +2667,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aryaman
 		</td>
 		<td>Atlanhq </td>
-		<td><a href="https://twitter.com/AryamanZ29">AryamanZ29</a></td>
+		<td><a target="_blank" href="https://twitter.com/AryamanZ29">AryamanZ29</a></td>
 		<td>India</td>
 		<td>335</td>
 	</tr>
@@ -2679,7 +2680,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Juned Chhipa
 		</td>
 		<td>Orgnostic Inc </td>
-		<td><a href="https://twitter.com/junedchhipa">junedchhipa</a></td>
+		<td><a target="_blank" href="https://twitter.com/junedchhipa">junedchhipa</a></td>
 		<td>India</td>
 		<td>335</td>
 	</tr>
@@ -2692,7 +2693,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			 Sonpatki
 		</td>
 		<td>Last9io </td>
-		<td><a href="https://twitter.com/prathamesh2_">prathamesh2_</a></td>
+		<td><a target="_blank" href="https://twitter.com/prathamesh2_">prathamesh2_</a></td>
 		<td>Pune India</td>
 		<td>329</td>
 	</tr>
@@ -2718,7 +2719,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gagan Malvi
 		</td>
 		<td>@aospa  @styxproject </td>
-		<td><a href="https://twitter.com/malviscape">malviscape</a></td>
+		<td><a target="_blank" href="https://twitter.com/malviscape">malviscape</a></td>
 		<td>Bengaluru Karnataka India</td>
 		<td>329</td>
 	</tr>
@@ -2731,7 +2732,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Avinal Kumar
 		</td>
 		<td>@redhatofficial </td>
-		<td><a href="https://twitter.com/Avinal_">Avinal_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Avinal_">Avinal_</a></td>
 		<td>India</td>
 		<td>328</td>
 	</tr>
@@ -2744,7 +2745,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Somdev Sangwan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/s0md3v">s0md3v</a></td>
+		<td><a target="_blank" href="https://twitter.com/s0md3v">s0md3v</a></td>
 		<td>India</td>
 		<td>326</td>
 	</tr>
@@ -2770,7 +2771,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Swapnil Srivastava
 		</td>
 		<td>@buildbearlabs </td>
-		<td><a href="https://twitter.com/swapnilsparsh">swapnilsparsh</a></td>
+		<td><a target="_blank" href="https://twitter.com/swapnilsparsh">swapnilsparsh</a></td>
 		<td>Lucknow</td>
 		<td>324</td>
 	</tr>
@@ -2822,7 +2823,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nikhita Raghunath
 		</td>
 		<td>@vmware </td>
-		<td><a href="https://twitter.com/TheNikhita">TheNikhita</a></td>
+		<td><a target="_blank" href="https://twitter.com/TheNikhita">TheNikhita</a></td>
 		<td>Bangalore India</td>
 		<td>316</td>
 	</tr>
@@ -2835,7 +2836,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			pRaNaY
 		</td>
 		<td>@mutualmobile </td>
-		<td><a href="https://twitter.com/pranaypatel_">pranaypatel_</a></td>
+		<td><a target="_blank" href="https://twitter.com/pranaypatel_">pranaypatel_</a></td>
 		<td>AhmedabadGujaratIndia</td>
 		<td>316</td>
 	</tr>
@@ -2887,7 +2888,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vinit Shahdeo
 		</td>
 		<td>@postmanlabs  </td>
-		<td><a href="https://twitter.com/Vinit_Shahdeo">Vinit_Shahdeo</a></td>
+		<td><a target="_blank" href="https://twitter.com/Vinit_Shahdeo">Vinit_Shahdeo</a></td>
 		<td>Bangalore India</td>
 		<td>309</td>
 	</tr>
@@ -2900,7 +2901,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Karan Sharma
 		</td>
 		<td>@zerodha  </td>
-		<td><a href="https://twitter.com/mrkaran_">mrkaran_</a></td>
+		<td><a target="_blank" href="https://twitter.com/mrkaran_">mrkaran_</a></td>
 		<td>Bangalore India</td>
 		<td>309</td>
 	</tr>
@@ -2926,7 +2927,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			SUDIP MONDAL
 		</td>
 		<td>Iit Madras </td>
-		<td><a href="https://twitter.com/SUDIPMO19931261">SUDIPMO19931261</a></td>
+		<td><a target="_blank" href="https://twitter.com/SUDIPMO19931261">SUDIPMO19931261</a></td>
 		<td>INDIA</td>
 		<td>306</td>
 	</tr>
@@ -2939,7 +2940,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sai Krishna
 		</td>
 		<td>@thoughtworks </td>
-		<td><a href="https://twitter.com/saikrisv">saikrisv</a></td>
+		<td><a target="_blank" href="https://twitter.com/saikrisv">saikrisv</a></td>
 		<td>India</td>
 		<td>306</td>
 	</tr>
@@ -2978,7 +2979,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Samyak Shah
 		</td>
 		<td>Cosmofeed </td>
-		<td><a href="https://twitter.com/SamyakShah_18">SamyakShah_18</a></td>
+		<td><a target="_blank" href="https://twitter.com/SamyakShah_18">SamyakShah_18</a></td>
 		<td>India</td>
 		<td>302</td>
 	</tr>
@@ -2991,7 +2992,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anbuselvan Rocky
 		</td>
 		<td>@cyberdudenetworks  </td>
-		<td><a href="https://twitter.com/anbuselvanrocky">anbuselvanrocky</a></td>
+		<td><a target="_blank" href="https://twitter.com/anbuselvanrocky">anbuselvanrocky</a></td>
 		<td>Chennai India Planet Earth</td>
 		<td>298</td>
 	</tr>
@@ -3043,7 +3044,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amarjit Pheiroijam
 		</td>
 		<td>Juntrax Solution </td>
-		<td><a href="https://twitter.com/AmarjitPh_">AmarjitPh_</a></td>
+		<td><a target="_blank" href="https://twitter.com/AmarjitPh_">AmarjitPh_</a></td>
 		<td>Bangalore India</td>
 		<td>293</td>
 	</tr>
@@ -3056,7 +3057,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vishwa Gaurav
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/VishwaGauravIn">VishwaGauravIn</a></td>
+		<td><a target="_blank" href="https://twitter.com/VishwaGauravIn">VishwaGauravIn</a></td>
 		<td>India</td>
 		<td>292</td>
 	</tr>
@@ -3069,7 +3070,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GoteShivam">GoteShivam</a></td>
+		<td><a target="_blank" href="https://twitter.com/GoteShivam">GoteShivam</a></td>
 		<td>Pune Maharashtra</td>
 		<td>292</td>
 	</tr>
@@ -3082,7 +3083,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Promode
 		</td>
 		<td>Scrolltest </td>
-		<td><a href="https://twitter.com/itstechmode">itstechmode</a></td>
+		<td><a target="_blank" href="https://twitter.com/itstechmode">itstechmode</a></td>
 		<td>India</td>
 		<td>289</td>
 	</tr>
@@ -3121,7 +3122,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anmol Verma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/oianmol">oianmol</a></td>
+		<td><a target="_blank" href="https://twitter.com/oianmol">oianmol</a></td>
 		<td>India</td>
 		<td>284</td>
 	</tr>
@@ -3134,7 +3135,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pratap Pawar
 		</td>
 		<td>Vellore Institute Of Technology<br/>Bhopal<br/></td>
-		<td><a href="https://twitter.com/Pratappawar_">Pratappawar_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Pratappawar_">Pratappawar_</a></td>
 		<td>India</td>
 		<td>284</td>
 	</tr>
@@ -3160,7 +3161,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arghyadeep Das
 		</td>
 		<td>@barclays </td>
-		<td><a href="https://twitter.com/arghyadeepdas99">arghyadeepdas99</a></td>
+		<td><a target="_blank" href="https://twitter.com/arghyadeepdas99">arghyadeepdas99</a></td>
 		<td>Navi Mumbai India</td>
 		<td>282</td>
 	</tr>
@@ -3173,7 +3174,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Himanshu Ramchandani
 		</td>
 		<td>@hemansai  </td>
-		<td><a href="https://twitter.com/hemansnation">hemansnation</a></td>
+		<td><a target="_blank" href="https://twitter.com/hemansnation">hemansnation</a></td>
 		<td>India</td>
 		<td>279</td>
 	</tr>
@@ -3186,7 +3187,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prathima Kadari
 		</td>
 		<td>Symbiosis Centre For Distance<br/>Learning<br/></td>
-		<td><a href="https://twitter.com/prathima_kadari">prathima_kadari</a></td>
+		<td><a target="_blank" href="https://twitter.com/prathima_kadari">prathima_kadari</a></td>
 		<td>Telangana India</td>
 		<td>279</td>
 	</tr>
@@ -3199,7 +3200,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nishkarsh Raj
 		</td>
 		<td>@statusneo </td>
-		<td><a href="https://twitter.com/NishkarshRaj1">NishkarshRaj1</a></td>
+		<td><a target="_blank" href="https://twitter.com/NishkarshRaj1">NishkarshRaj1</a></td>
 		<td>India</td>
 		<td>279</td>
 	</tr>
@@ -3212,7 +3213,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rajkumar Dusad
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rajkumar_dusad">rajkumar_dusad</a></td>
+		<td><a target="_blank" href="https://twitter.com/rajkumar_dusad">rajkumar_dusad</a></td>
 		<td>India</td>
 		<td>277</td>
 	</tr>
@@ -3225,7 +3226,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ravi Suhag
 		</td>
 		<td>Pixxel </td>
-		<td><a href="https://twitter.com/ravi_suhag">ravi_suhag</a></td>
+		<td><a target="_blank" href="https://twitter.com/ravi_suhag">ravi_suhag</a></td>
 		<td>India</td>
 		<td>276</td>
 	</tr>
@@ -3251,7 +3252,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Avanish Mani Tripathi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/imavanishmani">imavanishmani</a></td>
+		<td><a target="_blank" href="https://twitter.com/imavanishmani">imavanishmani</a></td>
 		<td>Deoria India</td>
 		<td>275</td>
 	</tr>
@@ -3264,7 +3265,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhupesh Varshney
 		</td>
 		<td>@nurdsoft </td>
-		<td><a href="https://twitter.com/bhupeshimself">bhupeshimself</a></td>
+		<td><a target="_blank" href="https://twitter.com/bhupeshimself">bhupeshimself</a></td>
 		<td>New Delhi India</td>
 		<td>273</td>
 	</tr>
@@ -3277,7 +3278,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anubhav Singh
 		</td>
 		<td>Building @dynopii  </td>
-		<td><a href="https://twitter.com/xprilion">xprilion</a></td>
+		<td><a target="_blank" href="https://twitter.com/xprilion">xprilion</a></td>
 		<td>India</td>
 		<td>272</td>
 	</tr>
@@ -3290,7 +3291,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amogh Lele
 		</td>
 		<td>@goalistdeveloper </td>
-		<td><a href="https://twitter.com/Spherical_Kat">Spherical_Kat</a></td>
+		<td><a target="_blank" href="https://twitter.com/Spherical_Kat">Spherical_Kat</a></td>
 		<td>Mumbai</td>
 		<td>272</td>
 	</tr>
@@ -3303,7 +3304,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya Thakur
 		</td>
 		<td>@100mslive </td>
-		<td><a href="https://twitter.com/adityathakurxd">adityathakurxd</a></td>
+		<td><a target="_blank" href="https://twitter.com/adityathakurxd">adityathakurxd</a></td>
 		<td>India</td>
 		<td>268</td>
 	</tr>
@@ -3329,7 +3330,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prashant Singh Rana
 		</td>
 		<td>Thapar Institute Of Engineering<br/>And<br/>Technology<br/>Patiala<br/>Punjab<br/>India<br/></td>
-		<td><a href="https://twitter.com/psrana1982">psrana1982</a></td>
+		<td><a target="_blank" href="https://twitter.com/psrana1982">psrana1982</a></td>
 		<td>Patiala Punjab India</td>
 		<td>262</td>
 	</tr>
@@ -3342,7 +3343,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sriyank Siddhartha
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sriyanksid">sriyanksid</a></td>
+		<td><a target="_blank" href="https://twitter.com/sriyanksid">sriyanksid</a></td>
 		<td>India</td>
 		<td>261</td>
 	</tr>
@@ -3355,7 +3356,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Burhanuddin Udaipurwala
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/burhanuday">burhanuday</a></td>
+		<td><a target="_blank" href="https://twitter.com/burhanuday">burhanuday</a></td>
 		<td>Mumbai</td>
 		<td>261</td>
 	</tr>
@@ -3368,7 +3369,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chetan Gupta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ch8n2">ch8n2</a></td>
+		<td><a target="_blank" href="https://twitter.com/ch8n2">ch8n2</a></td>
 		<td>India</td>
 		<td>260</td>
 	</tr>
@@ -3381,7 +3382,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pugalarasan
 		</td>
 		<td>Remote </td>
-		<td><a href="https://twitter.com/0xPugal">0xPugal</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xPugal">0xPugal</a></td>
 		<td>TamilNadu India</td>
 		<td>258</td>
 	</tr>
@@ -3394,7 +3395,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Jiganesh Patil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/PatilJiganesh">PatilJiganesh</a></td>
+		<td><a target="_blank" href="https://twitter.com/PatilJiganesh">PatilJiganesh</a></td>
 		<td>India</td>
 		<td>256</td>
 	</tr>
@@ -3407,7 +3408,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya Telange
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adityatelange">adityatelange</a></td>
+		<td><a target="_blank" href="https://twitter.com/adityatelange">adityatelange</a></td>
 		<td>India</td>
 		<td>256</td>
 	</tr>
@@ -3420,7 +3421,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashish Rawat
 		</td>
 		<td>Publicis Sapient </td>
-		<td><a href="https://twitter.com/ashishrawat2911">ashishrawat2911</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashishrawat2911">ashishrawat2911</a></td>
 		<td>New Delhi</td>
 		<td>255</td>
 	</tr>
@@ -3433,7 +3434,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya
 		</td>
 		<td>@teamultroid @dscmbcet </td>
-		<td><a href="https://twitter.com/its_xditya">its_xditya</a></td>
+		<td><a target="_blank" href="https://twitter.com/its_xditya">its_xditya</a></td>
 		<td>Kerala India</td>
 		<td>254</td>
 	</tr>
@@ -3446,7 +3447,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohan Kulkarni
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rohan_2502">rohan_2502</a></td>
+		<td><a target="_blank" href="https://twitter.com/rohan_2502">rohan_2502</a></td>
 		<td>PuneIndia</td>
 		<td>253</td>
 	</tr>
@@ -3459,7 +3460,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhishek Doshi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AbhishekDoshi26">AbhishekDoshi26</a></td>
+		<td><a target="_blank" href="https://twitter.com/AbhishekDoshi26">AbhishekDoshi26</a></td>
 		<td>India</td>
 		<td>252</td>
 	</tr>
@@ -3472,7 +3473,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Salil Naik
 		</td>
 		<td>Socket Technology </td>
-		<td><a href="https://twitter.com/0xSalilNaik">0xSalilNaik</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xSalilNaik">0xSalilNaik</a></td>
 		<td>Goa India</td>
 		<td>251</td>
 	</tr>
@@ -3485,7 +3486,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pushkar Patel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/thepushkarp">thepushkarp</a></td>
+		<td><a target="_blank" href="https://twitter.com/thepushkarp">thepushkarp</a></td>
 		<td>India</td>
 		<td>250</td>
 	</tr>
@@ -3511,7 +3512,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hitesh Choudhary
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hiteshdotcom">hiteshdotcom</a></td>
+		<td><a target="_blank" href="https://twitter.com/hiteshdotcom">hiteshdotcom</a></td>
 		<td>India</td>
 		<td>246</td>
 	</tr>
@@ -3537,7 +3538,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vipul A M
 		</td>
 		<td>@saeloun </td>
-		<td><a href="https://twitter.com/vipulnsward">vipulnsward</a></td>
+		<td><a target="_blank" href="https://twitter.com/vipulnsward">vipulnsward</a></td>
 		<td>Pune</td>
 		<td>244</td>
 	</tr>
@@ -3550,7 +3551,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivay Lamba
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/howdevelop">howdevelop</a></td>
+		<td><a target="_blank" href="https://twitter.com/howdevelop">howdevelop</a></td>
 		<td>New Delhi India</td>
 		<td>243</td>
 	</tr>
@@ -3563,7 +3564,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hrittik Roy
 		</td>
 		<td>@loftsh </td>
-		<td><a href="https://twitter.com/hrittikhere">hrittikhere</a></td>
+		<td><a target="_blank" href="https://twitter.com/hrittikhere">hrittikhere</a></td>
 		<td>India</td>
 		<td>243</td>
 	</tr>
@@ -3576,7 +3577,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			subham kumar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/subham16kumar">subham16kumar</a></td>
+		<td><a target="_blank" href="https://twitter.com/subham16kumar">subham16kumar</a></td>
 		<td>India</td>
 		<td>243</td>
 	</tr>
@@ -3589,7 +3590,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			tarun
 		</td>
 		<td>Developer At Mercanis </td>
-		<td><a href="https://twitter.com/tkssharma">tkssharma</a></td>
+		<td><a target="_blank" href="https://twitter.com/tkssharma">tkssharma</a></td>
 		<td>India</td>
 		<td>241</td>
 	</tr>
@@ -3602,7 +3603,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kishan Sheth
 		</td>
 		<td>Rapidops </td>
-		<td><a href="https://twitter.com/koolkishansheth">koolkishansheth</a></td>
+		<td><a target="_blank" href="https://twitter.com/koolkishansheth">koolkishansheth</a></td>
 		<td>India</td>
 		<td>241</td>
 	</tr>
@@ -3628,7 +3629,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhishek Gupta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/abhi_tweeter">abhi_tweeter</a></td>
+		<td><a target="_blank" href="https://twitter.com/abhi_tweeter">abhi_tweeter</a></td>
 		<td>India</td>
 		<td>238</td>
 	</tr>
@@ -3654,7 +3655,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gokulakrishnan Kalaikovan
 		</td>
 		<td>@salesforce </td>
-		<td><a href="https://twitter.com/gokul_i">gokul_i</a></td>
+		<td><a target="_blank" href="https://twitter.com/gokul_i">gokul_i</a></td>
 		<td>Bangalore India</td>
 		<td>235</td>
 	</tr>
@@ -3667,7 +3668,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amanjeet Singh
 		</td>
 		<td>@mobiledevinc </td>
-		<td><a href="https://twitter.com/droid_singh">droid_singh</a></td>
+		<td><a target="_blank" href="https://twitter.com/droid_singh">droid_singh</a></td>
 		<td>New Delhi</td>
 		<td>232</td>
 	</tr>
@@ -3680,7 +3681,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anuraj
 		</td>
 		<td>@socxo  </td>
-		<td><a href="https://twitter.com/anuraj">anuraj</a></td>
+		<td><a target="_blank" href="https://twitter.com/anuraj">anuraj</a></td>
 		<td>India</td>
 		<td>232</td>
 	</tr>
@@ -3732,7 +3733,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Tejas Vilas Medade
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/TejasMedade">TejasMedade</a></td>
+		<td><a target="_blank" href="https://twitter.com/TejasMedade">TejasMedade</a></td>
 		<td>Mumbai Maharashta India</td>
 		<td>227</td>
 	</tr>
@@ -3745,7 +3746,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dhrumi Shah
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/deetwts">deetwts</a></td>
+		<td><a target="_blank" href="https://twitter.com/deetwts">deetwts</a></td>
 		<td>India</td>
 		<td>226</td>
 	</tr>
@@ -3758,7 +3759,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aman Verma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/amanvermai30">amanvermai30</a></td>
+		<td><a target="_blank" href="https://twitter.com/amanvermai30">amanvermai30</a></td>
 		<td>India</td>
 		<td>225</td>
 	</tr>
@@ -3771,7 +3772,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashwin Kumar Uppala
 		</td>
 		<td>@github </td>
-		<td><a href="https://twitter.com/ashwinexe">ashwinexe</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashwinexe">ashwinexe</a></td>
 		<td>India</td>
 		<td>225</td>
 	</tr>
@@ -3784,7 +3785,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hacking Articles 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hackinarticles">hackinarticles</a></td>
+		<td><a target="_blank" href="https://twitter.com/hackinarticles">hackinarticles</a></td>
 		<td>New Delhi</td>
 		<td>222</td>
 	</tr>
@@ -3797,7 +3798,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Himanshu Mishra
 		</td>
 		<td>Harness </td>
-		<td><a href="https://twitter.com/OrkoHunter">OrkoHunter</a></td>
+		<td><a target="_blank" href="https://twitter.com/OrkoHunter">OrkoHunter</a></td>
 		<td>India</td>
 		<td>220</td>
 	</tr>
@@ -3810,7 +3811,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chandrakant Bobade
 		</td>
 		<td>Asterisc Technocrat </td>
-		<td><a href="https://twitter.com/_Chandrakant22">_Chandrakant22</a></td>
+		<td><a target="_blank" href="https://twitter.com/_Chandrakant22">_Chandrakant22</a></td>
 		<td>Nagpur India</td>
 		<td>220</td>
 	</tr>
@@ -3823,7 +3824,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			KC Sivaramakrishnan
 		</td>
 		<td>Tarides And Iit Madras<br/></td>
-		<td><a href="https://twitter.com/kc_srk">kc_srk</a></td>
+		<td><a target="_blank" href="https://twitter.com/kc_srk">kc_srk</a></td>
 		<td>Chennai India</td>
 		<td>218</td>
 	</tr>
@@ -3849,7 +3850,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Tushar Nankani
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tusharnankanii">tusharnankanii</a></td>
+		<td><a target="_blank" href="https://twitter.com/tusharnankanii">tusharnankanii</a></td>
 		<td>India</td>
 		<td>217</td>
 	</tr>
@@ -3862,7 +3863,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Param Siddharth
 		</td>
 		<td>@heyrema @travelopia @programequity </td>
-		<td><a href="https://twitter.com/ParamSiddharth">ParamSiddharth</a></td>
+		<td><a target="_blank" href="https://twitter.com/ParamSiddharth">ParamSiddharth</a></td>
 		<td>Bengaluru</td>
 		<td>214</td>
 	</tr>
@@ -3875,7 +3876,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Alen Yohannan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AlenVelocity">AlenVelocity</a></td>
+		<td><a target="_blank" href="https://twitter.com/AlenVelocity">AlenVelocity</a></td>
 		<td>Kerala India</td>
 		<td>214</td>
 	</tr>
@@ -3901,7 +3902,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Princi Vershwal
 		</td>
 		<td>Princi Technologies </td>
-		<td><a href="https://twitter.com/vershwal">vershwal</a></td>
+		<td><a target="_blank" href="https://twitter.com/vershwal">vershwal</a></td>
 		<td>Dehradun India</td>
 		<td>213</td>
 	</tr>
@@ -3914,7 +3915,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Himanshu Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hi_man_shoe">hi_man_shoe</a></td>
+		<td><a target="_blank" href="https://twitter.com/hi_man_shoe">hi_man_shoe</a></td>
 		<td>India</td>
 		<td>212</td>
 	</tr>
@@ -3927,7 +3928,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vishwas
 		</td>
 		<td>Builderio </td>
-		<td><a href="https://twitter.com/codevolutionweb">codevolutionweb</a></td>
+		<td><a target="_blank" href="https://twitter.com/codevolutionweb">codevolutionweb</a></td>
 		<td>India</td>
 		<td>211</td>
 	</tr>
@@ -3966,7 +3967,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sharath Kumar
 		</td>
 		<td>Webjeda </td>
-		<td><a href="https://twitter.com/webjeda">webjeda</a></td>
+		<td><a target="_blank" href="https://twitter.com/webjeda">webjeda</a></td>
 		<td>Koppa Chikkamagalur Karnataka India</td>
 		<td>208</td>
 	</tr>
@@ -3979,7 +3980,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kunal Verma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kverma_twt">kverma_twt</a></td>
+		<td><a target="_blank" href="https://twitter.com/kverma_twt">kverma_twt</a></td>
 		<td>India</td>
 		<td>205</td>
 	</tr>
@@ -3992,7 +3993,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayush Thakur
 		</td>
 		<td>@wandb </td>
-		<td><a href="https://twitter.com/ayushthakur0">ayushthakur0</a></td>
+		<td><a target="_blank" href="https://twitter.com/ayushthakur0">ayushthakur0</a></td>
 		<td>Kolkata</td>
 		<td>205</td>
 	</tr>
@@ -4031,7 +4032,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ganesh Vernekar
 		</td>
 		<td>@grafana </td>
-		<td><a href="https://twitter.com/_codesome">_codesome</a></td>
+		<td><a target="_blank" href="https://twitter.com/_codesome">_codesome</a></td>
 		<td>India</td>
 		<td>204</td>
 	</tr>
@@ -4057,7 +4058,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			No Name
 		</td>
 		<td>In28minutes </td>
-		<td><a href="https://twitter.com/in28minutes">in28minutes</a></td>
+		<td><a target="_blank" href="https://twitter.com/in28minutes">in28minutes</a></td>
 		<td>Hyderabad India</td>
 		<td>200</td>
 	</tr>
@@ -4083,7 +4084,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arpit Bhayani
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/arpit_bhayani">arpit_bhayani</a></td>
+		<td><a target="_blank" href="https://twitter.com/arpit_bhayani">arpit_bhayani</a></td>
 		<td>Bangalore India</td>
 		<td>198</td>
 	</tr>
@@ -4109,7 +4110,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vivek Agarwal
 		</td>
 		<td>@masaischool </td>
-		<td><a href="https://twitter.com/vivmagarwal">vivmagarwal</a></td>
+		<td><a target="_blank" href="https://twitter.com/vivmagarwal">vivmagarwal</a></td>
 		<td>Pune India</td>
 		<td>195</td>
 	</tr>
@@ -4135,7 +4136,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Debasish Ghosh
 		</td>
 		<td>Leadiq </td>
-		<td><a href="https://twitter.com/debasishg">debasishg</a></td>
+		<td><a target="_blank" href="https://twitter.com/debasishg">debasishg</a></td>
 		<td>India</td>
 		<td>193</td>
 	</tr>
@@ -4148,7 +4149,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Strek
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/harishkumar_s_s">harishkumar_s_s</a></td>
+		<td><a target="_blank" href="https://twitter.com/harishkumar_s_s">harishkumar_s_s</a></td>
 		<td>Bengaluru</td>
 		<td>192</td>
 	</tr>
@@ -4174,7 +4175,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amitav Roy
 		</td>
 		<td>Focalworksin </td>
-		<td><a href="https://twitter.com/amitavroy7">amitavroy7</a></td>
+		<td><a target="_blank" href="https://twitter.com/amitavroy7">amitavroy7</a></td>
 		<td>Navi Mumbai</td>
 		<td>187</td>
 	</tr>
@@ -4200,7 +4201,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Priyanka Phulmante
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/priyankaphulma1">priyankaphulma1</a></td>
+		<td><a target="_blank" href="https://twitter.com/priyankaphulma1">priyankaphulma1</a></td>
 		<td>Banglore India</td>
 		<td>185</td>
 	</tr>
@@ -4239,7 +4240,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Belal Khan
 		</td>
 		<td>Simplified Coding </td>
-		<td><a href="https://twitter.com/probelalkhan">probelalkhan</a></td>
+		<td><a target="_blank" href="https://twitter.com/probelalkhan">probelalkhan</a></td>
 		<td>Bengaluru India</td>
 		<td>181</td>
 	</tr>
@@ -4265,7 +4266,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Apurba Adhikary
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/twitApurba">twitApurba</a></td>
+		<td><a target="_blank" href="https://twitter.com/twitApurba">twitApurba</a></td>
 		<td>Kolkata India</td>
 		<td>180</td>
 	</tr>
@@ -4291,7 +4292,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kailash Ahirwar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Ahkailash1">Ahkailash1</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ahkailash1">Ahkailash1</a></td>
 		<td>Bangalore India</td>
 		<td>179</td>
 	</tr>
@@ -4304,7 +4305,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhavani Ravi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BhavaniRavi_">BhavaniRavi_</a></td>
+		<td><a target="_blank" href="https://twitter.com/BhavaniRavi_">BhavaniRavi_</a></td>
 		<td>Chennai</td>
 		<td>178</td>
 	</tr>
@@ -4330,7 +4331,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anant Shrivastava
 		</td>
 		<td>Infosec Professional </td>
-		<td><a href="https://twitter.com/anantshri">anantshri</a></td>
+		<td><a target="_blank" href="https://twitter.com/anantshri">anantshri</a></td>
 		<td>Bhopal India</td>
 		<td>175</td>
 	</tr>
@@ -4343,7 +4344,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aadhar Bhatnagar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/aadhar54">aadhar54</a></td>
+		<td><a target="_blank" href="https://twitter.com/aadhar54">aadhar54</a></td>
 		<td>Hyderabad</td>
 		<td>173</td>
 	</tr>
@@ -4369,7 +4370,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Divyanshu Maithani
 		</td>
 		<td>@razorpay </td>
-		<td><a href="https://twitter.com/divyanshu013">divyanshu013</a></td>
+		<td><a target="_blank" href="https://twitter.com/divyanshu013">divyanshu013</a></td>
 		<td>India</td>
 		<td>171</td>
 	</tr>
@@ -4382,7 +4383,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Parth Jadhav
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ParthJadhav8">ParthJadhav8</a></td>
+		<td><a target="_blank" href="https://twitter.com/ParthJadhav8">ParthJadhav8</a></td>
 		<td>Pune India</td>
 		<td>171</td>
 	</tr>
@@ -4395,7 +4396,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Geeky Shows
 		</td>
 		<td>Geeky Shows </td>
-		<td><a href="https://twitter.com/geekyshow1">geekyshow1</a></td>
+		<td><a target="_blank" href="https://twitter.com/geekyshow1">geekyshow1</a></td>
 		<td>India</td>
 		<td>169</td>
 	</tr>
@@ -4421,7 +4422,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vishal Das
 		</td>
 		<td>@googlers </td>
-		<td><a href="https://twitter.com/kindavishal">kindavishal</a></td>
+		<td><a target="_blank" href="https://twitter.com/kindavishal">kindavishal</a></td>
 		<td>Bengaluru</td>
 		<td>168</td>
 	</tr>
@@ -4434,7 +4435,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arunima Chaudhuri
 		</td>
 		<td>@anitaborg </td>
-		<td><a href="https://twitter.com/arunimastwt">arunimastwt</a></td>
+		<td><a target="_blank" href="https://twitter.com/arunimastwt">arunimastwt</a></td>
 		<td>Kolkata</td>
 		<td>167</td>
 	</tr>
@@ -4447,7 +4448,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Harshal Raikwar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/HarshalRaikwar6">HarshalRaikwar6</a></td>
+		<td><a target="_blank" href="https://twitter.com/HarshalRaikwar6">HarshalRaikwar6</a></td>
 		<td>Bangalore India</td>
 		<td>165</td>
 	</tr>
@@ -4460,7 +4461,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Subin Siby
 		</td>
 		<td>@bigbinary @smc </td>
-		<td><a href="https://twitter.com/SubinSiby">SubinSiby</a></td>
+		<td><a target="_blank" href="https://twitter.com/SubinSiby">SubinSiby</a></td>
 		<td>Remote from Thrissur Kerala India</td>
 		<td>164</td>
 	</tr>
@@ -4473,7 +4474,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Karuna Tata
 		</td>
 		<td>Devrev </td>
-		<td><a href="https://twitter.com/Starlightknown">Starlightknown</a></td>
+		<td><a target="_blank" href="https://twitter.com/Starlightknown">Starlightknown</a></td>
 		<td>India</td>
 		<td>164</td>
 	</tr>
@@ -4486,7 +4487,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Apoorv Taneja
 		</td>
 		<td>@razorpay </td>
-		<td><a href="https://twitter.com/apoorv_taneja">apoorv_taneja</a></td>
+		<td><a target="_blank" href="https://twitter.com/apoorv_taneja">apoorv_taneja</a></td>
 		<td>Pune</td>
 		<td>163</td>
 	</tr>
@@ -4512,7 +4513,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anshu Raj
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dosomecoding">dosomecoding</a></td>
+		<td><a target="_blank" href="https://twitter.com/dosomecoding">dosomecoding</a></td>
 		<td>India</td>
 		<td>159</td>
 	</tr>
@@ -4525,7 +4526,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			James George
 		</td>
 		<td>@hoppscotch </td>
-		<td><a href="https://twitter.com/james_madhacks">james_madhacks</a></td>
+		<td><a target="_blank" href="https://twitter.com/james_madhacks">james_madhacks</a></td>
 		<td>Kottayam Kerala India</td>
 		<td>158</td>
 	</tr>
@@ -4538,7 +4539,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhavya Sachdeva
 		</td>
 		<td>Napptive </td>
-		<td><a href="https://twitter.com/bhavya_58">bhavya_58</a></td>
+		<td><a target="_blank" href="https://twitter.com/bhavya_58">bhavya_58</a></td>
 		<td>Ghaziabad India</td>
 		<td>158</td>
 	</tr>
@@ -4551,7 +4552,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhawna 
 		</td>
 		<td>Shebuilds </td>
-		<td><a href="https://twitter.com/ConnectBhawna">ConnectBhawna</a></td>
+		<td><a target="_blank" href="https://twitter.com/ConnectBhawna">ConnectBhawna</a></td>
 		<td>IndiaDelhi</td>
 		<td>157</td>
 	</tr>
@@ -4564,7 +4565,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			STACKSIMPLIFY
 		</td>
 		<td>@stacksimplify </td>
-		<td><a href="https://twitter.com/stacksimplify">stacksimplify</a></td>
+		<td><a target="_blank" href="https://twitter.com/stacksimplify">stacksimplify</a></td>
 		<td>Hyderabad</td>
 		<td>156</td>
 	</tr>
@@ -4577,7 +4578,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saurav Mukherjee
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mesourav44">mesourav44</a></td>
+		<td><a target="_blank" href="https://twitter.com/mesourav44">mesourav44</a></td>
 		<td>West Bengal India </td>
 		<td>156</td>
 	</tr>
@@ -4616,7 +4617,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Krutik Raut
 		</td>
 		<td>@infinitylinkage  </td>
-		<td><a href="https://twitter.com/krutikkkkkkkkk">krutikkkkkkkkk</a></td>
+		<td><a target="_blank" href="https://twitter.com/krutikkkkkkkkk">krutikkkkkkkkk</a></td>
 		<td>GujaratIndia</td>
 		<td>153</td>
 	</tr>
@@ -4629,7 +4630,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anurag Raj
 		</td>
 		<td>Masai School </td>
-		<td><a href="https://twitter.com/Anurag_Raj8305">Anurag_Raj8305</a></td>
+		<td><a target="_blank" href="https://twitter.com/Anurag_Raj8305">Anurag_Raj8305</a></td>
 		<td>Ranchi Jharkhand India</td>
 		<td>152</td>
 	</tr>
@@ -4642,7 +4643,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hariket Sukeshkumar Sheth
 		</td>
 		<td>@societegenerale @samsung @mlhfellowship @github<br/>@iothincvitchennai<br/></td>
-		<td><a href="https://twitter.com/HariketSheth">HariketSheth</a></td>
+		<td><a target="_blank" href="https://twitter.com/HariketSheth">HariketSheth</a></td>
 		<td>Socit Gnrale Bangalore India</td>
 		<td>151</td>
 	</tr>
@@ -4655,7 +4656,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gautam krishna R
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/gautamkrishnar">gautamkrishnar</a></td>
+		<td><a target="_blank" href="https://twitter.com/gautamkrishnar">gautamkrishnar</a></td>
 		<td>Kerala India</td>
 		<td>150</td>
 	</tr>
@@ -4668,7 +4669,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayush Thakur
 		</td>
 		<td>Tembo </td>
-		<td><a href="https://twitter.com/JSAyushThakur">JSAyushThakur</a></td>
+		<td><a target="_blank" href="https://twitter.com/JSAyushThakur">JSAyushThakur</a></td>
 		<td>New Delhi</td>
 		<td>150</td>
 	</tr>
@@ -4681,7 +4682,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sasank Chilamkurthy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sasank51">sasank51</a></td>
+		<td><a target="_blank" href="https://twitter.com/sasank51">sasank51</a></td>
 		<td>Bengaluru</td>
 		<td>150</td>
 	</tr>
@@ -4707,7 +4708,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shiju Varghese
 		</td>
 		<td>Independent Technology Consultant </td>
-		<td><a href="https://twitter.com/shijucv">shijucv</a></td>
+		<td><a target="_blank" href="https://twitter.com/shijucv">shijucv</a></td>
 		<td>Kochi India</td>
 		<td>146</td>
 	</tr>
@@ -4720,7 +4721,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Parth Johar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/parth_webdev">parth_webdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/parth_webdev">parth_webdev</a></td>
 		<td>India</td>
 		<td>144</td>
 	</tr>
@@ -4746,7 +4747,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vrijraj Singh
 		</td>
 		<td>Leading @techferment </td>
-		<td><a href="https://twitter.com/SVrijraj">SVrijraj</a></td>
+		<td><a target="_blank" href="https://twitter.com/SVrijraj">SVrijraj</a></td>
 		<td>New Delhi</td>
 		<td>144</td>
 	</tr>
@@ -4759,7 +4760,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shumbul Arifa
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/ShumbulArifa">ShumbulArifa</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShumbulArifa">ShumbulArifa</a></td>
 		<td>India</td>
 		<td>143</td>
 	</tr>
@@ -4772,7 +4773,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vedant Khairnar
 		</td>
 		<td>@juspay  Hyperswitch </td>
-		<td><a href="https://twitter.com/VedantKhairnar3">VedantKhairnar3</a></td>
+		<td><a target="_blank" href="https://twitter.com/VedantKhairnar3">VedantKhairnar3</a></td>
 		<td>India</td>
 		<td>143</td>
 	</tr>
@@ -4785,7 +4786,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Souvik Biswas
 		</td>
 		<td>@flutterflow </td>
-		<td><a href="https://twitter.com/sbis04">sbis04</a></td>
+		<td><a target="_blank" href="https://twitter.com/sbis04">sbis04</a></td>
 		<td>Kolkata India</td>
 		<td>142</td>
 	</tr>
@@ -4811,7 +4812,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Niloy Sikdar
 		</td>
 		<td>@gethyperai @sugarlabs </td>
-		<td><a href="https://twitter.com/niloysikdar_">niloysikdar_</a></td>
+		<td><a target="_blank" href="https://twitter.com/niloysikdar_">niloysikdar_</a></td>
 		<td>India</td>
 		<td>141</td>
 	</tr>
@@ -4824,7 +4825,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Parul Pandey
 		</td>
 		<td>@h2oai </td>
-		<td><a href="https://twitter.com/pandeyparul">pandeyparul</a></td>
+		<td><a target="_blank" href="https://twitter.com/pandeyparul">pandeyparul</a></td>
 		<td>India</td>
 		<td>140</td>
 	</tr>
@@ -4837,7 +4838,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rajendra Singh
 		</td>
 		<td>Iit   <br/><br/><br/><br/><br/>Us<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/i_am_rajee">i_am_rajee</a></td>
+		<td><a target="_blank" href="https://twitter.com/i_am_rajee">i_am_rajee</a></td>
 		<td>India</td>
 		<td>138</td>
 	</tr>
@@ -4876,7 +4877,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhisek Pattnaik
 		</td>
 		<td>@freecodecamp @impelsysinc </td>
-		<td><a href="https://twitter.com/abhisek">abhisek</a></td>
+		<td><a target="_blank" href="https://twitter.com/abhisek">abhisek</a></td>
 		<td>India</td>
 		<td>135</td>
 	</tr>
@@ -4889,7 +4890,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pranit Bauva
 		</td>
 		<td>Iit Kharagpur </td>
-		<td><a href="https://twitter.com/pranitbauva1997">pranitbauva1997</a></td>
+		<td><a target="_blank" href="https://twitter.com/pranitbauva1997">pranitbauva1997</a></td>
 		<td>Kharagpur India</td>
 		<td>135</td>
 	</tr>
@@ -4902,7 +4903,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Adnan Ahmad
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/viperadn">viperadn</a></td>
+		<td><a target="_blank" href="https://twitter.com/viperadn">viperadn</a></td>
 		<td>New Delhi India</td>
 		<td>134</td>
 	</tr>
@@ -4915,7 +4916,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aparna Soneja
 		</td>
 		<td>@accenture </td>
-		<td><a href="https://twitter.com/AparnaSoneja">AparnaSoneja</a></td>
+		<td><a target="_blank" href="https://twitter.com/AparnaSoneja">AparnaSoneja</a></td>
 		<td>New Delhi</td>
 		<td>133</td>
 	</tr>
@@ -4928,7 +4929,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akash Hamirwasia
 		</td>
 		<td>@razorpay </td>
-		<td><a href="https://twitter.com/blenderskool">blenderskool</a></td>
+		<td><a target="_blank" href="https://twitter.com/blenderskool">blenderskool</a></td>
 		<td>Bangalore India Earth</td>
 		<td>133</td>
 	</tr>
@@ -4941,7 +4942,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shreya Prasad
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/shreyacasmalert">shreyacasmalert</a></td>
+		<td><a target="_blank" href="https://twitter.com/shreyacasmalert">shreyacasmalert</a></td>
 		<td>New Delhi India</td>
 		<td>132</td>
 	</tr>
@@ -4954,7 +4955,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohit Ghumare
 		</td>
 		<td>Devrelasservicecom </td>
-		<td><a href="https://twitter.com/ghumare64">ghumare64</a></td>
+		<td><a target="_blank" href="https://twitter.com/ghumare64">ghumare64</a></td>
 		<td>Mumbai India</td>
 		<td>132</td>
 	</tr>
@@ -4967,7 +4968,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sandip Das
 		</td>
 		<td>Gryphon Online Safety Inc<br/></td>
-		<td><a href="https://twitter.com/techie_sandy">techie_sandy</a></td>
+		<td><a target="_blank" href="https://twitter.com/techie_sandy">techie_sandy</a></td>
 		<td>India</td>
 		<td>129</td>
 	</tr>
@@ -4980,7 +4981,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ankam Ravi Kumar
 		</td>
 		<td>Arkit Solutions Pvt Ltd<br/></td>
-		<td><a href="https://twitter.com/aravikumar48">aravikumar48</a></td>
+		<td><a target="_blank" href="https://twitter.com/aravikumar48">aravikumar48</a></td>
 		<td>India</td>
 		<td>129</td>
 	</tr>
@@ -4993,7 +4994,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Geek
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pathetic_geek">pathetic_geek</a></td>
+		<td><a target="_blank" href="https://twitter.com/pathetic_geek">pathetic_geek</a></td>
 		<td>Haryana  India</td>
 		<td>129</td>
 	</tr>
@@ -5006,7 +5007,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			FelixAyush
 		</td>
 		<td>Techlatestnet </td>
-		<td><a href="https://twitter.com/AyushKu38757918">AyushKu38757918</a></td>
+		<td><a target="_blank" href="https://twitter.com/AyushKu38757918">AyushKu38757918</a></td>
 		<td>India New Delhi</td>
 		<td>127</td>
 	</tr>
@@ -5045,7 +5046,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anuj Garg
 		</td>
 		<td>Google India </td>
-		<td><a href="https://twitter.com/keenwarrior">keenwarrior</a></td>
+		<td><a target="_blank" href="https://twitter.com/keenwarrior">keenwarrior</a></td>
 		<td>Delhi India</td>
 		<td>125</td>
 	</tr>
@@ -5071,7 +5072,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sonu Sharma
 		</td>
 		<td>@pensilinc </td>
-		<td><a href="https://twitter.com/thealphamerc">thealphamerc</a></td>
+		<td><a target="_blank" href="https://twitter.com/thealphamerc">thealphamerc</a></td>
 		<td>Mathura UP India</td>
 		<td>123</td>
 	</tr>
@@ -5084,7 +5085,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kaustubh Gupta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Kaustubh1828">Kaustubh1828</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kaustubh1828">Kaustubh1828</a></td>
 		<td>India</td>
 		<td>123</td>
 	</tr>
@@ -5097,7 +5098,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amit Merchant
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/amit_merchant">amit_merchant</a></td>
+		<td><a target="_blank" href="https://twitter.com/amit_merchant">amit_merchant</a></td>
 		<td>Surat Gujarat India</td>
 		<td>123</td>
 	</tr>
@@ -5110,7 +5111,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			akshay kadam a2k
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/deadcoder0904">deadcoder0904</a></td>
+		<td><a target="_blank" href="https://twitter.com/deadcoder0904">deadcoder0904</a></td>
 		<td>aamchi mumbai</td>
 		<td>123</td>
 	</tr>
@@ -5123,7 +5124,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhishek Naidu
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/abhisheknaiidu">abhisheknaiidu</a></td>
+		<td><a target="_blank" href="https://twitter.com/abhisheknaiidu">abhisheknaiidu</a></td>
 		<td>India</td>
 		<td>122</td>
 	</tr>
@@ -5136,7 +5137,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Suraj Upadhyay
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_suraj_upadhyay">_suraj_upadhyay</a></td>
+		<td><a target="_blank" href="https://twitter.com/_suraj_upadhyay">_suraj_upadhyay</a></td>
 		<td>Mumbai Maharashtra India</td>
 		<td>122</td>
 	</tr>
@@ -5149,7 +5150,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sudharsan Selvaraj
 		</td>
 		<td>Amazon </td>
-		<td><a href="https://twitter.com/sudhus_selvaraj">sudhus_selvaraj</a></td>
+		<td><a target="_blank" href="https://twitter.com/sudhus_selvaraj">sudhus_selvaraj</a></td>
 		<td>bengaluru</td>
 		<td>122</td>
 	</tr>
@@ -5162,7 +5163,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Divyanshu Pabia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RekklesCODM">RekklesCODM</a></td>
+		<td><a target="_blank" href="https://twitter.com/RekklesCODM">RekklesCODM</a></td>
 		<td>Chennai</td>
 		<td>122</td>
 	</tr>
@@ -5175,7 +5176,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mehul Mohan
 		</td>
 		<td>@codedamn  </td>
-		<td><a href="https://twitter.com/mehulmpt">mehulmpt</a></td>
+		<td><a target="_blank" href="https://twitter.com/mehulmpt">mehulmpt</a></td>
 		<td>New Delhi India</td>
 		<td>121</td>
 	</tr>
@@ -5201,7 +5202,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pawan Kolhe
 		</td>
 		<td>Certa </td>
-		<td><a href="https://twitter.com/Pawan_Kolhe">Pawan_Kolhe</a></td>
+		<td><a target="_blank" href="https://twitter.com/Pawan_Kolhe">Pawan_Kolhe</a></td>
 		<td>Nagpur India</td>
 		<td>121</td>
 	</tr>
@@ -5214,7 +5215,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Divyansh Bhardwaj
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/realDBC4">realDBC4</a></td>
+		<td><a target="_blank" href="https://twitter.com/realDBC4">realDBC4</a></td>
 		<td>Ghaziabad India</td>
 		<td>118</td>
 	</tr>
@@ -5227,7 +5228,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kushagra Gour
 		</td>
 		<td>Cssbattle </td>
-		<td><a href="https://twitter.com/chinchang457">chinchang457</a></td>
+		<td><a target="_blank" href="https://twitter.com/chinchang457">chinchang457</a></td>
 		<td>Greater Noida India</td>
 		<td>117</td>
 	</tr>
@@ -5240,7 +5241,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nishant Mittal
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/nishantwrp">nishantwrp</a></td>
+		<td><a target="_blank" href="https://twitter.com/nishantwrp">nishantwrp</a></td>
 		<td>India</td>
 		<td>117</td>
 	</tr>
@@ -5253,7 +5254,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam Vatshayan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/me_vatshayan">me_vatshayan</a></td>
+		<td><a target="_blank" href="https://twitter.com/me_vatshayan">me_vatshayan</a></td>
 		<td>India</td>
 		<td>117</td>
 	</tr>
@@ -5266,7 +5267,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akshay Nandwana
 		</td>
 		<td>@zee5 </td>
-		<td><a href="https://twitter.com/Akshay81844">Akshay81844</a></td>
+		<td><a target="_blank" href="https://twitter.com/Akshay81844">Akshay81844</a></td>
 		<td>Bengaluru India</td>
 		<td>117</td>
 	</tr>
@@ -5279,7 +5280,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Learn Code With Durgesh Officials
 		</td>
 		<td>Learncodewithdurgesh </td>
-		<td><a href="https://twitter.com/durgesh_k_t">durgesh_k_t</a></td>
+		<td><a target="_blank" href="https://twitter.com/durgesh_k_t">durgesh_k_t</a></td>
 		<td>INDIA</td>
 		<td>116</td>
 	</tr>
@@ -5292,7 +5293,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chhavi srivastav 
 		</td>
 		<td>Masai School </td>
-		<td><a href="https://twitter.com/SrivastavChhavi">SrivastavChhavi</a></td>
+		<td><a target="_blank" href="https://twitter.com/SrivastavChhavi">SrivastavChhavi</a></td>
 		<td>Bengaluru Karnataka India</td>
 		<td>116</td>
 	</tr>
@@ -5305,7 +5306,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pratik Singh
 		</td>
 		<td>Nasdaq </td>
-		<td><a href="https://twitter.com/kitarp29">kitarp29</a></td>
+		<td><a target="_blank" href="https://twitter.com/kitarp29">kitarp29</a></td>
 		<td>BangaloreIndia</td>
 		<td>116</td>
 	</tr>
@@ -5318,7 +5319,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhavesh Bhatt
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_bhaveshbhatt">_bhaveshbhatt</a></td>
+		<td><a target="_blank" href="https://twitter.com/_bhaveshbhatt">_bhaveshbhatt</a></td>
 		<td>India</td>
 		<td>115</td>
 	</tr>
@@ -5331,7 +5332,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohan Verma
 		</td>
 		<td>@zerodha </td>
-		<td><a href="https://twitter.com/rhnvrm">rhnvrm</a></td>
+		<td><a target="_blank" href="https://twitter.com/rhnvrm">rhnvrm</a></td>
 		<td>India</td>
 		<td>115</td>
 	</tr>
@@ -5344,7 +5345,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anand Jha
 		</td>
 		<td>Coforge </td>
-		<td><a href="https://twitter.com/ANALYTICS_ANAND">ANALYTICS_ANAND</a></td>
+		<td><a target="_blank" href="https://twitter.com/ANALYTICS_ANAND">ANALYTICS_ANAND</a></td>
 		<td>BangaloreKarnatakaIndia</td>
 		<td>115</td>
 	</tr>
@@ -5357,7 +5358,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ramesh Fadatare
 		</td>
 		<td>Java Guides </td>
-		<td><a href="https://twitter.com/FadatareRamesh">FadatareRamesh</a></td>
+		<td><a target="_blank" href="https://twitter.com/FadatareRamesh">FadatareRamesh</a></td>
 		<td>Pune</td>
 		<td>113</td>
 	</tr>
@@ -5370,7 +5371,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pratham Prasoon
 		</td>
 		<td>Eclipse Foundation </td>
-		<td><a href="https://twitter.com/PrasoonPratham">PrasoonPratham</a></td>
+		<td><a target="_blank" href="https://twitter.com/PrasoonPratham">PrasoonPratham</a></td>
 		<td>India Mumbai</td>
 		<td>113</td>
 	</tr>
@@ -5396,7 +5397,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akshay Narisetti
 		</td>
 		<td>Questbook </td>
-		<td><a href="https://twitter.com/AkshayNarisetti">AkshayNarisetti</a></td>
+		<td><a target="_blank" href="https://twitter.com/AkshayNarisetti">AkshayNarisetti</a></td>
 		<td>India</td>
 		<td>109</td>
 	</tr>
@@ -5422,7 +5423,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sachin Gurjar
 		</td>
 		<td>@dappfoundry  </td>
-		<td><a href="https://twitter.com/buildwithsachin">buildwithsachin</a></td>
+		<td><a target="_blank" href="https://twitter.com/buildwithsachin">buildwithsachin</a></td>
 		<td>INDIA</td>
 		<td>108</td>
 	</tr>
@@ -5435,7 +5436,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Raghul
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Raghul195308221">Raghul195308221</a></td>
+		<td><a target="_blank" href="https://twitter.com/Raghul195308221">Raghul195308221</a></td>
 		<td>Bengaluru Karnataka India</td>
 		<td>108</td>
 	</tr>
@@ -5448,7 +5449,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aswin Gopinathan
 		</td>
 		<td>Phonepe </td>
-		<td><a href="https://twitter.com/GopinathanAswin">GopinathanAswin</a></td>
+		<td><a target="_blank" href="https://twitter.com/GopinathanAswin">GopinathanAswin</a></td>
 		<td>Bengaluru  Calicut  INDIA</td>
 		<td>106</td>
 	</tr>
@@ -5461,7 +5462,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Digamber Singh
 		</td>
 		<td>Positronxio </td>
-		<td><a href="https://twitter.com/digamber7753">digamber7753</a></td>
+		<td><a target="_blank" href="https://twitter.com/digamber7753">digamber7753</a></td>
 		<td>New Delhi</td>
 		<td>105</td>
 	</tr>
@@ -5474,7 +5475,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Srinivasan Sekar
 		</td>
 		<td>Thoughtworks </td>
-		<td><a href="https://twitter.com/srinivasanskr">srinivasanskr</a></td>
+		<td><a target="_blank" href="https://twitter.com/srinivasanskr">srinivasanskr</a></td>
 		<td>India</td>
 		<td>105</td>
 	</tr>
@@ -5513,7 +5514,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pawan Kumar
 		</td>
 		<td>Codepur </td>
-		<td><a href="https://twitter.com/imthepk">imthepk</a></td>
+		<td><a target="_blank" href="https://twitter.com/imthepk">imthepk</a></td>
 		<td>Faridabad India</td>
 		<td>102</td>
 	</tr>
@@ -5539,7 +5540,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arnab Sen
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/ArnabSen1729">ArnabSen1729</a></td>
+		<td><a target="_blank" href="https://twitter.com/ArnabSen1729">ArnabSen1729</a></td>
 		<td>Bangalore India</td>
 		<td>102</td>
 	</tr>
@@ -5578,7 +5579,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hemanth R
 		</td>
 		<td>Govt Model Engineering College<br/></td>
-		<td><a href="https://twitter.com/hhhrrrttt222111">hhhrrrttt222111</a></td>
+		<td><a target="_blank" href="https://twitter.com/hhhrrrttt222111">hhhrrrttt222111</a></td>
 		<td>Kochi India</td>
 		<td>99</td>
 	</tr>
@@ -5604,7 +5605,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aakash Rao
 		</td>
 		<td>@lambdatest </td>
-		<td><a href="https://twitter.com/Aakash_codes">Aakash_codes</a></td>
+		<td><a target="_blank" href="https://twitter.com/Aakash_codes">Aakash_codes</a></td>
 		<td>Nagpur Maharashtra India</td>
 		<td>97</td>
 	</tr>
@@ -5682,7 +5683,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Deekshith SN
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/deekshithsn">deekshithsn</a></td>
+		<td><a target="_blank" href="https://twitter.com/deekshithsn">deekshithsn</a></td>
 		<td>Bengaluru</td>
 		<td>94</td>
 	</tr>
@@ -5695,7 +5696,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rushabh Mehta
 		</td>
 		<td>Frappe Fossunited </td>
-		<td><a href="https://twitter.com/rushabh_mehta">rushabh_mehta</a></td>
+		<td><a target="_blank" href="https://twitter.com/rushabh_mehta">rushabh_mehta</a></td>
 		<td>Mumbai India</td>
 		<td>92</td>
 	</tr>
@@ -5708,7 +5709,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pushpender Singh
 		</td>
 		<td>Cyber Academy </td>
-		<td><a href="https://twitter.com/PushpenderIndia">PushpenderIndia</a></td>
+		<td><a target="_blank" href="https://twitter.com/PushpenderIndia">PushpenderIndia</a></td>
 		<td>India</td>
 		<td>92</td>
 	</tr>
@@ -5721,7 +5722,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			KARTHIK LAL
 		</td>
 		<td>@ethicalhackingtools  @hackclub <br/>@cherishos<br/><br/>@ryzenkernel<br/></td>
-		<td><a href="https://twitter.com/_karthiklal">_karthiklal</a></td>
+		<td><a target="_blank" href="https://twitter.com/_karthiklal">_karthiklal</a></td>
 		<td>Earth  India  Kerala</td>
 		<td>92</td>
 	</tr>
@@ -5734,7 +5735,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ameer Jhan
 		</td>
 		<td>@simpledatalabsinc </td>
-		<td><a href="https://twitter.com/ameerthehacker">ameerthehacker</a></td>
+		<td><a target="_blank" href="https://twitter.com/ameerthehacker">ameerthehacker</a></td>
 		<td>Bangalore India</td>
 		<td>92</td>
 	</tr>
@@ -5747,7 +5748,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Soham Shah
 		</td>
 		<td>@userfocus </td>
-		<td><a href="https://twitter.com/sohamsshah_">sohamsshah_</a></td>
+		<td><a target="_blank" href="https://twitter.com/sohamsshah_">sohamsshah_</a></td>
 		<td>India</td>
 		<td>91</td>
 	</tr>
@@ -5760,7 +5761,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chetan Rakhra
 		</td>
 		<td>Tcs </td>
-		<td><a href="https://twitter.com/chxtan_">chxtan_</a></td>
+		<td><a target="_blank" href="https://twitter.com/chxtan_">chxtan_</a></td>
 		<td>Punjab India</td>
 		<td>91</td>
 	</tr>
@@ -5799,7 +5800,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mathew Sachin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MathewSachin7">MathewSachin7</a></td>
+		<td><a target="_blank" href="https://twitter.com/MathewSachin7">MathewSachin7</a></td>
 		<td>India</td>
 		<td>88</td>
 	</tr>
@@ -5812,7 +5813,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Swapnil Soni
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SwapnilSoni1999">SwapnilSoni1999</a></td>
+		<td><a target="_blank" href="https://twitter.com/SwapnilSoni1999">SwapnilSoni1999</a></td>
 		<td>Ahmedabad Gujarat India</td>
 		<td>88</td>
 	</tr>
@@ -5825,7 +5826,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dhruv Kothari
 		</td>
 		<td>@upraisedco @fourdivs </td>
-		<td><a href="https://twitter.com/_kothariji">_kothariji</a></td>
+		<td><a target="_blank" href="https://twitter.com/_kothariji">_kothariji</a></td>
 		<td>Bengaluru</td>
 		<td>88</td>
 	</tr>
@@ -5851,7 +5852,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Tarun Kaushik
 		</td>
 		<td>Coding Master </td>
-		<td><a href="https://twitter.com/CodingMaster6">CodingMaster6</a></td>
+		<td><a target="_blank" href="https://twitter.com/CodingMaster6">CodingMaster6</a></td>
 		<td>India</td>
 		<td>88</td>
 	</tr>
@@ -5890,7 +5891,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vrukshali Torawane
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vrukshalii_">vrukshalii_</a></td>
+		<td><a target="_blank" href="https://twitter.com/vrukshalii_">vrukshalii_</a></td>
 		<td>India</td>
 		<td>85</td>
 	</tr>
@@ -5903,7 +5904,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			satyam 
 		</td>
 		<td>Masai School </td>
-		<td><a href="https://twitter.com/satyamyadav877">satyamyadav877</a></td>
+		<td><a target="_blank" href="https://twitter.com/satyamyadav877">satyamyadav877</a></td>
 		<td>India</td>
 		<td>83</td>
 	</tr>
@@ -5916,7 +5917,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Koushik Chatterjee
 		</td>
 		<td>Letcode </td>
-		<td><a href="https://twitter.com/Koushik_chat">Koushik_chat</a></td>
+		<td><a target="_blank" href="https://twitter.com/Koushik_chat">Koushik_chat</a></td>
 		<td>Chennai TN India</td>
 		<td>83</td>
 	</tr>
@@ -5942,7 +5943,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prince Kumar
 		</td>
 		<td>@browserstack </td>
-		<td><a href="https://twitter.com/prince_king_">prince_king_</a></td>
+		<td><a target="_blank" href="https://twitter.com/prince_king_">prince_king_</a></td>
 		<td>India</td>
 		<td>82</td>
 	</tr>
@@ -5981,7 +5982,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Naman Dwivedi
 		</td>
 		<td>@glipgg @hksepod </td>
-		<td><a href="https://twitter.com/naman1405">naman1405</a></td>
+		<td><a target="_blank" href="https://twitter.com/naman1405">naman1405</a></td>
 		<td>New Delhi India</td>
 		<td>80</td>
 	</tr>
@@ -5994,7 +5995,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ajin Asokan
 		</td>
 		<td>Zerodha Technology Pvt Ltd<br/></td>
-		<td><a href="https://twitter.com/_ajinasokan">_ajinasokan</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ajinasokan">_ajinasokan</a></td>
 		<td>Guruvayur Kerala India</td>
 		<td>80</td>
 	</tr>
@@ -6007,7 +6008,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prabhanjan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zetabites">zetabites</a></td>
+		<td><a target="_blank" href="https://twitter.com/zetabites">zetabites</a></td>
 		<td>Pune</td>
 		<td>80</td>
 	</tr>
@@ -6020,7 +6021,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			AMIT SHEKHAR
 		</td>
 		<td>@amitshekhariitbhu </td>
-		<td><a href="https://twitter.com/amitiitbhu">amitiitbhu</a></td>
+		<td><a target="_blank" href="https://twitter.com/amitiitbhu">amitiitbhu</a></td>
 		<td>New Delhi India</td>
 		<td>78</td>
 	</tr>
@@ -6033,7 +6034,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sachin Soni
 		</td>
 		<td>Techiesms </td>
-		<td><a href="https://twitter.com/imtechiesms">imtechiesms</a></td>
+		<td><a target="_blank" href="https://twitter.com/imtechiesms">imtechiesms</a></td>
 		<td>AhmedabadGujarat</td>
 		<td>78</td>
 	</tr>
@@ -6046,7 +6047,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Karthik Balakrishnan
 		</td>
 		<td>@onlymuchlouder </td>
-		<td><a href="https://twitter.com/karthikb351">karthikb351</a></td>
+		<td><a target="_blank" href="https://twitter.com/karthikb351">karthikb351</a></td>
 		<td>Bangalore India</td>
 		<td>78</td>
 	</tr>
@@ -6085,7 +6086,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hassan Shoayb
 		</td>
 		<td>@softlinkshq  </td>
-		<td><a href="https://twitter.com/Hassan_Shoayb">Hassan_Shoayb</a></td>
+		<td><a target="_blank" href="https://twitter.com/Hassan_Shoayb">Hassan_Shoayb</a></td>
 		<td>Delhi India</td>
 		<td>77</td>
 	</tr>
@@ -6098,7 +6099,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Yash Kumar Verma
 		</td>
 		<td>Engineering @fampay </td>
-		<td><a href="https://twitter.com/yash_kr_verma">yash_kr_verma</a></td>
+		<td><a target="_blank" href="https://twitter.com/yash_kr_verma">yash_kr_verma</a></td>
 		<td>India</td>
 		<td>77</td>
 	</tr>
@@ -6111,7 +6112,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Jayesh Choudhary
 		</td>
 		<td>Microsoft Nuance </td>
-		<td><a href="https://twitter.com/JayesMERN">JayesMERN</a></td>
+		<td><a target="_blank" href="https://twitter.com/JayesMERN">JayesMERN</a></td>
 		<td>Pune Maharashtra </td>
 		<td>77</td>
 	</tr>
@@ -6124,7 +6125,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prateek Sharma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SharmaPrateek7">SharmaPrateek7</a></td>
+		<td><a target="_blank" href="https://twitter.com/SharmaPrateek7">SharmaPrateek7</a></td>
 		<td>India</td>
 		<td>76</td>
 	</tr>
@@ -6137,7 +6138,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Tikam Singh Alma
 		</td>
 		<td>Mobiuxlabs </td>
-		<td><a href="https://twitter.com/tikamalma">tikamalma</a></td>
+		<td><a target="_blank" href="https://twitter.com/tikamalma">tikamalma</a></td>
 		<td>AhmedabadIndia</td>
 		<td>76</td>
 	</tr>
@@ -6150,7 +6151,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arpit Jain
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Arpit456jain">Arpit456jain</a></td>
+		<td><a target="_blank" href="https://twitter.com/Arpit456jain">Arpit456jain</a></td>
 		<td>lucknow</td>
 		<td>76</td>
 	</tr>
@@ -6189,7 +6190,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vipul Vaibhaw
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vaibhaw_vipul">vaibhaw_vipul</a></td>
+		<td><a target="_blank" href="https://twitter.com/vaibhaw_vipul">vaibhaw_vipul</a></td>
 		<td>PuneIndia</td>
 		<td>74</td>
 	</tr>
@@ -6202,7 +6203,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Riti Kumari
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/riti2409">riti2409</a></td>
+		<td><a target="_blank" href="https://twitter.com/riti2409">riti2409</a></td>
 		<td>Jharkhand India</td>
 		<td>72</td>
 	</tr>
@@ -6267,7 +6268,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sanjeev Jaiswal
 		</td>
 		<td>Cybercloud Guru </td>
-		<td><a href="https://twitter.com/jassics">jassics</a></td>
+		<td><a target="_blank" href="https://twitter.com/jassics">jassics</a></td>
 		<td>Bangalore India</td>
 		<td>71</td>
 	</tr>
@@ -6280,7 +6281,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Atharva Ingle
 		</td>
 		<td>Wolters Kluwer </td>
-		<td><a href="https://twitter.com/AtharvaIngle7">AtharvaIngle7</a></td>
+		<td><a target="_blank" href="https://twitter.com/AtharvaIngle7">AtharvaIngle7</a></td>
 		<td>Pune</td>
 		<td>71</td>
 	</tr>
@@ -6306,7 +6307,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anmol Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/misteranmol">misteranmol</a></td>
+		<td><a target="_blank" href="https://twitter.com/misteranmol">misteranmol</a></td>
 		<td>India</td>
 		<td>70</td>
 	</tr>
@@ -6319,7 +6320,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Param Aggarwal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/paramaggarwal">paramaggarwal</a></td>
+		<td><a target="_blank" href="https://twitter.com/paramaggarwal">paramaggarwal</a></td>
 		<td>Bangalore India</td>
 		<td>70</td>
 	</tr>
@@ -6332,7 +6333,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Darshil Parmar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/parmardarshil07">parmardarshil07</a></td>
+		<td><a target="_blank" href="https://twitter.com/parmardarshil07">parmardarshil07</a></td>
 		<td>Mumbai</td>
 		<td>69</td>
 	</tr>
@@ -6371,7 +6372,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Daksh P Jain
 		</td>
 		<td>@codeday </td>
-		<td><a href="https://twitter.com/0xDPJ">0xDPJ</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xDPJ">0xDPJ</a></td>
 		<td>New Delhi India</td>
 		<td>68</td>
 	</tr>
@@ -6384,7 +6385,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Karthik Ponnam
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/PonnamKarthik">PonnamKarthik</a></td>
+		<td><a target="_blank" href="https://twitter.com/PonnamKarthik">PonnamKarthik</a></td>
 		<td>Hyderabad</td>
 		<td>67</td>
 	</tr>
@@ -6397,7 +6398,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rishikesh 
 		</td>
 		<td>Deepsync Technologies </td>
-		<td><a href="https://twitter.com/ai_rishikesh">ai_rishikesh</a></td>
+		<td><a target="_blank" href="https://twitter.com/ai_rishikesh">ai_rishikesh</a></td>
 		<td>New Delhi India</td>
 		<td>66</td>
 	</tr>
@@ -6423,7 +6424,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Piyush Raj
 		</td>
 		<td>Founder Ceo @vedilink <br/></td>
-		<td><a href="https://twitter.com/piyushella">piyushella</a></td>
+		<td><a target="_blank" href="https://twitter.com/piyushella">piyushella</a></td>
 		<td>Bangalore India</td>
 		<td>66</td>
 	</tr>
@@ -6436,7 +6437,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Data Science with Harshit
 		</td>
 		<td>Httpswiplanecom </td>
-		<td><a href="https://twitter.com/dswharshit">dswharshit</a></td>
+		<td><a target="_blank" href="https://twitter.com/dswharshit">dswharshit</a></td>
 		<td>Delhi India</td>
 		<td>66</td>
 	</tr>
@@ -6449,7 +6450,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prateek Chanda
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/prateekiiest">prateekiiest</a></td>
+		<td><a target="_blank" href="https://twitter.com/prateekiiest">prateekiiest</a></td>
 		<td>Bangalore India</td>
 		<td>65</td>
 	</tr>
@@ -6488,7 +6489,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Smile Gupta
 		</td>
 		<td>@razorpay </td>
-		<td><a href="https://twitter.com/smileguptaaa">smileguptaaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/smileguptaaa">smileguptaaa</a></td>
 		<td>Bengaluru</td>
 		<td>64</td>
 	</tr>
@@ -6501,7 +6502,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			am
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/shubhamg0sai">shubhamg0sai</a></td>
+		<td><a target="_blank" href="https://twitter.com/shubhamg0sai">shubhamg0sai</a></td>
 		<td>India</td>
 		<td>64</td>
 	</tr>
@@ -6514,7 +6515,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pavan Podila
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pavanpodila">pavanpodila</a></td>
+		<td><a target="_blank" href="https://twitter.com/pavanpodila">pavanpodila</a></td>
 		<td>Hyderabad India</td>
 		<td>64</td>
 	</tr>
@@ -6527,7 +6528,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gursimar Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gursimarsm">gursimarsm</a></td>
+		<td><a target="_blank" href="https://twitter.com/gursimarsm">gursimarsm</a></td>
 		<td>India</td>
 		<td>62</td>
 	</tr>
@@ -6540,7 +6541,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ankit
 		</td>
 		<td>Cisco Systems </td>
-		<td><a href="https://twitter.com/ankitsharma_007">ankitsharma_007</a></td>
+		<td><a target="_blank" href="https://twitter.com/ankitsharma_007">ankitsharma_007</a></td>
 		<td>Samastipur Bihar India</td>
 		<td>62</td>
 	</tr>
@@ -6605,7 +6606,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hardik Zinzuvadiya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_Zinzu07">_Zinzu07</a></td>
+		<td><a target="_blank" href="https://twitter.com/_Zinzu07">_Zinzu07</a></td>
 		<td>India</td>
 		<td>60</td>
 	</tr>
@@ -6618,7 +6619,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aaishika S Bhattacharya
 		</td>
 		<td>@digitalocean </td>
-		<td><a href="https://twitter.com/aaishika">aaishika</a></td>
+		<td><a target="_blank" href="https://twitter.com/aaishika">aaishika</a></td>
 		<td>Bangalore India</td>
 		<td>60</td>
 	</tr>
@@ -6631,7 +6632,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nishant Bhosale
 		</td>
 		<td>Coding Ninjas </td>
-		<td><a href="https://twitter.com/Nishant02914093">Nishant02914093</a></td>
+		<td><a target="_blank" href="https://twitter.com/Nishant02914093">Nishant02914093</a></td>
 		<td>Pune Maharashtra India</td>
 		<td>60</td>
 	</tr>
@@ -6657,7 +6658,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akshay Saini
 		</td>
 		<td>Founder @namastedev </td>
-		<td><a href="https://twitter.com/akshaymarch7">akshaymarch7</a></td>
+		<td><a target="_blank" href="https://twitter.com/akshaymarch7">akshaymarch7</a></td>
 		<td>India</td>
 		<td>59</td>
 	</tr>
@@ -6670,7 +6671,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhavishya Pandit
 		</td>
 		<td>Ibm </td>
-		<td><a href="https://twitter.com/BhavishyaP9">BhavishyaP9</a></td>
+		<td><a target="_blank" href="https://twitter.com/BhavishyaP9">BhavishyaP9</a></td>
 		<td>India</td>
 		<td>59</td>
 	</tr>
@@ -6696,7 +6697,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Burhanuddin Rashid
 		</td>
 		<td>Juyushi Tech </td>
-		<td><a href="https://twitter.com/burhanrashid52">burhanrashid52</a></td>
+		<td><a target="_blank" href="https://twitter.com/burhanrashid52">burhanrashid52</a></td>
 		<td>Pune</td>
 		<td>58</td>
 	</tr>
@@ -6709,7 +6710,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sudhanshu Yadav
 		</td>
 		<td>Prophecy </td>
-		<td><a href="https://twitter.com/_syadav">_syadav</a></td>
+		<td><a target="_blank" href="https://twitter.com/_syadav">_syadav</a></td>
 		<td>Bangalore India</td>
 		<td>58</td>
 	</tr>
@@ -6722,7 +6723,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Varun Malhotra
 		</td>
 		<td>@wingify </td>
-		<td><a href="https://twitter.com/s0ftvar">s0ftvar</a></td>
+		<td><a target="_blank" href="https://twitter.com/s0ftvar">s0ftvar</a></td>
 		<td>New Delhi India</td>
 		<td>58</td>
 	</tr>
@@ -6735,7 +6736,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sunit Roy
 		</td>
 		<td>@kytpay </td>
-		<td><a href="https://twitter.com/HeySunit">HeySunit</a></td>
+		<td><a target="_blank" href="https://twitter.com/HeySunit">HeySunit</a></td>
 		<td>Kolkata India</td>
 		<td>58</td>
 	</tr>
@@ -6748,7 +6749,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			mukesh phulwani
 		</td>
 		<td>Mukesh Phulwani </td>
-		<td><a href="https://twitter.com/mukeshphulwani_">mukeshphulwani_</a></td>
+		<td><a target="_blank" href="https://twitter.com/mukeshphulwani_">mukeshphulwani_</a></td>
 		<td>India</td>
 		<td>57</td>
 	</tr>
@@ -6787,7 +6788,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			The Ashish Gavade
 		</td>
 		<td>@google @microsoft @flipkart </td>
-		<td><a href="https://twitter.com/theashishgavade">theashishgavade</a></td>
+		<td><a target="_blank" href="https://twitter.com/theashishgavade">theashishgavade</a></td>
 		<td>PanvelMumbaiIndia</td>
 		<td>56</td>
 	</tr>
@@ -6826,7 +6827,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			suraj  
 		</td>
 		<td>Tillipro </td>
-		<td><a href="https://twitter.com/suraj_the_noob">suraj_the_noob</a></td>
+		<td><a target="_blank" href="https://twitter.com/suraj_the_noob">suraj_the_noob</a></td>
 		<td>Bangalore India</td>
 		<td>55</td>
 	</tr>
@@ -6878,7 +6879,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ritwick Dey
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dey_ritwick">dey_ritwick</a></td>
+		<td><a target="_blank" href="https://twitter.com/dey_ritwick">dey_ritwick</a></td>
 		<td>India</td>
 		<td>53</td>
 	</tr>
@@ -6891,7 +6892,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam Kumar Jha
 		</td>
 		<td>Indian Institute Of Technology<br/>Kharagpur<br/></td>
-		<td><a href="https://twitter.com/thealphadollar">thealphadollar</a></td>
+		<td><a target="_blank" href="https://twitter.com/thealphadollar">thealphadollar</a></td>
 		<td>Bangalore India</td>
 		<td>53</td>
 	</tr>
@@ -6904,7 +6905,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nikhil Tomar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Nikhilroxtomar">Nikhilroxtomar</a></td>
+		<td><a target="_blank" href="https://twitter.com/Nikhilroxtomar">Nikhilroxtomar</a></td>
 		<td>New Delhi</td>
 		<td>53</td>
 	</tr>
@@ -6917,7 +6918,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ramsri Goutham Golla
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ramsri_goutham">ramsri_goutham</a></td>
+		<td><a target="_blank" href="https://twitter.com/ramsri_goutham">ramsri_goutham</a></td>
 		<td>Hyderabad India</td>
 		<td>53</td>
 	</tr>
@@ -6943,7 +6944,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			MADHAV BAHL
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/MadhavBahlMD">MadhavBahlMD</a></td>
+		<td><a target="_blank" href="https://twitter.com/MadhavBahlMD">MadhavBahlMD</a></td>
 		<td>Hyderabad India</td>
 		<td>52</td>
 	</tr>
@@ -6969,7 +6970,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prateek Bhatnagar
 		</td>
 		<td>@coinbase  </td>
-		<td><a href="https://twitter.com/_prateekbh">_prateekbh</a></td>
+		<td><a target="_blank" href="https://twitter.com/_prateekbh">_prateekbh</a></td>
 		<td>Bangalore India</td>
 		<td>52</td>
 	</tr>
@@ -6982,7 +6983,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ramit Surana
 		</td>
 		<td>Minfytech </td>
-		<td><a href="https://twitter.com/ramitsurana">ramitsurana</a></td>
+		<td><a target="_blank" href="https://twitter.com/ramitsurana">ramitsurana</a></td>
 		<td>India</td>
 		<td>52</td>
 	</tr>
@@ -6995,7 +6996,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhinav Rajesh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_AbhinavRajesh_">_AbhinavRajesh_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_AbhinavRajesh_">_AbhinavRajesh_</a></td>
 		<td>Kochi India</td>
 		<td>52</td>
 	</tr>
@@ -7008,7 +7009,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ritesh Kumar
 		</td>
 		<td>@pspdfkit  </td>
-		<td><a href="https://twitter.com/ritz078">ritz078</a></td>
+		<td><a target="_blank" href="https://twitter.com/ritz078">ritz078</a></td>
 		<td>Mumbai</td>
 		<td>51</td>
 	</tr>
@@ -7034,7 +7035,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Naresh
 		</td>
 		<td>@codestoryai </td>
-		<td><a href="https://twitter.com/ghostwriternr">ghostwriternr</a></td>
+		<td><a target="_blank" href="https://twitter.com/ghostwriternr">ghostwriternr</a></td>
 		<td>Bengaluru India</td>
 		<td>51</td>
 	</tr>
@@ -7047,7 +7048,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			ANISHA SINGH
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/anishastwt">anishastwt</a></td>
+		<td><a target="_blank" href="https://twitter.com/anishastwt">anishastwt</a></td>
 		<td>New Delhi India</td>
 		<td>51</td>
 	</tr>
@@ -7060,7 +7061,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shubham Kr Singh
 		</td>
 		<td>Ios Developer @ Dailyrounds<br/><br/>Marrow<br/></td>
-		<td><a href="https://twitter.com/shubham_iosdev">shubham_iosdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/shubham_iosdev">shubham_iosdev</a></td>
 		<td>BengaluruKarnataka</td>
 		<td>50</td>
 	</tr>
@@ -7086,7 +7087,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			cypherpunkbch
 		</td>
 		<td>@zapitio  </td>
-		<td><a href="https://twitter.com/cypherpunk_bch">cypherpunk_bch</a></td>
+		<td><a target="_blank" href="https://twitter.com/cypherpunk_bch">cypherpunk_bch</a></td>
 		<td>India</td>
 		<td>50</td>
 	</tr>
@@ -7099,7 +7100,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Deepanshu tyagi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/imaprogramr">imaprogramr</a></td>
+		<td><a target="_blank" href="https://twitter.com/imaprogramr">imaprogramr</a></td>
 		<td>India</td>
 		<td>50</td>
 	</tr>
@@ -7138,7 +7139,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashwini Sahu
 		</td>
 		<td>@iith </td>
-		<td><a href="https://twitter.com/ashwinisahu990">ashwinisahu990</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashwinisahu990">ashwinisahu990</a></td>
 		<td>Hyderabad India</td>
 		<td>48</td>
 	</tr>
@@ -7151,7 +7152,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pratik Butani
 		</td>
 		<td>7span </td>
-		<td><a href="https://twitter.com/pratik13butani">pratik13butani</a></td>
+		<td><a target="_blank" href="https://twitter.com/pratik13butani">pratik13butani</a></td>
 		<td>Ahmedabad</td>
 		<td>48</td>
 	</tr>
@@ -7164,7 +7165,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abishek V Ashok
 		</td>
 		<td>@fossasia @coala @loklak <br/></td>
-		<td><a href="https://twitter.com/abishekvashok">abishekvashok</a></td>
+		<td><a target="_blank" href="https://twitter.com/abishekvashok">abishekvashok</a></td>
 		<td>India</td>
 		<td>47</td>
 	</tr>
@@ -7177,7 +7178,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			N17R0
 		</td>
 		<td>Noob Hackers </td>
-		<td><a href="https://twitter.com/noob_hackers">noob_hackers</a></td>
+		<td><a target="_blank" href="https://twitter.com/noob_hackers">noob_hackers</a></td>
 		<td>india</td>
 		<td>46</td>
 	</tr>
@@ -7203,7 +7204,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anup Kumar Panwar
 		</td>
 		<td>@thealgorithms @gojek </td>
-		<td><a href="https://twitter.com/anupkumarpanwar">anupkumarpanwar</a></td>
+		<td><a target="_blank" href="https://twitter.com/anupkumarpanwar">anupkumarpanwar</a></td>
 		<td>Gurgaon  Chandigarh India</td>
 		<td>46</td>
 	</tr>
@@ -7242,7 +7243,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Md Ashraf Ali
 		</td>
 		<td>Kaaeotech Solutions </td>
-		<td><a href="https://twitter.com/prinshaan">prinshaan</a></td>
+		<td><a target="_blank" href="https://twitter.com/prinshaan">prinshaan</a></td>
 		<td>HyderabadIndia</td>
 		<td>46</td>
 	</tr>
@@ -7268,7 +7269,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Archishman Sengupta
 		</td>
 		<td>@stackfinance  </td>
-		<td><a href="https://twitter.com/archiexzzz">archiexzzz</a></td>
+		<td><a target="_blank" href="https://twitter.com/archiexzzz">archiexzzz</a></td>
 		<td>Kolkata</td>
 		<td>44</td>
 	</tr>
@@ -7294,7 +7295,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pranay Gupta
 		</td>
 		<td>@propeersin </td>
-		<td><a href="https://twitter.com/thepranaygupta">thepranaygupta</a></td>
+		<td><a target="_blank" href="https://twitter.com/thepranaygupta">thepranaygupta</a></td>
 		<td>Kolkata India</td>
 		<td>43</td>
 	</tr>
@@ -7307,7 +7308,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Hardik Savani
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/HardikSavani19">HardikSavani19</a></td>
+		<td><a target="_blank" href="https://twitter.com/HardikSavani19">HardikSavani19</a></td>
 		<td>Rajkot Gujarat India</td>
 		<td>42</td>
 	</tr>
@@ -7346,7 +7347,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pranshu Chittora
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pranshuchittora">pranshuchittora</a></td>
+		<td><a target="_blank" href="https://twitter.com/pranshuchittora">pranshuchittora</a></td>
 		<td>Bengaluru IN</td>
 		<td>42</td>
 	</tr>
@@ -7359,7 +7360,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Satish Yadav
 		</td>
 		<td>Soilwrap Technologies  Web<br/>Development<br/><br/>Graphic<br/>Services<br/></td>
-		<td><a href="https://twitter.com/satish__ll">satish__ll</a></td>
+		<td><a target="_blank" href="https://twitter.com/satish__ll">satish__ll</a></td>
 		<td>New Delhi</td>
 		<td>42</td>
 	</tr>
@@ -7372,7 +7373,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Harsh Bothra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/harshbothra_">harshbothra_</a></td>
+		<td><a target="_blank" href="https://twitter.com/harshbothra_">harshbothra_</a></td>
 		<td>India  Remote</td>
 		<td>41</td>
 	</tr>
@@ -7385,7 +7386,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Truly Mittal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/trulymittal">trulymittal</a></td>
+		<td><a target="_blank" href="https://twitter.com/trulymittal">trulymittal</a></td>
 		<td>India</td>
 		<td>41</td>
 	</tr>
@@ -7411,7 +7412,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pratap Vardhan
 		</td>
 		<td>@khan </td>
-		<td><a href="https://twitter.com/PratapVardhan">PratapVardhan</a></td>
+		<td><a target="_blank" href="https://twitter.com/PratapVardhan">PratapVardhan</a></td>
 		<td>India</td>
 		<td>41</td>
 	</tr>
@@ -7476,7 +7477,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dipesh Malvia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/IMDmalvia">IMDmalvia</a></td>
+		<td><a target="_blank" href="https://twitter.com/IMDmalvia">IMDmalvia</a></td>
 		<td>Mumbai</td>
 		<td>39</td>
 	</tr>
@@ -7489,7 +7490,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dev Prakash Sharma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/codewithdev">codewithdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/codewithdev">codewithdev</a></td>
 		<td>Hyderabad</td>
 		<td>38</td>
 	</tr>
@@ -7502,7 +7503,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Manish Kumar Barnwal
 		</td>
 		<td>Sister Nivedita University </td>
-		<td><a href="https://twitter.com/imanishbarnwal">imanishbarnwal</a></td>
+		<td><a target="_blank" href="https://twitter.com/imanishbarnwal">imanishbarnwal</a></td>
 		<td>Kolkata India</td>
 		<td>38</td>
 	</tr>
@@ -7515,7 +7516,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sourav Dey
 		</td>
 		<td>Hackerrank @interviewstreet </td>
-		<td><a href="https://twitter.com/Souravdey777">Souravdey777</a></td>
+		<td><a target="_blank" href="https://twitter.com/Souravdey777">Souravdey777</a></td>
 		<td>Bangalore India</td>
 		<td>38</td>
 	</tr>
@@ -7541,7 +7542,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Qbotics Labs
 		</td>
 		<td>Qbotics Labs </td>
-		<td><a href="https://twitter.com/QboticsLabs">QboticsLabs</a></td>
+		<td><a target="_blank" href="https://twitter.com/QboticsLabs">QboticsLabs</a></td>
 		<td>India</td>
 		<td>37</td>
 	</tr>
@@ -7593,7 +7594,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhijit Tripathy
 		</td>
 		<td>@presearai @prodigalai Guru Ghasidas<br/>Vishwavidyalaya<br/>Bilaspur<br/></td>
-		<td><a href="https://twitter.com/AbhijitTripat13">AbhijitTripat13</a></td>
+		<td><a target="_blank" href="https://twitter.com/AbhijitTripat13">AbhijitTripat13</a></td>
 		<td>BilaspurChhattisgarhIndia</td>
 		<td>37</td>
 	</tr>
@@ -7606,7 +7607,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mihir Chaturvedi
 		</td>
 		<td>@buildwithflux </td>
-		<td><a href="https://twitter.com/plibither8">plibither8</a></td>
+		<td><a target="_blank" href="https://twitter.com/plibither8">plibither8</a></td>
 		<td>New Delhi India</td>
 		<td>36</td>
 	</tr>
@@ -7619,7 +7620,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nish Anil
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/nishanil">nishanil</a></td>
+		<td><a target="_blank" href="https://twitter.com/nishanil">nishanil</a></td>
 		<td>Bangalore India</td>
 		<td>35</td>
 	</tr>
@@ -7632,7 +7633,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sri Ram
 		</td>
 		<td>@zoho </td>
-		<td><a href="https://twitter.com/ckersri">ckersri</a></td>
+		<td><a target="_blank" href="https://twitter.com/ckersri">ckersri</a></td>
 		<td>India</td>
 		<td>35</td>
 	</tr>
@@ -7645,7 +7646,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			LogicOps Lab by Ravish
 		</td>
 		<td>Logicops Lab </td>
-		<td><a href="https://twitter.com/LogicOpsLab">LogicOpsLab</a></td>
+		<td><a target="_blank" href="https://twitter.com/LogicOpsLab">LogicOpsLab</a></td>
 		<td>India</td>
 		<td>34</td>
 	</tr>
@@ -7658,7 +7659,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vipul
 		</td>
 		<td>@skitai </td>
-		<td><a href="https://twitter.com/vipul_sharma">vipul_sharma</a></td>
+		<td><a target="_blank" href="https://twitter.com/vipul_sharma">vipul_sharma</a></td>
 		<td>Bengaluru India</td>
 		<td>34</td>
 	</tr>
@@ -7671,7 +7672,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sagar Choudhary
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sa_choudhary">sa_choudhary</a></td>
+		<td><a target="_blank" href="https://twitter.com/sa_choudhary">sa_choudhary</a></td>
 		<td>Gurugram India</td>
 		<td>34</td>
 	</tr>
@@ -7697,7 +7698,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shadab Zafar
 		</td>
 		<td>@towerresearch </td>
-		<td><a href="https://twitter.com/dufferzafar">dufferzafar</a></td>
+		<td><a target="_blank" href="https://twitter.com/dufferzafar">dufferzafar</a></td>
 		<td>New Delhi India</td>
 		<td>33</td>
 	</tr>
@@ -7710,7 +7711,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Piyush  Code Scientist
 		</td>
 		<td>Coding Torque </td>
-		<td><a href="https://twitter.com/piyushcodes">piyushcodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/piyushcodes">piyushcodes</a></td>
 		<td>Mumbai Maharashtra</td>
 		<td>33</td>
 	</tr>
@@ -7749,7 +7750,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			medheeraj
 		</td>
 		<td>Technolegends </td>
-		<td><a href="https://twitter.com/Dheerajmadhukar">Dheerajmadhukar</a></td>
+		<td><a target="_blank" href="https://twitter.com/Dheerajmadhukar">Dheerajmadhukar</a></td>
 		<td>Jaipur</td>
 		<td>32</td>
 	</tr>
@@ -7775,7 +7776,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pinaki Mondal
 		</td>
 		<td>Devnull </td>
-		<td><a href="https://twitter.com/0xInfection">0xInfection</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xInfection">0xInfection</a></td>
 		<td>Kolkata India</td>
 		<td>31</td>
 	</tr>
@@ -7788,7 +7789,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashwin Hariharan
 		</td>
 		<td>Egen </td>
-		<td><a href="https://twitter.com/booleanhunter">booleanhunter</a></td>
+		<td><a target="_blank" href="https://twitter.com/booleanhunter">booleanhunter</a></td>
 		<td>India</td>
 		<td>31</td>
 	</tr>
@@ -7801,7 +7802,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abir
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/imabptweets">imabptweets</a></td>
+		<td><a target="_blank" href="https://twitter.com/imabptweets">imabptweets</a></td>
 		<td>India</td>
 		<td>30</td>
 	</tr>
@@ -7827,7 +7828,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vedant Kakde
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vedantstwt">vedantstwt</a></td>
+		<td><a target="_blank" href="https://twitter.com/vedantstwt">vedantstwt</a></td>
 		<td>Nagpur India</td>
 		<td>30</td>
 	</tr>
@@ -7853,7 +7854,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Unnati 
 		</td>
 		<td>Zomato </td>
-		<td><a href="https://twitter.com/unnati_twts">unnati_twts</a></td>
+		<td><a target="_blank" href="https://twitter.com/unnati_twts">unnati_twts</a></td>
 		<td>DelhiIndia</td>
 		<td>29</td>
 	</tr>
@@ -7866,7 +7867,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saineshwar Bageri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/saihacksoft">saihacksoft</a></td>
+		<td><a target="_blank" href="https://twitter.com/saihacksoft">saihacksoft</a></td>
 		<td>Mumbai India</td>
 		<td>29</td>
 	</tr>
@@ -7879,7 +7880,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			kailash jha
 		</td>
 		<td>Masai School </td>
-		<td><a href="https://twitter.com/Kailash66380956">Kailash66380956</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kailash66380956">Kailash66380956</a></td>
 		<td> Kolkata  India</td>
 		<td>29</td>
 	</tr>
@@ -7905,7 +7906,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Unnati Mishra
 		</td>
 		<td>Broadcom </td>
-		<td><a href="https://twitter.com/ping_Unnati">ping_Unnati</a></td>
+		<td><a target="_blank" href="https://twitter.com/ping_Unnati">ping_Unnati</a></td>
 		<td>India</td>
 		<td>29</td>
 	</tr>
@@ -7944,7 +7945,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ekta Mishra
 		</td>
 		<td>@phonepe </td>
-		<td><a href="https://twitter.com/darecoder">darecoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/darecoder">darecoder</a></td>
 		<td>New Delhi India</td>
 		<td>28</td>
 	</tr>
@@ -7957,7 +7958,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Apurva Sharma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mindwrapper">mindwrapper</a></td>
+		<td><a target="_blank" href="https://twitter.com/mindwrapper">mindwrapper</a></td>
 		<td>India</td>
 		<td>28</td>
 	</tr>
@@ -7983,7 +7984,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kapil Kumar
 		</td>
 		<td>Httpswwwlinkedincomi </td>
-		<td><a href="https://twitter.com/KpilKumar7">KpilKumar7</a></td>
+		<td><a target="_blank" href="https://twitter.com/KpilKumar7">KpilKumar7</a></td>
 		<td>Bhiwani Haryana India</td>
 		<td>28</td>
 	</tr>
@@ -8009,7 +8010,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saumya Singh
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/saumya1singh">saumya1singh</a></td>
+		<td><a target="_blank" href="https://twitter.com/saumya1singh">saumya1singh</a></td>
 		<td>New Delhi India</td>
 		<td>27</td>
 	</tr>
@@ -8022,7 +8023,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			S Abhishek
 		</td>
 		<td>Date Engineer @rollsroyce <br/>Former<br/>Member<br/>@teambi0s<br/></td>
-		<td><a href="https://twitter.com/a3X3k">a3X3k</a></td>
+		<td><a target="_blank" href="https://twitter.com/a3X3k">a3X3k</a></td>
 		<td>India</td>
 		<td>27</td>
 	</tr>
@@ -8035,7 +8036,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amit Kapoor
 		</td>
 		<td>Amitkaps </td>
-		<td><a href="https://twitter.com/amitkaps">amitkaps</a></td>
+		<td><a target="_blank" href="https://twitter.com/amitkaps">amitkaps</a></td>
 		<td>Bangalore India</td>
 		<td>27</td>
 	</tr>
@@ -8048,7 +8049,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sachin Yadav
 		</td>
 		<td>Grras Solutions Pvt Jaipur<br/>Rajasthan<br/></td>
-		<td><a href="https://twitter.com/sachinyadav3496">sachinyadav3496</a></td>
+		<td><a target="_blank" href="https://twitter.com/sachinyadav3496">sachinyadav3496</a></td>
 		<td>Jaipur</td>
 		<td>27</td>
 	</tr>
@@ -8074,7 +8075,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aryan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/aryanc403">aryanc403</a></td>
+		<td><a target="_blank" href="https://twitter.com/aryanc403">aryanc403</a></td>
 		<td>India</td>
 		<td>27</td>
 	</tr>
@@ -8087,7 +8088,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shreyas Bhike 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/theappwizard24">theappwizard24</a></td>
+		<td><a target="_blank" href="https://twitter.com/theappwizard24">theappwizard24</a></td>
 		<td>India</td>
 		<td>26</td>
 	</tr>
@@ -8100,7 +8101,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashish Kumar
 		</td>
 		<td>Tower Research Capital </td>
-		<td><a href="https://twitter.com/ashishkumar_30">ashishkumar_30</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashishkumar_30">ashishkumar_30</a></td>
 		<td>India</td>
 		<td>26</td>
 	</tr>
@@ -8126,7 +8127,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amar kumar
 		</td>
 		<td>Gs Lab </td>
-		<td><a href="https://twitter.com/amark720">amark720</a></td>
+		<td><a target="_blank" href="https://twitter.com/amark720">amark720</a></td>
 		<td>Baner Pune  India</td>
 		<td>26</td>
 	</tr>
@@ -8139,7 +8140,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Priyansh Agarwal
 		</td>
 		<td>@tleeliminators  </td>
-		<td><a href="https://twitter.com/Priyansh_31Dec">Priyansh_31Dec</a></td>
+		<td><a target="_blank" href="https://twitter.com/Priyansh_31Dec">Priyansh_31Dec</a></td>
 		<td>New Delhi</td>
 		<td>26</td>
 	</tr>
@@ -8152,7 +8153,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vikram Choudhary 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ninja_webtech">ninja_webtech</a></td>
+		<td><a target="_blank" href="https://twitter.com/ninja_webtech">ninja_webtech</a></td>
 		<td>Hanumangarh Rajasthan India 335526</td>
 		<td>26</td>
 	</tr>
@@ -8178,7 +8179,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Soumya Ranjan Mohanty
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/geekysrm">geekysrm</a></td>
+		<td><a target="_blank" href="https://twitter.com/geekysrm">geekysrm</a></td>
 		<td>India</td>
 		<td>26</td>
 	</tr>
@@ -8191,7 +8192,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akash Padhiyar
 		</td>
 		<td>Akash Technolabs  Akashsircom<br/></td>
-		<td><a href="https://twitter.com/akash_padhiyar">akash_padhiyar</a></td>
+		<td><a target="_blank" href="https://twitter.com/akash_padhiyar">akash_padhiyar</a></td>
 		<td>Ahmedabad India</td>
 		<td>26</td>
 	</tr>
@@ -8204,7 +8205,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Harshit Pant
 		</td>
 		<td>@speechifyinc </td>
-		<td><a href="https://twitter.com/pantharshit00">pantharshit00</a></td>
+		<td><a target="_blank" href="https://twitter.com/pantharshit00">pantharshit00</a></td>
 		<td>Almora hills India</td>
 		<td>26</td>
 	</tr>
@@ -8217,7 +8218,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			A K
 		</td>
 		<td>@teleroidgroup At The Telegram<br/></td>
-		<td><a href="https://twitter.com/MrAbhi2k3">MrAbhi2k3</a></td>
+		<td><a target="_blank" href="https://twitter.com/MrAbhi2k3">MrAbhi2k3</a></td>
 		<td>India</td>
 		<td>26</td>
 	</tr>
@@ -8230,7 +8231,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sidu Ponnappa
 		</td>
 		<td>Realfastai </td>
-		<td><a href="https://twitter.com/ponnappa">ponnappa</a></td>
+		<td><a target="_blank" href="https://twitter.com/ponnappa">ponnappa</a></td>
 		<td>BengaluruSingapore</td>
 		<td>26</td>
 	</tr>
@@ -8243,7 +8244,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohan aka Blue Edge
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/blueedgetechno">blueedgetechno</a></td>
+		<td><a target="_blank" href="https://twitter.com/blueedgetechno">blueedgetechno</a></td>
 		<td>India</td>
 		<td>25</td>
 	</tr>
@@ -8256,7 +8257,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prashant Kumar Pandey
 		</td>
 		<td>Learning Journal </td>
-		<td><a href="https://twitter.com/prashant_pdy">prashant_pdy</a></td>
+		<td><a target="_blank" href="https://twitter.com/prashant_pdy">prashant_pdy</a></td>
 		<td>India</td>
 		<td>25</td>
 	</tr>
@@ -8295,7 +8296,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rejah Rehim 
 		</td>
 		<td>@beaglesecurity @appfabs  </td>
-		<td><a href="https://twitter.com/Rejah_Rehim">Rejah_Rehim</a></td>
+		<td><a target="_blank" href="https://twitter.com/Rejah_Rehim">Rejah_Rehim</a></td>
 		<td>India</td>
 		<td>25</td>
 	</tr>
@@ -8308,7 +8309,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Modern Web
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/modernweb438">modernweb438</a></td>
+		<td><a target="_blank" href="https://twitter.com/modernweb438">modernweb438</a></td>
 		<td>Delhi India</td>
 		<td>25</td>
 	</tr>
@@ -8321,7 +8322,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			HiCoders
 		</td>
 		<td>Hi Coders </td>
-		<td><a href="https://twitter.com/hicoderss">hicoderss</a></td>
+		<td><a target="_blank" href="https://twitter.com/hicoderss">hicoderss</a></td>
 		<td>India</td>
 		<td>24</td>
 	</tr>
@@ -8334,7 +8335,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Jigar Sable
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jigar_sable">jigar_sable</a></td>
+		<td><a target="_blank" href="https://twitter.com/jigar_sable">jigar_sable</a></td>
 		<td>Pune India</td>
 		<td>24</td>
 	</tr>
@@ -8360,7 +8361,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Neeraj Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/karma9874">karma9874</a></td>
+		<td><a target="_blank" href="https://twitter.com/karma9874">karma9874</a></td>
 		<td>Bangalore India</td>
 		<td>24</td>
 	</tr>
@@ -8438,7 +8439,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anuj Kumar Sharma
 		</td>
 		<td>Coding Shuttle </td>
-		<td><a href="https://twitter.com/anujbhaiya716">anujbhaiya716</a></td>
+		<td><a target="_blank" href="https://twitter.com/anujbhaiya716">anujbhaiya716</a></td>
 		<td>New Delhi India</td>
 		<td>23</td>
 	</tr>
@@ -8451,7 +8452,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gaurav Ghai
 		</td>
 		<td>Quantiphi </td>
-		<td><a href="https://twitter.com/gauravvghai">gauravvghai</a></td>
+		<td><a target="_blank" href="https://twitter.com/gauravvghai">gauravvghai</a></td>
 		<td>India</td>
 		<td>23</td>
 	</tr>
@@ -8490,7 +8491,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nishant Nikhil
 		</td>
 		<td>Iit Kharagpur </td>
-		<td><a href="https://twitter.com/nishantiam">nishantiam</a></td>
+		<td><a target="_blank" href="https://twitter.com/nishantiam">nishantiam</a></td>
 		<td>Bangalore India</td>
 		<td>22</td>
 	</tr>
@@ -8503,7 +8504,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohit Gautam
 		</td>
 		<td>Hacktify Cyber Security </td>
-		<td><a href="https://twitter.com/hackergautam">hackergautam</a></td>
+		<td><a target="_blank" href="https://twitter.com/hackergautam">hackergautam</a></td>
 		<td>Mumbai India</td>
 		<td>22</td>
 	</tr>
@@ -8516,7 +8517,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Serpent Consulting Services Pvt Ltd
 		</td>
 		<td>Serpent Consulting Services Pvt<br/>Ltd<br/></td>
-		<td><a href="https://twitter.com/jaynvora">jaynvora</a></td>
+		<td><a target="_blank" href="https://twitter.com/jaynvora">jaynvora</a></td>
 		<td>Gandhinagar Gujarat India</td>
 		<td>22</td>
 	</tr>
@@ -8529,7 +8530,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Karthik S 
 		</td>
 		<td>Httpswwwlinkedincomi </td>
-		<td><a href="https://twitter.com/itskarthikrio">itskarthikrio</a></td>
+		<td><a target="_blank" href="https://twitter.com/itskarthikrio">itskarthikrio</a></td>
 		<td>Tirunelveli Tamil Nadu INDIA</td>
 		<td>22</td>
 	</tr>
@@ -8568,7 +8569,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Musthaq Ahamad
 		</td>
 		<td>@localeai </td>
-		<td><a href="https://twitter.com/haxzie_">haxzie_</a></td>
+		<td><a target="_blank" href="https://twitter.com/haxzie_">haxzie_</a></td>
 		<td>Bengaluru India</td>
 		<td>22</td>
 	</tr>
@@ -8607,7 +8608,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Paras Jain
 		</td>
 		<td>Retroportal Studio </td>
-		<td><a href="https://twitter.com/theretroportal">theretroportal</a></td>
+		<td><a target="_blank" href="https://twitter.com/theretroportal">theretroportal</a></td>
 		<td>India</td>
 		<td>21</td>
 	</tr>
@@ -8620,7 +8621,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mitul Golakiya
 		</td>
 		<td>Infyom Technologies </td>
-		<td><a href="https://twitter.com/mitulgolakiya">mitulgolakiya</a></td>
+		<td><a target="_blank" href="https://twitter.com/mitulgolakiya">mitulgolakiya</a></td>
 		<td>Surat India</td>
 		<td>21</td>
 	</tr>
@@ -8633,7 +8634,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arun
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Ak_Python">Ak_Python</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ak_Python">Ak_Python</a></td>
 		<td>India</td>
 		<td>21</td>
 	</tr>
@@ -8646,7 +8647,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhinav Sharma
 		</td>
 		<td>@github </td>
-		<td><a href="https://twitter.com/the_bhatra">the_bhatra</a></td>
+		<td><a target="_blank" href="https://twitter.com/the_bhatra">the_bhatra</a></td>
 		<td>JAIPUR</td>
 		<td>21</td>
 	</tr>
@@ -8659,7 +8660,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Neil Agarwal
 		</td>
 		<td>@headout </td>
-		<td><a href="https://twitter.com/regalstreak">regalstreak</a></td>
+		<td><a target="_blank" href="https://twitter.com/regalstreak">regalstreak</a></td>
 		<td>Mumbai India</td>
 		<td>21</td>
 	</tr>
@@ -8672,7 +8673,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Soumyajit Behera
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/soumyajit4419">soumyajit4419</a></td>
+		<td><a target="_blank" href="https://twitter.com/soumyajit4419">soumyajit4419</a></td>
 		<td>BhubneswarIndia</td>
 		<td>20</td>
 	</tr>
@@ -8685,7 +8686,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ishan Sharma
 		</td>
 		<td>Hackerrank @interviewstreet </td>
-		<td><a href="https://twitter.com/ishandeveloper">ishandeveloper</a></td>
+		<td><a target="_blank" href="https://twitter.com/ishandeveloper">ishandeveloper</a></td>
 		<td>Bangalore India</td>
 		<td>20</td>
 	</tr>
@@ -8711,7 +8712,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shubhi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/shubhicodes">shubhicodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/shubhicodes">shubhicodes</a></td>
 		<td>India</td>
 		<td>20</td>
 	</tr>
@@ -8724,7 +8725,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashish Chawda
 		</td>
 		<td>Tray </td>
-		<td><a href="https://twitter.com/ashish11chawda">ashish11chawda</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashish11chawda">ashish11chawda</a></td>
 		<td>Rajnandgaon  Chattisgarh  India</td>
 		<td>19</td>
 	</tr>
@@ -8750,7 +8751,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Arbaz Hussain
 		</td>
 		<td>127001 </td>
-		<td><a href="https://twitter.com/ArbazKiraak">ArbazKiraak</a></td>
+		<td><a target="_blank" href="https://twitter.com/ArbazKiraak">ArbazKiraak</a></td>
 		<td>HyderabadIndia</td>
 		<td>19</td>
 	</tr>
@@ -8763,7 +8764,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amber Kakkar
 		</td>
 		<td>Tiketcom  </td>
-		<td><a href="https://twitter.com/amberkakkar01">amberkakkar01</a></td>
+		<td><a target="_blank" href="https://twitter.com/amberkakkar01">amberkakkar01</a></td>
 		<td>DehraDun India</td>
 		<td>19</td>
 	</tr>
@@ -8776,7 +8777,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anand B Pillai
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/skeptichacker">skeptichacker</a></td>
+		<td><a target="_blank" href="https://twitter.com/skeptichacker">skeptichacker</a></td>
 		<td>Bangalore India</td>
 		<td>19</td>
 	</tr>
@@ -8802,7 +8803,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kathan Patel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/KathanP19">KathanP19</a></td>
+		<td><a target="_blank" href="https://twitter.com/KathanP19">KathanP19</a></td>
 		<td>GujaratIndia</td>
 		<td>18</td>
 	</tr>
@@ -8815,7 +8816,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akarsh Satija
 		</td>
 		<td>@goto @gojek @raystack </td>
-		<td><a href="https://twitter.com/akarshsatija">akarshsatija</a></td>
+		<td><a target="_blank" href="https://twitter.com/akarshsatija">akarshsatija</a></td>
 		<td>India</td>
 		<td>18</td>
 	</tr>
@@ -8828,7 +8829,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Niranjan Rajendran
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/niranjan94">niranjan94</a></td>
+		<td><a target="_blank" href="https://twitter.com/niranjan94">niranjan94</a></td>
 		<td>India</td>
 		<td>18</td>
 	</tr>
@@ -8841,7 +8842,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashwanth Kumar
 		</td>
 		<td>@aklabs </td>
-		<td><a href="https://twitter.com/_ashwanthkumar">_ashwanthkumar</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ashwanthkumar">_ashwanthkumar</a></td>
 		<td>India</td>
 		<td>18</td>
 	</tr>
@@ -8854,7 +8855,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nakshatra Goel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nakshatra005">nakshatra005</a></td>
+		<td><a target="_blank" href="https://twitter.com/nakshatra005">nakshatra005</a></td>
 		<td>Delhi India</td>
 		<td>17</td>
 	</tr>
@@ -8867,7 +8868,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amit Agarwal
 		</td>
 		<td>Digital Inspiration </td>
-		<td><a href="https://twitter.com/labnol">labnol</a></td>
+		<td><a target="_blank" href="https://twitter.com/labnol">labnol</a></td>
 		<td>India</td>
 		<td>17</td>
 	</tr>
@@ -8906,7 +8907,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Akshay Sharma
 		</td>
 		<td>Pspdfkit </td>
-		<td><a href="https://twitter.com/_akshay22">_akshay22</a></td>
+		<td><a target="_blank" href="https://twitter.com/_akshay22">_akshay22</a></td>
 		<td>Jaipur</td>
 		<td>17</td>
 	</tr>
@@ -8919,7 +8920,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Adyasha Mohanty
 		</td>
 		<td>Hackerrank @interviewstreet </td>
-		<td><a href="https://twitter.com/Adyasha8105">Adyasha8105</a></td>
+		<td><a target="_blank" href="https://twitter.com/Adyasha8105">Adyasha8105</a></td>
 		<td>India</td>
 		<td>17</td>
 	</tr>
@@ -8945,7 +8946,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			ishika kesarwani
 		</td>
 		<td>Dell Technologies  </td>
-		<td><a href="https://twitter.com/ishikakesarwan4">ishikakesarwan4</a></td>
+		<td><a target="_blank" href="https://twitter.com/ishikakesarwan4">ishikakesarwan4</a></td>
 		<td>Gurgaon India</td>
 		<td>16</td>
 	</tr>
@@ -8971,7 +8972,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ashris
 		</td>
 		<td>Headsup </td>
-		<td><a href="https://twitter.com/iashris">iashris</a></td>
+		<td><a target="_blank" href="https://twitter.com/iashris">iashris</a></td>
 		<td>New Delhi</td>
 		<td>16</td>
 	</tr>
@@ -9023,7 +9024,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anurag Tiwari
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anuragtiwarime">anuragtiwarime</a></td>
+		<td><a target="_blank" href="https://twitter.com/anuragtiwarime">anuragtiwarime</a></td>
 		<td>India</td>
 		<td>15</td>
 	</tr>
@@ -9036,7 +9037,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pavan Gandhi
 		</td>
 		<td>Mywaysin </td>
-		<td><a href="https://twitter.com/iampavangandhi">iampavangandhi</a></td>
+		<td><a target="_blank" href="https://twitter.com/iampavangandhi">iampavangandhi</a></td>
 		<td>New Delhi India</td>
 		<td>15</td>
 	</tr>
@@ -9062,7 +9063,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Himanshu Shekhar
 		</td>
 		<td>@trifacta </td>
-		<td><a href="https://twitter.com/himanshub16">himanshub16</a></td>
+		<td><a target="_blank" href="https://twitter.com/himanshub16">himanshub16</a></td>
 		<td>India</td>
 		<td>15</td>
 	</tr>
@@ -9075,7 +9076,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aniket Pal
 		</td>
 		<td>Nit Rourkela </td>
-		<td><a href="https://twitter.com/itzaniket762">itzaniket762</a></td>
+		<td><a target="_blank" href="https://twitter.com/itzaniket762">itzaniket762</a></td>
 		<td>India</td>
 		<td>14</td>
 	</tr>
@@ -9114,7 +9115,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dheeraj Kotwani
 		</td>
 		<td>@zomato @dscjssnoida @fossasia </td>
-		<td><a href="https://twitter.com/kotwani_dheeraj">kotwani_dheeraj</a></td>
+		<td><a target="_blank" href="https://twitter.com/kotwani_dheeraj">kotwani_dheeraj</a></td>
 		<td>Noida India</td>
 		<td>14</td>
 	</tr>
@@ -9140,7 +9141,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gaurav Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/automationhacks">automationhacks</a></td>
+		<td><a target="_blank" href="https://twitter.com/automationhacks">automationhacks</a></td>
 		<td>India</td>
 		<td>14</td>
 	</tr>
@@ -9205,7 +9206,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Urmil Shroff
 		</td>
 		<td>Mobile Developer @paycrunchteam </td>
-		<td><a href="https://twitter.com/urmilshroff">urmilshroff</a></td>
+		<td><a target="_blank" href="https://twitter.com/urmilshroff">urmilshroff</a></td>
 		<td>Mumbai India</td>
 		<td>14</td>
 	</tr>
@@ -9218,7 +9219,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sukhdev Hansda
 		</td>
 		<td>Masai School  Bengaluru<br/></td>
-		<td><a href="https://twitter.com/imsukhdevhansda">imsukhdevhansda</a></td>
+		<td><a target="_blank" href="https://twitter.com/imsukhdevhansda">imsukhdevhansda</a></td>
 		<td>Dhanbad Jharkhand India</td>
 		<td>14</td>
 	</tr>
@@ -9231,7 +9232,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Omkar Pathak
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/omkarpathak27">omkarpathak27</a></td>
+		<td><a target="_blank" href="https://twitter.com/omkarpathak27">omkarpathak27</a></td>
 		<td>Pune Maharashtra India</td>
 		<td>13</td>
 	</tr>
@@ -9244,7 +9245,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Partha Sarathi Manna 
 		</td>
 		<td>Backend Developer </td>
-		<td><a href="https://twitter.com/psmdev04">psmdev04</a></td>
+		<td><a target="_blank" href="https://twitter.com/psmdev04">psmdev04</a></td>
 		<td>Kolkata  West Bengal</td>
 		<td>13</td>
 	</tr>
@@ -9270,7 +9271,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kishan Lal
 		</td>
 		<td>Presidio </td>
-		<td><a href="https://twitter.com/kishan0725">kishan0725</a></td>
+		<td><a target="_blank" href="https://twitter.com/kishan0725">kishan0725</a></td>
 		<td>Tamil Nadu India</td>
 		<td>13</td>
 	</tr>
@@ -9296,7 +9297,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Prem Saraswat
 		</td>
 		<td>@grafana </td>
-		<td><a href="https://twitter.com/onprem_">onprem_</a></td>
+		<td><a target="_blank" href="https://twitter.com/onprem_">onprem_</a></td>
 		<td>India</td>
 		<td>13</td>
 	</tr>
@@ -9309,7 +9310,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhishek K P
 		</td>
 		<td>Stealth Startup  </td>
-		<td><a href="https://twitter.com/abhizaik">abhizaik</a></td>
+		<td><a target="_blank" href="https://twitter.com/abhizaik">abhizaik</a></td>
 		<td>India</td>
 		<td>13</td>
 	</tr>
@@ -9322,7 +9323,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			SnippetCoder
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SnippetCoder">SnippetCoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/SnippetCoder">SnippetCoder</a></td>
 		<td>New Delhi India</td>
 		<td>12</td>
 	</tr>
@@ -9335,7 +9336,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kautuk Kundan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Kautukkundan">Kautukkundan</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kautukkundan">Kautukkundan</a></td>
 		<td>india</td>
 		<td>12</td>
 	</tr>
@@ -9348,7 +9349,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nilarjun Das
 		</td>
 		<td>Frontend Software Engineer @apolloio<br/></td>
-		<td><a href="https://twitter.com/NilarjunDas">NilarjunDas</a></td>
+		<td><a target="_blank" href="https://twitter.com/NilarjunDas">NilarjunDas</a></td>
 		<td>India</td>
 		<td>12</td>
 	</tr>
@@ -9361,7 +9362,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shivam Goyal
 		</td>
 		<td>Navi Technologies </td>
-		<td><a href="https://twitter.com/ShivamGoyal1899">ShivamGoyal1899</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShivamGoyal1899">ShivamGoyal1899</a></td>
 		<td>Bengaluru India</td>
 		<td>12</td>
 	</tr>
@@ -9400,7 +9401,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			HIMANSHU SHARMA
 		</td>
 		<td>Httpswwwgetvymocom </td>
-		<td><a href="https://twitter.com/_SharmaHimanshu">_SharmaHimanshu</a></td>
+		<td><a target="_blank" href="https://twitter.com/_SharmaHimanshu">_SharmaHimanshu</a></td>
 		<td>India</td>
 		<td>12</td>
 	</tr>
@@ -9413,7 +9414,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Himanshu Dixit
 		</td>
 		<td>@headout @rizortinc @drupal </td>
-		<td><a href="https://twitter.com/1x_engineer">1x_engineer</a></td>
+		<td><a target="_blank" href="https://twitter.com/1x_engineer">1x_engineer</a></td>
 		<td>India</td>
 		<td>12</td>
 	</tr>
@@ -9439,7 +9440,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nimish Bongale
 		</td>
 		<td>@jpmorganchase </td>
-		<td><a href="https://twitter.com/BongaleNimish">BongaleNimish</a></td>
+		<td><a target="_blank" href="https://twitter.com/BongaleNimish">BongaleNimish</a></td>
 		<td>Bangalore India</td>
 		<td>12</td>
 	</tr>
@@ -9478,7 +9479,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Shubham Patil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sp7004358_patil">sp7004358_patil</a></td>
+		<td><a target="_blank" href="https://twitter.com/sp7004358_patil">sp7004358_patil</a></td>
 		<td>JalgaonMaharashtraIndia</td>
 		<td>11</td>
 	</tr>
@@ -9517,7 +9518,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Saurabh Kumar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/saurabhjha1211">saurabhjha1211</a></td>
+		<td><a target="_blank" href="https://twitter.com/saurabhjha1211">saurabhjha1211</a></td>
 		<td>Sitamarhi India</td>
 		<td>11</td>
 	</tr>
@@ -9530,7 +9531,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pradeep Pandey 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Div_pradeep">Div_pradeep</a></td>
+		<td><a target="_blank" href="https://twitter.com/Div_pradeep">Div_pradeep</a></td>
 		<td>New Delhi India</td>
 		<td>11</td>
 	</tr>
@@ -9543,7 +9544,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			D
 		</td>
 		<td>Creator Of @knaxus <br/>@shredx<br/><br/></td>
-		<td><a href="https://twitter.com/ashokdey_">ashokdey_</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashokdey_">ashokdey_</a></td>
 		<td>India</td>
 		<td>11</td>
 	</tr>
@@ -9569,7 +9570,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mohit kumar Bajoria
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mohitbajoriaa">mohitbajoriaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/mohitbajoriaa">mohitbajoriaa</a></td>
 		<td>India</td>
 		<td>11</td>
 	</tr>
@@ -9595,7 +9596,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Baishampayan Ghose
 		</td>
 		<td>@teamohana  </td>
-		<td><a href="https://twitter.com/ghoseb">ghoseb</a></td>
+		<td><a target="_blank" href="https://twitter.com/ghoseb">ghoseb</a></td>
 		<td>San Francisco  Pune</td>
 		<td>10</td>
 	</tr>
@@ -9608,7 +9609,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ankita Saloni
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/saloniankita_">saloniankita_</a></td>
+		<td><a target="_blank" href="https://twitter.com/saloniankita_">saloniankita_</a></td>
 		<td>New Delhi</td>
 		<td>10</td>
 	</tr>
@@ -9621,7 +9622,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Srihari Humbarwadi
 		</td>
 		<td>@intel </td>
-		<td><a href="https://twitter.com/srihari_rh">srihari_rh</a></td>
+		<td><a target="_blank" href="https://twitter.com/srihari_rh">srihari_rh</a></td>
 		<td>India</td>
 		<td>10</td>
 	</tr>
@@ -9660,7 +9661,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sanskar Tiwari
 		</td>
 		<td>Indianappguy Tech Pvt Ltd<br/></td>
-		<td><a href="https://twitter.com/indianappguy">indianappguy</a></td>
+		<td><a target="_blank" href="https://twitter.com/indianappguy">indianappguy</a></td>
 		<td>India</td>
 		<td>9</td>
 	</tr>
@@ -9673,7 +9674,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Amartya pandey
 		</td>
 		<td>Msit West Bengal University<br/>Of<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/AMARTYA2020">AMARTYA2020</a></td>
+		<td><a target="_blank" href="https://twitter.com/AMARTYA2020">AMARTYA2020</a></td>
 		<td>Kolkata Westbengal india</td>
 		<td>9</td>
 	</tr>
@@ -9686,7 +9687,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Dheeraj Joshi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dheerajhere">dheerajhere</a></td>
+		<td><a target="_blank" href="https://twitter.com/dheerajhere">dheerajhere</a></td>
 		<td>India</td>
 		<td>9</td>
 	</tr>
@@ -9699,7 +9700,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Surfside Media
 		</td>
 		<td>Surfside Media </td>
-		<td><a href="https://twitter.com/MediaSurfside">MediaSurfside</a></td>
+		<td><a target="_blank" href="https://twitter.com/MediaSurfside">MediaSurfside</a></td>
 		<td>India</td>
 		<td>9</td>
 	</tr>
@@ -9712,7 +9713,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vishal R
 		</td>
 		<td>@botdunia  </td>
-		<td><a href="https://twitter.com/mrvishal2k2">mrvishal2k2</a></td>
+		<td><a target="_blank" href="https://twitter.com/mrvishal2k2">mrvishal2k2</a></td>
 		<td>Bangalore Karnataka INDIA</td>
 		<td>9</td>
 	</tr>
@@ -9764,7 +9765,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rajeev Singh
 		</td>
 		<td>@gojektech </td>
-		<td><a href="https://twitter.com/callicoder">callicoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/callicoder">callicoder</a></td>
 		<td>Bangalore India</td>
 		<td>8</td>
 	</tr>
@@ -9777,7 +9778,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mahediali Khorjiya
 		</td>
 		<td>@hintburg </td>
-		<td><a href="https://twitter.com/mahedikhorjiya">mahedikhorjiya</a></td>
+		<td><a target="_blank" href="https://twitter.com/mahedikhorjiya">mahedikhorjiya</a></td>
 		<td>India Dubai</td>
 		<td>8</td>
 	</tr>
@@ -9790,7 +9791,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Paresh Mayani
 		</td>
 		<td>Solguruz </td>
-		<td><a href="https://twitter.com/pareshmayani">pareshmayani</a></td>
+		<td><a target="_blank" href="https://twitter.com/pareshmayani">pareshmayani</a></td>
 		<td>Ahmedabad India</td>
 		<td>8</td>
 	</tr>
@@ -9803,7 +9804,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Owais Khan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/owaiswiz">owaiswiz</a></td>
+		<td><a target="_blank" href="https://twitter.com/owaiswiz">owaiswiz</a></td>
 		<td>Mumbai</td>
 		<td>8</td>
 	</tr>
@@ -9842,7 +9843,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			BlackPerl
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/blackperl_dfir">blackperl_dfir</a></td>
+		<td><a target="_blank" href="https://twitter.com/blackperl_dfir">blackperl_dfir</a></td>
 		<td>India</td>
 		<td>8</td>
 	</tr>
@@ -9855,7 +9856,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aindrila Das
 		</td>
 		<td>Ernst  Young Llp<br/></td>
-		<td><a href="https://twitter.com/AindrilaDas11">AindrilaDas11</a></td>
+		<td><a target="_blank" href="https://twitter.com/AindrilaDas11">AindrilaDas11</a></td>
 		<td>India</td>
 		<td>8</td>
 	</tr>
@@ -9868,7 +9869,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rushikesh Konapure
 		</td>
 		<td>@prepinsta </td>
-		<td><a href="https://twitter.com/rishi_konapure">rishi_konapure</a></td>
+		<td><a target="_blank" href="https://twitter.com/rishi_konapure">rishi_konapure</a></td>
 		<td>India</td>
 		<td>8</td>
 	</tr>
@@ -9894,7 +9895,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Deepak Kumar
 		</td>
 		<td>@airmeet </td>
-		<td><a href="https://twitter.com/HQdeepak">HQdeepak</a></td>
+		<td><a target="_blank" href="https://twitter.com/HQdeepak">HQdeepak</a></td>
 		<td>Bangalore India</td>
 		<td>7</td>
 	</tr>
@@ -9920,7 +9921,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Durgesh Sahani
 		</td>
 		<td>Learnwebcoding </td>
-		<td><a href="https://twitter.com/durgeshsahani99">durgeshsahani99</a></td>
+		<td><a target="_blank" href="https://twitter.com/durgeshsahani99">durgeshsahani99</a></td>
 		<td>Pune</td>
 		<td>7</td>
 	</tr>
@@ -9959,7 +9960,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kritika Prakash
 		</td>
 		<td>Microsoft Research </td>
-		<td><a href="https://twitter.com/kritipraks">kritipraks</a></td>
+		<td><a target="_blank" href="https://twitter.com/kritipraks">kritipraks</a></td>
 		<td>Bangalore India</td>
 		<td>7</td>
 	</tr>
@@ -9972,7 +9973,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ananya Agrawal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AgrawalAnanyaa">AgrawalAnanyaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/AgrawalAnanyaa">AgrawalAnanyaa</a></td>
 		<td>India</td>
 		<td>7</td>
 	</tr>
@@ -9985,7 +9986,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sukhbir Singh
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/sukhbir947">sukhbir947</a></td>
+		<td><a target="_blank" href="https://twitter.com/sukhbir947">sukhbir947</a></td>
 		<td>India</td>
 		<td>7</td>
 	</tr>
@@ -9998,7 +9999,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Swetabh Suman
 		</td>
 		<td>@wptrainingteam </td>
-		<td><a href="https://twitter.com/SwetabhOfficial">SwetabhOfficial</a></td>
+		<td><a target="_blank" href="https://twitter.com/SwetabhOfficial">SwetabhOfficial</a></td>
 		<td>India</td>
 		<td>7</td>
 	</tr>
@@ -10037,7 +10038,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kalpesh Khandla
 		</td>
 		<td>Flutter Developer </td>
-		<td><a href="https://twitter.com/khandla20">khandla20</a></td>
+		<td><a target="_blank" href="https://twitter.com/khandla20">khandla20</a></td>
 		<td>Ahmedabad</td>
 		<td>7</td>
 	</tr>
@@ -10050,7 +10051,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohan Rao
 		</td>
 		<td>@h2oai  </td>
-		<td><a href="https://twitter.com/vopani">vopani</a></td>
+		<td><a target="_blank" href="https://twitter.com/vopani">vopani</a></td>
 		<td>Bengaluru India</td>
 		<td>6</td>
 	</tr>
@@ -10063,7 +10064,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pragati Verma
 		</td>
 		<td>@upraisedco </td>
-		<td><a href="https://twitter.com/pragati_verma18">pragati_verma18</a></td>
+		<td><a target="_blank" href="https://twitter.com/pragati_verma18">pragati_verma18</a></td>
 		<td>India</td>
 		<td>6</td>
 	</tr>
@@ -10076,7 +10077,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ajay Kumar S
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SoleilFils">SoleilFils</a></td>
+		<td><a target="_blank" href="https://twitter.com/SoleilFils">SoleilFils</a></td>
 		<td>Chennai India</td>
 		<td>6</td>
 	</tr>
@@ -10089,7 +10090,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rudrabha Mukhopadhyay
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RudrabhaM">RudrabhaM</a></td>
+		<td><a target="_blank" href="https://twitter.com/RudrabhaM">RudrabhaM</a></td>
 		<td>Hyderabad</td>
 		<td>6</td>
 	</tr>
@@ -10115,7 +10116,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Harsh Jaiswal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rootxharsh">rootxharsh</a></td>
+		<td><a target="_blank" href="https://twitter.com/rootxharsh">rootxharsh</a></td>
 		<td>Indore India</td>
 		<td>6</td>
 	</tr>
@@ -10128,7 +10129,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sunny Puri
 		</td>
 		<td>Swiggy </td>
-		<td><a href="https://twitter.com/sunnypuri_">sunnypuri_</a></td>
+		<td><a target="_blank" href="https://twitter.com/sunnypuri_">sunnypuri_</a></td>
 		<td>Bengaluru</td>
 		<td>6</td>
 	</tr>
@@ -10141,7 +10142,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Niharika Arora
 		</td>
 		<td>Works At Google </td>
-		<td><a href="https://twitter.com/theDroidLady">theDroidLady</a></td>
+		<td><a target="_blank" href="https://twitter.com/theDroidLady">theDroidLady</a></td>
 		<td>Bangalore India</td>
 		<td>5</td>
 	</tr>
@@ -10154,7 +10155,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Bhavik Makwana
 		</td>
 		<td>Multiplxyz </td>
-		<td><a href="https://twitter.com/ibhavikmakwana">ibhavikmakwana</a></td>
+		<td><a target="_blank" href="https://twitter.com/ibhavikmakwana">ibhavikmakwana</a></td>
 		<td>Ahmedabad</td>
 		<td>5</td>
 	</tr>
@@ -10167,7 +10168,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Gaurav Arora
 		</td>
 		<td>Amazon </td>
-		<td><a href="https://twitter.com/arggaurav">arggaurav</a></td>
+		<td><a target="_blank" href="https://twitter.com/arggaurav">arggaurav</a></td>
 		<td>Bengaluru India</td>
 		<td>5</td>
 	</tr>
@@ -10206,7 +10207,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Faiyaz Shaikh
 		</td>
 		<td>Kognitos </td>
-		<td><a href="https://twitter.com/shtakkar">shtakkar</a></td>
+		<td><a target="_blank" href="https://twitter.com/shtakkar">shtakkar</a></td>
 		<td>Mumbai</td>
 		<td>5</td>
 	</tr>
@@ -10232,7 +10233,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nistha Gupta
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/NisthaGupta09">NisthaGupta09</a></td>
+		<td><a target="_blank" href="https://twitter.com/NisthaGupta09">NisthaGupta09</a></td>
 		<td>New Delhi</td>
 		<td>5</td>
 	</tr>
@@ -10245,7 +10246,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aman Dalmia
 		</td>
 		<td>Hyperverge </td>
-		<td><a href="https://twitter.com/dalmiaman">dalmiaman</a></td>
+		<td><a target="_blank" href="https://twitter.com/dalmiaman">dalmiaman</a></td>
 		<td>Bengaluru India</td>
 		<td>5</td>
 	</tr>
@@ -10271,7 +10272,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Emmanuel Martin
 		</td>
 		<td>Koorka </td>
-		<td><a href="https://twitter.com/emmanuelmartin_">emmanuelmartin_</a></td>
+		<td><a target="_blank" href="https://twitter.com/emmanuelmartin_">emmanuelmartin_</a></td>
 		<td>India</td>
 		<td>5</td>
 	</tr>
@@ -10284,7 +10285,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rohini Rao
 		</td>
 		<td>International Institute Of Information<br/>Technology<br/>Isquareit<br/></td>
-		<td><a href="https://twitter.com/rooohini_">rooohini_</a></td>
+		<td><a target="_blank" href="https://twitter.com/rooohini_">rooohini_</a></td>
 		<td>Pune</td>
 		<td>5</td>
 	</tr>
@@ -10297,7 +10298,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anush Bhatia
 		</td>
 		<td>Capgemini </td>
-		<td><a href="https://twitter.com/AnushBhatia">AnushBhatia</a></td>
+		<td><a target="_blank" href="https://twitter.com/AnushBhatia">AnushBhatia</a></td>
 		<td>ChennaiIndia</td>
 		<td>5</td>
 	</tr>
@@ -10323,7 +10324,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayushi Rawat
 		</td>
 		<td>Kipibi </td>
-		<td><a href="https://twitter.com/ayushi7rawat">ayushi7rawat</a></td>
+		<td><a target="_blank" href="https://twitter.com/ayushi7rawat">ayushi7rawat</a></td>
 		<td>Pune India</td>
 		<td>4</td>
 	</tr>
@@ -10336,7 +10337,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rahul Jain
 		</td>
 		<td>Cred </td>
-		<td><a href="https://twitter.com/rahuldkjain">rahuldkjain</a></td>
+		<td><a target="_blank" href="https://twitter.com/rahuldkjain">rahuldkjain</a></td>
 		<td>Bangalore India</td>
 		<td>4</td>
 	</tr>
@@ -10349,7 +10350,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Avi Aryan
 		</td>
 		<td>@toptal </td>
-		<td><a href="https://twitter.com/aviaryan123">aviaryan123</a></td>
+		<td><a target="_blank" href="https://twitter.com/aviaryan123">aviaryan123</a></td>
 		<td>New Delhi India</td>
 		<td>4</td>
 	</tr>
@@ -10362,7 +10363,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			SAURAV SHARMA
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dearestsaurav">dearestsaurav</a></td>
+		<td><a target="_blank" href="https://twitter.com/dearestsaurav">dearestsaurav</a></td>
 		<td>Bengaluru</td>
 		<td>4</td>
 	</tr>
@@ -10375,7 +10376,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vanshika Garg
 		</td>
 		<td>Fractal Analytics </td>
-		<td><a href="https://twitter.com/vanshika_garg17">vanshika_garg17</a></td>
+		<td><a target="_blank" href="https://twitter.com/vanshika_garg17">vanshika_garg17</a></td>
 		<td>Bangalore India</td>
 		<td>4</td>
 	</tr>
@@ -10388,7 +10389,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Somesh Kar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/someshkar">someshkar</a></td>
+		<td><a target="_blank" href="https://twitter.com/someshkar">someshkar</a></td>
 		<td>New Delhi India</td>
 		<td>4</td>
 	</tr>
@@ -10427,7 +10428,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			RAJKUMAR SAMRA
 		</td>
 		<td>@knackline  </td>
-		<td><a href="https://twitter.com/rajkumarsamra">rajkumarsamra</a></td>
+		<td><a target="_blank" href="https://twitter.com/rajkumarsamra">rajkumarsamra</a></td>
 		<td>Mumbai India</td>
 		<td>4</td>
 	</tr>
@@ -10440,7 +10441,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Rahul Yashwant Doiphode
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/doomlord_xda">doomlord_xda</a></td>
+		<td><a target="_blank" href="https://twitter.com/doomlord_xda">doomlord_xda</a></td>
 		<td>Pune</td>
 		<td>4</td>
 	</tr>
@@ -10492,7 +10493,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Tummala Dhanvi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tummala_dhanvi">tummala_dhanvi</a></td>
+		<td><a target="_blank" href="https://twitter.com/tummala_dhanvi">tummala_dhanvi</a></td>
 		<td>India</td>
 		<td>4</td>
 	</tr>
@@ -10505,7 +10506,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nitin Ranganath
 		</td>
 		<td>Tessact </td>
-		<td><a href="https://twitter.com/iamnitinr">iamnitinr</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamnitinr">iamnitinr</a></td>
 		<td>Mumbai</td>
 		<td>4</td>
 	</tr>
@@ -10544,7 +10545,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ishaq Mohammed
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/security_prince">security_prince</a></td>
+		<td><a target="_blank" href="https://twitter.com/security_prince">security_prince</a></td>
 		<td>India</td>
 		<td>4</td>
 	</tr>
@@ -10557,7 +10558,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pooja Bhaumik
 		</td>
 		<td>@flutter </td>
-		<td><a href="https://twitter.com/pooja_bhaumik">pooja_bhaumik</a></td>
+		<td><a target="_blank" href="https://twitter.com/pooja_bhaumik">pooja_bhaumik</a></td>
 		<td>India</td>
 		<td>3</td>
 	</tr>
@@ -10570,7 +10571,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pradip Debnath
 		</td>
 		<td>Medust </td>
-		<td><a href="https://twitter.com/itzpradip">itzpradip</a></td>
+		<td><a target="_blank" href="https://twitter.com/itzpradip">itzpradip</a></td>
 		<td>Kolkata India</td>
 		<td>3</td>
 	</tr>
@@ -10583,7 +10584,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Chandrika Deb
 		</td>
 		<td>Amdocs </td>
-		<td><a href="https://twitter.com/chandrikadeb7">chandrikadeb7</a></td>
+		<td><a target="_blank" href="https://twitter.com/chandrikadeb7">chandrikadeb7</a></td>
 		<td>Jamshedpur India</td>
 		<td>3</td>
 	</tr>
@@ -10609,7 +10610,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Manraj Singh
 		</td>
 		<td>@medianet </td>
-		<td><a href="https://twitter.com/manrajsgrover">manrajsgrover</a></td>
+		<td><a target="_blank" href="https://twitter.com/manrajsgrover">manrajsgrover</a></td>
 		<td>New Delhi India</td>
 		<td>3</td>
 	</tr>
@@ -10622,7 +10623,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mudit Gupta
 		</td>
 		<td>@maticnetwork </td>
-		<td><a href="https://twitter.com/Mudit__Gupta">Mudit__Gupta</a></td>
+		<td><a target="_blank" href="https://twitter.com/Mudit__Gupta">Mudit__Gupta</a></td>
 		<td>India</td>
 		<td>3</td>
 	</tr>
@@ -10635,7 +10636,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Garima Jain
 		</td>
 		<td>@godaddy </td>
-		<td><a href="https://twitter.com/ragdroid">ragdroid</a></td>
+		<td><a target="_blank" href="https://twitter.com/ragdroid">ragdroid</a></td>
 		<td>New Delhi India</td>
 		<td>3</td>
 	</tr>
@@ -10661,7 +10662,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Priyanka Yadav
 		</td>
 		<td>Linkedin </td>
-		<td><a href="https://twitter.com/Priyanka__488">Priyanka__488</a></td>
+		<td><a target="_blank" href="https://twitter.com/Priyanka__488">Priyanka__488</a></td>
 		<td>Bangalore India</td>
 		<td>3</td>
 	</tr>
@@ -10687,7 +10688,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Sudhanshu Mishra
 		</td>
 		<td>@komorebitech </td>
-		<td><a href="https://twitter.com/debugger22">debugger22</a></td>
+		<td><a target="_blank" href="https://twitter.com/debugger22">debugger22</a></td>
 		<td>Mumbai India</td>
 		<td>3</td>
 	</tr>
@@ -10713,7 +10714,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Manoj Kumar
 		</td>
 		<td>Lambdatest </td>
-		<td><a href="https://twitter.com/manoj9788">manoj9788</a></td>
+		<td><a target="_blank" href="https://twitter.com/manoj9788">manoj9788</a></td>
 		<td>India</td>
 		<td>3</td>
 	</tr>
@@ -10726,7 +10727,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Kushal Vijay
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/KushalVijay_">KushalVijay_</a></td>
+		<td><a target="_blank" href="https://twitter.com/KushalVijay_">KushalVijay_</a></td>
 		<td>India</td>
 		<td>3</td>
 	</tr>
@@ -10752,7 +10753,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pulkit Midha
 		</td>
 		<td>@mediapipe </td>
-		<td><a href="https://twitter.com/midopooler">midopooler</a></td>
+		<td><a target="_blank" href="https://twitter.com/midopooler">midopooler</a></td>
 		<td>New Delhi  Bangalore</td>
 		<td>3</td>
 	</tr>
@@ -10791,7 +10792,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AnkitaB1108">AnkitaB1108</a></td>
+		<td><a target="_blank" href="https://twitter.com/AnkitaB1108">AnkitaB1108</a></td>
 		<td>Pune</td>
 		<td>3</td>
 	</tr>
@@ -10843,7 +10844,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vipul Tiwari
 		</td>
 		<td>@hacktronian </td>
-		<td><a href="https://twitter.com/thehackingsage">thehackingsage</a></td>
+		<td><a target="_blank" href="https://twitter.com/thehackingsage">thehackingsage</a></td>
 		<td>India</td>
 		<td>2</td>
 	</tr>
@@ -10869,7 +10870,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Pratham
 		</td>
 		<td>Head Of Devrel At<br/>Hyperspace<br/></td>
-		<td><a href="https://twitter.com/Prathkum">Prathkum</a></td>
+		<td><a target="_blank" href="https://twitter.com/Prathkum">Prathkum</a></td>
 		<td>New Delhi</td>
 		<td>2</td>
 	</tr>
@@ -10882,7 +10883,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Krishna Kumar Dey
 		</td>
 		<td>Spotdraft </td>
-		<td><a href="https://twitter.com/krishnadey30">krishnadey30</a></td>
+		<td><a target="_blank" href="https://twitter.com/krishnadey30">krishnadey30</a></td>
 		<td>Bengaluru</td>
 		<td>2</td>
 	</tr>
@@ -10895,7 +10896,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Manvi Tyagi
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/ManviTyagi9">ManviTyagi9</a></td>
+		<td><a target="_blank" href="https://twitter.com/ManviTyagi9">ManviTyagi9</a></td>
 		<td>India</td>
 		<td>2</td>
 	</tr>
@@ -10908,7 +10909,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Anushka Gupta
 		</td>
 		<td>Piecesapp </td>
-		<td><a href="https://twitter.com/Anushka50900309">Anushka50900309</a></td>
+		<td><a target="_blank" href="https://twitter.com/Anushka50900309">Anushka50900309</a></td>
 		<td>India</td>
 		<td>2</td>
 	</tr>
@@ -10947,7 +10948,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nitish Kumar Singh
 		</td>
 		<td>@nstackin </td>
-		<td><a href="https://twitter.com/nitishk72_">nitishk72_</a></td>
+		<td><a target="_blank" href="https://twitter.com/nitishk72_">nitishk72_</a></td>
 		<td>India</td>
 		<td>2</td>
 	</tr>
@@ -10960,7 +10961,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			BackSlash Flutter
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/shivanshsinghh_">shivanshsinghh_</a></td>
+		<td><a target="_blank" href="https://twitter.com/shivanshsinghh_">shivanshsinghh_</a></td>
 		<td>Lucknow Uttar Pradesh India</td>
 		<td>2</td>
 	</tr>
@@ -10973,7 +10974,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Manish Bisht
 		</td>
 		<td>Run4offers </td>
-		<td><a href="https://twitter.com/ManishBisht02">ManishBisht02</a></td>
+		<td><a target="_blank" href="https://twitter.com/ManishBisht02">ManishBisht02</a></td>
 		<td>Jaipur Rajasthan India</td>
 		<td>2</td>
 	</tr>
@@ -10986,7 +10987,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Vaidhyanathan S M
 		</td>
 		<td>@programmersgateway  </td>
-		<td><a href="https://twitter.com/itssmv1999">itssmv1999</a></td>
+		<td><a target="_blank" href="https://twitter.com/itssmv1999">itssmv1999</a></td>
 		<td>Chennai India</td>
 		<td>2</td>
 	</tr>
@@ -10999,7 +11000,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nishant
 		</td>
 		<td>@interviewstreet </td>
-		<td><a href="https://twitter.com/thisisnsh">thisisnsh</a></td>
+		<td><a target="_blank" href="https://twitter.com/thisisnsh">thisisnsh</a></td>
 		<td>India</td>
 		<td>2</td>
 	</tr>
@@ -11025,7 +11026,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Mohammed Ismail
 		</td>
 		<td>Biznessforce Software Solutions </td>
-		<td><a href="https://twitter.com/ikismail7">ikismail7</a></td>
+		<td><a target="_blank" href="https://twitter.com/ikismail7">ikismail7</a></td>
 		<td>Chennai India</td>
 		<td>2</td>
 	</tr>
@@ -11064,7 +11065,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Siv Ram Shastri Jonnalagadda
 		</td>
 		<td>Hyderabad Dao </td>
-		<td><a href="https://twitter.com/sivramshastri">sivramshastri</a></td>
+		<td><a target="_blank" href="https://twitter.com/sivramshastri">sivramshastri</a></td>
 		<td>Hyderabad Telangana</td>
 		<td>2</td>
 	</tr>
@@ -11103,7 +11104,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Lokesh Pandey
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hax4us">hax4us</a></td>
+		<td><a target="_blank" href="https://twitter.com/hax4us">hax4us</a></td>
 		<td>India </td>
 		<td>1</td>
 	</tr>
@@ -11116,7 +11117,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Savio Martin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/saviomartin7">saviomartin7</a></td>
+		<td><a target="_blank" href="https://twitter.com/saviomartin7">saviomartin7</a></td>
 		<td>Kerala India</td>
 		<td>1</td>
 	</tr>
@@ -11129,7 +11130,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ishan Sharma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ishan739">ishan739</a></td>
+		<td><a target="_blank" href="https://twitter.com/ishan739">ishan739</a></td>
 		<td>Goa India</td>
 		<td>1</td>
 	</tr>
@@ -11142,7 +11143,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Garima Singh
 		</td>
 		<td>@hackslashnitp @dscnitp  </td>
-		<td><a href="https://twitter.com/garysingh128">garysingh128</a></td>
+		<td><a target="_blank" href="https://twitter.com/garysingh128">garysingh128</a></td>
 		<td>India</td>
 		<td>1</td>
 	</tr>
@@ -11155,7 +11156,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nikhil Kumar Singh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nikhilksingh97">nikhilksingh97</a></td>
+		<td><a target="_blank" href="https://twitter.com/nikhilksingh97">nikhilksingh97</a></td>
 		<td>New Delhi India</td>
 		<td>1</td>
 	</tr>
@@ -11168,7 +11169,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayush Agarwal
 		</td>
 		<td>@tournafest </td>
-		<td><a href="https://twitter.com/aagarwal1012">aagarwal1012</a></td>
+		<td><a target="_blank" href="https://twitter.com/aagarwal1012">aagarwal1012</a></td>
 		<td>Jaipur India</td>
 		<td>1</td>
 	</tr>
@@ -11181,7 +11182,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Aditya Agarwal
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/dev__adi">dev__adi</a></td>
+		<td><a target="_blank" href="https://twitter.com/dev__adi">dev__adi</a></td>
 		<td>Bangalore India</td>
 		<td>1</td>
 	</tr>
@@ -11194,7 +11195,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Abhay Pawar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/asdpawar">asdpawar</a></td>
+		<td><a target="_blank" href="https://twitter.com/asdpawar">asdpawar</a></td>
 		<td>Pune India</td>
 		<td>1</td>
 	</tr>
@@ -11220,7 +11221,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Ayush Parikh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ayushparikh5">ayushparikh5</a></td>
+		<td><a target="_blank" href="https://twitter.com/ayushparikh5">ayushparikh5</a></td>
 		<td>India</td>
 		<td>1</td>
 	</tr>
@@ -11233,7 +11234,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Yash Khare
 		</td>
 		<td>@assemblyai  </td>
-		<td><a href="https://twitter.com/_p0lar_bear">_p0lar_bear</a></td>
+		<td><a target="_blank" href="https://twitter.com/_p0lar_bear">_p0lar_bear</a></td>
 		<td>Dehradun India</td>
 		<td>1</td>
 	</tr>
@@ -11285,7 +11286,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			CrioDo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/crio_do">crio_do</a></td>
+		<td><a target="_blank" href="https://twitter.com/crio_do">crio_do</a></td>
 		<td>Bengaluru India</td>
 		<td>1</td>
 	</tr>
@@ -11298,7 +11299,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Seema Saharan
 		</td>
 		<td>Autodesk </td>
-		<td><a href="https://twitter.com/SeemaSaharan5">SeemaSaharan5</a></td>
+		<td><a target="_blank" href="https://twitter.com/SeemaSaharan5">SeemaSaharan5</a></td>
 		<td>India</td>
 		<td>1</td>
 	</tr>
@@ -11324,7 +11325,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Atul Kumar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kumartul001">kumartul001</a></td>
+		<td><a target="_blank" href="https://twitter.com/kumartul001">kumartul001</a></td>
 		<td>Lucknow Uttar Pradesh India</td>
 		<td>1</td>
 	</tr>
@@ -11363,7 +11364,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Adeen Shukla
 		</td>
 		<td>@metaficco @campusexperts @codeindore <br/></td>
-		<td><a href="https://twitter.com/AdeenShukla">AdeenShukla</a></td>
+		<td><a target="_blank" href="https://twitter.com/AdeenShukla">AdeenShukla</a></td>
 		<td>Bengaluru India</td>
 		<td>1</td>
 	</tr>
@@ -11376,7 +11377,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Nikit Bhandari
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/NikitBhandari">NikitBhandari</a></td>
+		<td><a target="_blank" href="https://twitter.com/NikitBhandari">NikitBhandari</a></td>
 		<td>New Delhi India</td>
 		<td>1</td>
 	</tr>
@@ -11389,7 +11390,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			Yogini Bende
 		</td>
 		<td>@peerlisthq  </td>
-		<td><a href="https://twitter.com/hey_yogini">hey_yogini</a></td>
+		<td><a target="_blank" href="https://twitter.com/hey_yogini">hey_yogini</a></td>
 		<td>Pune India</td>
 		<td>1</td>
 	</tr>
@@ -11423,7 +11424,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20India&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/india.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20India&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/india.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -11475,6 +11476,7 @@ There are `968 users`  in India. You need at least `246 followers` to be on this
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)

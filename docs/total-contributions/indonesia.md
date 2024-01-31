@@ -1,9 +1,10 @@
 ---
-title: Indonesia 
-description: Top GitHub Users By Total Contributions in Indonesia 
+title: Indonesia
+description: Top GitHub Users By Total Contributions in Indonesia
 ---
 
 # Top GitHub Users By Total Contributions in Indonesia [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
@@ -14,7 +15,7 @@ The `public contributions` and `private contributions` by users in Indonesia on 
 
 There are `28 countries` and `193 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `978 users`  in Indonesia. You need at least `75 followers` to be on this list.
+There are `978 users` in Indonesia. You need at least `75 followers` to be on this list.
 
 <table>
 	<tr>
@@ -53,7 +54,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Indonesia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/indonesia.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Indonesia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/indonesia.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -161,7 +162,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			alfariqy raihan  qywok 
 		</td>
 		<td>@qnetics @rq21engineer </td>
-		<td><a href="https://twitter.com/FariqyAl">FariqyAl</a></td>
+		<td><a target="_blank" href="https://twitter.com/FariqyAl">FariqyAl</a></td>
 		<td>East Jakarta Indonesia</td>
 		<td>40290</td>
 		<td>40428</td>
@@ -189,7 +190,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hendi Santika
 		</td>
 		<td>@jvmdeveloperid @kotlinid @iddevops <br/></td>
-		<td><a href="https://twitter.com/hendisantika34">hendisantika34</a></td>
+		<td><a target="_blank" href="https://twitter.com/hendisantika34">hendisantika34</a></td>
 		<td>Bandung Jawa Barat  Indonesia</td>
 		<td>21135</td>
 		<td>22272</td>
@@ -217,7 +218,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Farhan Rivaldy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/farhanrivaldy_">farhanrivaldy_</a></td>
+		<td><a target="_blank" href="https://twitter.com/farhanrivaldy_">farhanrivaldy_</a></td>
 		<td>Balikpapan Indonesia</td>
 		<td>181</td>
 		<td>18321</td>
@@ -231,7 +232,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ipang Dwi
 		</td>
 		<td>@firstplato  </td>
-		<td><a href="https://twitter.com/firstplato">firstplato</a></td>
+		<td><a target="_blank" href="https://twitter.com/firstplato">firstplato</a></td>
 		<td>61256 Sidoarjo East Java Indonesia</td>
 		<td>15236</td>
 		<td>15254</td>
@@ -259,7 +260,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Gilbert Hutapea
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GilbertHutapeaa">GilbertHutapeaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/GilbertHutapeaa">GilbertHutapeaa</a></td>
 		<td>Karawang West Java Indonesia</td>
 		<td>11194</td>
 		<td>11194</td>
@@ -273,7 +274,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aditia Akbar Putra A
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/im_fiandev">im_fiandev</a></td>
+		<td><a target="_blank" href="https://twitter.com/im_fiandev">im_fiandev</a></td>
 		<td>Lamongan East Java Indonesia </td>
 		<td>9799</td>
 		<td>9799</td>
@@ -287,7 +288,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alfi Maulana
 		</td>
 		<td>@luminainc </td>
-		<td><a href="https://twitter.com/_threeal">_threeal</a></td>
+		<td><a target="_blank" href="https://twitter.com/_threeal">_threeal</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>6627</td>
 		<td>8687</td>
@@ -301,7 +302,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Faishal AR
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Isallkun">Isallkun</a></td>
+		<td><a target="_blank" href="https://twitter.com/Isallkun">Isallkun</a></td>
 		<td>Pasuruan East Java Indonesia</td>
 		<td>147</td>
 		<td>8570</td>
@@ -343,7 +344,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Abdul Malik Ikhsan
 		</td>
 		<td>Sitrun Technologies </td>
-		<td><a href="https://twitter.com/samsonasik">samsonasik</a></td>
+		<td><a target="_blank" href="https://twitter.com/samsonasik">samsonasik</a></td>
 		<td>Bandung Indonesia</td>
 		<td>4413</td>
 		<td>5810</td>
@@ -357,7 +358,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Andra Antariksa
 		</td>
 		<td>@gadostudio </td>
-		<td><a href="https://twitter.com/andraantariksa">andraantariksa</a></td>
+		<td><a target="_blank" href="https://twitter.com/andraantariksa">andraantariksa</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>104</td>
 		<td>5617</td>
@@ -371,7 +372,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hanif Dwy Putra S
 		</td>
 		<td>@smantriplw </td>
-		<td><a href="https://twitter.com/hanifdwypoetra">hanifdwypoetra</a></td>
+		<td><a target="_blank" href="https://twitter.com/hanifdwypoetra">hanifdwypoetra</a></td>
 		<td>Palu Central Sulawesi Indonesia</td>
 		<td>765</td>
 		<td>5455</td>
@@ -399,7 +400,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mahrus Khomaini
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mahruskh">mahruskh</a></td>
+		<td><a target="_blank" href="https://twitter.com/mahruskh">mahruskh</a></td>
 		<td>Malang Indonesia</td>
 		<td>0</td>
 		<td>4717</td>
@@ -413,7 +414,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dika Ardianta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/CakHaho">CakHaho</a></td>
+		<td><a target="_blank" href="https://twitter.com/CakHaho">CakHaho</a></td>
 		<td>Blitar Jawa Timur Indonesia</td>
 		<td>141</td>
 		<td>4554</td>
@@ -441,7 +442,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Caliph Dev
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/caliphdev">caliphdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/caliphdev">caliphdev</a></td>
 		<td>Sragen Indonesia</td>
 		<td>4133</td>
 		<td>4133</td>
@@ -455,7 +456,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Syofyan Zuhad
 		</td>
 		<td>@pondokprogrammer  </td>
-		<td><a href="https://twitter.com/syofyan_zuhad">syofyan_zuhad</a></td>
+		<td><a target="_blank" href="https://twitter.com/syofyan_zuhad">syofyan_zuhad</a></td>
 		<td>Indonesia</td>
 		<td>71</td>
 		<td>4023</td>
@@ -483,7 +484,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Indra Kusuma
 		</td>
 		<td>@tokopedia @invitato </td>
-		<td><a href="https://twitter.com/id_indrakusuma">id_indrakusuma</a></td>
+		<td><a target="_blank" href="https://twitter.com/id_indrakusuma">id_indrakusuma</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>36</td>
 		<td>3728</td>
@@ -497,7 +498,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Wisnu Wicaksono
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wiscaksono">wiscaksono</a></td>
+		<td><a target="_blank" href="https://twitter.com/wiscaksono">wiscaksono</a></td>
 		<td>Jakarta</td>
 		<td>300</td>
 		<td>3702</td>
@@ -511,7 +512,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fajar Firdaus
 		</td>
 		<td>Digital Engineering </td>
-		<td><a href="https://twitter.com/fajardotpsd">fajardotpsd</a></td>
+		<td><a target="_blank" href="https://twitter.com/fajardotpsd">fajardotpsd</a></td>
 		<td>Bogor Indonesia</td>
 		<td>2945</td>
 		<td>3682</td>
@@ -525,7 +526,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Faisal Amir
 		</td>
 		<td>@frogobox @teamqomunal </td>
-		<td><a href="https://twitter.com/faisalamircs">faisalamircs</a></td>
+		<td><a target="_blank" href="https://twitter.com/faisalamircs">faisalamircs</a></td>
 		<td>Probolinggo Indonesia</td>
 		<td>1485</td>
 		<td>3672</td>
@@ -539,7 +540,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aghits Nidallah
 		</td>
 		<td>Pt Bengkel Web Indonesia<br/></td>
-		<td><a href="https://twitter.com/irlnidallah">irlnidallah</a></td>
+		<td><a target="_blank" href="https://twitter.com/irlnidallah">irlnidallah</a></td>
 		<td>Indonesia</td>
 		<td>324</td>
 		<td>3665</td>
@@ -581,7 +582,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Merta Herzarika
 		</td>
 		<td>Herzarika </td>
-		<td><a href="https://twitter.com/Herzarika">Herzarika</a></td>
+		<td><a target="_blank" href="https://twitter.com/Herzarika">Herzarika</a></td>
 		<td>Indonesia</td>
 		<td>3446</td>
 		<td>3446</td>
@@ -609,7 +610,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Tengku Belmiro
 		</td>
 		<td>@sandhyaacala </td>
-		<td><a href="https://twitter.com/tengku_belmiro">tengku_belmiro</a></td>
+		<td><a target="_blank" href="https://twitter.com/tengku_belmiro">tengku_belmiro</a></td>
 		<td>Bandung Indonesia</td>
 		<td>503</td>
 		<td>3345</td>
@@ -623,7 +624,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Eugenius Mario
 		</td>
 		<td>University Of Indonesia </td>
-		<td><a href="https://twitter.com/eugeniusmario">eugeniusmario</a></td>
+		<td><a target="_blank" href="https://twitter.com/eugeniusmario">eugeniusmario</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>928</td>
 		<td>3286</td>
@@ -735,7 +736,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mychael Go
 		</td>
 		<td>@xendit </td>
-		<td><a href="https://twitter.com/mychaelgo">mychaelgo</a></td>
+		<td><a target="_blank" href="https://twitter.com/mychaelgo">mychaelgo</a></td>
 		<td>Indonesia</td>
 		<td>38</td>
 		<td>2832</td>
@@ -749,7 +750,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Theodorus Clarence
 		</td>
 		<td>@dimensionhq </td>
-		<td><a href="https://twitter.com/th_clarence">th_clarence</a></td>
+		<td><a target="_blank" href="https://twitter.com/th_clarence">th_clarence</a></td>
 		<td>Indonesia</td>
 		<td>347</td>
 		<td>2745</td>
@@ -763,7 +764,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Akas Wisnu Aji
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/justakazh">justakazh</a></td>
+		<td><a target="_blank" href="https://twitter.com/justakazh">justakazh</a></td>
 		<td>Indonesia</td>
 		<td>2742</td>
 		<td>2742</td>
@@ -777,7 +778,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Naufal Badruttamam
 		</td>
 		<td>Sepuluh Nopember Institute Of<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/Cakno00">Cakno00</a></td>
+		<td><a target="_blank" href="https://twitter.com/Cakno00">Cakno00</a></td>
 		<td>Surabaya East Java Indonesia</td>
 		<td>1605</td>
 		<td>2725</td>
@@ -791,7 +792,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			ahmadrosid
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_ahmadrosid">_ahmadrosid</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ahmadrosid">_ahmadrosid</a></td>
 		<td>Metro Lampung  Indonesia</td>
 		<td>828</td>
 		<td>2706</td>
@@ -819,7 +820,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Haidar Hanif
 		</td>
 		<td>@catamyst @bearmentor </td>
-		<td><a href="https://twitter.com/mhaidarhanif">mhaidarhanif</a></td>
+		<td><a target="_blank" href="https://twitter.com/mhaidarhanif">mhaidarhanif</a></td>
 		<td>JakartaBandungBali Indonesia</td>
 		<td>2095</td>
 		<td>2667</td>
@@ -833,7 +834,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fery Wardiyanto
 		</td>
 		<td>@creasico </td>
-		<td><a href="https://twitter.com/feryardiant">feryardiant</a></td>
+		<td><a target="_blank" href="https://twitter.com/feryardiant">feryardiant</a></td>
 		<td>Batang Indonesia</td>
 		<td>1269</td>
 		<td>2667</td>
@@ -847,7 +848,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Imamuzzaki Abu Salam
 		</td>
 		<td>Looking For A New<br/>Role<br/></td>
-		<td><a href="https://twitter.com/ImBIOS_Dev">ImBIOS_Dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/ImBIOS_Dev">ImBIOS_Dev</a></td>
 		<td>Indonesia</td>
 		<td>831</td>
 		<td>2663</td>
@@ -861,7 +862,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ivan Kristianto
 		</td>
 		<td>Human Made </td>
-		<td><a href="https://twitter.com/ivankrisdotcom">ivankrisdotcom</a></td>
+		<td><a target="_blank" href="https://twitter.com/ivankrisdotcom">ivankrisdotcom</a></td>
 		<td>Jakarta</td>
 		<td>127</td>
 		<td>2651</td>
@@ -889,7 +890,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhamad Hudya Ramadhana
 		</td>
 		<td>@soulparking  </td>
-		<td><a href="https://twitter.com/perogeremmer">perogeremmer</a></td>
+		<td><a target="_blank" href="https://twitter.com/perogeremmer">perogeremmer</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>130</td>
 		<td>2626</td>
@@ -903,7 +904,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Lalu Erfandi Maula Yusnu
 		</td>
 		<td>Pt Tigapilar Maju Mandiri<br/></td>
-		<td><a href="https://twitter.com/nunenuh">nunenuh</a></td>
+		<td><a target="_blank" href="https://twitter.com/nunenuh">nunenuh</a></td>
 		<td>Mataram NTB Indonesia</td>
 		<td>363</td>
 		<td>2612</td>
@@ -917,7 +918,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			iBNu Maksum
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ibnux">ibnux</a></td>
+		<td><a target="_blank" href="https://twitter.com/ibnux">ibnux</a></td>
 		<td>Kota Serang Banten Indonesia</td>
 		<td>1818</td>
 		<td>2604</td>
@@ -945,7 +946,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alif Fathur
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iamherobuxx">iamherobuxx</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamherobuxx">iamherobuxx</a></td>
 		<td>Bandung Indonesia</td>
 		<td>1170</td>
 		<td>2518</td>
@@ -973,7 +974,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jacky Efendi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jackyef__">jackyef__</a></td>
+		<td><a target="_blank" href="https://twitter.com/jackyef__">jackyef__</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>640</td>
 		<td>2509</td>
@@ -987,7 +988,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Gading Nasution
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gadingnstn">gadingnstn</a></td>
+		<td><a target="_blank" href="https://twitter.com/gadingnstn">gadingnstn</a></td>
 		<td>Palembang Indonesia</td>
 		<td>440</td>
 		<td>2486</td>
@@ -1043,7 +1044,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hilman Ramadhan
 		</td>
 		<td>@serpapi </td>
-		<td><a href="https://twitter.com/hilmanski">hilmanski</a></td>
+		<td><a target="_blank" href="https://twitter.com/hilmanski">hilmanski</a></td>
 		<td>makassar indonesia</td>
 		<td>700</td>
 		<td>2392</td>
@@ -1085,7 +1086,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zanuar ER
 		</td>
 		<td>@dicodingdev </td>
-		<td><a href="https://twitter.com/zanuarts">zanuarts</a></td>
+		<td><a target="_blank" href="https://twitter.com/zanuarts">zanuarts</a></td>
 		<td>Indonesia</td>
 		<td>5</td>
 		<td>2328</td>
@@ -1113,7 +1114,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Danil
 		</td>
 		<td>@selarastechgit </td>
-		<td><a href="https://twitter.com/danilhendrasr">danilhendrasr</a></td>
+		<td><a target="_blank" href="https://twitter.com/danilhendrasr">danilhendrasr</a></td>
 		<td>Sidoarjo Indonesia</td>
 		<td>362</td>
 		<td>2297</td>
@@ -1127,7 +1128,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Gilang Januar
 		</td>
 		<td>@appledoredev </td>
-		<td><a href="https://twitter.com/mgilangjanuar">mgilangjanuar</a></td>
+		<td><a target="_blank" href="https://twitter.com/mgilangjanuar">mgilangjanuar</a></td>
 		<td>Indonesia</td>
 		<td>336</td>
 		<td>2241</td>
@@ -1141,7 +1142,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dicha Zelianivan Arkana
 		</td>
 		<td>State Polytechnic Of Malang<br/></td>
-		<td><a href="https://twitter.com/elianiva_">elianiva_</a></td>
+		<td><a target="_blank" href="https://twitter.com/elianiva_">elianiva_</a></td>
 		<td>Indonesia</td>
 		<td>1180</td>
 		<td>2218</td>
@@ -1155,7 +1156,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Zakiyuddin Munziri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zakiego">zakiego</a></td>
+		<td><a target="_blank" href="https://twitter.com/zakiego">zakiego</a></td>
 		<td>Kalimantan Selatan Indonesia</td>
 		<td>966</td>
 		<td>2186</td>
@@ -1169,7 +1170,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			hzmi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hzmi35">hzmi35</a></td>
+		<td><a target="_blank" href="https://twitter.com/hzmi35">hzmi35</a></td>
 		<td>West Java Indonesia Earth</td>
 		<td>510</td>
 		<td>2171</td>
@@ -1197,7 +1198,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hendra Agil
 		</td>
 		<td>@dicodingdev </td>
-		<td><a href="https://twitter.com/hendraaagil">hendraaagil</a></td>
+		<td><a target="_blank" href="https://twitter.com/hendraaagil">hendraaagil</a></td>
 		<td>Central Java Indonesia</td>
 		<td>1001</td>
 		<td>2145</td>
@@ -1211,7 +1212,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Kholid
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kholid060">kholid060</a></td>
+		<td><a target="_blank" href="https://twitter.com/kholid060">kholid060</a></td>
 		<td>Indonesia</td>
 		<td>347</td>
 		<td>2142</td>
@@ -1225,7 +1226,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			sage
 		</td>
 		<td>@torchbox </td>
-		<td><a href="https://twitter.com/laymonage">laymonage</a></td>
+		<td><a target="_blank" href="https://twitter.com/laymonage">laymonage</a></td>
 		<td>BristolJakarta</td>
 		<td>1969</td>
 		<td>2141</td>
@@ -1239,7 +1240,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jefry Dewangga
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jefrydco">jefrydco</a></td>
+		<td><a target="_blank" href="https://twitter.com/jefrydco">jefrydco</a></td>
 		<td>Jakarta</td>
 		<td>78</td>
 		<td>2133</td>
@@ -1309,7 +1310,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Go Frendi Gunawan
 		</td>
 		<td>@machwatch </td>
-		<td><a href="https://twitter.com/goFrendiAsgard">goFrendiAsgard</a></td>
+		<td><a target="_blank" href="https://twitter.com/goFrendiAsgard">goFrendiAsgard</a></td>
 		<td>Malang East Java Indonesia</td>
 		<td>918</td>
 		<td>2108</td>
@@ -1323,7 +1324,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			muhammad wahyudi
 		</td>
 		<td>Edifly Solusi Indonesia </td>
-		<td><a href="https://twitter.com/ideapedyudi">ideapedyudi</a></td>
+		<td><a target="_blank" href="https://twitter.com/ideapedyudi">ideapedyudi</a></td>
 		<td>Surabaya Indonesia</td>
 		<td>12</td>
 		<td>2104</td>
@@ -1337,7 +1338,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fiqry choerudin
 		</td>
 		<td>@kitabisa  </td>
-		<td><a href="https://twitter.com/fiqryq_">fiqryq_</a></td>
+		<td><a target="_blank" href="https://twitter.com/fiqryq_">fiqryq_</a></td>
 		<td>Bandung Indonesia</td>
 		<td>1437</td>
 		<td>2081</td>
@@ -1365,7 +1366,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Nafies Luthfi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nafiesl">nafiesl</a></td>
+		<td><a target="_blank" href="https://twitter.com/nafiesl">nafiesl</a></td>
 		<td>Indonesia</td>
 		<td>795</td>
 		<td>2066</td>
@@ -1421,7 +1422,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Abdul Fattah Ikhsan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/abdfattahikhsan">abdfattahikhsan</a></td>
+		<td><a target="_blank" href="https://twitter.com/abdfattahikhsan">abdfattahikhsan</a></td>
 		<td>Indonesia</td>
 		<td>129</td>
 		<td>2027</td>
@@ -1435,7 +1436,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Anaf Naufalian
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anafthdev_">anafthdev_</a></td>
+		<td><a target="_blank" href="https://twitter.com/anafthdev_">anafthdev_</a></td>
 		<td>Kab Bogor Jawa Barat Indonesia</td>
 		<td>1513</td>
 		<td>2010</td>
@@ -1463,7 +1464,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Antoni Putra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/antoni_putra12">antoni_putra12</a></td>
+		<td><a target="_blank" href="https://twitter.com/antoni_putra12">antoni_putra12</a></td>
 		<td>Surabaya Indonesia</td>
 		<td>7</td>
 		<td>2001</td>
@@ -1491,7 +1492,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fahrezi Adha
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fahreziadhaa">fahreziadhaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/fahreziadhaa">fahreziadhaa</a></td>
 		<td>Medan</td>
 		<td>193</td>
 		<td>1930</td>
@@ -1519,7 +1520,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fajrian Aidil Pratama
 		</td>
 		<td>@banuacoder  </td>
-		<td><a href="https://twitter.com/ryanaidilp_">ryanaidilp_</a></td>
+		<td><a target="_blank" href="https://twitter.com/ryanaidilp_">ryanaidilp_</a></td>
 		<td>Donggala Sulawesi Tengah Indonesia</td>
 		<td>748</td>
 		<td>1919</td>
@@ -1547,7 +1548,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dicka Ismaji
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dickaismaji">dickaismaji</a></td>
+		<td><a target="_blank" href="https://twitter.com/dickaismaji">dickaismaji</a></td>
 		<td>Indonesia</td>
 		<td>33</td>
 		<td>1881</td>
@@ -1589,7 +1590,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sendhy Ramadhinata
 		</td>
 		<td>@gdscupnvjt @surabayadev </td>
-		<td><a href="https://twitter.com/sendhyrama">sendhyrama</a></td>
+		<td><a target="_blank" href="https://twitter.com/sendhyrama">sendhyrama</a></td>
 		<td>Surabaya Indonesia</td>
 		<td>379</td>
 		<td>1829</td>
@@ -1617,7 +1618,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Azzam SA
 		</td>
 		<td>@biznetgio </td>
-		<td><a href="https://twitter.com/azzamsyawqi">azzamsyawqi</a></td>
+		<td><a target="_blank" href="https://twitter.com/azzamsyawqi">azzamsyawqi</a></td>
 		<td>Jakarta UTC7</td>
 		<td>1631</td>
 		<td>1805</td>
@@ -1631,7 +1632,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ade Viankakrisna Fadlil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/viankakrisna">viankakrisna</a></td>
+		<td><a target="_blank" href="https://twitter.com/viankakrisna">viankakrisna</a></td>
 		<td>Indonesia</td>
 		<td>2</td>
 		<td>1804</td>
@@ -1645,7 +1646,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>Vengeful Ghost </td>
-		<td><a href="https://twitter.com/AgaScoot_Reggae">AgaScoot_Reggae</a></td>
+		<td><a target="_blank" href="https://twitter.com/AgaScoot_Reggae">AgaScoot_Reggae</a></td>
 		<td>Indonesia</td>
 		<td>245</td>
 		<td>1801</td>
@@ -1659,7 +1660,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			yehezkielgunawan
 		</td>
 		<td>@boboboxid </td>
-		<td><a href="https://twitter.com/YehezGun">YehezGun</a></td>
+		<td><a target="_blank" href="https://twitter.com/YehezGun">YehezGun</a></td>
 		<td>Bogor West Java Indonesia</td>
 		<td>315</td>
 		<td>1796</td>
@@ -1673,7 +1674,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Irfan Maulana
 		</td>
 		<td>Govtech Edu </td>
-		<td><a href="https://twitter.com/Maz_Ipan">Maz_Ipan</a></td>
+		<td><a target="_blank" href="https://twitter.com/Maz_Ipan">Maz_Ipan</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>1319</td>
 		<td>1794</td>
@@ -1701,7 +1702,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Warsono
 		</td>
 		<td>@gitsindonesia </td>
-		<td><a href="https://twitter.com/gravitano">gravitano</a></td>
+		<td><a target="_blank" href="https://twitter.com/gravitano">gravitano</a></td>
 		<td>Indonesia</td>
 		<td>1566</td>
 		<td>1780</td>
@@ -1729,7 +1730,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ryan Aulia
 		</td>
 		<td>Seeru </td>
-		<td><a href="https://twitter.com/aulianzaa">aulianzaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/aulianzaa">aulianzaa</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>1341</td>
 		<td>1759</td>
@@ -1743,7 +1744,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sami Kalammallah
 		</td>
 		<td>@mazecare </td>
-		<td><a href="https://twitter.com/Kalammallah23">Kalammallah23</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kalammallah23">Kalammallah23</a></td>
 		<td>Indonesia</td>
 		<td>309</td>
 		<td>1736</td>
@@ -1757,7 +1758,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alfian Yusuf Abdullah
 		</td>
 		<td>@dicodingacademy  </td>
-		<td><a href="https://twitter.com/alfianyabdullah">alfianyabdullah</a></td>
+		<td><a target="_blank" href="https://twitter.com/alfianyabdullah">alfianyabdullah</a></td>
 		<td>Gorontalo Indonesia</td>
 		<td>23</td>
 		<td>1721</td>
@@ -1799,7 +1800,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rizqy Hidayat
 		</td>
 		<td>@dicodingdev </td>
-		<td><a href="https://twitter.com/rizqyhi">rizqyhi</a></td>
+		<td><a target="_blank" href="https://twitter.com/rizqyhi">rizqyhi</a></td>
 		<td>Bandung Indonesia</td>
 		<td>227</td>
 		<td>1715</td>
@@ -1813,7 +1814,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rafli Surya P
 		</td>
 		<td>@roketin </td>
-		<td><a href="https://twitter.com/rsurya99">rsurya99</a></td>
+		<td><a target="_blank" href="https://twitter.com/rsurya99">rsurya99</a></td>
 		<td>Bandung Indonesia</td>
 		<td>1540</td>
 		<td>1701</td>
@@ -1827,7 +1828,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Matthew Kevin Amadeus
 		</td>
 		<td>@xendit  </td>
-		<td><a href="https://twitter.com/mk_amadeus">mk_amadeus</a></td>
+		<td><a target="_blank" href="https://twitter.com/mk_amadeus">mk_amadeus</a></td>
 		<td>Indonesia</td>
 		<td>54</td>
 		<td>1693</td>
@@ -1841,7 +1842,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ali Reza
 		</td>
 		<td>@eddiehubcommunity </td>
-		<td><a href="https://twitter.com/alirdev">alirdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/alirdev">alirdev</a></td>
 		<td>Afghanistan  Indonesia</td>
 		<td>715</td>
 		<td>1690</td>
@@ -1855,7 +1856,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Nur Fikri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kikiding">kikiding</a></td>
+		<td><a target="_blank" href="https://twitter.com/kikiding">kikiding</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>670</td>
 		<td>1685</td>
@@ -1869,7 +1870,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Petra Barus
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/petrabarus">petrabarus</a></td>
+		<td><a target="_blank" href="https://twitter.com/petrabarus">petrabarus</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>16</td>
 		<td>1680</td>
@@ -1911,7 +1912,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Robby Pambudi
 		</td>
 		<td>Sepuluh Nopember Institute Of<br/>Technology<br/><br/></td>
-		<td><a href="https://twitter.com/robbypambudii">robbypambudii</a></td>
+		<td><a target="_blank" href="https://twitter.com/robbypambudii">robbypambudii</a></td>
 		<td>Surabaya</td>
 		<td>638</td>
 		<td>1666</td>
@@ -1953,7 +1954,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rayhan Kinan Muhannad
 		</td>
 		<td>Bandung Institute Of Technology<br/></td>
-		<td><a href="https://twitter.com/rayhankinanm">rayhankinanm</a></td>
+		<td><a target="_blank" href="https://twitter.com/rayhankinanm">rayhankinanm</a></td>
 		<td>Bandung West Java</td>
 		<td>1512</td>
 		<td>1629</td>
@@ -1967,7 +1968,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Irsyad A Panjaitan
 		</td>
 		<td>@teamparsinta  </td>
-		<td><a href="https://twitter.com/irsyadadl">irsyadadl</a></td>
+		<td><a target="_blank" href="https://twitter.com/irsyadadl">irsyadadl</a></td>
 		<td>Medan ID</td>
 		<td>332</td>
 		<td>1625</td>
@@ -1995,7 +1996,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dandy Raka
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/xtrvts">xtrvts</a></td>
+		<td><a target="_blank" href="https://twitter.com/xtrvts">xtrvts</a></td>
 		<td>Surabaya Indonesia</td>
 		<td>168</td>
 		<td>1621</td>
@@ -2065,7 +2066,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dwi Siswanto
 		</td>
 		<td>@kitabisa </td>
-		<td><a href="https://twitter.com/dwisiswant0">dwisiswant0</a></td>
+		<td><a target="_blank" href="https://twitter.com/dwisiswant0">dwisiswant0</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>1336</td>
 		<td>1588</td>
@@ -2121,7 +2122,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ikhsan Satriadi
 		</td>
 		<td>@xiboxcode </td>
-		<td><a href="https://twitter.com/ikhsan3adi">ikhsan3adi</a></td>
+		<td><a target="_blank" href="https://twitter.com/ikhsan3adi">ikhsan3adi</a></td>
 		<td>Bandung West Java Indonesia</td>
 		<td>1056</td>
 		<td>1505</td>
@@ -2135,7 +2136,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dendi Suhubdy
 		</td>
 		<td>@bitwyre </td>
-		<td><a href="https://twitter.com/dendisuhubdy">dendisuhubdy</a></td>
+		<td><a target="_blank" href="https://twitter.com/dendisuhubdy">dendisuhubdy</a></td>
 		<td>Bali Indonesia</td>
 		<td>24</td>
 		<td>1504</td>
@@ -2149,7 +2150,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Kaenova Mahendra Auditama
 		</td>
 		<td>@ailabtelkom @kerjago </td>
-		<td><a href="https://twitter.com/kaenovama">kaenovama</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaenovama">kaenovama</a></td>
 		<td>Bandung Indonesia</td>
 		<td>502</td>
 		<td>1501</td>
@@ -2163,7 +2164,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			AlbirrKarim
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/albirrkarim">albirrkarim</a></td>
+		<td><a target="_blank" href="https://twitter.com/albirrkarim">albirrkarim</a></td>
 		<td>Semarang Indonesia</td>
 		<td>223</td>
 		<td>1501</td>
@@ -2205,7 +2206,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Azhar Rizki Zulma
 		</td>
 		<td>Sy Systems Co Ltd<br/>Japan<br/><br/>@mineversal<br/><br/>@woiluid<br/></td>
-		<td><a href="https://twitter.com/AzharRizkyZ">AzharRizkyZ</a></td>
+		<td><a target="_blank" href="https://twitter.com/AzharRizkyZ">AzharRizkyZ</a></td>
 		<td>Jakarta</td>
 		<td>139</td>
 		<td>1486</td>
@@ -2233,7 +2234,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Josep Marcello
 		</td>
 		<td>Tiketcom </td>
-		<td><a href="https://twitter.com/jspmarc">jspmarc</a></td>
+		<td><a target="_blank" href="https://twitter.com/jspmarc">jspmarc</a></td>
 		<td>Indonesia</td>
 		<td>448</td>
 		<td>1484</td>
@@ -2261,7 +2262,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jauhar Arifin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jauhararifin10">jauhararifin10</a></td>
+		<td><a target="_blank" href="https://twitter.com/jauhararifin10">jauhararifin10</a></td>
 		<td>Bandung West Java Indonesia</td>
 		<td>801</td>
 		<td>1479</td>
@@ -2275,7 +2276,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ryan Nixon Salim
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Ryan_NIxon_S">Ryan_NIxon_S</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ryan_NIxon_S">Ryan_NIxon_S</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>0</td>
 		<td>1477</td>
@@ -2289,7 +2290,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Cristopher
 		</td>
 		<td>@glairai </td>
-		<td><a href="https://twitter.com/lakban_hitam">lakban_hitam</a></td>
+		<td><a target="_blank" href="https://twitter.com/lakban_hitam">lakban_hitam</a></td>
 		<td>Bandung West Java</td>
 		<td>903</td>
 		<td>1444</td>
@@ -2303,7 +2304,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hafidz Masruri
 		</td>
 		<td>@xetiablockchain </td>
-		<td><a href="https://twitter.com/hafidzdev">hafidzdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/hafidzdev">hafidzdev</a></td>
 		<td>Indonesia</td>
 		<td>176</td>
 		<td>1426</td>
@@ -2317,7 +2318,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sucipto
 		</td>
 		<td>@pringstudio  </td>
-		<td><a href="https://twitter.com/suciptodev">suciptodev</a></td>
+		<td><a target="_blank" href="https://twitter.com/suciptodev">suciptodev</a></td>
 		<td>Indonesia</td>
 		<td>136</td>
 		<td>1417</td>
@@ -2331,7 +2332,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ismail Sunni
 		</td>
 		<td>@camptocamp </td>
-		<td><a href="https://twitter.com/ismailsunni">ismailsunni</a></td>
+		<td><a target="_blank" href="https://twitter.com/ismailsunni">ismailsunni</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>1109</td>
 		<td>1389</td>
@@ -2373,7 +2374,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Robby Ilhamkusuma
 		</td>
 		<td>Httpslaksanasolution </td>
-		<td><a href="https://twitter.com/robbyilhkus">robbyilhkus</a></td>
+		<td><a target="_blank" href="https://twitter.com/robbyilhkus">robbyilhkus</a></td>
 		<td>Bogor Indonesia</td>
 		<td>1354</td>
 		<td>1354</td>
@@ -2401,7 +2402,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Gaung Ramadhan
 		</td>
 		<td>@userbotindo @mrmisslab </td>
-		<td><a href="https://twitter.com/MrMissx">MrMissx</a></td>
+		<td><a target="_blank" href="https://twitter.com/MrMissx">MrMissx</a></td>
 		<td>Indonesia</td>
 		<td>730</td>
 		<td>1345</td>
@@ -2415,7 +2416,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Didik Wicaksono
 		</td>
 		<td>@cookpad </td>
-		<td><a href="https://twitter.com/did1k">did1k</a></td>
+		<td><a target="_blank" href="https://twitter.com/did1k">did1k</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>4</td>
 		<td>1336</td>
@@ -2429,7 +2430,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ryan Aunur Rassyid
 		</td>
 		<td>Nyandev Indonesia </td>
-		<td><a href="https://twitter.com/ryanaunur">ryanaunur</a></td>
+		<td><a target="_blank" href="https://twitter.com/ryanaunur">ryanaunur</a></td>
 		<td>Jombang Indonesia</td>
 		<td>1328</td>
 		<td>1330</td>
@@ -2541,7 +2542,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Altela Eleviansyah Pramardhika
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/altela_">altela_</a></td>
+		<td><a target="_blank" href="https://twitter.com/altela_">altela_</a></td>
 		<td>Balikpapan Indonesia</td>
 		<td>163</td>
 		<td>1281</td>
@@ -2555,7 +2556,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Diky Arga
 		</td>
 		<td>@deliveryhero @idmozilla  </td>
-		<td><a href="https://twitter.com/dikyarga">dikyarga</a></td>
+		<td><a target="_blank" href="https://twitter.com/dikyarga">dikyarga</a></td>
 		<td>Indonesia</td>
 		<td>4</td>
 		<td>1275</td>
@@ -2569,7 +2570,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rizqi Nur Assyaufi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bandithijo">bandithijo</a></td>
+		<td><a target="_blank" href="https://twitter.com/bandithijo">bandithijo</a></td>
 		<td>Balikpapan Indonesia</td>
 		<td>779</td>
 		<td>1274</td>
@@ -2583,7 +2584,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ezra Khairan Permana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/reacto_mecha">reacto_mecha</a></td>
+		<td><a target="_blank" href="https://twitter.com/reacto_mecha">reacto_mecha</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>1158</td>
 		<td>1271</td>
@@ -2625,7 +2626,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Akhmad Salafudin
 		</td>
 		<td>@semarangplaza  @kodepandai </td>
-		<td><a href="https://twitter.com/axmad386">axmad386</a></td>
+		<td><a target="_blank" href="https://twitter.com/axmad386">axmad386</a></td>
 		<td>Semarang Indonesia</td>
 		<td>395</td>
 		<td>1246</td>
@@ -2653,7 +2654,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Eko Kurniawan Khannedy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/khannedy">khannedy</a></td>
+		<td><a target="_blank" href="https://twitter.com/khannedy">khannedy</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>964</td>
 		<td>1237</td>
@@ -2667,7 +2668,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Agustinus Nathaniel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sozonome">sozonome</a></td>
+		<td><a target="_blank" href="https://twitter.com/sozonome">sozonome</a></td>
 		<td>Indonesia</td>
 		<td>630</td>
 		<td>1236</td>
@@ -2751,7 +2752,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Adhy Wiranata P
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adhfrostfate">adhfrostfate</a></td>
+		<td><a target="_blank" href="https://twitter.com/adhfrostfate">adhfrostfate</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>16</td>
 		<td>1151</td>
@@ -2779,7 +2780,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Angelo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/uwungelo">uwungelo</a></td>
+		<td><a target="_blank" href="https://twitter.com/uwungelo">uwungelo</a></td>
 		<td>Indonesia</td>
 		<td>398</td>
 		<td>1138</td>
@@ -2793,7 +2794,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Irvan Malik
 		</td>
 		<td>@gnuweeb </td>
-		<td><a href="https://twitter.com/irvanmalik48">irvanmalik48</a></td>
+		<td><a target="_blank" href="https://twitter.com/irvanmalik48">irvanmalik48</a></td>
 		<td>Indonesia</td>
 		<td>1090</td>
 		<td>1136</td>
@@ -2835,7 +2836,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Iskandar Setiadi
 		</td>
 		<td>Hennge Kk Hde Inc<br/></td>
-		<td><a href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
+		<td><a target="_blank" href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
 		<td>Japan Indonesia</td>
 		<td>395</td>
 		<td>1123</td>
@@ -2849,7 +2850,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Manda Putra
 		</td>
 		<td>Zero One Group </td>
-		<td><a href="https://twitter.com/_mandaputtra">_mandaputtra</a></td>
+		<td><a target="_blank" href="https://twitter.com/_mandaputtra">_mandaputtra</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>908</td>
 		<td>1114</td>
@@ -2891,7 +2892,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			mpj
 		</td>
 		<td>@glovo @deliveryhero </td>
-		<td><a href="https://twitter.com/YoKulGuy">YoKulGuy</a></td>
+		<td><a target="_blank" href="https://twitter.com/YoKulGuy">YoKulGuy</a></td>
 		<td>Poland  Indonesia   Internet</td>
 		<td>138</td>
 		<td>1096</td>
@@ -2919,7 +2920,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fatih Kalifa
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pveyes">pveyes</a></td>
+		<td><a target="_blank" href="https://twitter.com/pveyes">pveyes</a></td>
 		<td>Indonesia</td>
 		<td>66</td>
 		<td>1086</td>
@@ -2961,7 +2962,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Rusdi
 		</td>
 		<td>Remote </td>
-		<td><a href="https://twitter.com/muhrusdev">muhrusdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/muhrusdev">muhrusdev</a></td>
 		<td>Makassar Indonesia</td>
 		<td>312</td>
 		<td>1070</td>
@@ -2975,7 +2976,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Henry Augusta
 		</td>
 		<td>Feylaboratory </td>
-		<td><a href="https://twitter.com/firriezky">firriezky</a></td>
+		<td><a target="_blank" href="https://twitter.com/firriezky">firriezky</a></td>
 		<td>Bandung</td>
 		<td>452</td>
 		<td>1069</td>
@@ -3003,7 +3004,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Gidhan Bagus Algary
 		</td>
 		<td>Student </td>
-		<td><a href="https://twitter.com/gidhanba">gidhanba</a></td>
+		<td><a target="_blank" href="https://twitter.com/gidhanba">gidhanba</a></td>
 		<td>Central Java Indonesia</td>
 		<td>792</td>
 		<td>1045</td>
@@ -3017,7 +3018,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aris Ripandi
 		</td>
 		<td>@zeroonegroup </td>
-		<td><a href="https://twitter.com/riipandi">riipandi</a></td>
+		<td><a target="_blank" href="https://twitter.com/riipandi">riipandi</a></td>
 		<td>Indonesia</td>
 		<td>1044</td>
 		<td>1044</td>
@@ -3045,7 +3046,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zain Fathoni
 		</td>
 		<td>Ninja Van </td>
-		<td><a href="https://twitter.com/zainfathoni">zainfathoni</a></td>
+		<td><a target="_blank" href="https://twitter.com/zainfathoni">zainfathoni</a></td>
 		<td>Singapore  Indonesia</td>
 		<td>736</td>
 		<td>1032</td>
@@ -3059,7 +3060,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Yonle
 		</td>
 		<td>@yonlecoder </td>
-		<td><a href="https://twitter.com/yonlecoder">yonlecoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/yonlecoder">yonlecoder</a></td>
 		<td>Riau Indonesia</td>
 		<td>1032</td>
 		<td>1032</td>
@@ -3073,7 +3074,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muh Isfhani Ghiath
 		</td>
 		<td>@tokopedia </td>
-		<td><a href="https://twitter.com/isfaaghyth">isfaaghyth</a></td>
+		<td><a target="_blank" href="https://twitter.com/isfaaghyth">isfaaghyth</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>162</td>
 		<td>1028</td>
@@ -3087,7 +3088,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ccrsxx">ccrsxx</a></td>
+		<td><a target="_blank" href="https://twitter.com/ccrsxx">ccrsxx</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>694</td>
 		<td>1027</td>
@@ -3101,7 +3102,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ibe Dwi
 		</td>
 		<td>@typedreamhq  </td>
-		<td><a href="https://twitter.com/ibedwi">ibedwi</a></td>
+		<td><a target="_blank" href="https://twitter.com/ibedwi">ibedwi</a></td>
 		<td>Bandung Indonesia</td>
 		<td>122</td>
 		<td>1019</td>
@@ -3115,7 +3116,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			DeVoresyah ArEst
 		</td>
 		<td>Unboxlabs </td>
-		<td><a href="https://twitter.com/DeVoresyah">DeVoresyah</a></td>
+		<td><a target="_blank" href="https://twitter.com/DeVoresyah">DeVoresyah</a></td>
 		<td>Tangerang Banten Indonesia</td>
 		<td>42</td>
 		<td>1014</td>
@@ -3143,7 +3144,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rachma Adzima Maulida
 		</td>
 		<td>Qollega </td>
-		<td><a href="https://twitter.com/rachmadzii">rachmadzii</a></td>
+		<td><a target="_blank" href="https://twitter.com/rachmadzii">rachmadzii</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>22</td>
 		<td>998</td>
@@ -3171,7 +3172,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dihak
 		</td>
 		<td>@digitalkode  </td>
-		<td><a href="https://twitter.com/dihak_">dihak_</a></td>
+		<td><a target="_blank" href="https://twitter.com/dihak_">dihak_</a></td>
 		<td>Sukabumi West Java Indonesia</td>
 		<td>26</td>
 		<td>991</td>
@@ -3185,7 +3186,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Habibi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ahmadh4bibi14">ahmadh4bibi14</a></td>
+		<td><a target="_blank" href="https://twitter.com/ahmadh4bibi14">ahmadh4bibi14</a></td>
 		<td>Lombok Indonesia</td>
 		<td>955</td>
 		<td>984</td>
@@ -3199,7 +3200,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mudassir
 		</td>
 		<td>@ikhlasdotcom </td>
-		<td><a href="https://twitter.com/ukieTux">ukieTux</a></td>
+		<td><a target="_blank" href="https://twitter.com/ukieTux">ukieTux</a></td>
 		<td>Makassar</td>
 		<td>367</td>
 		<td>983</td>
@@ -3241,7 +3242,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Albertus Angga Raharja
 		</td>
 		<td>@speechifyinc </td>
-		<td><a href="https://twitter.com/albertusanggar">albertusanggar</a></td>
+		<td><a target="_blank" href="https://twitter.com/albertusanggar">albertusanggar</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>18</td>
 		<td>961</td>
@@ -3283,7 +3284,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Risyandi
 		</td>
 		<td>@ngarsadigital </td>
-		<td><a href="https://twitter.com/risyandi94">risyandi94</a></td>
+		<td><a target="_blank" href="https://twitter.com/risyandi94">risyandi94</a></td>
 		<td>Jatinangor  Indonesia</td>
 		<td>316</td>
 		<td>956</td>
@@ -3311,7 +3312,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Razin Syakib
 		</td>
 		<td>Stmik Sinar Nusantara </td>
-		<td><a href="https://twitter.com/iamzeen43">iamzeen43</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamzeen43">iamzeen43</a></td>
 		<td>Surakarta Indonesia</td>
 		<td>675</td>
 		<td>955</td>
@@ -3367,7 +3368,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dhimas Bagus Prayoga
 		</td>
 		<td>@komodoosrom @kry9tonproject </td>
-		<td><a href="https://twitter.com/dhimasbpy">dhimasbpy</a></td>
+		<td><a target="_blank" href="https://twitter.com/dhimasbpy">dhimasbpy</a></td>
 		<td>Indonesia</td>
 		<td>288</td>
 		<td>930</td>
@@ -3381,7 +3382,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Wisnu Adi Nurcahyo
 		</td>
 		<td>@traveloka </td>
-		<td><a href="https://twitter.com/Wisn98">Wisn98</a></td>
+		<td><a target="_blank" href="https://twitter.com/Wisn98">Wisn98</a></td>
 		<td>Indonesia</td>
 		<td>0</td>
 		<td>923</td>
@@ -3437,7 +3438,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Neno Arisma
 		</td>
 		<td> @radeptrr </td>
-		<td><a href="https://twitter.com/neno_arisma">neno_arisma</a></td>
+		<td><a target="_blank" href="https://twitter.com/neno_arisma">neno_arisma</a></td>
 		<td>Majalengka Indonesia</td>
 		<td>365</td>
 		<td>893</td>
@@ -3493,7 +3494,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dennis Alund
 		</td>
 		<td>Founder Of @oddbit And<br/>Google<br/>Developers<br/>Expert<br/><br/>Firebase<br/></td>
-		<td><a href="https://twitter.com/DennisAlund">DennisAlund</a></td>
+		<td><a target="_blank" href="https://twitter.com/DennisAlund">DennisAlund</a></td>
 		<td>Denpasar Bali Indonesia</td>
 		<td>29</td>
 		<td>873</td>
@@ -3521,7 +3522,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Iqbal syamil ayasy
 		</td>
 		<td>@pintucrypto </td>
-		<td><a href="https://twitter.com/Iqbalsyaa">Iqbalsyaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/Iqbalsyaa">Iqbalsyaa</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>9</td>
 		<td>843</td>
@@ -3535,7 +3536,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Miku AuahDark
 		</td>
 		<td>@darkenergyprocessor  </td>
-		<td><a href="https://twitter.com/MikuAuahDark">MikuAuahDark</a></td>
+		<td><a target="_blank" href="https://twitter.com/MikuAuahDark">MikuAuahDark</a></td>
 		<td>Indonesia South Sulawesi</td>
 		<td>843</td>
 		<td>843</td>
@@ -3577,7 +3578,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Galih Pratama
 		</td>
 		<td>2viz Belajarkoding </td>
-		<td><a href="https://twitter.com/galpratama">galpratama</a></td>
+		<td><a target="_blank" href="https://twitter.com/galpratama">galpratama</a></td>
 		<td>Indonesia</td>
 		<td>111</td>
 		<td>836</td>
@@ -3591,7 +3592,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Depa Panjie Purnama
 		</td>
 		<td>Software Quality Assurance <br/>@evermos<br/></td>
-		<td><a href="https://twitter.com/depapp">depapp</a></td>
+		<td><a target="_blank" href="https://twitter.com/depapp">depapp</a></td>
 		<td>Cianjur Indonesia</td>
 		<td>146</td>
 		<td>835</td>
@@ -3619,7 +3620,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>Httpswwwsaddamarbaac </td>
-		<td><a href="https://twitter.com/ArbaaSaddam">ArbaaSaddam</a></td>
+		<td><a target="_blank" href="https://twitter.com/ArbaaSaddam">ArbaaSaddam</a></td>
 		<td>Batam    Indonesia</td>
 		<td>643</td>
 		<td>831</td>
@@ -3647,7 +3648,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Vicky Dasta
 		</td>
 		<td>@strolleraura </td>
-		<td><a href="https://twitter.com/vickydasta">vickydasta</a></td>
+		<td><a target="_blank" href="https://twitter.com/vickydasta">vickydasta</a></td>
 		<td>Indonesia</td>
 		<td>145</td>
 		<td>828</td>
@@ -3661,7 +3662,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Alfaiz Khisma Authar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/faizauthar12">faizauthar12</a></td>
+		<td><a target="_blank" href="https://twitter.com/faizauthar12">faizauthar12</a></td>
 		<td>Indonesia</td>
 		<td>292</td>
 		<td>821</td>
@@ -3675,7 +3676,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Adib Firman
 		</td>
 		<td>@tokopedia </td>
-		<td><a href="https://twitter.com/adibfirman_">adibfirman_</a></td>
+		<td><a target="_blank" href="https://twitter.com/adibfirman_">adibfirman_</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>25</td>
 		<td>809</td>
@@ -3689,7 +3690,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dimas Miftahul Huda
 		</td>
 		<td>@cermati </td>
-		<td><a href="https://twitter.com/dimasmfth">dimasmfth</a></td>
+		<td><a target="_blank" href="https://twitter.com/dimasmfth">dimasmfth</a></td>
 		<td>Jakarta</td>
 		<td>12</td>
 		<td>804</td>
@@ -3703,7 +3704,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Nauval Rizky
 		</td>
 		<td>@chaldeaprjkt </td>
-		<td><a href="https://twitter.com/akaneritsuki">akaneritsuki</a></td>
+		<td><a target="_blank" href="https://twitter.com/akaneritsuki">akaneritsuki</a></td>
 		<td>Lumajang Indonesia </td>
 		<td>754</td>
 		<td>804</td>
@@ -3717,7 +3718,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Azhari Muhammad Marzan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/azharimm">azharimm</a></td>
+		<td><a target="_blank" href="https://twitter.com/azharimm">azharimm</a></td>
 		<td>West Java Indonesia</td>
 		<td>1</td>
 		<td>802</td>
@@ -3731,7 +3732,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Khoironi Kurnia Syah
 		</td>
 		<td>@zeroonegroup @sainseni </td>
-		<td><a href="https://twitter.com/zekhoi">zekhoi</a></td>
+		<td><a target="_blank" href="https://twitter.com/zekhoi">zekhoi</a></td>
 		<td>Indonesia</td>
 		<td>237</td>
 		<td>802</td>
@@ -3745,7 +3746,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Arifin Firdaus
 		</td>
 		<td>@learnmakeapp </td>
-		<td><a href="https://twitter.com/arifinfrds">arifinfrds</a></td>
+		<td><a target="_blank" href="https://twitter.com/arifinfrds">arifinfrds</a></td>
 		<td>Surabaya Indonesia</td>
 		<td>98</td>
 		<td>801</td>
@@ -3773,7 +3774,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Tio Irawan
 		</td>
 		<td>@kdesk  </td>
-		<td><a href="https://twitter.com/dvync_">dvync_</a></td>
+		<td><a target="_blank" href="https://twitter.com/dvync_">dvync_</a></td>
 		<td>Batu East Java Indonesia</td>
 		<td>350</td>
 		<td>798</td>
@@ -3815,7 +3816,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fachri
 		</td>
 		<td>Android Developer @ Amanah<br/>Corp<br/>Toyotaastra<br/>Motor<br/></td>
-		<td><a href="https://twitter.com/fachridantm">fachridantm</a></td>
+		<td><a target="_blank" href="https://twitter.com/fachridantm">fachridantm</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>779</td>
 		<td>779</td>
@@ -3843,7 +3844,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Septian A Tama
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/s_ai_tama">s_ai_tama</a></td>
+		<td><a target="_blank" href="https://twitter.com/s_ai_tama">s_ai_tama</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>161</td>
 		<td>769</td>
@@ -3857,7 +3858,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aslam
 		</td>
 		<td>Fullstack Web Developer </td>
-		<td><a href="https://twitter.com/__asuramus">__asuramus</a></td>
+		<td><a target="_blank" href="https://twitter.com/__asuramus">__asuramus</a></td>
 		<td>Bandung Jawa Barat Indonesia</td>
 		<td>92</td>
 		<td>758</td>
@@ -3885,7 +3886,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Asthi Seta Ari Yuwana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/21Asthi">21Asthi</a></td>
+		<td><a target="_blank" href="https://twitter.com/21Asthi">21Asthi</a></td>
 		<td>Indonesia</td>
 		<td>364</td>
 		<td>751</td>
@@ -3941,7 +3942,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Amarullah
 		</td>
 		<td>Jasa Marga Toll Operator<br/></td>
-		<td><a href="https://twitter.com/amarullz">amarullz</a></td>
+		<td><a target="_blank" href="https://twitter.com/amarullz">amarullz</a></td>
 		<td>Indonesia</td>
 		<td>357</td>
 		<td>729</td>
@@ -3969,7 +3970,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dipadana Putu
 		</td>
 		<td>Alihgaecom  Lokeriancom </td>
-		<td><a href="https://twitter.com/dipadanaputu">dipadanaputu</a></td>
+		<td><a target="_blank" href="https://twitter.com/dipadanaputu">dipadanaputu</a></td>
 		<td>Denpasar Indonesia</td>
 		<td>135</td>
 		<td>728</td>
@@ -3997,7 +3998,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Satya Wikananda
 		</td>
 		<td>Am Collective </td>
-		<td><a href="https://twitter.com/satya_wikananda">satya_wikananda</a></td>
+		<td><a target="_blank" href="https://twitter.com/satya_wikananda">satya_wikananda</a></td>
 		<td>Bali Indonesia</td>
 		<td>403</td>
 		<td>715</td>
@@ -4011,7 +4012,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ammar Faizi
 		</td>
 		<td>@teainside @llvm @gnuweeb </td>
-		<td><a href="https://twitter.com/ammarfaizi2">ammarfaizi2</a></td>
+		<td><a target="_blank" href="https://twitter.com/ammarfaizi2">ammarfaizi2</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>491</td>
 		<td>703</td>
@@ -4025,7 +4026,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dimas Maulana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dimasma__">dimasma__</a></td>
+		<td><a target="_blank" href="https://twitter.com/dimasma__">dimasma__</a></td>
 		<td>Indonesia Bali Denpasar</td>
 		<td>557</td>
 		<td>703</td>
@@ -4039,7 +4040,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Wildan M
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/willnode">willnode</a></td>
+		<td><a target="_blank" href="https://twitter.com/willnode">willnode</a></td>
 		<td>Indonesia</td>
 		<td>403</td>
 		<td>690</td>
@@ -4095,7 +4096,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Feri Irawan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/feriirawan_id">feriirawan_id</a></td>
+		<td><a target="_blank" href="https://twitter.com/feriirawan_id">feriirawan_id</a></td>
 		<td>Bulukumba Indonesia</td>
 		<td>150</td>
 		<td>680</td>
@@ -4123,7 +4124,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Muhardian
 		</td>
 		<td>@petanikode  </td>
-		<td><a href="https://twitter.com/ardiantapargo">ardiantapargo</a></td>
+		<td><a target="_blank" href="https://twitter.com/ardiantapargo">ardiantapargo</a></td>
 		<td>Lombok Indonesia</td>
 		<td>136</td>
 		<td>675</td>
@@ -4165,7 +4166,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jody Yuantoro
 		</td>
 		<td>University Of Muhammadiyah Malang<br/></td>
-		<td><a href="https://twitter.com/xyzuanNihBoss">xyzuanNihBoss</a></td>
+		<td><a target="_blank" href="https://twitter.com/xyzuanNihBoss">xyzuanNihBoss</a></td>
 		<td>Jawa Timur Indonesia</td>
 		<td>626</td>
 		<td>664</td>
@@ -4207,7 +4208,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Gobstopper
 		</td>
 		<td>@okularid </td>
-		<td><a href="https://twitter.com/hanandito">hanandito</a></td>
+		<td><a target="_blank" href="https://twitter.com/hanandito">hanandito</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>2</td>
 		<td>656</td>
@@ -4235,7 +4236,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rayhan Pratama
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rxxxyhn">rxxxyhn</a></td>
+		<td><a target="_blank" href="https://twitter.com/rxxxyhn">rxxxyhn</a></td>
 		<td>Indonesia</td>
 		<td>455</td>
 		<td>646</td>
@@ -4249,7 +4250,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			kevan
 		</td>
 		<td>@efishery </td>
-		<td><a href="https://twitter.com/kevanantha">kevanantha</a></td>
+		<td><a target="_blank" href="https://twitter.com/kevanantha">kevanantha</a></td>
 		<td>Bali Indonesia</td>
 		<td>342</td>
 		<td>646</td>
@@ -4277,7 +4278,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dimas Prihady Setyawan
 		</td>
 		<td>Institut Teknologi Sepuluh Nopember<br/></td>
-		<td><a href="https://twitter.com/clouddimss">clouddimss</a></td>
+		<td><a target="_blank" href="https://twitter.com/clouddimss">clouddimss</a></td>
 		<td>Surabaya East Java</td>
 		<td>638</td>
 		<td>638</td>
@@ -4319,7 +4320,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fahrel Gibran Alghany
 		</td>
 		<td>Zenius Education </td>
-		<td><a href="https://twitter.com/dafex30">dafex30</a></td>
+		<td><a target="_blank" href="https://twitter.com/dafex30">dafex30</a></td>
 		<td>Jakarta</td>
 		<td>484</td>
 		<td>629</td>
@@ -4347,7 +4348,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Deni Rohimat
 		</td>
 		<td>Govtech Edu </td>
-		<td><a href="https://twitter.com/derohimat">derohimat</a></td>
+		<td><a target="_blank" href="https://twitter.com/derohimat">derohimat</a></td>
 		<td>Bandung Indonesia</td>
 		<td>18</td>
 		<td>616</td>
@@ -4361,7 +4362,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Paramitha
 		</td>
 		<td>@mindvalley  </td>
-		<td><a href="https://twitter.com/mithatmmm">mithatmmm</a></td>
+		<td><a target="_blank" href="https://twitter.com/mithatmmm">mithatmmm</a></td>
 		<td>Jakarta</td>
 		<td>76</td>
 		<td>609</td>
@@ -4389,7 +4390,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hadi Hidayat Hammurabi
 		</td>
 		<td>@tamankodekode  </td>
-		<td><a href="https://twitter.com/hadihammurabi">hadihammurabi</a></td>
+		<td><a target="_blank" href="https://twitter.com/hadihammurabi">hadihammurabi</a></td>
 		<td>DI Yogyakarta  Indonesia</td>
 		<td>605</td>
 		<td>605</td>
@@ -4417,7 +4418,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Kharisma Rizqi
 		</td>
 		<td>@traveloka </td>
-		<td><a href="https://twitter.com/kharismarizqii">kharismarizqii</a></td>
+		<td><a target="_blank" href="https://twitter.com/kharismarizqii">kharismarizqii</a></td>
 		<td>Indonesia</td>
 		<td>10</td>
 		<td>601</td>
@@ -4431,7 +4432,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Moe Poi 
 		</td>
 		<td>@gnuweeb @teainside @animenotifier </td>
-		<td><a href="https://twitter.com/_moepoi">_moepoi</a></td>
+		<td><a target="_blank" href="https://twitter.com/_moepoi">_moepoi</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>519</td>
 		<td>595</td>
@@ -4529,7 +4530,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mochamad Iqbal Dwi Cahyo
 		</td>
 		<td>@sampingantech  </td>
-		<td><a href="https://twitter.com/mochadwic">mochadwic</a></td>
+		<td><a target="_blank" href="https://twitter.com/mochadwic">mochadwic</a></td>
 		<td>Bandung</td>
 		<td>11</td>
 		<td>579</td>
@@ -4557,7 +4558,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			David Chandra Purnama
 		</td>
 		<td>@10up  </td>
-		<td><a href="https://twitter.com/turtlepod">turtlepod</a></td>
+		<td><a target="_blank" href="https://twitter.com/turtlepod">turtlepod</a></td>
 		<td>wpadmin Indonesia</td>
 		<td>10</td>
 		<td>571</td>
@@ -4571,7 +4572,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			RiN
 		</td>
 		<td>@efishery </td>
-		<td><a href="https://twitter.com/__r17x">__r17x</a></td>
+		<td><a target="_blank" href="https://twitter.com/__r17x">__r17x</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>471</td>
 		<td>568</td>
@@ -4585,7 +4586,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ali Zulfikar
 		</td>
 		<td>@wrideveloper </td>
-		<td><a href="https://twitter.com/panggilajazul">panggilajazul</a></td>
+		<td><a target="_blank" href="https://twitter.com/panggilajazul">panggilajazul</a></td>
 		<td>Indonesia</td>
 		<td>567</td>
 		<td>567</td>
@@ -4613,7 +4614,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Taufik Pragusga
 		</td>
 		<td>University Of Indonesia </td>
-		<td><a href="https://twitter.com/pragusga">pragusga</a></td>
+		<td><a target="_blank" href="https://twitter.com/pragusga">pragusga</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>263</td>
 		<td>566</td>
@@ -4697,7 +4698,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rizki M Citra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rizkimcitra">rizkimcitra</a></td>
+		<td><a target="_blank" href="https://twitter.com/rizkimcitra">rizkimcitra</a></td>
 		<td>Serang Indonesia</td>
 		<td>223</td>
 		<td>554</td>
@@ -4753,7 +4754,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Whyme
 		</td>
 		<td>Nodex Emperor Llc </td>
-		<td><a href="https://twitter.com/nodexemperor">nodexemperor</a></td>
+		<td><a target="_blank" href="https://twitter.com/nodexemperor">nodexemperor</a></td>
 		<td>Central Java Indonesia</td>
 		<td>284</td>
 		<td>549</td>
@@ -4767,7 +4768,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ihwan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ihwan_id">ihwan_id</a></td>
+		<td><a target="_blank" href="https://twitter.com/ihwan_id">ihwan_id</a></td>
 		<td>Majalengka West Java Indonesia</td>
 		<td>21</td>
 		<td>541</td>
@@ -4823,7 +4824,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zul Hilmi
 		</td>
 		<td>@binaroom </td>
-		<td><a href="https://twitter.com/hilmi_zul">hilmi_zul</a></td>
+		<td><a target="_blank" href="https://twitter.com/hilmi_zul">hilmi_zul</a></td>
 		<td>Indonesia</td>
 		<td>262</td>
 		<td>535</td>
@@ -4837,7 +4838,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Adam Akbar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sensasi_DELIGHT">sensasi_DELIGHT</a></td>
+		<td><a target="_blank" href="https://twitter.com/sensasi_DELIGHT">sensasi_DELIGHT</a></td>
 		<td>Indonesia</td>
 		<td>532</td>
 		<td>532</td>
@@ -4907,7 +4908,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Adib zamzam
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adib_enc">adib_enc</a></td>
+		<td><a target="_blank" href="https://twitter.com/adib_enc">adib_enc</a></td>
 		<td>Jakarta</td>
 		<td>146</td>
 		<td>521</td>
@@ -4963,7 +4964,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ervalsa Dwi Nanda
 		</td>
 		<td>Institut Teknologi Kalimantan </td>
-		<td><a href="https://twitter.com/palsaloid">palsaloid</a></td>
+		<td><a target="_blank" href="https://twitter.com/palsaloid">palsaloid</a></td>
 		<td>Tarakan Kalimantan Utara Indonesia</td>
 		<td>396</td>
 		<td>519</td>
@@ -4977,7 +4978,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			wid
 		</td>
 		<td>@damarseta @redite </td>
-		<td><a href="https://twitter.com/widnyana_">widnyana_</a></td>
+		<td><a target="_blank" href="https://twitter.com/widnyana_">widnyana_</a></td>
 		<td>Indonesia</td>
 		<td>448</td>
 		<td>513</td>
@@ -5019,7 +5020,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Syahrul Surya Putra
 		</td>
 		<td>Institut Teknologi Bandung </td>
-		<td><a href="https://twitter.com/msyahrulsp">msyahrulsp</a></td>
+		<td><a target="_blank" href="https://twitter.com/msyahrulsp">msyahrulsp</a></td>
 		<td>Garut Indonesia</td>
 		<td>307</td>
 		<td>510</td>
@@ -5047,7 +5048,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			 Initial H 
 		</td>
 		<td>Sysadminmyid </td>
-		<td><a href="https://twitter.com/alsyundawy">alsyundawy</a></td>
+		<td><a target="_blank" href="https://twitter.com/alsyundawy">alsyundawy</a></td>
 		<td>DKI Jakarta  Indonesia</td>
 		<td>457</td>
 		<td>509</td>
@@ -5061,7 +5062,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Abdul Malik
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/up2dul">up2dul</a></td>
+		<td><a target="_blank" href="https://twitter.com/up2dul">up2dul</a></td>
 		<td>Indonesia</td>
 		<td>429</td>
 		<td>509</td>
@@ -5117,7 +5118,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ibnu Yahya
 		</td>
 		<td>Bitch From Hell </td>
-		<td><a href="https://twitter.com/anak10thn">anak10thn</a></td>
+		<td><a target="_blank" href="https://twitter.com/anak10thn">anak10thn</a></td>
 		<td>Majalengka Indonesia</td>
 		<td>171</td>
 		<td>488</td>
@@ -5145,7 +5146,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Enji Kusnadi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/enjidev">enjidev</a></td>
+		<td><a target="_blank" href="https://twitter.com/enjidev">enjidev</a></td>
 		<td>Bandung Indonesia</td>
 		<td>26</td>
 		<td>479</td>
@@ -5159,7 +5160,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Bhaska
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mhmdbhsk">mhmdbhsk</a></td>
+		<td><a target="_blank" href="https://twitter.com/mhmdbhsk">mhmdbhsk</a></td>
 		<td>Semarang Indonesia</td>
 		<td>212</td>
 		<td>477</td>
@@ -5173,7 +5174,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Budi Oktaviyan
 		</td>
 		<td>@grab </td>
-		<td><a href="https://twitter.com/budioktaviyans">budioktaviyans</a></td>
+		<td><a target="_blank" href="https://twitter.com/budioktaviyans">budioktaviyans</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>351</td>
 		<td>476</td>
@@ -5187,7 +5188,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sofyan Setiawan
 		</td>
 		<td>@hacktiv8 </td>
-		<td><a href="https://twitter.com/sofyansetiawann">sofyansetiawann</a></td>
+		<td><a target="_blank" href="https://twitter.com/sofyansetiawann">sofyansetiawann</a></td>
 		<td>Jakarta</td>
 		<td>0</td>
 		<td>475</td>
@@ -5201,7 +5202,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Helmi Satria
 		</td>
 		<td>Indonesias Govtech Education </td>
-		<td><a href="https://twitter.com/helmisatria_">helmisatria_</a></td>
+		<td><a target="_blank" href="https://twitter.com/helmisatria_">helmisatria_</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>293</td>
 		<td>474</td>
@@ -5229,7 +5230,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Arrofi Reza Satria
 		</td>
 		<td>@sunpowerdev </td>
-		<td><a href="https://twitter.com/rofirezadev">rofirezadev</a></td>
+		<td><a target="_blank" href="https://twitter.com/rofirezadev">rofirezadev</a></td>
 		<td>East Java Indonesia</td>
 		<td>283</td>
 		<td>465</td>
@@ -5243,7 +5244,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			StefansArya
 		</td>
 		<td>@scarletsfiction Nekonyaan </td>
-		<td><a href="https://twitter.com/stefansarya">stefansarya</a></td>
+		<td><a target="_blank" href="https://twitter.com/stefansarya">stefansarya</a></td>
 		<td>Indonesia</td>
 		<td>448</td>
 		<td>455</td>
@@ -5271,7 +5272,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jemal Rashidi
 		</td>
 		<td>@raioncommunityfilko  </td>
-		<td><a href="https://twitter.com/__jmsrsd">__jmsrsd</a></td>
+		<td><a target="_blank" href="https://twitter.com/__jmsrsd">__jmsrsd</a></td>
 		<td>Indonesia</td>
 		<td>451</td>
 		<td>451</td>
@@ -5299,7 +5300,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Daffa Haj Tsaqif
 		</td>
 		<td>Universitas Gadjah Mada </td>
-		<td><a href="https://twitter.com/dhupee_haj">dhupee_haj</a></td>
+		<td><a target="_blank" href="https://twitter.com/dhupee_haj">dhupee_haj</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>239</td>
 		<td>447</td>
@@ -5355,7 +5356,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Agastya Darma
 		</td>
 		<td>Ruangguru </td>
-		<td><a href="https://twitter.com/agasdrm">agasdrm</a></td>
+		<td><a target="_blank" href="https://twitter.com/agasdrm">agasdrm</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>11</td>
 		<td>442</td>
@@ -5397,7 +5398,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fuadit Muhammad
 		</td>
 		<td>Saga Studio </td>
-		<td><a href="https://twitter.com/fuaditrockz">fuaditrockz</a></td>
+		<td><a target="_blank" href="https://twitter.com/fuaditrockz">fuaditrockz</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>29</td>
 		<td>429</td>
@@ -5411,7 +5412,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zaki Nadhif
 		</td>
 		<td>Smk Telkom Malang </td>
-		<td><a href="https://twitter.com/zakinadhiff">zakinadhiff</a></td>
+		<td><a target="_blank" href="https://twitter.com/zakinadhiff">zakinadhiff</a></td>
 		<td>Java Indonesia</td>
 		<td>106</td>
 		<td>427</td>
@@ -5453,7 +5454,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Anggriawan Marchvici Ridatama
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anggriawanmr">anggriawanmr</a></td>
+		<td><a target="_blank" href="https://twitter.com/anggriawanmr">anggriawanmr</a></td>
 		<td>Remote Indonesia</td>
 		<td>419</td>
 		<td>419</td>
@@ -5481,7 +5482,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sirilius Kevin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/siriliuskevin">siriliuskevin</a></td>
+		<td><a target="_blank" href="https://twitter.com/siriliuskevin">siriliuskevin</a></td>
 		<td>Indonesia</td>
 		<td>160</td>
 		<td>415</td>
@@ -5509,7 +5510,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Fahmi Rasyid
 		</td>
 		<td>Telkom Indonesia </td>
-		<td><a href="https://twitter.com/rasyidf_">rasyidf_</a></td>
+		<td><a target="_blank" href="https://twitter.com/rasyidf_">rasyidf_</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>134</td>
 		<td>413</td>
@@ -5523,7 +5524,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aroyan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/aroyanbaktis">aroyanbaktis</a></td>
+		<td><a target="_blank" href="https://twitter.com/aroyanbaktis">aroyanbaktis</a></td>
 		<td>Indonesia</td>
 		<td>200</td>
 		<td>412</td>
@@ -5537,7 +5538,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Moch Ainun Najib
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ec2ainun">ec2ainun</a></td>
+		<td><a target="_blank" href="https://twitter.com/ec2ainun">ec2ainun</a></td>
 		<td>Indonesia</td>
 		<td>2</td>
 		<td>410</td>
@@ -5579,7 +5580,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zidan Rahmandani
 		</td>
 		<td>@subangxploits </td>
-		<td><a href="https://twitter.com/zidansec">zidansec</a></td>
+		<td><a target="_blank" href="https://twitter.com/zidansec">zidansec</a></td>
 		<td>Indonesia West Java</td>
 		<td>77</td>
 		<td>405</td>
@@ -5593,7 +5594,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Faqih Muntashir
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/itsfaqih_">itsfaqih_</a></td>
+		<td><a target="_blank" href="https://twitter.com/itsfaqih_">itsfaqih_</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>138</td>
 		<td>403</td>
@@ -5677,7 +5678,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Awal Ariansyah
 		</td>
 		<td>@snowexe @echlus </td>
-		<td><a href="https://twitter.com/akasha_seeker">akasha_seeker</a></td>
+		<td><a target="_blank" href="https://twitter.com/akasha_seeker">akasha_seeker</a></td>
 		<td>Indonesia</td>
 		<td>81</td>
 		<td>397</td>
@@ -5691,7 +5692,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Laurensius Dede Suhardiman
 		</td>
 		<td>@ganeshlabsolutions @gurungajicom  </td>
-		<td><a href="https://twitter.com/renzcybermedia">renzcybermedia</a></td>
+		<td><a target="_blank" href="https://twitter.com/renzcybermedia">renzcybermedia</a></td>
 		<td>Kuningan West Java Indonesia</td>
 		<td>1</td>
 		<td>396</td>
@@ -5705,7 +5706,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Reyhan Sofian
 		</td>
 		<td>@efishery </td>
-		<td><a href="https://twitter.com/reyhan_sofian">reyhan_sofian</a></td>
+		<td><a target="_blank" href="https://twitter.com/reyhan_sofian">reyhan_sofian</a></td>
 		<td>Indonesia</td>
 		<td>4</td>
 		<td>390</td>
@@ -5719,7 +5720,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alfian Losari
 		</td>
 		<td>Alfian Losari </td>
-		<td><a href="https://twitter.com/alfianlosari">alfianlosari</a></td>
+		<td><a target="_blank" href="https://twitter.com/alfianlosari">alfianlosari</a></td>
 		<td>Indonesia</td>
 		<td>303</td>
 		<td>388</td>
@@ -5733,7 +5734,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Robin Syihab
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anvie">anvie</a></td>
+		<td><a target="_blank" href="https://twitter.com/anvie">anvie</a></td>
 		<td>DIY Indonesia</td>
 		<td>386</td>
 		<td>386</td>
@@ -5789,7 +5790,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Agus Ramadhani
 		</td>
 		<td>@buananetpbun </td>
-		<td><a href="https://twitter.com/oomdotcom">oomdotcom</a></td>
+		<td><a target="_blank" href="https://twitter.com/oomdotcom">oomdotcom</a></td>
 		<td>Indonesia</td>
 		<td>205</td>
 		<td>378</td>
@@ -5817,7 +5818,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Acla  
 		</td>
 		<td>Pt Enigma Cipta Humanika<br/></td>
-		<td><a href="https://twitter.com/aclaputra">aclaputra</a></td>
+		<td><a target="_blank" href="https://twitter.com/aclaputra">aclaputra</a></td>
 		<td>South Jakarta Indonesia</td>
 		<td>142</td>
 		<td>378</td>
@@ -5859,7 +5860,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sean Matheson
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/controlplusb">controlplusb</a></td>
+		<td><a target="_blank" href="https://twitter.com/controlplusb">controlplusb</a></td>
 		<td>Bali Indonesia</td>
 		<td>4</td>
 		<td>369</td>
@@ -5901,7 +5902,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Ilham Mubarak
 		</td>
 		<td>@zeroonegroup </td>
-		<td><a href="https://twitter.com/gluekol">gluekol</a></td>
+		<td><a target="_blank" href="https://twitter.com/gluekol">gluekol</a></td>
 		<td>Indonesia</td>
 		<td>323</td>
 		<td>361</td>
@@ -5971,7 +5972,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Resi Respati
 		</td>
 		<td>@typedreamhq </td>
-		<td><a href="https://twitter.com/resir014">resir014</a></td>
+		<td><a target="_blank" href="https://twitter.com/resir014">resir014</a></td>
 		<td>Indonesia</td>
 		<td>345</td>
 		<td>345</td>
@@ -5985,7 +5986,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Yoga Hanggara
 		</td>
 		<td>Jabar Digital Service </td>
-		<td><a href="https://twitter.com/yohangdev">yohangdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/yohangdev">yohangdev</a></td>
 		<td>Bandung Indonesia</td>
 		<td>4</td>
 		<td>341</td>
@@ -6027,7 +6028,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>Bandung </td>
-		<td><a href="https://twitter.com/epunxthemo">epunxthemo</a></td>
+		<td><a target="_blank" href="https://twitter.com/epunxthemo">epunxthemo</a></td>
 		<td>Indonesia</td>
 		<td>330</td>
 		<td>330</td>
@@ -6055,7 +6056,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Faiz Jazadi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/newcomer512">newcomer512</a></td>
+		<td><a target="_blank" href="https://twitter.com/newcomer512">newcomer512</a></td>
 		<td>Indonesia</td>
 		<td>250</td>
 		<td>324</td>
@@ -6083,7 +6084,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Elshe Erviana Angely
 		</td>
 		<td>Institut Teknologi Sepuluh Nopember<br/></td>
-		<td><a href="https://twitter.com/UrSourceCode">UrSourceCode</a></td>
+		<td><a target="_blank" href="https://twitter.com/UrSourceCode">UrSourceCode</a></td>
 		<td>Surabaya Indonesia</td>
 		<td>161</td>
 		<td>321</td>
@@ -6153,7 +6154,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Daffa
 		</td>
 		<td>Spidersilk </td>
-		<td><a href="https://twitter.com/daffainfo">daffainfo</a></td>
+		<td><a target="_blank" href="https://twitter.com/daffainfo">daffainfo</a></td>
 		<td>Indonesia</td>
 		<td>270</td>
 		<td>311</td>
@@ -6209,7 +6210,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Chrisando Ryan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/chrisandoryan">chrisandoryan</a></td>
+		<td><a target="_blank" href="https://twitter.com/chrisandoryan">chrisandoryan</a></td>
 		<td>Jakarta</td>
 		<td>88</td>
 		<td>304</td>
@@ -6237,7 +6238,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Imre Nagi
 		</td>
 		<td>Gojek </td>
-		<td><a href="https://twitter.com/imrenagi">imrenagi</a></td>
+		<td><a target="_blank" href="https://twitter.com/imrenagi">imrenagi</a></td>
 		<td>Jakarta</td>
 		<td>34</td>
 		<td>301</td>
@@ -6279,7 +6280,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sofian Hadiwijaya
 		</td>
 		<td>@twopointfive @rrqguild  </td>
-		<td><a href="https://twitter.com/sofianhw">sofianhw</a></td>
+		<td><a target="_blank" href="https://twitter.com/sofianhw">sofianhw</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>96</td>
 		<td>297</td>
@@ -6307,7 +6308,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			I Made Ocy Darma Putra
 		</td>
 		<td>@datenshicommunity @itsecasia </td>
-		<td><a href="https://twitter.com/darma_ochi">darma_ochi</a></td>
+		<td><a target="_blank" href="https://twitter.com/darma_ochi">darma_ochi</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>243</td>
 		<td>295</td>
@@ -6321,7 +6322,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mhdnauvalazhar">mhdnauvalazhar</a></td>
+		<td><a target="_blank" href="https://twitter.com/mhdnauvalazhar">mhdnauvalazhar</a></td>
 		<td>Bogor Indonesia</td>
 		<td>173</td>
 		<td>294</td>
@@ -6363,7 +6364,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Amr Satrio
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/amrsatrio">amrsatrio</a></td>
+		<td><a target="_blank" href="https://twitter.com/amrsatrio">amrsatrio</a></td>
 		<td>Indonesia</td>
 		<td>150</td>
 		<td>289</td>
@@ -6391,7 +6392,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zufar Dhiyaulhaq
 		</td>
 		<td>Goto Financial </td>
-		<td><a href="https://twitter.com/zufardhiyaulhaq">zufardhiyaulhaq</a></td>
+		<td><a target="_blank" href="https://twitter.com/zufardhiyaulhaq">zufardhiyaulhaq</a></td>
 		<td>Indonesia</td>
 		<td>286</td>
 		<td>287</td>
@@ -6405,7 +6406,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Yohan Totting
 		</td>
 		<td>@inlivedev  </td>
-		<td><a href="https://twitter.com/tyohan">tyohan</a></td>
+		<td><a target="_blank" href="https://twitter.com/tyohan">tyohan</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>98</td>
 		<td>285</td>
@@ -6531,7 +6532,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			R4D3N G0Z4LL
 		</td>
 		<td>Lintas Data Piranti </td>
-		<td><a href="https://twitter.com/Raden_Gozal">Raden_Gozal</a></td>
+		<td><a target="_blank" href="https://twitter.com/Raden_Gozal">Raden_Gozal</a></td>
 		<td>Indonesia</td>
 		<td>58</td>
 		<td>275</td>
@@ -6545,7 +6546,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Nur Muhammad Ainul Yaqin
 		</td>
 		<td>Institut Teknologi Sepuluh Nopember<br/></td>
-		<td><a href="https://twitter.com/masnurrm">masnurrm</a></td>
+		<td><a target="_blank" href="https://twitter.com/masnurrm">masnurrm</a></td>
 		<td>Surabaya East Java</td>
 		<td>219</td>
 		<td>272</td>
@@ -6587,7 +6588,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Syarifuddin Randiko
 		</td>
 		<td>Central Bank Of Indonesia<br/></td>
-		<td><a href="https://twitter.com/pxlpd">pxlpd</a></td>
+		<td><a target="_blank" href="https://twitter.com/pxlpd">pxlpd</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>36</td>
 		<td>269</td>
@@ -6657,7 +6658,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jution Candra Kirana
 		</td>
 		<td>Mipdevp </td>
-		<td><a href="https://twitter.com/jutionck">jutionck</a></td>
+		<td><a target="_blank" href="https://twitter.com/jutionck">jutionck</a></td>
 		<td>Jakarta</td>
 		<td>255</td>
 		<td>265</td>
@@ -6699,7 +6700,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Abdurrahman Fadhil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rahmanfadhil14">rahmanfadhil14</a></td>
+		<td><a target="_blank" href="https://twitter.com/rahmanfadhil14">rahmanfadhil14</a></td>
 		<td>Indonesia</td>
 		<td>27</td>
 		<td>260</td>
@@ -6713,7 +6714,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			KAK
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kaklabs">kaklabs</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaklabs">kaklabs</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>32</td>
 		<td>260</td>
@@ -6741,7 +6742,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Razan
 		</td>
 		<td>Universitas Syiah Kuala </td>
-		<td><a href="https://twitter.com/razanfawwaz">razanfawwaz</a></td>
+		<td><a target="_blank" href="https://twitter.com/razanfawwaz">razanfawwaz</a></td>
 		<td>Banda Aceh Indonesia</td>
 		<td>103</td>
 		<td>257</td>
@@ -6755,7 +6756,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Giovanni Sakti
 		</td>
 		<td>@gojek </td>
-		<td><a href="https://twitter.com/giosakti">giosakti</a></td>
+		<td><a target="_blank" href="https://twitter.com/giosakti">giosakti</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>4</td>
 		<td>256</td>
@@ -6867,7 +6868,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mark Windsor
 		</td>
 		<td>Atlas Research Llc </td>
-		<td><a href="https://twitter.com/atlas_res">atlas_res</a></td>
+		<td><a target="_blank" href="https://twitter.com/atlas_res">atlas_res</a></td>
 		<td>Bali Indonesia</td>
 		<td>111</td>
 		<td>249</td>
@@ -6895,7 +6896,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			qeuqeuneo
 		</td>
 		<td>Politeknik Elektronika Negeri Surabaya<br/></td>
-		<td><a href="https://twitter.com/aniitasilvi">aniitasilvi</a></td>
+		<td><a target="_blank" href="https://twitter.com/aniitasilvi">aniitasilvi</a></td>
 		<td>Surabaya</td>
 		<td>243</td>
 		<td>243</td>
@@ -6909,7 +6910,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			fiaz
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hifiaz">hifiaz</a></td>
+		<td><a target="_blank" href="https://twitter.com/hifiaz">hifiaz</a></td>
 		<td>Bandung</td>
 		<td>31</td>
 		<td>240</td>
@@ -6923,7 +6924,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fitria Widyani
 		</td>
 		<td>Fi Projects </td>
-		<td><a href="https://twitter.com/holla_fi">holla_fi</a></td>
+		<td><a target="_blank" href="https://twitter.com/holla_fi">holla_fi</a></td>
 		<td>Indonesia</td>
 		<td>201</td>
 		<td>240</td>
@@ -6937,7 +6938,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Afrijal Dzuhri
 		</td>
 		<td>@wonogiridev @evilfactorylabs </td>
-		<td><a href="https://twitter.com/afrijaldz">afrijaldz</a></td>
+		<td><a target="_blank" href="https://twitter.com/afrijaldz">afrijaldz</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>88</td>
 		<td>238</td>
@@ -7007,7 +7008,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			AibnuHibban
 		</td>
 		<td>Leenuksid </td>
-		<td><a href="https://twitter.com/AibnuHibban">AibnuHibban</a></td>
+		<td><a target="_blank" href="https://twitter.com/AibnuHibban">AibnuHibban</a></td>
 		<td>Bandung West Java Indonesia</td>
 		<td>35</td>
 		<td>237</td>
@@ -7021,7 +7022,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Kevin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GuckTubeYT">GuckTubeYT</a></td>
+		<td><a target="_blank" href="https://twitter.com/GuckTubeYT">GuckTubeYT</a></td>
 		<td>Indonesia Depok</td>
 		<td>234</td>
 		<td>234</td>
@@ -7035,7 +7036,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Faqihza Mukhlish
 		</td>
 		<td>@kelasterbuka  </td>
-		<td><a href="https://twitter.com/faqihza">faqihza</a></td>
+		<td><a target="_blank" href="https://twitter.com/faqihza">faqihza</a></td>
 		<td>Bandung West Java Indonesia</td>
 		<td>49</td>
 		<td>232</td>
@@ -7049,7 +7050,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Prasetyo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/praswicaksono">praswicaksono</a></td>
+		<td><a target="_blank" href="https://twitter.com/praswicaksono">praswicaksono</a></td>
 		<td>Indonesia</td>
 		<td>6</td>
 		<td>230</td>
@@ -7077,7 +7078,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Riza Fahmi
 		</td>
 		<td>@hacktiv8  </td>
-		<td><a href="https://twitter.com/rizafahmi22">rizafahmi22</a></td>
+		<td><a target="_blank" href="https://twitter.com/rizafahmi22">rizafahmi22</a></td>
 		<td>Jakarta</td>
 		<td>197</td>
 		<td>227</td>
@@ -7147,7 +7148,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Farisi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ahmfarisi">ahmfarisi</a></td>
+		<td><a target="_blank" href="https://twitter.com/ahmfarisi">ahmfarisi</a></td>
 		<td>Palembang South Sumatera Indonesia</td>
 		<td>164</td>
 		<td>217</td>
@@ -7161,7 +7162,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Heikal Syah Shiddiq
 		</td>
 		<td>@indonesiandev </td>
-		<td><a href="https://twitter.com/sl_avyan">sl_avyan</a></td>
+		<td><a target="_blank" href="https://twitter.com/sl_avyan">sl_avyan</a></td>
 		<td>Karawang Indonesia</td>
 		<td>209</td>
 		<td>217</td>
@@ -7175,7 +7176,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rahmat Agung Julians
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rajulians">rajulians</a></td>
+		<td><a target="_blank" href="https://twitter.com/rajulians">rajulians</a></td>
 		<td>Jakarta</td>
 		<td>45</td>
 		<td>214</td>
@@ -7189,7 +7190,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Utsman
 		</td>
 		<td>Gravelcoid </td>
-		<td><a href="https://twitter.com/utsmannn">utsmannn</a></td>
+		<td><a target="_blank" href="https://twitter.com/utsmannn">utsmannn</a></td>
 		<td>Depok Jawa Barat Indonesia</td>
 		<td>212</td>
 		<td>212</td>
@@ -7259,7 +7260,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fajrul Falah
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fajrulfx_">fajrulfx_</a></td>
+		<td><a target="_blank" href="https://twitter.com/fajrulfx_">fajrulfx_</a></td>
 		<td>Indonesia</td>
 		<td>67</td>
 		<td>204</td>
@@ -7287,7 +7288,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Raihan Nismara
 		</td>
 		<td>Telkom Indonesia </td>
-		<td><a href="https://twitter.com/rayhan_nj">rayhan_nj</a></td>
+		<td><a target="_blank" href="https://twitter.com/rayhan_nj">rayhan_nj</a></td>
 		<td>Cianjur Indonesia</td>
 		<td>137</td>
 		<td>203</td>
@@ -7385,7 +7386,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jonathan Filbert
 		</td>
 		<td>@tokopedia @gojek </td>
-		<td><a href="https://twitter.com/jonathanfilbert">jonathanfilbert</a></td>
+		<td><a target="_blank" href="https://twitter.com/jonathanfilbert">jonathanfilbert</a></td>
 		<td>Jakarta</td>
 		<td>14</td>
 		<td>197</td>
@@ -7441,7 +7442,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Galih wisnuaji
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nekonakoo">nekonakoo</a></td>
+		<td><a target="_blank" href="https://twitter.com/nekonakoo">nekonakoo</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>141</td>
 		<td>191</td>
@@ -7455,7 +7456,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alfian Fakhrudin
 		</td>
 		<td>Politeknik Negeri Jakarta </td>
-		<td><a href="https://twitter.com/codepatr">codepatr</a></td>
+		<td><a target="_blank" href="https://twitter.com/codepatr">codepatr</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>172</td>
 		<td>190</td>
@@ -7539,7 +7540,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Andrian Fadhilla
 		</td>
 		<td>@anfaalabs </td>
-		<td><a href="https://twitter.com/andrianfaa">andrianfaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/andrianfaa">andrianfaa</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>141</td>
 		<td>175</td>
@@ -7553,7 +7554,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Yaqdhan
 		</td>
 		<td>@clytage </td>
-		<td><a href="https://twitter.com/spiritofmednoob">spiritofmednoob</a></td>
+		<td><a target="_blank" href="https://twitter.com/spiritofmednoob">spiritofmednoob</a></td>
 		<td>Banten Indonesia</td>
 		<td>162</td>
 		<td>175</td>
@@ -7581,7 +7582,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Nusendra Hanggarawan
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/nusendra_">nusendra_</a></td>
+		<td><a target="_blank" href="https://twitter.com/nusendra_">nusendra_</a></td>
 		<td>Gresik  Surabaya</td>
 		<td>173</td>
 		<td>173</td>
@@ -7595,7 +7596,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sugeng Tigefa
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sugengtigefa">sugengtigefa</a></td>
+		<td><a target="_blank" href="https://twitter.com/sugengtigefa">sugengtigefa</a></td>
 		<td>Wonosobo Indonesia</td>
 		<td>65</td>
 		<td>172</td>
@@ -7623,7 +7624,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Saiful Bahri
 		</td>
 		<td>Studio Teknologi Kreatif </td>
-		<td><a href="https://twitter.com/bahrie_bhe">bahrie_bhe</a></td>
+		<td><a target="_blank" href="https://twitter.com/bahrie_bhe">bahrie_bhe</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>105</td>
 		<td>170</td>
@@ -7637,7 +7638,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hasan Basri
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/creatorbe">creatorbe</a></td>
+		<td><a target="_blank" href="https://twitter.com/creatorbe">creatorbe</a></td>
 		<td>Situbondo indonesia</td>
 		<td>121</td>
 		<td>170</td>
@@ -7665,7 +7666,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Finsa Nurpandi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/finxa">finxa</a></td>
+		<td><a target="_blank" href="https://twitter.com/finxa">finxa</a></td>
 		<td>Indonesia</td>
 		<td>167</td>
 		<td>167</td>
@@ -7721,7 +7722,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Doni Rubiagatra
 		</td>
 		<td>@zeroonegroup  </td>
-		<td><a href="https://twitter.com/rubiagatra">rubiagatra</a></td>
+		<td><a target="_blank" href="https://twitter.com/rubiagatra">rubiagatra</a></td>
 		<td>Indonesia</td>
 		<td>159</td>
 		<td>161</td>
@@ -7847,7 +7848,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Syafrial Zulmi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/syafrialzulmi">syafrialzulmi</a></td>
+		<td><a target="_blank" href="https://twitter.com/syafrialzulmi">syafrialzulmi</a></td>
 		<td>Semarang</td>
 		<td>100</td>
 		<td>151</td>
@@ -7875,7 +7876,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Bayu Fedra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bayufedraa">bayufedraa</a></td>
+		<td><a target="_blank" href="https://twitter.com/bayufedraa">bayufedraa</a></td>
 		<td>Indonesia</td>
 		<td>68</td>
 		<td>149</td>
@@ -7889,7 +7890,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alya Zalfa
 		</td>
 		<td>Universitas Bina Sarana Informatika<br/></td>
-		<td><a href="https://twitter.com/AZ_Kagerou">AZ_Kagerou</a></td>
+		<td><a target="_blank" href="https://twitter.com/AZ_Kagerou">AZ_Kagerou</a></td>
 		<td> Jakarta Indonesia</td>
 		<td>148</td>
 		<td>148</td>
@@ -7959,7 +7960,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Odi
 		</td>
 		<td>@ondeck </td>
-		<td><a href="https://twitter.com/mathdroid">mathdroid</a></td>
+		<td><a target="_blank" href="https://twitter.com/mathdroid">mathdroid</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>28</td>
 		<td>142</td>
@@ -7973,7 +7974,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rio Astamal
 		</td>
 		<td>@aws </td>
-		<td><a href="https://twitter.com/rioastamal">rioastamal</a></td>
+		<td><a target="_blank" href="https://twitter.com/rioastamal">rioastamal</a></td>
 		<td>Surabaya Indonsia</td>
 		<td>141</td>
 		<td>141</td>
@@ -8001,7 +8002,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Pizaini
 		</td>
 		<td>Riaudevops </td>
-		<td><a href="https://twitter.com/pizaini">pizaini</a></td>
+		<td><a target="_blank" href="https://twitter.com/pizaini">pizaini</a></td>
 		<td>Indonesia</td>
 		<td>36</td>
 		<td>139</td>
@@ -8015,7 +8016,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ted Kesgar
 		</td>
 		<td>@bukalapak @nusaleague @charaverse @kingsbrawl<br/></td>
-		<td><a href="https://twitter.com/tkesgar">tkesgar</a></td>
+		<td><a target="_blank" href="https://twitter.com/tkesgar">tkesgar</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>27</td>
 		<td>136</td>
@@ -8043,7 +8044,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Arief T Bagus TB
 		</td>
 		<td>Salt Indonesia </td>
-		<td><a href="https://twitter.com/arieftb22">arieftb22</a></td>
+		<td><a target="_blank" href="https://twitter.com/arieftb22">arieftb22</a></td>
 		<td>Kab Tangerang Indonesia</td>
 		<td>134</td>
 		<td>134</td>
@@ -8057,7 +8058,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Justin Maximillian Kimlim
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kimlimjustin">kimlimjustin</a></td>
+		<td><a target="_blank" href="https://twitter.com/kimlimjustin">kimlimjustin</a></td>
 		<td>Indonesia</td>
 		<td>14</td>
 		<td>133</td>
@@ -8071,7 +8072,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fika Ridaul Maulayya
 		</td>
 		<td>@santrikodingcom </td>
-		<td><a href="https://twitter.com/maulayyacyber">maulayyacyber</a></td>
+		<td><a target="_blank" href="https://twitter.com/maulayyacyber">maulayyacyber</a></td>
 		<td>Jombang Indonesia</td>
 		<td>129</td>
 		<td>133</td>
@@ -8155,7 +8156,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			JustLazzy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/just_lazzy">just_lazzy</a></td>
+		<td><a target="_blank" href="https://twitter.com/just_lazzy">just_lazzy</a></td>
 		<td>Indonesia</td>
 		<td>5</td>
 		<td>129</td>
@@ -8169,7 +8170,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ferry Kirdan Agustin
 		</td>
 		<td>New Phreaker Ababil </td>
-		<td><a href="https://twitter.com/ipkzone">ipkzone</a></td>
+		<td><a target="_blank" href="https://twitter.com/ipkzone">ipkzone</a></td>
 		<td>Bandung</td>
 		<td>129</td>
 		<td>129</td>
@@ -8225,7 +8226,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ayra Hikari
 		</td>
 		<td>@nusantaradevs </td>
-		<td><a href="https://twitter.com/Ayra_Hikari">Ayra_Hikari</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ayra_Hikari">Ayra_Hikari</a></td>
 		<td>Indonesia</td>
 		<td>48</td>
 		<td>125</td>
@@ -8239,7 +8240,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/johnleedik">johnleedik</a></td>
+		<td><a target="_blank" href="https://twitter.com/johnleedik">johnleedik</a></td>
 		<td>Indonesia</td>
 		<td>109</td>
 		<td>125</td>
@@ -8267,7 +8268,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/badotsan">badotsan</a></td>
+		<td><a target="_blank" href="https://twitter.com/badotsan">badotsan</a></td>
 		<td>Bandung</td>
 		<td>52</td>
 		<td>124</td>
@@ -8281,7 +8282,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/spiritbroski">spiritbroski</a></td>
+		<td><a target="_blank" href="https://twitter.com/spiritbroski">spiritbroski</a></td>
 		<td>indonesia</td>
 		<td>124</td>
 		<td>124</td>
@@ -8295,7 +8296,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Naufal Ardhani
 		</td>
 		<td>Ipb University </td>
-		<td><a href="https://twitter.com/ardhani1337">ardhani1337</a></td>
+		<td><a target="_blank" href="https://twitter.com/ardhani1337">ardhani1337</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>113</td>
 		<td>123</td>
@@ -8309,7 +8310,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Abdul Aziz Ahwan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/abdulazizahwan">abdulazizahwan</a></td>
+		<td><a target="_blank" href="https://twitter.com/abdulazizahwan">abdulazizahwan</a></td>
 		<td>Indonesia</td>
 		<td>116</td>
 		<td>119</td>
@@ -8337,7 +8338,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Candra Herdiansyah
 		</td>
 		<td>@smkassalaambandung  </td>
-		<td><a href="https://twitter.com/kangcandra_">kangcandra_</a></td>
+		<td><a target="_blank" href="https://twitter.com/kangcandra_">kangcandra_</a></td>
 		<td>Bandung</td>
 		<td>80</td>
 		<td>118</td>
@@ -8351,7 +8352,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Boy Hamzah
 		</td>
 		<td>@xnscode </td>
-		<td><a href="https://twitter.com/Hamzah_kirana1">Hamzah_kirana1</a></td>
+		<td><a target="_blank" href="https://twitter.com/Hamzah_kirana1">Hamzah_kirana1</a></td>
 		<td>Indonesia</td>
 		<td>117</td>
 		<td>117</td>
@@ -8365,7 +8366,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alfiyanto Kondolele
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/haloapping">haloapping</a></td>
+		<td><a target="_blank" href="https://twitter.com/haloapping">haloapping</a></td>
 		<td>Bandung Indonesia</td>
 		<td>111</td>
 		<td>117</td>
@@ -8393,7 +8394,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			purwandi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/purwandi_m">purwandi_m</a></td>
+		<td><a target="_blank" href="https://twitter.com/purwandi_m">purwandi_m</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>77</td>
 		<td>115</td>
@@ -8407,7 +8408,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Achmad Imannudin
 		</td>
 		<td>Technology Inspiration </td>
-		<td><a href="https://twitter.com/ImannudinAchmad">ImannudinAchmad</a></td>
+		<td><a target="_blank" href="https://twitter.com/ImannudinAchmad">ImannudinAchmad</a></td>
 		<td>Indonesia Jawa Barat Cirebon</td>
 		<td>17</td>
 		<td>114</td>
@@ -8533,7 +8534,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			yohanesnuwara
 		</td>
 		<td>Asia Pulp  Paper<br/></td>
-		<td><a href="https://twitter.com/ynuwara">ynuwara</a></td>
+		<td><a target="_blank" href="https://twitter.com/ynuwara">ynuwara</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>106</td>
 		<td>106</td>
@@ -8547,7 +8548,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alagie Singhateh
 		</td>
 		<td>Programming With Singhateh </td>
-		<td><a href="https://twitter.com/singhateh1990">singhateh1990</a></td>
+		<td><a target="_blank" href="https://twitter.com/singhateh1990">singhateh1990</a></td>
 		<td>Indonesia</td>
 		<td>6</td>
 		<td>105</td>
@@ -8561,7 +8562,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			agus muhajir
 		</td>
 		<td>Omahbiasawae </td>
-		<td><a href="https://twitter.com/hajirodeon">hajirodeon</a></td>
+		<td><a target="_blank" href="https://twitter.com/hajirodeon">hajirodeon</a></td>
 		<td>kendal jawa tengah indonesia</td>
 		<td>104</td>
 		<td>104</td>
@@ -8631,7 +8632,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Yoga Sakti
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/teman_bahagia">teman_bahagia</a></td>
+		<td><a target="_blank" href="https://twitter.com/teman_bahagia">teman_bahagia</a></td>
 		<td>Bandung ID</td>
 		<td>90</td>
 		<td>101</td>
@@ -8687,7 +8688,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ravimo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_ravimo">_ravimo</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ravimo">_ravimo</a></td>
 		<td>Indonesia</td>
 		<td>97</td>
 		<td>99</td>
@@ -8715,7 +8716,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			eMHa
 		</td>
 		<td>Tb Geoscience </td>
-		<td><a href="https://twitter.com/emheriyanto">emheriyanto</a></td>
+		<td><a target="_blank" href="https://twitter.com/emheriyanto">emheriyanto</a></td>
 		<td>Banyuwangi Indonesia</td>
 		<td>21</td>
 		<td>97</td>
@@ -8743,7 +8744,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Uwais Alqadri
 		</td>
 		<td>Nbscoid </td>
-		<td><a href="https://twitter.com/uwais_al_qadri">uwais_al_qadri</a></td>
+		<td><a target="_blank" href="https://twitter.com/uwais_al_qadri">uwais_al_qadri</a></td>
 		<td>Makassar Indonesia</td>
 		<td>93</td>
 		<td>95</td>
@@ -8757,7 +8758,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Wildan A
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/CharmingbP">CharmingbP</a></td>
+		<td><a target="_blank" href="https://twitter.com/CharmingbP">CharmingbP</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>95</td>
 		<td>95</td>
@@ -8771,7 +8772,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Angga Dwi Arifandi
 		</td>
 		<td>Ing </td>
-		<td><a href="https://twitter.com/anggadwia_">anggadwia_</a></td>
+		<td><a target="_blank" href="https://twitter.com/anggadwia_">anggadwia_</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>16</td>
 		<td>93</td>
@@ -8799,7 +8800,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Andhika Yuana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/andhikayuana">andhikayuana</a></td>
+		<td><a target="_blank" href="https://twitter.com/andhikayuana">andhikayuana</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>73</td>
 		<td>93</td>
@@ -8925,7 +8926,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Wahyu Adi Nugroho
 		</td>
 		<td>Dian Nuswantoro University </td>
-		<td><a href="https://twitter.com/wahyu_adi_n_">wahyu_adi_n_</a></td>
+		<td><a target="_blank" href="https://twitter.com/wahyu_adi_n_">wahyu_adi_n_</a></td>
 		<td>Semarang</td>
 		<td>89</td>
 		<td>89</td>
@@ -8953,7 +8954,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Yahya Fadhlulloh AlFatih
 		</td>
 		<td>Efishery </td>
-		<td><a href="https://twitter.com/BukanYahya">BukanYahya</a></td>
+		<td><a target="_blank" href="https://twitter.com/BukanYahya">BukanYahya</a></td>
 		<td>Bandung</td>
 		<td>85</td>
 		<td>88</td>
@@ -8967,7 +8968,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Sobri Maulana
 		</td>
 		<td>Dokter Hacker Entrepreneur </td>
-		<td><a href="https://twitter.com/MuhSobriMaulan3">MuhSobriMaulan3</a></td>
+		<td><a target="_blank" href="https://twitter.com/MuhSobriMaulan3">MuhSobriMaulan3</a></td>
 		<td>Depok</td>
 		<td>88</td>
 		<td>88</td>
@@ -8981,7 +8982,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Naufaldi
 		</td>
 		<td>Efishery </td>
-		<td><a href="https://twitter.com/f2aldi">f2aldi</a></td>
+		<td><a target="_blank" href="https://twitter.com/f2aldi">f2aldi</a></td>
 		<td>Malang Indonesia </td>
 		<td>70</td>
 		<td>87</td>
@@ -9023,7 +9024,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fitri A
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fifiyuu">fifiyuu</a></td>
+		<td><a target="_blank" href="https://twitter.com/fifiyuu">fifiyuu</a></td>
 		<td>Indonesia</td>
 		<td>37</td>
 		<td>83</td>
@@ -9051,7 +9052,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			abay
 		</td>
 		<td>@c0delatte </td>
-		<td><a href="https://twitter.com/serialswiller">serialswiller</a></td>
+		<td><a target="_blank" href="https://twitter.com/serialswiller">serialswiller</a></td>
 		<td>Indonesia</td>
 		<td>16</td>
 		<td>81</td>
@@ -9065,7 +9066,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Afif A Iskandar
 		</td>
 		<td>Telkomsel </td>
-		<td><a href="https://twitter.com/afifai">afifai</a></td>
+		<td><a target="_blank" href="https://twitter.com/afifai">afifai</a></td>
 		<td>Bekasi Indonesia</td>
 		<td>74</td>
 		<td>81</td>
@@ -9107,7 +9108,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Imbar Winata
 		</td>
 		<td>@tiket </td>
-		<td><a href="https://twitter.com/imbarwinata">imbarwinata</a></td>
+		<td><a target="_blank" href="https://twitter.com/imbarwinata">imbarwinata</a></td>
 		<td>Bogor Indonesia</td>
 		<td>12</td>
 		<td>79</td>
@@ -9135,7 +9136,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sonny Lazuardi
 		</td>
 		<td>@grab </td>
-		<td><a href="https://twitter.com/sonnylazuardi">sonnylazuardi</a></td>
+		<td><a target="_blank" href="https://twitter.com/sonnylazuardi">sonnylazuardi</a></td>
 		<td>Singapore  Indonesia</td>
 		<td>72</td>
 		<td>78</td>
@@ -9163,7 +9164,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			AlvinoXy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AdjAlvino">AdjAlvino</a></td>
+		<td><a target="_blank" href="https://twitter.com/AdjAlvino">AdjAlvino</a></td>
 		<td>Indonesia </td>
 		<td>76</td>
 		<td>76</td>
@@ -9177,7 +9178,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Risal Walangadi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gooner_izhal">gooner_izhal</a></td>
+		<td><a target="_blank" href="https://twitter.com/gooner_izhal">gooner_izhal</a></td>
 		<td>Indonesia Gorontalo</td>
 		<td>70</td>
 		<td>76</td>
@@ -9191,7 +9192,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Runa Inoue Anderson
 		</td>
 		<td>Suse </td>
-		<td><a href="https://twitter.com/RunaAnderson">RunaAnderson</a></td>
+		<td><a target="_blank" href="https://twitter.com/RunaAnderson">RunaAnderson</a></td>
 		<td>Bandung Indonesia</td>
 		<td>71</td>
 		<td>75</td>
@@ -9247,7 +9248,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rivas Frits Sasia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fritslx">fritslx</a></td>
+		<td><a target="_blank" href="https://twitter.com/fritslx">fritslx</a></td>
 		<td>Manado Indonesia</td>
 		<td>63</td>
 		<td>73</td>
@@ -9275,7 +9276,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Noprianto
 		</td>
 		<td>Politeknik Negeri Malang </td>
-		<td><a href="https://twitter.com/mas_nopri">mas_nopri</a></td>
+		<td><a target="_blank" href="https://twitter.com/mas_nopri">mas_nopri</a></td>
 		<td>Indonesia</td>
 		<td>71</td>
 		<td>71</td>
@@ -9303,7 +9304,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aldin Setiawan
 		</td>
 		<td>Eranyacloud </td>
-		<td><a href="https://twitter.com/Aldin_Py">Aldin_Py</a></td>
+		<td><a target="_blank" href="https://twitter.com/Aldin_Py">Aldin_Py</a></td>
 		<td>JakartaIndonesia</td>
 		<td>65</td>
 		<td>69</td>
@@ -9317,7 +9318,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sandhika Galih
 		</td>
 		<td>Pasundan University Bandung </td>
-		<td><a href="https://twitter.com/sandhikagalih">sandhikagalih</a></td>
+		<td><a target="_blank" href="https://twitter.com/sandhikagalih">sandhikagalih</a></td>
 		<td>Indonesia</td>
 		<td>68</td>
 		<td>68</td>
@@ -9359,7 +9360,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Aswan Syahputra
 		</td>
 		<td>Sekolahmu </td>
-		<td><a href="https://twitter.com/aswansyahputra_">aswansyahputra_</a></td>
+		<td><a target="_blank" href="https://twitter.com/aswansyahputra_">aswansyahputra_</a></td>
 		<td>Bandung Indonesia</td>
 		<td>35</td>
 		<td>67</td>
@@ -9401,7 +9402,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Agus Cahyono
 		</td>
 		<td>Stockbit </td>
-		<td><a href="https://twitter.com/gauscahyono">gauscahyono</a></td>
+		<td><a target="_blank" href="https://twitter.com/gauscahyono">gauscahyono</a></td>
 		<td>Lumajang East Java Indonesia</td>
 		<td>20</td>
 		<td>65</td>
@@ -9415,7 +9416,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Azhar Rivaldi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Azharrvldi_">Azharrvldi_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Azharrvldi_">Azharrvldi_</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>64</td>
 		<td>64</td>
@@ -9457,7 +9458,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rafi Khalbi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Rafikhalbi">Rafikhalbi</a></td>
+		<td><a target="_blank" href="https://twitter.com/Rafikhalbi">Rafikhalbi</a></td>
 		<td>Indonesia</td>
 		<td>64</td>
 		<td>64</td>
@@ -9471,7 +9472,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ariaseta Setia Alam
 		</td>
 		<td>Kodingworks </td>
-		<td><a href="https://twitter.com/ariaseta">ariaseta</a></td>
+		<td><a target="_blank" href="https://twitter.com/ariaseta">ariaseta</a></td>
 		<td>Semarang Indonesia</td>
 		<td>39</td>
 		<td>63</td>
@@ -9485,7 +9486,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			MFarelS
 		</td>
 		<td>Mfarelsid </td>
-		<td><a href="https://twitter.com/mfarelsid">mfarelsid</a></td>
+		<td><a target="_blank" href="https://twitter.com/mfarelsid">mfarelsid</a></td>
 		<td>Indonesia</td>
 		<td>62</td>
 		<td>62</td>
@@ -9499,7 +9500,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Randy Vianda Putra
 		</td>
 		<td>@evilfactorylabs </td>
-		<td><a href="https://twitter.com/aweutist">aweutist</a></td>
+		<td><a target="_blank" href="https://twitter.com/aweutist">aweutist</a></td>
 		<td>Bandung Indonesia</td>
 		<td>3</td>
 		<td>60</td>
@@ -9555,7 +9556,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Anonymous
 		</td>
 		<td>Zeeone Youtube Official </td>
-		<td><a href="https://twitter.com/zeeoneofc">zeeoneofc</a></td>
+		<td><a target="_blank" href="https://twitter.com/zeeoneofc">zeeoneofc</a></td>
 		<td>Sinjai Sulawesi Selatan Indonesia </td>
 		<td>58</td>
 		<td>58</td>
@@ -9625,7 +9626,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fathan
 		</td>
 		<td>Universitas Islam Indonesia </td>
-		<td><a href="https://twitter.com/fathanick">fathanick</a></td>
+		<td><a target="_blank" href="https://twitter.com/fathanick">fathanick</a></td>
 		<td>Yogyakarta Indonesia</td>
 		<td>54</td>
 		<td>54</td>
@@ -9653,7 +9654,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ivan Fadila Putra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fflatburger">fflatburger</a></td>
+		<td><a target="_blank" href="https://twitter.com/fflatburger">fflatburger</a></td>
 		<td>Indonesia</td>
 		<td>28</td>
 		<td>53</td>
@@ -9667,7 +9668,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Amirul Ihsan
 		</td>
 		<td>@kawankoding  </td>
-		<td><a href="https://twitter.com/kawankoding">kawankoding</a></td>
+		<td><a target="_blank" href="https://twitter.com/kawankoding">kawankoding</a></td>
 		<td>Sidoarjo Indonesia</td>
 		<td>16</td>
 		<td>53</td>
@@ -9681,7 +9682,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Lintang Wisesa
 		</td>
 		<td>Smartfren </td>
-		<td><a href="https://twitter.com/Lintang_Wisesa">Lintang_Wisesa</a></td>
+		<td><a target="_blank" href="https://twitter.com/Lintang_Wisesa">Lintang_Wisesa</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>52</td>
 		<td>52</td>
@@ -9695,7 +9696,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hario Budiharjo
 		</td>
 		<td>@learnmakeapp </td>
-		<td><a href="https://twitter.com/yokyoel">yokyoel</a></td>
+		<td><a target="_blank" href="https://twitter.com/yokyoel">yokyoel</a></td>
 		<td>MalangIndonesia</td>
 		<td>20</td>
 		<td>51</td>
@@ -9709,7 +9710,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Cornellius Yudha Wijaya
 		</td>
 		<td>@allianz </td>
-		<td><a href="https://twitter.com/CornelliusYW">CornelliusYW</a></td>
+		<td><a target="_blank" href="https://twitter.com/CornelliusYW">CornelliusYW</a></td>
 		<td>Indonesia</td>
 		<td>34</td>
 		<td>50</td>
@@ -9807,7 +9808,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rahmat Wahyu Hadi
 		</td>
 		<td>Httpswwwlinkedincomi </td>
-		<td><a href="https://twitter.com/rwahyuhadi_">rwahyuhadi_</a></td>
+		<td><a target="_blank" href="https://twitter.com/rwahyuhadi_">rwahyuhadi_</a></td>
 		<td>indonesia</td>
 		<td>45</td>
 		<td>45</td>
@@ -9835,7 +9836,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Teguh Aprianto
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/secgron">secgron</a></td>
+		<td><a target="_blank" href="https://twitter.com/secgron">secgron</a></td>
 		<td>Jakarta</td>
 		<td>4</td>
 		<td>43</td>
@@ -9891,7 +9892,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			kumpulanremajacom
 		</td>
 		<td>Kumpulan Remaja </td>
-		<td><a href="https://twitter.com/4kumpulanremaja">4kumpulanremaja</a></td>
+		<td><a target="_blank" href="https://twitter.com/4kumpulanremaja">4kumpulanremaja</a></td>
 		<td>semarang</td>
 		<td>42</td>
 		<td>42</td>
@@ -9919,7 +9920,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			MrTamfanX
 		</td>
 		<td>Buitenzorgsyndicate </td>
-		<td><a href="https://twitter.com/XTamfan">XTamfan</a></td>
+		<td><a target="_blank" href="https://twitter.com/XTamfan">XTamfan</a></td>
 		<td>Indonesian Jakarta utara Pademangan barat</td>
 		<td>42</td>
 		<td>42</td>
@@ -9933,7 +9934,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Damar Zaky
 		</td>
 		<td>@bukalapak </td>
-		<td><a href="https://twitter.com/damzaky">damzaky</a></td>
+		<td><a target="_blank" href="https://twitter.com/damzaky">damzaky</a></td>
 		<td>Indonesia</td>
 		<td>38</td>
 		<td>42</td>
@@ -9975,7 +9976,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Sudhanshu Raheja
 		</td>
 		<td>@gopay </td>
-		<td><a href="https://twitter.com/sudhanshuraheja">sudhanshuraheja</a></td>
+		<td><a target="_blank" href="https://twitter.com/sudhanshuraheja">sudhanshuraheja</a></td>
 		<td>Jakarta</td>
 		<td>0</td>
 		<td>41</td>
@@ -10045,7 +10046,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Tri Wanda Septian
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/twseptian_">twseptian_</a></td>
+		<td><a target="_blank" href="https://twitter.com/twseptian_">twseptian_</a></td>
 		<td>Indonesia</td>
 		<td>18</td>
 		<td>38</td>
@@ -10087,7 +10088,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Arie M Prasetyo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/arie_m_prasetyo">arie_m_prasetyo</a></td>
+		<td><a target="_blank" href="https://twitter.com/arie_m_prasetyo">arie_m_prasetyo</a></td>
 		<td>Bandung Indonesia</td>
 		<td>36</td>
 		<td>36</td>
@@ -10101,7 +10102,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nurutomo_gaming">nurutomo_gaming</a></td>
+		<td><a target="_blank" href="https://twitter.com/nurutomo_gaming">nurutomo_gaming</a></td>
 		<td>Mojokerto Indonesia</td>
 		<td>33</td>
 		<td>33</td>
@@ -10115,7 +10116,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Dery Sudrajat
 		</td>
 		<td>Linkaja </td>
-		<td><a href="https://twitter.com/_derysudrajat">_derysudrajat</a></td>
+		<td><a target="_blank" href="https://twitter.com/_derysudrajat">_derysudrajat</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>19</td>
 		<td>33</td>
@@ -10171,7 +10172,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Achmad fauzi
 		</td>
 		<td>Artbycode </td>
-		<td><a href="https://twitter.com/achmdfauzi12">achmdfauzi12</a></td>
+		<td><a target="_blank" href="https://twitter.com/achmdfauzi12">achmdfauzi12</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>15</td>
 		<td>31</td>
@@ -10199,7 +10200,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muh Rahmatullah
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/muh_rahmatullah">muh_rahmatullah</a></td>
+		<td><a target="_blank" href="https://twitter.com/muh_rahmatullah">muh_rahmatullah</a></td>
 		<td>Jakarta</td>
 		<td>20</td>
 		<td>30</td>
@@ -10241,7 +10242,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Adityo Pratomo
 		</td>
 		<td>@labtekindie </td>
-		<td><a href="https://twitter.com/kotakmakan">kotakmakan</a></td>
+		<td><a target="_blank" href="https://twitter.com/kotakmakan">kotakmakan</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>5</td>
 		<td>28</td>
@@ -10269,7 +10270,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Adam Mukharil Bachtiar
 		</td>
 		<td>Universitas Komputer Indonesia </td>
-		<td><a href="https://twitter.com/3sisiIT">3sisiIT</a></td>
+		<td><a target="_blank" href="https://twitter.com/3sisiIT">3sisiIT</a></td>
 		<td>Indonesia</td>
 		<td>28</td>
 		<td>28</td>
@@ -10297,7 +10298,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Maikel Chandika
 		</td>
 		<td>Tiketcom </td>
-		<td><a href="https://twitter.com/maikelchandika">maikelchandika</a></td>
+		<td><a target="_blank" href="https://twitter.com/maikelchandika">maikelchandika</a></td>
 		<td>Tangerang Indonesia</td>
 		<td>27</td>
 		<td>27</td>
@@ -10311,7 +10312,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			R Rifa Fauzi Komara
 		</td>
 		<td>@grab </td>
-		<td><a href="https://twitter.com/rifafauzi6_">rifafauzi6_</a></td>
+		<td><a target="_blank" href="https://twitter.com/rifafauzi6_">rifafauzi6_</a></td>
 		<td>Jakarta</td>
 		<td>26</td>
 		<td>26</td>
@@ -10353,7 +10354,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rakhmad Azhari
 		</td>
 		<td>Redhat </td>
-		<td><a href="https://twitter.com/rakhmad">rakhmad</a></td>
+		<td><a target="_blank" href="https://twitter.com/rakhmad">rakhmad</a></td>
 		<td>Jakarta</td>
 		<td>26</td>
 		<td>26</td>
@@ -10493,7 +10494,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Teddy Zugana
 		</td>
 		<td>Company Of Heroes </td>
-		<td><a href="https://twitter.com/Teddy_Zugana">Teddy_Zugana</a></td>
+		<td><a target="_blank" href="https://twitter.com/Teddy_Zugana">Teddy_Zugana</a></td>
 		<td>Jakarta</td>
 		<td>20</td>
 		<td>24</td>
@@ -10507,7 +10508,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aprilians
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/apriliancore">apriliancore</a></td>
+		<td><a target="_blank" href="https://twitter.com/apriliancore">apriliancore</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>24</td>
 		<td>24</td>
@@ -10535,7 +10536,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rahmat Nurfauzi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/infosecn1nja">infosecn1nja</a></td>
+		<td><a target="_blank" href="https://twitter.com/infosecn1nja">infosecn1nja</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>23</td>
 		<td>23</td>
@@ -10577,7 +10578,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			theo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tibudiyanto">tibudiyanto</a></td>
+		<td><a target="_blank" href="https://twitter.com/tibudiyanto">tibudiyanto</a></td>
 		<td>Indonesia</td>
 		<td>23</td>
 		<td>23</td>
@@ -10591,7 +10592,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Riva Farabi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rivafarabi">rivafarabi</a></td>
+		<td><a target="_blank" href="https://twitter.com/rivafarabi">rivafarabi</a></td>
 		<td>Indonesia</td>
 		<td>16</td>
 		<td>23</td>
@@ -10619,7 +10620,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aldo Wachyudi
 		</td>
 		<td>@astronautsid </td>
-		<td><a href="https://twitter.com/aldokelvianto">aldokelvianto</a></td>
+		<td><a target="_blank" href="https://twitter.com/aldokelvianto">aldokelvianto</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>10</td>
 		<td>23</td>
@@ -10647,7 +10648,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ganis Zulfa Santoso
 		</td>
 		<td>Blibli </td>
-		<td><a href="https://twitter.com/ganiseu9">ganiseu9</a></td>
+		<td><a target="_blank" href="https://twitter.com/ganiseu9">ganiseu9</a></td>
 		<td>Indonesia</td>
 		<td>22</td>
 		<td>22</td>
@@ -10675,7 +10676,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mario Ray Mahardhika
 		</td>
 		<td>@sirclosolution  </td>
-		<td><a href="https://twitter.com/leledumbo2503">leledumbo2503</a></td>
+		<td><a target="_blank" href="https://twitter.com/leledumbo2503">leledumbo2503</a></td>
 		<td>Depok West Java Indonesia</td>
 		<td>21</td>
 		<td>21</td>
@@ -10745,7 +10746,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Edi Kurniawan
 		</td>
 		<td>Pt Kasyr Sibernetika Indonesia<br/></td>
-		<td><a href="https://twitter.com/edicybereye">edicybereye</a></td>
+		<td><a target="_blank" href="https://twitter.com/edicybereye">edicybereye</a></td>
 		<td>Burza Tower Jl Pantai Indah Selatan No8 RT3RW3 Kamal Muara Kec Penjaringan Kota Jkt Utara Daerah Khusus Ibukota Jakarta 14470</td>
 		<td>19</td>
 		<td>19</td>
@@ -10759,7 +10760,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Batu Jatoh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Kembaranbsc">Kembaranbsc</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kembaranbsc">Kembaranbsc</a></td>
 		<td>indonesia</td>
 		<td>19</td>
 		<td>19</td>
@@ -10773,7 +10774,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Reach Level
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GarapanResmi">GarapanResmi</a></td>
+		<td><a target="_blank" href="https://twitter.com/GarapanResmi">GarapanResmi</a></td>
 		<td>indonesia</td>
 		<td>19</td>
 		<td>19</td>
@@ -10787,7 +10788,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Satria Ady Pradana
 		</td>
 		<td>@archonlabs  </td>
-		<td><a href="https://twitter.com/xathrya_">xathrya_</a></td>
+		<td><a target="_blank" href="https://twitter.com/xathrya_">xathrya_</a></td>
 		<td>DKI Jakarta</td>
 		<td>14</td>
 		<td>19</td>
@@ -10801,7 +10802,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hendri Karisma
 		</td>
 		<td>Pt Akar Inti Data<br/></td>
-		<td><a href="https://twitter.com/infoHendri">infoHendri</a></td>
+		<td><a target="_blank" href="https://twitter.com/infoHendri">infoHendri</a></td>
 		<td>Bandung</td>
 		<td>18</td>
 		<td>18</td>
@@ -10815,7 +10816,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Mochammad Nopal Attasya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/1Soaki">1Soaki</a></td>
+		<td><a target="_blank" href="https://twitter.com/1Soaki">1Soaki</a></td>
 		<td>Indonesia</td>
 		<td>18</td>
 		<td>18</td>
@@ -10871,7 +10872,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ari Supriatna
 		</td>
 		<td>Bibitid </td>
-		<td><a href="https://twitter.com/arisupriatna141">arisupriatna141</a></td>
+		<td><a target="_blank" href="https://twitter.com/arisupriatna141">arisupriatna141</a></td>
 		<td>Jakarta Selatan</td>
 		<td>2</td>
 		<td>17</td>
@@ -10927,7 +10928,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Suendri
 		</td>
 		<td>Delitekno Media Mandiri </td>
-		<td><a href="https://twitter.com/mrsuendri">mrsuendri</a></td>
+		<td><a target="_blank" href="https://twitter.com/mrsuendri">mrsuendri</a></td>
 		<td>Medan</td>
 		<td>15</td>
 		<td>15</td>
@@ -10941,7 +10942,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Akbar Yahya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/siakbary">siakbary</a></td>
+		<td><a target="_blank" href="https://twitter.com/siakbary">siakbary</a></td>
 		<td>Indonesia</td>
 		<td>15</td>
 		<td>15</td>
@@ -10955,7 +10956,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Tokotype
 		</td>
 		<td>Tokotype </td>
-		<td><a href="https://twitter.com/tokotype">tokotype</a></td>
+		<td><a target="_blank" href="https://twitter.com/tokotype">tokotype</a></td>
 		<td>Indonesia</td>
 		<td>14</td>
 		<td>15</td>
@@ -11011,7 +11012,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			raditya gumay
 		</td>
 		<td>@gojek  </td>
-		<td><a href="https://twitter.com/r_adiit">r_adiit</a></td>
+		<td><a target="_blank" href="https://twitter.com/r_adiit">r_adiit</a></td>
 		<td>Jakarta</td>
 		<td>9</td>
 		<td>13</td>
@@ -11025,7 +11026,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			ninja solana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ninjasolana12">ninjasolana12</a></td>
+		<td><a target="_blank" href="https://twitter.com/ninjasolana12">ninjasolana12</a></td>
 		<td>indonesia</td>
 		<td>13</td>
 		<td>13</td>
@@ -11053,7 +11054,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Yusuf Aristyanto
 		</td>
 		<td>@dqlabid </td>
-		<td><a href="https://twitter.com/my_arist">my_arist</a></td>
+		<td><a target="_blank" href="https://twitter.com/my_arist">my_arist</a></td>
 		<td>Jakarta</td>
 		<td>12</td>
 		<td>12</td>
@@ -11081,7 +11082,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Afifuddin Basyaiban
 		</td>
 		<td>Wahidev Academy </td>
-		<td><a href="https://twitter.com/Afif_Basya">Afif_Basya</a></td>
+		<td><a target="_blank" href="https://twitter.com/Afif_Basya">Afif_Basya</a></td>
 		<td>Semarang Indonesia</td>
 		<td>12</td>
 		<td>12</td>
@@ -11123,7 +11124,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Wahyu Permadi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wahyu_permadie">wahyu_permadie</a></td>
+		<td><a target="_blank" href="https://twitter.com/wahyu_permadie">wahyu_permadie</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>12</td>
 		<td>12</td>
@@ -11137,7 +11138,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zeropay
 		</td>
 		<td>Acid </td>
-		<td><a href="https://twitter.com/khamahim87">khamahim87</a></td>
+		<td><a target="_blank" href="https://twitter.com/khamahim87">khamahim87</a></td>
 		<td>Indonesia</td>
 		<td>12</td>
 		<td>12</td>
@@ -11165,7 +11166,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			BMKG
 		</td>
 		<td>Badan Meteorologi Klimatologi Dan<br/>Geofisika<br/></td>
-		<td><a href="https://twitter.com/infoBMKG">infoBMKG</a></td>
+		<td><a target="_blank" href="https://twitter.com/infoBMKG">infoBMKG</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>0</td>
 		<td>12</td>
@@ -11179,7 +11180,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rizki Maulana
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/reiz_maulana">reiz_maulana</a></td>
+		<td><a target="_blank" href="https://twitter.com/reiz_maulana">reiz_maulana</a></td>
 		<td>DI Yogyakarta Indonesia</td>
 		<td>11</td>
 		<td>11</td>
@@ -11235,7 +11236,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fazt Academy
 		</td>
 		<td>Fazztrack </td>
-		<td><a href="https://twitter.com/fazztrack">fazztrack</a></td>
+		<td><a target="_blank" href="https://twitter.com/fazztrack">fazztrack</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>11</td>
 		<td>11</td>
@@ -11249,7 +11250,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rico Imanta Ginting
 		</td>
 		<td>Kawalbisniscom </td>
-		<td><a href="https://twitter.com/imantarico">imantarico</a></td>
+		<td><a target="_blank" href="https://twitter.com/imantarico">imantarico</a></td>
 		<td>Indonesia</td>
 		<td>10</td>
 		<td>10</td>
@@ -11263,7 +11264,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Teofilus Candra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_teofiluscandra">_teofiluscandra</a></td>
+		<td><a target="_blank" href="https://twitter.com/_teofiluscandra">_teofiluscandra</a></td>
 		<td>Indonesia</td>
 		<td>0</td>
 		<td>10</td>
@@ -11277,7 +11278,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Aguel Satria Wijaya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/aguel_satria98">aguel_satria98</a></td>
+		<td><a target="_blank" href="https://twitter.com/aguel_satria98">aguel_satria98</a></td>
 		<td>Semarang Indonesia</td>
 		<td>7</td>
 		<td>10</td>
@@ -11291,7 +11292,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Tommy Sudrajat
 		</td>
 		<td>Maker Id </td>
-		<td><a href="https://twitter.com/OriconRe">OriconRe</a></td>
+		<td><a target="_blank" href="https://twitter.com/OriconRe">OriconRe</a></td>
 		<td>Indonesia</td>
 		<td>10</td>
 		<td>10</td>
@@ -11305,7 +11306,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Redcodex
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/redcodex_x">redcodex_x</a></td>
+		<td><a target="_blank" href="https://twitter.com/redcodex_x">redcodex_x</a></td>
 		<td>Indonesia</td>
 		<td>10</td>
 		<td>10</td>
@@ -11319,7 +11320,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			anonimzero87
 		</td>
 		<td>Acid </td>
-		<td><a href="https://twitter.com/Ceritasejar4h">Ceritasejar4h</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ceritasejar4h">Ceritasejar4h</a></td>
 		<td>Indonesia </td>
 		<td>10</td>
 		<td>10</td>
@@ -11347,7 +11348,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			M Ramdhan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/n0psledbyte">n0psledbyte</a></td>
+		<td><a target="_blank" href="https://twitter.com/n0psledbyte">n0psledbyte</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>7</td>
 		<td>9</td>
@@ -11361,7 +11362,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			H3rgun
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/HerryGu31307441">HerryGu31307441</a></td>
+		<td><a target="_blank" href="https://twitter.com/HerryGu31307441">HerryGu31307441</a></td>
 		<td>Bandung</td>
 		<td>9</td>
 		<td>9</td>
@@ -11375,7 +11376,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Bryan Ruhulessin
 		</td>
 		<td>Indonesia </td>
-		<td><a href="https://twitter.com/brayen_r28">brayen_r28</a></td>
+		<td><a target="_blank" href="https://twitter.com/brayen_r28">brayen_r28</a></td>
 		<td>Indonesia</td>
 		<td>9</td>
 		<td>9</td>
@@ -11403,7 +11404,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			circleous
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/circleous">circleous</a></td>
+		<td><a target="_blank" href="https://twitter.com/circleous">circleous</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>9</td>
 		<td>9</td>
@@ -11459,7 +11460,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Akhmat Safrudin
 		</td>
 		<td>Artikulpi </td>
-		<td><a href="https://twitter.com/somatomat">somatomat</a></td>
+		<td><a target="_blank" href="https://twitter.com/somatomat">somatomat</a></td>
 		<td>Indonesia</td>
 		<td>8</td>
 		<td>8</td>
@@ -11487,7 +11488,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Zusyaku
 		</td>
 		<td>Pt Mencari Cinta Sejati<br/></td>
-		<td><a href="https://twitter.com/ZudhiSyakuri">ZudhiSyakuri</a></td>
+		<td><a target="_blank" href="https://twitter.com/ZudhiSyakuri">ZudhiSyakuri</a></td>
 		<td>Indonesia</td>
 		<td>4</td>
 		<td>7</td>
@@ -11585,7 +11586,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			RLadies Jakarta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rladiesjakarta">rladiesjakarta</a></td>
+		<td><a target="_blank" href="https://twitter.com/rladiesjakarta">rladiesjakarta</a></td>
 		<td>Jakarta</td>
 		<td>7</td>
 		<td>7</td>
@@ -11599,7 +11600,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Jihadul Akbar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jihadul4kbar">jihadul4kbar</a></td>
+		<td><a target="_blank" href="https://twitter.com/jihadul4kbar">jihadul4kbar</a></td>
 		<td>Indonesia  Lombok</td>
 		<td>7</td>
 		<td>7</td>
@@ -11641,7 +11642,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fadli Maulana
 		</td>
 		<td>Gdp Labs </td>
-		<td><a href="https://twitter.com/cacadosman">cacadosman</a></td>
+		<td><a target="_blank" href="https://twitter.com/cacadosman">cacadosman</a></td>
 		<td>Indonesia</td>
 		<td>5</td>
 		<td>6</td>
@@ -11655,7 +11656,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			headxeol
 		</td>
 		<td>Bcgang </td>
-		<td><a href="https://twitter.com/haedysol">haedysol</a></td>
+		<td><a target="_blank" href="https://twitter.com/haedysol">haedysol</a></td>
 		<td>Indonesia</td>
 		<td>6</td>
 		<td>6</td>
@@ -11669,7 +11670,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Iskandar Soesman
 		</td>
 		<td>@awanio </td>
-		<td><a href="https://twitter.com/ikandars">ikandars</a></td>
+		<td><a target="_blank" href="https://twitter.com/ikandars">ikandars</a></td>
 		<td>Jakarta</td>
 		<td>6</td>
 		<td>6</td>
@@ -11683,7 +11684,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			MNoermoehammad
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MNoermoehammad">MNoermoehammad</a></td>
+		<td><a target="_blank" href="https://twitter.com/MNoermoehammad">MNoermoehammad</a></td>
 		<td>Indonesia</td>
 		<td>6</td>
 		<td>6</td>
@@ -11725,7 +11726,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			aceman867
 		</td>
 		<td>Boomersinc </td>
-		<td><a href="https://twitter.com/acemandroid">acemandroid</a></td>
+		<td><a target="_blank" href="https://twitter.com/acemandroid">acemandroid</a></td>
 		<td>Indonesia</td>
 		<td>6</td>
 		<td>6</td>
@@ -11739,7 +11740,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ampersanda
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ampersanda">ampersanda</a></td>
+		<td><a target="_blank" href="https://twitter.com/ampersanda">ampersanda</a></td>
 		<td>Surabaya</td>
 		<td>6</td>
 		<td>6</td>
@@ -11767,7 +11768,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hendy Irawan
 		</td>
 		<td>@pptik @lskk @bippo @soluvas<br/></td>
-		<td><a href="https://twitter.com/hendyirawan">hendyirawan</a></td>
+		<td><a target="_blank" href="https://twitter.com/hendyirawan">hendyirawan</a></td>
 		<td>Bandung Indonesia</td>
 		<td>5</td>
 		<td>5</td>
@@ -11781,7 +11782,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Muhammad Yuga N
 		</td>
 		<td>Practical Devsecops </td>
-		<td><a href="https://twitter.com/jerukitumanis">jerukitumanis</a></td>
+		<td><a target="_blank" href="https://twitter.com/jerukitumanis">jerukitumanis</a></td>
 		<td>Indonesia</td>
 		<td>5</td>
 		<td>5</td>
@@ -11809,7 +11810,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Alif Rachmawadi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/subosito">subosito</a></td>
+		<td><a target="_blank" href="https://twitter.com/subosito">subosito</a></td>
 		<td>Indonesia</td>
 		<td>5</td>
 		<td>5</td>
@@ -11893,7 +11894,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			4WSec
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/4wsec_">4wsec_</a></td>
+		<td><a target="_blank" href="https://twitter.com/4wsec_">4wsec_</a></td>
 		<td>Indonesia</td>
 		<td>4</td>
 		<td>4</td>
@@ -11907,7 +11908,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Yudi Purwanto
 		</td>
 		<td>@timexstudio  </td>
-		<td><a href="https://twitter.com/str4whatt">str4whatt</a></td>
+		<td><a target="_blank" href="https://twitter.com/str4whatt">str4whatt</a></td>
 		<td> Kediri  Jakarta </td>
 		<td>4</td>
 		<td>4</td>
@@ -12019,7 +12020,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Ahmad Andi Rahmadi
 		</td>
 		<td>Freelancer  Student </td>
-		<td><a href="https://twitter.com/assesddef">assesddef</a></td>
+		<td><a target="_blank" href="https://twitter.com/assesddef">assesddef</a></td>
 		<td>Palembang Sumatera Selatan</td>
 		<td>4</td>
 		<td>4</td>
@@ -12033,7 +12034,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Senayan Library Management System SLiMS
 		</td>
 		<td>Senayan Developers Community </td>
-		<td><a href="https://twitter.com/slims_official">slims_official</a></td>
+		<td><a target="_blank" href="https://twitter.com/slims_official">slims_official</a></td>
 		<td>Jakarta</td>
 		<td>3</td>
 		<td>3</td>
@@ -12089,7 +12090,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Fuji Pebri
 		</td>
 		<td>Perum Peruri </td>
-		<td><a href="https://twitter.com/pebri86">pebri86</a></td>
+		<td><a target="_blank" href="https://twitter.com/pebri86">pebri86</a></td>
 		<td>Karawang Indonesia ID</td>
 		<td>1</td>
 		<td>3</td>
@@ -12117,7 +12118,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			MRaihanRamzy
 		</td>
 		<td>Open University </td>
-		<td><a href="https://twitter.com/Rhandsome123">Rhandsome123</a></td>
+		<td><a target="_blank" href="https://twitter.com/Rhandsome123">Rhandsome123</a></td>
 		<td>Bandung</td>
 		<td>3</td>
 		<td>3</td>
@@ -12187,7 +12188,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Nur Rohman
 		</td>
 		<td>Chief Product Officer Dicoding<br/>Indonesia<br/></td>
-		<td><a href="https://twitter.com/nrohmen">nrohmen</a></td>
+		<td><a target="_blank" href="https://twitter.com/nrohmen">nrohmen</a></td>
 		<td>Bandung Indonesia</td>
 		<td>0</td>
 		<td>2</td>
@@ -12271,7 +12272,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Malik baskara
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Thisisbaskara">Thisisbaskara</a></td>
+		<td><a target="_blank" href="https://twitter.com/Thisisbaskara">Thisisbaskara</a></td>
 		<td>JakartaIndonesia</td>
 		<td>2</td>
 		<td>2</td>
@@ -12285,7 +12286,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Eka kartika
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/CeceSumanto">CeceSumanto</a></td>
+		<td><a target="_blank" href="https://twitter.com/CeceSumanto">CeceSumanto</a></td>
 		<td>Indonesia</td>
 		<td>2</td>
 		<td>2</td>
@@ -12327,7 +12328,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Elvina Firmansyah
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/elvina_one">elvina_one</a></td>
+		<td><a target="_blank" href="https://twitter.com/elvina_one">elvina_one</a></td>
 		<td>Palembang Indonesia</td>
 		<td>2</td>
 		<td>2</td>
@@ -12355,7 +12356,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			MikeCodeur
 		</td>
 		<td>Wwwmikecodeurcom </td>
-		<td><a href="https://twitter.com/MikeCodeur">MikeCodeur</a></td>
+		<td><a target="_blank" href="https://twitter.com/MikeCodeur">MikeCodeur</a></td>
 		<td>Bali Canggu Indonesia</td>
 		<td>1</td>
 		<td>1</td>
@@ -12425,7 +12426,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Hasanudin H Syafaat
 		</td>
 		<td>Kamar </td>
-		<td><a href="https://twitter.com/hasanudinhs">hasanudinhs</a></td>
+		<td><a target="_blank" href="https://twitter.com/hasanudinhs">hasanudinhs</a></td>
 		<td>Depok</td>
 		<td>1</td>
 		<td>1</td>
@@ -12453,7 +12454,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Panggi Libersa Jasri Akadol
 		</td>
 		<td>@sqesmma </td>
-		<td><a href="https://twitter.com/panggi">panggi</a></td>
+		<td><a target="_blank" href="https://twitter.com/panggi">panggi</a></td>
 		<td>Jakarta Indonesia</td>
 		<td>0</td>
 		<td>1</td>
@@ -12495,7 +12496,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			Rafly
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RaflyArafat">RaflyArafat</a></td>
+		<td><a target="_blank" href="https://twitter.com/RaflyArafat">RaflyArafat</a></td>
 		<td>Indonesia</td>
 		<td>1</td>
 		<td>1</td>
@@ -12531,7 +12532,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Indonesia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/indonesia.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Indonesia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/indonesia.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -12583,6 +12584,7 @@ There are `978 users`  in Indonesia. You need at least `75 followers` to be on t
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)

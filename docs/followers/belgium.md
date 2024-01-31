@@ -1,9 +1,10 @@
 ---
-title: Belgium 
-description: Top GitHub Users By Followers in Belgium 
+title: Belgium
+description: Top GitHub Users By Followers in Belgium
 ---
 
 # Top GitHub Users By Followers in Belgium [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
@@ -14,7 +15,7 @@ The `number of followers` of users in Belgium on `2024/1/31 2:02 PM UTC`. This l
 
 There are `28 countries` and `193 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `970 users`  in Belgium. You need at least `38 followers` to be on this list.
+There are `970 users` in Belgium. You need at least `38 followers` to be on this list.
 
 <table>
 	<tr>
@@ -53,7 +54,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Belgium&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/belgium.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Belgium&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/belgium.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -118,7 +119,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dries Vints
 		</td>
 		<td>@laravel  </td>
-		<td><a href="https://twitter.com/driesvints">driesvints</a></td>
+		<td><a target="_blank" href="https://twitter.com/driesvints">driesvints</a></td>
 		<td>Belgium</td>
 		<td>4781</td>
 	</tr>
@@ -131,7 +132,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Freek Van der Herten
 		</td>
 		<td>@spatie </td>
-		<td><a href="https://twitter.com/freekmurze">freekmurze</a></td>
+		<td><a target="_blank" href="https://twitter.com/freekmurze">freekmurze</a></td>
 		<td>Antwerp Belgium</td>
 		<td>4699</td>
 	</tr>
@@ -144,7 +145,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Folke Lemaitre
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/folke">folke</a></td>
+		<td><a target="_blank" href="https://twitter.com/folke">folke</a></td>
 		<td>Ghent Belgium</td>
 		<td>4182</td>
 	</tr>
@@ -170,7 +171,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Anthony De Meulemeester
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anthdm">anthdm</a></td>
+		<td><a target="_blank" href="https://twitter.com/anthdm">anthdm</a></td>
 		<td>Belgium</td>
 		<td>2773</td>
 	</tr>
@@ -183,7 +184,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kevin Dockx
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/KevinDockx">KevinDockx</a></td>
+		<td><a target="_blank" href="https://twitter.com/KevinDockx">KevinDockx</a></td>
 		<td>Belgium</td>
 		<td>2624</td>
 	</tr>
@@ -196,7 +197,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stphane Nicoll
 		</td>
 		<td>Vmware By Broadcom </td>
-		<td><a href="https://twitter.com/snicoll">snicoll</a></td>
+		<td><a target="_blank" href="https://twitter.com/snicoll">snicoll</a></td>
 		<td>Lige Belgium</td>
 		<td>2046</td>
 	</tr>
@@ -209,7 +210,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>Huggingface </td>
-		<td><a href="https://twitter.com/NielsRogge">NielsRogge</a></td>
+		<td><a target="_blank" href="https://twitter.com/NielsRogge">NielsRogge</a></td>
 		<td>Belgium</td>
 		<td>1936</td>
 	</tr>
@@ -222,7 +223,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jens Segers
 		</td>
 		<td>@otainsight </td>
-		<td><a href="https://twitter.com/jenssegers">jenssegers</a></td>
+		<td><a target="_blank" href="https://twitter.com/jenssegers">jenssegers</a></td>
 		<td>Ghent Belgium</td>
 		<td>1712</td>
 	</tr>
@@ -248,7 +249,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Benjamin De Cock
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bdc">bdc</a></td>
+		<td><a target="_blank" href="https://twitter.com/bdc">bdc</a></td>
 		<td>Belgium</td>
 		<td>1594</td>
 	</tr>
@@ -261,7 +262,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Corentin Jemine
 		</td>
 		<td>@resembleai  </td>
-		<td><a href="https://twitter.com/CorentinJemine">CorentinJemine</a></td>
+		<td><a target="_blank" href="https://twitter.com/CorentinJemine">CorentinJemine</a></td>
 		<td>Belgium</td>
 		<td>1589</td>
 	</tr>
@@ -274,7 +275,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Robin Malfait
 		</td>
 		<td>@tailwindlabs </td>
-		<td><a href="https://twitter.com/malfaitrobin">malfaitrobin</a></td>
+		<td><a target="_blank" href="https://twitter.com/malfaitrobin">malfaitrobin</a></td>
 		<td>Ghent Belgium</td>
 		<td>1474</td>
 	</tr>
@@ -287,7 +288,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Yenthe Van Ginneken
 		</td>
 		<td>Mainframe Monkey </td>
-		<td><a href="https://twitter.com/Yenthe666">Yenthe666</a></td>
+		<td><a target="_blank" href="https://twitter.com/Yenthe666">Yenthe666</a></td>
 		<td>Belgium</td>
 		<td>1451</td>
 	</tr>
@@ -300,7 +301,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fons van der Plas
 		</td>
 		<td>Mit </td>
-		<td><a href="https://twitter.com/PlutoJL">PlutoJL</a></td>
+		<td><a target="_blank" href="https://twitter.com/PlutoJL">PlutoJL</a></td>
 		<td>Gent Belgium</td>
 		<td>1425</td>
 	</tr>
@@ -339,7 +340,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Aria Radmehr
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jestemAriaa">jestemAriaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/jestemAriaa">jestemAriaa</a></td>
 		<td>Brussels</td>
 		<td>1143</td>
 	</tr>
@@ -352,7 +353,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gilles Louppe
 		</td>
 		<td>Ulige </td>
-		<td><a href="https://twitter.com/glouppe">glouppe</a></td>
+		<td><a target="_blank" href="https://twitter.com/glouppe">glouppe</a></td>
 		<td>Belgium</td>
 		<td>1109</td>
 	</tr>
@@ -365,7 +366,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Arthur Verschaeve
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/arthur_versch">arthur_versch</a></td>
+		<td><a target="_blank" href="https://twitter.com/arthur_versch">arthur_versch</a></td>
 		<td>Belgium</td>
 		<td>1062</td>
 	</tr>
@@ -443,7 +444,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Mols
 		</td>
 		<td>Jeroen Mols  Android<br/>Developer<br/>At<br/>Plaid<br/></td>
-		<td><a href="https://twitter.com/molsjeroen">molsjeroen</a></td>
+		<td><a target="_blank" href="https://twitter.com/molsjeroen">molsjeroen</a></td>
 		<td>Belgium</td>
 		<td>848</td>
 	</tr>
@@ -456,7 +457,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jonathan Slenders
 		</td>
 		<td>Cisco </td>
-		<td><a href="https://twitter.com/jonathan_s">jonathan_s</a></td>
+		<td><a target="_blank" href="https://twitter.com/jonathan_s">jonathan_s</a></td>
 		<td>Belgium</td>
 		<td>766</td>
 	</tr>
@@ -469,7 +470,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Michal De Boey
 		</td>
 		<td>@lopai </td>
-		<td><a href="https://twitter.com/MichaelDeBoey93">MichaelDeBoey93</a></td>
+		<td><a target="_blank" href="https://twitter.com/MichaelDeBoey93">MichaelDeBoey93</a></td>
 		<td>SintNiklaas Belgium</td>
 		<td>747</td>
 	</tr>
@@ -482,7 +483,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maarten Balliauw
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/maartenballiauw">maartenballiauw</a></td>
+		<td><a target="_blank" href="https://twitter.com/maartenballiauw">maartenballiauw</a></td>
 		<td>Antwerp Belgium</td>
 		<td>743</td>
 	</tr>
@@ -495,7 +496,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sam Verschueren
 		</td>
 		<td>@stackblitz  </td>
-		<td><a href="https://twitter.com/SamVerschueren">SamVerschueren</a></td>
+		<td><a target="_blank" href="https://twitter.com/SamVerschueren">SamVerschueren</a></td>
 		<td>Bruges</td>
 		<td>705</td>
 	</tr>
@@ -508,7 +509,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jiao Xianjun
 		</td>
 		<td>Imec </td>
-		<td><a href="https://twitter.com/jxjputaoshu">jxjputaoshu</a></td>
+		<td><a target="_blank" href="https://twitter.com/jxjputaoshu">jxjputaoshu</a></td>
 		<td>Gent Belgium</td>
 		<td>690</td>
 	</tr>
@@ -521,7 +522,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Mathias Verraes
 		</td>
 		<td>Aardling </td>
-		<td><a href="https://twitter.com/mathiasverraes">mathiasverraes</a></td>
+		<td><a target="_blank" href="https://twitter.com/mathiasverraes">mathiasverraes</a></td>
 		<td>Belgium</td>
 		<td>670</td>
 	</tr>
@@ -534,7 +535,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Peter Van Eeckhoutte
 		</td>
 		<td>Corelan Consulting Bv </td>
-		<td><a href="https://twitter.com/corelanc0d3r">corelanc0d3r</a></td>
+		<td><a target="_blank" href="https://twitter.com/corelanc0d3r">corelanc0d3r</a></td>
 		<td>Belgium</td>
 		<td>633</td>
 	</tr>
@@ -547,7 +548,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim Deschryver
 		</td>
 		<td>@dotnetacademy  </td>
-		<td><a href="https://twitter.com/tim_deschryver">tim_deschryver</a></td>
+		<td><a target="_blank" href="https://twitter.com/tim_deschryver">tim_deschryver</a></td>
 		<td>Belgium</td>
 		<td>631</td>
 	</tr>
@@ -560,7 +561,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fabien Pinckaers
 		</td>
 		<td>Odoo Sa </td>
-		<td><a href="https://twitter.com/fpodoo">fpodoo</a></td>
+		<td><a target="_blank" href="https://twitter.com/fpodoo">fpodoo</a></td>
 		<td>GrandRosire Belgium</td>
 		<td>619</td>
 	</tr>
@@ -573,7 +574,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			HoLLy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/HoLLy_HaCKeR_">HoLLy_HaCKeR_</a></td>
+		<td><a target="_blank" href="https://twitter.com/HoLLy_HaCKeR_">HoLLy_HaCKeR_</a></td>
 		<td>Belgium</td>
 		<td>613</td>
 	</tr>
@@ -599,7 +600,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tom Kerkhove
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/TomKerkhove">TomKerkhove</a></td>
+		<td><a target="_blank" href="https://twitter.com/TomKerkhove">TomKerkhove</a></td>
 		<td>Belgium</td>
 		<td>601</td>
 	</tr>
@@ -612,7 +613,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jovi De Croock
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JoviDec">JoviDec</a></td>
+		<td><a target="_blank" href="https://twitter.com/JoviDec">JoviDec</a></td>
 		<td>Belgium</td>
 		<td>589</td>
 	</tr>
@@ -625,7 +626,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bramus
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/bramus">bramus</a></td>
+		<td><a target="_blank" href="https://twitter.com/bramus">bramus</a></td>
 		<td>Belgium</td>
 		<td>579</td>
 	</tr>
@@ -638,7 +639,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Andrew Radev
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AndrewRadev">AndrewRadev</a></td>
+		<td><a target="_blank" href="https://twitter.com/AndrewRadev">AndrewRadev</a></td>
 		<td>Leuven Belgium</td>
 		<td>565</td>
 	</tr>
@@ -664,7 +665,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Xavier Decuyper
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Savjee">Savjee</a></td>
+		<td><a target="_blank" href="https://twitter.com/Savjee">Savjee</a></td>
 		<td>Belgium</td>
 		<td>554</td>
 	</tr>
@@ -703,7 +704,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Martijn Cuppens
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Martijn_Cuppens">Martijn_Cuppens</a></td>
+		<td><a target="_blank" href="https://twitter.com/Martijn_Cuppens">Martijn_Cuppens</a></td>
 		<td>Belgium</td>
 		<td>519</td>
 	</tr>
@@ -716,7 +717,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Patrick Debois
 		</td>
 		<td>Jedi Bv </td>
-		<td><a href="https://twitter.com/patrickdebois">patrickdebois</a></td>
+		<td><a target="_blank" href="https://twitter.com/patrickdebois">patrickdebois</a></td>
 		<td>Belgium</td>
 		<td>512</td>
 	</tr>
@@ -755,7 +756,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Vojtech Novak
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vonovak">vonovak</a></td>
+		<td><a target="_blank" href="https://twitter.com/vonovak">vonovak</a></td>
 		<td>Brussels Belgium</td>
 		<td>506</td>
 	</tr>
@@ -768,7 +769,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Alex Vanderbist
 		</td>
 		<td>@spatie  </td>
-		<td><a href="https://twitter.com/alex_">alex_</a></td>
+		<td><a target="_blank" href="https://twitter.com/alex_">alex_</a></td>
 		<td>Antwerp Belgium</td>
 		<td>498</td>
 	</tr>
@@ -807,7 +808,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Philippe Teuwen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/doegox">doegox</a></td>
+		<td><a target="_blank" href="https://twitter.com/doegox">doegox</a></td>
 		<td>Brussels</td>
 		<td>484</td>
 	</tr>
@@ -820,7 +821,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Lynn
 		</td>
 		<td>@securedna </td>
-		<td><a href="https://twitter.com/chordbug">chordbug</a></td>
+		<td><a target="_blank" href="https://twitter.com/chordbug">chordbug</a></td>
 		<td>Antwerp Belgium</td>
 		<td>461</td>
 	</tr>
@@ -833,7 +834,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Yorik van Havre
 		</td>
 		<td>@uncreatednet @openingdesign @freecad <br/></td>
-		<td><a href="https://twitter.com/yorikvanhavre">yorikvanhavre</a></td>
+		<td><a target="_blank" href="https://twitter.com/yorikvanhavre">yorikvanhavre</a></td>
 		<td>Brussels Belgium</td>
 		<td>458</td>
 	</tr>
@@ -846,7 +847,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Arne Brasseur
 		</td>
 		<td>@lambdaisland   @gaiwanteam<br/></td>
-		<td><a href="https://twitter.com/plexus">plexus</a></td>
+		<td><a target="_blank" href="https://twitter.com/plexus">plexus</a></td>
 		<td>Belgium</td>
 		<td>455</td>
 	</tr>
@@ -859,7 +860,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Geoffrey De Smet
 		</td>
 		<td>Timefold </td>
-		<td><a href="https://twitter.com/GeoffreyDeSmet">GeoffreyDeSmet</a></td>
+		<td><a target="_blank" href="https://twitter.com/GeoffreyDeSmet">GeoffreyDeSmet</a></td>
 		<td>Gent Belgium</td>
 		<td>452</td>
 	</tr>
@@ -898,7 +899,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Xavier Mertens
 		</td>
 		<td>Xameco </td>
-		<td><a href="https://twitter.com/xme">xme</a></td>
+		<td><a target="_blank" href="https://twitter.com/xme">xme</a></td>
 		<td>Belgium</td>
 		<td>414</td>
 	</tr>
@@ -911,7 +912,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Elio Struyf
 		</td>
 		<td>Struyf Consulting </td>
-		<td><a href="https://twitter.com/eliostruyf">eliostruyf</a></td>
+		<td><a target="_blank" href="https://twitter.com/eliostruyf">eliostruyf</a></td>
 		<td>Antwerp</td>
 		<td>409</td>
 	</tr>
@@ -937,7 +938,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dimitri
 		</td>
 		<td>@optis </td>
-		<td><a href="https://twitter.com/g00glen00b">g00glen00b</a></td>
+		<td><a target="_blank" href="https://twitter.com/g00glen00b">g00glen00b</a></td>
 		<td>import Antwerp from BE</td>
 		<td>400</td>
 	</tr>
@@ -950,7 +951,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Cecile Tonglet
 		</td>
 		<td>@rustminded </td>
-		<td><a href="https://twitter.com/CecileTonglet">CecileTonglet</a></td>
+		<td><a target="_blank" href="https://twitter.com/CecileTonglet">CecileTonglet</a></td>
 		<td>Belgium</td>
 		<td>397</td>
 	</tr>
@@ -963,7 +964,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			waldo
 		</td>
 		<td>Dynex Bv </td>
-		<td><a href="https://twitter.com/waldo1001">waldo1001</a></td>
+		<td><a target="_blank" href="https://twitter.com/waldo1001">waldo1001</a></td>
 		<td>Belgium</td>
 		<td>397</td>
 	</tr>
@@ -1002,7 +1003,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Amine Smahi
 		</td>
 		<td>@oritek @openminds @jetlightstudio <br/></td>
-		<td><a href="https://twitter.com/amine_smahi_dev">amine_smahi_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/amine_smahi_dev">amine_smahi_dev</a></td>
 		<td>Brussels Belgi</td>
 		<td>373</td>
 	</tr>
@@ -1028,7 +1029,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jasper De Moor
 		</td>
 		<td>Blazinglyio </td>
-		<td><a href="https://twitter.com/JasperDeMoor">JasperDeMoor</a></td>
+		<td><a target="_blank" href="https://twitter.com/JasperDeMoor">JasperDeMoor</a></td>
 		<td>Belgium</td>
 		<td>364</td>
 	</tr>
@@ -1041,7 +1042,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Francesco Poldi
 		</td>
 		<td>@none </td>
-		<td><a href="https://twitter.com/noneprivacy">noneprivacy</a></td>
+		<td><a target="_blank" href="https://twitter.com/noneprivacy">noneprivacy</a></td>
 		<td>Brussels</td>
 		<td>358</td>
 	</tr>
@@ -1054,7 +1055,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Baert
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jbaert">jbaert</a></td>
+		<td><a target="_blank" href="https://twitter.com/jbaert">jbaert</a></td>
 		<td>Belgium</td>
 		<td>358</td>
 	</tr>
@@ -1093,7 +1094,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wouter Van Gansbeke
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/WGansbeke">WGansbeke</a></td>
+		<td><a target="_blank" href="https://twitter.com/WGansbeke">WGansbeke</a></td>
 		<td>Belgium Leuven</td>
 		<td>339</td>
 	</tr>
@@ -1119,7 +1120,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Rias
 		</td>
 		<td>@spatie </td>
-		<td><a href="https://twitter.com/riasvdv">riasvdv</a></td>
+		<td><a target="_blank" href="https://twitter.com/riasvdv">riasvdv</a></td>
 		<td>Antwerp</td>
 		<td>330</td>
 	</tr>
@@ -1132,7 +1133,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Simon Vergauwen
 		</td>
 		<td>@47deg </td>
-		<td><a href="https://twitter.com/vergauwen_simon">vergauwen_simon</a></td>
+		<td><a target="_blank" href="https://twitter.com/vergauwen_simon">vergauwen_simon</a></td>
 		<td>Belgium</td>
 		<td>330</td>
 	</tr>
@@ -1158,7 +1159,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wouter De Coster
 		</td>
 		<td>Vibuantwerp </td>
-		<td><a href="https://twitter.com/wouter_decoster">wouter_decoster</a></td>
+		<td><a target="_blank" href="https://twitter.com/wouter_decoster">wouter_decoster</a></td>
 		<td>Antwerp Belgium</td>
 		<td>329</td>
 	</tr>
@@ -1197,7 +1198,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Arno Di Nunzio
 		</td>
 		<td>Aqro </td>
-		<td><a href="https://twitter.com/aqro">aqro</a></td>
+		<td><a target="_blank" href="https://twitter.com/aqro">aqro</a></td>
 		<td>Belgium</td>
 		<td>311</td>
 	</tr>
@@ -1210,7 +1211,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Andrew SASSOYE
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_asassoye">_asassoye</a></td>
+		<td><a target="_blank" href="https://twitter.com/_asassoye">_asassoye</a></td>
 		<td>Belgium</td>
 		<td>305</td>
 	</tr>
@@ -1236,7 +1237,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			milien perso
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/unixf0x">unixf0x</a></td>
+		<td><a target="_blank" href="https://twitter.com/unixf0x">unixf0x</a></td>
 		<td>AuvergneRhneAlpes France  Wallonia Belgium</td>
 		<td>299</td>
 	</tr>
@@ -1249,7 +1250,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ward Peeters
 		</td>
 		<td>Codingtech </td>
-		<td><a href="https://twitter.com/wardpeet">wardpeet</a></td>
+		<td><a target="_blank" href="https://twitter.com/wardpeet">wardpeet</a></td>
 		<td>Belgium  Antwerp  Lier  Hulshout</td>
 		<td>299</td>
 	</tr>
@@ -1301,7 +1302,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			PierreAntoine Delnatte
 		</td>
 		<td>Mango3dio </td>
-		<td><a href="https://twitter.com/leny_be">leny_be</a></td>
+		<td><a target="_blank" href="https://twitter.com/leny_be">leny_be</a></td>
 		<td>Lige Belgium</td>
 		<td>289</td>
 	</tr>
@@ -1314,7 +1315,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Andy Petrella
 		</td>
 		<td>Kensu </td>
-		<td><a href="https://twitter.com/noootsab">noootsab</a></td>
+		<td><a target="_blank" href="https://twitter.com/noootsab">noootsab</a></td>
 		<td>Lige Belgium</td>
 		<td>288</td>
 	</tr>
@@ -1366,7 +1367,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Diederik Krols
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/diederikkrols">diederikkrols</a></td>
+		<td><a target="_blank" href="https://twitter.com/diederikkrols">diederikkrols</a></td>
 		<td>Belgium</td>
 		<td>279</td>
 	</tr>
@@ -1379,7 +1380,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Digimezzo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/digimezzo">digimezzo</a></td>
+		<td><a target="_blank" href="https://twitter.com/digimezzo">digimezzo</a></td>
 		<td>Belgium</td>
 		<td>277</td>
 	</tr>
@@ -1392,7 +1393,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stphane Bidoul
 		</td>
 		<td>@acsone </td>
-		<td><a href="https://twitter.com/sbidoul">sbidoul</a></td>
+		<td><a target="_blank" href="https://twitter.com/sbidoul">sbidoul</a></td>
 		<td>Belgium</td>
 		<td>275</td>
 	</tr>
@@ -1405,7 +1406,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Pieter Robberechts
 		</td>
 		<td>@mlkuleuven </td>
-		<td><a href="https://twitter.com/p_robberechts">p_robberechts</a></td>
+		<td><a target="_blank" href="https://twitter.com/p_robberechts">p_robberechts</a></td>
 		<td>Leuven Belgium</td>
 		<td>267</td>
 	</tr>
@@ -1418,7 +1419,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/honoki">honoki</a></td>
+		<td><a target="_blank" href="https://twitter.com/honoki">honoki</a></td>
 		<td>Brussels</td>
 		<td>267</td>
 	</tr>
@@ -1431,7 +1432,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fegoffinet">fegoffinet</a></td>
+		<td><a target="_blank" href="https://twitter.com/fegoffinet">fegoffinet</a></td>
 		<td>Brussels</td>
 		<td>266</td>
 	</tr>
@@ -1444,7 +1445,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ruben Taelman
 		</td>
 		<td>Idlab  Ghent University<br/><br/>Imec<br/></td>
-		<td><a href="https://twitter.com/rubensworks">rubensworks</a></td>
+		<td><a target="_blank" href="https://twitter.com/rubensworks">rubensworks</a></td>
 		<td>Ghent Belgium</td>
 		<td>263</td>
 	</tr>
@@ -1457,7 +1458,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fabrice Niessen
 		</td>
 		<td>Pirilampo Bvba </td>
-		<td><a href="https://twitter.com/f_niessen">f_niessen</a></td>
+		<td><a target="_blank" href="https://twitter.com/f_niessen">f_niessen</a></td>
 		<td>Leuven Belgium</td>
 		<td>262</td>
 	</tr>
@@ -1470,7 +1471,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			M van Dam
 		</td>
 		<td>@in2it  </td>
-		<td><a href="https://twitter.com/DragonBe">DragonBe</a></td>
+		<td><a target="_blank" href="https://twitter.com/DragonBe">DragonBe</a></td>
 		<td>Belgium</td>
 		<td>261</td>
 	</tr>
@@ -1483,7 +1484,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ruben Van Assche
 		</td>
 		<td>Spatie </td>
-		<td><a href="https://twitter.com/rubenvanassche">rubenvanassche</a></td>
+		<td><a target="_blank" href="https://twitter.com/rubenvanassche">rubenvanassche</a></td>
 		<td>Antwerp</td>
 		<td>259</td>
 	</tr>
@@ -1509,7 +1510,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wim Leers
 		</td>
 		<td>Acquia </td>
-		<td><a href="https://twitter.com/wimleers">wimleers</a></td>
+		<td><a target="_blank" href="https://twitter.com/wimleers">wimleers</a></td>
 		<td>Belgium</td>
 		<td>255</td>
 	</tr>
@@ -1522,7 +1523,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Peter Roelants
 		</td>
 		<td>Aspect Analytics </td>
-		<td><a href="https://twitter.com/PeterRoelants">PeterRoelants</a></td>
+		<td><a target="_blank" href="https://twitter.com/PeterRoelants">PeterRoelants</a></td>
 		<td>Belgium</td>
 		<td>254</td>
 	</tr>
@@ -1561,7 +1562,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sleeyax
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Sleeyax">Sleeyax</a></td>
+		<td><a target="_blank" href="https://twitter.com/Sleeyax">Sleeyax</a></td>
 		<td>Belgium</td>
 		<td>250</td>
 	</tr>
@@ -1574,7 +1575,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fawaz Sammani
 		</td>
 		<td>Vrije Universiteit Brussel </td>
-		<td><a href="https://twitter.com/fawaz_sammani">fawaz_sammani</a></td>
+		<td><a target="_blank" href="https://twitter.com/fawaz_sammani">fawaz_sammani</a></td>
 		<td>Brussels Belgium</td>
 		<td>248</td>
 	</tr>
@@ -1587,7 +1588,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/PinkDraconian">PinkDraconian</a></td>
+		<td><a target="_blank" href="https://twitter.com/PinkDraconian">PinkDraconian</a></td>
 		<td>Belgium</td>
 		<td>247</td>
 	</tr>
@@ -1600,7 +1601,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim Van Damme
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/maxvoltar">maxvoltar</a></td>
+		<td><a target="_blank" href="https://twitter.com/maxvoltar">maxvoltar</a></td>
 		<td>Belgium</td>
 		<td>246</td>
 	</tr>
@@ -1613,7 +1614,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tom Deseyn
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/tomdeseyn">tomdeseyn</a></td>
+		<td><a target="_blank" href="https://twitter.com/tomdeseyn">tomdeseyn</a></td>
 		<td>Kortrijk Belgium</td>
 		<td>243</td>
 	</tr>
@@ -1639,7 +1640,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Plancke
 		</td>
 		<td>@hypixeldev  </td>
-		<td><a href="https://twitter.com/Plancke">Plancke</a></td>
+		<td><a target="_blank" href="https://twitter.com/Plancke">Plancke</a></td>
 		<td>Belgium</td>
 		<td>240</td>
 	</tr>
@@ -1665,7 +1666,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wim Deblauwe
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wimdeblauwe">wimdeblauwe</a></td>
+		<td><a target="_blank" href="https://twitter.com/wimdeblauwe">wimdeblauwe</a></td>
 		<td>Belgium</td>
 		<td>235</td>
 	</tr>
@@ -1704,7 +1705,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Casper Iversen
 		</td>
 		<td>@snailycad </td>
-		<td><a href="https://twitter.com/casper124578">casper124578</a></td>
+		<td><a target="_blank" href="https://twitter.com/casper124578">casper124578</a></td>
 		<td>Belgium</td>
 		<td>232</td>
 	</tr>
@@ -1717,7 +1718,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Antoine Fabri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/antoine_fabri">antoine_fabri</a></td>
+		<td><a target="_blank" href="https://twitter.com/antoine_fabri">antoine_fabri</a></td>
 		<td>Brussels</td>
 		<td>232</td>
 	</tr>
@@ -1769,7 +1770,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Elian
 		</td>
 		<td>@withastro </td>
-		<td><a href="https://twitter.com/ElianCodes">ElianCodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/ElianCodes">ElianCodes</a></td>
 		<td>Ghent Belgium</td>
 		<td>228</td>
 	</tr>
@@ -1782,7 +1783,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kris Buytaert
 		</td>
 		<td>@inuits   @o11ydev<br/><br/></td>
-		<td><a href="https://twitter.com/krisbuytaert">krisbuytaert</a></td>
+		<td><a target="_blank" href="https://twitter.com/krisbuytaert">krisbuytaert</a></td>
 		<td>Belgium</td>
 		<td>228</td>
 	</tr>
@@ -1834,7 +1835,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bert Jansen
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/O365Bert">O365Bert</a></td>
+		<td><a target="_blank" href="https://twitter.com/O365Bert">O365Bert</a></td>
 		<td>Belgium</td>
 		<td>223</td>
 	</tr>
@@ -1873,7 +1874,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			ignace nyamagana butera
 		</td>
 		<td>@bakamephp @thephpleague  </td>
-		<td><a href="https://twitter.com/nyamsprod">nyamsprod</a></td>
+		<td><a target="_blank" href="https://twitter.com/nyamsprod">nyamsprod</a></td>
 		<td>brussels</td>
 		<td>218</td>
 	</tr>
@@ -1899,7 +1900,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Francesco Pochetti
 		</td>
 		<td>Bolt </td>
-		<td><a href="https://twitter.com/Fra_Pochetti">Fra_Pochetti</a></td>
+		<td><a target="_blank" href="https://twitter.com/Fra_Pochetti">Fra_Pochetti</a></td>
 		<td>Belgium</td>
 		<td>217</td>
 	</tr>
@@ -1912,7 +1913,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Benoit Bovy
 		</td>
 		<td>Georode </td>
-		<td><a href="https://twitter.com/benbovy">benbovy</a></td>
+		<td><a target="_blank" href="https://twitter.com/benbovy">benbovy</a></td>
 		<td>Lige Belgium</td>
 		<td>212</td>
 	</tr>
@@ -1925,7 +1926,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Frdric Descamps
 		</td>
 		<td>Oracle </td>
-		<td><a href="https://twitter.com/lefred">lefred</a></td>
+		<td><a target="_blank" href="https://twitter.com/lefred">lefred</a></td>
 		<td>Belgium</td>
 		<td>212</td>
 	</tr>
@@ -1938,7 +1939,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Yves Reynhout
 		</td>
 		<td>Bittacklr Bv </td>
-		<td><a href="https://twitter.com/yreynhout">yreynhout</a></td>
+		<td><a target="_blank" href="https://twitter.com/yreynhout">yreynhout</a></td>
 		<td>Zuienkerke Belgium</td>
 		<td>211</td>
 	</tr>
@@ -1951,7 +1952,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kevin Chapelier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kchplr">kchplr</a></td>
+		<td><a target="_blank" href="https://twitter.com/kchplr">kchplr</a></td>
 		<td>Namur Belgium</td>
 		<td>207</td>
 	</tr>
@@ -1964,7 +1965,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jonas Bostoen
 		</td>
 		<td>Chainbound </td>
-		<td><a href="https://twitter.com/mempirate">mempirate</a></td>
+		<td><a target="_blank" href="https://twitter.com/mempirate">mempirate</a></td>
 		<td>Antwerp Belgium</td>
 		<td>204</td>
 	</tr>
@@ -1977,7 +1978,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Xander Steenbrugge
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/xsteenbrugge">xsteenbrugge</a></td>
+		<td><a target="_blank" href="https://twitter.com/xsteenbrugge">xsteenbrugge</a></td>
 		<td>Ghent Belgium</td>
 		<td>204</td>
 	</tr>
@@ -1990,7 +1991,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Matt Casters
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mattcasters">mattcasters</a></td>
+		<td><a target="_blank" href="https://twitter.com/mattcasters">mattcasters</a></td>
 		<td>Belgium</td>
 		<td>204</td>
 	</tr>
@@ -2042,7 +2043,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			norswap
 		</td>
 		<td>Op Labs </td>
-		<td><a href="https://twitter.com/norswap">norswap</a></td>
+		<td><a target="_blank" href="https://twitter.com/norswap">norswap</a></td>
 		<td>Belgium</td>
 		<td>199</td>
 	</tr>
@@ -2055,7 +2056,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Frederik De Bleser
 		</td>
 		<td>@nodebox  </td>
-		<td><a href="https://twitter.com/enigmeta">enigmeta</a></td>
+		<td><a target="_blank" href="https://twitter.com/enigmeta">enigmeta</a></td>
 		<td>Belgium</td>
 		<td>199</td>
 	</tr>
@@ -2068,7 +2069,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jelle Vermandere
 		</td>
 		<td>Jellever </td>
-		<td><a href="https://twitter.com/jellevermandere">jellevermandere</a></td>
+		<td><a target="_blank" href="https://twitter.com/jellevermandere">jellevermandere</a></td>
 		<td>Belgium</td>
 		<td>199</td>
 	</tr>
@@ -2120,7 +2121,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stephane Delcroix
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/s_delcroix">s_delcroix</a></td>
+		<td><a target="_blank" href="https://twitter.com/s_delcroix">s_delcroix</a></td>
 		<td>Belgium</td>
 		<td>197</td>
 	</tr>
@@ -2133,7 +2134,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ziad Beyens
 		</td>
 		<td>@udecode </td>
-		<td><a href="https://twitter.com/zbeyens">zbeyens</a></td>
+		<td><a target="_blank" href="https://twitter.com/zbeyens">zbeyens</a></td>
 		<td>Brussels</td>
 		<td>195</td>
 	</tr>
@@ -2172,7 +2173,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Johan Vos
 		</td>
 		<td>Gluon </td>
-		<td><a href="https://twitter.com/johanvos">johanvos</a></td>
+		<td><a target="_blank" href="https://twitter.com/johanvos">johanvos</a></td>
 		<td>Belgium</td>
 		<td>193</td>
 	</tr>
@@ -2185,7 +2186,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeremy Lain
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JeremyLaine">JeremyLaine</a></td>
+		<td><a target="_blank" href="https://twitter.com/JeremyLaine">JeremyLaine</a></td>
 		<td>Brussels</td>
 		<td>192</td>
 	</tr>
@@ -2211,7 +2212,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gijs Rog
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gijsroge">gijsroge</a></td>
+		<td><a target="_blank" href="https://twitter.com/gijsroge">gijsroge</a></td>
 		<td>Belgium</td>
 		<td>188</td>
 	</tr>
@@ -2263,7 +2264,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Vincent Cox
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vincentcox_be">vincentcox_be</a></td>
+		<td><a target="_blank" href="https://twitter.com/vincentcox_be">vincentcox_be</a></td>
 		<td>Belgium</td>
 		<td>184</td>
 	</tr>
@@ -2276,7 +2277,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Geert Jan Bex
 		</td>
 		<td>Hasselt University </td>
-		<td><a href="https://twitter.com/GeertBex">GeertBex</a></td>
+		<td><a target="_blank" href="https://twitter.com/GeertBex">GeertBex</a></td>
 		<td>Hasselt Belgium</td>
 		<td>183</td>
 	</tr>
@@ -2289,7 +2290,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kenneth Hoste
 		</td>
 		<td>@ugent  </td>
-		<td><a href="https://twitter.com/kehoste">kehoste</a></td>
+		<td><a target="_blank" href="https://twitter.com/kehoste">kehoste</a></td>
 		<td>Belgium</td>
 		<td>183</td>
 	</tr>
@@ -2302,7 +2303,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			JF
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Codingfield">Codingfield</a></td>
+		<td><a target="_blank" href="https://twitter.com/Codingfield">Codingfield</a></td>
 		<td>Belgium</td>
 		<td>183</td>
 	</tr>
@@ -2315,7 +2316,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dries C
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/driesboy2">driesboy2</a></td>
+		<td><a target="_blank" href="https://twitter.com/driesboy2">driesboy2</a></td>
 		<td>Belgium</td>
 		<td>179</td>
 	</tr>
@@ -2341,7 +2342,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ruben Vermeersch
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rubenv">rubenv</a></td>
+		<td><a target="_blank" href="https://twitter.com/rubenv">rubenv</a></td>
 		<td>Belgium</td>
 		<td>179</td>
 	</tr>
@@ -2380,7 +2381,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Johnny Hooyberghs
 		</td>
 		<td>Httpswwwinvolveditbe </td>
-		<td><a href="https://twitter.com/djohnnieke">djohnnieke</a></td>
+		<td><a target="_blank" href="https://twitter.com/djohnnieke">djohnnieke</a></td>
 		<td>Belgium</td>
 		<td>178</td>
 	</tr>
@@ -2393,7 +2394,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Alexis Paques
 		</td>
 		<td>The Kobi Company @thekobicompany<br/><br/></td>
-		<td><a href="https://twitter.com/AlexisPaques">AlexisPaques</a></td>
+		<td><a target="_blank" href="https://twitter.com/AlexisPaques">AlexisPaques</a></td>
 		<td>Brussels Belgium</td>
 		<td>177</td>
 	</tr>
@@ -2406,7 +2407,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nico Verbruggen
 		</td>
 		<td>Dive Bv </td>
-		<td><a href="https://twitter.com/nicoverbruggen">nicoverbruggen</a></td>
+		<td><a target="_blank" href="https://twitter.com/nicoverbruggen">nicoverbruggen</a></td>
 		<td>Belgium</td>
 		<td>176</td>
 	</tr>
@@ -2445,7 +2446,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stephan Sturges
 		</td>
 		<td>Abuzz Ai  Aircortex<br/></td>
-		<td><a href="https://twitter.com/stephansturges">stephansturges</a></td>
+		<td><a target="_blank" href="https://twitter.com/stephansturges">stephansturges</a></td>
 		<td>Belgium</td>
 		<td>175</td>
 	</tr>
@@ -2471,7 +2472,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thomas Coopman
 		</td>
 		<td>Infinite Tree </td>
-		<td><a href="https://twitter.com/tcoopman">tcoopman</a></td>
+		<td><a target="_blank" href="https://twitter.com/tcoopman">tcoopman</a></td>
 		<td>Belgium</td>
 		<td>173</td>
 	</tr>
@@ -2497,7 +2498,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Renato Cavalcanti
 		</td>
 		<td>Lightbend </td>
-		<td><a href="https://twitter.com/octonato">octonato</a></td>
+		<td><a target="_blank" href="https://twitter.com/octonato">octonato</a></td>
 		<td>Belgium</td>
 		<td>171</td>
 	</tr>
@@ -2510,7 +2511,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stphane Wirtel
 		</td>
 		<td>Mgxio </td>
-		<td><a href="https://twitter.com/matrixise">matrixise</a></td>
+		<td><a target="_blank" href="https://twitter.com/matrixise">matrixise</a></td>
 		<td>Belgium</td>
 		<td>171</td>
 	</tr>
@@ -2523,7 +2524,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jo Van Bulck
 		</td>
 		<td>Imecdistrinet Ku Leuven </td>
-		<td><a href="https://twitter.com/jovanbulck">jovanbulck</a></td>
+		<td><a target="_blank" href="https://twitter.com/jovanbulck">jovanbulck</a></td>
 		<td>Leuven Belgium</td>
 		<td>169</td>
 	</tr>
@@ -2536,7 +2537,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Floris Laporte
 		</td>
 		<td>Ghent University </td>
-		<td><a href="https://twitter.com/florislaporte">florislaporte</a></td>
+		<td><a target="_blank" href="https://twitter.com/florislaporte">florislaporte</a></td>
 		<td>Ghent Belgium</td>
 		<td>168</td>
 	</tr>
@@ -2562,7 +2563,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Antoine Soetewey
 		</td>
 		<td>Uclouvain </td>
-		<td><a href="https://twitter.com/statsandr">statsandr</a></td>
+		<td><a target="_blank" href="https://twitter.com/statsandr">statsandr</a></td>
 		<td>Belgium</td>
 		<td>167</td>
 	</tr>
@@ -2575,7 +2576,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ignace Maes
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Ignace_Maes">Ignace_Maes</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ignace_Maes">Ignace_Maes</a></td>
 		<td>Belgium</td>
 		<td>165</td>
 	</tr>
@@ -2588,7 +2589,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Adri Van Houdt
 		</td>
 		<td>@loctax </td>
-		<td><a href="https://twitter.com/AdriVanHoudt_">AdriVanHoudt_</a></td>
+		<td><a target="_blank" href="https://twitter.com/AdriVanHoudt_">AdriVanHoudt_</a></td>
 		<td>Belgium</td>
 		<td>162</td>
 	</tr>
@@ -2653,7 +2654,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			alexander ameye
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alexanderameye">alexanderameye</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexanderameye">alexanderameye</a></td>
 		<td>Belgium</td>
 		<td>157</td>
 	</tr>
@@ -2679,7 +2680,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Andreas Creten
 		</td>
 		<td>@madewithlove </td>
-		<td><a href="https://twitter.com/andreascreten">andreascreten</a></td>
+		<td><a target="_blank" href="https://twitter.com/andreascreten">andreascreten</a></td>
 		<td>Belgium</td>
 		<td>157</td>
 	</tr>
@@ -2770,7 +2771,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Coenen Benjamin
 		</td>
 		<td>@apollographql </td>
-		<td><a href="https://twitter.com/bnj25">bnj25</a></td>
+		<td><a target="_blank" href="https://twitter.com/bnj25">bnj25</a></td>
 		<td>Belgium and France</td>
 		<td>150</td>
 	</tr>
@@ -2796,7 +2797,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sebastiaan Luca
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/sebastiaanluca">sebastiaanluca</a></td>
+		<td><a target="_blank" href="https://twitter.com/sebastiaanluca">sebastiaanluca</a></td>
 		<td>Antwerp Belgium</td>
 		<td>150</td>
 	</tr>
@@ -2822,7 +2823,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Frederik Prijck
 		</td>
 		<td>@auth0 </td>
-		<td><a href="https://twitter.com/frederikprijck">frederikprijck</a></td>
+		<td><a target="_blank" href="https://twitter.com/frederikprijck">frederikprijck</a></td>
 		<td>Belgium</td>
 		<td>147</td>
 	</tr>
@@ -2835,7 +2836,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Koen Van Impe
 		</td>
 		<td>Cudesobe </td>
-		<td><a href="https://twitter.com/cudeso">cudeso</a></td>
+		<td><a target="_blank" href="https://twitter.com/cudeso">cudeso</a></td>
 		<td>Brugge Belgium</td>
 		<td>147</td>
 	</tr>
@@ -2848,7 +2849,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			George Kouros
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/gkouros1">gkouros1</a></td>
+		<td><a target="_blank" href="https://twitter.com/gkouros1">gkouros1</a></td>
 		<td>Leuven Belgium</td>
 		<td>147</td>
 	</tr>
@@ -2861,7 +2862,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bart Vandewoestyne
 		</td>
 		<td>St Engineering Idirect </td>
-		<td><a href="https://twitter.com/BVandewoestyne">BVandewoestyne</a></td>
+		<td><a target="_blank" href="https://twitter.com/BVandewoestyne">BVandewoestyne</a></td>
 		<td>Kortrijk Belgium</td>
 		<td>147</td>
 	</tr>
@@ -2874,7 +2875,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Igor K
 		</td>
 		<td>Nokia Bell Nv </td>
-		<td><a href="https://twitter.com/IKopest">IKopest</a></td>
+		<td><a target="_blank" href="https://twitter.com/IKopest">IKopest</a></td>
 		<td>Belgium</td>
 		<td>147</td>
 	</tr>
@@ -2900,7 +2901,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Geert Baeke
 		</td>
 		<td>Inity </td>
-		<td><a href="https://twitter.com/geertbaeke">geertbaeke</a></td>
+		<td><a target="_blank" href="https://twitter.com/geertbaeke">geertbaeke</a></td>
 		<td>Belgium</td>
 		<td>146</td>
 	</tr>
@@ -2913,7 +2914,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Robin Marx
 		</td>
 		<td>Akamai Technologies </td>
-		<td><a href="https://twitter.com/programmingart">programmingart</a></td>
+		<td><a target="_blank" href="https://twitter.com/programmingart">programmingart</a></td>
 		<td>Belgium</td>
 		<td>146</td>
 	</tr>
@@ -2965,7 +2966,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Enias Cailliau
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/enias">enias</a></td>
+		<td><a target="_blank" href="https://twitter.com/enias">enias</a></td>
 		<td>Belgium</td>
 		<td>144</td>
 	</tr>
@@ -2978,7 +2979,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nicolas Vanhoren
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nicolasvanhoren">nicolasvanhoren</a></td>
+		<td><a target="_blank" href="https://twitter.com/nicolasvanhoren">nicolasvanhoren</a></td>
 		<td>Lige Belgium</td>
 		<td>144</td>
 	</tr>
@@ -3030,7 +3031,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Azdine
 		</td>
 		<td>Pfizer </td>
-		<td><a href="https://twitter.com/Azdineelj">Azdineelj</a></td>
+		<td><a target="_blank" href="https://twitter.com/Azdineelj">Azdineelj</a></td>
 		<td>Belgium</td>
 		<td>142</td>
 	</tr>
@@ -3043,7 +3044,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Quentin Hocd
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/quentinhocde">quentinhocde</a></td>
+		<td><a target="_blank" href="https://twitter.com/quentinhocde">quentinhocde</a></td>
 		<td>Brussels</td>
 		<td>142</td>
 	</tr>
@@ -3056,7 +3057,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wolfr
 		</td>
 		<td>Obra Studio </td>
-		<td><a href="https://twitter.com/wolfr_2">wolfr_2</a></td>
+		<td><a target="_blank" href="https://twitter.com/wolfr_2">wolfr_2</a></td>
 		<td>Belgium</td>
 		<td>141</td>
 	</tr>
@@ -3069,7 +3070,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Steffest
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/steffest">steffest</a></td>
+		<td><a target="_blank" href="https://twitter.com/steffest">steffest</a></td>
 		<td>Antwerp  Belgium</td>
 		<td>140</td>
 	</tr>
@@ -3082,7 +3083,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Joris Schellekens
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Joris1989BE">Joris1989BE</a></td>
+		<td><a target="_blank" href="https://twitter.com/Joris1989BE">Joris1989BE</a></td>
 		<td>Ghent Belgium</td>
 		<td>139</td>
 	</tr>
@@ -3095,7 +3096,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Neodyme
 		</td>
 		<td>Lige University </td>
-		<td><a href="https://twitter.com/tNeodyme">tNeodyme</a></td>
+		<td><a target="_blank" href="https://twitter.com/tNeodyme">tNeodyme</a></td>
 		<td>Belgium</td>
 		<td>139</td>
 	</tr>
@@ -3134,7 +3135,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Cdric Verstraeten
 		</td>
 		<td>@kerberosio @microsoft  </td>
-		<td><a href="https://twitter.com/cedricverst">cedricverst</a></td>
+		<td><a target="_blank" href="https://twitter.com/cedricverst">cedricverst</a></td>
 		<td>Ghent Belgium</td>
 		<td>137</td>
 	</tr>
@@ -3173,7 +3174,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Luc Tielen
 		</td>
 		<td>Lambda Tech </td>
-		<td><a href="https://twitter.com/luctielen">luctielen</a></td>
+		<td><a target="_blank" href="https://twitter.com/luctielen">luctielen</a></td>
 		<td>Belgium</td>
 		<td>136</td>
 	</tr>
@@ -3212,7 +3213,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Patrick Allaert
 		</td>
 		<td>Libereco Technologies </td>
-		<td><a href="https://twitter.com/AllaertPatrick">AllaertPatrick</a></td>
+		<td><a target="_blank" href="https://twitter.com/AllaertPatrick">AllaertPatrick</a></td>
 		<td>Brussels</td>
 		<td>134</td>
 	</tr>
@@ -3238,7 +3239,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thijs Feryn
 		</td>
 		<td>@varnish </td>
-		<td><a href="https://twitter.com/ThijsFeryn">ThijsFeryn</a></td>
+		<td><a target="_blank" href="https://twitter.com/ThijsFeryn">ThijsFeryn</a></td>
 		<td>Diksmuide Belgium</td>
 		<td>134</td>
 	</tr>
@@ -3264,7 +3265,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fabien Benetou
 		</td>
 		<td>Webxr Prototypist </td>
-		<td><a href="https://twitter.com/utopiah">utopiah</a></td>
+		<td><a target="_blank" href="https://twitter.com/utopiah">utopiah</a></td>
 		<td>Brussels</td>
 		<td>133</td>
 	</tr>
@@ -3290,7 +3291,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Joni Van Roost
 		</td>
 		<td>Frontforce </td>
-		<td><a href="https://twitter.com/JoniVR">JoniVR</a></td>
+		<td><a target="_blank" href="https://twitter.com/JoniVR">JoniVR</a></td>
 		<td>Antwerp Belgium</td>
 		<td>133</td>
 	</tr>
@@ -3303,7 +3304,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Glenn Versweyveld
 		</td>
 		<td>Depsoft </td>
-		<td><a href="https://twitter.com/depechie">depechie</a></td>
+		<td><a target="_blank" href="https://twitter.com/depechie">depechie</a></td>
 		<td>Duffel Belgium</td>
 		<td>132</td>
 	</tr>
@@ -3316,7 +3317,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			David Lenaerts
 		</td>
 		<td>Der Schmale </td>
-		<td><a href="https://twitter.com/DerSchmale">DerSchmale</a></td>
+		<td><a target="_blank" href="https://twitter.com/DerSchmale">DerSchmale</a></td>
 		<td>Belgium</td>
 		<td>132</td>
 	</tr>
@@ -3329,7 +3330,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			roderiketh
 		</td>
 		<td>@settlemint  </td>
-		<td><a href="https://twitter.com/r0derik">r0derik</a></td>
+		<td><a target="_blank" href="https://twitter.com/r0derik">r0derik</a></td>
 		<td>Belgium</td>
 		<td>131</td>
 	</tr>
@@ -3342,7 +3343,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Benjamin Henrion
 		</td>
 		<td>Ffiiorg </td>
-		<td><a href="https://twitter.com/zoobab">zoobab</a></td>
+		<td><a target="_blank" href="https://twitter.com/zoobab">zoobab</a></td>
 		<td>Brussels Belgium</td>
 		<td>131</td>
 	</tr>
@@ -3381,7 +3382,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sebastien Dubois
 		</td>
 		<td>Developassion </td>
-		<td><a href="https://twitter.com/dSebastien">dSebastien</a></td>
+		<td><a target="_blank" href="https://twitter.com/dSebastien">dSebastien</a></td>
 		<td>Belgium</td>
 		<td>129</td>
 	</tr>
@@ -3394,7 +3395,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Joris Gillis
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/jgillis42">jgillis42</a></td>
+		<td><a target="_blank" href="https://twitter.com/jgillis42">jgillis42</a></td>
 		<td>Leuven</td>
 		<td>129</td>
 	</tr>
@@ -3420,7 +3421,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jan Van Haaren
 		</td>
 		<td>Club Brugge </td>
-		<td><a href="https://twitter.com/JanVanHaaren">JanVanHaaren</a></td>
+		<td><a target="_blank" href="https://twitter.com/JanVanHaaren">JanVanHaaren</a></td>
 		<td>KnokkeHeist Belgium</td>
 		<td>129</td>
 	</tr>
@@ -3446,7 +3447,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gido van de Ven
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/GMvandeVen">GMvandeVen</a></td>
+		<td><a target="_blank" href="https://twitter.com/GMvandeVen">GMvandeVen</a></td>
 		<td>Leuven Belgium</td>
 		<td>129</td>
 	</tr>
@@ -3550,7 +3551,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Charles Moulliard
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/cmoulliard">cmoulliard</a></td>
+		<td><a target="_blank" href="https://twitter.com/cmoulliard">cmoulliard</a></td>
 		<td>Belgium</td>
 		<td>126</td>
 	</tr>
@@ -3563,7 +3564,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sbastien Vanvelthem
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/belgattitude">belgattitude</a></td>
+		<td><a target="_blank" href="https://twitter.com/belgattitude">belgattitude</a></td>
 		<td>Brussels Belgium</td>
 		<td>125</td>
 	</tr>
@@ -3589,7 +3590,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nick Janssen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nickjanssen_com">nickjanssen_com</a></td>
+		<td><a target="_blank" href="https://twitter.com/nickjanssen_com">nickjanssen_com</a></td>
 		<td>Antwerp Belgium</td>
 		<td>125</td>
 	</tr>
@@ -3654,7 +3655,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Mohammad Javad Ghasemy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ghasemy_javad">ghasemy_javad</a></td>
+		<td><a target="_blank" href="https://twitter.com/ghasemy_javad">ghasemy_javad</a></td>
 		<td>Belgium</td>
 		<td>122</td>
 	</tr>
@@ -3667,7 +3668,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Mike Kestemont
 		</td>
 		<td>University Of Antwerp </td>
-		<td><a href="https://twitter.com/Mike_Kestemont">Mike_Kestemont</a></td>
+		<td><a target="_blank" href="https://twitter.com/Mike_Kestemont">Mike_Kestemont</a></td>
 		<td>Brussels Belgium</td>
 		<td>122</td>
 	</tr>
@@ -3680,7 +3681,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sam Vloeberghs
 		</td>
 		<td>Kor Financial </td>
-		<td><a href="https://twitter.com/samvloeberghs">samvloeberghs</a></td>
+		<td><a target="_blank" href="https://twitter.com/samvloeberghs">samvloeberghs</a></td>
 		<td>Belgium</td>
 		<td>121</td>
 	</tr>
@@ -3693,7 +3694,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Brecht Sanders
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BrechtSanders">BrechtSanders</a></td>
+		<td><a target="_blank" href="https://twitter.com/BrechtSanders">BrechtSanders</a></td>
 		<td>Belgium</td>
 		<td>121</td>
 	</tr>
@@ -3810,7 +3811,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Christophe Beyls
 		</td>
 		<td>Dreamy Robots </td>
-		<td><a href="https://twitter.com/BladeCoder">BladeCoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/BladeCoder">BladeCoder</a></td>
 		<td>Brussels Belgium</td>
 		<td>117</td>
 	</tr>
@@ -3836,7 +3837,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sam Debruyn
 		</td>
 		<td>@datarootsio </td>
-		<td><a href="https://twitter.com/s_debruyn">s_debruyn</a></td>
+		<td><a target="_blank" href="https://twitter.com/s_debruyn">s_debruyn</a></td>
 		<td>Belgium</td>
 		<td>116</td>
 	</tr>
@@ -3875,7 +3876,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tom Van Cutsem
 		</td>
 		<td>Ku Leuven  Nokia<br/>Bell<br/>Labs<br/></td>
-		<td><a href="https://twitter.com/tvcutsem">tvcutsem</a></td>
+		<td><a target="_blank" href="https://twitter.com/tvcutsem">tvcutsem</a></td>
 		<td>Leuven Belgium</td>
 		<td>115</td>
 	</tr>
@@ -3914,7 +3915,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Adam Helinski
 		</td>
 		<td>Protosens Srl </td>
-		<td><a href="https://twitter.com/AdamHelins">AdamHelins</a></td>
+		<td><a target="_blank" href="https://twitter.com/AdamHelins">AdamHelins</a></td>
 		<td>Brussels Belgium</td>
 		<td>113</td>
 	</tr>
@@ -3927,7 +3928,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Frederik Jacques
 		</td>
 		<td>Thenerd </td>
-		<td><a href="https://twitter.com/thenerd_be">thenerd_be</a></td>
+		<td><a target="_blank" href="https://twitter.com/thenerd_be">thenerd_be</a></td>
 		<td>Brussels Belgium</td>
 		<td>113</td>
 	</tr>
@@ -3940,7 +3941,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Weihong Wang
 		</td>
 		<td>@kuleuven </td>
-		<td><a href="https://twitter.com/weihongwww">weihongwww</a></td>
+		<td><a target="_blank" href="https://twitter.com/weihongwww">weihongwww</a></td>
 		<td>Belgium</td>
 		<td>113</td>
 	</tr>
@@ -3966,7 +3967,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Koen Vervloesem
 		</td>
 		<td>Bits  Kommas </td>
-		<td><a href="https://twitter.com/koenvervloesem">koenvervloesem</a></td>
+		<td><a target="_blank" href="https://twitter.com/koenvervloesem">koenvervloesem</a></td>
 		<td>Belgium</td>
 		<td>112</td>
 	</tr>
@@ -3992,7 +3993,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Michiel De Mey
 		</td>
 		<td>@cheqroom  </td>
-		<td><a href="https://twitter.com/MichielDeMey">MichielDeMey</a></td>
+		<td><a target="_blank" href="https://twitter.com/MichielDeMey">MichielDeMey</a></td>
 		<td>Ghent Belgium</td>
 		<td>111</td>
 	</tr>
@@ -4005,7 +4006,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Franois Rozet
 		</td>
 		<td>University Of Lige </td>
-		<td><a href="https://twitter.com/FrancoisRozet">FrancoisRozet</a></td>
+		<td><a target="_blank" href="https://twitter.com/FrancoisRozet">FrancoisRozet</a></td>
 		<td>Lige Belgium</td>
 		<td>111</td>
 	</tr>
@@ -4018,7 +4019,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Danny Willems
 		</td>
 		<td>Leakix </td>
-		<td><a href="https://twitter.com/dwillems42">dwillems42</a></td>
+		<td><a target="_blank" href="https://twitter.com/dwillems42">dwillems42</a></td>
 		<td>Mostly Belgium but often moving</td>
 		<td>110</td>
 	</tr>
@@ -4044,7 +4045,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Oswaldo Ludwig
 		</td>
 		<td>Cerence Inc </td>
-		<td><a href="https://twitter.com/oswaldoludwig">oswaldoludwig</a></td>
+		<td><a target="_blank" href="https://twitter.com/oswaldoludwig">oswaldoludwig</a></td>
 		<td>Merelbeke Belgium</td>
 		<td>110</td>
 	</tr>
@@ -4057,7 +4058,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Deni
 		</td>
 		<td>@becodeorg </td>
-		<td><a href="https://twitter.com/DeniTechh">DeniTechh</a></td>
+		<td><a target="_blank" href="https://twitter.com/DeniTechh">DeniTechh</a></td>
 		<td>Antwerp</td>
 		<td>110</td>
 	</tr>
@@ -4083,7 +4084,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bram Vanroy
 		</td>
 		<td>@cclkuleuven </td>
-		<td><a href="https://twitter.com/BramVanroy">BramVanroy</a></td>
+		<td><a target="_blank" href="https://twitter.com/BramVanroy">BramVanroy</a></td>
 		<td>Belgium</td>
 		<td>109</td>
 	</tr>
@@ -4096,7 +4097,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Frank Delporte
 		</td>
 		<td>Webtechiebe  Pi4j <br/>Coderdojo<br/></td>
-		<td><a href="https://twitter.com/FrankDelporte">FrankDelporte</a></td>
+		<td><a target="_blank" href="https://twitter.com/FrankDelporte">FrankDelporte</a></td>
 		<td>Belgium</td>
 		<td>109</td>
 	</tr>
@@ -4135,7 +4136,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thomas Balthazar
 		</td>
 		<td>@heroku  </td>
-		<td><a href="https://twitter.com/tba">tba</a></td>
+		<td><a target="_blank" href="https://twitter.com/tba">tba</a></td>
 		<td>Brussels Belgium</td>
 		<td>108</td>
 	</tr>
@@ -4148,7 +4149,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			David Delabasse
 		</td>
 		<td>@oracle  </td>
-		<td><a href="https://twitter.com/delabassee">delabassee</a></td>
+		<td><a target="_blank" href="https://twitter.com/delabassee">delabassee</a></td>
 		<td>Tournai Belgium</td>
 		<td>107</td>
 	</tr>
@@ -4213,7 +4214,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jos Polfliet
 		</td>
 		<td>@metamaze </td>
-		<td><a href="https://twitter.com/JosPolfliet">JosPolfliet</a></td>
+		<td><a target="_blank" href="https://twitter.com/JosPolfliet">JosPolfliet</a></td>
 		<td>Antwerp Belgium</td>
 		<td>104</td>
 	</tr>
@@ -4226,7 +4227,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jens Claes
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/entropitor">entropitor</a></td>
+		<td><a target="_blank" href="https://twitter.com/entropitor">entropitor</a></td>
 		<td>Leuven</td>
 		<td>103</td>
 	</tr>
@@ -4239,7 +4240,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Peter Dawyndt
 		</td>
 		<td>Ghent University </td>
-		<td><a href="https://twitter.com/dawyndt">dawyndt</a></td>
+		<td><a target="_blank" href="https://twitter.com/dawyndt">dawyndt</a></td>
 		<td>Ghent Belgium</td>
 		<td>103</td>
 	</tr>
@@ -4330,7 +4331,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Matthew Evans
 		</td>
 		<td>Uclouvain </td>
-		<td><a href="https://twitter.com/funroll_loops">funroll_loops</a></td>
+		<td><a target="_blank" href="https://twitter.com/funroll_loops">funroll_loops</a></td>
 		<td>Brussels BE  Norfolk UK</td>
 		<td>100</td>
 	</tr>
@@ -4369,7 +4370,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Woomy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/woomymy">woomymy</a></td>
+		<td><a target="_blank" href="https://twitter.com/woomymy">woomymy</a></td>
 		<td>Belgium</td>
 		<td>99</td>
 	</tr>
@@ -4486,7 +4487,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Johan Janssens
 		</td>
 		<td>Timble  </td>
-		<td><a href="https://twitter.com/johanjanssens">johanjanssens</a></td>
+		<td><a target="_blank" href="https://twitter.com/johanjanssens">johanjanssens</a></td>
 		<td>Diest Belgium</td>
 		<td>96</td>
 	</tr>
@@ -4499,7 +4500,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Toon Verwerft
 		</td>
 		<td>@phpro  </td>
-		<td><a href="https://twitter.com/toonverwerft">toonverwerft</a></td>
+		<td><a target="_blank" href="https://twitter.com/toonverwerft">toonverwerft</a></td>
 		<td>Belgium</td>
 		<td>95</td>
 	</tr>
@@ -4512,7 +4513,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Martin De Wulf
 		</td>
 		<td>Bluesquare </td>
-		<td><a href="https://twitter.com/madewulf">madewulf</a></td>
+		<td><a target="_blank" href="https://twitter.com/madewulf">madewulf</a></td>
 		<td>Brussels Belgium</td>
 		<td>95</td>
 	</tr>
@@ -4629,7 +4630,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			iTitou
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/titouonrails">titouonrails</a></td>
+		<td><a target="_blank" href="https://twitter.com/titouonrails">titouonrails</a></td>
 		<td>Belgium</td>
 		<td>92</td>
 	</tr>
@@ -4642,7 +4643,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bernard Lambeau
 		</td>
 		<td>Enspirit Sprl </td>
-		<td><a href="https://twitter.com/blambeau">blambeau</a></td>
+		<td><a target="_blank" href="https://twitter.com/blambeau">blambeau</a></td>
 		<td>Belgium</td>
 		<td>92</td>
 	</tr>
@@ -4681,7 +4682,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kris Verlaenen
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/KrisVerlaenen">KrisVerlaenen</a></td>
+		<td><a target="_blank" href="https://twitter.com/KrisVerlaenen">KrisVerlaenen</a></td>
 		<td>Belgium</td>
 		<td>92</td>
 	</tr>
@@ -4720,7 +4721,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jonathan Belin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jbelien">jbelien</a></td>
+		<td><a target="_blank" href="https://twitter.com/jbelien">jbelien</a></td>
 		<td>Brussels Belgium</td>
 		<td>90</td>
 	</tr>
@@ -4746,7 +4747,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bart Lannoeye
 		</td>
 		<td>Sanity Bv </td>
-		<td><a href="https://twitter.com/bartlannoeye">bartlannoeye</a></td>
+		<td><a target="_blank" href="https://twitter.com/bartlannoeye">bartlannoeye</a></td>
 		<td>Ghent</td>
 		<td>90</td>
 	</tr>
@@ -4798,7 +4799,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Julien Lamb
 		</td>
 		<td>Themosis </td>
-		<td><a href="https://twitter.com/Orlenka">Orlenka</a></td>
+		<td><a target="_blank" href="https://twitter.com/Orlenka">Orlenka</a></td>
 		<td>Belgium</td>
 		<td>89</td>
 	</tr>
@@ -4811,7 +4812,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dries Augustyns
 		</td>
 		<td>@microsoft  @useplunk </td>
-		<td><a href="https://twitter.com/driaug_">driaug_</a></td>
+		<td><a target="_blank" href="https://twitter.com/driaug_">driaug_</a></td>
 		<td>Belgium</td>
 		<td>89</td>
 	</tr>
@@ -4824,7 +4825,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Louis Jacomet
 		</td>
 		<td>@gradle </td>
-		<td><a href="https://twitter.com/ljacomet">ljacomet</a></td>
+		<td><a target="_blank" href="https://twitter.com/ljacomet">ljacomet</a></td>
 		<td>Brussels Belgium</td>
 		<td>89</td>
 	</tr>
@@ -4850,7 +4851,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dries Depoorter
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/driesdepoorter">driesdepoorter</a></td>
+		<td><a target="_blank" href="https://twitter.com/driesdepoorter">driesdepoorter</a></td>
 		<td>Belgium</td>
 		<td>89</td>
 	</tr>
@@ -4915,7 +4916,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			keygenwrld
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/k3ygen1">k3ygen1</a></td>
+		<td><a target="_blank" href="https://twitter.com/k3ygen1">k3ygen1</a></td>
 		<td>Belgium</td>
 		<td>88</td>
 	</tr>
@@ -4928,7 +4929,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Raphal Ernaelsten
 		</td>
 		<td>Oniric Studio </td>
-		<td><a href="https://twitter.com/RaphErnaelsten">RaphErnaelsten</a></td>
+		<td><a target="_blank" href="https://twitter.com/RaphErnaelsten">RaphErnaelsten</a></td>
 		<td>Belgium</td>
 		<td>87</td>
 	</tr>
@@ -4993,7 +4994,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Rudy De Busscher
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rdebusscher">rdebusscher</a></td>
+		<td><a target="_blank" href="https://twitter.com/rdebusscher">rdebusscher</a></td>
 		<td>Belgium</td>
 		<td>86</td>
 	</tr>
@@ -5006,7 +5007,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stijn Sanders
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/stijnsanders">stijnsanders</a></td>
+		<td><a target="_blank" href="https://twitter.com/stijnsanders">stijnsanders</a></td>
 		<td>Gentbrugge Belgium</td>
 		<td>86</td>
 	</tr>
@@ -5045,7 +5046,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Benoit Jadinon
 		</td>
 		<td>Skipr </td>
-		<td><a href="https://twitter.com/razhell">razhell</a></td>
+		<td><a target="_blank" href="https://twitter.com/razhell">razhell</a></td>
 		<td>Belgium</td>
 		<td>86</td>
 	</tr>
@@ -5058,7 +5059,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Laila Bougria
 		</td>
 		<td>@particular </td>
-		<td><a href="https://twitter.com/noctovis">noctovis</a></td>
+		<td><a target="_blank" href="https://twitter.com/noctovis">noctovis</a></td>
 		<td>Antwerp Belgium</td>
 		<td>85</td>
 	</tr>
@@ -5266,7 +5267,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Serge van Ginderachter
 		</td>
 		<td>@ginsys  </td>
-		<td><a href="https://twitter.com/svg">svg</a></td>
+		<td><a target="_blank" href="https://twitter.com/svg">svg</a></td>
 		<td>Belgium</td>
 		<td>81</td>
 	</tr>
@@ -5279,7 +5280,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Grgory Saive
 		</td>
 		<td>@dhealthproject  </td>
-		<td><a href="https://twitter.com/eVias">eVias</a></td>
+		<td><a target="_blank" href="https://twitter.com/eVias">eVias</a></td>
 		<td>Belgium</td>
 		<td>81</td>
 	</tr>
@@ -5318,7 +5319,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Antoine Pairet
 		</td>
 		<td>Rosa Asbl </td>
-		<td><a href="https://twitter.com/antoinepairet">antoinepairet</a></td>
+		<td><a target="_blank" href="https://twitter.com/antoinepairet">antoinepairet</a></td>
 		<td>Belgium</td>
 		<td>80</td>
 	</tr>
@@ -5383,7 +5384,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Pieter Belmans
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pbelmans">pbelmans</a></td>
+		<td><a target="_blank" href="https://twitter.com/pbelmans">pbelmans</a></td>
 		<td>Antwerp and Luxembourg</td>
 		<td>79</td>
 	</tr>
@@ -5396,7 +5397,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			CodeDead
 		</td>
 		<td>Codedead </td>
-		<td><a href="https://twitter.com/C0DEDEAD">C0DEDEAD</a></td>
+		<td><a target="_blank" href="https://twitter.com/C0DEDEAD">C0DEDEAD</a></td>
 		<td>Belgium</td>
 		<td>79</td>
 	</tr>
@@ -5435,7 +5436,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nathan Hubens
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/HubensN">HubensN</a></td>
+		<td><a target="_blank" href="https://twitter.com/HubensN">HubensN</a></td>
 		<td>Brussels Belgium</td>
 		<td>79</td>
 	</tr>
@@ -5448,7 +5449,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Robbe Derks
 		</td>
 		<td>Commaai </td>
-		<td><a href="https://twitter.com/robbederks">robbederks</a></td>
+		<td><a target="_blank" href="https://twitter.com/robbederks">robbederks</a></td>
 		<td>Belgium</td>
 		<td>78</td>
 	</tr>
@@ -5474,7 +5475,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stephan Janssen
 		</td>
 		<td>Devoxx </td>
-		<td><a href="https://twitter.com/stephan007">stephan007</a></td>
+		<td><a target="_blank" href="https://twitter.com/stephan007">stephan007</a></td>
 		<td>Belgium</td>
 		<td>78</td>
 	</tr>
@@ -5500,7 +5501,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			William Gathoye
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wget42">wget42</a></td>
+		<td><a target="_blank" href="https://twitter.com/wget42">wget42</a></td>
 		<td>Belgium</td>
 		<td>78</td>
 	</tr>
@@ -5526,7 +5527,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Xavier Decoster
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/xavierdecoster">xavierdecoster</a></td>
+		<td><a target="_blank" href="https://twitter.com/xavierdecoster">xavierdecoster</a></td>
 		<td>Belgium</td>
 		<td>78</td>
 	</tr>
@@ -5539,7 +5540,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fabian Vilers
 		</td>
 		<td>Dev One </td>
-		<td><a href="https://twitter.com/fvilers">fvilers</a></td>
+		<td><a target="_blank" href="https://twitter.com/fvilers">fvilers</a></td>
 		<td>Belgium</td>
 		<td>77</td>
 	</tr>
@@ -5591,7 +5592,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Miguel Tomas Silva
 		</td>
 		<td>Aeonlabs </td>
-		<td><a href="https://twitter.com/AeonLabsS">AeonLabsS</a></td>
+		<td><a target="_blank" href="https://twitter.com/AeonLabsS">AeonLabsS</a></td>
 		<td>Brussels Belgium</td>
 		<td>76</td>
 	</tr>
@@ -5604,7 +5605,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thorr Stevens
 		</td>
 		<td>Aetherspace Digital </td>
-		<td><a href="https://twitter.com/codinsonn">codinsonn</a></td>
+		<td><a target="_blank" href="https://twitter.com/codinsonn">codinsonn</a></td>
 		<td>Ghent Belgium</td>
 		<td>76</td>
 	</tr>
@@ -5630,7 +5631,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			frank goossens
 		</td>
 		<td>Optimizing Matters </td>
-		<td><a href="https://twitter.com/optimatters">optimatters</a></td>
+		<td><a target="_blank" href="https://twitter.com/optimatters">optimatters</a></td>
 		<td>Belgium</td>
 		<td>76</td>
 	</tr>
@@ -5669,7 +5670,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim Ysewyn
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/TYsewyn">TYsewyn</a></td>
+		<td><a target="_blank" href="https://twitter.com/TYsewyn">TYsewyn</a></td>
 		<td>Belgium</td>
 		<td>75</td>
 	</tr>
@@ -5682,7 +5683,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thomas Winters
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/thomas_wint">thomas_wint</a></td>
+		<td><a target="_blank" href="https://twitter.com/thomas_wint">thomas_wint</a></td>
 		<td>Belgium</td>
 		<td>75</td>
 	</tr>
@@ -5773,7 +5774,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Lorenzo Bernardi
 		</td>
 		<td>The Nrb Group </td>
-		<td><a href="https://twitter.com/fastlorenzo">fastlorenzo</a></td>
+		<td><a target="_blank" href="https://twitter.com/fastlorenzo">fastlorenzo</a></td>
 		<td>Belgium</td>
 		<td>74</td>
 	</tr>
@@ -5799,7 +5800,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Andy Prasetya
 		</td>
 		<td>Odyssey Digital Development Group<br/><br/>The<br/>Opense7en<br/>Webworx<br/></td>
-		<td><a href="https://twitter.com/YggdrasilX">YggdrasilX</a></td>
+		<td><a target="_blank" href="https://twitter.com/YggdrasilX">YggdrasilX</a></td>
 		<td>Lige</td>
 		<td>74</td>
 	</tr>
@@ -5812,7 +5813,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			SOUVIK GHOSH
 		</td>
 		<td>@rasahq </td>
-		<td><a href="https://twitter.com/souvik_g10">souvik_g10</a></td>
+		<td><a target="_blank" href="https://twitter.com/souvik_g10">souvik_g10</a></td>
 		<td>Brussels</td>
 		<td>74</td>
 	</tr>
@@ -5825,7 +5826,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Peter Himschoot
 		</td>
 		<td>U2u </td>
-		<td><a href="https://twitter.com/peterhimschoot">peterhimschoot</a></td>
+		<td><a target="_blank" href="https://twitter.com/peterhimschoot">peterhimschoot</a></td>
 		<td>Belgium</td>
 		<td>74</td>
 	</tr>
@@ -5851,7 +5852,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nikola Majksner
 		</td>
 		<td>Fse @ Airshaper </td>
-		<td><a href="https://twitter.com/majksner">majksner</a></td>
+		<td><a target="_blank" href="https://twitter.com/majksner">majksner</a></td>
 		<td>Antwerp Belgium</td>
 		<td>74</td>
 	</tr>
@@ -5864,7 +5865,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Zorovsky Zarch
 		</td>
 		<td>@amazon </td>
-		<td><a href="https://twitter.com/zoroarch">zoroarch</a></td>
+		<td><a target="_blank" href="https://twitter.com/zoroarch">zoroarch</a></td>
 		<td>Belgium</td>
 		<td>74</td>
 	</tr>
@@ -5890,7 +5891,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Van der Auwermeulen Grgoire
 		</td>
 		<td>Freelance Developer </td>
-		<td><a href="https://twitter.com/gregoirevda">gregoirevda</a></td>
+		<td><a target="_blank" href="https://twitter.com/gregoirevda">gregoirevda</a></td>
 		<td>belgium</td>
 		<td>73</td>
 	</tr>
@@ -5916,7 +5917,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Quentin Kaiser
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/qkaiser">qkaiser</a></td>
+		<td><a target="_blank" href="https://twitter.com/qkaiser">qkaiser</a></td>
 		<td>Belgium</td>
 		<td>73</td>
 	</tr>
@@ -5929,7 +5930,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Chanukya Patnaik
 		</td>
 		<td>Ai Planet </td>
-		<td><a href="https://twitter.com/chanukya_p">chanukya_p</a></td>
+		<td><a target="_blank" href="https://twitter.com/chanukya_p">chanukya_p</a></td>
 		<td>Leuven Belgium</td>
 		<td>73</td>
 	</tr>
@@ -5968,7 +5969,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Filipe Augusto Lima de Souza
 		</td>
 		<td>Coding First </td>
-		<td><a href="https://twitter.com/fals_xp">fals_xp</a></td>
+		<td><a target="_blank" href="https://twitter.com/fals_xp">fals_xp</a></td>
 		<td>Belgium</td>
 		<td>72</td>
 	</tr>
@@ -5981,7 +5982,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim De Pauw
 		</td>
 		<td>@doubleverify </td>
-		<td><a href="https://twitter.com/tmdpw">tmdpw</a></td>
+		<td><a target="_blank" href="https://twitter.com/tmdpw">tmdpw</a></td>
 		<td>Belgium</td>
 		<td>72</td>
 	</tr>
@@ -5994,7 +5995,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tom Barbette
 		</td>
 		<td>Uclouvain </td>
-		<td><a href="https://twitter.com/tbarbette">tbarbette</a></td>
+		<td><a target="_blank" href="https://twitter.com/tbarbette">tbarbette</a></td>
 		<td>Belgium</td>
 		<td>72</td>
 	</tr>
@@ -6007,7 +6008,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Antnio Almeida
 		</td>
 		<td>@klarna </td>
-		<td><a href="https://twitter.com/almeidaoantonio">almeidaoantonio</a></td>
+		<td><a target="_blank" href="https://twitter.com/almeidaoantonio">almeidaoantonio</a></td>
 		<td>Brussels</td>
 		<td>72</td>
 	</tr>
@@ -6020,7 +6021,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maurits van Rees
 		</td>
 		<td>@zestsoftware  </td>
-		<td><a href="https://twitter.com/mauritsvanrees">mauritsvanrees</a></td>
+		<td><a target="_blank" href="https://twitter.com/mauritsvanrees">mauritsvanrees</a></td>
 		<td>Antwerpen Belgium</td>
 		<td>71</td>
 	</tr>
@@ -6033,7 +6034,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Olivier Vernin
 		</td>
 		<td>Suse </td>
-		<td><a href="https://twitter.com/0lblak">0lblak</a></td>
+		<td><a target="_blank" href="https://twitter.com/0lblak">0lblak</a></td>
 		<td>Belgium</td>
 		<td>71</td>
 	</tr>
@@ -6046,7 +6047,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ronald Dehuysser
 		</td>
 		<td>Rosoco Bvba </td>
-		<td><a href="https://twitter.com/rdehuyss">rdehuyss</a></td>
+		<td><a target="_blank" href="https://twitter.com/rdehuyss">rdehuyss</a></td>
 		<td>Leuven Belgium</td>
 		<td>71</td>
 	</tr>
@@ -6111,7 +6112,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Benyamin Salimi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/benyaminsalimi">benyaminsalimi</a></td>
+		<td><a target="_blank" href="https://twitter.com/benyaminsalimi">benyaminsalimi</a></td>
 		<td>Brussels</td>
 		<td>71</td>
 	</tr>
@@ -6137,7 +6138,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Joost De Cock
 		</td>
 		<td>@freesewing  </td>
-		<td><a href="https://twitter.com/j__st">j__st</a></td>
+		<td><a target="_blank" href="https://twitter.com/j__st">j__st</a></td>
 		<td>Antwerp</td>
 		<td>70</td>
 	</tr>
@@ -6163,7 +6164,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Mauro Morales
 		</td>
 		<td>@spectrocloud </td>
-		<td><a href="https://twitter.com/mauromrls">mauromrls</a></td>
+		<td><a target="_blank" href="https://twitter.com/mauromrls">mauromrls</a></td>
 		<td>Ghent BE</td>
 		<td>70</td>
 	</tr>
@@ -6189,7 +6190,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maarten Huijsmans
 		</td>
 		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/lukin0110">lukin0110</a></td>
+		<td><a target="_blank" href="https://twitter.com/lukin0110">lukin0110</a></td>
 		<td>Belgium</td>
 		<td>70</td>
 	</tr>
@@ -6202,7 +6203,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Lorenz Vanthillo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lvthillo">lvthillo</a></td>
+		<td><a target="_blank" href="https://twitter.com/lvthillo">lvthillo</a></td>
 		<td>Antwerp</td>
 		<td>70</td>
 	</tr>
@@ -6254,7 +6255,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dries007
 		</td>
 		<td>@qteal  </td>
-		<td><a href="https://twitter.com/driesk007">driesk007</a></td>
+		<td><a target="_blank" href="https://twitter.com/driesk007">driesk007</a></td>
 		<td>Belgium</td>
 		<td>70</td>
 	</tr>
@@ -6345,7 +6346,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bryan Honof
 		</td>
 		<td>@flox </td>
-		<td><a href="https://twitter.com/HonofBryan">HonofBryan</a></td>
+		<td><a target="_blank" href="https://twitter.com/HonofBryan">HonofBryan</a></td>
 		<td>Belgium</td>
 		<td>68</td>
 	</tr>
@@ -6371,7 +6372,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Thora
 		</td>
 		<td>@inventis </td>
-		<td><a href="https://twitter.com/jeroenthora">jeroenthora</a></td>
+		<td><a target="_blank" href="https://twitter.com/jeroenthora">jeroenthora</a></td>
 		<td>Belgium</td>
 		<td>68</td>
 	</tr>
@@ -6410,7 +6411,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim Geyssens
 		</td>
 		<td>Nibble </td>
-		<td><a href="https://twitter.com/timgeyssens">timgeyssens</a></td>
+		<td><a target="_blank" href="https://twitter.com/timgeyssens">timgeyssens</a></td>
 		<td>Belgium</td>
 		<td>68</td>
 	</tr>
@@ -6423,7 +6424,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jos De Roo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/josderoo">josderoo</a></td>
+		<td><a target="_blank" href="https://twitter.com/josderoo">josderoo</a></td>
 		<td>Ghent Belgium</td>
 		<td>67</td>
 	</tr>
@@ -6449,7 +6450,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Patrick Hochstenbach
 		</td>
 		<td>Ghent University Library </td>
-		<td><a href="https://twitter.com/hochstenbach">hochstenbach</a></td>
+		<td><a target="_blank" href="https://twitter.com/hochstenbach">hochstenbach</a></td>
 		<td>Ghent Belgium</td>
 		<td>67</td>
 	</tr>
@@ -6488,7 +6489,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Martin Andr
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Martichouu">Martichouu</a></td>
+		<td><a target="_blank" href="https://twitter.com/Martichouu">Martichouu</a></td>
 		<td>Belgium</td>
 		<td>67</td>
 	</tr>
@@ -6501,7 +6502,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Roel Van Gils
 		</td>
 		<td>Eleven Ways </td>
-		<td><a href="https://twitter.com/roelvangils">roelvangils</a></td>
+		<td><a target="_blank" href="https://twitter.com/roelvangils">roelvangils</a></td>
 		<td>Belgium</td>
 		<td>67</td>
 	</tr>
@@ -6553,7 +6554,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Matthieu Baerts
 		</td>
 		<td>@tessares </td>
-		<td><a href="https://twitter.com/matttbe8">matttbe8</a></td>
+		<td><a target="_blank" href="https://twitter.com/matttbe8">matttbe8</a></td>
 		<td>Belgium</td>
 		<td>66</td>
 	</tr>
@@ -6566,7 +6567,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Johan Siebens
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nosceon">nosceon</a></td>
+		<td><a target="_blank" href="https://twitter.com/nosceon">nosceon</a></td>
 		<td>Belgium</td>
 		<td>66</td>
 	</tr>
@@ -6579,7 +6580,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tom Cools
 		</td>
 		<td>@infosupport </td>
-		<td><a href="https://twitter.com/TCoolsIT">TCoolsIT</a></td>
+		<td><a target="_blank" href="https://twitter.com/TCoolsIT">TCoolsIT</a></td>
 		<td>Belgium</td>
 		<td>66</td>
 	</tr>
@@ -6592,7 +6593,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Halil Ertekin
 		</td>
 		<td>@demazsolutions  </td>
-		<td><a href="https://twitter.com/halilertkn">halilertkn</a></td>
+		<td><a target="_blank" href="https://twitter.com/halilertkn">halilertkn</a></td>
 		<td>Antwerp</td>
 		<td>66</td>
 	</tr>
@@ -6696,7 +6697,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Philippe De Pauw  Waterschoot
 		</td>
 		<td>Artevelde University Of Applied<br/>Sciences<br/><br/>@pgmgent<br/><br/><br/>@gdmgent<br/><br/></td>
-		<td><a href="https://twitter.com/drdynscript">drdynscript</a></td>
+		<td><a target="_blank" href="https://twitter.com/drdynscript">drdynscript</a></td>
 		<td>Mariakerke Ghent</td>
 		<td>65</td>
 	</tr>
@@ -6722,7 +6723,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kris Meeusen
 		</td>
 		<td>Lab101 </td>
-		<td><a href="https://twitter.com/zuppaman">zuppaman</a></td>
+		<td><a target="_blank" href="https://twitter.com/zuppaman">zuppaman</a></td>
 		<td>belgium</td>
 		<td>65</td>
 	</tr>
@@ -6774,7 +6775,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gerard Maas
 		</td>
 		<td>@layerai </td>
-		<td><a href="https://twitter.com/maasg">maasg</a></td>
+		<td><a target="_blank" href="https://twitter.com/maasg">maasg</a></td>
 		<td>Belgium</td>
 		<td>65</td>
 	</tr>
@@ -6787,7 +6788,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Pieter Claerhout
 		</td>
 		<td>Jono Fotografie </td>
-		<td><a href="https://twitter.com/pieterclaerhout">pieterclaerhout</a></td>
+		<td><a target="_blank" href="https://twitter.com/pieterclaerhout">pieterclaerhout</a></td>
 		<td>Beernem Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6800,7 +6801,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Zeldown
 		</td>
 		<td>Zeldown </td>
-		<td><a href="https://twitter.com/Zeldown">Zeldown</a></td>
+		<td><a target="_blank" href="https://twitter.com/Zeldown">Zeldown</a></td>
 		<td>Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6813,7 +6814,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wouter Coekaerts
 		</td>
 		<td>Square Inc </td>
-		<td><a href="https://twitter.com/WouterCoekaerts">WouterCoekaerts</a></td>
+		<td><a target="_blank" href="https://twitter.com/WouterCoekaerts">WouterCoekaerts</a></td>
 		<td>Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6826,7 +6827,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maxim Van de Wynckel
 		</td>
 		<td>Vrije Universiteit Brussel </td>
-		<td><a href="https://twitter.com/MVdWSoftware">MVdWSoftware</a></td>
+		<td><a target="_blank" href="https://twitter.com/MVdWSoftware">MVdWSoftware</a></td>
 		<td>Brussels Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6852,7 +6853,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Willy De Keyser
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/willy_de_keyser">willy_de_keyser</a></td>
+		<td><a target="_blank" href="https://twitter.com/willy_de_keyser">willy_de_keyser</a></td>
 		<td>Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6865,7 +6866,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Powolny Marcel Talk is cheap show me the code 
 		</td>
 		<td>Visuweb </td>
-		<td><a href="https://twitter.com/Marcpowo">Marcpowo</a></td>
+		<td><a target="_blank" href="https://twitter.com/Marcpowo">Marcpowo</a></td>
 		<td>Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6878,7 +6879,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jan Vantomme
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vormplus">vormplus</a></td>
+		<td><a target="_blank" href="https://twitter.com/vormplus">vormplus</a></td>
 		<td>Ghent Belgium</td>
 		<td>64</td>
 	</tr>
@@ -6891,7 +6892,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maxime Vincent
 		</td>
 		<td>Finalmouse </td>
-		<td><a href="https://twitter.com/maximevince">maximevince</a></td>
+		<td><a target="_blank" href="https://twitter.com/maximevince">maximevince</a></td>
 		<td>Hasselt Belgium</td>
 		<td>63</td>
 	</tr>
@@ -6904,7 +6905,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wim Mostmans
 		</td>
 		<td>Ambassify </td>
-		<td><a href="https://twitter.com/sitebase">sitebase</a></td>
+		<td><a target="_blank" href="https://twitter.com/sitebase">sitebase</a></td>
 		<td>Belgium</td>
 		<td>63</td>
 	</tr>
@@ -7008,7 +7009,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Rocco Russo
 		</td>
 		<td>@theweb3ninja  </td>
-		<td><a href="https://twitter.com/xdemocle">xdemocle</a></td>
+		<td><a target="_blank" href="https://twitter.com/xdemocle">xdemocle</a></td>
 		<td>World  Past Spain Netherlands Belgium Malta Italy my mom</td>
 		<td>62</td>
 	</tr>
@@ -7047,7 +7048,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Michiel De Backker
 		</td>
 		<td>@twintag </td>
-		<td><a href="https://twitter.com/backkem">backkem</a></td>
+		<td><a target="_blank" href="https://twitter.com/backkem">backkem</a></td>
 		<td>Belgium</td>
 		<td>62</td>
 	</tr>
@@ -7060,7 +7061,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			iooner
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iooner">iooner</a></td>
+		<td><a target="_blank" href="https://twitter.com/iooner">iooner</a></td>
 		<td>Belgium</td>
 		<td>62</td>
 	</tr>
@@ -7073,7 +7074,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Yannick Reekmans
 		</td>
 		<td>@qubix365  </td>
-		<td><a href="https://twitter.com/YannickReekmans">YannickReekmans</a></td>
+		<td><a target="_blank" href="https://twitter.com/YannickReekmans">YannickReekmans</a></td>
 		<td>Belgium</td>
 		<td>62</td>
 	</tr>
@@ -7151,7 +7152,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			lvaro A GutirrezVargas
 		</td>
 		<td>@kuleuven </td>
-		<td><a href="https://twitter.com/alvarogutyerrez">alvarogutyerrez</a></td>
+		<td><a target="_blank" href="https://twitter.com/alvarogutyerrez">alvarogutyerrez</a></td>
 		<td>Leuven Belgium</td>
 		<td>61</td>
 	</tr>
@@ -7164,7 +7165,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim Schraepen
 		</td>
 		<td>@kunlabora   </td>
-		<td><a href="https://twitter.com/TimSchraepen">TimSchraepen</a></td>
+		<td><a target="_blank" href="https://twitter.com/TimSchraepen">TimSchraepen</a></td>
 		<td>Bierbeek Belgium</td>
 		<td>61</td>
 	</tr>
@@ -7190,7 +7191,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Karim Vaes
 		</td>
 		<td>Microsoft Coorporation </td>
-		<td><a href="https://twitter.com/kvaes">kvaes</a></td>
+		<td><a target="_blank" href="https://twitter.com/kvaes">kvaes</a></td>
 		<td>HeistopdenBerg Belgium</td>
 		<td>61</td>
 	</tr>
@@ -7229,7 +7230,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bram De Coninck
 		</td>
 		<td>Crowncorp </td>
-		<td><a href="https://twitter.com/BramDC3">BramDC3</a></td>
+		<td><a target="_blank" href="https://twitter.com/BramDC3">BramDC3</a></td>
 		<td>Ghent Belgium</td>
 		<td>61</td>
 	</tr>
@@ -7281,7 +7282,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			V Minh Thu
 		</td>
 		<td>@hypered </td>
-		<td><a href="https://twitter.com/noteed">noteed</a></td>
+		<td><a target="_blank" href="https://twitter.com/noteed">noteed</a></td>
 		<td>Belgium</td>
 		<td>60</td>
 	</tr>
@@ -7294,7 +7295,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Martin Van Aken
 		</td>
 		<td>@farmforgood @beeodiversity </td>
-		<td><a href="https://twitter.com/martinvanaken">martinvanaken</a></td>
+		<td><a target="_blank" href="https://twitter.com/martinvanaken">martinvanaken</a></td>
 		<td>Brussels</td>
 		<td>60</td>
 	</tr>
@@ -7307,7 +7308,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ruben De Smet
 		</td>
 		<td>Vrije Universiteit Brussel </td>
-		<td><a href="https://twitter.com/rubdos">rubdos</a></td>
+		<td><a target="_blank" href="https://twitter.com/rubdos">rubdos</a></td>
 		<td>Brussels</td>
 		<td>60</td>
 	</tr>
@@ -7385,7 +7386,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Steven Van Impe
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pwsacademy">pwsacademy</a></td>
+		<td><a target="_blank" href="https://twitter.com/pwsacademy">pwsacademy</a></td>
 		<td>Gent Belgium</td>
 		<td>60</td>
 	</tr>
@@ -7437,7 +7438,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Samuel De Backer
 		</td>
 		<td>Typi Design </td>
-		<td><a href="https://twitter.com/samueldebacker">samueldebacker</a></td>
+		<td><a target="_blank" href="https://twitter.com/samueldebacker">samueldebacker</a></td>
 		<td>Brussels Belgium</td>
 		<td>59</td>
 	</tr>
@@ -7463,7 +7464,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wim Godden
 		</td>
 		<td>Cube Solutions @cubesolutions </td>
-		<td><a href="https://twitter.com/wimgtr">wimgtr</a></td>
+		<td><a target="_blank" href="https://twitter.com/wimgtr">wimgtr</a></td>
 		<td>Belgium</td>
 		<td>59</td>
 	</tr>
@@ -7476,7 +7477,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Damien Bouvy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bouvyd">bouvyd</a></td>
+		<td><a target="_blank" href="https://twitter.com/bouvyd">bouvyd</a></td>
 		<td>Belgium</td>
 		<td>59</td>
 	</tr>
@@ -7489,7 +7490,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Muhammed Sari
 		</td>
 		<td>Dive Interactive </td>
-		<td><a href="https://twitter.com/mabdullahsari">mabdullahsari</a></td>
+		<td><a target="_blank" href="https://twitter.com/mabdullahsari">mabdullahsari</a></td>
 		<td>Belgium Ghent</td>
 		<td>59</td>
 	</tr>
@@ -7541,7 +7542,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Boilingbrains
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Boiling_Brains_">Boiling_Brains_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Boiling_Brains_">Boiling_Brains_</a></td>
 		<td>Belgium</td>
 		<td>59</td>
 	</tr>
@@ -7619,7 +7620,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sacha Lewin
 		</td>
 		<td>University Of Lige </td>
-		<td><a href="https://twitter.com/SachaLewin">SachaLewin</a></td>
+		<td><a target="_blank" href="https://twitter.com/SachaLewin">SachaLewin</a></td>
 		<td>Lige Belgium</td>
 		<td>58</td>
 	</tr>
@@ -7632,7 +7633,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Farrukh Askari
 		</td>
 		<td> @letsbuilders @codeforpakistan @sweetpixel<br/></td>
-		<td><a href="https://twitter.com/askari01">askari01</a></td>
+		<td><a target="_blank" href="https://twitter.com/askari01">askari01</a></td>
 		<td>Brussels Belgium</td>
 		<td>58</td>
 	</tr>
@@ -7736,7 +7737,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Benjamin Michotte
 		</td>
 		<td>Pp </td>
-		<td><a href="https://twitter.com/bmichotte">bmichotte</a></td>
+		<td><a target="_blank" href="https://twitter.com/bmichotte">bmichotte</a></td>
 		<td>Lige Belgium</td>
 		<td>57</td>
 	</tr>
@@ -7762,7 +7763,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stefano Ceschi Berrini
 		</td>
 		<td>@infinitaslearning </td>
-		<td><a href="https://twitter.com/mcflycb">mcflycb</a></td>
+		<td><a target="_blank" href="https://twitter.com/mcflycb">mcflycb</a></td>
 		<td>Padova Stockholm Utrecht Antwerp</td>
 		<td>57</td>
 	</tr>
@@ -7775,7 +7776,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dylan Van Assche
 		</td>
 		<td>Phd Researcher @idlabresearch Ghent<br/></td>
-		<td><a href="https://twitter.com/DylanVanAssche">DylanVanAssche</a></td>
+		<td><a target="_blank" href="https://twitter.com/DylanVanAssche">DylanVanAssche</a></td>
 		<td>Belgium</td>
 		<td>57</td>
 	</tr>
@@ -7788,7 +7789,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Olivier Pieters
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/OlivierPieters">OlivierPieters</a></td>
+		<td><a target="_blank" href="https://twitter.com/OlivierPieters">OlivierPieters</a></td>
 		<td>Belgium</td>
 		<td>57</td>
 	</tr>
@@ -7814,7 +7815,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tom Van Looy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tvlooy">tvlooy</a></td>
+		<td><a target="_blank" href="https://twitter.com/tvlooy">tvlooy</a></td>
 		<td>Belgium Beerse</td>
 		<td>57</td>
 	</tr>
@@ -7866,7 +7867,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Anthony Du Pont
 		</td>
 		<td>@dogstudio  </td>
-		<td><a href="https://twitter.com/Anthodpnt">Anthodpnt</a></td>
+		<td><a target="_blank" href="https://twitter.com/Anthodpnt">Anthodpnt</a></td>
 		<td>Belgium</td>
 		<td>57</td>
 	</tr>
@@ -7892,7 +7893,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stanislas Boyet
 		</td>
 		<td>@recovr  </td>
-		<td><a href="https://twitter.com/StanBoyet">StanBoyet</a></td>
+		<td><a target="_blank" href="https://twitter.com/StanBoyet">StanBoyet</a></td>
 		<td>Belgium</td>
 		<td>56</td>
 	</tr>
@@ -7905,7 +7906,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Vincent Botta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/0asa">0asa</a></td>
+		<td><a target="_blank" href="https://twitter.com/0asa">0asa</a></td>
 		<td>Belgium</td>
 		<td>56</td>
 	</tr>
@@ -7931,7 +7932,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Enrico Spinielli
 		</td>
 		<td>Eurocontrol </td>
-		<td><a href="https://twitter.com/espinielli">espinielli</a></td>
+		<td><a target="_blank" href="https://twitter.com/espinielli">espinielli</a></td>
 		<td>Bruxelles Belgium</td>
 		<td>56</td>
 	</tr>
@@ -7944,7 +7945,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Alexis Abda
 		</td>
 		<td>@19network42 </td>
-		<td><a href="https://twitter.com/counfouzz">counfouzz</a></td>
+		<td><a target="_blank" href="https://twitter.com/counfouzz">counfouzz</a></td>
 		<td>Belgium</td>
 		<td>56</td>
 	</tr>
@@ -7957,7 +7958,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Manuel Sousa
 		</td>
 		<td>Mlrcbsousa Srl @mlrcbsousainc <br/></td>
-		<td><a href="https://twitter.com/mlrcbsousa">mlrcbsousa</a></td>
+		<td><a target="_blank" href="https://twitter.com/mlrcbsousa">mlrcbsousa</a></td>
 		<td>Brussels Belgium</td>
 		<td>56</td>
 	</tr>
@@ -7983,7 +7984,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>Kyvern </td>
-		<td><a href="https://twitter.com/LEMIBANDDEXARI">LEMIBANDDEXARI</a></td>
+		<td><a target="_blank" href="https://twitter.com/LEMIBANDDEXARI">LEMIBANDDEXARI</a></td>
 		<td>Belgium</td>
 		<td>56</td>
 	</tr>
@@ -8048,7 +8049,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Marius van den Beek
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mariusvdbeek">mariusvdbeek</a></td>
+		<td><a target="_blank" href="https://twitter.com/mariusvdbeek">mariusvdbeek</a></td>
 		<td>Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8061,7 +8062,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Stefaan Lippens
 		</td>
 		<td>Vito Remote Sensing </td>
-		<td><a href="https://twitter.com/soxofaan">soxofaan</a></td>
+		<td><a target="_blank" href="https://twitter.com/soxofaan">soxofaan</a></td>
 		<td>Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8074,7 +8075,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jonas Snellinckx
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JonasSnellinckx">JonasSnellinckx</a></td>
+		<td><a target="_blank" href="https://twitter.com/JonasSnellinckx">JonasSnellinckx</a></td>
 		<td>Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8139,7 +8140,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Amedee Van Gasse
 		</td>
 		<td>I Test Code Before<br/>I<br/>Write<br/>Code<br/></td>
-		<td><a href="https://twitter.com/amedeevangasse">amedeevangasse</a></td>
+		<td><a target="_blank" href="https://twitter.com/amedeevangasse">amedeevangasse</a></td>
 		<td>Ghent Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8152,7 +8153,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nicky Meuleman
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/NMeuleman">NMeuleman</a></td>
+		<td><a target="_blank" href="https://twitter.com/NMeuleman">NMeuleman</a></td>
 		<td>Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8191,7 +8192,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fabian Arrotin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/arrfab">arrfab</a></td>
+		<td><a target="_blank" href="https://twitter.com/arrfab">arrfab</a></td>
 		<td>Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8204,7 +8205,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Dave Woestenborghs
 		</td>
 		<td>Dotcontrol </td>
-		<td><a href="https://twitter.com/dawoe21">dawoe21</a></td>
+		<td><a target="_blank" href="https://twitter.com/dawoe21">dawoe21</a></td>
 		<td>DilsenStokkem Belgium</td>
 		<td>55</td>
 	</tr>
@@ -8347,7 +8348,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ian Channing
 		</td>
 		<td>@charphq </td>
-		<td><a href="https://twitter.com/ianchanning">ianchanning</a></td>
+		<td><a target="_blank" href="https://twitter.com/ianchanning">ianchanning</a></td>
 		<td>Lier Belgium</td>
 		<td>54</td>
 	</tr>
@@ -8373,7 +8374,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Denis Voituron
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/denisvoituron">denisvoituron</a></td>
+		<td><a target="_blank" href="https://twitter.com/denisvoituron">denisvoituron</a></td>
 		<td> Belgium</td>
 		<td>54</td>
 	</tr>
@@ -8386,7 +8387,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Charles Troupin
 		</td>
 		<td>@gheruliege </td>
-		<td><a href="https://twitter.com/CharlesTroupin">CharlesTroupin</a></td>
+		<td><a target="_blank" href="https://twitter.com/CharlesTroupin">CharlesTroupin</a></td>
 		<td>Lige</td>
 		<td>54</td>
 	</tr>
@@ -8399,7 +8400,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			xurei
 		</td>
 		<td>Xurei Lab </td>
-		<td><a href="https://twitter.com/xurei">xurei</a></td>
+		<td><a target="_blank" href="https://twitter.com/xurei">xurei</a></td>
 		<td>Brussels</td>
 		<td>54</td>
 	</tr>
@@ -8425,7 +8426,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Pieter Nijs
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nijspieter">nijspieter</a></td>
+		<td><a target="_blank" href="https://twitter.com/nijspieter">nijspieter</a></td>
 		<td>Belgium</td>
 		<td>54</td>
 	</tr>
@@ -8464,7 +8465,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Manuele J Sarfatti
 		</td>
 		<td>Hello Tomorrow </td>
-		<td><a href="https://twitter.com/mjsarfatti">mjsarfatti</a></td>
+		<td><a target="_blank" href="https://twitter.com/mjsarfatti">mjsarfatti</a></td>
 		<td>Brussels Belgium</td>
 		<td>54</td>
 	</tr>
@@ -8490,7 +8491,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Brecht De Man
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BrechtDeMan">BrechtDeMan</a></td>
+		<td><a target="_blank" href="https://twitter.com/BrechtDeMan">BrechtDeMan</a></td>
 		<td>Belgium</td>
 		<td>54</td>
 	</tr>
@@ -8555,7 +8556,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sakou Barry
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bluebeela">bluebeela</a></td>
+		<td><a target="_blank" href="https://twitter.com/bluebeela">bluebeela</a></td>
 		<td>Brussels</td>
 		<td>53</td>
 	</tr>
@@ -8737,7 +8738,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Braza Faouzi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/braza_faouzi">braza_faouzi</a></td>
+		<td><a target="_blank" href="https://twitter.com/braza_faouzi">braza_faouzi</a></td>
 		<td>Brussels Belgium</td>
 		<td>52</td>
 	</tr>
@@ -8750,7 +8751,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Hassan Murtaza
 		</td>
 		<td>@computeoncloud </td>
-		<td><a href="https://twitter.com/MrHassanMurtaza">MrHassanMurtaza</a></td>
+		<td><a target="_blank" href="https://twitter.com/MrHassanMurtaza">MrHassanMurtaza</a></td>
 		<td>Belgium</td>
 		<td>52</td>
 	</tr>
@@ -8776,7 +8777,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sirjonasxx">sirjonasxx</a></td>
+		<td><a target="_blank" href="https://twitter.com/sirjonasxx">sirjonasxx</a></td>
 		<td>Belgium</td>
 		<td>52</td>
 	</tr>
@@ -8802,7 +8803,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Coussement
 		</td>
 		<td>@factrylabs  </td>
-		<td><a href="https://twitter.com/coussej">coussej</a></td>
+		<td><a target="_blank" href="https://twitter.com/coussej">coussej</a></td>
 		<td>Belgium</td>
 		<td>52</td>
 	</tr>
@@ -8841,7 +8842,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Brent Guffens
 		</td>
 		<td>@citizenlabdotco </td>
-		<td><a href="https://twitter.com/brentguf">brentguf</a></td>
+		<td><a target="_blank" href="https://twitter.com/brentguf">brentguf</a></td>
 		<td>Belgium</td>
 		<td>51</td>
 	</tr>
@@ -8893,7 +8894,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kevin Dubois
 		</td>
 		<td>@redhatofficial </td>
-		<td><a href="https://twitter.com/kevindubois">kevindubois</a></td>
+		<td><a target="_blank" href="https://twitter.com/kevindubois">kevindubois</a></td>
 		<td>Brussels Belgium</td>
 		<td>51</td>
 	</tr>
@@ -8906,7 +8907,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Vincent Claes
 		</td>
 		<td>Freelance Ml Engineer </td>
-		<td><a href="https://twitter.com/VincentClaes1">VincentClaes1</a></td>
+		<td><a target="_blank" href="https://twitter.com/VincentClaes1">VincentClaes1</a></td>
 		<td>Belgium</td>
 		<td>51</td>
 	</tr>
@@ -8919,7 +8920,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Mario Becerra
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/mario_2831">mario_2831</a></td>
+		<td><a target="_blank" href="https://twitter.com/mario_2831">mario_2831</a></td>
 		<td>Leuven Belgium</td>
 		<td>51</td>
 	</tr>
@@ -8997,7 +8998,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kostia
 		</td>
 		<td>@panenco </td>
-		<td><a href="https://twitter.com/doichev_kostia">doichev_kostia</a></td>
+		<td><a target="_blank" href="https://twitter.com/doichev_kostia">doichev_kostia</a></td>
 		<td>Kyiv Ukraine  Leuven Belgium</td>
 		<td>50</td>
 	</tr>
@@ -9049,7 +9050,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ken Verhaegen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/xewl">xewl</a></td>
+		<td><a target="_blank" href="https://twitter.com/xewl">xewl</a></td>
 		<td>HeistopdenBerg Belgium</td>
 		<td>50</td>
 	</tr>
@@ -9114,7 +9115,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			joris hermans
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jorishermans">jorishermans</a></td>
+		<td><a target="_blank" href="https://twitter.com/jorishermans">jorishermans</a></td>
 		<td>Belgium</td>
 		<td>50</td>
 	</tr>
@@ -9127,7 +9128,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Maescool">Maescool</a></td>
+		<td><a target="_blank" href="https://twitter.com/Maescool">Maescool</a></td>
 		<td>Belgium</td>
 		<td>50</td>
 	</tr>
@@ -9140,7 +9141,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tho Gil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gheotil">gheotil</a></td>
+		<td><a target="_blank" href="https://twitter.com/gheotil">gheotil</a></td>
 		<td>Lige Belgium</td>
 		<td>50</td>
 	</tr>
@@ -9153,7 +9154,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Juan Buitrago
 		</td>
 		<td>Waverley Software </td>
-		<td><a href="https://twitter.com/juanfe9118">juanfe9118</a></td>
+		<td><a target="_blank" href="https://twitter.com/juanfe9118">juanfe9118</a></td>
 		<td>Boom Belgium </td>
 		<td>50</td>
 	</tr>
@@ -9231,7 +9232,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gauthier Billot
 		</td>
 		<td>@firefalcom </td>
-		<td><a href="https://twitter.com/gogoprog">gogoprog</a></td>
+		<td><a target="_blank" href="https://twitter.com/gogoprog">gogoprog</a></td>
 		<td>Mons Belgium</td>
 		<td>49</td>
 	</tr>
@@ -9244,7 +9245,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bart Mesuere
 		</td>
 		<td>Ghent University </td>
-		<td><a href="https://twitter.com/BartMesuere">BartMesuere</a></td>
+		<td><a target="_blank" href="https://twitter.com/BartMesuere">BartMesuere</a></td>
 		<td>Ghent Belgium</td>
 		<td>49</td>
 	</tr>
@@ -9257,7 +9258,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			GJ De Wilde
 		</td>
 		<td>@apideckio  </td>
-		<td><a href="https://twitter.com/gertjanwilde">gertjanwilde</a></td>
+		<td><a target="_blank" href="https://twitter.com/gertjanwilde">gertjanwilde</a></td>
 		<td>Belgium</td>
 		<td>49</td>
 	</tr>
@@ -9426,7 +9427,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thanasis Rigopoulos
 		</td>
 		<td>Bridgestone </td>
-		<td><a href="https://twitter.com/tnsrig">tnsrig</a></td>
+		<td><a target="_blank" href="https://twitter.com/tnsrig">tnsrig</a></td>
 		<td>Brussels</td>
 		<td>49</td>
 	</tr>
@@ -9439,7 +9440,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Toon Van den Bos
 		</td>
 		<td>@whitecube  </td>
-		<td><a href="https://twitter.com/nyratas">nyratas</a></td>
+		<td><a target="_blank" href="https://twitter.com/nyratas">nyratas</a></td>
 		<td>Lige</td>
 		<td>48</td>
 	</tr>
@@ -9452,7 +9453,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tim Broddin
 		</td>
 		<td>Automattic </td>
-		<td><a href="https://twitter.com/TimBroddin">TimBroddin</a></td>
+		<td><a target="_blank" href="https://twitter.com/TimBroddin">TimBroddin</a></td>
 		<td>Antwerp  Belgium</td>
 		<td>48</td>
 	</tr>
@@ -9478,7 +9479,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Francois BAYART
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/frbayart">frbayart</a></td>
+		<td><a target="_blank" href="https://twitter.com/frbayart">frbayart</a></td>
 		<td>Mons Belgium</td>
 		<td>48</td>
 	</tr>
@@ -9517,7 +9518,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Paulo Gomes
 		</td>
 		<td>The Reference </td>
-		<td><a href="https://twitter.com/pauloamgomes">pauloamgomes</a></td>
+		<td><a target="_blank" href="https://twitter.com/pauloamgomes">pauloamgomes</a></td>
 		<td>Ghent Belgium</td>
 		<td>48</td>
 	</tr>
@@ -9699,7 +9700,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bram Devries
 		</td>
 		<td>@madewithlove </td>
-		<td><a href="https://twitter.com/bramdevr">bramdevr</a></td>
+		<td><a target="_blank" href="https://twitter.com/bramdevr">bramdevr</a></td>
 		<td>Leuven</td>
 		<td>47</td>
 	</tr>
@@ -9738,7 +9739,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Denis Roussel ACSONE
 		</td>
 		<td>Acsone Sanv </td>
-		<td><a href="https://twitter.com/roussel2nis">roussel2nis</a></td>
+		<td><a target="_blank" href="https://twitter.com/roussel2nis">roussel2nis</a></td>
 		<td>Lige Belgium</td>
 		<td>47</td>
 	</tr>
@@ -9751,7 +9752,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ovi Trif
 		</td>
 		<td>Masivotech Bv </td>
-		<td><a href="https://twitter.com/ovitrif">ovitrif</a></td>
+		<td><a target="_blank" href="https://twitter.com/ovitrif">ovitrif</a></td>
 		<td>Flemish region Belgium</td>
 		<td>47</td>
 	</tr>
@@ -9777,7 +9778,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kamila Zdyba
 		</td>
 		<td>Universit Libre De Bruxelles<br/></td>
-		<td><a href="https://twitter.com/kamilazdybal">kamilazdybal</a></td>
+		<td><a target="_blank" href="https://twitter.com/kamilazdybal">kamilazdybal</a></td>
 		<td>Brussels Belgium</td>
 		<td>47</td>
 	</tr>
@@ -9855,7 +9856,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sebastiaan Jansen
 		</td>
 		<td>Tinkerlist </td>
-		<td><a href="https://twitter.com/ikbensebastiaan">ikbensebastiaan</a></td>
+		<td><a target="_blank" href="https://twitter.com/ikbensebastiaan">ikbensebastiaan</a></td>
 		<td>Belgium</td>
 		<td>47</td>
 	</tr>
@@ -9907,7 +9908,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Harings Rob
 		</td>
 		<td>@haringsbe  </td>
-		<td><a href="https://twitter.com/codingrob">codingrob</a></td>
+		<td><a target="_blank" href="https://twitter.com/codingrob">codingrob</a></td>
 		<td>Belgium  Molenstede</td>
 		<td>46</td>
 	</tr>
@@ -9920,7 +9921,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jonathan Danse
 		</td>
 		<td>@wepika </td>
-		<td><a href="https://twitter.com/PrestaEdit">PrestaEdit</a></td>
+		<td><a target="_blank" href="https://twitter.com/PrestaEdit">PrestaEdit</a></td>
 		<td>Belgium</td>
 		<td>46</td>
 	</tr>
@@ -9933,7 +9934,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/StijnVolckaert">StijnVolckaert</a></td>
+		<td><a target="_blank" href="https://twitter.com/StijnVolckaert">StijnVolckaert</a></td>
 		<td>Ghent Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10024,7 +10025,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gabriel Somoza
 		</td>
 		<td>@strategeryinc </td>
-		<td><a href="https://twitter.com/gabriel_somoza">gabriel_somoza</a></td>
+		<td><a target="_blank" href="https://twitter.com/gabriel_somoza">gabriel_somoza</a></td>
 		<td>Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10037,7 +10038,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>Veeam Software </td>
-		<td><a href="https://twitter.com/tdewin">tdewin</a></td>
+		<td><a target="_blank" href="https://twitter.com/tdewin">tdewin</a></td>
 		<td>Mechelen Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10076,7 +10077,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jesse Dobbelaere
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jessedobbelaere">jessedobbelaere</a></td>
+		<td><a target="_blank" href="https://twitter.com/jessedobbelaere">jessedobbelaere</a></td>
 		<td>Ghent Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10115,7 +10116,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thomas Chavakis
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/TomChavakis">TomChavakis</a></td>
+		<td><a target="_blank" href="https://twitter.com/TomChavakis">TomChavakis</a></td>
 		<td>Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10141,7 +10142,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			ssverify
 		</td>
 		<td>Double Star Ltd </td>
-		<td><a href="https://twitter.com/ssverxfy">ssverxfy</a></td>
+		<td><a target="_blank" href="https://twitter.com/ssverxfy">ssverxfy</a></td>
 		<td>Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10219,7 +10220,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Yilmaz MUSTAFA
 		</td>
 		<td>@intecbrusselvzw  </td>
-		<td><a href="https://twitter.com/ymchefbe">ymchefbe</a></td>
+		<td><a target="_blank" href="https://twitter.com/ymchefbe">ymchefbe</a></td>
 		<td>Belgium</td>
 		<td>46</td>
 	</tr>
@@ -10245,7 +10246,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Niels Vanpachtenbeke
 		</td>
 		<td>@spatie </td>
-		<td><a href="https://twitter.com/Nielsvanpach">Nielsvanpach</a></td>
+		<td><a target="_blank" href="https://twitter.com/Nielsvanpach">Nielsvanpach</a></td>
 		<td>Antwerp Belgium</td>
 		<td>45</td>
 	</tr>
@@ -10310,7 +10311,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Nathan Geerinck
 		</td>
 		<td>@intilli  </td>
-		<td><a href="https://twitter.com/NathanGeerinck">NathanGeerinck</a></td>
+		<td><a target="_blank" href="https://twitter.com/NathanGeerinck">NathanGeerinck</a></td>
 		<td>Gent Belgium</td>
 		<td>45</td>
 	</tr>
@@ -10323,7 +10324,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kleuter
 		</td>
 		<td>Crystalidea </td>
-		<td><a href="https://twitter.com/crystalidea">crystalidea</a></td>
+		<td><a target="_blank" href="https://twitter.com/crystalidea">crystalidea</a></td>
 		<td>Belgium</td>
 		<td>45</td>
 	</tr>
@@ -10427,7 +10428,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Albedo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AlbedoIT">AlbedoIT</a></td>
+		<td><a target="_blank" href="https://twitter.com/AlbedoIT">AlbedoIT</a></td>
 		<td>Belgium</td>
 		<td>45</td>
 	</tr>
@@ -10453,7 +10454,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jori
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Tyrasuki">Tyrasuki</a></td>
+		<td><a target="_blank" href="https://twitter.com/Tyrasuki">Tyrasuki</a></td>
 		<td>Belgium</td>
 		<td>45</td>
 	</tr>
@@ -10544,7 +10545,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ali AOUF   
 		</td>
 		<td>Belgian Nuclear Research Centre<br/></td>
-		<td><a href="https://twitter.com/40uf411">40uf411</a></td>
+		<td><a target="_blank" href="https://twitter.com/40uf411">40uf411</a></td>
 		<td>Mol Belgium</td>
 		<td>44</td>
 	</tr>
@@ -10557,7 +10558,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Bob Thiry
 		</td>
 		<td>Thygate </td>
-		<td><a href="https://twitter.com/thygate_">thygate_</a></td>
+		<td><a target="_blank" href="https://twitter.com/thygate_">thygate_</a></td>
 		<td>Belgium</td>
 		<td>44</td>
 	</tr>
@@ -10661,7 +10662,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Simon Depelchin
 		</td>
 		<td>Winamp </td>
-		<td><a href="https://twitter.com/SimonDepelchin">SimonDepelchin</a></td>
+		<td><a target="_blank" href="https://twitter.com/SimonDepelchin">SimonDepelchin</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10752,7 +10753,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Derrick Timmermans
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LumpBloom7">LumpBloom7</a></td>
+		<td><a target="_blank" href="https://twitter.com/LumpBloom7">LumpBloom7</a></td>
 		<td>Genk Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10778,7 +10779,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Matthias Valvekens
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MatthiasVal">MatthiasVal</a></td>
+		<td><a target="_blank" href="https://twitter.com/MatthiasVal">MatthiasVal</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10791,7 +10792,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			eMerzh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/eMerzh">eMerzh</a></td>
+		<td><a target="_blank" href="https://twitter.com/eMerzh">eMerzh</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10817,7 +10818,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ian Hussey
 		</td>
 		<td>Ruhr University Bochum </td>
-		<td><a href="https://twitter.com/ianhussey">ianhussey</a></td>
+		<td><a target="_blank" href="https://twitter.com/ianhussey">ianhussey</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10830,7 +10831,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Fernando Crema
 		</td>
 		<td>Ku Leuven </td>
-		<td><a href="https://twitter.com/FernandoCremaG">FernandoCremaG</a></td>
+		<td><a target="_blank" href="https://twitter.com/FernandoCremaG">FernandoCremaG</a></td>
 		<td>Leuven Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10856,7 +10857,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Tobia De Koninck
 		</td>
 		<td>@openanalytics </td>
-		<td><a href="https://twitter.com/LEDfan1">LEDfan1</a></td>
+		<td><a target="_blank" href="https://twitter.com/LEDfan1">LEDfan1</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10869,7 +10870,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Levi Govaerts
 		</td>
 		<td>@weareoneworld </td>
-		<td><a href="https://twitter.com/Legovaer">Legovaer</a></td>
+		<td><a target="_blank" href="https://twitter.com/Legovaer">Legovaer</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10882,7 +10883,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maarten
 		</td>
 		<td>@astarnetwork </td>
-		<td><a href="https://twitter.com/henskensm">henskensm</a></td>
+		<td><a target="_blank" href="https://twitter.com/henskensm">henskensm</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10895,7 +10896,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Olivier Staquet
 		</td>
 		<td>@gabismartcare  </td>
-		<td><a href="https://twitter.com/ostaquet">ostaquet</a></td>
+		<td><a target="_blank" href="https://twitter.com/ostaquet">ostaquet</a></td>
 		<td>Waterloo Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10921,7 +10922,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maurice Dalderup
 		</td>
 		<td>@nos @trasebe @legacus @compendia<br/></td>
-		<td><a href="https://twitter.com/mauricedalderup">mauricedalderup</a></td>
+		<td><a target="_blank" href="https://twitter.com/mauricedalderup">mauricedalderup</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10947,7 +10948,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Rune Laenen
 		</td>
 		<td>Shopware </td>
-		<td><a href="https://twitter.com/runelaenen">runelaenen</a></td>
+		<td><a target="_blank" href="https://twitter.com/runelaenen">runelaenen</a></td>
 		<td>Lille Belgium</td>
 		<td>43</td>
 	</tr>
@@ -10986,7 +10987,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Vince
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vincevrp">vincevrp</a></td>
+		<td><a target="_blank" href="https://twitter.com/vincevrp">vincevrp</a></td>
 		<td>Belgium</td>
 		<td>43</td>
 	</tr>
@@ -11038,7 +11039,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Rafael Derolez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rafaelderolez">rafaelderolez</a></td>
+		<td><a target="_blank" href="https://twitter.com/rafaelderolez">rafaelderolez</a></td>
 		<td>Ghent Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11051,7 +11052,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Florian Felten
 		</td>
 		<td>University Of Luxemburg </td>
-		<td><a href="https://twitter.com/FlorianFelten1">FlorianFelten1</a></td>
+		<td><a target="_blank" href="https://twitter.com/FlorianFelten1">FlorianFelten1</a></td>
 		<td>Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11064,7 +11065,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Pieter Heyvaert
 		</td>
 		<td>Ghent University  Idlab<br/>Imec<br/></td>
-		<td><a href="https://twitter.com/HeyPieter">HeyPieter</a></td>
+		<td><a target="_blank" href="https://twitter.com/HeyPieter">HeyPieter</a></td>
 		<td>Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11103,7 +11104,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jonas Van Der Donckt
 		</td>
 		<td>Ugent </td>
-		<td><a href="https://twitter.com/kerstmanpoeper">kerstmanpoeper</a></td>
+		<td><a target="_blank" href="https://twitter.com/kerstmanpoeper">kerstmanpoeper</a></td>
 		<td>Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11129,7 +11130,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			AlgoQ
 		</td>
 		<td>Algoq </td>
-		<td><a href="https://twitter.com/AlgoQQ">AlgoQQ</a></td>
+		<td><a target="_blank" href="https://twitter.com/AlgoQQ">AlgoQQ</a></td>
 		<td>Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11155,7 +11156,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sebastian Proost
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ProostSebastian">ProostSebastian</a></td>
+		<td><a target="_blank" href="https://twitter.com/ProostSebastian">ProostSebastian</a></td>
 		<td>Belgium Leuven</td>
 		<td>42</td>
 	</tr>
@@ -11194,7 +11195,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Peter Y C Chang
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ApulloChang">ApulloChang</a></td>
+		<td><a target="_blank" href="https://twitter.com/ApulloChang">ApulloChang</a></td>
 		<td>Leuven Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11233,7 +11234,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wouter Overmeire
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lodagro">lodagro</a></td>
+		<td><a target="_blank" href="https://twitter.com/lodagro">lodagro</a></td>
 		<td>SintNiklaas Belgium</td>
 		<td>42</td>
 	</tr>
@@ -11428,7 +11429,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Hermans
 		</td>
 		<td>@datacamp  </td>
-		<td><a href="https://twitter.com/hermansje">hermansje</a></td>
+		<td><a target="_blank" href="https://twitter.com/hermansje">hermansje</a></td>
 		<td>Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11454,7 +11455,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Damien Coraboeuf
 		</td>
 		<td>Nemerosa </td>
-		<td><a href="https://twitter.com/DamienCoraboeuf">DamienCoraboeuf</a></td>
+		<td><a target="_blank" href="https://twitter.com/DamienCoraboeuf">DamienCoraboeuf</a></td>
 		<td>Brussels</td>
 		<td>41</td>
 	</tr>
@@ -11519,7 +11520,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Thiago Alves
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/avsthiago">avsthiago</a></td>
+		<td><a target="_blank" href="https://twitter.com/avsthiago">avsthiago</a></td>
 		<td>Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11532,7 +11533,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kayleigh Pilgrim
 		</td>
 		<td>Cloudlaunch Kp Consultancy </td>
-		<td><a href="https://twitter.com/Kayleigh_Pil">Kayleigh_Pil</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kayleigh_Pil">Kayleigh_Pil</a></td>
 		<td>Antwerp Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11558,7 +11559,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Gnther Debrauwer
 		</td>
 		<td>@wotzebra Formerly @nextappsbe </td>
-		<td><a href="https://twitter.com/gdebrauwer">gdebrauwer</a></td>
+		<td><a target="_blank" href="https://twitter.com/gdebrauwer">gdebrauwer</a></td>
 		<td>Roeselare Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11597,7 +11598,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Wim Matthyssen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wmatthyssen">wmatthyssen</a></td>
+		<td><a target="_blank" href="https://twitter.com/wmatthyssen">wmatthyssen</a></td>
 		<td>Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11623,7 +11624,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Francois B Makoto
 		</td>
 		<td>Makoto No Blog </td>
-		<td><a href="https://twitter.com/MakotoNoBlog">MakotoNoBlog</a></td>
+		<td><a target="_blank" href="https://twitter.com/MakotoNoBlog">MakotoNoBlog</a></td>
 		<td>Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11662,7 +11663,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Your Azure Coach
 		</td>
 		<td>Your Azure Coach </td>
-		<td><a href="https://twitter.com/azurecoach">azurecoach</a></td>
+		<td><a target="_blank" href="https://twitter.com/azurecoach">azurecoach</a></td>
 		<td>Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11675,7 +11676,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Ilya
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/IFainberg">IFainberg</a></td>
+		<td><a target="_blank" href="https://twitter.com/IFainberg">IFainberg</a></td>
 		<td>Brussels Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11688,7 +11689,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Kasper Zutterman
 		</td>
 		<td>@otainsight </td>
-		<td><a href="https://twitter.com/KasperZutterman">KasperZutterman</a></td>
+		<td><a target="_blank" href="https://twitter.com/KasperZutterman">KasperZutterman</a></td>
 		<td>Belgium</td>
 		<td>41</td>
 	</tr>
@@ -11805,7 +11806,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Michael V
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/michael_belgium">michael_belgium</a></td>
+		<td><a target="_blank" href="https://twitter.com/michael_belgium">michael_belgium</a></td>
 		<td>Belgium</td>
 		<td>40</td>
 	</tr>
@@ -11844,7 +11845,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Van Der Donckt
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jeroen_vdd">jeroen_vdd</a></td>
+		<td><a target="_blank" href="https://twitter.com/jeroen_vdd">jeroen_vdd</a></td>
 		<td>Ghent Belgium</td>
 		<td>40</td>
 	</tr>
@@ -11896,7 +11897,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Robert Vanden Eynde
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/robertvend">robertvend</a></td>
+		<td><a target="_blank" href="https://twitter.com/robertvend">robertvend</a></td>
 		<td>Brussels Belgium</td>
 		<td>40</td>
 	</tr>
@@ -11909,7 +11910,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Alex
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Alekuso_">Alekuso_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Alekuso_">Alekuso_</a></td>
 		<td>Belgium</td>
 		<td>40</td>
 	</tr>
@@ -11935,7 +11936,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Martijn Courteaux
 		</td>
 		<td>Universiteit Gent </td>
-		<td><a href="https://twitter.com/courteauxm">courteauxm</a></td>
+		<td><a target="_blank" href="https://twitter.com/courteauxm">courteauxm</a></td>
 		<td>Belgium</td>
 		<td>40</td>
 	</tr>
@@ -12091,7 +12092,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Peter Forret
 		</td>
 		<td>Forretcom Bv </td>
-		<td><a href="https://twitter.com/pforret">pforret</a></td>
+		<td><a target="_blank" href="https://twitter.com/pforret">pforret</a></td>
 		<td>Brussels Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12104,7 +12105,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Jeroen Vermeulen
 		</td>
 		<td>Jeroen Vermeulen Bv </td>
-		<td><a href="https://twitter.com/jeroen_vm">jeroen_vm</a></td>
+		<td><a target="_blank" href="https://twitter.com/jeroen_vm">jeroen_vm</a></td>
 		<td>Retie Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12143,7 +12144,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Julian Rojas
 		</td>
 		<td>Ugent  Imec </td>
-		<td><a href="https://twitter.com/julianr1987">julianr1987</a></td>
+		<td><a target="_blank" href="https://twitter.com/julianr1987">julianr1987</a></td>
 		<td>Ghent Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12169,7 +12170,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Sam Borms
 		</td>
 		<td>Desirdata </td>
-		<td><a href="https://twitter.com/samborms">samborms</a></td>
+		<td><a target="_blank" href="https://twitter.com/samborms">samborms</a></td>
 		<td>Brussels</td>
 		<td>39</td>
 	</tr>
@@ -12182,7 +12183,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			ChrisArmel
 		</td>
 		<td>@awalkaday  </td>
-		<td><a href="https://twitter.com/daqhris">daqhris</a></td>
+		<td><a target="_blank" href="https://twitter.com/daqhris">daqhris</a></td>
 		<td>Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12247,7 +12248,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Schinckus Lionel
 		</td>
 		<td>@dcodeevo  </td>
-		<td><a href="https://twitter.com/ValCapri">ValCapri</a></td>
+		<td><a target="_blank" href="https://twitter.com/ValCapri">ValCapri</a></td>
 		<td>Lige Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12273,7 +12274,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nicovermeir">nicovermeir</a></td>
+		<td><a target="_blank" href="https://twitter.com/nicovermeir">nicovermeir</a></td>
 		<td>Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12286,7 +12287,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Anthony R
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anthonyringoet">anthonyringoet</a></td>
+		<td><a target="_blank" href="https://twitter.com/anthonyringoet">anthonyringoet</a></td>
 		<td>Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12312,7 +12313,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Lode Vanhove
 		</td>
 		<td>In The Pocket </td>
-		<td><a href="https://twitter.com/bitcrumb">bitcrumb</a></td>
+		<td><a target="_blank" href="https://twitter.com/bitcrumb">bitcrumb</a></td>
 		<td>Deinze Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12325,7 +12326,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mistermicheels">mistermicheels</a></td>
+		<td><a target="_blank" href="https://twitter.com/mistermicheels">mistermicheels</a></td>
 		<td>Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12338,7 +12339,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Svend Vanderveken
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sv3ndk">sv3ndk</a></td>
+		<td><a target="_blank" href="https://twitter.com/sv3ndk">sv3ndk</a></td>
 		<td>Belgium</td>
 		<td>39</td>
 	</tr>
@@ -12403,7 +12404,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			tracher 999
 		</td>
 		<td>Memewarfare </td>
-		<td><a href="https://twitter.com/djybt">djybt</a></td>
+		<td><a target="_blank" href="https://twitter.com/djybt">djybt</a></td>
 		<td>belgium</td>
 		<td>39</td>
 	</tr>
@@ -12416,7 +12417,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Maxime Cannoodt
 		</td>
 		<td>Qargo Tms </td>
-		<td><a href="https://twitter.com/maximio_">maximio_</a></td>
+		<td><a target="_blank" href="https://twitter.com/maximio_">maximio_</a></td>
 		<td>Ghent Belgium</td>
 		<td>38</td>
 	</tr>
@@ -12455,7 +12456,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Cdric L Charlier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Seddryck">Seddryck</a></td>
+		<td><a target="_blank" href="https://twitter.com/Seddryck">Seddryck</a></td>
 		<td>Hennuyres Belgium</td>
 		<td>38</td>
 	</tr>
@@ -12481,7 +12482,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Yohan Boogaert 
 		</td>
 		<td>Rustminded </td>
-		<td><a href="https://twitter.com/yozhgoor">yozhgoor</a></td>
+		<td><a target="_blank" href="https://twitter.com/yozhgoor">yozhgoor</a></td>
 		<td>Belgium</td>
 		<td>38</td>
 	</tr>
@@ -12507,7 +12508,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Rohan Sachdeva
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_RohanSachdeva">_RohanSachdeva</a></td>
+		<td><a target="_blank" href="https://twitter.com/_RohanSachdeva">_RohanSachdeva</a></td>
 		<td>Antwerp Belgium</td>
 		<td>38</td>
 	</tr>
@@ -12546,7 +12547,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Antoine Cailliau
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ancailliau">ancailliau</a></td>
+		<td><a target="_blank" href="https://twitter.com/ancailliau">ancailliau</a></td>
 		<td>Brussels</td>
 		<td>38</td>
 	</tr>
@@ -12624,7 +12625,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Mert Demirok
 		</td>
 		<td>Fodfps Economy </td>
-		<td><a href="https://twitter.com/mertdemirok80">mertdemirok80</a></td>
+		<td><a target="_blank" href="https://twitter.com/mertdemirok80">mertdemirok80</a></td>
 		<td>Leuven</td>
 		<td>38</td>
 	</tr>
@@ -12637,7 +12638,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Guillaume Derval
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dervalguillaume">dervalguillaume</a></td>
+		<td><a target="_blank" href="https://twitter.com/dervalguillaume">dervalguillaume</a></td>
 		<td>Belgium</td>
 		<td>38</td>
 	</tr>
@@ -12715,7 +12716,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			Trey Darley
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/treyka">treyka</a></td>
+		<td><a target="_blank" href="https://twitter.com/treyka">treyka</a></td>
 		<td>Brussels Belgium</td>
 		<td>38</td>
 	</tr>
@@ -12736,7 +12737,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Belgium&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/belgium.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Belgium&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/belgium.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -12788,6 +12789,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)

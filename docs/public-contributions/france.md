@@ -1,9 +1,10 @@
 ---
-title: France 
-description: Top GitHub Users By Public Contributions in France 
+title: France
+description: Top GitHub Users By Public Contributions in France
 ---
 
 # Top GitHub Users By Public Contributions in France [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
@@ -14,7 +15,7 @@ The `public contributions` by users in France on `2024/1/31 2:39 PM UTC`. This l
 
 There are `28 countries` and `193 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `951 users`  in France. You need at least `163 followers` to be on this list.
+There are `951 users` in France. You need at least `163 followers` to be on this list.
 
 <table>
 	<tr>
@@ -53,7 +54,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20France&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/france.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20France&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/france.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -118,7 +119,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Grekas
 		</td>
 		<td>@symfonycorp </td>
-		<td><a href="https://twitter.com/nicolasgrekas">nicolasgrekas</a></td>
+		<td><a target="_blank" href="https://twitter.com/nicolasgrekas">nicolasgrekas</a></td>
 		<td>Paris France</td>
 		<td>8723</td>
 	</tr>
@@ -131,7 +132,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			CrazyMax
 		</td>
 		<td>@docker </td>
-		<td><a href="https://twitter.com/crazyws">crazyws</a></td>
+		<td><a target="_blank" href="https://twitter.com/crazyws">crazyws</a></td>
 		<td>France</td>
 		<td>8495</td>
 	</tr>
@@ -144,7 +145,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Smet
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/gsmet_">gsmet_</a></td>
+		<td><a target="_blank" href="https://twitter.com/gsmet_">gsmet_</a></td>
 		<td>Lyon France</td>
 		<td>8139</td>
 	</tr>
@@ -157,7 +158,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			FX Coudert
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fxcoudert">fxcoudert</a></td>
+		<td><a target="_blank" href="https://twitter.com/fxcoudert">fxcoudert</a></td>
 		<td>Paris France</td>
 		<td>6954</td>
 	</tr>
@@ -170,7 +171,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Joseph Garrone
 		</td>
 		<td>@inseefrlab </td>
-		<td><a href="https://twitter.com/GarroneJoseph">GarroneJoseph</a></td>
+		<td><a target="_blank" href="https://twitter.com/GarroneJoseph">GarroneJoseph</a></td>
 		<td>Paris France</td>
 		<td>6921</td>
 	</tr>
@@ -261,7 +262,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Saifeddine ALOUI
 		</td>
 		<td>Cea </td>
-		<td><a href="https://twitter.com/SpaceNerduino">SpaceNerduino</a></td>
+		<td><a target="_blank" href="https://twitter.com/SpaceNerduino">SpaceNerduino</a></td>
 		<td>France</td>
 		<td>4228</td>
 	</tr>
@@ -274,7 +275,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fabien Potencier
 		</td>
 		<td>Symfonyplatformshbla </td>
-		<td><a href="https://twitter.com/fabpot">fabpot</a></td>
+		<td><a target="_blank" href="https://twitter.com/fabpot">fabpot</a></td>
 		<td>Paris France</td>
 		<td>3957</td>
 	</tr>
@@ -287,7 +288,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Stphane ROBERT
 		</td>
 		<td>Adlere </td>
-		<td><a href="https://twitter.com/RobertStphane19">RobertStphane19</a></td>
+		<td><a target="_blank" href="https://twitter.com/RobertStphane19">RobertStphane19</a></td>
 		<td>Lille</td>
 		<td>3717</td>
 	</tr>
@@ -300,7 +301,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Gomez
 		</td>
 		<td>@huawei </td>
-		<td><a href="https://twitter.com/imperioworld_">imperioworld_</a></td>
+		<td><a target="_blank" href="https://twitter.com/imperioworld_">imperioworld_</a></td>
 		<td>Paris</td>
 		<td>3702</td>
 	</tr>
@@ -326,7 +327,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Stanislas Polu
 		</td>
 		<td>Dust </td>
-		<td><a href="https://twitter.com/spolu">spolu</a></td>
+		<td><a target="_blank" href="https://twitter.com/spolu">spolu</a></td>
 		<td>Paris</td>
 		<td>3563</td>
 	</tr>
@@ -365,7 +366,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Chris
 		</td>
 		<td>@okp4 </td>
-		<td><a href="https://twitter.com/7h3_360l355_d3v">7h3_360l355_d3v</a></td>
+		<td><a target="_blank" href="https://twitter.com/7h3_360l355_d3v">7h3_360l355_d3v</a></td>
 		<td>Toulouse</td>
 		<td>3272</td>
 	</tr>
@@ -378,7 +379,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cdric Champeau
 		</td>
 		<td>Oracle Labs  </td>
-		<td><a href="https://twitter.com/CedricChampeau">CedricChampeau</a></td>
+		<td><a target="_blank" href="https://twitter.com/CedricChampeau">CedricChampeau</a></td>
 		<td>Nantes France</td>
 		<td>3164</td>
 	</tr>
@@ -391,7 +392,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Laurent Mazare
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lmazare">lmazare</a></td>
+		<td><a target="_blank" href="https://twitter.com/lmazare">lmazare</a></td>
 		<td>Paris</td>
 		<td>3016</td>
 	</tr>
@@ -417,7 +418,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sylvestre Ledru
 		</td>
 		<td>Mozilla </td>
-		<td><a href="https://twitter.com/sylvestreledru">sylvestreledru</a></td>
+		<td><a target="_blank" href="https://twitter.com/sylvestreledru">sylvestreledru</a></td>
 		<td>France</td>
 		<td>2928</td>
 	</tr>
@@ -430,7 +431,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Progi1984
 		</td>
 		<td>@prestashopcorp  </td>
-		<td><a href="https://twitter.com/Progi1984">Progi1984</a></td>
+		<td><a target="_blank" href="https://twitter.com/Progi1984">Progi1984</a></td>
 		<td>Rennes France</td>
 		<td>2927</td>
 	</tr>
@@ -443,7 +444,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JB Onofr
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jbonofre">jbonofre</a></td>
+		<td><a target="_blank" href="https://twitter.com/jbonofre">jbonofre</a></td>
 		<td>France</td>
 		<td>2892</td>
 	</tr>
@@ -482,7 +483,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Simon Marquis
 		</td>
 		<td>@leboncoin </td>
-		<td><a href="https://twitter.com/SimonAndroidDev">SimonAndroidDev</a></td>
+		<td><a target="_blank" href="https://twitter.com/SimonAndroidDev">SimonAndroidDev</a></td>
 		<td>Paris France</td>
 		<td>2645</td>
 	</tr>
@@ -521,7 +522,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Viet
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/julienviet">julienviet</a></td>
+		<td><a target="_blank" href="https://twitter.com/julienviet">julienviet</a></td>
 		<td>Marseille</td>
 		<td>2573</td>
 	</tr>
@@ -534,7 +535,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Chopin
 		</td>
 		<td>@nuxtlabs </td>
-		<td><a href="https://twitter.com/Atinux">Atinux</a></td>
+		<td><a target="_blank" href="https://twitter.com/Atinux">Atinux</a></td>
 		<td>France</td>
 		<td>2531</td>
 	</tr>
@@ -547,7 +548,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Timothe Mazzucotelli
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pawamoy">pawamoy</a></td>
+		<td><a target="_blank" href="https://twitter.com/pawamoy">pawamoy</a></td>
 		<td>France</td>
 		<td>2476</td>
 	</tr>
@@ -560,7 +561,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Vuillamy
 		</td>
 		<td>Cloudity  Ox Security<br/></td>
-		<td><a href="https://twitter.com/NicolasVuillamy">NicolasVuillamy</a></td>
+		<td><a target="_blank" href="https://twitter.com/NicolasVuillamy">NicolasVuillamy</a></td>
 		<td>Paris France</td>
 		<td>2469</td>
 	</tr>
@@ -573,7 +574,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Christophe Coevoet
 		</td>
 		<td>@incenteev </td>
-		<td><a href="https://twitter.com/Stof70">Stof70</a></td>
+		<td><a target="_blank" href="https://twitter.com/Stof70">Stof70</a></td>
 		<td>Paris</td>
 		<td>2450</td>
 	</tr>
@@ -599,7 +600,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Christophe Dervieux
 		</td>
 		<td>Httpspositco </td>
-		<td><a href="https://twitter.com/chrisderv">chrisderv</a></td>
+		<td><a target="_blank" href="https://twitter.com/chrisderv">chrisderv</a></td>
 		<td>Paris</td>
 		<td>2432</td>
 	</tr>
@@ -612,7 +613,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Victor Stinner
 		</td>
 		<td>@redhatofficial </td>
-		<td><a href="https://twitter.com/VictorStinner">VictorStinner</a></td>
+		<td><a target="_blank" href="https://twitter.com/VictorStinner">VictorStinner</a></td>
 		<td>France</td>
 		<td>2424</td>
 	</tr>
@@ -625,7 +626,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Olivier Tassinari
 		</td>
 		<td>Mui </td>
-		<td><a href="https://twitter.com/olivtassinari">olivtassinari</a></td>
+		<td><a target="_blank" href="https://twitter.com/olivtassinari">olivtassinari</a></td>
 		<td>Paris France</td>
 		<td>2412</td>
 	</tr>
@@ -690,7 +691,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benjamin Crozat
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/benjamincrozat">benjamincrozat</a></td>
+		<td><a target="_blank" href="https://twitter.com/benjamincrozat">benjamincrozat</a></td>
 		<td>France</td>
 		<td>2294</td>
 	</tr>
@@ -729,7 +730,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hugo Locurcio
 		</td>
 		<td>@godotengine </td>
-		<td><a href="https://twitter.com/HugoLocurcio">HugoLocurcio</a></td>
+		<td><a target="_blank" href="https://twitter.com/HugoLocurcio">HugoLocurcio</a></td>
 		<td>Troyes France</td>
 		<td>2248</td>
 	</tr>
@@ -768,7 +769,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Frank Denis
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jedisct1">jedisct1</a></td>
+		<td><a target="_blank" href="https://twitter.com/jedisct1">jedisct1</a></td>
 		<td>France</td>
 		<td>2150</td>
 	</tr>
@@ -794,7 +795,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			William Desportes
 		</td>
 		<td>@datacentersnetwork @phpmyadmin @wdes @sudobot<br/>@codelts<br/><br/></td>
-		<td><a href="https://twitter.com/wdesportes">wdesportes</a></td>
+		<td><a target="_blank" href="https://twitter.com/wdesportes">wdesportes</a></td>
 		<td>Brittany France</td>
 		<td>2078</td>
 	</tr>
@@ -820,7 +821,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Yohan Lasorsa
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/sinedied">sinedied</a></td>
+		<td><a target="_blank" href="https://twitter.com/sinedied">sinedied</a></td>
 		<td>France</td>
 		<td>2067</td>
 	</tr>
@@ -846,7 +847,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			martinRenou
 		</td>
 		<td>@quantstack </td>
-		<td><a href="https://twitter.com/martinRenou">martinRenou</a></td>
+		<td><a target="_blank" href="https://twitter.com/martinRenou">martinRenou</a></td>
 		<td>Angers France</td>
 		<td>2051</td>
 	</tr>
@@ -859,7 +860,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mickal Canouil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MickaelCanouil">MickaelCanouil</a></td>
+		<td><a target="_blank" href="https://twitter.com/MickaelCanouil">MickaelCanouil</a></td>
 		<td>Lille France</td>
 		<td>1976</td>
 	</tr>
@@ -872,7 +873,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Matthias Le Brun
 		</td>
 		<td>@swanio </td>
-		<td><a href="https://twitter.com/bloodyowl">bloodyowl</a></td>
+		<td><a target="_blank" href="https://twitter.com/bloodyowl">bloodyowl</a></td>
 		<td>Paris France</td>
 		<td>1964</td>
 	</tr>
@@ -885,7 +886,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Brochart
 		</td>
 		<td>@quantstack </td>
-		<td><a href="https://twitter.com/davidbrochart">davidbrochart</a></td>
+		<td><a target="_blank" href="https://twitter.com/davidbrochart">davidbrochart</a></td>
 		<td>France</td>
 		<td>1917</td>
 	</tr>
@@ -898,7 +899,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Dramond
 		</td>
 		<td>Orange </td>
-		<td><a href="https://twitter.com/JulienDeramond">JulienDeramond</a></td>
+		<td><a target="_blank" href="https://twitter.com/JulienDeramond">JulienDeramond</a></td>
 		<td>Paris France</td>
 		<td>1901</td>
 	</tr>
@@ -911,7 +912,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			theAverageDev Luca Tumedei
 		</td>
 		<td>Theaveragedev </td>
-		<td><a href="https://twitter.com/lucatume">lucatume</a></td>
+		<td><a target="_blank" href="https://twitter.com/lucatume">lucatume</a></td>
 		<td>Paris France</td>
 		<td>1882</td>
 	</tr>
@@ -924,7 +925,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benjamin Cab
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kartben">kartben</a></td>
+		<td><a target="_blank" href="https://twitter.com/kartben">kartben</a></td>
 		<td>Toulouse France</td>
 		<td>1875</td>
 	</tr>
@@ -950,7 +951,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ludovic Fernandez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ludnadez">ludnadez</a></td>
+		<td><a target="_blank" href="https://twitter.com/ludnadez">ludnadez</a></td>
 		<td>France</td>
 		<td>1815</td>
 	</tr>
@@ -963,7 +964,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Paul Bottein
 		</td>
 		<td>@homeassistant @nabucasa </td>
-		<td><a href="https://twitter.com/piitaya">piitaya</a></td>
+		<td><a target="_blank" href="https://twitter.com/piitaya">piitaya</a></td>
 		<td>Lille</td>
 		<td>1805</td>
 	</tr>
@@ -976,7 +977,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Matthias Benkort
 		</td>
 		<td>@cardanofoundation </td>
-		<td><a href="https://twitter.com/_KtorZ_">_KtorZ_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_KtorZ_">_KtorZ_</a></td>
 		<td>Toulouse</td>
 		<td>1802</td>
 	</tr>
@@ -1002,7 +1003,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pierre Romera Zhang
 		</td>
 		<td>@icij </td>
-		<td><a href="https://twitter.com/pirhoo">pirhoo</a></td>
+		<td><a target="_blank" href="https://twitter.com/pirhoo">pirhoo</a></td>
 		<td>Paris</td>
 		<td>1752</td>
 	</tr>
@@ -1015,7 +1016,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jrmy Benoist
 		</td>
 		<td>@20minutes </td>
-		<td><a href="https://twitter.com/j0k">j0k</a></td>
+		<td><a target="_blank" href="https://twitter.com/j0k">j0k</a></td>
 		<td>Bordeaux France</td>
 		<td>1737</td>
 	</tr>
@@ -1041,7 +1042,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jrme Leclercq
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SirLynix">SirLynix</a></td>
+		<td><a target="_blank" href="https://twitter.com/SirLynix">SirLynix</a></td>
 		<td>France</td>
 		<td>1706</td>
 	</tr>
@@ -1054,7 +1055,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Franois Voron
 		</td>
 		<td>@polarsource </td>
-		<td><a href="https://twitter.com/fvoron">fvoron</a></td>
+		<td><a target="_blank" href="https://twitter.com/fvoron">fvoron</a></td>
 		<td>Lyon France</td>
 		<td>1697</td>
 	</tr>
@@ -1080,7 +1081,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Lemaitre
 		</td>
 		<td>Scikitlearn @ Inria Foundation<br/></td>
-		<td><a href="https://twitter.com/glemaitre58">glemaitre58</a></td>
+		<td><a target="_blank" href="https://twitter.com/glemaitre58">glemaitre58</a></td>
 		<td>ParisSaclay  France</td>
 		<td>1664</td>
 	</tr>
@@ -1093,7 +1094,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Ripouteau
 		</td>
 		<td>Freelancing  </td>
-		<td><a href="https://twitter.com/julien_rpt">julien_rpt</a></td>
+		<td><a target="_blank" href="https://twitter.com/julien_rpt">julien_rpt</a></td>
 		<td>France</td>
 		<td>1653</td>
 	</tr>
@@ -1106,7 +1107,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Stan Girard
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_StanGirard">_StanGirard</a></td>
+		<td><a target="_blank" href="https://twitter.com/_StanGirard">_StanGirard</a></td>
 		<td>Paris</td>
 		<td>1628</td>
 	</tr>
@@ -1119,7 +1120,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Franois
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/FrancoisMockers">FrancoisMockers</a></td>
+		<td><a target="_blank" href="https://twitter.com/FrancoisMockers">FrancoisMockers</a></td>
 		<td>France</td>
 		<td>1597</td>
 	</tr>
@@ -1132,7 +1133,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mathieu Acthernoene
 		</td>
 		<td>Swan </td>
-		<td><a href="https://twitter.com/zoontek">zoontek</a></td>
+		<td><a target="_blank" href="https://twitter.com/zoontek">zoontek</a></td>
 		<td>Paris</td>
 		<td>1593</td>
 	</tr>
@@ -1158,7 +1159,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Eduardo San Martin Morote
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/posva">posva</a></td>
+		<td><a target="_blank" href="https://twitter.com/posva">posva</a></td>
 		<td>Paris </td>
 		<td>1582</td>
 	</tr>
@@ -1171,7 +1172,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Simon
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/androz2091">androz2091</a></td>
+		<td><a target="_blank" href="https://twitter.com/androz2091">androz2091</a></td>
 		<td>France Toulouse</td>
 		<td>1582</td>
 	</tr>
@@ -1184,7 +1185,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Josh Dzielak
 		</td>
 		<td>@orbitlove </td>
-		<td><a href="https://twitter.com/dzello">dzello</a></td>
+		<td><a target="_blank" href="https://twitter.com/dzello">dzello</a></td>
 		<td>Paris</td>
 		<td>1556</td>
 	</tr>
@@ -1197,7 +1198,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Bruno Levy
 		</td>
 		<td>@inria </td>
-		<td><a href="https://twitter.com/BrunoLevy01">BrunoLevy01</a></td>
+		<td><a target="_blank" href="https://twitter.com/BrunoLevy01">BrunoLevy01</a></td>
 		<td>Saclay France</td>
 		<td>1540</td>
 	</tr>
@@ -1223,7 +1224,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benjamin Canac
 		</td>
 		<td>@nuxtlabs </td>
-		<td><a href="https://twitter.com/benjamincanac">benjamincanac</a></td>
+		<td><a target="_blank" href="https://twitter.com/benjamincanac">benjamincanac</a></td>
 		<td>Bordeaux</td>
 		<td>1537</td>
 	</tr>
@@ -1236,7 +1237,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Baptiste Arnaud
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/baptisteArno">baptisteArno</a></td>
+		<td><a target="_blank" href="https://twitter.com/baptisteArno">baptisteArno</a></td>
 		<td>Paris France</td>
 		<td>1498</td>
 	</tr>
@@ -1262,7 +1263,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gwendal Le Coguic
 		</td>
 		<td>10degres </td>
-		<td><a href="https://twitter.com/gwendallecoguic">gwendallecoguic</a></td>
+		<td><a target="_blank" href="https://twitter.com/gwendallecoguic">gwendallecoguic</a></td>
 		<td>Paris  France</td>
 		<td>1485</td>
 	</tr>
@@ -1288,7 +1289,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas DUBIEN
 		</td>
 		<td>Pigment </td>
-		<td><a href="https://twitter.com/ndubien">ndubien</a></td>
+		<td><a target="_blank" href="https://twitter.com/ndubien">ndubien</a></td>
 		<td>Remote France</td>
 		<td>1471</td>
 	</tr>
@@ -1301,7 +1302,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Johan Mabille
 		</td>
 		<td>Quantstack </td>
-		<td><a href="https://twitter.com/JohanMabille">JohanMabille</a></td>
+		<td><a target="_blank" href="https://twitter.com/JohanMabille">JohanMabille</a></td>
 		<td>Paris</td>
 		<td>1468</td>
 	</tr>
@@ -1314,7 +1315,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Clment Renault
 		</td>
 		<td>@meilisearch </td>
-		<td><a href="https://twitter.com/Kerollmops">Kerollmops</a></td>
+		<td><a target="_blank" href="https://twitter.com/Kerollmops">Kerollmops</a></td>
 		<td>France Paris</td>
 		<td>1466</td>
 	</tr>
@@ -1340,7 +1341,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Samuel Berthe
 		</td>
 		<td>@screebapp  </td>
-		<td><a href="https://twitter.com/samuelberthe">samuelberthe</a></td>
+		<td><a target="_blank" href="https://twitter.com/samuelberthe">samuelberthe</a></td>
 		<td>Nantes France</td>
 		<td>1457</td>
 	</tr>
@@ -1353,7 +1354,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre ZANNI
 		</td>
 		<td>Rawsec </td>
-		<td><a href="https://twitter.com/noraj_rawsec">noraj_rawsec</a></td>
+		<td><a target="_blank" href="https://twitter.com/noraj_rawsec">noraj_rawsec</a></td>
 		<td>FRANCE</td>
 		<td>1454</td>
 	</tr>
@@ -1366,7 +1367,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gustave Monce
 		</td>
 		<td>Labri </td>
-		<td><a href="https://twitter.com/gus33000">gus33000</a></td>
+		<td><a target="_blank" href="https://twitter.com/gus33000">gus33000</a></td>
 		<td>France</td>
 		<td>1452</td>
 	</tr>
@@ -1379,7 +1380,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antoine Bluchet
 		</td>
 		<td>@cooptilleuls </td>
-		<td><a href="https://twitter.com/s0yuka">s0yuka</a></td>
+		<td><a target="_blank" href="https://twitter.com/s0yuka">s0yuka</a></td>
 		<td>Nantes France</td>
 		<td>1450</td>
 	</tr>
@@ -1405,7 +1406,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Arthur Sonzogni
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/arthursonzogni">arthursonzogni</a></td>
+		<td><a target="_blank" href="https://twitter.com/arthursonzogni">arthursonzogni</a></td>
 		<td>Paris</td>
 		<td>1431</td>
 	</tr>
@@ -1418,7 +1419,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jean Boussier
 		</td>
 		<td>@shopify As @casperisfine </td>
-		<td><a href="https://twitter.com/_byroot">_byroot</a></td>
+		<td><a target="_blank" href="https://twitter.com/_byroot">_byroot</a></td>
 		<td>Toulouse France</td>
 		<td>1426</td>
 	</tr>
@@ -1431,7 +1432,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			ThomasG
 		</td>
 		<td>@myunisoft </td>
-		<td><a href="https://twitter.com/fraxken">fraxken</a></td>
+		<td><a target="_blank" href="https://twitter.com/fraxken">fraxken</a></td>
 		<td>Paris</td>
 		<td>1422</td>
 	</tr>
@@ -1444,7 +1445,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Dimitri Sabadie
 		</td>
 		<td>@datadog  </td>
-		<td><a href="https://twitter.com/phaazon_">phaazon_</a></td>
+		<td><a target="_blank" href="https://twitter.com/phaazon_">phaazon_</a></td>
 		<td>France</td>
 		<td>1410</td>
 	</tr>
@@ -1470,7 +1471,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Georges Petrov
 		</td>
 		<td> </td>
-		<td><a href="https://twitter.com/georges_petrov">georges_petrov</a></td>
+		<td><a target="_blank" href="https://twitter.com/georges_petrov">georges_petrov</a></td>
 		<td>Paris</td>
 		<td>1408</td>
 	</tr>
@@ -1522,7 +1523,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Stahmer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/astahmer_dev">astahmer_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/astahmer_dev">astahmer_dev</a></td>
 		<td>Montpellier</td>
 		<td>1364</td>
 	</tr>
@@ -1535,7 +1536,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Enzo Innocenzi
 		</td>
 		<td>Developer @jetflyaviation </td>
-		<td><a href="https://twitter.com/enzoinnocenzi">enzoinnocenzi</a></td>
+		<td><a target="_blank" href="https://twitter.com/enzoinnocenzi">enzoinnocenzi</a></td>
 		<td>France</td>
 		<td>1363</td>
 	</tr>
@@ -1574,7 +1575,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			tobozo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/TobozoTagada">TobozoTagada</a></td>
+		<td><a target="_blank" href="https://twitter.com/TobozoTagada">TobozoTagada</a></td>
 		<td>Paris France </td>
 		<td>1349</td>
 	</tr>
@@ -1587,7 +1588,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Grgoire Pineau
 		</td>
 		<td>@jolicode </td>
-		<td><a href="https://twitter.com/lyrixx">lyrixx</a></td>
+		<td><a target="_blank" href="https://twitter.com/lyrixx">lyrixx</a></td>
 		<td>Paris France</td>
 		<td>1344</td>
 	</tr>
@@ -1600,7 +1601,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Max Halford
 		</td>
 		<td>@carbonfact </td>
-		<td><a href="https://twitter.com/halford_max">halford_max</a></td>
+		<td><a target="_blank" href="https://twitter.com/halford_max">halford_max</a></td>
 		<td>France</td>
 		<td>1342</td>
 	</tr>
@@ -1626,7 +1627,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Douglas Duteil
 		</td>
 		<td>Betagouv </td>
-		<td><a href="https://twitter.com/douglasduteil">douglasduteil</a></td>
+		<td><a target="_blank" href="https://twitter.com/douglasduteil">douglasduteil</a></td>
 		<td>Paris France</td>
 		<td>1326</td>
 	</tr>
@@ -1691,7 +1692,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Yohan Boniface
 		</td>
 		<td>Enix </td>
-		<td><a href="https://twitter.com/informagicien">informagicien</a></td>
+		<td><a target="_blank" href="https://twitter.com/informagicien">informagicien</a></td>
 		<td>France</td>
 		<td>1300</td>
 	</tr>
@@ -1704,7 +1705,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Charlie Bromberg
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_nwodtuhs">_nwodtuhs</a></td>
+		<td><a target="_blank" href="https://twitter.com/_nwodtuhs">_nwodtuhs</a></td>
 		<td>France</td>
 		<td>1287</td>
 	</tr>
@@ -1717,7 +1718,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ismal Moret
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/my5tic4l_spirit">my5tic4l_spirit</a></td>
+		<td><a target="_blank" href="https://twitter.com/my5tic4l_spirit">my5tic4l_spirit</a></td>
 		<td>France</td>
 		<td>1283</td>
 	</tr>
@@ -1730,7 +1731,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Eunjae Lee
 		</td>
 		<td>@storyblok </td>
-		<td><a href="https://twitter.com/eunjae_lee">eunjae_lee</a></td>
+		<td><a target="_blank" href="https://twitter.com/eunjae_lee">eunjae_lee</a></td>
 		<td>Paris</td>
 		<td>1276</td>
 	</tr>
@@ -1743,7 +1744,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Kvin Dunglas
 		</td>
 		<td>@cooptilleuls  </td>
-		<td><a href="https://twitter.com/dunglas">dunglas</a></td>
+		<td><a target="_blank" href="https://twitter.com/dunglas">dunglas</a></td>
 		<td>Lille France</td>
 		<td>1275</td>
 	</tr>
@@ -1756,7 +1757,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Grossetie
 		</td>
 		<td>Yuzu Tech </td>
-		<td><a href="https://twitter.com/ggrossetie">ggrossetie</a></td>
+		<td><a target="_blank" href="https://twitter.com/ggrossetie">ggrossetie</a></td>
 		<td>Lyon</td>
 		<td>1270</td>
 	</tr>
@@ -1769,7 +1770,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Raphael Saldanha
 		</td>
 		<td>Inria </td>
-		<td><a href="https://twitter.com/rfsaldanhario">rfsaldanhario</a></td>
+		<td><a target="_blank" href="https://twitter.com/rfsaldanhario">rfsaldanhario</a></td>
 		<td>Montpellier</td>
 		<td>1263</td>
 	</tr>
@@ -1782,7 +1783,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Bnard
 		</td>
 		<td>Deepnight Games </td>
-		<td><a href="https://twitter.com/deepnightfr">deepnightfr</a></td>
+		<td><a target="_blank" href="https://twitter.com/deepnightfr">deepnightfr</a></td>
 		<td>Bordeaux France</td>
 		<td>1260</td>
 	</tr>
@@ -1795,7 +1796,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Aurelie Vache
 		</td>
 		<td>Ovh </td>
-		<td><a href="https://twitter.com/aurelievache">aurelievache</a></td>
+		<td><a target="_blank" href="https://twitter.com/aurelievache">aurelievache</a></td>
 		<td>Toulouse</td>
 		<td>1259</td>
 	</tr>
@@ -1808,7 +1809,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Barnier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lapply">lapply</a></td>
+		<td><a target="_blank" href="https://twitter.com/lapply">lapply</a></td>
 		<td>Villeurbanne France</td>
 		<td>1249</td>
 	</tr>
@@ -1821,7 +1822,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Philippe Charrire
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/k33g_org">k33g_org</a></td>
+		<td><a target="_blank" href="https://twitter.com/k33g_org">k33g_org</a></td>
 		<td>Lyon France</td>
 		<td>1246</td>
 	</tr>
@@ -1860,7 +1861,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Ngrier
 		</td>
 		<td>@thecodingmachine </td>
-		<td><a href="https://twitter.com/david_negrier">david_negrier</a></td>
+		<td><a target="_blank" href="https://twitter.com/david_negrier">david_negrier</a></td>
 		<td>Paris</td>
 		<td>1213</td>
 	</tr>
@@ -1873,7 +1874,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Matthieu Napoli
 		</td>
 		<td>@brefphp  </td>
-		<td><a href="https://twitter.com/matthieunapoli">matthieunapoli</a></td>
+		<td><a target="_blank" href="https://twitter.com/matthieunapoli">matthieunapoli</a></td>
 		<td>Lyon France</td>
 		<td>1211</td>
 	</tr>
@@ -1886,7 +1887,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Bouquillon
 		</td>
 		<td>@betagouv  </td>
-		<td><a href="https://twitter.com/revolunet">revolunet</a></td>
+		<td><a target="_blank" href="https://twitter.com/revolunet">revolunet</a></td>
 		<td>Paris France</td>
 		<td>1204</td>
 	</tr>
@@ -1899,7 +1900,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Haroen Viaene
 		</td>
 		<td>@algolia </td>
-		<td><a href="https://twitter.com/Haroenv">Haroenv</a></td>
+		<td><a target="_blank" href="https://twitter.com/Haroenv">Haroenv</a></td>
 		<td>Paris France</td>
 		<td>1203</td>
 	</tr>
@@ -1912,7 +1913,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Paul Chavard
 		</td>
 		<td>@betagouv </td>
-		<td><a href="https://twitter.com/tchak13">tchak13</a></td>
+		<td><a target="_blank" href="https://twitter.com/tchak13">tchak13</a></td>
 		<td>Paris</td>
 		<td>1203</td>
 	</tr>
@@ -1925,7 +1926,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ha
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vr_hai">vr_hai</a></td>
+		<td><a target="_blank" href="https://twitter.com/vr_hai">vr_hai</a></td>
 		<td>Paris France</td>
 		<td>1190</td>
 	</tr>
@@ -1951,7 +1952,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			LABOUARDY Mohamed
 		</td>
 		<td>@tailwarden </td>
-		<td><a href="https://twitter.com/mlabouardy">mlabouardy</a></td>
+		<td><a target="_blank" href="https://twitter.com/mlabouardy">mlabouardy</a></td>
 		<td>Paris France</td>
 		<td>1183</td>
 	</tr>
@@ -2003,7 +2004,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Rozier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/guillaumerozier">guillaumerozier</a></td>
+		<td><a target="_blank" href="https://twitter.com/guillaumerozier">guillaumerozier</a></td>
 		<td>Paris</td>
 		<td>1163</td>
 	</tr>
@@ -2029,7 +2030,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jrme Tamarelle
 		</td>
 		<td>Mongodb </td>
-		<td><a href="https://twitter.com/GromNaN">GromNaN</a></td>
+		<td><a target="_blank" href="https://twitter.com/GromNaN">GromNaN</a></td>
 		<td>Rouen France</td>
 		<td>1151</td>
 	</tr>
@@ -2042,7 +2043,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jrmy Deruss
 		</td>
 		<td>Blackfire </td>
-		<td><a href="https://twitter.com/jderusse">jderusse</a></td>
+		<td><a target="_blank" href="https://twitter.com/jderusse">jderusse</a></td>
 		<td>Paris France</td>
 		<td>1150</td>
 	</tr>
@@ -2055,7 +2056,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antoine Augusti
 		</td>
 		<td>@betagouv @mtesmct @etalab </td>
-		<td><a href="https://twitter.com/AntoineAugusti">AntoineAugusti</a></td>
+		<td><a target="_blank" href="https://twitter.com/AntoineAugusti">AntoineAugusti</a></td>
 		<td>Dijon France</td>
 		<td>1145</td>
 	</tr>
@@ -2081,7 +2082,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pierre Carrier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pcarrier">pcarrier</a></td>
+		<td><a target="_blank" href="https://twitter.com/pcarrier">pcarrier</a></td>
 		<td>Grenoble France</td>
 		<td>1138</td>
 	</tr>
@@ -2094,7 +2095,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Quentin Lhoest
 		</td>
 		<td>Hugging Face </td>
-		<td><a href="https://twitter.com/qlhoest">qlhoest</a></td>
+		<td><a target="_blank" href="https://twitter.com/qlhoest">qlhoest</a></td>
 		<td>Paris</td>
 		<td>1128</td>
 	</tr>
@@ -2107,7 +2108,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Emma Fabre
 		</td>
 		<td>Madewithlove </td>
-		<td><a href="https://twitter.com/Anahkiasen">Anahkiasen</a></td>
+		<td><a target="_blank" href="https://twitter.com/Anahkiasen">Anahkiasen</a></td>
 		<td>Bretagne France</td>
 		<td>1126</td>
 	</tr>
@@ -2120,7 +2121,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Merve Noyan
 		</td>
 		<td>@huggingface  </td>
-		<td><a href="https://twitter.com/mervenoyann">mervenoyann</a></td>
+		<td><a target="_blank" href="https://twitter.com/mervenoyann">mervenoyann</a></td>
 		<td>Paris</td>
 		<td>1084</td>
 	</tr>
@@ -2133,7 +2134,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Ricouard
 		</td>
 		<td>@medium @glose  </td>
-		<td><a href="https://twitter.com/Dimillian">Dimillian</a></td>
+		<td><a target="_blank" href="https://twitter.com/Dimillian">Dimillian</a></td>
 		<td>France</td>
 		<td>1084</td>
 	</tr>
@@ -2146,7 +2147,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Olivier Grisel
 		</td>
 		<td>Inria </td>
-		<td><a href="https://twitter.com/ogrisel">ogrisel</a></td>
+		<td><a target="_blank" href="https://twitter.com/ogrisel">ogrisel</a></td>
 		<td>Paris France</td>
 		<td>1081</td>
 	</tr>
@@ -2159,7 +2160,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Arthur Monney
 		</td>
 		<td>@shopperlabs  </td>
-		<td><a href="https://twitter.com/MonneyArthur">MonneyArthur</a></td>
+		<td><a target="_blank" href="https://twitter.com/MonneyArthur">MonneyArthur</a></td>
 		<td>Paris France</td>
 		<td>1075</td>
 	</tr>
@@ -2172,7 +2173,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adrien de Peretti
 		</td>
 		<td>Medusajs </td>
-		<td><a href="https://twitter.com/PerettiAdrien">PerettiAdrien</a></td>
+		<td><a target="_blank" href="https://twitter.com/PerettiAdrien">PerettiAdrien</a></td>
 		<td>Lyon France</td>
 		<td>1062</td>
 	</tr>
@@ -2198,7 +2199,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			William Durand
 		</td>
 		<td>@mozilla  </td>
-		<td><a href="https://twitter.com/couac">couac</a></td>
+		<td><a target="_blank" href="https://twitter.com/couac">couac</a></td>
 		<td>France</td>
 		<td>1041</td>
 	</tr>
@@ -2224,7 +2225,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Rmi Louf
 		</td>
 		<td>Txt </td>
-		<td><a href="https://twitter.com/remilouf">remilouf</a></td>
+		<td><a target="_blank" href="https://twitter.com/remilouf">remilouf</a></td>
 		<td>Fontainebleau France</td>
 		<td>1039</td>
 	</tr>
@@ -2237,7 +2238,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas De loof
 		</td>
 		<td>Docker </td>
-		<td><a href="https://twitter.com/ndeloof">ndeloof</a></td>
+		<td><a target="_blank" href="https://twitter.com/ndeloof">ndeloof</a></td>
 		<td>Rennes France</td>
 		<td>1033</td>
 	</tr>
@@ -2276,7 +2277,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Archambault
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alxarchambault">alxarchambault</a></td>
+		<td><a target="_blank" href="https://twitter.com/alxarchambault">alxarchambault</a></td>
 		<td>Paris</td>
 		<td>1023</td>
 	</tr>
@@ -2302,7 +2303,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Aiekick
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/aiekick">aiekick</a></td>
+		<td><a target="_blank" href="https://twitter.com/aiekick">aiekick</a></td>
 		<td>France</td>
 		<td>1013</td>
 	</tr>
@@ -2315,7 +2316,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cyrille Rossant
 		</td>
 		<td>@intbrainlab @cortexlab  </td>
-		<td><a href="https://twitter.com/cyrillerossant">cyrillerossant</a></td>
+		<td><a target="_blank" href="https://twitter.com/cyrillerossant">cyrillerossant</a></td>
 		<td>Paris</td>
 		<td>1006</td>
 	</tr>
@@ -2341,7 +2342,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Marc
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ZylannMP3">ZylannMP3</a></td>
+		<td><a target="_blank" href="https://twitter.com/ZylannMP3">ZylannMP3</a></td>
 		<td>France</td>
 		<td>998</td>
 	</tr>
@@ -2354,7 +2355,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			@greweb
 		</td>
 		<td>@ledgerhq </td>
-		<td><a href="https://twitter.com/greweb">greweb</a></td>
+		<td><a target="_blank" href="https://twitter.com/greweb">greweb</a></td>
 		<td>Paris France</td>
 		<td>987</td>
 	</tr>
@@ -2367,7 +2368,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Amos Wenger
 		</td>
 		<td>@bearcove </td>
-		<td><a href="https://twitter.com/fasterthanlime">fasterthanlime</a></td>
+		<td><a target="_blank" href="https://twitter.com/fasterthanlime">fasterthanlime</a></td>
 		<td>Lyon France</td>
 		<td>985</td>
 	</tr>
@@ -2432,7 +2433,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Claret
 		</td>
 		<td>Formal Land </td>
-		<td><a href="https://twitter.com/guillaumeclaret">guillaumeclaret</a></td>
+		<td><a target="_blank" href="https://twitter.com/guillaumeclaret">guillaumeclaret</a></td>
 		<td>Paris</td>
 		<td>973</td>
 	</tr>
@@ -2445,7 +2446,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Paul Chaignon
 		</td>
 		<td>Isovalent </td>
-		<td><a href="https://twitter.com/pchaigno">pchaigno</a></td>
+		<td><a target="_blank" href="https://twitter.com/pchaigno">pchaigno</a></td>
 		<td>Rennes France</td>
 		<td>970</td>
 	</tr>
@@ -2458,7 +2459,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Raphal Huchet
 		</td>
 		<td>@betagouv </td>
-		<td><a href="https://twitter.com/rap2h">rap2h</a></td>
+		<td><a target="_blank" href="https://twitter.com/rap2h">rap2h</a></td>
 		<td>Nantes</td>
 		<td>966</td>
 	</tr>
@@ -2471,7 +2472,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			milien perso
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/unixf0x">unixf0x</a></td>
+		<td><a target="_blank" href="https://twitter.com/unixf0x">unixf0x</a></td>
 		<td>AuvergneRhneAlpes France  Wallonia Belgium</td>
 		<td>962</td>
 	</tr>
@@ -2484,7 +2485,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			pierre
 		</td>
 		<td>@prisma </td>
-		<td><a href="https://twitter.com/millsp_">millsp_</a></td>
+		<td><a target="_blank" href="https://twitter.com/millsp_">millsp_</a></td>
 		<td>France</td>
 		<td>947</td>
 	</tr>
@@ -2497,7 +2498,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Worms David
 		</td>
 		<td>Adaltas </td>
-		<td><a href="https://twitter.com/adaltas_stdout">adaltas_stdout</a></td>
+		<td><a target="_blank" href="https://twitter.com/adaltas_stdout">adaltas_stdout</a></td>
 		<td>Paris France</td>
 		<td>944</td>
 	</tr>
@@ -2536,7 +2537,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pascal Grimaud
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/pascalgrimaud">pascalgrimaud</a></td>
+		<td><a target="_blank" href="https://twitter.com/pascalgrimaud">pascalgrimaud</a></td>
 		<td>Lyon France</td>
 		<td>937</td>
 	</tr>
@@ -2549,7 +2550,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Lorber
 		</td>
 		<td>This Week In React<br/></td>
-		<td><a href="https://twitter.com/sebastienlorber">sebastienlorber</a></td>
+		<td><a target="_blank" href="https://twitter.com/sebastienlorber">sebastienlorber</a></td>
 		<td>Paris</td>
 		<td>935</td>
 	</tr>
@@ -2575,7 +2576,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			valentinbreiz
 		</td>
 		<td>@epitech </td>
-		<td><a href="https://twitter.com/valentinbreiz">valentinbreiz</a></td>
+		<td><a target="_blank" href="https://twitter.com/valentinbreiz">valentinbreiz</a></td>
 		<td>France</td>
 		<td>932</td>
 	</tr>
@@ -2588,7 +2589,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Val Lorentz
 		</td>
 		<td>@softwareheritage  </td>
-		<td><a href="https://twitter.com/_ZN3val">_ZN3val</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ZN3val">_ZN3val</a></td>
 		<td>le de France</td>
 		<td>926</td>
 	</tr>
@@ -2614,7 +2615,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Bonnet
 		</td>
 		<td>Creator Of @mrrobotdotapp </td>
-		<td><a href="https://twitter.com/Thomasbnt_">Thomasbnt_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Thomasbnt_">Thomasbnt_</a></td>
 		<td>Toulouse France</td>
 		<td>922</td>
 	</tr>
@@ -2627,7 +2628,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Yal Guilloux
 		</td>
 		<td>@nuxtlabs </td>
-		<td><a href="https://twitter.com/yaeeelglx">yaeeelglx</a></td>
+		<td><a target="_blank" href="https://twitter.com/yaeeelglx">yaeeelglx</a></td>
 		<td>Nantes France</td>
 		<td>919</td>
 	</tr>
@@ -2640,7 +2641,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jason CHAMPAGNE
 		</td>
 		<td>Evolunoob </td>
-		<td><a href="https://twitter.com/jachampagne8">jachampagne8</a></td>
+		<td><a target="_blank" href="https://twitter.com/jachampagne8">jachampagne8</a></td>
 		<td>France</td>
 		<td>917</td>
 	</tr>
@@ -2653,7 +2654,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Deleuze
 		</td>
 		<td>Broadcom </td>
-		<td><a href="https://twitter.com/sdeleuze">sdeleuze</a></td>
+		<td><a target="_blank" href="https://twitter.com/sdeleuze">sdeleuze</a></td>
 		<td>Lyon</td>
 		<td>910</td>
 	</tr>
@@ -2666,7 +2667,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Ponge
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/jponge">jponge</a></td>
+		<td><a target="_blank" href="https://twitter.com/jponge">jponge</a></td>
 		<td>Lyon France</td>
 		<td>895</td>
 	</tr>
@@ -2692,7 +2693,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fredrik Johansson
 		</td>
 		<td>Inria  Institut De<br/>Mathmatiques<br/>De<br/>Bordeaux<br/></td>
-		<td><a href="https://twitter.com/hypergeometer">hypergeometer</a></td>
+		<td><a target="_blank" href="https://twitter.com/hypergeometer">hypergeometer</a></td>
 		<td>Bordeaux France</td>
 		<td>886</td>
 	</tr>
@@ -2705,7 +2706,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Anas Mazouni
 		</td>
 		<td>@stormixco  </td>
-		<td><a href="https://twitter.com/Stormix_co">Stormix_co</a></td>
+		<td><a target="_blank" href="https://twitter.com/Stormix_co">Stormix_co</a></td>
 		<td>Marseille France</td>
 		<td>884</td>
 	</tr>
@@ -2731,7 +2732,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hadrien Croubois
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/amxx">amxx</a></td>
+		<td><a target="_blank" href="https://twitter.com/amxx">amxx</a></td>
 		<td>Lyon</td>
 		<td>879</td>
 	</tr>
@@ -2744,7 +2745,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mary Guillemard
 		</td>
 		<td>Collabora </td>
-		<td><a href="https://twitter.com/marysaka_">marysaka_</a></td>
+		<td><a target="_blank" href="https://twitter.com/marysaka_">marysaka_</a></td>
 		<td>Paris France</td>
 		<td>879</td>
 	</tr>
@@ -2783,7 +2784,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antonio Vivace
 		</td>
 		<td>@eurocontrol </td>
-		<td><a href="https://twitter.com/avivace4">avivace4</a></td>
+		<td><a target="_blank" href="https://twitter.com/avivace4">avivace4</a></td>
 		<td>Paris</td>
 		<td>865</td>
 	</tr>
@@ -2796,7 +2797,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cyril Tovena
 		</td>
 		<td>@grafana  </td>
-		<td><a href="https://twitter.com/kuqd">kuqd</a></td>
+		<td><a target="_blank" href="https://twitter.com/kuqd">kuqd</a></td>
 		<td>Avignon France</td>
 		<td>853</td>
 	</tr>
@@ -2809,7 +2810,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Froidure
 		</td>
 		<td>@diagramstechnologie </td>
-		<td><a href="https://twitter.com/nfroidure">nfroidure</a></td>
+		<td><a target="_blank" href="https://twitter.com/nfroidure">nfroidure</a></td>
 		<td>Lille  Nord PasdeCalais</td>
 		<td>845</td>
 	</tr>
@@ -2822,7 +2823,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Danjou
 		</td>
 		<td>@mergifyio </td>
-		<td><a href="https://twitter.com/juldanjou">juldanjou</a></td>
+		<td><a target="_blank" href="https://twitter.com/juldanjou">juldanjou</a></td>
 		<td>Toulouse France</td>
 		<td>841</td>
 	</tr>
@@ -2861,7 +2862,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Maziyar Panahi
 		</td>
 		<td>@iscpif @johnsnowlabs </td>
-		<td><a href="https://twitter.com/maziyarpanahi">maziyarpanahi</a></td>
+		<td><a target="_blank" href="https://twitter.com/maziyarpanahi">maziyarpanahi</a></td>
 		<td>Paris France</td>
 		<td>835</td>
 	</tr>
@@ -2874,7 +2875,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lucie
 		</td>
 		<td>@prismicio </td>
-		<td><a href="https://twitter.com/li_hbr">li_hbr</a></td>
+		<td><a target="_blank" href="https://twitter.com/li_hbr">li_hbr</a></td>
 		<td>France</td>
 		<td>829</td>
 	</tr>
@@ -2900,7 +2901,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Marvin Frachet
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mfrachet">mfrachet</a></td>
+		<td><a target="_blank" href="https://twitter.com/mfrachet">mfrachet</a></td>
 		<td>France</td>
 		<td>821</td>
 	</tr>
@@ -2926,7 +2927,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Frank Rousseau
 		</td>
 		<td>Cgwire </td>
-		<td><a href="https://twitter.com/gelnior">gelnior</a></td>
+		<td><a target="_blank" href="https://twitter.com/gelnior">gelnior</a></td>
 		<td>France</td>
 		<td>816</td>
 	</tr>
@@ -3004,7 +3005,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antonin Stefanutti
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/a7tti">a7tti</a></td>
+		<td><a target="_blank" href="https://twitter.com/a7tti">a7tti</a></td>
 		<td>Paris France</td>
 		<td>794</td>
 	</tr>
@@ -3043,7 +3044,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Christophe Porteneuve
 		</td>
 		<td>Delicious Insights </td>
-		<td><a href="https://twitter.com/porteneuve">porteneuve</a></td>
+		<td><a target="_blank" href="https://twitter.com/porteneuve">porteneuve</a></td>
 		<td>Paris France</td>
 		<td>790</td>
 	</tr>
@@ -3069,7 +3070,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			vindarel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vindarel">vindarel</a></td>
+		<td><a target="_blank" href="https://twitter.com/vindarel">vindarel</a></td>
 		<td>France</td>
 		<td>789</td>
 	</tr>
@@ -3082,7 +3083,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jonathan Bakebwa
 		</td>
 		<td>@chakraui </td>
-		<td><a href="https://twitter.com/codebender828">codebender828</a></td>
+		<td><a target="_blank" href="https://twitter.com/codebender828">codebender828</a></td>
 		<td>Paris France</td>
 		<td>788</td>
 	</tr>
@@ -3095,7 +3096,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mikhail Klementev
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dump_stack">dump_stack</a></td>
+		<td><a target="_blank" href="https://twitter.com/dump_stack">dump_stack</a></td>
 		<td>France</td>
 		<td>787</td>
 	</tr>
@@ -3134,7 +3135,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Capelle
 		</td>
 		<td>Wb </td>
-		<td><a href="https://twitter.com/thecapeador">thecapeador</a></td>
+		<td><a target="_blank" href="https://twitter.com/thecapeador">thecapeador</a></td>
 		<td>Chambery France</td>
 		<td>758</td>
 	</tr>
@@ -3147,7 +3148,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JeanYves Tinevez
 		</td>
 		<td>Institut Pasteur </td>
-		<td><a href="https://twitter.com/jytinevez">jytinevez</a></td>
+		<td><a target="_blank" href="https://twitter.com/jytinevez">jytinevez</a></td>
 		<td>Paris France</td>
 		<td>755</td>
 	</tr>
@@ -3186,7 +3187,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Solygambas
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/solygambas">solygambas</a></td>
+		<td><a target="_blank" href="https://twitter.com/solygambas">solygambas</a></td>
 		<td>Montpellier France</td>
 		<td>737</td>
 	</tr>
@@ -3199,7 +3200,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antonio Goncalves
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/agoncal">agoncal</a></td>
+		<td><a target="_blank" href="https://twitter.com/agoncal">agoncal</a></td>
 		<td>Paris</td>
 		<td>735</td>
 	</tr>
@@ -3225,7 +3226,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ycarus Yannick Chabanois
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/openmptcprouter">openmptcprouter</a></td>
+		<td><a target="_blank" href="https://twitter.com/openmptcprouter">openmptcprouter</a></td>
 		<td>France</td>
 		<td>717</td>
 	</tr>
@@ -3277,7 +3278,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Louis CAD
 		</td>
 		<td>Amande  Previously @beepiz<br/><br/>Suivideflottenet<br/><br/></td>
-		<td><a href="https://twitter.com/Louis_CAD">Louis_CAD</a></td>
+		<td><a target="_blank" href="https://twitter.com/Louis_CAD">Louis_CAD</a></td>
 		<td>France</td>
 		<td>697</td>
 	</tr>
@@ -3290,7 +3291,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			FG Fernandez
 		</td>
 		<td>@quackai @pyronear </td>
-		<td><a href="https://twitter.com/FrG_FM">FrG_FM</a></td>
+		<td><a target="_blank" href="https://twitter.com/FrG_FM">FrG_FM</a></td>
 		<td>Paris FR</td>
 		<td>695</td>
 	</tr>
@@ -3303,7 +3304,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gilles Chehade
 		</td>
 		<td>Poolporg </td>
-		<td><a href="https://twitter.com/poolporg">poolporg</a></td>
+		<td><a target="_blank" href="https://twitter.com/poolporg">poolporg</a></td>
 		<td>Nantes France</td>
 		<td>691</td>
 	</tr>
@@ -3316,7 +3317,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jeremy Lempereur
 		</td>
 		<td>@apollographql </td>
-		<td><a href="https://twitter.com/o0ignition0o">o0ignition0o</a></td>
+		<td><a target="_blank" href="https://twitter.com/o0ignition0o">o0ignition0o</a></td>
 		<td>Lille</td>
 		<td>687</td>
 	</tr>
@@ -3329,7 +3330,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adrien Joly
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adrienjoly">adrienjoly</a></td>
+		<td><a target="_blank" href="https://twitter.com/adrienjoly">adrienjoly</a></td>
 		<td>Montreuil Paris area France</td>
 		<td>684</td>
 	</tr>
@@ -3342,7 +3343,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vince Lwt
 		</td>
 		<td>Llmonitorcom </td>
-		<td><a href="https://twitter.com/vincelwt">vincelwt</a></td>
+		<td><a target="_blank" href="https://twitter.com/vincelwt">vincelwt</a></td>
 		<td>France</td>
 		<td>681</td>
 	</tr>
@@ -3355,7 +3356,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mathieu Tarral
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mtarral">mtarral</a></td>
+		<td><a target="_blank" href="https://twitter.com/mtarral">mtarral</a></td>
 		<td>Paris France</td>
 		<td>676</td>
 	</tr>
@@ -3368,7 +3369,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lo Pradel
 		</td>
 		<td>@sigle  </td>
-		<td><a href="https://twitter.com/leopradel">leopradel</a></td>
+		<td><a target="_blank" href="https://twitter.com/leopradel">leopradel</a></td>
 		<td>Toulouse France</td>
 		<td>675</td>
 	</tr>
@@ -3381,7 +3382,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Bernos
 		</td>
 		<td>@invertase </td>
-		<td><a href="https://twitter.com/BeGuillaume">BeGuillaume</a></td>
+		<td><a target="_blank" href="https://twitter.com/BeGuillaume">BeGuillaume</a></td>
 		<td>Paris France</td>
 		<td>672</td>
 	</tr>
@@ -3394,7 +3395,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Albert Villanova del Moral
 		</td>
 		<td>@huggingface @aiinnova </td>
-		<td><a href="https://twitter.com/avillanovamoral">avillanovamoral</a></td>
+		<td><a target="_blank" href="https://twitter.com/avillanovamoral">avillanovamoral</a></td>
 		<td>Paris France</td>
 		<td>670</td>
 	</tr>
@@ -3407,7 +3408,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Dubois
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/juliendubois">juliendubois</a></td>
+		<td><a target="_blank" href="https://twitter.com/juliendubois">juliendubois</a></td>
 		<td>Suresnes France</td>
 		<td>669</td>
 	</tr>
@@ -3420,7 +3421,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Kvin Chalet
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kevin_chalet">kevin_chalet</a></td>
+		<td><a target="_blank" href="https://twitter.com/kevin_chalet">kevin_chalet</a></td>
 		<td>France</td>
 		<td>669</td>
 	</tr>
@@ -3459,7 +3460,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Denys Sguret
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DenysSeguret">DenysSeguret</a></td>
+		<td><a target="_blank" href="https://twitter.com/DenysSeguret">DenysSeguret</a></td>
 		<td>Lyon France</td>
 		<td>658</td>
 	</tr>
@@ -3472,7 +3473,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fabien Castan
 		</td>
 		<td>Technicolor Research </td>
-		<td><a href="https://twitter.com/fabiencastan">fabiencastan</a></td>
+		<td><a target="_blank" href="https://twitter.com/fabiencastan">fabiencastan</a></td>
 		<td>France</td>
 		<td>652</td>
 	</tr>
@@ -3485,7 +3486,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Holtz Yan
 		</td>
 		<td>Software Engineer  Dataviz<br/></td>
-		<td><a href="https://twitter.com/R_Graph_Gallery">R_Graph_Gallery</a></td>
+		<td><a target="_blank" href="https://twitter.com/R_Graph_Gallery">R_Graph_Gallery</a></td>
 		<td>Montpellier France</td>
 		<td>647</td>
 	</tr>
@@ -3498,7 +3499,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Romain Lenzotti
 		</td>
 		<td>Zenika </td>
-		<td><a href="https://twitter.com/RomainLenzotti">RomainLenzotti</a></td>
+		<td><a target="_blank" href="https://twitter.com/RomainLenzotti">RomainLenzotti</a></td>
 		<td>Iledefrance France</td>
 		<td>646</td>
 	</tr>
@@ -3511,7 +3512,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Kvin Rocher  @Darklg
 		</td>
 		<td>Freelance Wordpress  Magento<br/></td>
-		<td><a href="https://twitter.com/Darklg">Darklg</a></td>
+		<td><a target="_blank" href="https://twitter.com/Darklg">Darklg</a></td>
 		<td>Paris France</td>
 		<td>644</td>
 	</tr>
@@ -3524,7 +3525,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Juan Emmanuel Johnson
 		</td>
 		<td>Centre National De La<br/>Recherche<br/>Scientifique<br/></td>
-		<td><a href="https://twitter.com/jejjohnson">jejjohnson</a></td>
+		<td><a target="_blank" href="https://twitter.com/jejjohnson">jejjohnson</a></td>
 		<td>Grenoble France</td>
 		<td>640</td>
 	</tr>
@@ -3537,7 +3538,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Elie Michel
 		</td>
 		<td>Adobe Research </td>
-		<td><a href="https://twitter.com/exppad">exppad</a></td>
+		<td><a target="_blank" href="https://twitter.com/exppad">exppad</a></td>
 		<td>Paris</td>
 		<td>638</td>
 	</tr>
@@ -3589,7 +3590,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Pilato
 		</td>
 		<td>@elastic </td>
-		<td><a href="https://twitter.com/dadoonet">dadoonet</a></td>
+		<td><a target="_blank" href="https://twitter.com/dadoonet">dadoonet</a></td>
 		<td>France Cergy</td>
 		<td>634</td>
 	</tr>
@@ -3602,7 +3603,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexis Saettler
 		</td>
 		<td>@monicahq  </td>
-		<td><a href="https://twitter.com/asbin">asbin</a></td>
+		<td><a target="_blank" href="https://twitter.com/asbin">asbin</a></td>
 		<td>Montreuil France</td>
 		<td>632</td>
 	</tr>
@@ -3628,7 +3629,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alex Kirszenberg
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alexkirsz">alexkirsz</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexkirsz">alexkirsz</a></td>
 		<td>Paris</td>
 		<td>625</td>
 	</tr>
@@ -3641,7 +3642,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Katia Aresti
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/karesti">karesti</a></td>
+		<td><a target="_blank" href="https://twitter.com/karesti">karesti</a></td>
 		<td>Paris</td>
 		<td>617</td>
 	</tr>
@@ -3654,7 +3655,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Philippe Ozil
 		</td>
 		<td>Salesforce </td>
-		<td><a href="https://twitter.com/PhilippeOzil">PhilippeOzil</a></td>
+		<td><a target="_blank" href="https://twitter.com/PhilippeOzil">PhilippeOzil</a></td>
 		<td>France</td>
 		<td>615</td>
 	</tr>
@@ -3680,7 +3681,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Laurent Bercot
 		</td>
 		<td>Skarnetcom </td>
-		<td><a href="https://twitter.com/laurentbercot">laurentbercot</a></td>
+		<td><a target="_blank" href="https://twitter.com/laurentbercot">laurentbercot</a></td>
 		<td>Paris France</td>
 		<td>611</td>
 	</tr>
@@ -3693,7 +3694,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mal Nison
 		</td>
 		<td>@datadog </td>
-		<td><a href="https://twitter.com/arcanis">arcanis</a></td>
+		<td><a target="_blank" href="https://twitter.com/arcanis">arcanis</a></td>
 		<td>Paris France</td>
 		<td>607</td>
 	</tr>
@@ -3732,7 +3733,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gwendal Rou
 		</td>
 		<td>Pierlis </td>
-		<td><a href="https://twitter.com/groue">groue</a></td>
+		<td><a target="_blank" href="https://twitter.com/groue">groue</a></td>
 		<td>Paris France</td>
 		<td>600</td>
 	</tr>
@@ -3758,7 +3759,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Angelo
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/angelozerr">angelozerr</a></td>
+		<td><a target="_blank" href="https://twitter.com/angelozerr">angelozerr</a></td>
 		<td>France</td>
 		<td>600</td>
 	</tr>
@@ -3771,7 +3772,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benot Blanchon
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BenoitBlanchon">BenoitBlanchon</a></td>
+		<td><a target="_blank" href="https://twitter.com/BenoitBlanchon">BenoitBlanchon</a></td>
 		<td>France</td>
 		<td>597</td>
 	</tr>
@@ -3784,7 +3785,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cedric Guillemet
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/skaven_">skaven_</a></td>
+		<td><a target="_blank" href="https://twitter.com/skaven_">skaven_</a></td>
 		<td>Redon Brittany France</td>
 		<td>593</td>
 	</tr>
@@ -3797,7 +3798,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre BODIN
 		</td>
 		<td>Strapi </td>
-		<td><a href="https://twitter.com/_alexandrebodin">_alexandrebodin</a></td>
+		<td><a target="_blank" href="https://twitter.com/_alexandrebodin">_alexandrebodin</a></td>
 		<td>France</td>
 		<td>593</td>
 	</tr>
@@ -3810,7 +3811,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Norze
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/norze15">norze15</a></td>
+		<td><a target="_blank" href="https://twitter.com/norze15">norze15</a></td>
 		<td>France</td>
 		<td>592</td>
 	</tr>
@@ -3836,7 +3837,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Paviot
 		</td>
 		<td>University Of Burgundy </td>
-		<td><a href="https://twitter.com/pythonocc">pythonocc</a></td>
+		<td><a target="_blank" href="https://twitter.com/pythonocc">pythonocc</a></td>
 		<td>France</td>
 		<td>577</td>
 	</tr>
@@ -3849,7 +3850,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Wassim Chegham
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/manekinekko">manekinekko</a></td>
+		<td><a target="_blank" href="https://twitter.com/manekinekko">manekinekko</a></td>
 		<td>France</td>
 		<td>573</td>
 	</tr>
@@ -3862,7 +3863,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fabien LOISON
 		</td>
 		<td>@wanadev  </td>
-		<td><a href="https://twitter.com/flogisoft">flogisoft</a></td>
+		<td><a target="_blank" href="https://twitter.com/flogisoft">flogisoft</a></td>
 		<td>Lyon France</td>
 		<td>573</td>
 	</tr>
@@ -3875,7 +3876,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lysandre Debut
 		</td>
 		<td>Hugging Face </td>
-		<td><a href="https://twitter.com/LysandreJik">LysandreJik</a></td>
+		<td><a target="_blank" href="https://twitter.com/LysandreJik">LysandreJik</a></td>
 		<td>Paris</td>
 		<td>563</td>
 	</tr>
@@ -3914,7 +3915,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			danny
 		</td>
 		<td>Ganatan </td>
-		<td><a href="https://twitter.com/dannyganatan">dannyganatan</a></td>
+		<td><a target="_blank" href="https://twitter.com/dannyganatan">dannyganatan</a></td>
 		<td>France</td>
 		<td>553</td>
 	</tr>
@@ -3927,7 +3928,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Bertrand THOMAS
 		</td>
 		<td>@suse </td>
-		<td><a href="https://twitter.com/devprofr">devprofr</a></td>
+		<td><a target="_blank" href="https://twitter.com/devprofr">devprofr</a></td>
 		<td>Annecy France</td>
 		<td>553</td>
 	</tr>
@@ -3940,7 +3941,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Colin Fay
 		</td>
 		<td>@thinkropen   <br/></td>
-		<td><a href="https://twitter.com/_ColinFay">_ColinFay</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ColinFay">_ColinFay</a></td>
 		<td>Rennes France</td>
 		<td>550</td>
 	</tr>
@@ -4057,7 +4058,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Simonini
 		</td>
 		<td>@huggingface </td>
-		<td><a href="https://twitter.com/ThomasSimonini">ThomasSimonini</a></td>
+		<td><a target="_blank" href="https://twitter.com/ThomasSimonini">ThomasSimonini</a></td>
 		<td>Paris France</td>
 		<td>519</td>
 	</tr>
@@ -4096,7 +4097,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Hrault
 		</td>
 		<td>@toptal </td>
-		<td><a href="https://twitter.com/dherault111">dherault111</a></td>
+		<td><a target="_blank" href="https://twitter.com/dherault111">dherault111</a></td>
 		<td>AixenProvence France</td>
 		<td>510</td>
 	</tr>
@@ -4135,7 +4136,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lucas Hosseini
 		</td>
 		<td>Skip Labs </td>
-		<td><a href="https://twitter.com/lucas_hosseini">lucas_hosseini</a></td>
+		<td><a target="_blank" href="https://twitter.com/lucas_hosseini">lucas_hosseini</a></td>
 		<td>Paris</td>
 		<td>499</td>
 	</tr>
@@ -4148,7 +4149,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Palard
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sizeof">sizeof</a></td>
+		<td><a target="_blank" href="https://twitter.com/sizeof">sizeof</a></td>
 		<td>Paris France</td>
 		<td>493</td>
 	</tr>
@@ -4161,7 +4162,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Corentin THOMASSET
 		</td>
 		<td>@georgestech  </td>
-		<td><a href="https://twitter.com/cthmsst">cthmsst</a></td>
+		<td><a target="_blank" href="https://twitter.com/cthmsst">cthmsst</a></td>
 		<td>France  Lyon</td>
 		<td>488</td>
 	</tr>
@@ -4174,7 +4175,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			andrew
 		</td>
 		<td>@betwixtlabs  </td>
-		<td><a href="https://twitter.com/andrewmd5">andrewmd5</a></td>
+		<td><a target="_blank" href="https://twitter.com/andrewmd5">andrewmd5</a></td>
 		<td>New York  Paris</td>
 		<td>487</td>
 	</tr>
@@ -4200,7 +4201,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Xavier Van de Woestyne
 		</td>
 		<td>@funkywork </td>
-		<td><a href="https://twitter.com/vdwxv">vdwxv</a></td>
+		<td><a target="_blank" href="https://twitter.com/vdwxv">vdwxv</a></td>
 		<td>Nantes</td>
 		<td>483</td>
 	</tr>
@@ -4213,7 +4214,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Youness Idbakkasse
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/blanklob">blanklob</a></td>
+		<td><a target="_blank" href="https://twitter.com/blanklob">blanklob</a></td>
 		<td>Paris France</td>
 		<td>481</td>
 	</tr>
@@ -4226,7 +4227,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Dimitri Fontaine
 		</td>
 		<td>@citusdata </td>
-		<td><a href="https://twitter.com/tapoueh">tapoueh</a></td>
+		<td><a target="_blank" href="https://twitter.com/tapoueh">tapoueh</a></td>
 		<td>Paris France</td>
 		<td>479</td>
 	</tr>
@@ -4265,7 +4266,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Teiva Harsanyi
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/teivah">teivah</a></td>
+		<td><a target="_blank" href="https://twitter.com/teivah">teivah</a></td>
 		<td>France</td>
 		<td>476</td>
 	</tr>
@@ -4291,7 +4292,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adrien Poly
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adrienpoly">adrienpoly</a></td>
+		<td><a target="_blank" href="https://twitter.com/adrienpoly">adrienpoly</a></td>
 		<td>Bordeaux</td>
 		<td>474</td>
 	</tr>
@@ -4304,7 +4305,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Simon Rodriguez
 		</td>
 		<td>Spiders </td>
-		<td><a href="https://twitter.com/simonkosua">simonkosua</a></td>
+		<td><a target="_blank" href="https://twitter.com/simonkosua">simonkosua</a></td>
 		<td>France</td>
 		<td>473</td>
 	</tr>
@@ -4317,7 +4318,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Laurent Thiebault
 		</td>
 		<td>@decathlon </td>
-		<td><a href="https://twitter.com/lauthieb">lauthieb</a></td>
+		<td><a target="_blank" href="https://twitter.com/lauthieb">lauthieb</a></td>
 		<td>Lille France</td>
 		<td>473</td>
 	</tr>
@@ -4395,7 +4396,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Lambert
 		</td>
 		<td>Cnrs </td>
-		<td><a href="https://twitter.com/neocartocnrs">neocartocnrs</a></td>
+		<td><a target="_blank" href="https://twitter.com/neocartocnrs">neocartocnrs</a></td>
 		<td>Paris</td>
 		<td>459</td>
 	</tr>
@@ -4408,7 +4409,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Don HO
 		</td>
 		<td>Notepad Project </td>
-		<td><a href="https://twitter.com/ho_don">ho_don</a></td>
+		<td><a target="_blank" href="https://twitter.com/ho_don">ho_don</a></td>
 		<td>Paris France</td>
 		<td>458</td>
 	</tr>
@@ -4434,7 +4435,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hugo Alliaume
 		</td>
 		<td>Dev Fullstack At @wamiz<br/></td>
-		<td><a href="https://twitter.com/HugoAlliaume">HugoAlliaume</a></td>
+		<td><a target="_blank" href="https://twitter.com/HugoAlliaume">HugoAlliaume</a></td>
 		<td>Lyon France</td>
 		<td>457</td>
 	</tr>
@@ -4486,7 +4487,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Hennion
 		</td>
 		<td>Le Blog De Nicolargo<br/></td>
-		<td><a href="https://twitter.com/nicolargo">nicolargo</a></td>
+		<td><a target="_blank" href="https://twitter.com/nicolargo">nicolargo</a></td>
 		<td>Valbonne France</td>
 		<td>449</td>
 	</tr>
@@ -4499,7 +4500,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Martin Laxenaire
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/martinlaxenaire">martinlaxenaire</a></td>
+		<td><a target="_blank" href="https://twitter.com/martinlaxenaire">martinlaxenaire</a></td>
 		<td>Lyon France</td>
 		<td>446</td>
 	</tr>
@@ -4512,7 +4513,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Maxime Steinhausser
 		</td>
 		<td>@elao  </td>
-		<td><a href="https://twitter.com/ogizanagi">ogizanagi</a></td>
+		<td><a target="_blank" href="https://twitter.com/ogizanagi">ogizanagi</a></td>
 		<td>Lyon  France</td>
 		<td>445</td>
 	</tr>
@@ -4525,7 +4526,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent Voyer
 		</td>
 		<td>Vercel </td>
-		<td><a href="https://twitter.com/vvoyer">vvoyer</a></td>
+		<td><a target="_blank" href="https://twitter.com/vvoyer">vvoyer</a></td>
 		<td>Nantes France</td>
 		<td>444</td>
 	</tr>
@@ -4655,7 +4656,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nathan Lovato
 		</td>
 		<td>Gdquest </td>
-		<td><a href="https://twitter.com/NathanGDQuest">NathanGDQuest</a></td>
+		<td><a target="_blank" href="https://twitter.com/NathanGDQuest">NathanGDQuest</a></td>
 		<td>France</td>
 		<td>431</td>
 	</tr>
@@ -4681,7 +4682,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pierre Lindenbaum
 		</td>
 		<td>Inserm </td>
-		<td><a href="https://twitter.com/yokofakun">yokofakun</a></td>
+		<td><a target="_blank" href="https://twitter.com/yokofakun">yokofakun</a></td>
 		<td>Nantes France</td>
 		<td>427</td>
 	</tr>
@@ -4720,7 +4721,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Max Thirouin
 		</td>
 		<td>Freelance At Mooxio </td>
-		<td><a href="https://twitter.com/MoOx">MoOx</a></td>
+		<td><a target="_blank" href="https://twitter.com/MoOx">MoOx</a></td>
 		<td>Toulouse France</td>
 		<td>420</td>
 	</tr>
@@ -4733,7 +4734,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Chau
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Akryum">Akryum</a></td>
+		<td><a target="_blank" href="https://twitter.com/Akryum">Akryum</a></td>
 		<td>France</td>
 		<td>418</td>
 	</tr>
@@ -4746,7 +4747,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nadim Kobeissi
 		</td>
 		<td>@symbolicsoft </td>
-		<td><a href="https://twitter.com/kaepora">kaepora</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaepora">kaepora</a></td>
 		<td>Paris France</td>
 		<td>410</td>
 	</tr>
@@ -4759,7 +4760,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent Composieux
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/vcomposieux">vcomposieux</a></td>
+		<td><a target="_blank" href="https://twitter.com/vcomposieux">vcomposieux</a></td>
 		<td>Annecy France</td>
 		<td>409</td>
 	</tr>
@@ -4785,7 +4786,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Boileau toham
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/toham_tech">toham_tech</a></td>
+		<td><a target="_blank" href="https://twitter.com/toham_tech">toham_tech</a></td>
 		<td>Nice France</td>
 		<td>406</td>
 	</tr>
@@ -4876,7 +4877,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Clment Roche
 		</td>
 		<td>@studiofreight  </td>
-		<td><a href="https://twitter.com/clementroche_">clementroche_</a></td>
+		<td><a target="_blank" href="https://twitter.com/clementroche_">clementroche_</a></td>
 		<td>France</td>
 		<td>395</td>
 	</tr>
@@ -4928,7 +4929,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			loth
 		</td>
 		<td>3th </td>
-		<td><a href="https://twitter.com/3dflashlo">3dflashlo</a></td>
+		<td><a target="_blank" href="https://twitter.com/3dflashlo">3dflashlo</a></td>
 		<td>france</td>
 		<td>385</td>
 	</tr>
@@ -4954,7 +4955,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sylvain Corlay
 		</td>
 		<td>Quantstack </td>
-		<td><a href="https://twitter.com/SylvainCorlay">SylvainCorlay</a></td>
+		<td><a target="_blank" href="https://twitter.com/SylvainCorlay">SylvainCorlay</a></td>
 		<td>Paris</td>
 		<td>379</td>
 	</tr>
@@ -4967,7 +4968,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Arnaud Giuliani
 		</td>
 		<td>Kotzilla </td>
-		<td><a href="https://twitter.com/arnogiu">arnogiu</a></td>
+		<td><a target="_blank" href="https://twitter.com/arnogiu">arnogiu</a></td>
 		<td>France</td>
 		<td>378</td>
 	</tr>
@@ -4993,7 +4994,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mpgn_x64">mpgn_x64</a></td>
+		<td><a target="_blank" href="https://twitter.com/mpgn_x64">mpgn_x64</a></td>
 		<td>France</td>
 		<td>370</td>
 	</tr>
@@ -5032,7 +5033,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alain Hlali
 		</td>
 		<td>Github </td>
-		<td><a href="https://twitter.com/AlainHelaili">AlainHelaili</a></td>
+		<td><a target="_blank" href="https://twitter.com/AlainHelaili">AlainHelaili</a></td>
 		<td>Paris</td>
 		<td>367</td>
 	</tr>
@@ -5058,7 +5059,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Tortorini
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mr21_">mr21_</a></td>
+		<td><a target="_blank" href="https://twitter.com/mr21_">mr21_</a></td>
 		<td>Paris</td>
 		<td>358</td>
 	</tr>
@@ -5136,7 +5137,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Robin David
 		</td>
 		<td>Quarkslab </td>
-		<td><a href="https://twitter.com/RobinDavid1">RobinDavid1</a></td>
+		<td><a target="_blank" href="https://twitter.com/RobinDavid1">RobinDavid1</a></td>
 		<td>Paris France</td>
 		<td>348</td>
 	</tr>
@@ -5149,7 +5150,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			FrancoisGuillaume Ribreau
 		</td>
 		<td>@nobullshitbooks @netwoio @hook0 @imagecharts<br/><br/>@killbugtoday<br/>@mailpopin<br/><br/><br/>Sold<br/>@redsmin<br/>@bringr<br/></td>
-		<td><a href="https://twitter.com/FGRibreau">FGRibreau</a></td>
+		<td><a target="_blank" href="https://twitter.com/FGRibreau">FGRibreau</a></td>
 		<td>France</td>
 		<td>344</td>
 	</tr>
@@ -5162,7 +5163,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Edward Beeching
 		</td>
 		<td>Inria </td>
-		<td><a href="https://twitter.com/edwardbeeching">edwardbeeching</a></td>
+		<td><a target="_blank" href="https://twitter.com/edwardbeeching">edwardbeeching</a></td>
 		<td>Lyon</td>
 		<td>344</td>
 	</tr>
@@ -5175,7 +5176,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Romain Tavenard
 		</td>
 		<td>Univ Rennes 2 </td>
-		<td><a href="https://twitter.com/rtavenar">rtavenar</a></td>
+		<td><a target="_blank" href="https://twitter.com/rtavenar">rtavenar</a></td>
 		<td>Rennes France</td>
 		<td>344</td>
 	</tr>
@@ -5201,7 +5202,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			William Traor
 		</td>
 		<td>Streali </td>
-		<td><a href="https://twitter.com/willtraore">willtraore</a></td>
+		<td><a target="_blank" href="https://twitter.com/willtraore">willtraore</a></td>
 		<td>Strasbourg</td>
 		<td>340</td>
 	</tr>
@@ -5253,7 +5254,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Roman Yurchak
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RomanYurchak">RomanYurchak</a></td>
+		<td><a target="_blank" href="https://twitter.com/RomanYurchak">RomanYurchak</a></td>
 		<td>Paris France</td>
 		<td>334</td>
 	</tr>
@@ -5266,7 +5267,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Damien Seguin
 		</td>
 		<td>@variablestudio   </td>
-		<td><a href="https://twitter.com/dmnsgn">dmnsgn</a></td>
+		<td><a target="_blank" href="https://twitter.com/dmnsgn">dmnsgn</a></td>
 		<td>London  Paris</td>
 		<td>333</td>
 	</tr>
@@ -5279,7 +5280,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Herv BREDIN
 		</td>
 		<td>Cnrs </td>
-		<td><a href="https://twitter.com/hbredin">hbredin</a></td>
+		<td><a target="_blank" href="https://twitter.com/hbredin">hbredin</a></td>
 		<td>France</td>
 		<td>333</td>
 	</tr>
@@ -5318,7 +5319,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antoine Caillon
 		</td>
 		<td>Ircam  Paris </td>
-		<td><a href="https://twitter.com/antoine_caillon">antoine_caillon</a></td>
+		<td><a target="_blank" href="https://twitter.com/antoine_caillon">antoine_caillon</a></td>
 		<td>Paris</td>
 		<td>331</td>
 	</tr>
@@ -5344,7 +5345,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Valentin Lobstein
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Chocapikk_">Chocapikk_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Chocapikk_">Chocapikk_</a></td>
 		<td>France</td>
 		<td>329</td>
 	</tr>
@@ -5383,7 +5384,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			LambdAurora
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LambdAurora">LambdAurora</a></td>
+		<td><a target="_blank" href="https://twitter.com/LambdAurora">LambdAurora</a></td>
 		<td>France</td>
 		<td>328</td>
 	</tr>
@@ -5409,7 +5410,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Victor Meunier MrEliptik
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mreliptik">mreliptik</a></td>
+		<td><a target="_blank" href="https://twitter.com/mreliptik">mreliptik</a></td>
 		<td>France</td>
 		<td>326</td>
 	</tr>
@@ -5422,7 +5423,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/stilic_dev">stilic_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/stilic_dev">stilic_dev</a></td>
 		<td>France</td>
 		<td>324</td>
 	</tr>
@@ -5435,7 +5436,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Robin Chalas
 		</td>
 		<td>@alximy </td>
-		<td><a href="https://twitter.com/chalas_r">chalas_r</a></td>
+		<td><a target="_blank" href="https://twitter.com/chalas_r">chalas_r</a></td>
 		<td>Lyon France</td>
 		<td>322</td>
 	</tr>
@@ -5487,7 +5488,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_zblurx">_zblurx</a></td>
+		<td><a target="_blank" href="https://twitter.com/_zblurx">_zblurx</a></td>
 		<td>France</td>
 		<td>310</td>
 	</tr>
@@ -5513,7 +5514,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Fayolle
 		</td>
 		<td>@camptocamp  </td>
-		<td><a href="https://twitter.com/gurneyalex">gurneyalex</a></td>
+		<td><a target="_blank" href="https://twitter.com/gurneyalex">gurneyalex</a></td>
 		<td>France</td>
 		<td>308</td>
 	</tr>
@@ -5539,7 +5540,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Rombauts
 		</td>
 		<td>Unity </td>
-		<td><a href="https://twitter.com/SRombauts">SRombauts</a></td>
+		<td><a target="_blank" href="https://twitter.com/SRombauts">SRombauts</a></td>
 		<td>Paris France</td>
 		<td>303</td>
 	</tr>
@@ -5552,7 +5553,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Christian Quest
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/cq94">cq94</a></td>
+		<td><a target="_blank" href="https://twitter.com/cq94">cq94</a></td>
 		<td>Paris France</td>
 		<td>302</td>
 	</tr>
@@ -5578,7 +5579,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David du Colombier
 		</td>
 		<td>@datadog Ex@videolabs </td>
-		<td><a href="https://twitter.com/0intro">0intro</a></td>
+		<td><a target="_blank" href="https://twitter.com/0intro">0intro</a></td>
 		<td>Paris France</td>
 		<td>300</td>
 	</tr>
@@ -5591,7 +5592,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sam Hocevar
 		</td>
 		<td>@dontnod  </td>
-		<td><a href="https://twitter.com/samhocevar">samhocevar</a></td>
+		<td><a target="_blank" href="https://twitter.com/samhocevar">samhocevar</a></td>
 		<td>Paris France</td>
 		<td>299</td>
 	</tr>
@@ -5604,7 +5605,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Gramfort
 		</td>
 		<td>Meta </td>
-		<td><a href="https://twitter.com/agramfort">agramfort</a></td>
+		<td><a target="_blank" href="https://twitter.com/agramfort">agramfort</a></td>
 		<td>Paris France</td>
 		<td>297</td>
 	</tr>
@@ -5630,7 +5631,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexis Jacomy
 		</td>
 		<td>Ouestware </td>
-		<td><a href="https://twitter.com/jacomyal">jacomyal</a></td>
+		<td><a target="_blank" href="https://twitter.com/jacomyal">jacomyal</a></td>
 		<td>Nantes France</td>
 		<td>296</td>
 	</tr>
@@ -5656,7 +5657,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Dirane TAFEN
 		</td>
 		<td>@eazytraining  </td>
-		<td><a href="https://twitter.com/Diranetafen">Diranetafen</a></td>
+		<td><a target="_blank" href="https://twitter.com/Diranetafen">Diranetafen</a></td>
 		<td>france</td>
 		<td>294</td>
 	</tr>
@@ -5682,7 +5683,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Andrea Fioraldi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/andreafioraldi">andreafioraldi</a></td>
+		<td><a target="_blank" href="https://twitter.com/andreafioraldi">andreafioraldi</a></td>
 		<td>Antibes France</td>
 		<td>290</td>
 	</tr>
@@ -5695,7 +5696,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lilian Besson
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BoycottThis">BoycottThis</a></td>
+		<td><a target="_blank" href="https://twitter.com/BoycottThis">BoycottThis</a></td>
 		<td>Strasbourg France</td>
 		<td>286</td>
 	</tr>
@@ -5721,7 +5722,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pierre Grimaud
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pgrimaud_">pgrimaud_</a></td>
+		<td><a target="_blank" href="https://twitter.com/pgrimaud_">pgrimaud_</a></td>
 		<td>Paris France</td>
 		<td>282</td>
 	</tr>
@@ -5760,7 +5761,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Maxime Quandalle
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/marobax">marobax</a></td>
+		<td><a target="_blank" href="https://twitter.com/marobax">marobax</a></td>
 		<td>Paris France</td>
 		<td>275</td>
 	</tr>
@@ -5786,7 +5787,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Gohel
 		</td>
 		<td>Ardata </td>
-		<td><a href="https://twitter.com/DavidGohel">DavidGohel</a></td>
+		<td><a target="_blank" href="https://twitter.com/DavidGohel">DavidGohel</a></td>
 		<td>Paris</td>
 		<td>271</td>
 	</tr>
@@ -5812,7 +5813,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Rmy Oudompheng
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/oudomphe">oudomphe</a></td>
+		<td><a target="_blank" href="https://twitter.com/oudomphe">oudomphe</a></td>
 		<td>Paris France</td>
 		<td>271</td>
 	</tr>
@@ -5825,7 +5826,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Simon Lecoq
 		</td>
 		<td>  </td>
-		<td><a href="https://twitter.com/lecoqsimon">lecoqsimon</a></td>
+		<td><a target="_blank" href="https://twitter.com/lecoqsimon">lecoqsimon</a></td>
 		<td>Canada  France</td>
 		<td>270</td>
 	</tr>
@@ -5838,7 +5839,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Olivier Gimenez
 		</td>
 		<td>Cnrs </td>
-		<td><a href="https://twitter.com/oaggimenez">oaggimenez</a></td>
+		<td><a target="_blank" href="https://twitter.com/oaggimenez">oaggimenez</a></td>
 		<td>Montpellier</td>
 		<td>270</td>
 	</tr>
@@ -5851,7 +5852,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sebastien Lebreton
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/sailro">sailro</a></td>
+		<td><a target="_blank" href="https://twitter.com/sailro">sailro</a></td>
 		<td>Lyon France</td>
 		<td>270</td>
 	</tr>
@@ -5864,7 +5865,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nouamane Tazi
 		</td>
 		<td>@huggingface </td>
-		<td><a href="https://twitter.com/NouamaneTazi">NouamaneTazi</a></td>
+		<td><a target="_blank" href="https://twitter.com/NouamaneTazi">NouamaneTazi</a></td>
 		<td>Paris France</td>
 		<td>269</td>
 	</tr>
@@ -5916,7 +5917,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Laforge
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/glaforge">glaforge</a></td>
+		<td><a target="_blank" href="https://twitter.com/glaforge">glaforge</a></td>
 		<td>Paris France</td>
 		<td>265</td>
 	</tr>
@@ -5929,7 +5930,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sarah Dayan
 		</td>
 		<td>@algolia </td>
-		<td><a href="https://twitter.com/frontstuff_io">frontstuff_io</a></td>
+		<td><a target="_blank" href="https://twitter.com/frontstuff_io">frontstuff_io</a></td>
 		<td>France</td>
 		<td>261</td>
 	</tr>
@@ -5955,7 +5956,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			natrixdev
 		</td>
 		<td>@natrixdevcorp  </td>
-		<td><a href="https://twitter.com/natrix_dev">natrix_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/natrix_dev">natrix_dev</a></td>
 		<td>France</td>
 		<td>259</td>
 	</tr>
@@ -5968,7 +5969,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Dr PhilMorph
 		</td>
 		<td>Morpheans </td>
-		<td><a href="https://twitter.com/sulfuroid">sulfuroid</a></td>
+		<td><a target="_blank" href="https://twitter.com/sulfuroid">sulfuroid</a></td>
 		<td>France Europe</td>
 		<td>258</td>
 	</tr>
@@ -5981,7 +5982,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JeanAndr Santoni
 		</td>
 		<td>Piepacker </td>
-		<td><a href="https://twitter.com/kivutaro">kivutaro</a></td>
+		<td><a target="_blank" href="https://twitter.com/kivutaro">kivutaro</a></td>
 		<td>Ajaccio France</td>
 		<td>258</td>
 	</tr>
@@ -6046,7 +6047,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Luis Lavena
 		</td>
 		<td>@area17  </td>
-		<td><a href="https://twitter.com/luislavena">luislavena</a></td>
+		<td><a target="_blank" href="https://twitter.com/luislavena">luislavena</a></td>
 		<td>Paris France</td>
 		<td>250</td>
 	</tr>
@@ -6072,7 +6073,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			vincent daubry
 		</td>
 		<td>Corpogames </td>
-		<td><a href="https://twitter.com/vdaubry">vdaubry</a></td>
+		<td><a target="_blank" href="https://twitter.com/vdaubry">vdaubry</a></td>
 		<td>Paris</td>
 		<td>249</td>
 	</tr>
@@ -6111,7 +6112,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Baptiste Pesquet
 		</td>
 		<td>Ens Cognitique </td>
-		<td><a href="https://twitter.com/bpesquet">bpesquet</a></td>
+		<td><a target="_blank" href="https://twitter.com/bpesquet">bpesquet</a></td>
 		<td>Bordeaux France</td>
 		<td>244</td>
 	</tr>
@@ -6137,7 +6138,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Tugdual Grall
 		</td>
 		<td>@github </td>
-		<td><a href="https://twitter.com/tgrall">tgrall</a></td>
+		<td><a target="_blank" href="https://twitter.com/tgrall">tgrall</a></td>
 		<td>Nantes France</td>
 		<td>242</td>
 	</tr>
@@ -6176,7 +6177,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Charly Poly
 		</td>
 		<td>@deferrun </td>
-		<td><a href="https://twitter.com/whereischarly">whereischarly</a></td>
+		<td><a target="_blank" href="https://twitter.com/whereischarly">whereischarly</a></td>
 		<td>Paris France</td>
 		<td>233</td>
 	</tr>
@@ -6189,7 +6190,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Broyer
 		</td>
 		<td>@atolcd  </td>
-		<td><a href="https://twitter.com/tbroyer">tbroyer</a></td>
+		<td><a target="_blank" href="https://twitter.com/tbroyer">tbroyer</a></td>
 		<td>Dijon France</td>
 		<td>232</td>
 	</tr>
@@ -6202,7 +6203,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jules Pietri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/julespietri">julespietri</a></td>
+		<td><a target="_blank" href="https://twitter.com/julespietri">julespietri</a></td>
 		<td>Corsica France</td>
 		<td>231</td>
 	</tr>
@@ -6254,7 +6255,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Manu
 		</td>
 		<td>Codinglab </td>
-		<td><a href="https://twitter.com/neolectron">neolectron</a></td>
+		<td><a target="_blank" href="https://twitter.com/neolectron">neolectron</a></td>
 		<td>Toulouse</td>
 		<td>225</td>
 	</tr>
@@ -6280,7 +6281,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cynthia
 		</td>
 		<td>@borkenware @tolgee </td>
-		<td><a href="https://twitter.com/cyyynthia_">cyyynthia_</a></td>
+		<td><a target="_blank" href="https://twitter.com/cyyynthia_">cyyynthia_</a></td>
 		<td>Toulouse France</td>
 		<td>223</td>
 	</tr>
@@ -6293,7 +6294,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hugo EXTRAT
 		</td>
 		<td>@appchoose </td>
-		<td><a href="https://twitter.com/hugoextrat">hugoextrat</a></td>
+		<td><a target="_blank" href="https://twitter.com/hugoextrat">hugoextrat</a></td>
 		<td>Lyon France</td>
 		<td>222</td>
 	</tr>
@@ -6319,7 +6320,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Franck Gaspoz
 		</td>
 		<td>Audensiel </td>
-		<td><a href="https://twitter.com/Franck_Gaspoz">Franck_Gaspoz</a></td>
+		<td><a target="_blank" href="https://twitter.com/Franck_Gaspoz">Franck_Gaspoz</a></td>
 		<td>France  Grenoble</td>
 		<td>217</td>
 	</tr>
@@ -6384,7 +6385,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Raphael Goetter
 		</td>
 		<td>Alsacreations </td>
-		<td><a href="https://twitter.com/raphaelgoetter">raphaelgoetter</a></td>
+		<td><a target="_blank" href="https://twitter.com/raphaelgoetter">raphaelgoetter</a></td>
 		<td>Strasbourg France</td>
 		<td>210</td>
 	</tr>
@@ -6397,7 +6398,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Marcus Bointon
 		</td>
 		<td>Synchromedia Ltd @synchromediauk </td>
-		<td><a href="https://twitter.com/SynchroM">SynchroM</a></td>
+		<td><a target="_blank" href="https://twitter.com/SynchroM">SynchroM</a></td>
 		<td>France</td>
 		<td>207</td>
 	</tr>
@@ -6423,7 +6424,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Victor Baybekov
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/buybackoff">buybackoff</a></td>
+		<td><a target="_blank" href="https://twitter.com/buybackoff">buybackoff</a></td>
 		<td>Paris</td>
 		<td>207</td>
 	</tr>
@@ -6449,7 +6450,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ahmed BESBES
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ahmed_besbes_">ahmed_besbes_</a></td>
+		<td><a target="_blank" href="https://twitter.com/ahmed_besbes_">ahmed_besbes_</a></td>
 		<td>Paris  France</td>
 		<td>205</td>
 	</tr>
@@ -6462,7 +6463,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Andrews Cordolino Sobral
 		</td>
 		<td>Activeeon </td>
-		<td><a href="https://twitter.com/andrewssobral">andrewssobral</a></td>
+		<td><a target="_blank" href="https://twitter.com/andrewssobral">andrewssobral</a></td>
 		<td>Paris France</td>
 		<td>203</td>
 	</tr>
@@ -6475,7 +6476,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			K Ghosh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kelu124">kelu124</a></td>
+		<td><a target="_blank" href="https://twitter.com/kelu124">kelu124</a></td>
 		<td>Paris</td>
 		<td>203</td>
 	</tr>
@@ -6488,7 +6489,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Petazzoni
 		</td>
 		<td>Bootlin @bootlin  </td>
-		<td><a href="https://twitter.com/tpetazzoni">tpetazzoni</a></td>
+		<td><a target="_blank" href="https://twitter.com/tpetazzoni">tpetazzoni</a></td>
 		<td>Toulouse France</td>
 		<td>201</td>
 	</tr>
@@ -6501,7 +6502,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adrien Navratil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SharkLitarvan">SharkLitarvan</a></td>
+		<td><a target="_blank" href="https://twitter.com/SharkLitarvan">SharkLitarvan</a></td>
 		<td>Montpellier France</td>
 		<td>200</td>
 	</tr>
@@ -6527,7 +6528,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Smaine Milianni
 		</td>
 		<td>@yousign </td>
-		<td><a href="https://twitter.com/Eniams_Dev">Eniams_Dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/Eniams_Dev">Eniams_Dev</a></td>
 		<td>Paris</td>
 		<td>197</td>
 	</tr>
@@ -6540,7 +6541,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Houssem Dellai
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/HoussemDellai">HoussemDellai</a></td>
+		<td><a target="_blank" href="https://twitter.com/HoussemDellai">HoussemDellai</a></td>
 		<td>Paris</td>
 		<td>196</td>
 	</tr>
@@ -6566,7 +6567,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Horacio Gonzalez
 		</td>
 		<td>@ovhcloud </td>
-		<td><a href="https://twitter.com/LostInBrittany">LostInBrittany</a></td>
+		<td><a target="_blank" href="https://twitter.com/LostInBrittany">LostInBrittany</a></td>
 		<td>Brest Brittany France</td>
 		<td>195</td>
 	</tr>
@@ -6579,7 +6580,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benjamin Vernoux
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bvernoux">bvernoux</a></td>
+		<td><a target="_blank" href="https://twitter.com/bvernoux">bvernoux</a></td>
 		<td>France</td>
 		<td>194</td>
 	</tr>
@@ -6592,7 +6593,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Aymeric Augustin
 		</td>
 		<td>@qonto </td>
-		<td><a href="https://twitter.com/aymericaugustin">aymericaugustin</a></td>
+		<td><a target="_blank" href="https://twitter.com/aymericaugustin">aymericaugustin</a></td>
 		<td>Paris France</td>
 		<td>192</td>
 	</tr>
@@ -6605,7 +6606,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Angel Uriot
 		</td>
 		<td>@blablacar </td>
-		<td><a href="https://twitter.com/DIMENSION_YT">DIMENSION_YT</a></td>
+		<td><a target="_blank" href="https://twitter.com/DIMENSION_YT">DIMENSION_YT</a></td>
 		<td>France</td>
 		<td>192</td>
 	</tr>
@@ -6631,7 +6632,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Arthur Guiot
 		</td>
 		<td>Elva  Pyratzlabs </td>
-		<td><a href="https://twitter.com/arthur_guiot">arthur_guiot</a></td>
+		<td><a target="_blank" href="https://twitter.com/arthur_guiot">arthur_guiot</a></td>
 		<td>Paris</td>
 		<td>191</td>
 	</tr>
@@ -6670,7 +6671,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Matt Ketmo
 		</td>
 		<td>Kiln </td>
-		<td><a href="https://twitter.com/MattKetmo">MattKetmo</a></td>
+		<td><a target="_blank" href="https://twitter.com/MattKetmo">MattKetmo</a></td>
 		<td>Paris</td>
 		<td>187</td>
 	</tr>
@@ -6683,7 +6684,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ovid
 		</td>
 		<td>Freelance Have Perl Will<br/>Travel<br/></td>
-		<td><a href="https://twitter.com/OvidPerl">OvidPerl</a></td>
+		<td><a target="_blank" href="https://twitter.com/OvidPerl">OvidPerl</a></td>
 		<td>ChteaneufGrasse France</td>
 		<td>185</td>
 	</tr>
@@ -6696,7 +6697,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Duhan
 		</td>
 		<td>My Happy Agency </td>
-		<td><a href="https://twitter.com/blackevilgoblin">blackevilgoblin</a></td>
+		<td><a target="_blank" href="https://twitter.com/blackevilgoblin">blackevilgoblin</a></td>
 		<td>Paris France</td>
 		<td>185</td>
 	</tr>
@@ -6709,7 +6710,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antoine Rey
 		</td>
 		<td>Generali </td>
-		<td><a href="https://twitter.com/rey_antoine">rey_antoine</a></td>
+		<td><a target="_blank" href="https://twitter.com/rey_antoine">rey_antoine</a></td>
 		<td>Paris</td>
 		<td>182</td>
 	</tr>
@@ -6735,7 +6736,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Thibeaut
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ibelick">ibelick</a></td>
+		<td><a target="_blank" href="https://twitter.com/ibelick">ibelick</a></td>
 		<td>Paris</td>
 		<td>178</td>
 	</tr>
@@ -6748,7 +6749,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Erik Arvidsson
 		</td>
 		<td>@rocicorp </td>
-		<td><a href="https://twitter.com/erikarvidsson">erikarvidsson</a></td>
+		<td><a target="_blank" href="https://twitter.com/erikarvidsson">erikarvidsson</a></td>
 		<td>Paris</td>
 		<td>175</td>
 	</tr>
@@ -6774,7 +6775,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Pertus
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/sebpertus">sebpertus</a></td>
+		<td><a target="_blank" href="https://twitter.com/sebpertus">sebpertus</a></td>
 		<td>Paris</td>
 		<td>173</td>
 	</tr>
@@ -6787,7 +6788,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antonin F
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rgrsmth">rgrsmth</a></td>
+		<td><a target="_blank" href="https://twitter.com/rgrsmth">rgrsmth</a></td>
 		<td>France</td>
 		<td>171</td>
 	</tr>
@@ -6800,7 +6801,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Asami
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/d0iasm">d0iasm</a></td>
+		<td><a target="_blank" href="https://twitter.com/d0iasm">d0iasm</a></td>
 		<td>Paris France</td>
 		<td>170</td>
 	</tr>
@@ -6865,7 +6866,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Rodz Labs
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/R0dZill4">R0dZill4</a></td>
+		<td><a target="_blank" href="https://twitter.com/R0dZill4">R0dZill4</a></td>
 		<td>France</td>
 		<td>164</td>
 	</tr>
@@ -6878,7 +6879,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Yoan Bernabeu
 		</td>
 		<td>Yoandevco </td>
-		<td><a href="https://twitter.com/yOyO38">yOyO38</a></td>
+		<td><a target="_blank" href="https://twitter.com/yOyO38">yOyO38</a></td>
 		<td>France</td>
 		<td>161</td>
 	</tr>
@@ -6891,7 +6892,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Laurent Kemp
 		</td>
 		<td>@techheadbrothers @innoveo  </td>
-		<td><a href="https://twitter.com/laurentkempe">laurentkempe</a></td>
+		<td><a target="_blank" href="https://twitter.com/laurentkempe">laurentkempe</a></td>
 		<td>Illzach France</td>
 		<td>160</td>
 	</tr>
@@ -6917,7 +6918,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fox2Code
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Fox2Code">Fox2Code</a></td>
+		<td><a target="_blank" href="https://twitter.com/Fox2Code">Fox2Code</a></td>
 		<td>France</td>
 		<td>158</td>
 	</tr>
@@ -6930,7 +6931,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cheng Shao
 		</td>
 		<td>@tweag </td>
-		<td><a href="https://twitter.com/monadiccheng">monadiccheng</a></td>
+		<td><a target="_blank" href="https://twitter.com/monadiccheng">monadiccheng</a></td>
 		<td>Paris</td>
 		<td>155</td>
 	</tr>
@@ -6969,7 +6970,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JCluzet
 		</td>
 		<td>42paris </td>
-		<td><a href="https://twitter.com/jcluzet">jcluzet</a></td>
+		<td><a target="_blank" href="https://twitter.com/jcluzet">jcluzet</a></td>
 		<td>Paris</td>
 		<td>152</td>
 	</tr>
@@ -6982,7 +6983,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Arnaud Le Blanc
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/arnaud_lb">arnaud_lb</a></td>
+		<td><a target="_blank" href="https://twitter.com/arnaud_lb">arnaud_lb</a></td>
 		<td>Paris France</td>
 		<td>148</td>
 	</tr>
@@ -7008,7 +7009,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Clment Notin
 		</td>
 		<td>@tenable </td>
-		<td><a href="https://twitter.com/cnotin">cnotin</a></td>
+		<td><a target="_blank" href="https://twitter.com/cnotin">cnotin</a></td>
 		<td>France</td>
 		<td>148</td>
 	</tr>
@@ -7034,7 +7035,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Florian Priv
 		</td>
 		<td>National Center For Registerbased<br/>Research<br/>Ncrr<br/>Aarhus<br/>University<br/></td>
-		<td><a href="https://twitter.com/privefl">privefl</a></td>
+		<td><a target="_blank" href="https://twitter.com/privefl">privefl</a></td>
 		<td>Aarhus Denmark  Lyon France</td>
 		<td>144</td>
 	</tr>
@@ -7060,7 +7061,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Duponchelle
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jduponchelle">jduponchelle</a></td>
+		<td><a target="_blank" href="https://twitter.com/jduponchelle">jduponchelle</a></td>
 		<td>Paris</td>
 		<td>142</td>
 	</tr>
@@ -7086,7 +7087,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benoit Chesneau
 		</td>
 		<td>Enki Multimedia </td>
-		<td><a href="https://twitter.com/benoitc">benoitc</a></td>
+		<td><a target="_blank" href="https://twitter.com/benoitc">benoitc</a></td>
 		<td>Creil France</td>
 		<td>141</td>
 	</tr>
@@ -7099,7 +7100,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Etienne Jacob
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/etiennejcb">etiennejcb</a></td>
+		<td><a target="_blank" href="https://twitter.com/etiennejcb">etiennejcb</a></td>
 		<td>Paris</td>
 		<td>141</td>
 	</tr>
@@ -7138,7 +7139,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent De Oliveira
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iamvdo">iamvdo</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamvdo">iamvdo</a></td>
 		<td>Paris France</td>
 		<td>139</td>
 	</tr>
@@ -7151,7 +7152,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gabin Aureche
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gabinaureche">gabinaureche</a></td>
+		<td><a target="_blank" href="https://twitter.com/gabinaureche">gabinaureche</a></td>
 		<td>France</td>
 		<td>137</td>
 	</tr>
@@ -7177,7 +7178,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Breux
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/JulienBreux">JulienBreux</a></td>
+		<td><a target="_blank" href="https://twitter.com/JulienBreux">JulienBreux</a></td>
 		<td>Paris France</td>
 		<td>134</td>
 	</tr>
@@ -7190,7 +7191,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			MarcAntoine Perennou
 		</td>
 		<td>Criteo </td>
-		<td><a href="https://twitter.com/Keruspe">Keruspe</a></td>
+		<td><a target="_blank" href="https://twitter.com/Keruspe">Keruspe</a></td>
 		<td>Nantes</td>
 		<td>132</td>
 	</tr>
@@ -7216,7 +7217,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>@leboncoin  </td>
-		<td><a href="https://twitter.com/Depado_">Depado_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Depado_">Depado_</a></td>
 		<td>Paris</td>
 		<td>131</td>
 	</tr>
@@ -7229,7 +7230,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Antoine SabotDurand
 		</td>
 		<td>Sciam </td>
-		<td><a href="https://twitter.com/antoine_sd">antoine_sd</a></td>
+		<td><a target="_blank" href="https://twitter.com/antoine_sd">antoine_sd</a></td>
 		<td>Paris France</td>
 		<td>130</td>
 	</tr>
@@ -7255,7 +7256,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sbastien Saunier
 		</td>
 		<td>@lewagon </td>
-		<td><a href="https://twitter.com/ssaunier">ssaunier</a></td>
+		<td><a target="_blank" href="https://twitter.com/ssaunier">ssaunier</a></td>
 		<td>France</td>
 		<td>125</td>
 	</tr>
@@ -7268,7 +7269,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Baptiste Adrien
 		</td>
 		<td>Premier Octet </td>
-		<td><a href="https://twitter.com/shinework">shinework</a></td>
+		<td><a target="_blank" href="https://twitter.com/shinework">shinework</a></td>
 		<td>Paris</td>
 		<td>125</td>
 	</tr>
@@ -7281,7 +7282,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Emmanuel Salomon
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ManUtopiK">ManUtopiK</a></td>
+		<td><a target="_blank" href="https://twitter.com/ManUtopiK">ManUtopiK</a></td>
 		<td>France</td>
 		<td>125</td>
 	</tr>
@@ -7294,7 +7295,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JB Mouret
 		</td>
 		<td>Inria </td>
-		<td><a href="https://twitter.com/jb_mouret">jb_mouret</a></td>
+		<td><a target="_blank" href="https://twitter.com/jb_mouret">jb_mouret</a></td>
 		<td>Nancy France</td>
 		<td>124</td>
 	</tr>
@@ -7346,7 +7347,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			HungryProton
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/HungryProton">HungryProton</a></td>
+		<td><a target="_blank" href="https://twitter.com/HungryProton">HungryProton</a></td>
 		<td>France</td>
 		<td>118</td>
 	</tr>
@@ -7359,7 +7360,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Robert Felker
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Blueaquilae">Blueaquilae</a></td>
+		<td><a target="_blank" href="https://twitter.com/Blueaquilae">Blueaquilae</a></td>
 		<td>France Bordeaux</td>
 		<td>117</td>
 	</tr>
@@ -7372,7 +7373,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mina Pcheux
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/MinaPecheux">MinaPecheux</a></td>
+		<td><a target="_blank" href="https://twitter.com/MinaPecheux">MinaPecheux</a></td>
 		<td>France Paris</td>
 		<td>117</td>
 	</tr>
@@ -7385,7 +7386,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Processus
 		</td>
 		<td>Les Tutos De Processus<br/></td>
-		<td><a href="https://twitter.com/ProcessusT">ProcessusT</a></td>
+		<td><a target="_blank" href="https://twitter.com/ProcessusT">ProcessusT</a></td>
 		<td>Reims France</td>
 		<td>116</td>
 	</tr>
@@ -7411,7 +7412,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adrien Gibrat
 		</td>
 		<td>Frontguys </td>
-		<td><a href="https://twitter.com/adriengibrat">adriengibrat</a></td>
+		<td><a target="_blank" href="https://twitter.com/adriengibrat">adriengibrat</a></td>
 		<td>Paris France</td>
 		<td>114</td>
 	</tr>
@@ -7424,7 +7425,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sofien KAABAR
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kaabar_sofien">kaabar_sofien</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaabar_sofien">kaabar_sofien</a></td>
 		<td>Paris France</td>
 		<td>113</td>
 	</tr>
@@ -7437,7 +7438,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Gachadoat
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/v3ga">v3ga</a></td>
+		<td><a target="_blank" href="https://twitter.com/v3ga">v3ga</a></td>
 		<td>Bordeaux</td>
 		<td>113</td>
 	</tr>
@@ -7450,7 +7451,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JillJnn Vie
 		</td>
 		<td>Inria </td>
-		<td><a href="https://twitter.com/jjvie">jjvie</a></td>
+		<td><a target="_blank" href="https://twitter.com/jjvie">jjvie</a></td>
 		<td>Paris</td>
 		<td>113</td>
 	</tr>
@@ -7463,7 +7464,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adrien Torris
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/AdrienTorris">AdrienTorris</a></td>
+		<td><a target="_blank" href="https://twitter.com/AdrienTorris">AdrienTorris</a></td>
 		<td>France</td>
 		<td>110</td>
 	</tr>
@@ -7476,7 +7477,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Brendan Le Glaunec
 		</td>
 		<td>Glaulabs Sarl </td>
-		<td><a href="https://twitter.com/Ullaakut">Ullaakut</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ullaakut">Ullaakut</a></td>
 		<td>Rennes France</td>
 		<td>109</td>
 	</tr>
@@ -7489,7 +7490,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ben Bk
 		</td>
 		<td>Ben Bk </td>
-		<td><a href="https://twitter.com/BenBKTech">BenBKTech</a></td>
+		<td><a target="_blank" href="https://twitter.com/BenBKTech">BenBKTech</a></td>
 		<td>Strasbourg</td>
 		<td>109</td>
 	</tr>
@@ -7502,7 +7503,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mathieu Blondel
 		</td>
 		<td>Google Deepmind </td>
-		<td><a href="https://twitter.com/mblondel_ml">mblondel_ml</a></td>
+		<td><a target="_blank" href="https://twitter.com/mblondel_ml">mblondel_ml</a></td>
 		<td>Paris France</td>
 		<td>108</td>
 	</tr>
@@ -7528,7 +7529,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pixis
 		</td>
 		<td>Hackndo Labs </td>
-		<td><a href="https://twitter.com/hackanddo">hackanddo</a></td>
+		<td><a target="_blank" href="https://twitter.com/hackanddo">hackanddo</a></td>
 		<td>Paris</td>
 		<td>108</td>
 	</tr>
@@ -7541,7 +7542,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>Possehl Analytics </td>
-		<td><a href="https://twitter.com/Profpatsch">Profpatsch</a></td>
+		<td><a target="_blank" href="https://twitter.com/Profpatsch">Profpatsch</a></td>
 		<td>Augsburg Paris</td>
 		<td>105</td>
 	</tr>
@@ -7554,7 +7555,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Xavier Lacot
 		</td>
 		<td>Jolicode </td>
-		<td><a href="https://twitter.com/xavierlacot">xavierlacot</a></td>
+		<td><a target="_blank" href="https://twitter.com/xavierlacot">xavierlacot</a></td>
 		<td>Paris France</td>
 		<td>105</td>
 	</tr>
@@ -7567,7 +7568,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Damien Alexandre
 		</td>
 		<td>Jolicode </td>
-		<td><a href="https://twitter.com/damienalexandre">damienalexandre</a></td>
+		<td><a target="_blank" href="https://twitter.com/damienalexandre">damienalexandre</a></td>
 		<td>Paris France</td>
 		<td>104</td>
 	</tr>
@@ -7580,7 +7581,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Congduc Pham
 		</td>
 		<td>University Of Pau </td>
-		<td><a href="https://twitter.com/congduc_pham">congduc_pham</a></td>
+		<td><a target="_blank" href="https://twitter.com/congduc_pham">congduc_pham</a></td>
 		<td>Pau France</td>
 		<td>103</td>
 	</tr>
@@ -7593,7 +7594,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sofiane Hamlaoui
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/S0fianeHamlaoui">S0fianeHamlaoui</a></td>
+		<td><a target="_blank" href="https://twitter.com/S0fianeHamlaoui">S0fianeHamlaoui</a></td>
 		<td>Lyon France</td>
 		<td>102</td>
 	</tr>
@@ -7606,7 +7607,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Code Oz
 		</td>
 		<td>Ozcorporation </td>
-		<td><a href="https://twitter.com/Code__oz">Code__oz</a></td>
+		<td><a target="_blank" href="https://twitter.com/Code__oz">Code__oz</a></td>
 		<td>Paris</td>
 		<td>102</td>
 	</tr>
@@ -7619,7 +7620,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Axel Delafosse
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/axeldelafosse">axeldelafosse</a></td>
+		<td><a target="_blank" href="https://twitter.com/axeldelafosse">axeldelafosse</a></td>
 		<td>Paris</td>
 		<td>101</td>
 	</tr>
@@ -7645,7 +7646,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			mxrch
 		</td>
 		<td>Hideandsec </td>
-		<td><a href="https://twitter.com/mxrchreborn">mxrchreborn</a></td>
+		<td><a target="_blank" href="https://twitter.com/mxrchreborn">mxrchreborn</a></td>
 		<td>France</td>
 		<td>99</td>
 	</tr>
@@ -7671,7 +7672,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Bruno Simon
 		</td>
 		<td>Creative Journey </td>
-		<td><a href="https://twitter.com/bruno_simon">bruno_simon</a></td>
+		<td><a target="_blank" href="https://twitter.com/bruno_simon">bruno_simon</a></td>
 		<td>Paris</td>
 		<td>98</td>
 	</tr>
@@ -7684,7 +7685,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Dale
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/cointegrated">cointegrated</a></td>
+		<td><a target="_blank" href="https://twitter.com/cointegrated">cointegrated</a></td>
 		<td>Paris</td>
 		<td>98</td>
 	</tr>
@@ -7697,7 +7698,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gregoire Mielle
 		</td>
 		<td>@pennylanehq </td>
-		<td><a href="https://twitter.com/greeeg">greeeg</a></td>
+		<td><a target="_blank" href="https://twitter.com/greeeg">greeeg</a></td>
 		<td>Paris France</td>
 		<td>96</td>
 	</tr>
@@ -7710,7 +7711,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Bartosz Milewski
 		</td>
 		<td>Programming Cafe </td>
-		<td><a href="https://twitter.com/BartoszMilewski">BartoszMilewski</a></td>
+		<td><a target="_blank" href="https://twitter.com/BartoszMilewski">BartoszMilewski</a></td>
 		<td>Paris France</td>
 		<td>93</td>
 	</tr>
@@ -7723,7 +7724,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent Pradeilles
 		</td>
 		<td>@photoroom   </td>
-		<td><a href="https://twitter.com/v_pradeilles">v_pradeilles</a></td>
+		<td><a target="_blank" href="https://twitter.com/v_pradeilles">v_pradeilles</a></td>
 		<td>Lyon France</td>
 		<td>93</td>
 	</tr>
@@ -7736,7 +7737,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Simon Moreau
 		</td>
 		<td>Bim 42 </td>
-		<td><a href="https://twitter.com/bim42">bim42</a></td>
+		<td><a target="_blank" href="https://twitter.com/bim42">bim42</a></td>
 		<td>Le Havre France</td>
 		<td>92</td>
 	</tr>
@@ -7749,7 +7750,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Samir Saci
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Samir_Saci_">Samir_Saci_</a></td>
+		<td><a target="_blank" href="https://twitter.com/Samir_Saci_">Samir_Saci_</a></td>
 		<td>Paris</td>
 		<td>91</td>
 	</tr>
@@ -7762,7 +7763,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LuigiBlood">LuigiBlood</a></td>
+		<td><a target="_blank" href="https://twitter.com/LuigiBlood">LuigiBlood</a></td>
 		<td>France</td>
 		<td>90</td>
 	</tr>
@@ -7775,7 +7776,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Raphael Vallat
 		</td>
 		<td>Oura Ring </td>
-		<td><a href="https://twitter.com/RaphaelVallat">RaphaelVallat</a></td>
+		<td><a target="_blank" href="https://twitter.com/RaphaelVallat">RaphaelVallat</a></td>
 		<td>Lyon France</td>
 		<td>89</td>
 	</tr>
@@ -7801,7 +7802,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lucas Bonomi
 		</td>
 		<td>@algolia  </td>
-		<td><a href="https://twitter.com/LukyVj">LukyVj</a></td>
+		<td><a target="_blank" href="https://twitter.com/LukyVj">LukyVj</a></td>
 		<td>Paris</td>
 		<td>87</td>
 	</tr>
@@ -7827,7 +7828,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Thomas Cauquil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/thomasynchrone">thomasynchrone</a></td>
+		<td><a target="_blank" href="https://twitter.com/thomasynchrone">thomasynchrone</a></td>
 		<td>Montpellier France</td>
 		<td>86</td>
 	</tr>
@@ -7866,7 +7867,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			PierreMarie Dartus
 		</td>
 		<td>@salesforce  </td>
-		<td><a href="https://twitter.com/pmdartus">pmdartus</a></td>
+		<td><a target="_blank" href="https://twitter.com/pmdartus">pmdartus</a></td>
 		<td>Paris France</td>
 		<td>86</td>
 	</tr>
@@ -7918,7 +7919,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Damien Van Robaeys
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/syst_and_deploy">syst_and_deploy</a></td>
+		<td><a target="_blank" href="https://twitter.com/syst_and_deploy">syst_and_deploy</a></td>
 		<td>Paris</td>
 		<td>84</td>
 	</tr>
@@ -7944,7 +7945,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Eric Cabrel TIOGO
 		</td>
 		<td>@payfit </td>
-		<td><a href="https://twitter.com/tericcabrel">tericcabrel</a></td>
+		<td><a target="_blank" href="https://twitter.com/tericcabrel">tericcabrel</a></td>
 		<td>Paris  France</td>
 		<td>84</td>
 	</tr>
@@ -7957,7 +7958,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Stanislas
 		</td>
 		<td>Backend Engineer @qonto </td>
-		<td><a href="https://twitter.com/fuolpit">fuolpit</a></td>
+		<td><a target="_blank" href="https://twitter.com/fuolpit">fuolpit</a></td>
 		<td>Paris</td>
 		<td>83</td>
 	</tr>
@@ -7983,7 +7984,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jos Paumard
 		</td>
 		<td>Oracle </td>
-		<td><a href="https://twitter.com/JosePaumard">JosePaumard</a></td>
+		<td><a target="_blank" href="https://twitter.com/JosePaumard">JosePaumard</a></td>
 		<td>Paris</td>
 		<td>82</td>
 	</tr>
@@ -8009,7 +8010,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JeanMarie Alfonsi
 		</td>
 		<td>Sharpnado </td>
-		<td><a href="https://twitter.com/Piskariov">Piskariov</a></td>
+		<td><a target="_blank" href="https://twitter.com/Piskariov">Piskariov</a></td>
 		<td>Paris</td>
 		<td>80</td>
 	</tr>
@@ -8022,7 +8023,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Christophe Rosset
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/topheman">topheman</a></td>
+		<td><a target="_blank" href="https://twitter.com/topheman">topheman</a></td>
 		<td>Paris</td>
 		<td>79</td>
 	</tr>
@@ -8035,7 +8036,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Geoffroy Warin
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/geowarin">geowarin</a></td>
+		<td><a target="_blank" href="https://twitter.com/geowarin">geowarin</a></td>
 		<td>Paris France</td>
 		<td>76</td>
 	</tr>
@@ -8074,7 +8075,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Michal
 		</td>
 		<td>Oneclickstudio </td>
-		<td><a href="https://twitter.com/micode">micode</a></td>
+		<td><a target="_blank" href="https://twitter.com/micode">micode</a></td>
 		<td>France</td>
 		<td>74</td>
 	</tr>
@@ -8087,7 +8088,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Patrick Aljord
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/patcito">patcito</a></td>
+		<td><a target="_blank" href="https://twitter.com/patcito">patcito</a></td>
 		<td>Paris France</td>
 		<td>74</td>
 	</tr>
@@ -8113,7 +8114,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gabriel Saillard
 		</td>
 		<td>@carbonfact </td>
-		<td><a href="https://twitter.com/GitSquared">GitSquared</a></td>
+		<td><a target="_blank" href="https://twitter.com/GitSquared">GitSquared</a></td>
 		<td>Paris France</td>
 		<td>72</td>
 	</tr>
@@ -8126,7 +8127,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			David Gageot
 		</td>
 		<td>Docker </td>
-		<td><a href="https://twitter.com/dgageot">dgageot</a></td>
+		<td><a target="_blank" href="https://twitter.com/dgageot">dgageot</a></td>
 		<td>Paris France</td>
 		<td>72</td>
 	</tr>
@@ -8139,7 +8140,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Morten Dahl
 		</td>
 		<td>@zamaai @tfencrypted </td>
-		<td><a href="https://twitter.com/mortendahlcs">mortendahlcs</a></td>
+		<td><a target="_blank" href="https://twitter.com/mortendahlcs">mortendahlcs</a></td>
 		<td>Paris France</td>
 		<td>70</td>
 	</tr>
@@ -8178,7 +8179,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Raphal Amaume
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/raphaelameaume">raphaelameaume</a></td>
+		<td><a target="_blank" href="https://twitter.com/raphaelameaume">raphaelameaume</a></td>
 		<td>Paris France</td>
 		<td>69</td>
 	</tr>
@@ -8191,7 +8192,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Stphane GINIER
 		</td>
 		<td>Hexanomad </td>
-		<td><a href="https://twitter.com/stephomi">stephomi</a></td>
+		<td><a target="_blank" href="https://twitter.com/stephomi">stephomi</a></td>
 		<td>Paris France</td>
 		<td>68</td>
 	</tr>
@@ -8204,7 +8205,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Patrick Ventuzelo
 		</td>
 		<td>Fuzzinglabs </td>
-		<td><a href="https://twitter.com/Pat_Ventuzelo">Pat_Ventuzelo</a></td>
+		<td><a target="_blank" href="https://twitter.com/Pat_Ventuzelo">Pat_Ventuzelo</a></td>
 		<td>Paris France</td>
 		<td>68</td>
 	</tr>
@@ -8217,7 +8218,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Simon
 		</td>
 		<td>Hugging Face </td>
-		<td><a href="https://twitter.com/julsimon">julsimon</a></td>
+		<td><a target="_blank" href="https://twitter.com/julsimon">julsimon</a></td>
 		<td>Paris</td>
 		<td>67</td>
 	</tr>
@@ -8230,7 +8231,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mario Castro
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/110010111101011">110010111101011</a></td>
+		<td><a target="_blank" href="https://twitter.com/110010111101011">110010111101011</a></td>
 		<td>France</td>
 		<td>67</td>
 	</tr>
@@ -8269,7 +8270,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>Doubango Telecom </td>
-		<td><a href="https://twitter.com/doubangotelecom">doubangotelecom</a></td>
+		<td><a target="_blank" href="https://twitter.com/doubangotelecom">doubangotelecom</a></td>
 		<td>Paris France</td>
 		<td>66</td>
 	</tr>
@@ -8282,7 +8283,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			H Mike
 		</td>
 		<td>@orangecyberdefense @inshallhack @matro7sh </td>
-		<td><a href="https://twitter.com/Jenaye_fr">Jenaye_fr</a></td>
+		<td><a target="_blank" href="https://twitter.com/Jenaye_fr">Jenaye_fr</a></td>
 		<td>Marseille</td>
 		<td>66</td>
 	</tr>
@@ -8373,7 +8374,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Franois Chalifour
 		</td>
 		<td>@algolia  </td>
-		<td><a href="https://twitter.com/FrancoisChlfr">FrancoisChlfr</a></td>
+		<td><a target="_blank" href="https://twitter.com/FrancoisChlfr">FrancoisChlfr</a></td>
 		<td>France</td>
 		<td>62</td>
 	</tr>
@@ -8386,7 +8387,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Benjamin DELPY
 		</td>
 		<td>@bdflabsec </td>
-		<td><a href="https://twitter.com/gentilkiwi">gentilkiwi</a></td>
+		<td><a target="_blank" href="https://twitter.com/gentilkiwi">gentilkiwi</a></td>
 		<td>France</td>
 		<td>61</td>
 	</tr>
@@ -8399,7 +8400,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Oliver Beattie
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/obeattie">obeattie</a></td>
+		<td><a target="_blank" href="https://twitter.com/obeattie">obeattie</a></td>
 		<td>Lyon France</td>
 		<td>61</td>
 	</tr>
@@ -8451,7 +8452,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vladimir de Turckheim
 		</td>
 		<td>@datadog </td>
-		<td><a href="https://twitter.com/poledesfetes">poledesfetes</a></td>
+		<td><a target="_blank" href="https://twitter.com/poledesfetes">poledesfetes</a></td>
 		<td>Paris France</td>
 		<td>60</td>
 	</tr>
@@ -8464,7 +8465,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pierre Rudloff
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Tael67">Tael67</a></td>
+		<td><a target="_blank" href="https://twitter.com/Tael67">Tael67</a></td>
 		<td>Lille France</td>
 		<td>60</td>
 	</tr>
@@ -8490,7 +8491,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Matthieu Bacconnier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/neamar">neamar</a></td>
+		<td><a target="_blank" href="https://twitter.com/neamar">neamar</a></td>
 		<td>France</td>
 		<td>59</td>
 	</tr>
@@ -8503,7 +8504,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hugo Hamon
 		</td>
 		<td>Kodero Sas </td>
-		<td><a href="https://twitter.com/hhamon">hhamon</a></td>
+		<td><a target="_blank" href="https://twitter.com/hhamon">hhamon</a></td>
 		<td>Paris France</td>
 		<td>58</td>
 	</tr>
@@ -8516,7 +8517,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Michal Benesty
 		</td>
 		<td>@elsrd Lefebvre Sarrut </td>
-		<td><a href="https://twitter.com/pommedeterre33">pommedeterre33</a></td>
+		<td><a target="_blank" href="https://twitter.com/pommedeterre33">pommedeterre33</a></td>
 		<td>Paris France</td>
 		<td>58</td>
 	</tr>
@@ -8542,7 +8543,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Ruban
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alexandre_ruban">alexandre_ruban</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexandre_ruban">alexandre_ruban</a></td>
 		<td>Lyon France</td>
 		<td>56</td>
 	</tr>
@@ -8555,7 +8556,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Adil Zouitine
 		</td>
 		<td>Irt Saintexupry </td>
-		<td><a href="https://twitter.com/AdilZtn">AdilZtn</a></td>
+		<td><a target="_blank" href="https://twitter.com/AdilZtn">AdilZtn</a></td>
 		<td>Toulouse France</td>
 		<td>56</td>
 	</tr>
@@ -8568,7 +8569,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Amagash
 		</td>
 		<td>Aws </td>
-		<td><a href="https://twitter.com/tiffanysouterre">tiffanysouterre</a></td>
+		<td><a target="_blank" href="https://twitter.com/tiffanysouterre">tiffanysouterre</a></td>
 		<td>France</td>
 		<td>55</td>
 	</tr>
@@ -8581,7 +8582,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Marc G Gauthier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/marcgg">marcgg</a></td>
+		<td><a target="_blank" href="https://twitter.com/marcgg">marcgg</a></td>
 		<td>Paris</td>
 		<td>55</td>
 	</tr>
@@ -8594,7 +8595,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			LouisRmi Bab
 		</td>
 		<td>Httpswwwinnovalabsfr </td>
-		<td><a href="https://twitter.com/louis_remi">louis_remi</a></td>
+		<td><a target="_blank" href="https://twitter.com/louis_remi">louis_remi</a></td>
 		<td>Lyon</td>
 		<td>55</td>
 	</tr>
@@ -8633,7 +8634,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			bondzeta
 		</td>
 		<td>@znsconnect  </td>
-		<td><a href="https://twitter.com/bond_zeta">bond_zeta</a></td>
+		<td><a target="_blank" href="https://twitter.com/bond_zeta">bond_zeta</a></td>
 		<td>France</td>
 		<td>54</td>
 	</tr>
@@ -8711,7 +8712,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cecile Veneziani
 		</td>
 		<td>Cecilitse </td>
-		<td><a href="https://twitter.com/cecilitse">cecilitse</a></td>
+		<td><a target="_blank" href="https://twitter.com/cecilitse">cecilitse</a></td>
 		<td>Nantes France</td>
 		<td>50</td>
 	</tr>
@@ -8724,7 +8725,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Sylvain Utard
 		</td>
 		<td>Sorare </td>
-		<td><a href="https://twitter.com/sylvainutard">sylvainutard</a></td>
+		<td><a target="_blank" href="https://twitter.com/sylvainutard">sylvainutard</a></td>
 		<td>Paris</td>
 		<td>50</td>
 	</tr>
@@ -8763,7 +8764,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Damien Garros
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/damgarros">damgarros</a></td>
+		<td><a target="_blank" href="https://twitter.com/damgarros">damgarros</a></td>
 		<td>Annecy France</td>
 		<td>50</td>
 	</tr>
@@ -8789,7 +8790,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ezchiel Amen AGBLA
 		</td>
 		<td>Cofounder At @wetillix </td>
-		<td><a href="https://twitter.com/ezchilamen">ezchilamen</a></td>
+		<td><a target="_blank" href="https://twitter.com/ezchilamen">ezchilamen</a></td>
 		<td>ledeFrance</td>
 		<td>49</td>
 	</tr>
@@ -8815,7 +8816,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Abdelghani meliani
 		</td>
 		<td>@eurecom </td>
-		<td><a href="https://twitter.com/abd_el_ghani__">abd_el_ghani__</a></td>
+		<td><a target="_blank" href="https://twitter.com/abd_el_ghani__">abd_el_ghani__</a></td>
 		<td>sophia antipolis nice</td>
 		<td>48</td>
 	</tr>
@@ -8841,7 +8842,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Martignole
 		</td>
 		<td>Le Touilleur Express </td>
-		<td><a href="https://twitter.com/nmartignole">nmartignole</a></td>
+		<td><a target="_blank" href="https://twitter.com/nmartignole">nmartignole</a></td>
 		<td>Paris France</td>
 		<td>48</td>
 	</tr>
@@ -8867,7 +8868,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Romain Gautier
 		</td>
 		<td>Open To Work </td>
-		<td><a href="https://twitter.com/my_kiwi">my_kiwi</a></td>
+		<td><a target="_blank" href="https://twitter.com/my_kiwi">my_kiwi</a></td>
 		<td>Nantes France</td>
 		<td>47</td>
 	</tr>
@@ -8880,7 +8881,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Wissam Antoun
 		</td>
 		<td>Inriaalmanach </td>
-		<td><a href="https://twitter.com/wissam_antoun">wissam_antoun</a></td>
+		<td><a target="_blank" href="https://twitter.com/wissam_antoun">wissam_antoun</a></td>
 		<td>ParisFrance</td>
 		<td>47</td>
 	</tr>
@@ -8893,7 +8894,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Grgory Pakosz
 		</td>
 		<td>@apple </td>
-		<td><a href="https://twitter.com/gpakosz">gpakosz</a></td>
+		<td><a target="_blank" href="https://twitter.com/gpakosz">gpakosz</a></td>
 		<td>Nantes  Paris France</td>
 		<td>46</td>
 	</tr>
@@ -8932,7 +8933,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Lionel RADISSON
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/makio135">makio135</a></td>
+		<td><a target="_blank" href="https://twitter.com/makio135">makio135</a></td>
 		<td>Lyon France</td>
 		<td>43</td>
 	</tr>
@@ -8958,7 +8959,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Kevin Marrec
 		</td>
 		<td>@steepleorg </td>
-		<td><a href="https://twitter.com/K_Marrec">K_Marrec</a></td>
+		<td><a target="_blank" href="https://twitter.com/K_Marrec">K_Marrec</a></td>
 		<td>Rennes France</td>
 		<td>43</td>
 	</tr>
@@ -8971,7 +8972,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Valentin Touffet
 		</td>
 		<td>@datadog </td>
-		<td><a href="https://twitter.com/eywek">eywek</a></td>
+		<td><a target="_blank" href="https://twitter.com/eywek">eywek</a></td>
 		<td>Paris  Montpellier</td>
 		<td>43</td>
 	</tr>
@@ -8984,7 +8985,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Erick Ghaumez
 		</td>
 		<td>Rx Labz </td>
-		<td><a href="https://twitter.com/rxlabz">rxlabz</a></td>
+		<td><a target="_blank" href="https://twitter.com/rxlabz">rxlabz</a></td>
 		<td>Lyon France</td>
 		<td>42</td>
 	</tr>
@@ -9010,7 +9011,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Elie Rotenberg
 		</td>
 		<td>Ifeaeducation </td>
-		<td><a href="https://twitter.com/elierotenberg">elierotenberg</a></td>
+		<td><a target="_blank" href="https://twitter.com/elierotenberg">elierotenberg</a></td>
 		<td>France</td>
 		<td>42</td>
 	</tr>
@@ -9023,7 +9024,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Wannes Rombouts
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wapiflapi">wapiflapi</a></td>
+		<td><a target="_blank" href="https://twitter.com/wapiflapi">wapiflapi</a></td>
 		<td>France</td>
 		<td>42</td>
 	</tr>
@@ -9062,7 +9063,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mohamed Karami
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/WanamXda">WanamXda</a></td>
+		<td><a target="_blank" href="https://twitter.com/WanamXda">WanamXda</a></td>
 		<td>Toulouse</td>
 		<td>41</td>
 	</tr>
@@ -9114,7 +9115,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Steven Persia
 		</td>
 		<td>@wttj </td>
-		<td><a href="https://twitter.com/stevenpersia_js">stevenpersia_js</a></td>
+		<td><a target="_blank" href="https://twitter.com/stevenpersia_js">stevenpersia_js</a></td>
 		<td>Avignon France</td>
 		<td>40</td>
 	</tr>
@@ -9127,7 +9128,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mincong Huang
 		</td>
 		<td>Datadog </td>
-		<td><a href="https://twitter.com/mincong_h">mincong_h</a></td>
+		<td><a target="_blank" href="https://twitter.com/mincong_h">mincong_h</a></td>
 		<td>Paris France</td>
 		<td>40</td>
 	</tr>
@@ -9166,7 +9167,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Victor GRENU
 		</td>
 		<td>@zophio  </td>
-		<td><a href="https://twitter.com/zoph">zoph</a></td>
+		<td><a target="_blank" href="https://twitter.com/zoph">zoph</a></td>
 		<td>Paris France</td>
 		<td>39</td>
 	</tr>
@@ -9179,7 +9180,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Chopin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/thewikeo">thewikeo</a></td>
+		<td><a target="_blank" href="https://twitter.com/thewikeo">thewikeo</a></td>
 		<td>France</td>
 		<td>38</td>
 	</tr>
@@ -9218,7 +9219,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RistBS">RistBS</a></td>
+		<td><a target="_blank" href="https://twitter.com/RistBS">RistBS</a></td>
 		<td>France</td>
 		<td>37</td>
 	</tr>
@@ -9231,7 +9232,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Brice Figureau
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_masterzen_">_masterzen_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_masterzen_">_masterzen_</a></td>
 		<td>Paris France</td>
 		<td>37</td>
 	</tr>
@@ -9244,7 +9245,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alos Deniel
 		</td>
 		<td>Freelance </td>
-		<td><a href="https://twitter.com/aloisdeniel">aloisdeniel</a></td>
+		<td><a target="_blank" href="https://twitter.com/aloisdeniel">aloisdeniel</a></td>
 		<td>Rennes France</td>
 		<td>36</td>
 	</tr>
@@ -9270,7 +9271,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Bruce LANE
 		</td>
 		<td>Sophiadigitalart </td>
-		<td><a href="https://twitter.com/batchass">batchass</a></td>
+		<td><a target="_blank" href="https://twitter.com/batchass">batchass</a></td>
 		<td>Alpes maritimes France</td>
 		<td>36</td>
 	</tr>
@@ -9309,7 +9310,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Denis Zaratan Pasin
 		</td>
 		<td>Docwise </td>
-		<td><a href="https://twitter.com/zaratan">zaratan</a></td>
+		<td><a target="_blank" href="https://twitter.com/zaratan">zaratan</a></td>
 		<td>Montpellier France</td>
 		<td>35</td>
 	</tr>
@@ -9322,7 +9323,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Philippe Creux
 		</td>
 		<td>@retailzipline </td>
-		<td><a href="https://twitter.com/pcreux">pcreux</a></td>
+		<td><a target="_blank" href="https://twitter.com/pcreux">pcreux</a></td>
 		<td>France</td>
 		<td>35</td>
 	</tr>
@@ -9335,7 +9336,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Millau
 		</td>
 		<td>Michelin </td>
-		<td><a href="https://twitter.com/devnied">devnied</a></td>
+		<td><a target="_blank" href="https://twitter.com/devnied">devnied</a></td>
 		<td>ClermontFerrand France</td>
 		<td>34</td>
 	</tr>
@@ -9361,7 +9362,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			FrenchYeti
 		</td>
 		<td>Reversense </td>
-		<td><a href="https://twitter.com/FrenchYeti">FrenchYeti</a></td>
+		<td><a target="_blank" href="https://twitter.com/FrenchYeti">FrenchYeti</a></td>
 		<td>France</td>
 		<td>33</td>
 	</tr>
@@ -9387,7 +9388,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Yoann Moinet
 		</td>
 		<td>@datadog </td>
-		<td><a href="https://twitter.com/yoannm">yoannm</a></td>
+		<td><a target="_blank" href="https://twitter.com/yoannm">yoannm</a></td>
 		<td>Montpellier</td>
 		<td>33</td>
 	</tr>
@@ -9413,7 +9414,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent Bazia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/xviniette">xviniette</a></td>
+		<td><a target="_blank" href="https://twitter.com/xviniette">xviniette</a></td>
 		<td>France Montpellier</td>
 		<td>32</td>
 	</tr>
@@ -9426,7 +9427,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mathis HAMMEL
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MathisHammel">MathisHammel</a></td>
+		<td><a target="_blank" href="https://twitter.com/MathisHammel">MathisHammel</a></td>
 		<td>Paris</td>
 		<td>32</td>
 	</tr>
@@ -9439,7 +9440,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cedric Pinson
 		</td>
 		<td>Sketchfab </td>
-		<td><a href="https://twitter.com/trigrou">trigrou</a></td>
+		<td><a target="_blank" href="https://twitter.com/trigrou">trigrou</a></td>
 		<td>paris</td>
 		<td>32</td>
 	</tr>
@@ -9452,7 +9453,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Yann Bayle
 		</td>
 		<td>Reef Pulse </td>
-		<td><a href="https://twitter.com/reef_pulse">reef_pulse</a></td>
+		<td><a target="_blank" href="https://twitter.com/reef_pulse">reef_pulse</a></td>
 		<td>France</td>
 		<td>32</td>
 	</tr>
@@ -9465,7 +9466,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			a5traa
 		</td>
 		<td>Astraa  Co </td>
-		<td><a href="https://twitter.com/AstraaDev">AstraaDev</a></td>
+		<td><a target="_blank" href="https://twitter.com/AstraaDev">AstraaDev</a></td>
 		<td>France</td>
 		<td>31</td>
 	</tr>
@@ -9491,7 +9492,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Bruno Oliveira
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/btco_code">btco_code</a></td>
+		<td><a target="_blank" href="https://twitter.com/btco_code">btco_code</a></td>
 		<td>Paris France</td>
 		<td>31</td>
 	</tr>
@@ -9504,7 +9505,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ayman Farhat
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/aymanfarhat">aymanfarhat</a></td>
+		<td><a target="_blank" href="https://twitter.com/aymanfarhat">aymanfarhat</a></td>
 		<td>Paris</td>
 		<td>30</td>
 	</tr>
@@ -9556,7 +9557,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_alt3kx_">_alt3kx_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_alt3kx_">_alt3kx_</a></td>
 		<td>France</td>
 		<td>29</td>
 	</tr>
@@ -9569,7 +9570,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pablo Zapata
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pablo_z1610">pablo_z1610</a></td>
+		<td><a target="_blank" href="https://twitter.com/pablo_z1610">pablo_z1610</a></td>
 		<td>Lille France</td>
 		<td>29</td>
 	</tr>
@@ -9582,7 +9583,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			uroboro
 		</td>
 		<td>@datatheorem </td>
-		<td><a href="https://twitter.com/_uroboro">_uroboro</a></td>
+		<td><a target="_blank" href="https://twitter.com/_uroboro">_uroboro</a></td>
 		<td>Paris France</td>
 		<td>29</td>
 	</tr>
@@ -9595,7 +9596,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nicolas Audebert
 		</td>
 		<td>Institut National De Linformation<br/>Gographique<br/>Et<br/>Forestire<br/></td>
-		<td><a href="https://twitter.com/nshaud">nshaud</a></td>
+		<td><a target="_blank" href="https://twitter.com/nshaud">nshaud</a></td>
 		<td>Paris France</td>
 		<td>29</td>
 	</tr>
@@ -9634,7 +9635,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julian Garnier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/juliangarnier">juliangarnier</a></td>
+		<td><a target="_blank" href="https://twitter.com/juliangarnier">juliangarnier</a></td>
 		<td>Paris</td>
 		<td>27</td>
 	</tr>
@@ -9660,7 +9661,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jonathan Salwan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JonathanSalwan">JonathanSalwan</a></td>
+		<td><a target="_blank" href="https://twitter.com/JonathanSalwan">JonathanSalwan</a></td>
 		<td>France</td>
 		<td>26</td>
 	</tr>
@@ -9686,7 +9687,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Romain Lesur
 		</td>
 		<td>@inseefr </td>
-		<td><a href="https://twitter.com/RLesur">RLesur</a></td>
+		<td><a target="_blank" href="https://twitter.com/RLesur">RLesur</a></td>
 		<td>Nantes  Paris France</td>
 		<td>26</td>
 	</tr>
@@ -9738,7 +9739,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fred Delrieu
 		</td>
 		<td>Aperdia </td>
-		<td><a href="https://twitter.com/caouecs">caouecs</a></td>
+		<td><a target="_blank" href="https://twitter.com/caouecs">caouecs</a></td>
 		<td>France</td>
 		<td>26</td>
 	</tr>
@@ -9816,7 +9817,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Anton Lozhkov
 		</td>
 		<td>Hugging Face </td>
-		<td><a href="https://twitter.com/anton_lozhkov">anton_lozhkov</a></td>
+		<td><a target="_blank" href="https://twitter.com/anton_lozhkov">anton_lozhkov</a></td>
 		<td>Paris France</td>
 		<td>23</td>
 	</tr>
@@ -9829,7 +9830,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Basile Bruneau
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/newtag">newtag</a></td>
+		<td><a target="_blank" href="https://twitter.com/newtag">newtag</a></td>
 		<td>Paris</td>
 		<td>23</td>
 	</tr>
@@ -9868,7 +9869,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Giuseppe Scaramuzzino
 		</td>
 		<td>@amadeus4dev </td>
-		<td><a href="https://twitter.com/GiuseScara">GiuseScara</a></td>
+		<td><a target="_blank" href="https://twitter.com/GiuseScara">GiuseScara</a></td>
 		<td>France</td>
 		<td>22</td>
 	</tr>
@@ -9894,7 +9895,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexia Toulmet
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/atoulmet">atoulmet</a></td>
+		<td><a target="_blank" href="https://twitter.com/atoulmet">atoulmet</a></td>
 		<td>Paris</td>
 		<td>21</td>
 	</tr>
@@ -9907,7 +9908,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			rez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/chiptune">chiptune</a></td>
+		<td><a target="_blank" href="https://twitter.com/chiptune">chiptune</a></td>
 		<td>Paris France</td>
 		<td>21</td>
 	</tr>
@@ -9933,7 +9934,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Juste Elyse M
 		</td>
 		<td>Ermanus Eweckhanah </td>
-		<td><a href="https://twitter.com/JCode_Seer9">JCode_Seer9</a></td>
+		<td><a target="_blank" href="https://twitter.com/JCode_Seer9">JCode_Seer9</a></td>
 		<td>Paris France</td>
 		<td>20</td>
 	</tr>
@@ -9959,7 +9960,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>Tech School </td>
-		<td><a href="https://twitter.com/techschoolguru">techschoolguru</a></td>
+		<td><a target="_blank" href="https://twitter.com/techschoolguru">techschoolguru</a></td>
 		<td>France</td>
 		<td>20</td>
 	</tr>
@@ -9972,7 +9973,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fanilo Andrianasolo
 		</td>
 		<td>Worldline </td>
-		<td><a href="https://twitter.com/andfanilo">andfanilo</a></td>
+		<td><a target="_blank" href="https://twitter.com/andfanilo">andfanilo</a></td>
 		<td>Lyon FR</td>
 		<td>20</td>
 	</tr>
@@ -9985,7 +9986,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Leon
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/leondenise">leondenise</a></td>
+		<td><a target="_blank" href="https://twitter.com/leondenise">leondenise</a></td>
 		<td>Paris France</td>
 		<td>20</td>
 	</tr>
@@ -9998,7 +9999,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JeanLaurent de Morlhon
 		</td>
 		<td>@docker  </td>
-		<td><a href="https://twitter.com/morlhon">morlhon</a></td>
+		<td><a target="_blank" href="https://twitter.com/morlhon">morlhon</a></td>
 		<td>France</td>
 		<td>20</td>
 	</tr>
@@ -10011,7 +10012,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent Brison
 		</td>
 		<td>@nabla  </td>
-		<td><a href="https://twitter.com/NotVincent">NotVincent</a></td>
+		<td><a target="_blank" href="https://twitter.com/NotVincent">NotVincent</a></td>
 		<td>Lyon France</td>
 		<td>20</td>
 	</tr>
@@ -10037,7 +10038,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Andrei
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/andreisambra">andreisambra</a></td>
+		<td><a target="_blank" href="https://twitter.com/andreisambra">andreisambra</a></td>
 		<td>Paris FR</td>
 		<td>19</td>
 	</tr>
@@ -10076,7 +10077,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hassan ISMAIL FAWAZ
 		</td>
 		<td>Ericsson </td>
-		<td><a href="https://twitter.com/hassanfawaz93">hassanfawaz93</a></td>
+		<td><a target="_blank" href="https://twitter.com/hassanfawaz93">hassanfawaz93</a></td>
 		<td>Paris</td>
 		<td>18</td>
 	</tr>
@@ -10089,7 +10090,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Anthony Catel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/antcatel">antcatel</a></td>
+		<td><a target="_blank" href="https://twitter.com/antcatel">antcatel</a></td>
 		<td>France</td>
 		<td>18</td>
 	</tr>
@@ -10141,7 +10142,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Hadrien Jean
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_hadrienj">_hadrienj</a></td>
+		<td><a target="_blank" href="https://twitter.com/_hadrienj">_hadrienj</a></td>
 		<td>Paris France</td>
 		<td>17</td>
 	</tr>
@@ -10180,7 +10181,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alexandre Salom
 		</td>
 		<td>Platformsh </td>
-		<td><a href="https://twitter.com/alexandresalome">alexandresalome</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexandresalome">alexandresalome</a></td>
 		<td>Lille France</td>
 		<td>17</td>
 	</tr>
@@ -10193,7 +10194,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nazky
 		</td>
 		<td>@hakkuraifu  </td>
-		<td><a href="https://twitter.com/NazkyYT">NazkyYT</a></td>
+		<td><a target="_blank" href="https://twitter.com/NazkyYT">NazkyYT</a></td>
 		<td>France</td>
 		<td>16</td>
 	</tr>
@@ -10206,7 +10207,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Romain Dorgueil
 		</td>
 		<td>Makersquad </td>
-		<td><a href="https://twitter.com/rdorgueil">rdorgueil</a></td>
+		<td><a target="_blank" href="https://twitter.com/rdorgueil">rdorgueil</a></td>
 		<td>Paris France</td>
 		<td>16</td>
 	</tr>
@@ -10219,7 +10220,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Emil Wallner
 		</td>
 		<td>Palette </td>
-		<td><a href="https://twitter.com/EmilWallner">EmilWallner</a></td>
+		<td><a target="_blank" href="https://twitter.com/EmilWallner">EmilWallner</a></td>
 		<td>Paris  Nykping</td>
 		<td>15</td>
 	</tr>
@@ -10232,7 +10233,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fabrice Yopa
 		</td>
 		<td>@laravelcm  </td>
-		<td><a href="https://twitter.com/yopafabrice">yopafabrice</a></td>
+		<td><a target="_blank" href="https://twitter.com/yopafabrice">yopafabrice</a></td>
 		<td>France</td>
 		<td>15</td>
 	</tr>
@@ -10245,7 +10246,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Manuel Vila
 		</td>
 		<td>@1placeinc </td>
-		<td><a href="https://twitter.com/mvila">mvila</a></td>
+		<td><a target="_blank" href="https://twitter.com/mvila">mvila</a></td>
 		<td>France</td>
 		<td>15</td>
 	</tr>
@@ -10323,7 +10324,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Fred de Villamil
 		</td>
 		<td>@home </td>
-		<td><a href="https://twitter.com/fdevillamil">fdevillamil</a></td>
+		<td><a target="_blank" href="https://twitter.com/fdevillamil">fdevillamil</a></td>
 		<td>Paris France</td>
 		<td>13</td>
 	</tr>
@@ -10349,7 +10350,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Stphane Twidi Angel
 		</td>
 		<td>Twidicom </td>
-		<td><a href="https://twitter.com/twidi">twidi</a></td>
+		<td><a target="_blank" href="https://twitter.com/twidi">twidi</a></td>
 		<td>Near Paris France</td>
 		<td>13</td>
 	</tr>
@@ -10401,7 +10402,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			TUTO UNITY FR
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tutounityfr">tutounityfr</a></td>
+		<td><a target="_blank" href="https://twitter.com/tutounityfr">tutounityfr</a></td>
 		<td>France</td>
 		<td>12</td>
 	</tr>
@@ -10414,7 +10415,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>@swayor  </td>
-		<td><a href="https://twitter.com/ThatsBerkan">ThatsBerkan</a></td>
+		<td><a target="_blank" href="https://twitter.com/ThatsBerkan">ThatsBerkan</a></td>
 		<td>France Paris</td>
 		<td>12</td>
 	</tr>
@@ -10440,7 +10441,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Paul
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/PaulWebSec">PaulWebSec</a></td>
+		<td><a target="_blank" href="https://twitter.com/PaulWebSec">PaulWebSec</a></td>
 		<td>France</td>
 		<td>11</td>
 	</tr>
@@ -10479,7 +10480,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Jim LAURIE
 		</td>
 		<td>@strapi  </td>
-		<td><a href="https://twitter.com/laurie_jim">laurie_jim</a></td>
+		<td><a target="_blank" href="https://twitter.com/laurie_jim">laurie_jim</a></td>
 		<td>Paris FRANCE</td>
 		<td>10</td>
 	</tr>
@@ -10505,7 +10506,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Kevin Segaud
 		</td>
 		<td>Canb </td>
-		<td><a href="https://twitter.com/kleak_dev">kleak_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/kleak_dev">kleak_dev</a></td>
 		<td>Toulouse</td>
 		<td>10</td>
 	</tr>
@@ -10557,7 +10558,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vinayak Mehta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vortex_ape">vortex_ape</a></td>
+		<td><a target="_blank" href="https://twitter.com/vortex_ape">vortex_ape</a></td>
 		<td>Paris</td>
 		<td>9</td>
 	</tr>
@@ -10609,7 +10610,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Remi Corson
 		</td>
 		<td>Automattic Inc </td>
-		<td><a href="https://twitter.com/remicorson">remicorson</a></td>
+		<td><a target="_blank" href="https://twitter.com/remicorson">remicorson</a></td>
 		<td>France</td>
 		<td>9</td>
 	</tr>
@@ -10622,7 +10623,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mickal Rmond
 		</td>
 		<td>@processone </td>
-		<td><a href="https://twitter.com/mickael">mickael</a></td>
+		<td><a target="_blank" href="https://twitter.com/mickael">mickael</a></td>
 		<td>Paris France</td>
 		<td>9</td>
 	</tr>
@@ -10687,7 +10688,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Robbie Barrat
 		</td>
 		<td>Na </td>
-		<td><a href="https://twitter.com/videodrome">videodrome</a></td>
+		<td><a target="_blank" href="https://twitter.com/videodrome">videodrome</a></td>
 		<td>Paris France</td>
 		<td>8</td>
 	</tr>
@@ -10726,7 +10727,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Brett Sun
 		</td>
 		<td>@jpegpoor </td>
-		<td><a href="https://twitter.com/sohkai">sohkai</a></td>
+		<td><a target="_blank" href="https://twitter.com/sohkai">sohkai</a></td>
 		<td>France 2077</td>
 		<td>8</td>
 	</tr>
@@ -10752,7 +10753,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Vincent
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/guillaume20100">guillaume20100</a></td>
+		<td><a target="_blank" href="https://twitter.com/guillaume20100">guillaume20100</a></td>
 		<td>Bordeaux</td>
 		<td>8</td>
 	</tr>
@@ -10791,7 +10792,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nebrass Lamouchi
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/NebrassLamouchi">NebrassLamouchi</a></td>
+		<td><a target="_blank" href="https://twitter.com/NebrassLamouchi">NebrassLamouchi</a></td>
 		<td>Paris</td>
 		<td>7</td>
 	</tr>
@@ -10830,7 +10831,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Pascal Voitot
 		</td>
 		<td>Job Free Paris </td>
-		<td><a href="https://twitter.com/mandubian">mandubian</a></td>
+		<td><a target="_blank" href="https://twitter.com/mandubian">mandubian</a></td>
 		<td>Paris</td>
 		<td>7</td>
 	</tr>
@@ -10843,7 +10844,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Rish
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rishistyping">rishistyping</a></td>
+		<td><a target="_blank" href="https://twitter.com/rishistyping">rishistyping</a></td>
 		<td>Paris FR</td>
 		<td>7</td>
 	</tr>
@@ -10869,7 +10870,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Nizar Khalife
 		</td>
 		<td>Ironhack </td>
-		<td><a href="https://twitter.com/nizaroni">nizaroni</a></td>
+		<td><a target="_blank" href="https://twitter.com/nizaroni">nizaroni</a></td>
 		<td>Paris France</td>
 		<td>7</td>
 	</tr>
@@ -10908,7 +10909,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			dbo
 		</td>
 		<td>@lewagon  </td>
-		<td><a href="https://twitter.com/dimitribosch">dimitribosch</a></td>
+		<td><a target="_blank" href="https://twitter.com/dimitribosch">dimitribosch</a></td>
 		<td>Paris France</td>
 		<td>6</td>
 	</tr>
@@ -10973,7 +10974,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Ali Karagoz
 		</td>
 		<td>@shaprlab </td>
-		<td><a href="https://twitter.com/alikaragoz">alikaragoz</a></td>
+		<td><a target="_blank" href="https://twitter.com/alikaragoz">alikaragoz</a></td>
 		<td>Angers France</td>
 		<td>5</td>
 	</tr>
@@ -10986,7 +10987,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JeanRmi KING
 		</td>
 		<td>Meta Ai Cnrs </td>
-		<td><a href="https://twitter.com/JeanRemiKing">JeanRemiKing</a></td>
+		<td><a target="_blank" href="https://twitter.com/JeanRemiKing">JeanRemiKing</a></td>
 		<td>Paris</td>
 		<td>5</td>
 	</tr>
@@ -10999,7 +11000,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Alex A
 		</td>
 		<td>@impalabs </td>
-		<td><a href="https://twitter.com/NeatMonster_">NeatMonster_</a></td>
+		<td><a target="_blank" href="https://twitter.com/NeatMonster_">NeatMonster_</a></td>
 		<td>Toulouse France</td>
 		<td>5</td>
 	</tr>
@@ -11051,7 +11052,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Kevin LEVRON
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/soju22">soju22</a></td>
+		<td><a target="_blank" href="https://twitter.com/soju22">soju22</a></td>
 		<td>Biarritz France</td>
 		<td>4</td>
 	</tr>
@@ -11064,7 +11065,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			V2F
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/IV2FI">IV2FI</a></td>
+		<td><a target="_blank" href="https://twitter.com/IV2FI">IV2FI</a></td>
 		<td>France</td>
 		<td>4</td>
 	</tr>
@@ -11090,7 +11091,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Cyril Diagne
 		</td>
 		<td>Stability Ai </td>
-		<td><a href="https://twitter.com/cyrildiagne">cyrildiagne</a></td>
+		<td><a target="_blank" href="https://twitter.com/cyrildiagne">cyrildiagne</a></td>
 		<td>Paris  France</td>
 		<td>3</td>
 	</tr>
@@ -11116,7 +11117,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			rajvardhan agarwal
 		</td>
 		<td>@apple </td>
-		<td><a href="https://twitter.com/rajxnull">rajxnull</a></td>
+		<td><a target="_blank" href="https://twitter.com/rajxnull">rajxnull</a></td>
 		<td>Paris France</td>
 		<td>3</td>
 	</tr>
@@ -11129,7 +11130,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Renaux
 		</td>
 		<td>@toptal </td>
-		<td><a href="https://twitter.com/julienrenaux">julienrenaux</a></td>
+		<td><a target="_blank" href="https://twitter.com/julienrenaux">julienrenaux</a></td>
 		<td>Toulouse France</td>
 		<td>3</td>
 	</tr>
@@ -11142,7 +11143,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Gautier MECHLING
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nilhcem">nilhcem</a></td>
+		<td><a target="_blank" href="https://twitter.com/nilhcem">nilhcem</a></td>
 		<td>Paris</td>
 		<td>3</td>
 	</tr>
@@ -11194,7 +11195,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien BIANCHI
 		</td>
 		<td>Jubianchifr </td>
-		<td><a href="https://twitter.com/jubianchi">jubianchi</a></td>
+		<td><a target="_blank" href="https://twitter.com/jubianchi">jubianchi</a></td>
 		<td>Lyon France</td>
 		<td>3</td>
 	</tr>
@@ -11233,7 +11234,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Michael AZERHAD
 		</td>
 		<td>Wealcome </td>
-		<td><a href="https://twitter.com/WealComeCompany">WealComeCompany</a></td>
+		<td><a target="_blank" href="https://twitter.com/WealComeCompany">WealComeCompany</a></td>
 		<td>Paris</td>
 		<td>3</td>
 	</tr>
@@ -11246,7 +11247,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Andr Aubin
 		</td>
 		<td>@futuragaia </td>
-		<td><a href="https://twitter.com/lambda_2">lambda_2</a></td>
+		<td><a target="_blank" href="https://twitter.com/lambda_2">lambda_2</a></td>
 		<td>Marseille  Lyon  Annecy</td>
 		<td>3</td>
 	</tr>
@@ -11324,7 +11325,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Niboucha Redouane
 		</td>
 		<td>Apple </td>
-		<td><a href="https://twitter.com/red0xff">red0xff</a></td>
+		<td><a target="_blank" href="https://twitter.com/red0xff">red0xff</a></td>
 		<td>Paris France</td>
 		<td>2</td>
 	</tr>
@@ -11363,7 +11364,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Mathieu Bolard
 		</td>
 		<td>@lacentralepharma </td>
-		<td><a href="https://twitter.com/mattlawer">mattlawer</a></td>
+		<td><a target="_blank" href="https://twitter.com/mattlawer">mattlawer</a></td>
 		<td>France</td>
 		<td>2</td>
 	</tr>
@@ -11376,7 +11377,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Paul Pavlo Buidenkov
 		</td>
 		<td>Deskreen </td>
-		<td><a href="https://twitter.com/pavlobu">pavlobu</a></td>
+		<td><a target="_blank" href="https://twitter.com/pavlobu">pavlobu</a></td>
 		<td>Bordeaux</td>
 		<td>2</td>
 	</tr>
@@ -11402,7 +11403,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julian Bilcke
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/flngr">flngr</a></td>
+		<td><a target="_blank" href="https://twitter.com/flngr">flngr</a></td>
 		<td>Paris France</td>
 		<td>2</td>
 	</tr>
@@ -11428,7 +11429,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			JeanPierre LESUEUR Microsoft MVP
 		</td>
 		<td>Phrozen </td>
-		<td><a href="https://twitter.com/darkcodersc">darkcodersc</a></td>
+		<td><a target="_blank" href="https://twitter.com/darkcodersc">darkcodersc</a></td>
 		<td>France</td>
 		<td>1</td>
 	</tr>
@@ -11441,7 +11442,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Guillaume Lample
 		</td>
 		<td>Facebook Ai Research </td>
-		<td><a href="https://twitter.com/GuillaumeLample">GuillaumeLample</a></td>
+		<td><a target="_blank" href="https://twitter.com/GuillaumeLample">GuillaumeLample</a></td>
 		<td>Paris</td>
 		<td>1</td>
 	</tr>
@@ -11480,7 +11481,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			jpauli
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/julienpauli">julienpauli</a></td>
+		<td><a target="_blank" href="https://twitter.com/julienpauli">julienpauli</a></td>
 		<td>France</td>
 		<td>1</td>
 	</tr>
@@ -11493,7 +11494,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Emile Vauge
 		</td>
 		<td>@traefik  </td>
-		<td><a href="https://twitter.com/emilevauge">emilevauge</a></td>
+		<td><a target="_blank" href="https://twitter.com/emilevauge">emilevauge</a></td>
 		<td>France</td>
 		<td>1</td>
 	</tr>
@@ -11506,7 +11507,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Koutto
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Xst3nZ">Xst3nZ</a></td>
+		<td><a target="_blank" href="https://twitter.com/Xst3nZ">Xst3nZ</a></td>
 		<td>Paris</td>
 		<td>1</td>
 	</tr>
@@ -11532,7 +11533,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/domlysz">domlysz</a></td>
+		<td><a target="_blank" href="https://twitter.com/domlysz">domlysz</a></td>
 		<td>France</td>
 		<td>1</td>
 	</tr>
@@ -11571,7 +11572,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Devon Maloney
 		</td>
 		<td>@apple </td>
-		<td><a href="https://twitter.com/plailect">plailect</a></td>
+		<td><a target="_blank" href="https://twitter.com/plailect">plailect</a></td>
 		<td>Paris FR</td>
 		<td>1</td>
 	</tr>
@@ -11636,7 +11637,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Julien Bayle
 		</td>
 		<td>Structure Void </td>
-		<td><a href="https://twitter.com/julienbayle">julienbayle</a></td>
+		<td><a target="_blank" href="https://twitter.com/julienbayle">julienbayle</a></td>
 		<td>France</td>
 		<td>1</td>
 	</tr>
@@ -11662,7 +11663,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Florent Cailhol
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ooflorent">ooflorent</a></td>
+		<td><a target="_blank" href="https://twitter.com/ooflorent">ooflorent</a></td>
 		<td>Toulouse France</td>
 		<td>1</td>
 	</tr>
@@ -11675,7 +11676,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Amine
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AmineHorseman">AmineHorseman</a></td>
+		<td><a target="_blank" href="https://twitter.com/AmineHorseman">AmineHorseman</a></td>
 		<td>Paris</td>
 		<td>1</td>
 	</tr>
@@ -11688,7 +11689,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Vincent Thibault
 		</td>
 		<td>@koalainteractive </td>
-		<td><a href="https://twitter.com/vince_tblt">vince_tblt</a></td>
+		<td><a target="_blank" href="https://twitter.com/vince_tblt">vince_tblt</a></td>
 		<td>Paris</td>
 		<td>1</td>
 	</tr>
@@ -11727,7 +11728,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			Romain Dardour
 		</td>
 		<td>Loral </td>
-		<td><a href="https://twitter.com/rdardour">rdardour</a></td>
+		<td><a target="_blank" href="https://twitter.com/rdardour">rdardour</a></td>
 		<td>Paris</td>
 		<td>1</td>
 	</tr>
@@ -11748,7 +11749,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20France&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/france.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20France&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/france.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -11800,6 +11801,7 @@ There are `951 users`  in France. You need at least `163 followers` to be on thi
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)

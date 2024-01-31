@@ -1,9 +1,10 @@
 ---
-title: Australia 
-description: Top GitHub Users By Total Contributions in Australia 
+title: Australia
+description: Top GitHub Users By Total Contributions in Australia
 ---
 
 # Top GitHub Users By Total Contributions in Australia [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
@@ -14,7 +15,7 @@ The `public contributions` and `private contributions` by users in Australia on 
 
 There are `28 countries` and `193 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `965 users`  in Australia. You need at least `116 followers` to be on this list.
+There are `965 users` in Australia. You need at least `116 followers` to be on this list.
 
 <table>
 	<tr>
@@ -53,7 +54,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -119,7 +120,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Hugo
 		</td>
 		<td>@cashapp @square </td>
-		<td><a href="https://twitter.com/hugojmd">hugojmd</a></td>
+		<td><a target="_blank" href="https://twitter.com/hugojmd">hugojmd</a></td>
 		<td>Melbourne Australia</td>
 		<td>155</td>
 		<td>22882</td>
@@ -133,7 +134,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Simon Cropp
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SimonCropp">SimonCropp</a></td>
+		<td><a target="_blank" href="https://twitter.com/SimonCropp">SimonCropp</a></td>
 		<td>Canberra ACT Australia</td>
 		<td>18911</td>
 		<td>18912</td>
@@ -147,7 +148,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			William Harrison
 		</td>
 		<td>@danbothosting @isadev </td>
-		<td><a href="https://twitter.com/WDHarrison09">WDHarrison09</a></td>
+		<td><a target="_blank" href="https://twitter.com/WDHarrison09">WDHarrison09</a></td>
 		<td>Perth Western Australia</td>
 		<td>11278</td>
 		<td>13039</td>
@@ -161,7 +162,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dwight Watson
 		</td>
 		<td>@roomiescom  </td>
-		<td><a href="https://twitter.com/dwightconrad">dwightconrad</a></td>
+		<td><a target="_blank" href="https://twitter.com/dwightconrad">dwightconrad</a></td>
 		<td>Sydney Australia</td>
 		<td>328</td>
 		<td>6859</td>
@@ -203,7 +204,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Beier Bill
 		</td>
 		<td>@beekaioss  @reacthookform </td>
-		<td><a href="https://twitter.com/bluebill1049">bluebill1049</a></td>
+		<td><a target="_blank" href="https://twitter.com/bluebill1049">bluebill1049</a></td>
 		<td>Sydney  Adelaide  </td>
 		<td>480</td>
 		<td>5423</td>
@@ -217,7 +218,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aaron Parker
 		</td>
 		<td>@insentra  </td>
-		<td><a href="https://twitter.com/stealthpuppy">stealthpuppy</a></td>
+		<td><a target="_blank" href="https://twitter.com/stealthpuppy">stealthpuppy</a></td>
 		<td>Melbourne Australia</td>
 		<td>4853</td>
 		<td>5420</td>
@@ -245,7 +246,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Phillip Krger
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/phillipkruger">phillipkruger</a></td>
+		<td><a target="_blank" href="https://twitter.com/phillipkruger">phillipkruger</a></td>
 		<td>Victoria Australia</td>
 		<td>5152</td>
 		<td>5152</td>
@@ -273,7 +274,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Harlan Wilton
 		</td>
 		<td>Myself </td>
-		<td><a href="https://twitter.com/harlan_zw">harlan_zw</a></td>
+		<td><a target="_blank" href="https://twitter.com/harlan_zw">harlan_zw</a></td>
 		<td>Australia</td>
 		<td>4865</td>
 		<td>5113</td>
@@ -287,7 +288,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Russell KeithMagee
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/freakboy3742">freakboy3742</a></td>
+		<td><a target="_blank" href="https://twitter.com/freakboy3742">freakboy3742</a></td>
 		<td>Perth Western Australia</td>
 		<td>5085</td>
 		<td>5085</td>
@@ -301,7 +302,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Elliana May
 		</td>
 		<td>@duckdblabs </td>
-		<td><a href="https://twitter.com/Mause_me">Mause_me</a></td>
+		<td><a target="_blank" href="https://twitter.com/Mause_me">Mause_me</a></td>
 		<td>Perth Western Australia</td>
 		<td>4486</td>
 		<td>4973</td>
@@ -343,7 +344,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Gio Lodi
 		</td>
 		<td>@mokacoding  </td>
-		<td><a href="https://twitter.com/mokagio">mokagio</a></td>
+		<td><a target="_blank" href="https://twitter.com/mokagio">mokagio</a></td>
 		<td>Melbourne Australia</td>
 		<td>3547</td>
 		<td>4547</td>
@@ -371,7 +372,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Christian Findlay
 		</td>
 		<td>Christianfindlaycom </td>
-		<td><a href="https://twitter.com/cfdevelop">cfdevelop</a></td>
+		<td><a target="_blank" href="https://twitter.com/cfdevelop">cfdevelop</a></td>
 		<td>Melbourne Australia</td>
 		<td>742</td>
 		<td>4455</td>
@@ -399,7 +400,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rico Sta Cruz
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rstacruz">rstacruz</a></td>
+		<td><a target="_blank" href="https://twitter.com/rstacruz">rstacruz</a></td>
 		<td>Melbourne AU</td>
 		<td>441</td>
 		<td>3962</td>
@@ -427,7 +428,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Chris Sellers
 		</td>
 		<td>@nautechsystems  @databento </td>
-		<td><a href="https://twitter.com/cjdsellers">cjdsellers</a></td>
+		<td><a target="_blank" href="https://twitter.com/cjdsellers">cjdsellers</a></td>
 		<td>Sydney Australia</td>
 		<td>3769</td>
 		<td>3791</td>
@@ -469,7 +470,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Daniel Figucio
 		</td>
 		<td>@github  </td>
-		<td><a href="https://twitter.com/dfigucio">dfigucio</a></td>
+		<td><a target="_blank" href="https://twitter.com/dfigucio">dfigucio</a></td>
 		<td>Blue Mountains Australia</td>
 		<td>134</td>
 		<td>3607</td>
@@ -497,7 +498,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Eric Guo
 		</td>
 		<td>@thapecn @eduvo @bayetech </td>
-		<td><a href="https://twitter.com/ecguo">ecguo</a></td>
+		<td><a target="_blank" href="https://twitter.com/ecguo">ecguo</a></td>
 		<td>Perth Australia</td>
 		<td>3564</td>
 		<td>3564</td>
@@ -539,7 +540,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michael Dougall
 		</td>
 		<td>Atlassian </td>
-		<td><a href="https://twitter.com/itsdouges">itsdouges</a></td>
+		<td><a target="_blank" href="https://twitter.com/itsdouges">itsdouges</a></td>
 		<td>Sydney Australia</td>
 		<td>680</td>
 		<td>3424</td>
@@ -553,7 +554,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rob J Hyndman
 		</td>
 		<td>Monash University </td>
-		<td><a href="https://twitter.com/robjhyndman">robjhyndman</a></td>
+		<td><a target="_blank" href="https://twitter.com/robjhyndman">robjhyndman</a></td>
 		<td>Wurundjeri country Australia</td>
 		<td>2094</td>
 		<td>3369</td>
@@ -651,7 +652,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ashley Mannix
 		</td>
 		<td>@datalust </td>
-		<td><a href="https://twitter.com/KodrAus">KodrAus</a></td>
+		<td><a target="_blank" href="https://twitter.com/KodrAus">KodrAus</a></td>
 		<td>Brisbane Australia</td>
 		<td>1478</td>
 		<td>3140</td>
@@ -693,7 +694,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Huon Wilson
 		</td>
 		<td>@xoflare  </td>
-		<td><a href="https://twitter.com/huon_w">huon_w</a></td>
+		<td><a target="_blank" href="https://twitter.com/huon_w">huon_w</a></td>
 		<td>Sydney Australia</td>
 		<td>969</td>
 		<td>3128</td>
@@ -707,7 +708,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Samuel Cochran
 		</td>
 		<td>@buildkite </td>
-		<td><a href="https://twitter.com/sj26">sj26</a></td>
+		<td><a target="_blank" href="https://twitter.com/sj26">sj26</a></td>
 		<td>Melbourne Australia</td>
 		<td>304</td>
 		<td>3056</td>
@@ -721,7 +722,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Pat Allan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pat">pat</a></td>
+		<td><a target="_blank" href="https://twitter.com/pat">pat</a></td>
 		<td>Naarm  Birrarungga  Melbourne AU</td>
 		<td>394</td>
 		<td>3028</td>
@@ -763,7 +764,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Bianca Power
 		</td>
 		<td>Macuject </td>
-		<td><a href="https://twitter.com/20by31">20by31</a></td>
+		<td><a target="_blank" href="https://twitter.com/20by31">20by31</a></td>
 		<td>Sydney Australia</td>
 		<td>282</td>
 		<td>2941</td>
@@ -791,7 +792,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Merill Fernando
 		</td>
 		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/merill">merill</a></td>
+		<td><a target="_blank" href="https://twitter.com/merill">merill</a></td>
 		<td>Melbourne Australia</td>
 		<td>2208</td>
 		<td>2902</td>
@@ -805,7 +806,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben V Brown
 		</td>
 		<td>Ralimtek </td>
-		<td><a href="https://twitter.com/RalimTek">RalimTek</a></td>
+		<td><a target="_blank" href="https://twitter.com/RalimTek">RalimTek</a></td>
 		<td>Australia</td>
 		<td>395</td>
 		<td>2865</td>
@@ -819,7 +820,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sam CalderMason
 		</td>
 		<td>@ethereum </td>
-		<td><a href="https://twitter.com/samcmau">samcmau</a></td>
+		<td><a target="_blank" href="https://twitter.com/samcmau">samcmau</a></td>
 		<td>Australia</td>
 		<td>1055</td>
 		<td>2844</td>
@@ -875,7 +876,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tim MacDonald
 		</td>
 		<td>@laravel  </td>
-		<td><a href="https://twitter.com/timacdonald87">timacdonald87</a></td>
+		<td><a target="_blank" href="https://twitter.com/timacdonald87">timacdonald87</a></td>
 		<td>Melbourne Australia</td>
 		<td>1349</td>
 		<td>2779</td>
@@ -903,7 +904,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Stephen Edgar
 		</td>
 		<td>Netweb </td>
-		<td><a href="https://twitter.com/netweb">netweb</a></td>
+		<td><a target="_blank" href="https://twitter.com/netweb">netweb</a></td>
 		<td>Melbourne Victoria Australia</td>
 		<td>31</td>
 		<td>2672</td>
@@ -917,7 +918,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Marais Rossouw
 		</td>
 		<td>Github </td>
-		<td><a href="https://twitter.com/slightlycode">slightlycode</a></td>
+		<td><a target="_blank" href="https://twitter.com/slightlycode">slightlycode</a></td>
 		<td>Gold Coast Australia</td>
 		<td>464</td>
 		<td>2668</td>
@@ -945,7 +946,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nathan Glover
 		</td>
 		<td>@firstmode </td>
-		<td><a href="https://twitter.com/nathangloverAUS">nathangloverAUS</a></td>
+		<td><a target="_blank" href="https://twitter.com/nathangloverAUS">nathangloverAUS</a></td>
 		<td>Perth WA</td>
 		<td>325</td>
 		<td>2661</td>
@@ -987,7 +988,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jesse Duffield
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DuffieldJesse">DuffieldJesse</a></td>
+		<td><a target="_blank" href="https://twitter.com/DuffieldJesse">DuffieldJesse</a></td>
 		<td>Melbourne</td>
 		<td>1022</td>
 		<td>2654</td>
@@ -1029,7 +1030,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Josh Crawford
 		</td>
 		<td>S Group  Verbb<br/></td>
-		<td><a href="https://twitter.com/engramdes">engramdes</a></td>
+		<td><a target="_blank" href="https://twitter.com/engramdes">engramdes</a></td>
 		<td>Melbourne Australia</td>
 		<td>2536</td>
 		<td>2566</td>
@@ -1043,7 +1044,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Elbert Alias
 		</td>
 		<td>Wappalyzer </td>
-		<td><a href="https://twitter.com/elbertalias">elbertalias</a></td>
+		<td><a target="_blank" href="https://twitter.com/elbertalias">elbertalias</a></td>
 		<td>Melbourne Australia</td>
 		<td>0</td>
 		<td>2564</td>
@@ -1071,7 +1072,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Josh Morony
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/joshuamorony">joshuamorony</a></td>
+		<td><a target="_blank" href="https://twitter.com/joshuamorony">joshuamorony</a></td>
 		<td>Adelaide</td>
 		<td>655</td>
 		<td>2531</td>
@@ -1085,7 +1086,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Navid C Constantinou
 		</td>
 		<td>Australian National University </td>
-		<td><a href="https://twitter.com/navid_ocean">navid_ocean</a></td>
+		<td><a target="_blank" href="https://twitter.com/navid_ocean">navid_ocean</a></td>
 		<td>Australia</td>
 		<td>2501</td>
 		<td>2512</td>
@@ -1113,7 +1114,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Oscar Beaumont
 		</td>
 		<td>@spacedriveapp </td>
-		<td><a href="https://twitter.com/oscartbeaumont">oscartbeaumont</a></td>
+		<td><a target="_blank" href="https://twitter.com/oscartbeaumont">oscartbeaumont</a></td>
 		<td>Australia</td>
 		<td>1223</td>
 		<td>2505</td>
@@ -1127,7 +1128,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jake Ginnivan
 		</td>
 		<td>Arkahna </td>
-		<td><a href="https://twitter.com/JakeGinnivan">JakeGinnivan</a></td>
+		<td><a target="_blank" href="https://twitter.com/JakeGinnivan">JakeGinnivan</a></td>
 		<td>Perth Australia</td>
 		<td>272</td>
 		<td>2492</td>
@@ -1141,7 +1142,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Fred Wu
 		</td>
 		<td>@wuit </td>
-		<td><a href="https://twitter.com/fredwu">fredwu</a></td>
+		<td><a target="_blank" href="https://twitter.com/fredwu">fredwu</a></td>
 		<td>Australia</td>
 		<td>145</td>
 		<td>2484</td>
@@ -1155,7 +1156,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brett Morgan
 		</td>
 		<td>@flutter  </td>
-		<td><a href="https://twitter.com/DomesticMouse">DomesticMouse</a></td>
+		<td><a target="_blank" href="https://twitter.com/DomesticMouse">DomesticMouse</a></td>
 		<td>Sydney Australia</td>
 		<td>2476</td>
 		<td>2476</td>
@@ -1169,7 +1170,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			John Vandenberg
 		</td>
 		<td>@franklinai </td>
-		<td><a href="https://twitter.com/jayvdb">jayvdb</a></td>
+		<td><a target="_blank" href="https://twitter.com/jayvdb">jayvdb</a></td>
 		<td>Perth Australia</td>
 		<td>1104</td>
 		<td>2469</td>
@@ -1211,7 +1212,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Patrick Smith
 		</td>
 		<td>@coolcalm @lilapi @componentsguide @javascriptregenerat<br/></td>
-		<td><a href="https://twitter.com/royalicing">royalicing</a></td>
+		<td><a target="_blank" href="https://twitter.com/royalicing">royalicing</a></td>
 		<td>Melbourne Australia</td>
 		<td>2101</td>
 		<td>2348</td>
@@ -1239,7 +1240,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tom Quirk
 		</td>
 		<td>@jbxprotocol </td>
-		<td><a href="https://twitter.com/aeolianeth">aeolianeth</a></td>
+		<td><a target="_blank" href="https://twitter.com/aeolianeth">aeolianeth</a></td>
 		<td>Australia</td>
 		<td>2096</td>
 		<td>2304</td>
@@ -1253,7 +1254,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Emi Tanaka
 		</td>
 		<td>Australian National University </td>
-		<td><a href="https://twitter.com/statsgen">statsgen</a></td>
+		<td><a target="_blank" href="https://twitter.com/statsgen">statsgen</a></td>
 		<td>Canberra Australia</td>
 		<td>864</td>
 		<td>2301</td>
@@ -1281,7 +1282,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Shain Singh
 		</td>
 		<td>@f5 @nginx @owasp </td>
-		<td><a href="https://twitter.com/shainsingh">shainsingh</a></td>
+		<td><a target="_blank" href="https://twitter.com/shainsingh">shainsingh</a></td>
 		<td>Melbourne Australia</td>
 		<td>2289</td>
 		<td>2294</td>
@@ -1295,7 +1296,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Basarat Ali Syed
 		</td>
 		<td>Httpsbooleanartcom </td>
-		<td><a href="https://twitter.com/basarat">basarat</a></td>
+		<td><a target="_blank" href="https://twitter.com/basarat">basarat</a></td>
 		<td>Melbourne Australia</td>
 		<td>56</td>
 		<td>2291</td>
@@ -1323,7 +1324,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jayden Seric
 		</td>
 		<td>Tricentis </td>
-		<td><a href="https://twitter.com/jaydenseric">jaydenseric</a></td>
+		<td><a target="_blank" href="https://twitter.com/jaydenseric">jaydenseric</a></td>
 		<td>Melbourne Australia</td>
 		<td>163</td>
 		<td>2217</td>
@@ -1337,7 +1338,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aria Dolatabadian
 		</td>
 		<td>The University Of Western<br/>Australia<br/></td>
-		<td><a href="https://twitter.com/A_Dolatabadian">A_Dolatabadian</a></td>
+		<td><a target="_blank" href="https://twitter.com/A_Dolatabadian">A_Dolatabadian</a></td>
 		<td>Perth Australia</td>
 		<td>2213</td>
 		<td>2213</td>
@@ -1365,7 +1366,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nick
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nickvnetworking">nickvnetworking</a></td>
+		<td><a target="_blank" href="https://twitter.com/nickvnetworking">nickvnetworking</a></td>
 		<td>505  Australia</td>
 		<td>277</td>
 		<td>2208</td>
@@ -1379,7 +1380,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Drew Noakes
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/drewnoakes">drewnoakes</a></td>
+		<td><a target="_blank" href="https://twitter.com/drewnoakes">drewnoakes</a></td>
 		<td>Melbourne Australia</td>
 		<td>1765</td>
 		<td>2186</td>
@@ -1407,7 +1408,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Adrian Sutton
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ajsutton">ajsutton</a></td>
+		<td><a target="_blank" href="https://twitter.com/ajsutton">ajsutton</a></td>
 		<td>Brisbane Australia</td>
 		<td>1822</td>
 		<td>2160</td>
@@ -1421,7 +1422,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Benjamin Lupton
 		</td>
 		<td>@bevry </td>
-		<td><a href="https://twitter.com/balupton">balupton</a></td>
+		<td><a target="_blank" href="https://twitter.com/balupton">balupton</a></td>
 		<td>Perth Australia</td>
 		<td>2132</td>
 		<td>2132</td>
@@ -1477,7 +1478,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Yang
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ychescale9">ychescale9</a></td>
+		<td><a target="_blank" href="https://twitter.com/ychescale9">ychescale9</a></td>
 		<td>Melbourne Australia</td>
 		<td>484</td>
 		<td>2096</td>
@@ -1491,7 +1492,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Olivier Lamy
 		</td>
 		<td>@kawasoftware </td>
-		<td><a href="https://twitter.com/olamy">olamy</a></td>
+		<td><a target="_blank" href="https://twitter.com/olamy">olamy</a></td>
 		<td>Brisbane Australia</td>
 		<td>1896</td>
 		<td>2096</td>
@@ -1505,7 +1506,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tobias Fischer
 		</td>
 		<td>Queensland University Of Technology<br/></td>
-		<td><a href="https://twitter.com/TobiasRobotics">TobiasRobotics</a></td>
+		<td><a target="_blank" href="https://twitter.com/TobiasRobotics">TobiasRobotics</a></td>
 		<td>Brisbane Australia</td>
 		<td>1756</td>
 		<td>2089</td>
@@ -1547,7 +1548,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mahbub Zaman
 		</td>
 		<td>@eungellaio </td>
-		<td><a href="https://twitter.com/lifeparticle1">lifeparticle1</a></td>
+		<td><a target="_blank" href="https://twitter.com/lifeparticle1">lifeparticle1</a></td>
 		<td>Sydney Australia</td>
 		<td>1679</td>
 		<td>2048</td>
@@ -1575,7 +1576,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Wei Zhu
 		</td>
 		<td>Nil </td>
-		<td><a href="https://twitter.com/yesmeck">yesmeck</a></td>
+		<td><a target="_blank" href="https://twitter.com/yesmeck">yesmeck</a></td>
 		<td>Adelaide Australia</td>
 		<td>446</td>
 		<td>2020</td>
@@ -1589,7 +1590,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Madhava Jay
 		</td>
 		<td>Openminedorg </td>
-		<td><a href="https://twitter.com/madhavajay">madhavajay</a></td>
+		<td><a target="_blank" href="https://twitter.com/madhavajay">madhavajay</a></td>
 		<td>Brisbane Australia</td>
 		<td>1552</td>
 		<td>2020</td>
@@ -1603,7 +1604,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Beth Skurrie
 		</td>
 		<td>@smartbear </td>
-		<td><a href="https://twitter.com/bethesque">bethesque</a></td>
+		<td><a target="_blank" href="https://twitter.com/bethesque">bethesque</a></td>
 		<td>Australia</td>
 		<td>607</td>
 		<td>2018</td>
@@ -1631,7 +1632,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Schwarz
 		</td>
 		<td>@calibreapp  </td>
-		<td><a href="https://twitter.com/benschwarz">benschwarz</a></td>
+		<td><a target="_blank" href="https://twitter.com/benschwarz">benschwarz</a></td>
 		<td>Melbourne Australia</td>
 		<td>166</td>
 		<td>2003</td>
@@ -1659,7 +1660,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dave Glover
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/dglover">dglover</a></td>
+		<td><a target="_blank" href="https://twitter.com/dglover">dglover</a></td>
 		<td>Sydney Australia</td>
 		<td>1985</td>
 		<td>1985</td>
@@ -1701,7 +1702,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brendan Allan
 		</td>
 		<td>@spacedriveapp </td>
-		<td><a href="https://twitter.com/brendonovichdev">brendonovichdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/brendonovichdev">brendonovichdev</a></td>
 		<td>Western Australia</td>
 		<td>1857</td>
 		<td>1916</td>
@@ -1715,7 +1716,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Omar Mashaal
 		</td>
 		<td>@exhibitionistdigita  </td>
-		<td><a href="https://twitter.com/mutual__respect">mutual__respect</a></td>
+		<td><a target="_blank" href="https://twitter.com/mutual__respect">mutual__respect</a></td>
 		<td>AustraliaUSA</td>
 		<td>101</td>
 		<td>1870</td>
@@ -1729,7 +1730,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Russ Weakley
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/russmaxdesign">russmaxdesign</a></td>
+		<td><a target="_blank" href="https://twitter.com/russmaxdesign">russmaxdesign</a></td>
 		<td>Sydney</td>
 		<td>527</td>
 		<td>1866</td>
@@ -1743,7 +1744,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Follington
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vivavolt">vivavolt</a></td>
+		<td><a target="_blank" href="https://twitter.com/vivavolt">vivavolt</a></td>
 		<td>Brisbane Australia</td>
 		<td>858</td>
 		<td>1849</td>
@@ -1757,7 +1758,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ian Mckay
 		</td>
 		<td>@kablamooss </td>
-		<td><a href="https://twitter.com/iann0036">iann0036</a></td>
+		<td><a target="_blank" href="https://twitter.com/iann0036">iann0036</a></td>
 		<td>Sydney NSW</td>
 		<td>366</td>
 		<td>1845</td>
@@ -1771,7 +1772,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lakshan Perera
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/laktek">laktek</a></td>
+		<td><a target="_blank" href="https://twitter.com/laktek">laktek</a></td>
 		<td>Sydney Australia</td>
 		<td>813</td>
 		<td>1829</td>
@@ -1785,7 +1786,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dipjyoti Metia
 		</td>
 		<td>Anz </td>
-		<td><a href="https://twitter.com/dipjyoti_metia">dipjyoti_metia</a></td>
+		<td><a target="_blank" href="https://twitter.com/dipjyoti_metia">dipjyoti_metia</a></td>
 		<td>Melbourne Australia</td>
 		<td>1549</td>
 		<td>1825</td>
@@ -1799,7 +1800,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michelle MishManners Duke
 		</td>
 		<td>@github  </td>
-		<td><a href="https://twitter.com/MishManners">MishManners</a></td>
+		<td><a target="_blank" href="https://twitter.com/MishManners">MishManners</a></td>
 		<td>Melbourne Australia</td>
 		<td>823</td>
 		<td>1821</td>
@@ -1813,7 +1814,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Frames White
 		</td>
 		<td>@juliacomputing </td>
-		<td><a href="https://twitter.com/oxinabox_frames">oxinabox_frames</a></td>
+		<td><a target="_blank" href="https://twitter.com/oxinabox_frames">oxinabox_frames</a></td>
 		<td>Perth Australia</td>
 		<td>998</td>
 		<td>1821</td>
@@ -1827,7 +1828,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lachlan Donald
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lox">lox</a></td>
+		<td><a target="_blank" href="https://twitter.com/lox">lox</a></td>
 		<td>Melbourne Australia</td>
 		<td>106</td>
 		<td>1820</td>
@@ -1855,7 +1856,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Graham Dumpleton
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GrahamDumpleton">GrahamDumpleton</a></td>
+		<td><a target="_blank" href="https://twitter.com/GrahamDumpleton">GrahamDumpleton</a></td>
 		<td>Sydney Australia</td>
 		<td>1392</td>
 		<td>1811</td>
@@ -1869,7 +1870,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andrew Wilkins
 		</td>
 		<td>@elastic </td>
-		<td><a href="https://twitter.com/yayxw">yayxw</a></td>
+		<td><a target="_blank" href="https://twitter.com/yayxw">yayxw</a></td>
 		<td>Perth Western Australia</td>
 		<td>899</td>
 		<td>1785</td>
@@ -1883,7 +1884,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lucas Azzola
 		</td>
 		<td>@upbanking </td>
-		<td><a href="https://twitter.com/lucasazzola">lucasazzola</a></td>
+		<td><a target="_blank" href="https://twitter.com/lucasazzola">lucasazzola</a></td>
 		<td>Melbourne Australia</td>
 		<td>3</td>
 		<td>1772</td>
@@ -1897,7 +1898,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Paul Fioravanti
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/paulfioravanti">paulfioravanti</a></td>
+		<td><a target="_blank" href="https://twitter.com/paulfioravanti">paulfioravanti</a></td>
 		<td>Sydney Australia</td>
 		<td>1765</td>
 		<td>1765</td>
@@ -1925,7 +1926,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Bardi Harborow
 		</td>
 		<td>@octoenergy </td>
-		<td><a href="https://twitter.com/bardiharborow">bardiharborow</a></td>
+		<td><a target="_blank" href="https://twitter.com/bardiharborow">bardiharborow</a></td>
 		<td>Melbourne Australia</td>
 		<td>15</td>
 		<td>1745</td>
@@ -1939,7 +1940,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Guilherme J Tramontina
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gtramontina">gtramontina</a></td>
+		<td><a target="_blank" href="https://twitter.com/gtramontina">gtramontina</a></td>
 		<td>Australia</td>
 		<td>260</td>
 		<td>1728</td>
@@ -1953,7 +1954,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Franois Wouts
 		</td>
 		<td>Zenc Labs </td>
-		<td><a href="https://twitter.com/fwouts">fwouts</a></td>
+		<td><a target="_blank" href="https://twitter.com/fwouts">fwouts</a></td>
 		<td>Sydney Australia</td>
 		<td>880</td>
 		<td>1716</td>
@@ -1967,7 +1968,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mike Cann
 		</td>
 		<td>Gangbusters </td>
-		<td><a href="https://twitter.com/mikeysee">mikeysee</a></td>
+		<td><a target="_blank" href="https://twitter.com/mikeysee">mikeysee</a></td>
 		<td>Perth</td>
 		<td>250</td>
 		<td>1714</td>
@@ -1981,7 +1982,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tony Arnold
 		</td>
 		<td>@ittybittyapps  @thecocoabots <br/></td>
-		<td><a href="https://twitter.com/tonyarnold">tonyarnold</a></td>
+		<td><a target="_blank" href="https://twitter.com/tonyarnold">tonyarnold</a></td>
 		<td>Newcastle Australia</td>
 		<td>67</td>
 		<td>1711</td>
@@ -2037,7 +2038,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dr Nic Williams
 		</td>
 		<td>@mocra  </td>
-		<td><a href="https://twitter.com/drnic">drnic</a></td>
+		<td><a target="_blank" href="https://twitter.com/drnic">drnic</a></td>
 		<td>Brisbane Australia</td>
 		<td>224</td>
 		<td>1655</td>
@@ -2065,7 +2066,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sergey Tselovalnikov
 		</td>
 		<td>Canva </td>
-		<td><a href="https://twitter.com/SerCeMan">SerCeMan</a></td>
+		<td><a target="_blank" href="https://twitter.com/SerCeMan">SerCeMan</a></td>
 		<td>Sydney</td>
 		<td>202</td>
 		<td>1653</td>
@@ -2093,7 +2094,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Maxwell
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mxswd">mxswd</a></td>
+		<td><a target="_blank" href="https://twitter.com/mxswd">mxswd</a></td>
 		<td>Australia</td>
 		<td>19</td>
 		<td>1637</td>
@@ -2149,7 +2150,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Adam Hannigan
 		</td>
 		<td>Thought Farm Pty Ltd<br/></td>
-		<td><a href="https://twitter.com/bumpkinbuilder">bumpkinbuilder</a></td>
+		<td><a target="_blank" href="https://twitter.com/bumpkinbuilder">bumpkinbuilder</a></td>
 		<td>Sydney</td>
 		<td>1615</td>
 		<td>1615</td>
@@ -2163,7 +2164,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brad Woods
 		</td>
 		<td>Canva </td>
-		<td><a href="https://twitter.com/bradwoodsio">bradwoodsio</a></td>
+		<td><a target="_blank" href="https://twitter.com/bradwoodsio">bradwoodsio</a></td>
 		<td>Sydney Australia</td>
 		<td>32</td>
 		<td>1582</td>
@@ -2191,7 +2192,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Josh Hanley
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_joshhanley">_joshhanley</a></td>
+		<td><a target="_blank" href="https://twitter.com/_joshhanley">_joshhanley</a></td>
 		<td>Mid North Coast of NSW Australia</td>
 		<td>579</td>
 		<td>1561</td>
@@ -2233,7 +2234,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			George Liu eva2000
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/centminmod">centminmod</a></td>
+		<td><a target="_blank" href="https://twitter.com/centminmod">centminmod</a></td>
 		<td>Brisbane Australia</td>
 		<td>1060</td>
 		<td>1546</td>
@@ -2247,7 +2248,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Stefano Mangiola
 		</td>
 		<td>Walter And Eliza Hall<br/>Institute<br/>Of<br/>Medical<br/>Research<br/></td>
-		<td><a href="https://twitter.com/steman_research">steman_research</a></td>
+		<td><a target="_blank" href="https://twitter.com/steman_research">steman_research</a></td>
 		<td>Melbourne</td>
 		<td>1226</td>
 		<td>1542</td>
@@ -2261,7 +2262,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Katie McLaughlin
 		</td>
 		<td>@googlecloudplatform </td>
-		<td><a href="https://twitter.com/glasnt">glasnt</a></td>
+		<td><a target="_blank" href="https://twitter.com/glasnt">glasnt</a></td>
 		<td>Australia UTC11</td>
 		<td>1402</td>
 		<td>1515</td>
@@ -2275,7 +2276,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rahim Alwer
 		</td>
 		<td>@vidstack </td>
-		<td><a href="https://twitter.com/mihar_22">mihar_22</a></td>
+		<td><a target="_blank" href="https://twitter.com/mihar_22">mihar_22</a></td>
 		<td>Melbourne Australia</td>
 		<td>1511</td>
 		<td>1511</td>
@@ -2289,7 +2290,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Pedro Tacla Yamada
 		</td>
 		<td>Atlassian </td>
-		<td><a href="https://twitter.com/yamadapc">yamadapc</a></td>
+		<td><a target="_blank" href="https://twitter.com/yamadapc">yamadapc</a></td>
 		<td>Sydney Australia  So Paulo Brazil</td>
 		<td>665</td>
 		<td>1498</td>
@@ -2303,7 +2304,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lucas Caton
 		</td>
 		<td>@envato </td>
-		<td><a href="https://twitter.com/lucascaton">lucascaton</a></td>
+		<td><a target="_blank" href="https://twitter.com/lucascaton">lucascaton</a></td>
 		<td>Brisbane Australia</td>
 		<td>63</td>
 		<td>1495</td>
@@ -2331,7 +2332,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tait Brown
 		</td>
 		<td>A Cloud Guru </td>
-		<td><a href="https://twitter.com/taitems">taitems</a></td>
+		<td><a target="_blank" href="https://twitter.com/taitems">taitems</a></td>
 		<td>Melbourne Australia</td>
 		<td>27</td>
 		<td>1486</td>
@@ -2345,7 +2346,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Simon Vrachliotis
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/simonswiss">simonswiss</a></td>
+		<td><a target="_blank" href="https://twitter.com/simonswiss">simonswiss</a></td>
 		<td>Woolgoolga Australia</td>
 		<td>919</td>
 		<td>1482</td>
@@ -2387,7 +2388,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Yonas Kolb
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/yonaskolb">yonaskolb</a></td>
+		<td><a target="_blank" href="https://twitter.com/yonaskolb">yonaskolb</a></td>
 		<td>Australia</td>
 		<td>472</td>
 		<td>1466</td>
@@ -2443,7 +2444,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Joshua Byrd
 		</td>
 		<td>@abcnews  </td>
-		<td><a href="https://twitter.com/phocks">phocks</a></td>
+		<td><a target="_blank" href="https://twitter.com/phocks">phocks</a></td>
 		<td>Brisbane Australia</td>
 		<td>794</td>
 		<td>1433</td>
@@ -2457,7 +2458,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jess Archer
 		</td>
 		<td>@laravel </td>
-		<td><a href="https://twitter.com/jessarchercodes">jessarchercodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/jessarchercodes">jessarchercodes</a></td>
 		<td>Brisbane Australia</td>
 		<td>924</td>
 		<td>1429</td>
@@ -2471,7 +2472,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Edward Hinrichsen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/edhinrichsen">edhinrichsen</a></td>
+		<td><a target="_blank" href="https://twitter.com/edhinrichsen">edhinrichsen</a></td>
 		<td>Melbourne</td>
 		<td>2</td>
 		<td>1423</td>
@@ -2485,7 +2486,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Zhiyuan Chen
 		</td>
 		<td>@dptechcorp @openperceptionx @microsoft @anu<br/>@sensetime<br/></td>
-		<td><a href="https://twitter.com/zyc_ai">zyc_ai</a></td>
+		<td><a target="_blank" href="https://twitter.com/zyc_ai">zyc_ai</a></td>
 		<td>Canberra</td>
 		<td>1381</td>
 		<td>1423</td>
@@ -2513,7 +2514,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Isuru Rajapakse
 		</td>
 		<td>Motorola Solutions </td>
-		<td><a href="https://twitter.com/isurukusumal">isurukusumal</a></td>
+		<td><a target="_blank" href="https://twitter.com/isurukusumal">isurukusumal</a></td>
 		<td>Melbourne Australia </td>
 		<td>519</td>
 		<td>1392</td>
@@ -2527,7 +2528,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brad Zacher
 		</td>
 		<td>Software Engineer @canva </td>
-		<td><a href="https://twitter.com/bradzacher">bradzacher</a></td>
+		<td><a target="_blank" href="https://twitter.com/bradzacher">bradzacher</a></td>
 		<td>Adelaide Australia</td>
 		<td>613</td>
 		<td>1390</td>
@@ -2583,7 +2584,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Juan NunezIglesias
 		</td>
 		<td>Biomedicine Discovery Institute Monash<br/>University<br/></td>
-		<td><a href="https://twitter.com/jnuneziglesias">jnuneziglesias</a></td>
+		<td><a target="_blank" href="https://twitter.com/jnuneziglesias">jnuneziglesias</a></td>
 		<td>Melbourne VIC Australia</td>
 		<td>1352</td>
 		<td>1372</td>
@@ -2611,7 +2612,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brady Johnston
 		</td>
 		<td>The University Of Western<br/>Australia<br/></td>
-		<td><a href="https://twitter.com/bradyajohnston">bradyajohnston</a></td>
+		<td><a target="_blank" href="https://twitter.com/bradyajohnston">bradyajohnston</a></td>
 		<td>Perth Western Australia</td>
 		<td>1296</td>
 		<td>1350</td>
@@ -2653,7 +2654,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Darron Eggins
 		</td>
 		<td>Copped </td>
-		<td><a href="https://twitter.com/darroneggins">darroneggins</a></td>
+		<td><a target="_blank" href="https://twitter.com/darroneggins">darroneggins</a></td>
 		<td>Australia</td>
 		<td>13</td>
 		<td>1341</td>
@@ -2695,7 +2696,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michael Sproul
 		</td>
 		<td>@sigp  </td>
-		<td><a href="https://twitter.com/sproulM_">sproulM_</a></td>
+		<td><a target="_blank" href="https://twitter.com/sproulM_">sproulM_</a></td>
 		<td>Sydney Australia</td>
 		<td>1171</td>
 		<td>1331</td>
@@ -2709,7 +2710,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tim McGilchrist
 		</td>
 		<td>@tarides </td>
-		<td><a href="https://twitter.com/lambda_foo">lambda_foo</a></td>
+		<td><a target="_blank" href="https://twitter.com/lambda_foo">lambda_foo</a></td>
 		<td>Sydney Australia</td>
 		<td>1093</td>
 		<td>1327</td>
@@ -2723,7 +2724,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Steven Shaw
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/steshaw">steshaw</a></td>
+		<td><a target="_blank" href="https://twitter.com/steshaw">steshaw</a></td>
 		<td>Brisbane Australia</td>
 		<td>412</td>
 		<td>1325</td>
@@ -2737,7 +2738,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ashley Davis
 		</td>
 		<td>Code Capers </td>
-		<td><a href="https://twitter.com/codecapers">codecapers</a></td>
+		<td><a target="_blank" href="https://twitter.com/codecapers">codecapers</a></td>
 		<td>Brisbane Australia</td>
 		<td>1297</td>
 		<td>1297</td>
@@ -2751,7 +2752,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Benny Guo
 		</td>
 		<td>@bilue </td>
-		<td><a href="https://twitter.com/bennyxguo">bennyxguo</a></td>
+		<td><a target="_blank" href="https://twitter.com/bennyxguo">bennyxguo</a></td>
 		<td>Sydney Australia</td>
 		<td>436</td>
 		<td>1296</td>
@@ -2779,7 +2780,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Josephus Paye II
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JosephusPaye">JosephusPaye</a></td>
+		<td><a target="_blank" href="https://twitter.com/JosephusPaye">JosephusPaye</a></td>
 		<td>Newcastle Australia</td>
 		<td>74</td>
 		<td>1266</td>
@@ -2793,7 +2794,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nadia Makarevich
 		</td>
 		<td>@atlassian  </td>
-		<td><a href="https://twitter.com/adevnadia">adevnadia</a></td>
+		<td><a target="_blank" href="https://twitter.com/adevnadia">adevnadia</a></td>
 		<td>Sydney</td>
 		<td>1</td>
 		<td>1266</td>
@@ -2807,7 +2808,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Chris Horner
 		</td>
 		<td>@cashapp </td>
-		<td><a href="https://twitter.com/chris_h_codes">chris_h_codes</a></td>
+		<td><a target="_blank" href="https://twitter.com/chris_h_codes">chris_h_codes</a></td>
 		<td>Melbourne Australia</td>
 		<td>24</td>
 		<td>1261</td>
@@ -2849,7 +2850,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Runchao Han
 		</td>
 		<td>@babylonchain  </td>
-		<td><a href="https://twitter.com/runchao_han">runchao_han</a></td>
+		<td><a target="_blank" href="https://twitter.com/runchao_han">runchao_han</a></td>
 		<td>Melbourne Australia</td>
 		<td>495</td>
 		<td>1237</td>
@@ -2891,7 +2892,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Luke Parker SSW
 		</td>
 		<td>@sswconsulting </td>
-		<td><a href="https://twitter.com/LukeParkerDev">LukeParkerDev</a></td>
+		<td><a target="_blank" href="https://twitter.com/LukeParkerDev">LukeParkerDev</a></td>
 		<td>Brisbane Australia</td>
 		<td>385</td>
 		<td>1207</td>
@@ -2933,7 +2934,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Hari
 		</td>
 		<td>@dworks  </td>
-		<td><a href="https://twitter.com/1hakr">1hakr</a></td>
+		<td><a target="_blank" href="https://twitter.com/1hakr">1hakr</a></td>
 		<td>Sydney</td>
 		<td>11</td>
 		<td>1200</td>
@@ -2975,7 +2976,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jichao Ouyang
 		</td>
 		<td>@myobtechnology  @thoughtworks </td>
-		<td><a href="https://twitter.com/oyanglulu">oyanglulu</a></td>
+		<td><a target="_blank" href="https://twitter.com/oyanglulu">oyanglulu</a></td>
 		<td>Melbourne AU</td>
 		<td>55</td>
 		<td>1164</td>
@@ -2989,7 +2990,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lachlan Miller
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Lachlan19900">Lachlan19900</a></td>
+		<td><a target="_blank" href="https://twitter.com/Lachlan19900">Lachlan19900</a></td>
 		<td>Brisbane Australia</td>
 		<td>679</td>
 		<td>1145</td>
@@ -3003,7 +3004,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Boyter
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/boyter">boyter</a></td>
+		<td><a target="_blank" href="https://twitter.com/boyter">boyter</a></td>
 		<td>Sydney</td>
 		<td>350</td>
 		<td>1144</td>
@@ -3017,7 +3018,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Anthony Shaw
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/anthonypjshaw">anthonypjshaw</a></td>
+		<td><a target="_blank" href="https://twitter.com/anthonypjshaw">anthonypjshaw</a></td>
 		<td>Sydney Australia</td>
 		<td>1141</td>
 		<td>1141</td>
@@ -3045,7 +3046,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Fraser Xu
 		</td>
 		<td>Envato </td>
-		<td><a href="https://twitter.com/fraserxu">fraserxu</a></td>
+		<td><a target="_blank" href="https://twitter.com/fraserxu">fraserxu</a></td>
 		<td>Melbourne  China</td>
 		<td>118</td>
 		<td>1136</td>
@@ -3059,7 +3060,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dean Lofts
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/loftwah">loftwah</a></td>
+		<td><a target="_blank" href="https://twitter.com/loftwah">loftwah</a></td>
 		<td>Melbourne Australia</td>
 		<td>925</td>
 		<td>1134</td>
@@ -3073,7 +3074,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Henare Degan
 		</td>
 		<td>@waysact </td>
-		<td><a href="https://twitter.com/henaredegan">henaredegan</a></td>
+		<td><a target="_blank" href="https://twitter.com/henaredegan">henaredegan</a></td>
 		<td>Bellingen Australia</td>
 		<td>26</td>
 		<td>1132</td>
@@ -3087,7 +3088,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/atomiksdev">atomiksdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/atomiksdev">atomiksdev</a></td>
 		<td>Gold Coast Australia</td>
 		<td>742</td>
 		<td>1123</td>
@@ -3115,7 +3116,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alex Page
 		</td>
 		<td>@shopify </td>
-		<td><a href="https://twitter.com/alexpage_">alexpage_</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexpage_">alexpage_</a></td>
 		<td>Australia</td>
 		<td>499</td>
 		<td>1114</td>
@@ -3171,7 +3172,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Colby Swandale
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/oceanicpanda">oceanicpanda</a></td>
+		<td><a target="_blank" href="https://twitter.com/oceanicpanda">oceanicpanda</a></td>
 		<td>Melbourne Australia</td>
 		<td>148</td>
 		<td>1100</td>
@@ -3185,7 +3186,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mark Wolfe
 		</td>
 		<td>Stax </td>
-		<td><a href="https://twitter.com/wolfeidau">wolfeidau</a></td>
+		<td><a target="_blank" href="https://twitter.com/wolfeidau">wolfeidau</a></td>
 		<td>Melbourne Australia</td>
 		<td>594</td>
 		<td>1098</td>
@@ -3213,7 +3214,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sajeeb Lohani sml555  prodigysml
 		</td>
 		<td>Bugcrowd </td>
-		<td><a href="https://twitter.com/sml555_">sml555_</a></td>
+		<td><a target="_blank" href="https://twitter.com/sml555_">sml555_</a></td>
 		<td>Melbourne Australia</td>
 		<td>47</td>
 		<td>1094</td>
@@ -3227,7 +3228,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alex Leith
 		</td>
 		<td>@auspatious  </td>
-		<td><a href="https://twitter.com/alexgleith">alexgleith</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexgleith">alexgleith</a></td>
 		<td>Tasmania Australia</td>
 		<td>603</td>
 		<td>1090</td>
@@ -3241,7 +3242,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Gustavo Henke
 		</td>
 		<td>@canva  </td>
-		<td><a href="https://twitter.com/gustavohenke">gustavohenke</a></td>
+		<td><a target="_blank" href="https://twitter.com/gustavohenke">gustavohenke</a></td>
 		<td>Sydney</td>
 		<td>126</td>
 		<td>1088</td>
@@ -3255,7 +3256,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Koding
 		</td>
 		<td>@kodingdevelopment  </td>
-		<td><a href="https://twitter.com/KodingDev_">KodingDev_</a></td>
+		<td><a target="_blank" href="https://twitter.com/KodingDev_">KodingDev_</a></td>
 		<td>Sydney Australia</td>
 		<td>86</td>
 		<td>1077</td>
@@ -3297,7 +3298,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Leevi Graham
 		</td>
 		<td>@newism  </td>
-		<td><a href="https://twitter.com/leevigraham">leevigraham</a></td>
+		<td><a target="_blank" href="https://twitter.com/leevigraham">leevigraham</a></td>
 		<td>Newcastle Australia</td>
 		<td>61</td>
 		<td>1074</td>
@@ -3311,7 +3312,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Kael
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kaelwd">kaelwd</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaelwd">kaelwd</a></td>
 		<td>Melbourne Australia</td>
 		<td>898</td>
 		<td>1072</td>
@@ -3325,7 +3326,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Isaac Elliott
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ielliott95">ielliott95</a></td>
+		<td><a target="_blank" href="https://twitter.com/ielliott95">ielliott95</a></td>
 		<td>Australia</td>
 		<td>847</td>
 		<td>1071</td>
@@ -3353,7 +3354,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Benjamin Dobell
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BenjaminDobell">BenjaminDobell</a></td>
+		<td><a target="_blank" href="https://twitter.com/BenjaminDobell">BenjaminDobell</a></td>
 		<td>Melbourne Australia</td>
 		<td>24</td>
 		<td>1053</td>
@@ -3367,7 +3368,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Glenn devalias Grant
 		</td>
 		<td>Open To Opportunities </td>
-		<td><a href="https://twitter.com/_devalias">_devalias</a></td>
+		<td><a target="_blank" href="https://twitter.com/_devalias">_devalias</a></td>
 		<td>Australia</td>
 		<td>961</td>
 		<td>1050</td>
@@ -3381,7 +3382,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Joshua Batty
 		</td>
 		<td>Mindbuffer </td>
-		<td><a href="https://twitter.com/Joshua_Batty">Joshua_Batty</a></td>
+		<td><a target="_blank" href="https://twitter.com/Joshua_Batty">Joshua_Batty</a></td>
 		<td>Melbourne</td>
 		<td>1039</td>
 		<td>1039</td>
@@ -3451,7 +3452,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Damien Irving
 		</td>
 		<td>Csiro </td>
-		<td><a href="https://twitter.com/DrClimate">DrClimate</a></td>
+		<td><a target="_blank" href="https://twitter.com/DrClimate">DrClimate</a></td>
 		<td>Hobart Tasmania</td>
 		<td>1026</td>
 		<td>1026</td>
@@ -3465,7 +3466,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jackson
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/minecoder">minecoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/minecoder">minecoder</a></td>
 		<td>Melbourne Australia</td>
 		<td>24</td>
 		<td>1018</td>
@@ -3479,7 +3480,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Geoffrey Huntley
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GeoffreyHuntley">GeoffreyHuntley</a></td>
+		<td><a target="_blank" href="https://twitter.com/GeoffreyHuntley">GeoffreyHuntley</a></td>
 		<td>Kangaroo Island Australia</td>
 		<td>454</td>
 		<td>1017</td>
@@ -3521,7 +3522,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sam Potts
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sam_potts">sam_potts</a></td>
+		<td><a target="_blank" href="https://twitter.com/sam_potts">sam_potts</a></td>
 		<td>Sydney Australia</td>
 		<td>38</td>
 		<td>1012</td>
@@ -3535,7 +3536,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Luis Pedro Coelho
 		</td>
 		<td>Queensland University Of Technology<br/></td>
-		<td><a href="https://twitter.com/luispedrocoelho">luispedrocoelho</a></td>
+		<td><a target="_blank" href="https://twitter.com/luispedrocoelho">luispedrocoelho</a></td>
 		<td>Brisbane Australia</td>
 		<td>672</td>
 		<td>1010</td>
@@ -3549,7 +3550,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aidan Steele
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/__steele">__steele</a></td>
+		<td><a target="_blank" href="https://twitter.com/__steele">__steele</a></td>
 		<td>Melbourne Australia</td>
 		<td>172</td>
 		<td>1005</td>
@@ -3563,7 +3564,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Russ Cam
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/forloop">forloop</a></td>
+		<td><a target="_blank" href="https://twitter.com/forloop">forloop</a></td>
 		<td>Brisbane Australia</td>
 		<td>168</td>
 		<td>999</td>
@@ -3591,7 +3592,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Geshan Manandhar
 		</td>
 		<td>Simplywallst  </td>
-		<td><a href="https://twitter.com/geshan">geshan</a></td>
+		<td><a target="_blank" href="https://twitter.com/geshan">geshan</a></td>
 		<td>Sydney Australia</td>
 		<td>610</td>
 		<td>988</td>
@@ -3605,7 +3606,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Toby Zerner
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tobyzerner">tobyzerner</a></td>
+		<td><a target="_blank" href="https://twitter.com/tobyzerner">tobyzerner</a></td>
 		<td>Australia</td>
 		<td>986</td>
 		<td>986</td>
@@ -3633,7 +3634,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Bulkan Evcimen
 		</td>
 		<td>@zendesk </td>
-		<td><a href="https://twitter.com/bulkanevcimen">bulkanevcimen</a></td>
+		<td><a target="_blank" href="https://twitter.com/bulkanevcimen">bulkanevcimen</a></td>
 		<td>Australia Melbourne</td>
 		<td>170</td>
 		<td>979</td>
@@ -3647,7 +3648,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sashen Jayathilaka
 		</td>
 		<td>Undergraduate Deakin University </td>
-		<td><a href="https://twitter.com/SashenHasinduJ">SashenHasinduJ</a></td>
+		<td><a target="_blank" href="https://twitter.com/SashenHasinduJ">SashenHasinduJ</a></td>
 		<td>Australia</td>
 		<td>772</td>
 		<td>978</td>
@@ -3675,7 +3676,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nikita Butenko
 		</td>
 		<td>Ignition </td>
-		<td><a href="https://twitter.com/nkbtnk">nkbtnk</a></td>
+		<td><a target="_blank" href="https://twitter.com/nkbtnk">nkbtnk</a></td>
 		<td>Sydney  Bali</td>
 		<td>58</td>
 		<td>971</td>
@@ -3703,7 +3704,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Anton Korzunov
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/theKashey">theKashey</a></td>
+		<td><a target="_blank" href="https://twitter.com/theKashey">theKashey</a></td>
 		<td>Sydney</td>
 		<td>272</td>
 		<td>970</td>
@@ -3717,7 +3718,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Kurt Hutten
 		</td>
 		<td>@kittycad </td>
-		<td><a href="https://twitter.com/irevdev">irevdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/irevdev">irevdev</a></td>
 		<td>Australia</td>
 		<td>780</td>
 		<td>968</td>
@@ -3773,7 +3774,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Matt Ray
 		</td>
 		<td>Kubecost </td>
-		<td><a href="https://twitter.com/mattray">mattray</a></td>
+		<td><a target="_blank" href="https://twitter.com/mattray">mattray</a></td>
 		<td>Sydney Australia</td>
 		<td>951</td>
 		<td>955</td>
@@ -3787,7 +3788,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nate Watson
 		</td>
 		<td>@htdc  </td>
-		<td><a href="https://twitter.com/nathanielnw">nathanielnw</a></td>
+		<td><a target="_blank" href="https://twitter.com/nathanielnw">nathanielnw</a></td>
 		<td>Melbourne Australia</td>
 		<td>0</td>
 		<td>955</td>
@@ -3801,7 +3802,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Maksim Lin
 		</td>
 		<td>Codemagic Cicd </td>
-		<td><a href="https://twitter.com/mklin">mklin</a></td>
+		<td><a target="_blank" href="https://twitter.com/mklin">mklin</a></td>
 		<td>Melbourne Australia</td>
 		<td>504</td>
 		<td>943</td>
@@ -3857,7 +3858,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			barrystyle
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/barrysty1e">barrysty1e</a></td>
+		<td><a target="_blank" href="https://twitter.com/barrysty1e">barrysty1e</a></td>
 		<td>australia</td>
 		<td>386</td>
 		<td>933</td>
@@ -3871,7 +3872,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ryan Bigg
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ryanbigg">ryanbigg</a></td>
+		<td><a target="_blank" href="https://twitter.com/ryanbigg">ryanbigg</a></td>
 		<td>Warrnambool Outer outer western Melbourne  Australia</td>
 		<td>878</td>
 		<td>932</td>
@@ -3885,7 +3886,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Federico Tartarini
 		</td>
 		<td>The University Of Sydney<br/></td>
-		<td><a href="https://twitter.com/FedericoTartar1">FedericoTartar1</a></td>
+		<td><a target="_blank" href="https://twitter.com/FedericoTartar1">FedericoTartar1</a></td>
 		<td>Sydney Australia</td>
 		<td>452</td>
 		<td>929</td>
@@ -3913,7 +3914,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Matt Fellows
 		</td>
 		<td>Smartbear  Pactflowio </td>
-		<td><a href="https://twitter.com/matthewfellows">matthewfellows</a></td>
+		<td><a target="_blank" href="https://twitter.com/matthewfellows">matthewfellows</a></td>
 		<td>Melbourne</td>
 		<td>739</td>
 		<td>924</td>
@@ -3927,7 +3928,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Swift
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/benswift">benswift</a></td>
+		<td><a target="_blank" href="https://twitter.com/benswift">benswift</a></td>
 		<td>Ngunnuwal Country Canberra</td>
 		<td>96</td>
 		<td>920</td>
@@ -3983,7 +3984,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aaron Powell
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/slace">slace</a></td>
+		<td><a target="_blank" href="https://twitter.com/slace">slace</a></td>
 		<td>Sydney Australia</td>
 		<td>895</td>
 		<td>895</td>
@@ -4011,7 +4012,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Adrian Herrera
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/0xadr1an">0xadr1an</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xadr1an">0xadr1an</a></td>
 		<td>Canberra Australia</td>
 		<td>99</td>
 		<td>887</td>
@@ -4039,7 +4040,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tom Dalling
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tom_dalling">tom_dalling</a></td>
+		<td><a target="_blank" href="https://twitter.com/tom_dalling">tom_dalling</a></td>
 		<td>Melbourne Australia</td>
 		<td>74</td>
 		<td>870</td>
@@ -4053,7 +4054,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lucas Cullen
 		</td>
 		<td>Bitcoin Brisbane </td>
-		<td><a href="https://twitter.com/bitcoinbrisbane">bitcoinbrisbane</a></td>
+		<td><a target="_blank" href="https://twitter.com/bitcoinbrisbane">bitcoinbrisbane</a></td>
 		<td>Brisbane Australia</td>
 		<td>865</td>
 		<td>865</td>
@@ -4067,7 +4068,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David Vo
 		</td>
 		<td>@canva </td>
-		<td><a href="https://twitter.com/auscompgeek">auscompgeek</a></td>
+		<td><a target="_blank" href="https://twitter.com/auscompgeek">auscompgeek</a></td>
 		<td>Sydney Australia</td>
 		<td>859</td>
 		<td>863</td>
@@ -4095,7 +4096,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Thomas Marrec
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Gomah">Gomah</a></td>
+		<td><a target="_blank" href="https://twitter.com/Gomah">Gomah</a></td>
 		<td>Sydney Australia</td>
 		<td>198</td>
 		<td>853</td>
@@ -4109,7 +4110,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Gaz
 		</td>
 		<td>Mecca </td>
-		<td><a href="https://twitter.com/ehsangazar">ehsangazar</a></td>
+		<td><a target="_blank" href="https://twitter.com/ehsangazar">ehsangazar</a></td>
 		<td>Melbourne Australia</td>
 		<td>349</td>
 		<td>852</td>
@@ -4123,7 +4124,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Emily Trau
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/emilyposting_">emilyposting_</a></td>
+		<td><a target="_blank" href="https://twitter.com/emilyposting_">emilyposting_</a></td>
 		<td>Melbourne Australia</td>
 		<td>676</td>
 		<td>851</td>
@@ -4137,7 +4138,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jack McKew
 		</td>
 		<td>Cyberlytica Deckee </td>
-		<td><a href="https://twitter.com/Jac_McQ">Jac_McQ</a></td>
+		<td><a target="_blank" href="https://twitter.com/Jac_McQ">Jac_McQ</a></td>
 		<td>Newcastle Australia</td>
 		<td>126</td>
 		<td>836</td>
@@ -4165,7 +4166,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Beau Nouvelle
 		</td>
 		<td>Ios Development Consultant </td>
-		<td><a href="https://twitter.com/BeauNouvelle">BeauNouvelle</a></td>
+		<td><a target="_blank" href="https://twitter.com/BeauNouvelle">BeauNouvelle</a></td>
 		<td>Melbourne</td>
 		<td>70</td>
 		<td>833</td>
@@ -4179,7 +4180,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andyy Hope
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/andyyhope">andyyhope</a></td>
+		<td><a target="_blank" href="https://twitter.com/andyyhope">andyyhope</a></td>
 		<td>Perth Western Australia</td>
 		<td>7</td>
 		<td>821</td>
@@ -4193,7 +4194,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			 PH de Soria
 		</td>
 		<td>Sr Software Engineer At<br/>Zambrero<br/></td>
-		<td><a href="https://twitter.com/pHenrySay">pHenrySay</a></td>
+		<td><a target="_blank" href="https://twitter.com/pHenrySay">pHenrySay</a></td>
 		<td>Sydney NSW </td>
 		<td>566</td>
 		<td>815</td>
@@ -4221,7 +4222,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Yeyang Justin Sun
 		</td>
 		<td>The University Of Adelaide<br/></td>
-		<td><a href="https://twitter.com/jsun969">jsun969</a></td>
+		<td><a target="_blank" href="https://twitter.com/jsun969">jsun969</a></td>
 		<td>Shanghai  Adelaide</td>
 		<td>736</td>
 		<td>807</td>
@@ -4235,7 +4236,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jonathan GrosDubois
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jgrosdubois">jgrosdubois</a></td>
+		<td><a target="_blank" href="https://twitter.com/jgrosdubois">jgrosdubois</a></td>
 		<td>Australia</td>
 		<td>786</td>
 		<td>786</td>
@@ -4249,7 +4250,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lindsay Holmwood
 		</td>
 		<td>@cipherstash  </td>
-		<td><a href="https://twitter.com/auxesis">auxesis</a></td>
+		<td><a target="_blank" href="https://twitter.com/auxesis">auxesis</a></td>
 		<td>Australia</td>
 		<td>203</td>
 		<td>783</td>
@@ -4333,7 +4334,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mitchell OHaraWild
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mitchoharawild">mitchoharawild</a></td>
+		<td><a target="_blank" href="https://twitter.com/mitchoharawild">mitchoharawild</a></td>
 		<td>Australia</td>
 		<td>650</td>
 		<td>770</td>
@@ -4347,7 +4348,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Steve Cassidy
 		</td>
 		<td>Macquarie University </td>
-		<td><a href="https://twitter.com/SteveCassidyMQ">SteveCassidyMQ</a></td>
+		<td><a target="_blank" href="https://twitter.com/SteveCassidyMQ">SteveCassidyMQ</a></td>
 		<td>Sydney Australia</td>
 		<td>648</td>
 		<td>769</td>
@@ -4361,7 +4362,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			James Gregory
 		</td>
 		<td>@thoughtworks  </td>
-		<td><a href="https://twitter.com/jagregory">jagregory</a></td>
+		<td><a target="_blank" href="https://twitter.com/jagregory">jagregory</a></td>
 		<td>Melbourne Australia</td>
 		<td>27</td>
 		<td>767</td>
@@ -4375,7 +4376,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Josh Gillies
 		</td>
 		<td>@blstrco @wd42  </td>
-		<td><a href="https://twitter.com/joshgillies">joshgillies</a></td>
+		<td><a target="_blank" href="https://twitter.com/joshgillies">joshgillies</a></td>
 		<td>Australia</td>
 		<td>6</td>
 		<td>766</td>
@@ -4389,7 +4390,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Adam Demasi
 		</td>
 		<td>@hbang  @chariz </td>
-		<td><a href="https://twitter.com/hbkirb">hbkirb</a></td>
+		<td><a target="_blank" href="https://twitter.com/hbkirb">hbkirb</a></td>
 		<td>Adelaide Australia</td>
 		<td>208</td>
 		<td>762</td>
@@ -4417,7 +4418,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Matt Stow
 		</td>
 		<td>Thinkmill </td>
-		<td><a href="https://twitter.com/stowball">stowball</a></td>
+		<td><a target="_blank" href="https://twitter.com/stowball">stowball</a></td>
 		<td>Sydney Australia</td>
 		<td>196</td>
 		<td>756</td>
@@ -4431,7 +4432,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jonny Buchanan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jbscript">jbscript</a></td>
+		<td><a target="_blank" href="https://twitter.com/jbscript">jbscript</a></td>
 		<td>Brisbane Australia</td>
 		<td>564</td>
 		<td>752</td>
@@ -4487,7 +4488,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David OBrien
 		</td>
 		<td>@argosau  </td>
-		<td><a href="https://twitter.com/david_obrien">david_obrien</a></td>
+		<td><a target="_blank" href="https://twitter.com/david_obrien">david_obrien</a></td>
 		<td>Melbourne  Australia</td>
 		<td>11</td>
 		<td>740</td>
@@ -4543,7 +4544,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Paul Hauner
 		</td>
 		<td>Cofounder @sigp  </td>
-		<td><a href="https://twitter.com/paulhauner">paulhauner</a></td>
+		<td><a target="_blank" href="https://twitter.com/paulhauner">paulhauner</a></td>
 		<td>Australia</td>
 		<td>325</td>
 		<td>727</td>
@@ -4557,7 +4558,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lochlan Bunn
 		</td>
 		<td>@canva  </td>
-		<td><a href="https://twitter.com/loklaan">loklaan</a></td>
+		<td><a target="_blank" href="https://twitter.com/loklaan">loklaan</a></td>
 		<td>Melbourne Australia</td>
 		<td>0</td>
 		<td>720</td>
@@ -4585,7 +4586,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Bastiaan Olij
 		</td>
 		<td>Godot </td>
-		<td><a href="https://twitter.com/mux213">mux213</a></td>
+		<td><a target="_blank" href="https://twitter.com/mux213">mux213</a></td>
 		<td>Australia</td>
 		<td>717</td>
 		<td>717</td>
@@ -4599,7 +4600,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			James Addison
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/junglesilicon">junglesilicon</a></td>
+		<td><a target="_blank" href="https://twitter.com/junglesilicon">junglesilicon</a></td>
 		<td>Vancouver Canada  Sydney Australia</td>
 		<td>137</td>
 		<td>717</td>
@@ -4669,7 +4670,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Krutie Patel
 		</td>
 		<td>Krutie Patel </td>
-		<td><a href="https://twitter.com/KrutiePatel">KrutiePatel</a></td>
+		<td><a target="_blank" href="https://twitter.com/KrutiePatel">KrutiePatel</a></td>
 		<td>Australia</td>
 		<td>12</td>
 		<td>706</td>
@@ -4697,7 +4698,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jonathan Carroll
 		</td>
 		<td>@irregularlyschedule </td>
-		<td><a href="https://twitter.com/carroll_jono">carroll_jono</a></td>
+		<td><a target="_blank" href="https://twitter.com/carroll_jono">carroll_jono</a></td>
 		<td>Adelaide South Australia</td>
 		<td>580</td>
 		<td>705</td>
@@ -4739,7 +4740,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			rayx
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/xb_I_dx">xb_I_dx</a></td>
+		<td><a target="_blank" href="https://twitter.com/xb_I_dx">xb_I_dx</a></td>
 		<td>Sydney</td>
 		<td>689</td>
 		<td>694</td>
@@ -4753,7 +4754,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Shea Bunge
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sheabunge">sheabunge</a></td>
+		<td><a target="_blank" href="https://twitter.com/sheabunge">sheabunge</a></td>
 		<td>Australia</td>
 		<td>319</td>
 		<td>693</td>
@@ -4781,7 +4782,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mark Dalgleish
 		</td>
 		<td>@remixrun </td>
-		<td><a href="https://twitter.com/markdalgleish">markdalgleish</a></td>
+		<td><a target="_blank" href="https://twitter.com/markdalgleish">markdalgleish</a></td>
 		<td>Melbourne Australia</td>
 		<td>676</td>
 		<td>687</td>
@@ -4809,7 +4810,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/stackotter">stackotter</a></td>
+		<td><a target="_blank" href="https://twitter.com/stackotter">stackotter</a></td>
 		<td>Australia</td>
 		<td>636</td>
 		<td>684</td>
@@ -4851,7 +4852,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Damien Miller
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/damienmiller">damienmiller</a></td>
+		<td><a target="_blank" href="https://twitter.com/damienmiller">damienmiller</a></td>
 		<td>Melbourne Australia</td>
 		<td>676</td>
 		<td>676</td>
@@ -4879,7 +4880,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nick Addison
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/naddison">naddison</a></td>
+		<td><a target="_blank" href="https://twitter.com/naddison">naddison</a></td>
 		<td>Sydney</td>
 		<td>586</td>
 		<td>667</td>
@@ -4893,7 +4894,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rob Edwards
 		</td>
 		<td>Flinders University </td>
-		<td><a href="https://twitter.com/linsalrob">linsalrob</a></td>
+		<td><a target="_blank" href="https://twitter.com/linsalrob">linsalrob</a></td>
 		<td>Adelaide Australia</td>
 		<td>650</td>
 		<td>664</td>
@@ -4921,7 +4922,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alex Gurr
 		</td>
 		<td>Cloudwave </td>
-		<td><a href="https://twitter.com/alexgurr">alexgurr</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexgurr">alexgurr</a></td>
 		<td>Sydney</td>
 		<td>11</td>
 		<td>663</td>
@@ -4949,7 +4950,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lingjia Liu
 		</td>
 		<td>@canva  </td>
-		<td><a href="https://twitter.com/tmutoo">tmutoo</a></td>
+		<td><a target="_blank" href="https://twitter.com/tmutoo">tmutoo</a></td>
 		<td>Melbourne Australia</td>
 		<td>19</td>
 		<td>652</td>
@@ -4991,7 +4992,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Vijini Mallawaarachchi
 		</td>
 		<td>Flinders University </td>
-		<td><a href="https://twitter.com/viji112">viji112</a></td>
+		<td><a target="_blank" href="https://twitter.com/viji112">viji112</a></td>
 		<td>Adelaide Australia</td>
 		<td>615</td>
 		<td>641</td>
@@ -5005,7 +5006,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Philip Belesky
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/philipbelesky">philipbelesky</a></td>
+		<td><a target="_blank" href="https://twitter.com/philipbelesky">philipbelesky</a></td>
 		<td>Melbourne Australia</td>
 		<td>32</td>
 		<td>638</td>
@@ -5019,7 +5020,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			FAXES
 		</td>
 		<td>Weblutions </td>
-		<td><a href="https://twitter.com/FAXES_YT">FAXES_YT</a></td>
+		<td><a target="_blank" href="https://twitter.com/FAXES_YT">FAXES_YT</a></td>
 		<td>Australia</td>
 		<td>511</td>
 		<td>635</td>
@@ -5033,7 +5034,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Damian Brady
 		</td>
 		<td>@github  </td>
-		<td><a href="https://twitter.com/damovisa">damovisa</a></td>
+		<td><a target="_blank" href="https://twitter.com/damovisa">damovisa</a></td>
 		<td>Brisbane Australia</td>
 		<td>162</td>
 		<td>629</td>
@@ -5047,7 +5048,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Damon Oehlman
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DamonOehlman">DamonOehlman</a></td>
+		<td><a target="_blank" href="https://twitter.com/DamonOehlman">DamonOehlman</a></td>
 		<td>Gold Coast Australia</td>
 		<td>82</td>
 		<td>627</td>
@@ -5089,7 +5090,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alison Haire
 		</td>
 		<td>Building @lilypadtech @filecoin @ipfs<br/>Previbm<br/></td>
-		<td><a href="https://twitter.com/developerally">developerally</a></td>
+		<td><a target="_blank" href="https://twitter.com/developerally">developerally</a></td>
 		<td>Australia</td>
 		<td>519</td>
 		<td>609</td>
@@ -5103,7 +5104,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Roman Valls Guimera
 		</td>
 		<td>University Of Melbourne </td>
-		<td><a href="https://twitter.com/braincode">braincode</a></td>
+		<td><a target="_blank" href="https://twitter.com/braincode">braincode</a></td>
 		<td>Melbourne Victoria Australia</td>
 		<td>470</td>
 		<td>607</td>
@@ -5131,7 +5132,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Wesley Moore
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wezm">wezm</a></td>
+		<td><a target="_blank" href="https://twitter.com/wezm">wezm</a></td>
 		<td>Sunshine Coast Australia</td>
 		<td>603</td>
 		<td>603</td>
@@ -5159,7 +5160,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Thomas Davis
 		</td>
 		<td>Free </td>
-		<td><a href="https://twitter.com/ajaxdavis">ajaxdavis</a></td>
+		<td><a target="_blank" href="https://twitter.com/ajaxdavis">ajaxdavis</a></td>
 		<td>Melbourne Australia</td>
 		<td>354</td>
 		<td>580</td>
@@ -5215,7 +5216,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brendan Zabarauskas
 		</td>
 		<td>@yeslogic  </td>
-		<td><a href="https://twitter.com/brendanzab">brendanzab</a></td>
+		<td><a target="_blank" href="https://twitter.com/brendanzab">brendanzab</a></td>
 		<td>Melbourne Australia</td>
 		<td>571</td>
 		<td>571</td>
@@ -5285,7 +5286,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Maddy Miller
 		</td>
 		<td>@clipchamp At @microsoft </td>
-		<td><a href="https://twitter.com/the_me4502">the_me4502</a></td>
+		<td><a target="_blank" href="https://twitter.com/the_me4502">the_me4502</a></td>
 		<td>Australia</td>
 		<td>311</td>
 		<td>564</td>
@@ -5299,7 +5300,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andrey Sidorov
 		</td>
 		<td>Tactiq </td>
-		<td><a href="https://twitter.com/sidorares">sidorares</a></td>
+		<td><a target="_blank" href="https://twitter.com/sidorares">sidorares</a></td>
 		<td>Melbourne Australia</td>
 		<td>127</td>
 		<td>559</td>
@@ -5355,7 +5356,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben J Woodcroft
 		</td>
 		<td>Queensland University Of Technology<br/></td>
-		<td><a href="https://twitter.com/wwood">wwood</a></td>
+		<td><a target="_blank" href="https://twitter.com/wwood">wwood</a></td>
 		<td>Brisbane Australia</td>
 		<td>541</td>
 		<td>541</td>
@@ -5383,7 +5384,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			James Hegedus
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jthegedus">jthegedus</a></td>
+		<td><a target="_blank" href="https://twitter.com/jthegedus">jthegedus</a></td>
 		<td>Australia</td>
 		<td>537</td>
 		<td>537</td>
@@ -5397,7 +5398,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andrew Kelly
 		</td>
 		<td>@mx51  </td>
-		<td><a href="https://twitter.com/andrew_ke11y">andrew_ke11y</a></td>
+		<td><a target="_blank" href="https://twitter.com/andrew_ke11y">andrew_ke11y</a></td>
 		<td>Sydney Australia</td>
 		<td>51</td>
 		<td>531</td>
@@ -5425,7 +5426,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jed Watson
 		</td>
 		<td>Thinkmill </td>
-		<td><a href="https://twitter.com/JedWatson">JedWatson</a></td>
+		<td><a target="_blank" href="https://twitter.com/JedWatson">JedWatson</a></td>
 		<td>Sydney</td>
 		<td>243</td>
 		<td>528</td>
@@ -5439,7 +5440,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			ajfisher
 		</td>
 		<td>Loypal Rocket Melbourne </td>
-		<td><a href="https://twitter.com/ajfisher">ajfisher</a></td>
+		<td><a target="_blank" href="https://twitter.com/ajfisher">ajfisher</a></td>
 		<td>Melbourne Australia</td>
 		<td>74</td>
 		<td>528</td>
@@ -5467,7 +5468,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			evalparse
 		</td>
 		<td>@evalparse </td>
-		<td><a href="https://twitter.com/evalparse">evalparse</a></td>
+		<td><a target="_blank" href="https://twitter.com/evalparse">evalparse</a></td>
 		<td>Melbourne Australia</td>
 		<td>497</td>
 		<td>509</td>
@@ -5481,7 +5482,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Matthew Green
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mgreen27">mgreen27</a></td>
+		<td><a target="_blank" href="https://twitter.com/mgreen27">mgreen27</a></td>
 		<td>Sydney</td>
 		<td>498</td>
 		<td>505</td>
@@ -5551,7 +5552,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Anton Malinskiy
 		</td>
 		<td>@marathonlabs  </td>
-		<td><a href="https://twitter.com/anton_malinskiy">anton_malinskiy</a></td>
+		<td><a target="_blank" href="https://twitter.com/anton_malinskiy">anton_malinskiy</a></td>
 		<td>Brisbane Australia</td>
 		<td>463</td>
 		<td>489</td>
@@ -5565,7 +5566,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Liam Zebedee
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/liamzebedee">liamzebedee</a></td>
+		<td><a target="_blank" href="https://twitter.com/liamzebedee">liamzebedee</a></td>
 		<td>Australia</td>
 		<td>427</td>
 		<td>487</td>
@@ -5607,7 +5608,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Simon Holywell
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Treffynnon">Treffynnon</a></td>
+		<td><a target="_blank" href="https://twitter.com/Treffynnon">Treffynnon</a></td>
 		<td>Brisbane Australia</td>
 		<td>22</td>
 		<td>473</td>
@@ -5621,7 +5622,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Will Velida
 		</td>
 		<td>Azenix </td>
-		<td><a href="https://twitter.com/willvelida">willvelida</a></td>
+		<td><a target="_blank" href="https://twitter.com/willvelida">willvelida</a></td>
 		<td>Melbourne Victoria Australia</td>
 		<td>384</td>
 		<td>473</td>
@@ -5635,7 +5636,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ginsu
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ginsudev">ginsudev</a></td>
+		<td><a target="_blank" href="https://twitter.com/ginsudev">ginsudev</a></td>
 		<td>Australia</td>
 		<td>222</td>
 		<td>472</td>
@@ -5649,7 +5650,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alessandro Decina
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alessandrod">alessandrod</a></td>
+		<td><a target="_blank" href="https://twitter.com/alessandrod">alessandrod</a></td>
 		<td>Sydney Australia</td>
 		<td>418</td>
 		<td>472</td>
@@ -5677,7 +5678,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			WangSiyuan
 		</td>
 		<td>@core0io </td>
-		<td><a href="https://twitter.com/0ne_Se7en">0ne_Se7en</a></td>
+		<td><a target="_blank" href="https://twitter.com/0ne_Se7en">0ne_Se7en</a></td>
 		<td>Melbourne Australia</td>
 		<td>2</td>
 		<td>471</td>
@@ -5705,7 +5706,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Stephen ReesCarter
 		</td>
 		<td>Valorin Security </td>
-		<td><a href="https://twitter.com/valorin">valorin</a></td>
+		<td><a target="_blank" href="https://twitter.com/valorin">valorin</a></td>
 		<td>Brisbane Australia</td>
 		<td>88</td>
 		<td>466</td>
@@ -5733,7 +5734,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ali Muzaffar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ali_muzaffar">ali_muzaffar</a></td>
+		<td><a target="_blank" href="https://twitter.com/ali_muzaffar">ali_muzaffar</a></td>
 		<td>Australia</td>
 		<td>0</td>
 		<td>463</td>
@@ -5747,7 +5748,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jacob Evans
 		</td>
 		<td>@0xproject  </td>
-		<td><a href="https://twitter.com/dekz">dekz</a></td>
+		<td><a target="_blank" href="https://twitter.com/dekz">dekz</a></td>
 		<td>Melbourne Australia</td>
 		<td>25</td>
 		<td>463</td>
@@ -5761,7 +5762,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jess Telford
 		</td>
 		<td>@ceteio </td>
-		<td><a href="https://twitter.com/jesstelford">jesstelford</a></td>
+		<td><a target="_blank" href="https://twitter.com/jesstelford">jesstelford</a></td>
 		<td>Sydney Australia</td>
 		<td>383</td>
 		<td>458</td>
@@ -5775,7 +5776,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mark Moffat
 		</td>
 		<td>@westpac </td>
-		<td><a href="https://twitter.com/mrvautin">mrvautin</a></td>
+		<td><a target="_blank" href="https://twitter.com/mrvautin">mrvautin</a></td>
 		<td>Australia</td>
 		<td>203</td>
 		<td>457</td>
@@ -5789,7 +5790,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jim Mussared
 		</td>
 		<td>@micropython </td>
-		<td><a href="https://twitter.com/jim_mussared">jim_mussared</a></td>
+		<td><a target="_blank" href="https://twitter.com/jim_mussared">jim_mussared</a></td>
 		<td>Sydney Australia</td>
 		<td>455</td>
 		<td>457</td>
@@ -5817,7 +5818,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Glenn
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/GlennCoder">GlennCoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/GlennCoder">GlennCoder</a></td>
 		<td>Melbourne Australia </td>
 		<td>259</td>
 		<td>454</td>
@@ -5831,7 +5832,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sam Thorogood
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/samthor">samthor</a></td>
+		<td><a target="_blank" href="https://twitter.com/samthor">samthor</a></td>
 		<td>Sydney Australia</td>
 		<td>196</td>
 		<td>453</td>
@@ -5859,7 +5860,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Joseph Surin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/josep68_">josep68_</a></td>
+		<td><a target="_blank" href="https://twitter.com/josep68_">josep68_</a></td>
 		<td>Melbourne Australia</td>
 		<td>28</td>
 		<td>451</td>
@@ -5873,7 +5874,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tony Day
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tonyday567">tonyday567</a></td>
+		<td><a target="_blank" href="https://twitter.com/tonyday567">tonyday567</a></td>
 		<td>brisbane australia</td>
 		<td>448</td>
 		<td>448</td>
@@ -5887,7 +5888,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Stephen Bradshaw
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SM_Bradshaw">SM_Bradshaw</a></td>
+		<td><a target="_blank" href="https://twitter.com/SM_Bradshaw">SM_Bradshaw</a></td>
 		<td>Australia</td>
 		<td>446</td>
 		<td>446</td>
@@ -5901,7 +5902,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Yun Feng
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RyanF0817">RyanF0817</a></td>
+		<td><a target="_blank" href="https://twitter.com/RyanF0817">RyanF0817</a></td>
 		<td>Canberra Australia</td>
 		<td>161</td>
 		<td>445</td>
@@ -5915,7 +5916,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			KokomiCat
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kokomiCat">kokomiCat</a></td>
+		<td><a target="_blank" href="https://twitter.com/kokomiCat">kokomiCat</a></td>
 		<td>Brisbane Queensland Australia</td>
 		<td>181</td>
 		<td>441</td>
@@ -5929,7 +5930,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Juntao Qiu
 		</td>
 		<td>Atlassian </td>
-		<td><a href="https://twitter.com/JuntaoQiu">JuntaoQiu</a></td>
+		<td><a target="_blank" href="https://twitter.com/JuntaoQiu">JuntaoQiu</a></td>
 		<td>Melbourne Australia</td>
 		<td>399</td>
 		<td>437</td>
@@ -5957,7 +5958,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sushil Ghimire 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sushil79g">sushil79g</a></td>
+		<td><a target="_blank" href="https://twitter.com/sushil79g">sushil79g</a></td>
 		<td>Sydney Australia</td>
 		<td>2</td>
 		<td>427</td>
@@ -5971,7 +5972,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Claire Foster
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/c42f_">c42f_</a></td>
+		<td><a target="_blank" href="https://twitter.com/c42f_">c42f_</a></td>
 		<td>Brisbane</td>
 		<td>400</td>
 		<td>416</td>
@@ -5985,7 +5986,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Matt Cowgill
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mattcowgill">mattcowgill</a></td>
+		<td><a target="_blank" href="https://twitter.com/mattcowgill">mattcowgill</a></td>
 		<td>Melbourne</td>
 		<td>200</td>
 		<td>414</td>
@@ -6013,7 +6014,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Pete Yandell
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/notahat">notahat</a></td>
+		<td><a target="_blank" href="https://twitter.com/notahat">notahat</a></td>
 		<td>Melbourne Australia</td>
 		<td>71</td>
 		<td>409</td>
@@ -6027,7 +6028,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Noviny
 		</td>
 		<td>@dolbyiosamples </td>
-		<td><a href="https://twitter.com/noviny">noviny</a></td>
+		<td><a target="_blank" href="https://twitter.com/noviny">noviny</a></td>
 		<td>Sydney</td>
 		<td>139</td>
 		<td>408</td>
@@ -6041,7 +6042,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Trengrove
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bentrengrove">bentrengrove</a></td>
+		<td><a target="_blank" href="https://twitter.com/bentrengrove">bentrengrove</a></td>
 		<td>Melbourne Australia</td>
 		<td>406</td>
 		<td>406</td>
@@ -6055,7 +6056,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Paul McCarty
 		</td>
 		<td>@securestackco  </td>
-		<td><a href="https://twitter.com/eastsidemccarty">eastsidemccarty</a></td>
+		<td><a target="_blank" href="https://twitter.com/eastsidemccarty">eastsidemccarty</a></td>
 		<td>Australia</td>
 		<td>350</td>
 		<td>406</td>
@@ -6069,7 +6070,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rob Morgan
 		</td>
 		<td>@brightfame </td>
-		<td><a href="https://twitter.com/_rjm_">_rjm_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_rjm_">_rjm_</a></td>
 		<td>Perth Australia</td>
 		<td>40</td>
 		<td>404</td>
@@ -6111,7 +6112,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jon Meyers
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jonmeyers_io">jonmeyers_io</a></td>
+		<td><a target="_blank" href="https://twitter.com/jonmeyers_io">jonmeyers_io</a></td>
 		<td>Australia</td>
 		<td>387</td>
 		<td>398</td>
@@ -6125,7 +6126,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jaime Pillora
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jpillora">jpillora</a></td>
+		<td><a target="_blank" href="https://twitter.com/jpillora">jpillora</a></td>
 		<td>Sydney Australia</td>
 		<td>192</td>
 		<td>395</td>
@@ -6139,7 +6140,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Christopher Hunt
 		</td>
 		<td>Titan Class Pl </td>
-		<td><a href="https://twitter.com/huntchr">huntchr</a></td>
+		<td><a target="_blank" href="https://twitter.com/huntchr">huntchr</a></td>
 		<td>Bulli NSW Australia</td>
 		<td>395</td>
 		<td>395</td>
@@ -6167,7 +6168,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jarrod Watts
 		</td>
 		<td>Polygon Labs </td>
-		<td><a href="https://twitter.com/jarrodwattsdev">jarrodwattsdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/jarrodwattsdev">jarrodwattsdev</a></td>
 		<td>Sydney Australia</td>
 		<td>392</td>
 		<td>392</td>
@@ -6181,7 +6182,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			OvO
 		</td>
 		<td>Uq </td>
-		<td><a href="https://twitter.com/real_qinlili">real_qinlili</a></td>
+		<td><a target="_blank" href="https://twitter.com/real_qinlili">real_qinlili</a></td>
 		<td>Brisbane</td>
 		<td>387</td>
 		<td>388</td>
@@ -6195,7 +6196,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David Reid
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mackron">mackron</a></td>
+		<td><a target="_blank" href="https://twitter.com/mackron">mackron</a></td>
 		<td>Australia</td>
 		<td>388</td>
 		<td>388</td>
@@ -6209,7 +6210,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jason Taylor
 		</td>
 		<td>Increment </td>
-		<td><a href="https://twitter.com/jasontaylordev">jasontaylordev</a></td>
+		<td><a target="_blank" href="https://twitter.com/jasontaylordev">jasontaylordev</a></td>
 		<td>Brisbane Australia</td>
 		<td>287</td>
 		<td>381</td>
@@ -6237,7 +6238,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Kitson Kelly
 		</td>
 		<td>@ctolabs </td>
-		<td><a href="https://twitter.com/kitsonk">kitsonk</a></td>
+		<td><a target="_blank" href="https://twitter.com/kitsonk">kitsonk</a></td>
 		<td>Melbourne Australia</td>
 		<td>324</td>
 		<td>368</td>
@@ -6265,7 +6266,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Khalid Elshafie
 		</td>
 		<td>@nyaladev  </td>
-		<td><a href="https://twitter.com/abolkog">abolkog</a></td>
+		<td><a target="_blank" href="https://twitter.com/abolkog">abolkog</a></td>
 		<td>Melbourne Australia</td>
 		<td>51</td>
 		<td>363</td>
@@ -6293,7 +6294,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Phoenix Fox
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Bluebie">Bluebie</a></td>
+		<td><a target="_blank" href="https://twitter.com/Bluebie">Bluebie</a></td>
 		<td>Sydney Australia</td>
 		<td>14</td>
 		<td>359</td>
@@ -6307,7 +6308,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aria Edmonds
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ar1aau">ar1aau</a></td>
+		<td><a target="_blank" href="https://twitter.com/ar1aau">ar1aau</a></td>
 		<td>Perth</td>
 		<td>79</td>
 		<td>358</td>
@@ -6335,7 +6336,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michelle MeiLing Sandford
 		</td>
 		<td>Microsoft </td>
-		<td><a href="https://twitter.com/codess_aus">codess_aus</a></td>
+		<td><a target="_blank" href="https://twitter.com/codess_aus">codess_aus</a></td>
 		<td>Perth Australia</td>
 		<td>284</td>
 		<td>350</td>
@@ -6377,7 +6378,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Daniel Del Core
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/danieldelcore">danieldelcore</a></td>
+		<td><a target="_blank" href="https://twitter.com/danieldelcore">danieldelcore</a></td>
 		<td>Sydney Australia</td>
 		<td>182</td>
 		<td>348</td>
@@ -6391,7 +6392,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Phil Nash
 		</td>
 		<td>@sonarsource </td>
-		<td><a href="https://twitter.com/philnash">philnash</a></td>
+		<td><a target="_blank" href="https://twitter.com/philnash">philnash</a></td>
 		<td>Melbourne </td>
 		<td>341</td>
 		<td>347</td>
@@ -6447,7 +6448,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Vaibhav Sagar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vbhvsgr">vbhvsgr</a></td>
+		<td><a target="_blank" href="https://twitter.com/vbhvsgr">vbhvsgr</a></td>
 		<td>gadigal landsydney</td>
 		<td>187</td>
 		<td>337</td>
@@ -6475,7 +6476,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Rogerson
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/benrogerson">benrogerson</a></td>
+		<td><a target="_blank" href="https://twitter.com/benrogerson">benrogerson</a></td>
 		<td>Adelaide Australia</td>
 		<td>115</td>
 		<td>330</td>
@@ -6503,7 +6504,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Anthony Towns
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ajtowns">ajtowns</a></td>
+		<td><a target="_blank" href="https://twitter.com/ajtowns">ajtowns</a></td>
 		<td>Brisbane Australia</td>
 		<td>329</td>
 		<td>329</td>
@@ -6545,7 +6546,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ricardo Martins
 		</td>
 		<td>Magenteiro </td>
-		<td><a href="https://twitter.com/magenteiro">magenteiro</a></td>
+		<td><a target="_blank" href="https://twitter.com/magenteiro">magenteiro</a></td>
 		<td>Brisbane Austrlia</td>
 		<td>326</td>
 		<td>326</td>
@@ -6573,7 +6574,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Phillip Stevens
 		</td>
 		<td>Emotiv8 </td>
-		<td><a href="https://twitter.com/_feilipu">_feilipu</a></td>
+		<td><a target="_blank" href="https://twitter.com/_feilipu">_feilipu</a></td>
 		<td>Melbourne Australia</td>
 		<td>326</td>
 		<td>326</td>
@@ -6587,7 +6588,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Avi Miller
 		</td>
 		<td>@oracle  </td>
-		<td><a href="https://twitter.com/Djelibeybi">Djelibeybi</a></td>
+		<td><a target="_blank" href="https://twitter.com/Djelibeybi">Djelibeybi</a></td>
 		<td>Melbourne Australia</td>
 		<td>287</td>
 		<td>322</td>
@@ -6601,7 +6602,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ryan Wick
 		</td>
 		<td>University Of Melbourne </td>
-		<td><a href="https://twitter.com/rrwick">rrwick</a></td>
+		<td><a target="_blank" href="https://twitter.com/rrwick">rrwick</a></td>
 		<td>Melbourne Australia</td>
 		<td>173</td>
 		<td>321</td>
@@ -6615,7 +6616,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Fagner Brack
 		</td>
 		<td>The Internet </td>
-		<td><a href="https://twitter.com/fagnerbrack">fagnerbrack</a></td>
+		<td><a target="_blank" href="https://twitter.com/fagnerbrack">fagnerbrack</a></td>
 		<td>Sydney Australia</td>
 		<td>136</td>
 		<td>321</td>
@@ -6643,7 +6644,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tom Kunc
 		</td>
 		<td>Unsw </td>
-		<td><a href="https://twitter.com/tfpk_">tfpk_</a></td>
+		<td><a target="_blank" href="https://twitter.com/tfpk_">tfpk_</a></td>
 		<td>Sydney Australia</td>
 		<td>137</td>
 		<td>316</td>
@@ -6657,7 +6658,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			daft
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/daftspunk">daftspunk</a></td>
+		<td><a target="_blank" href="https://twitter.com/daftspunk">daftspunk</a></td>
 		<td>Canberra Australia</td>
 		<td>155</td>
 		<td>315</td>
@@ -6671,7 +6672,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Joss Mackison
 		</td>
 		<td>@thinkmill  </td>
-		<td><a href="https://twitter.com/JossMackison">JossMackison</a></td>
+		<td><a target="_blank" href="https://twitter.com/JossMackison">JossMackison</a></td>
 		<td>Sydney Australia</td>
 		<td>312</td>
 		<td>312</td>
@@ -6685,7 +6686,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Bizzycola
 		</td>
 		<td>Blackkro </td>
-		<td><a href="https://twitter.com/Bizzycola3">Bizzycola3</a></td>
+		<td><a target="_blank" href="https://twitter.com/Bizzycola3">Bizzycola3</a></td>
 		<td>Australia</td>
 		<td>23</td>
 		<td>310</td>
@@ -6699,7 +6700,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lucas Garcez
 		</td>
 		<td>@coffstack  </td>
-		<td><a href="https://twitter.com/coffstack">coffstack</a></td>
+		<td><a target="_blank" href="https://twitter.com/coffstack">coffstack</a></td>
 		<td>Melbourne AU</td>
 		<td>253</td>
 		<td>305</td>
@@ -6741,7 +6742,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			nikhil karkra
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/karkra_nikhil">karkra_nikhil</a></td>
+		<td><a target="_blank" href="https://twitter.com/karkra_nikhil">karkra_nikhil</a></td>
 		<td>Melbourne Australia</td>
 		<td>183</td>
 		<td>296</td>
@@ -6769,7 +6770,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sathyajith Bhat
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sathyabhat">sathyabhat</a></td>
+		<td><a target="_blank" href="https://twitter.com/sathyabhat">sathyabhat</a></td>
 		<td>Sydney</td>
 		<td>283</td>
 		<td>294</td>
@@ -6783,7 +6784,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Justin Steven
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/justinsteven">justinsteven</a></td>
+		<td><a target="_blank" href="https://twitter.com/justinsteven">justinsteven</a></td>
 		<td>Melbourne Australia</td>
 		<td>23</td>
 		<td>293</td>
@@ -6811,7 +6812,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jack Noordhuis
 		</td>
 		<td>@nxtlvlsoftware  </td>
-		<td><a href="https://twitter.com/JackNoordhuis">JackNoordhuis</a></td>
+		<td><a target="_blank" href="https://twitter.com/JackNoordhuis">JackNoordhuis</a></td>
 		<td>Australia</td>
 		<td>247</td>
 		<td>288</td>
@@ -6853,7 +6854,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jonathan Hedley
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jhy">jhy</a></td>
+		<td><a target="_blank" href="https://twitter.com/jhy">jhy</a></td>
 		<td>NSW Australia</td>
 		<td>198</td>
 		<td>277</td>
@@ -6867,7 +6868,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Leon Bambrick
 		</td>
 		<td>Nimblethingnet </td>
-		<td><a href="https://twitter.com/secretgeek">secretgeek</a></td>
+		<td><a target="_blank" href="https://twitter.com/secretgeek">secretgeek</a></td>
 		<td>brisbane australia</td>
 		<td>169</td>
 		<td>277</td>
@@ -6909,7 +6910,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ak
 		</td>
 		<td>36002603 </td>
-		<td><a href="https://twitter.com/logout">logout</a></td>
+		<td><a target="_blank" href="https://twitter.com/logout">logout</a></td>
 		<td>Sydney Australia</td>
 		<td>107</td>
 		<td>274</td>
@@ -6923,7 +6924,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David Leadbeater
 		</td>
 		<td>@gresearch </td>
-		<td><a href="https://twitter.com/davidgl">davidgl</a></td>
+		<td><a target="_blank" href="https://twitter.com/davidgl">davidgl</a></td>
 		<td>Melbourne Australia</td>
 		<td>163</td>
 		<td>271</td>
@@ -6937,7 +6938,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Hamish Williams
 		</td>
 		<td>Qwilr </td>
-		<td><a href="https://twitter.com/hamishMW">hamishMW</a></td>
+		<td><a target="_blank" href="https://twitter.com/hamishMW">hamishMW</a></td>
 		<td>Sydney Australia</td>
 		<td>24</td>
 		<td>270</td>
@@ -6965,7 +6966,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andy Gelme
 		</td>
 		<td>Geekscape Pty Ltd </td>
-		<td><a href="https://twitter.com/geekscape">geekscape</a></td>
+		<td><a target="_blank" href="https://twitter.com/geekscape">geekscape</a></td>
 		<td>Melbourne Australia</td>
 		<td>219</td>
 		<td>267</td>
@@ -6979,7 +6980,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jack Valmadre
 		</td>
 		<td>Australian Institute For Machine<br/>Learning<br/>University<br/>Of<br/>Adelaide<br/></td>
-		<td><a href="https://twitter.com/jvlmdr">jvlmdr</a></td>
+		<td><a target="_blank" href="https://twitter.com/jvlmdr">jvlmdr</a></td>
 		<td>Adelaide Australia</td>
 		<td>167</td>
 		<td>266</td>
@@ -6993,7 +6994,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andrew B Coathup
 		</td>
 		<td>@blockhorses </td>
-		<td><a href="https://twitter.com/abcoathup">abcoathup</a></td>
+		<td><a target="_blank" href="https://twitter.com/abcoathup">abcoathup</a></td>
 		<td>Melbourne Australia</td>
 		<td>264</td>
 		<td>264</td>
@@ -7035,7 +7036,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rory Madden
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AvangelistaDev">AvangelistaDev</a></td>
+		<td><a target="_blank" href="https://twitter.com/AvangelistaDev">AvangelistaDev</a></td>
 		<td>Sydney Australia</td>
 		<td>128</td>
 		<td>257</td>
@@ -7049,7 +7050,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jeremy Howard
 		</td>
 		<td>@fastai  </td>
-		<td><a href="https://twitter.com/jeremyphoward">jeremyphoward</a></td>
+		<td><a target="_blank" href="https://twitter.com/jeremyphoward">jeremyphoward</a></td>
 		<td>Brisbane Australia</td>
 		<td>256</td>
 		<td>256</td>
@@ -7077,7 +7078,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Philipp Bayer
 		</td>
 		<td>University Of Western Australia<br/></td>
-		<td><a href="https://twitter.com/philippbayer">philippbayer</a></td>
+		<td><a target="_blank" href="https://twitter.com/philippbayer">philippbayer</a></td>
 		<td>Perth Australia</td>
 		<td>161</td>
 		<td>255</td>
@@ -7147,7 +7148,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Peter Mescalchin
 		</td>
 		<td>Magnetikonline </td>
-		<td><a href="https://twitter.com/magnetikonline">magnetikonline</a></td>
+		<td><a target="_blank" href="https://twitter.com/magnetikonline">magnetikonline</a></td>
 		<td>Melbourne Australia</td>
 		<td>249</td>
 		<td>249</td>
@@ -7189,7 +7190,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michael D
 		</td>
 		<td>@sharex </td>
-		<td><a href="https://twitter.com/mcored">mcored</a></td>
+		<td><a target="_blank" href="https://twitter.com/mcored">mcored</a></td>
 		<td>Australia</td>
 		<td>86</td>
 		<td>243</td>
@@ -7217,7 +7218,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jarrod Norwell
 		</td>
 		<td>Seniors Discount Cards </td>
-		<td><a href="https://twitter.com/antique_codes">antique_codes</a></td>
+		<td><a target="_blank" href="https://twitter.com/antique_codes">antique_codes</a></td>
 		<td>Perth Western Australia</td>
 		<td>192</td>
 		<td>238</td>
@@ -7231,7 +7232,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Stennie Steneker
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/stennie">stennie</a></td>
+		<td><a target="_blank" href="https://twitter.com/stennie">stennie</a></td>
 		<td>Sydney Australia</td>
 		<td>65</td>
 		<td>236</td>
@@ -7259,7 +7260,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Amber Brown
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/hawkieowl">hawkieowl</a></td>
+		<td><a target="_blank" href="https://twitter.com/hawkieowl">hawkieowl</a></td>
 		<td>Melbourne Australia</td>
 		<td>231</td>
 		<td>231</td>
@@ -7329,7 +7330,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lachlan Hardy
 		</td>
 		<td>Blackmill </td>
-		<td><a href="https://twitter.com/lachlanhardy">lachlanhardy</a></td>
+		<td><a target="_blank" href="https://twitter.com/lachlanhardy">lachlanhardy</a></td>
 		<td>Melbourne AU</td>
 		<td>6</td>
 		<td>227</td>
@@ -7357,7 +7358,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Kilian Vos
 		</td>
 		<td>Water Research Laboratory </td>
-		<td><a href="https://twitter.com/_kvos">_kvos</a></td>
+		<td><a target="_blank" href="https://twitter.com/_kvos">_kvos</a></td>
 		<td>Sydney</td>
 		<td>100</td>
 		<td>225</td>
@@ -7385,7 +7386,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>Ciaops </td>
-		<td><a href="https://twitter.com/directorcia">directorcia</a></td>
+		<td><a target="_blank" href="https://twitter.com/directorcia">directorcia</a></td>
 		<td>Sydney Australia</td>
 		<td>223</td>
 		<td>223</td>
@@ -7399,7 +7400,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Luke Diebold
 		</td>
 		<td>Agripath </td>
-		<td><a href="https://twitter.com/LukeDiebold">LukeDiebold</a></td>
+		<td><a target="_blank" href="https://twitter.com/LukeDiebold">LukeDiebold</a></td>
 		<td>Melbourne VIC Australia</td>
 		<td>223</td>
 		<td>223</td>
@@ -7427,7 +7428,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Ryzee119">Ryzee119</a></td>
+		<td><a target="_blank" href="https://twitter.com/Ryzee119">Ryzee119</a></td>
 		<td>Adelaide Australia</td>
 		<td>217</td>
 		<td>217</td>
@@ -7497,7 +7498,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Cameron McCormack
 		</td>
 		<td>@apple </td>
-		<td><a href="https://twitter.com/heycam">heycam</a></td>
+		<td><a target="_blank" href="https://twitter.com/heycam">heycam</a></td>
 		<td>Melbourne Australia</td>
 		<td>207</td>
 		<td>207</td>
@@ -7511,7 +7512,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Foyzul Karim
 		</td>
 		<td>Self </td>
-		<td><a href="https://twitter.com/foyzul_karim">foyzul_karim</a></td>
+		<td><a target="_blank" href="https://twitter.com/foyzul_karim">foyzul_karim</a></td>
 		<td>Australia</td>
 		<td>203</td>
 		<td>203</td>
@@ -7539,7 +7540,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Muhammad Bilal Shaikh
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/onlybilalshaikh">onlybilalshaikh</a></td>
+		<td><a target="_blank" href="https://twitter.com/onlybilalshaikh">onlybilalshaikh</a></td>
 		<td>Joondalup Perth Australia</td>
 		<td>112</td>
 		<td>201</td>
@@ -7553,7 +7554,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Xiufeng Guo
 		</td>
 		<td>@xtomcom </td>
-		<td><a href="https://twitter.com/Showfom">Showfom</a></td>
+		<td><a target="_blank" href="https://twitter.com/Showfom">Showfom</a></td>
 		<td>Sydney Australia</td>
 		<td>20</td>
 		<td>200</td>
@@ -7595,7 +7596,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jeremy HU
 		</td>
 		<td>@dust3dmodeling  </td>
-		<td><a href="https://twitter.com/jeremyhu2016">jeremyhu2016</a></td>
+		<td><a target="_blank" href="https://twitter.com/jeremyhu2016">jeremyhu2016</a></td>
 		<td>Sydney Australia</td>
 		<td>191</td>
 		<td>198</td>
@@ -7623,7 +7624,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			arttnba3
 		</td>
 		<td>@xdsec </td>
-		<td><a href="https://twitter.com/arttnba3">arttnba3</a></td>
+		<td><a target="_blank" href="https://twitter.com/arttnba3">arttnba3</a></td>
 		<td>Melbourne Austalia</td>
 		<td>197</td>
 		<td>197</td>
@@ -7651,7 +7652,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jernej Kavka JK SSW
 		</td>
 		<td>@sswconsulting </td>
-		<td><a href="https://twitter.com/jernej_kavka">jernej_kavka</a></td>
+		<td><a target="_blank" href="https://twitter.com/jernej_kavka">jernej_kavka</a></td>
 		<td>Brisbane Australia</td>
 		<td>103</td>
 		<td>194</td>
@@ -7735,7 +7736,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Joseph Shenton
 		</td>
 		<td>Mojo Layers Pty Ltd<br/></td>
-		<td><a href="https://twitter.com/moderniselife">moderniselife</a></td>
+		<td><a target="_blank" href="https://twitter.com/moderniselife">moderniselife</a></td>
 		<td>Australia</td>
 		<td>16</td>
 		<td>179</td>
@@ -7749,7 +7750,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Natraj Yegnaraman
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rajyraman">rajyraman</a></td>
+		<td><a target="_blank" href="https://twitter.com/rajyraman">rajyraman</a></td>
 		<td>Melbourne Australia</td>
 		<td>172</td>
 		<td>178</td>
@@ -7805,7 +7806,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mark Waller
 		</td>
 		<td>Pendingai </td>
-		<td><a href="https://twitter.com/waller_lab">waller_lab</a></td>
+		<td><a target="_blank" href="https://twitter.com/waller_lab">waller_lab</a></td>
 		<td>Sydney Australia</td>
 		<td>177</td>
 		<td>177</td>
@@ -7875,7 +7876,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tom
 		</td>
 		<td>@boxofdevs @notionenhancer  </td>
-		<td><a href="https://twitter.com/dragonwocky">dragonwocky</a></td>
+		<td><a target="_blank" href="https://twitter.com/dragonwocky">dragonwocky</a></td>
 		<td>Australia</td>
 		<td>163</td>
 		<td>172</td>
@@ -7917,7 +7918,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			securitymeta
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/securitymeta_">securitymeta_</a></td>
+		<td><a target="_blank" href="https://twitter.com/securitymeta_">securitymeta_</a></td>
 		<td>Melbourne</td>
 		<td>170</td>
 		<td>170</td>
@@ -7973,7 +7974,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sanjay Kv
 		</td>
 		<td>Truuth </td>
-		<td><a href="https://twitter.com/sanjay_kv_">sanjay_kv_</a></td>
+		<td><a target="_blank" href="https://twitter.com/sanjay_kv_">sanjay_kv_</a></td>
 		<td>Sydney Australia</td>
 		<td>105</td>
 		<td>165</td>
@@ -7987,7 +7988,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben Fulcher
 		</td>
 		<td>@dynamicsandneuralsy </td>
-		<td><a href="https://twitter.com/bendfulcher">bendfulcher</a></td>
+		<td><a target="_blank" href="https://twitter.com/bendfulcher">bendfulcher</a></td>
 		<td>Sydney Australia</td>
 		<td>164</td>
 		<td>164</td>
@@ -8001,7 +8002,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brett Andrews
 		</td>
 		<td>@codegenieapp  </td>
-		<td><a href="https://twitter.com/AWSBrett">AWSBrett</a></td>
+		<td><a target="_blank" href="https://twitter.com/AWSBrett">AWSBrett</a></td>
 		<td>Queensland Australia</td>
 		<td>164</td>
 		<td>164</td>
@@ -8015,7 +8016,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Robin Delaporte
 		</td>
 		<td>@canva  </td>
-		<td><a href="https://twitter.com/not__robin">not__robin</a></td>
+		<td><a target="_blank" href="https://twitter.com/not__robin">not__robin</a></td>
 		<td>Sydney</td>
 		<td>4</td>
 		<td>162</td>
@@ -8057,7 +8058,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Christopher Jones
 		</td>
 		<td>@oracle </td>
-		<td><a href="https://twitter.com/ghrd">ghrd</a></td>
+		<td><a target="_blank" href="https://twitter.com/ghrd">ghrd</a></td>
 		<td>Melbourne Australia</td>
 		<td>160</td>
 		<td>160</td>
@@ -8071,7 +8072,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Pavithra Kodmad
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/PKodmad">PKodmad</a></td>
+		<td><a target="_blank" href="https://twitter.com/PKodmad">PKodmad</a></td>
 		<td>Sydney Australia</td>
 		<td>127</td>
 		<td>159</td>
@@ -8113,7 +8114,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Chun Tian
 		</td>
 		<td>Australian National University </td>
-		<td><a href="https://twitter.com/binghe_lisp">binghe_lisp</a></td>
+		<td><a target="_blank" href="https://twitter.com/binghe_lisp">binghe_lisp</a></td>
 		<td>Canberra Australia</td>
 		<td>154</td>
 		<td>154</td>
@@ -8141,7 +8142,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rischan Mafrur
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/0xGembus">0xGembus</a></td>
+		<td><a target="_blank" href="https://twitter.com/0xGembus">0xGembus</a></td>
 		<td>Brisbane</td>
 		<td>27</td>
 		<td>154</td>
@@ -8169,7 +8170,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Marcus Wood
 		</td>
 		<td>@visiblelightio </td>
-		<td><a href="https://twitter.com/igasgeek">igasgeek</a></td>
+		<td><a target="_blank" href="https://twitter.com/igasgeek">igasgeek</a></td>
 		<td>North Sydney Australia</td>
 		<td>153</td>
 		<td>153</td>
@@ -8225,7 +8226,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Andrew
 		</td>
 		<td>Freelancing Hmu </td>
-		<td><a href="https://twitter.com/endermanch">endermanch</a></td>
+		<td><a target="_blank" href="https://twitter.com/endermanch">endermanch</a></td>
 		<td>Australia</td>
 		<td>148</td>
 		<td>148</td>
@@ -8239,7 +8240,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			BwE
 		</td>
 		<td>Better Way Electronics <br/></td>
-		<td><a href="https://twitter.com/BwE_Dev">BwE_Dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/BwE_Dev">BwE_Dev</a></td>
 		<td>Australia </td>
 		<td>142</td>
 		<td>147</td>
@@ -8281,7 +8282,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mandy Michael
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mandy_kerr">mandy_kerr</a></td>
+		<td><a target="_blank" href="https://twitter.com/mandy_kerr">mandy_kerr</a></td>
 		<td>Perth Western Australia</td>
 		<td>8</td>
 		<td>143</td>
@@ -8309,7 +8310,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Luke Stephens hakluke
 		</td>
 		<td>@haksecio  </td>
-		<td><a href="https://twitter.com/hakluke">hakluke</a></td>
+		<td><a target="_blank" href="https://twitter.com/hakluke">hakluke</a></td>
 		<td>Australia</td>
 		<td>41</td>
 		<td>141</td>
@@ -8323,7 +8324,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michael Skelton
 		</td>
 		<td>@bugcrowd  </td>
-		<td><a href="https://twitter.com/codingo_">codingo_</a></td>
+		<td><a target="_blank" href="https://twitter.com/codingo_">codingo_</a></td>
 		<td>Brisbane Australia</td>
 		<td>99</td>
 		<td>140</td>
@@ -8351,7 +8352,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mair Swartz
 		</td>
 		<td>Httpshackhunterio </td>
-		<td><a href="https://twitter.com/swartz_mair">swartz_mair</a></td>
+		<td><a target="_blank" href="https://twitter.com/swartz_mair">swartz_mair</a></td>
 		<td>Australia Melbourne</td>
 		<td>140</td>
 		<td>140</td>
@@ -8491,7 +8492,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Farhad Yasir
 		</td>
 		<td>@atlassian  </td>
-		<td><a href="https://twitter.com/nutboltu">nutboltu</a></td>
+		<td><a target="_blank" href="https://twitter.com/nutboltu">nutboltu</a></td>
 		<td>Sydney</td>
 		<td>62</td>
 		<td>132</td>
@@ -8589,7 +8590,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Leo Caseiro
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/leocaseiro">leocaseiro</a></td>
+		<td><a target="_blank" href="https://twitter.com/leocaseiro">leocaseiro</a></td>
 		<td>Sydney Australia</td>
 		<td>117</td>
 		<td>117</td>
@@ -8729,7 +8730,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Leonardo Borges
 		</td>
 		<td>@canva </td>
-		<td><a href="https://twitter.com/theleoborges">theleoborges</a></td>
+		<td><a target="_blank" href="https://twitter.com/theleoborges">theleoborges</a></td>
 		<td>Sydney Australia</td>
 		<td>0</td>
 		<td>112</td>
@@ -8743,7 +8744,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Anthony Gore
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anthonygore">anthonygore</a></td>
+		<td><a target="_blank" href="https://twitter.com/anthonygore">anthonygore</a></td>
 		<td>Sydney Australia</td>
 		<td>10</td>
 		<td>111</td>
@@ -8757,7 +8758,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jimmy Gunawan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jimmygunawanapp">jimmygunawanapp</a></td>
+		<td><a target="_blank" href="https://twitter.com/jimmygunawanapp">jimmygunawanapp</a></td>
 		<td>Sydney Australia</td>
 		<td>111</td>
 		<td>111</td>
@@ -8771,7 +8772,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Craig McMillan
 		</td>
 		<td>Australian Bitcoins </td>
-		<td><a href="https://twitter.com/AustBitcoins">AustBitcoins</a></td>
+		<td><a target="_blank" href="https://twitter.com/AustBitcoins">AustBitcoins</a></td>
 		<td>Canberra ACT Australia</td>
 		<td>102</td>
 		<td>111</td>
@@ -8841,7 +8842,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Greg Davill
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gregdavill">gregdavill</a></td>
+		<td><a target="_blank" href="https://twitter.com/gregdavill">gregdavill</a></td>
 		<td>Australia</td>
 		<td>96</td>
 		<td>106</td>
@@ -8855,7 +8856,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Yogesh Khatri @swiftforensics
 		</td>
 		<td>Cybercx </td>
-		<td><a href="https://twitter.com/swiftforensics">swiftforensics</a></td>
+		<td><a target="_blank" href="https://twitter.com/swiftforensics">swiftforensics</a></td>
 		<td>Sydney Australia</td>
 		<td>105</td>
 		<td>105</td>
@@ -8869,7 +8870,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Benson Ruan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/bensonruan">bensonruan</a></td>
+		<td><a target="_blank" href="https://twitter.com/bensonruan">bensonruan</a></td>
 		<td>Sydney Australia</td>
 		<td>103</td>
 		<td>103</td>
@@ -8939,7 +8940,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Adrian Twarog
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/adrian_twarog">adrian_twarog</a></td>
+		<td><a target="_blank" href="https://twitter.com/adrian_twarog">adrian_twarog</a></td>
 		<td>Australia WA</td>
 		<td>26</td>
 		<td>92</td>
@@ -8967,7 +8968,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Luca Modenese
 		</td>
 		<td>University Of New South<br/>Wales<br/></td>
-		<td><a href="https://twitter.com/modenaxe">modenaxe</a></td>
+		<td><a target="_blank" href="https://twitter.com/modenaxe">modenaxe</a></td>
 		<td>Sydney</td>
 		<td>90</td>
 		<td>90</td>
@@ -8981,7 +8982,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tisham Dhar
 		</td>
 		<td>Whatnick Inc </td>
-		<td><a href="https://twitter.com/whatnick">whatnick</a></td>
+		<td><a target="_blank" href="https://twitter.com/whatnick">whatnick</a></td>
 		<td>Adelaide</td>
 		<td>73</td>
 		<td>89</td>
@@ -8995,7 +8996,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>@spigotmc </td>
-		<td><a href="https://twitter.com/md__5">md__5</a></td>
+		<td><a target="_blank" href="https://twitter.com/md__5">md__5</a></td>
 		<td>Melbourne Australia</td>
 		<td>88</td>
 		<td>88</td>
@@ -9009,7 +9010,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Durgesh Samariya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/themlphdstudent">themlphdstudent</a></td>
+		<td><a target="_blank" href="https://twitter.com/themlphdstudent">themlphdstudent</a></td>
 		<td>Australia</td>
 		<td>84</td>
 		<td>87</td>
@@ -9037,7 +9038,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Gordon Pedersen
 		</td>
 		<td>@aeriontech </td>
-		<td><a href="https://twitter.com/death_au">death_au</a></td>
+		<td><a target="_blank" href="https://twitter.com/death_au">death_au</a></td>
 		<td>Australia</td>
 		<td>86</td>
 		<td>86</td>
@@ -9079,7 +9080,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Xidorn Quan
 		</td>
 		<td>@canva  </td>
-		<td><a href="https://twitter.com/upsuper">upsuper</a></td>
+		<td><a target="_blank" href="https://twitter.com/upsuper">upsuper</a></td>
 		<td>Sydney Australia</td>
 		<td>84</td>
 		<td>84</td>
@@ -9093,7 +9094,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Hugo BowneAnderson
 		</td>
 		<td>Outerbounds </td>
-		<td><a href="https://twitter.com/hugobowne">hugobowne</a></td>
+		<td><a target="_blank" href="https://twitter.com/hugobowne">hugobowne</a></td>
 		<td>Sydney</td>
 		<td>4</td>
 		<td>83</td>
@@ -9135,7 +9136,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Keith Pitt
 		</td>
 		<td>Buildkite </td>
-		<td><a href="https://twitter.com/keithpitt">keithpitt</a></td>
+		<td><a target="_blank" href="https://twitter.com/keithpitt">keithpitt</a></td>
 		<td>Perth Australia</td>
 		<td>18</td>
 		<td>82</td>
@@ -9177,7 +9178,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Radek Osmulski
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/radekosmulski">radekosmulski</a></td>
+		<td><a target="_blank" href="https://twitter.com/radekosmulski">radekosmulski</a></td>
 		<td>Brisbane Australia</td>
 		<td>81</td>
 		<td>81</td>
@@ -9205,7 +9206,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Prajjwal Subedi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/prazwolsubedi">prazwolsubedi</a></td>
+		<td><a target="_blank" href="https://twitter.com/prazwolsubedi">prazwolsubedi</a></td>
 		<td>Sydney Australia</td>
 		<td>3</td>
 		<td>80</td>
@@ -9247,7 +9248,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David Kean
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/davkean">davkean</a></td>
+		<td><a target="_blank" href="https://twitter.com/davkean">davkean</a></td>
 		<td>Melbourne Australia</td>
 		<td>72</td>
 		<td>79</td>
@@ -9289,7 +9290,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Devansu Yadav
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DevanshYtweets">DevanshYtweets</a></td>
+		<td><a target="_blank" href="https://twitter.com/DevanshYtweets">DevanshYtweets</a></td>
 		<td>Canberra Australia</td>
 		<td>73</td>
 		<td>79</td>
@@ -9331,7 +9332,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Wilba
 		</td>
 		<td>Wilbatech </td>
-		<td><a href="https://twitter.com/wilba_tech">wilba_tech</a></td>
+		<td><a target="_blank" href="https://twitter.com/wilba_tech">wilba_tech</a></td>
 		<td>Melbourne AU</td>
 		<td>76</td>
 		<td>76</td>
@@ -9373,7 +9374,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aman Arora
 		</td>
 		<td>Weights  Biases </td>
-		<td><a href="https://twitter.com/amaarora">amaarora</a></td>
+		<td><a target="_blank" href="https://twitter.com/amaarora">amaarora</a></td>
 		<td>Sydney</td>
 		<td>67</td>
 		<td>75</td>
@@ -9401,7 +9402,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sam Pfeiffer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/awesomebytes">awesomebytes</a></td>
+		<td><a target="_blank" href="https://twitter.com/awesomebytes">awesomebytes</a></td>
 		<td>Sydney Australia</td>
 		<td>26</td>
 		<td>73</td>
@@ -9415,7 +9416,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tomas Beuzen
 		</td>
 		<td>Solar Analytics </td>
-		<td><a href="https://twitter.com/TBeuzen">TBeuzen</a></td>
+		<td><a target="_blank" href="https://twitter.com/TBeuzen">TBeuzen</a></td>
 		<td>Sydney Australia</td>
 		<td>23</td>
 		<td>73</td>
@@ -9429,7 +9430,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Gavin Crump
 		</td>
 		<td>Bim Guru </td>
-		<td><a href="https://twitter.com/AussieBIMGuru">AussieBIMGuru</a></td>
+		<td><a target="_blank" href="https://twitter.com/AussieBIMGuru">AussieBIMGuru</a></td>
 		<td>Sydney Australia</td>
 		<td>72</td>
 		<td>72</td>
@@ -9443,7 +9444,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Michael J Clark
 		</td>
 		<td>Im Just A Guy<br/>Who<br/>Likes<br/>To<br/>Machine<br/>Learn<br/></td>
-		<td><a href="https://twitter.com/wassname">wassname</a></td>
+		<td><a target="_blank" href="https://twitter.com/wassname">wassname</a></td>
 		<td>Perth Australia</td>
 		<td>60</td>
 		<td>72</td>
@@ -9527,7 +9528,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			William Bowling
 		</td>
 		<td>@zellic </td>
-		<td><a href="https://twitter.com/wcbowling">wcbowling</a></td>
+		<td><a target="_blank" href="https://twitter.com/wcbowling">wcbowling</a></td>
 		<td>Australia</td>
 		<td>6</td>
 		<td>69</td>
@@ -9541,7 +9542,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Cam Jackson
 		</td>
 		<td>Thoughtworks </td>
-		<td><a href="https://twitter.com/thecamjackson">thecamjackson</a></td>
+		<td><a target="_blank" href="https://twitter.com/thecamjackson">thecamjackson</a></td>
 		<td>Melbourne Australia</td>
 		<td>29</td>
 		<td>69</td>
@@ -9555,7 +9556,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Lace Lofranco
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/LaceLofranco">LaceLofranco</a></td>
+		<td><a target="_blank" href="https://twitter.com/LaceLofranco">LaceLofranco</a></td>
 		<td>Australia</td>
 		<td>22</td>
 		<td>68</td>
@@ -9569,7 +9570,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tristan Salles
 		</td>
 		<td>University Of Sydney </td>
-		<td><a href="https://twitter.com/salles_tristan">salles_tristan</a></td>
+		<td><a target="_blank" href="https://twitter.com/salles_tristan">salles_tristan</a></td>
 		<td>Sydney</td>
 		<td>68</td>
 		<td>68</td>
@@ -9597,7 +9598,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Shuai Zhao
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zhaoshuai0000">zhaoshuai0000</a></td>
+		<td><a target="_blank" href="https://twitter.com/zhaoshuai0000">zhaoshuai0000</a></td>
 		<td>Sydney</td>
 		<td>12</td>
 		<td>67</td>
@@ -9611,7 +9612,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			James Roper
 		</td>
 		<td>@lightbend </td>
-		<td><a href="https://twitter.com/jroper">jroper</a></td>
+		<td><a target="_blank" href="https://twitter.com/jroper">jroper</a></td>
 		<td>Canberra Australia</td>
 		<td>66</td>
 		<td>66</td>
@@ -9625,7 +9626,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alejandro
 		</td>
 		<td>Httpspowerledgerio </td>
-		<td><a href="https://twitter.com/aaguileravega">aaguileravega</a></td>
+		<td><a target="_blank" href="https://twitter.com/aaguileravega">aaguileravega</a></td>
 		<td>Perth WA</td>
 		<td>7</td>
 		<td>66</td>
@@ -9639,7 +9640,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jonathan Williams
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jonowilliams26">jonowilliams26</a></td>
+		<td><a target="_blank" href="https://twitter.com/jonowilliams26">jonowilliams26</a></td>
 		<td>Newcastle Australia NSW</td>
 		<td>27</td>
 		<td>65</td>
@@ -9667,7 +9668,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rifat Nabi
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/rifat">rifat</a></td>
+		<td><a target="_blank" href="https://twitter.com/rifat">rifat</a></td>
 		<td>Sydney Australia</td>
 		<td>43</td>
 		<td>61</td>
@@ -9709,7 +9710,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Simon Aarons
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ItsSimonTime">ItsSimonTime</a></td>
+		<td><a target="_blank" href="https://twitter.com/ItsSimonTime">ItsSimonTime</a></td>
 		<td>Melbourne Australia</td>
 		<td>61</td>
 		<td>61</td>
@@ -9723,7 +9724,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Thushan Ganegedara
 		</td>
 		<td>Canva </td>
-		<td><a href="https://twitter.com/thush89">thush89</a></td>
+		<td><a target="_blank" href="https://twitter.com/thush89">thush89</a></td>
 		<td>Sydney</td>
 		<td>60</td>
 		<td>60</td>
@@ -9765,7 +9766,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ryan Seddon
 		</td>
 		<td>@zendesk @zendeskgarden  </td>
-		<td><a href="https://twitter.com/ryanseddon">ryanseddon</a></td>
+		<td><a target="_blank" href="https://twitter.com/ryanseddon">ryanseddon</a></td>
 		<td>Melbourne Australia</td>
 		<td>9</td>
 		<td>59</td>
@@ -9779,7 +9780,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Liang Ding
 		</td>
 		<td>Jd Explore Academy Jdcom<br/>Inc<br/></td>
-		<td><a href="https://twitter.com/liangdingNLP">liangdingNLP</a></td>
+		<td><a target="_blank" href="https://twitter.com/liangdingNLP">liangdingNLP</a></td>
 		<td>SydneyAU  BeijingCN</td>
 		<td>59</td>
 		<td>59</td>
@@ -9835,7 +9836,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Viral Maniar
 		</td>
 		<td>Preemptive Cyber Security Pty<br/>Ltd<br/></td>
-		<td><a href="https://twitter.com/maniarviral">maniarviral</a></td>
+		<td><a target="_blank" href="https://twitter.com/maniarviral">maniarviral</a></td>
 		<td>Melbourne Victoria Australia</td>
 		<td>39</td>
 		<td>53</td>
@@ -9849,7 +9850,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ben R
 		</td>
 		<td>@patchmypcteam  </td>
-		<td><a href="https://twitter.com/powers_hell">powers_hell</a></td>
+		<td><a target="_blank" href="https://twitter.com/powers_hell">powers_hell</a></td>
 		<td>Melbourne Australia</td>
 		<td>41</td>
 		<td>53</td>
@@ -9877,7 +9878,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mukul Banga
 		</td>
 		<td>Backwings Studio </td>
-		<td><a href="https://twitter.com/mukul500">mukul500</a></td>
+		<td><a target="_blank" href="https://twitter.com/mukul500">mukul500</a></td>
 		<td>Melbourne Australia</td>
 		<td>53</td>
 		<td>53</td>
@@ -9905,7 +9906,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sven Dowideit
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SvenDowideit">SvenDowideit</a></td>
+		<td><a target="_blank" href="https://twitter.com/SvenDowideit">SvenDowideit</a></td>
 		<td>Brisbane QLD Australia</td>
 		<td>9</td>
 		<td>52</td>
@@ -9975,7 +9976,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Erika Duan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ErikaDuan">ErikaDuan</a></td>
+		<td><a target="_blank" href="https://twitter.com/ErikaDuan">ErikaDuan</a></td>
 		<td>Canberra Australia</td>
 		<td>48</td>
 		<td>48</td>
@@ -9989,7 +9990,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Torsten Seemann
 		</td>
 		<td>The University Of Melbourne<br/></td>
-		<td><a href="https://twitter.com/torstenseemann">torstenseemann</a></td>
+		<td><a target="_blank" href="https://twitter.com/torstenseemann">torstenseemann</a></td>
 		<td>Melbourne AUSTRALIA</td>
 		<td>46</td>
 		<td>47</td>
@@ -10031,7 +10032,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dmytro Danylyk
 		</td>
 		<td>Atlassian </td>
-		<td><a href="https://twitter.com/dmytrodanylyk">dmytrodanylyk</a></td>
+		<td><a target="_blank" href="https://twitter.com/dmytrodanylyk">dmytrodanylyk</a></td>
 		<td>Australia Sydney</td>
 		<td>5</td>
 		<td>46</td>
@@ -10073,7 +10074,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jason Watmore
 		</td>
 		<td>Point Blank Development </td>
-		<td><a href="https://twitter.com/jason_watmore">jason_watmore</a></td>
+		<td><a target="_blank" href="https://twitter.com/jason_watmore">jason_watmore</a></td>
 		<td>Sydney Australia</td>
 		<td>45</td>
 		<td>45</td>
@@ -10101,7 +10102,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			QuantPy
 		</td>
 		<td>Quantpy Pty Ltd </td>
-		<td><a href="https://twitter.com/TheQuantPy">TheQuantPy</a></td>
+		<td><a target="_blank" href="https://twitter.com/TheQuantPy">TheQuantPy</a></td>
 		<td>Brisbane Australia</td>
 		<td>44</td>
 		<td>44</td>
@@ -10129,7 +10130,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			   
 		</td>
 		<td>@dscogroup @resoundly </td>
-		<td><a href="https://twitter.com/mcnam_ee">mcnam_ee</a></td>
+		<td><a target="_blank" href="https://twitter.com/mcnam_ee">mcnam_ee</a></td>
 		<td>Australia</td>
 		<td>30</td>
 		<td>43</td>
@@ -10143,7 +10144,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Neil Saunders
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/neilfws">neilfws</a></td>
+		<td><a target="_blank" href="https://twitter.com/neilfws">neilfws</a></td>
 		<td>Sydney Australia</td>
 		<td>43</td>
 		<td>43</td>
@@ -10171,7 +10172,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Adam Rehn
 		</td>
 		<td>@tensorworks </td>
-		<td><a href="https://twitter.com/DrAdamRehn">DrAdamRehn</a></td>
+		<td><a target="_blank" href="https://twitter.com/DrAdamRehn">DrAdamRehn</a></td>
 		<td>Cairns QLD Australia</td>
 		<td>42</td>
 		<td>42</td>
@@ -10185,7 +10186,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Syed Umar Arfeen
 		</td>
 		<td>Ey </td>
-		<td><a href="https://twitter.com/syed__umar">syed__umar</a></td>
+		<td><a target="_blank" href="https://twitter.com/syed__umar">syed__umar</a></td>
 		<td>Melbourne Australia</td>
 		<td>41</td>
 		<td>41</td>
@@ -10241,7 +10242,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alister Scott
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/alisterbscott">alisterbscott</a></td>
+		<td><a target="_blank" href="https://twitter.com/alisterbscott">alisterbscott</a></td>
 		<td>Brisbane Australia</td>
 		<td>40</td>
 		<td>40</td>
@@ -10269,7 +10270,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Paul Stovell
 		</td>
 		<td>Octopus Deploy </td>
-		<td><a href="https://twitter.com/paulstovell">paulstovell</a></td>
+		<td><a target="_blank" href="https://twitter.com/paulstovell">paulstovell</a></td>
 		<td>Brisbane Australia</td>
 		<td>1</td>
 		<td>39</td>
@@ -10283,7 +10284,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jake Lin
 		</td>
 		<td>@realestatecomau  </td>
-		<td><a href="https://twitter.com/Jake_Lin">Jake_Lin</a></td>
+		<td><a target="_blank" href="https://twitter.com/Jake_Lin">Jake_Lin</a></td>
 		<td>Melbourne Australia</td>
 		<td>11</td>
 		<td>38</td>
@@ -10311,7 +10312,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ryan Kelly
 		</td>
 		<td>Harrisonai </td>
-		<td><a href="https://twitter.com/rfkelly">rfkelly</a></td>
+		<td><a target="_blank" href="https://twitter.com/rfkelly">rfkelly</a></td>
 		<td>near Melbourne Australia</td>
 		<td>38</td>
 		<td>38</td>
@@ -10325,7 +10326,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Tim Moore
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tmoore">tmoore</a></td>
+		<td><a target="_blank" href="https://twitter.com/tmoore">tmoore</a></td>
 		<td>Adelaide Australia</td>
 		<td>38</td>
 		<td>38</td>
@@ -10339,7 +10340,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ian Wienand
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iwienand">iwienand</a></td>
+		<td><a target="_blank" href="https://twitter.com/iwienand">iwienand</a></td>
 		<td>Melbourne Australia</td>
 		<td>38</td>
 		<td>38</td>
@@ -10381,7 +10382,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Greg Sherwood
 		</td>
 		<td>Squiz </td>
-		<td><a href="https://twitter.com/gregsherwood">gregsherwood</a></td>
+		<td><a target="_blank" href="https://twitter.com/gregsherwood">gregsherwood</a></td>
 		<td>Sydney Australia</td>
 		<td>37</td>
 		<td>37</td>
@@ -10409,7 +10410,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alexis Tyler
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/OmgImAlexis">OmgImAlexis</a></td>
+		<td><a target="_blank" href="https://twitter.com/OmgImAlexis">OmgImAlexis</a></td>
 		<td>Australia</td>
 		<td>25</td>
 		<td>36</td>
@@ -10423,7 +10424,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ilya Kuzovkin
 		</td>
 		<td>Offworld  University Of<br/>Tartu<br/></td>
-		<td><a href="https://twitter.com/IlyaKuzovkin">IlyaKuzovkin</a></td>
+		<td><a target="_blank" href="https://twitter.com/IlyaKuzovkin">IlyaKuzovkin</a></td>
 		<td>Sydney  Tartu  Pasadena</td>
 		<td>9</td>
 		<td>36</td>
@@ -10479,7 +10480,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			zoidsec
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/z0idsec">z0idsec</a></td>
+		<td><a target="_blank" href="https://twitter.com/z0idsec">z0idsec</a></td>
 		<td>Australia</td>
 		<td>35</td>
 		<td>35</td>
@@ -10493,7 +10494,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Paul Fenwick
 		</td>
 		<td>Perl Training Australia </td>
-		<td><a href="https://twitter.com/pjf">pjf</a></td>
+		<td><a target="_blank" href="https://twitter.com/pjf">pjf</a></td>
 		<td>Melbourne Australia</td>
 		<td>35</td>
 		<td>35</td>
@@ -10535,7 +10536,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David Neuzerling
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mdneuzerling">mdneuzerling</a></td>
+		<td><a target="_blank" href="https://twitter.com/mdneuzerling">mdneuzerling</a></td>
 		<td>Melbourne Australia</td>
 		<td>33</td>
 		<td>33</td>
@@ -10549,7 +10550,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Kevin Leung
 		</td>
 		<td>Wwwkevinresolcom </td>
-		<td><a href="https://twitter.com/kevinresol">kevinresol</a></td>
+		<td><a target="_blank" href="https://twitter.com/kevinresol">kevinresol</a></td>
 		<td>Sydney  Hong Kong</td>
 		<td>33</td>
 		<td>33</td>
@@ -10591,7 +10592,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Raathi Kugarajan
 		</td>
 		<td>@atlassian </td>
-		<td><a href="https://twitter.com/raathigesh">raathigesh</a></td>
+		<td><a target="_blank" href="https://twitter.com/raathigesh">raathigesh</a></td>
 		<td>Sydney Australia</td>
 		<td>0</td>
 		<td>31</td>
@@ -10661,7 +10662,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Steven Bird
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/stevenbird">stevenbird</a></td>
+		<td><a target="_blank" href="https://twitter.com/stevenbird">stevenbird</a></td>
 		<td>Darwin Australia</td>
 		<td>29</td>
 		<td>29</td>
@@ -10689,7 +10690,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Japh
 		</td>
 		<td>@pagely  </td>
-		<td><a href="https://twitter.com/Japh">Japh</a></td>
+		<td><a target="_blank" href="https://twitter.com/Japh">Japh</a></td>
 		<td>Australia</td>
 		<td>1</td>
 		<td>28</td>
@@ -10745,7 +10746,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Jason Zaugg
 		</td>
 		<td>Lightbend </td>
-		<td><a href="https://twitter.com/retronym">retronym</a></td>
+		<td><a target="_blank" href="https://twitter.com/retronym">retronym</a></td>
 		<td>Brisbane Australia</td>
 		<td>26</td>
 		<td>26</td>
@@ -10773,7 +10774,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Misha Moroshko
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/moroshko">moroshko</a></td>
+		<td><a target="_blank" href="https://twitter.com/moroshko">moroshko</a></td>
 		<td>Melbourne Australia</td>
 		<td>26</td>
 		<td>26</td>
@@ -10829,7 +10830,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Alex Ershov
 		</td>
 		<td>Fullstackcafe Mlstackcafe </td>
-		<td><a href="https://twitter.com/FullStack_Cafe">FullStack_Cafe</a></td>
+		<td><a target="_blank" href="https://twitter.com/FullStack_Cafe">FullStack_Cafe</a></td>
 		<td>Melbourne VIC</td>
 		<td>0</td>
 		<td>25</td>
@@ -10871,7 +10872,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Sridhar Katakam
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/srikat">srikat</a></td>
+		<td><a target="_blank" href="https://twitter.com/srikat">srikat</a></td>
 		<td>Melbourne Australia</td>
 		<td>23</td>
 		<td>23</td>
@@ -10899,7 +10900,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ciro Nunes
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/cironunesdev">cironunesdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/cironunesdev">cironunesdev</a></td>
 		<td>Sydney</td>
 		<td>22</td>
 		<td>22</td>
@@ -10941,7 +10942,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Johny Xu
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/flyingBird520">flyingBird520</a></td>
+		<td><a target="_blank" href="https://twitter.com/flyingBird520">flyingBird520</a></td>
 		<td>Melbourne</td>
 		<td>22</td>
 		<td>22</td>
@@ -10983,7 +10984,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rose ONeill
 		</td>
 		<td>Ready Set Ez Games<br/></td>
-		<td><a href="https://twitter.com/risetothetop211">risetothetop211</a></td>
+		<td><a target="_blank" href="https://twitter.com/risetothetop211">risetothetop211</a></td>
 		<td>Australia</td>
 		<td>8</td>
 		<td>20</td>
@@ -10997,7 +10998,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rahul Nath
 		</td>
 		<td>Oztix </td>
-		<td><a href="https://twitter.com/rahulpnath">rahulpnath</a></td>
+		<td><a target="_blank" href="https://twitter.com/rahulpnath">rahulpnath</a></td>
 		<td>Brisbane</td>
 		<td>20</td>
 		<td>20</td>
@@ -11025,7 +11026,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brodie Robertson
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BrodieOnLinux">BrodieOnLinux</a></td>
+		<td><a target="_blank" href="https://twitter.com/BrodieOnLinux">BrodieOnLinux</a></td>
 		<td>South Australia</td>
 		<td>19</td>
 		<td>19</td>
@@ -11137,7 +11138,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			CSto
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/c__sto">c__sto</a></td>
+		<td><a target="_blank" href="https://twitter.com/c__sto">c__sto</a></td>
 		<td>Perth WA</td>
 		<td>17</td>
 		<td>17</td>
@@ -11207,7 +11208,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			LK
 		</td>
 		<td>@eyejackapp </td>
-		<td><a href="https://twitter.com/julapy">julapy</a></td>
+		<td><a target="_blank" href="https://twitter.com/julapy">julapy</a></td>
 		<td>Sydney Australia</td>
 		<td>16</td>
 		<td>16</td>
@@ -11291,7 +11292,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aleksei Dolgikh @alexdolbun CVO
 		</td>
 		<td>Httpsunicornwitnesse </td>
-		<td><a href="https://twitter.com/alexdolbun">alexdolbun</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexdolbun">alexdolbun</a></td>
 		<td>Worldwide Europe Asia America Africa Australia USA</td>
 		<td>14</td>
 		<td>15</td>
@@ -11445,7 +11446,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mikel Lindsaar
 		</td>
 		<td>Reinteractive Storeconnect Metapulse </td>
-		<td><a href="https://twitter.com/lindsaar">lindsaar</a></td>
+		<td><a target="_blank" href="https://twitter.com/lindsaar">lindsaar</a></td>
 		<td>Sydney Australia</td>
 		<td>13</td>
 		<td>13</td>
@@ -11459,7 +11460,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			David Summers
 		</td>
 		<td>Data3 </td>
-		<td><a href="https://twitter.com/xeeva_d3">xeeva_d3</a></td>
+		<td><a target="_blank" href="https://twitter.com/xeeva_d3">xeeva_d3</a></td>
 		<td>Brisbane Australia</td>
 		<td>5</td>
 		<td>12</td>
@@ -11487,7 +11488,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			mattnotmax
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mattnotmax">mattnotmax</a></td>
+		<td><a target="_blank" href="https://twitter.com/mattnotmax">mattnotmax</a></td>
 		<td>Melbourne Australia</td>
 		<td>7</td>
 		<td>11</td>
@@ -11501,7 +11502,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			John Clema
 		</td>
 		<td>University Of Western Australia<br/></td>
-		<td><a href="https://twitter.com/JohnClema">JohnClema</a></td>
+		<td><a target="_blank" href="https://twitter.com/JohnClema">JohnClema</a></td>
 		<td>Perth Western Australia</td>
 		<td>3</td>
 		<td>11</td>
@@ -11529,7 +11530,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Danny Ma
 		</td>
 		<td>Data With Danny </td>
-		<td><a href="https://twitter.com/DataWithDanny">DataWithDanny</a></td>
+		<td><a target="_blank" href="https://twitter.com/DataWithDanny">DataWithDanny</a></td>
 		<td>Sydney Australia</td>
 		<td>10</td>
 		<td>10</td>
@@ -11585,7 +11586,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Faith
 		</td>
 		<td>Zellic </td>
-		<td><a href="https://twitter.com/farazsth98">farazsth98</a></td>
+		<td><a target="_blank" href="https://twitter.com/farazsth98">farazsth98</a></td>
 		<td>Perth WA</td>
 		<td>10</td>
 		<td>10</td>
@@ -11599,7 +11600,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Queensferry
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/queensferryme">queensferryme</a></td>
+		<td><a target="_blank" href="https://twitter.com/queensferryme">queensferryme</a></td>
 		<td>Canberra Australia</td>
 		<td>10</td>
 		<td>10</td>
@@ -11627,7 +11628,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Rob Skillington
 		</td>
 		<td>@chronosphereio </td>
-		<td><a href="https://twitter.com/roskilli">roskilli</a></td>
+		<td><a target="_blank" href="https://twitter.com/roskilli">roskilli</a></td>
 		<td>New York USA  Melbourne Australia</td>
 		<td>10</td>
 		<td>10</td>
@@ -11641,7 +11642,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Gary Pendergast
 		</td>
 		<td>@automattic </td>
-		<td><a href="https://twitter.com/GaryPendergast">GaryPendergast</a></td>
+		<td><a target="_blank" href="https://twitter.com/GaryPendergast">GaryPendergast</a></td>
 		<td>Melbourne Australia</td>
 		<td>9</td>
 		<td>9</td>
@@ -11683,7 +11684,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			pathtofile
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pathtofile">pathtofile</a></td>
+		<td><a target="_blank" href="https://twitter.com/pathtofile">pathtofile</a></td>
 		<td>Australia</td>
 		<td>5</td>
 		<td>9</td>
@@ -11753,7 +11754,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Dr Zekrifa Djabeur Mohamed Seifeddine
 		</td>
 		<td>Ibm </td>
-		<td><a href="https://twitter.com/DjabeurDr">DjabeurDr</a></td>
+		<td><a target="_blank" href="https://twitter.com/DjabeurDr">DjabeurDr</a></td>
 		<td>Australia</td>
 		<td>7</td>
 		<td>7</td>
@@ -11767,7 +11768,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Aekr1         akrasia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/aekrs1">aekrs1</a></td>
+		<td><a target="_blank" href="https://twitter.com/aekrs1">aekrs1</a></td>
 		<td>127001Australia</td>
 		<td>7</td>
 		<td>7</td>
@@ -11823,7 +11824,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Brendan Richards
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/brenwritescode">brenwritescode</a></td>
+		<td><a target="_blank" href="https://twitter.com/brenwritescode">brenwritescode</a></td>
 		<td>Brisbane Australia</td>
 		<td>7</td>
 		<td>7</td>
@@ -11865,7 +11866,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Pybites
 		</td>
 		<td>Pybites </td>
-		<td><a href="https://twitter.com/pybites">pybites</a></td>
+		<td><a target="_blank" href="https://twitter.com/pybites">pybites</a></td>
 		<td>Spain  Australia</td>
 		<td>6</td>
 		<td>6</td>
@@ -12005,7 +12006,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Ryan Narayan Dhungel
 		</td>
 		<td>Kaloraat </td>
-		<td><a href="https://twitter.com/kaloraat">kaloraat</a></td>
+		<td><a target="_blank" href="https://twitter.com/kaloraat">kaloraat</a></td>
 		<td>Sydney Australia</td>
 		<td>4</td>
 		<td>4</td>
@@ -12033,7 +12034,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Nader Shalabi
 		</td>
 		<td>Nosecurecodecom </td>
-		<td><a href="https://twitter.com/nader_shalabi">nader_shalabi</a></td>
+		<td><a target="_blank" href="https://twitter.com/nader_shalabi">nader_shalabi</a></td>
 		<td>Australia</td>
 		<td>4</td>
 		<td>4</td>
@@ -12061,7 +12062,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>@pihole  </td>
-		<td><a href="https://twitter.com/WaLLy3K">WaLLy3K</a></td>
+		<td><a target="_blank" href="https://twitter.com/WaLLy3K">WaLLy3K</a></td>
 		<td>Australia</td>
 		<td>4</td>
 		<td>4</td>
@@ -12103,7 +12104,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			James RossGowan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rrossyyy">rrossyyy</a></td>
+		<td><a target="_blank" href="https://twitter.com/rrossyyy">rrossyyy</a></td>
 		<td>Australia</td>
 		<td>4</td>
 		<td>4</td>
@@ -12145,7 +12146,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Mugunth Kumar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mugunthkumar">mugunthkumar</a></td>
+		<td><a target="_blank" href="https://twitter.com/mugunthkumar">mugunthkumar</a></td>
 		<td>Melbourne Australia</td>
 		<td>3</td>
 		<td>3</td>
@@ -12187,7 +12188,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Justin French
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/justinfrench">justinfrench</a></td>
+		<td><a target="_blank" href="https://twitter.com/justinfrench">justinfrench</a></td>
 		<td>Melbourne Australia</td>
 		<td>3</td>
 		<td>3</td>
@@ -12257,7 +12258,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			vortex James McLean
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vortexau">vortexau</a></td>
+		<td><a target="_blank" href="https://twitter.com/vortexau">vortexau</a></td>
 		<td>Australia</td>
 		<td>3</td>
 		<td>3</td>
@@ -12313,7 +12314,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			No Name
 		</td>
 		<td>Zelus Analytics </td>
-		<td><a href="https://twitter.com/StatsOnTheT">StatsOnTheT</a></td>
+		<td><a target="_blank" href="https://twitter.com/StatsOnTheT">StatsOnTheT</a></td>
 		<td>Melbourne Australia</td>
 		<td>3</td>
 		<td>3</td>
@@ -12327,7 +12328,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Joshua Hibbert
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_joshnh">_joshnh</a></td>
+		<td><a target="_blank" href="https://twitter.com/_joshnh">_joshnh</a></td>
 		<td>Australia</td>
 		<td>2</td>
 		<td>2</td>
@@ -12355,7 +12356,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			tommycarlos williams
 		</td>
 		<td>@adobe </td>
-		<td><a href="https://twitter.com/theRealDevgeeks">theRealDevgeeks</a></td>
+		<td><a target="_blank" href="https://twitter.com/theRealDevgeeks">theRealDevgeeks</a></td>
 		<td>Melbourne Australia</td>
 		<td>2</td>
 		<td>2</td>
@@ -12495,7 +12496,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			LouFlan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lou_flan">lou_flan</a></td>
+		<td><a target="_blank" href="https://twitter.com/lou_flan">lou_flan</a></td>
 		<td>Sydney</td>
 		<td>2</td>
 		<td>2</td>
@@ -12551,7 +12552,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Amy Simmons
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/amesimmons">amesimmons</a></td>
+		<td><a target="_blank" href="https://twitter.com/amesimmons">amesimmons</a></td>
 		<td>Sydney</td>
 		<td>1</td>
 		<td>1</td>
@@ -12621,7 +12622,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			Flora
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/flora_codes">flora_codes</a></td>
+		<td><a target="_blank" href="https://twitter.com/flora_codes">flora_codes</a></td>
 		<td>Sydney Australia</td>
 		<td>0</td>
 		<td>1</td>
@@ -12635,7 +12636,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			dan 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/danblockades">danblockades</a></td>
+		<td><a target="_blank" href="https://twitter.com/danblockades">danblockades</a></td>
 		<td>Melbourne AUS London UK Berlin DE</td>
 		<td>1</td>
 		<td>1</td>
@@ -12699,7 +12700,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Australia&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total_contributions/australia.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -12751,6 +12752,7 @@ There are `965 users`  in Australia. You need at least `116 followers` to be on 
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)

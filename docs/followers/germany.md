@@ -1,9 +1,10 @@
 ---
-title: Germany 
-description: Top GitHub Users By Followers in Germany 
+title: Germany
+description: Top GitHub Users By Followers in Germany
 ---
 
 # Top GitHub Users By Followers in Germany [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
 [![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
 
 <a href="https://top-github-users.eplus.dev">
@@ -14,7 +15,7 @@ The `number of followers` of users in Germany on `2024/1/31 2:58 PM UTC`. This l
 
 There are `28 countries` and `193 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `940 users`  in Germany. You need at least `273 followers` to be on this list.
+There are `940 users` in Germany. You need at least `273 followers` to be on this list.
 
 <table>
 	<tr>
@@ -53,7 +54,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Germany&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/germany.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Germany&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/germany.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -118,7 +119,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastin Ramrez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tiangolo">tiangolo</a></td>
+		<td><a target="_blank" href="https://twitter.com/tiangolo">tiangolo</a></td>
 		<td>Berlin Germany</td>
 		<td>22554</td>
 	</tr>
@@ -131,7 +132,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Scott Chacon
 		</td>
 		<td>@gitbutlerapp  </td>
-		<td><a href="https://twitter.com/chacon">chacon</a></td>
+		<td><a target="_blank" href="https://twitter.com/chacon">chacon</a></td>
 		<td>Berlin Germany</td>
 		<td>13112</td>
 	</tr>
@@ -170,7 +171,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Robin Wieruch
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rwieruch">rwieruch</a></td>
+		<td><a target="_blank" href="https://twitter.com/rwieruch">rwieruch</a></td>
 		<td>BerlinRemote</td>
 		<td>8292</td>
 	</tr>
@@ -196,7 +197,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Lempa
 		</td>
 		<td>Cl Creative </td>
-		<td><a href="https://twitter.com/christianlempa">christianlempa</a></td>
+		<td><a target="_blank" href="https://twitter.com/christianlempa">christianlempa</a></td>
 		<td>Germany</td>
 		<td>7077</td>
 	</tr>
@@ -222,7 +223,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Fernando Cejas
 		</td>
 		<td>@pepprio  </td>
-		<td><a href="https://twitter.com/fernando_cejas">fernando_cejas</a></td>
+		<td><a target="_blank" href="https://twitter.com/fernando_cejas">fernando_cejas</a></td>
 		<td>Berlin Germany</td>
 		<td>6621</td>
 	</tr>
@@ -261,7 +262,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marijn Haverbeke
 		</td>
 		<td>Not Interested In Recruiter<br/>Mail<br/></td>
-		<td><a href="https://twitter.com/marijnjh">marijnjh</a></td>
+		<td><a target="_blank" href="https://twitter.com/marijnjh">marijnjh</a></td>
 		<td>Berlin</td>
 		<td>6062</td>
 	</tr>
@@ -274,7 +275,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nikita Popov
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/nikita_ppv">nikita_ppv</a></td>
+		<td><a target="_blank" href="https://twitter.com/nikita_ppv">nikita_ppv</a></td>
 		<td>Berlin Germany</td>
 		<td>6049</td>
 	</tr>
@@ -300,7 +301,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shu Ding
 		</td>
 		<td>@vercel </td>
-		<td><a href="https://twitter.com/shuding_">shuding_</a></td>
+		<td><a target="_blank" href="https://twitter.com/shuding_">shuding_</a></td>
 		<td>Berlin</td>
 		<td>5823</td>
 	</tr>
@@ -313,7 +314,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Markus Junginger
 		</td>
 		<td>@objectbox </td>
-		<td><a href="https://twitter.com/greenrobot_de">greenrobot_de</a></td>
+		<td><a target="_blank" href="https://twitter.com/greenrobot_de">greenrobot_de</a></td>
 		<td>Berlin</td>
 		<td>5476</td>
 	</tr>
@@ -326,7 +327,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Ruder
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/seb_ruder">seb_ruder</a></td>
+		<td><a target="_blank" href="https://twitter.com/seb_ruder">seb_ruder</a></td>
 		<td>Berlin Germany</td>
 		<td>5372</td>
 	</tr>
@@ -352,7 +353,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Anjana Sofia Vakil
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AnjanaVakil">AnjanaVakil</a></td>
+		<td><a target="_blank" href="https://twitter.com/AnjanaVakil">AnjanaVakil</a></td>
 		<td>San Francisco  Berlin</td>
 		<td>5111</td>
 	</tr>
@@ -365,7 +366,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Fey
 		</td>
 		<td>Kumoai </td>
-		<td><a href="https://twitter.com/rusty1s">rusty1s</a></td>
+		<td><a target="_blank" href="https://twitter.com/rusty1s">rusty1s</a></td>
 		<td>Dortmund Germany</td>
 		<td>4739</td>
 	</tr>
@@ -378,7 +379,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alexey
 		</td>
 		<td>Ex Intel </td>
-		<td><a href="https://twitter.com/alexeyab84">alexeyab84</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexeyab84">alexeyab84</a></td>
 		<td>Germany Munich</td>
 		<td>4697</td>
 	</tr>
@@ -391,7 +392,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nikita Prokopov
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nikitonsky">nikitonsky</a></td>
+		<td><a target="_blank" href="https://twitter.com/nikitonsky">nikitonsky</a></td>
 		<td>Berlin Germany</td>
 		<td>4585</td>
 	</tr>
@@ -404,7 +405,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Milke
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JohannesMilke">JohannesMilke</a></td>
+		<td><a target="_blank" href="https://twitter.com/JohannesMilke">JohannesMilke</a></td>
 		<td>Germany  Kassel</td>
 		<td>4540</td>
 	</tr>
@@ -417,7 +418,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Changkun Ou
 		</td>
 		<td>Researcher @mimuc And Engineer<br/>@sixt<br/></td>
-		<td><a href="https://twitter.com/ouchangkun">ouchangkun</a></td>
+		<td><a target="_blank" href="https://twitter.com/ouchangkun">ouchangkun</a></td>
 		<td>Munich Germany</td>
 		<td>4479</td>
 	</tr>
@@ -430,7 +431,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Timur Shemsedinov
 		</td>
 		<td>Coowner At Cypherband Architect<br/>At<br/>Metarhia<br/>Lecturer<br/>At<br/>Kpi<br/></td>
-		<td><a href="https://twitter.com/tshemsedinov">tshemsedinov</a></td>
+		<td><a target="_blank" href="https://twitter.com/tshemsedinov">tshemsedinov</a></td>
 		<td>Earth Europe Ukraine USA Spain Germany Italy China Kiev Kyiv</td>
 		<td>4428</td>
 	</tr>
@@ -443,7 +444,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sara Vieira
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/NikkitaFTW">NikkitaFTW</a></td>
+		<td><a target="_blank" href="https://twitter.com/NikkitaFTW">NikkitaFTW</a></td>
 		<td>Germany</td>
 		<td>4071</td>
 	</tr>
@@ -456,7 +457,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Felix Geisendrfer
 		</td>
 		<td>Datadog </td>
-		<td><a href="https://twitter.com/felixge">felixge</a></td>
+		<td><a target="_blank" href="https://twitter.com/felixge">felixge</a></td>
 		<td>Berlin Germany</td>
 		<td>3891</td>
 	</tr>
@@ -482,7 +483,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Han Xiao
 		</td>
 		<td>@jinaai </td>
-		<td><a href="https://twitter.com/hxiao">hxiao</a></td>
+		<td><a target="_blank" href="https://twitter.com/hxiao">hxiao</a></td>
 		<td>Berlin Germany</td>
 		<td>3716</td>
 	</tr>
@@ -495,7 +496,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ines Montani
 		</td>
 		<td>Founder @explosion  </td>
-		<td><a href="https://twitter.com/_inesmontani">_inesmontani</a></td>
+		<td><a target="_blank" href="https://twitter.com/_inesmontani">_inesmontani</a></td>
 		<td>Berlin Germany</td>
 		<td>3697</td>
 	</tr>
@@ -534,7 +535,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ben Weiss
 		</td>
 		<td>@google  </td>
-		<td><a href="https://twitter.com/keyboardsurfer">keyboardsurfer</a></td>
+		<td><a target="_blank" href="https://twitter.com/keyboardsurfer">keyboardsurfer</a></td>
 		<td>Bavaria Germany</td>
 		<td>3455</td>
 	</tr>
@@ -547,7 +548,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Oliver Drotbohm
 		</td>
 		<td>Vmware </td>
-		<td><a href="https://twitter.com/odrotbohm">odrotbohm</a></td>
+		<td><a target="_blank" href="https://twitter.com/odrotbohm">odrotbohm</a></td>
 		<td>Dresden Germany</td>
 		<td>3450</td>
 	</tr>
@@ -560,7 +561,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shelley Vohr
 		</td>
 		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/codebytere">codebytere</a></td>
+		<td><a target="_blank" href="https://twitter.com/codebytere">codebytere</a></td>
 		<td>Berlin</td>
 		<td>3356</td>
 	</tr>
@@ -573,7 +574,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Joscha Neske
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/joshtriedcoding">joshtriedcoding</a></td>
+		<td><a target="_blank" href="https://twitter.com/joshtriedcoding">joshtriedcoding</a></td>
 		<td>Germany</td>
 		<td>3340</td>
 	</tr>
@@ -586,7 +587,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alexey Grigorev
 		</td>
 		<td>Olx Group </td>
-		<td><a href="https://twitter.com/Al_Grigor">Al_Grigor</a></td>
+		<td><a target="_blank" href="https://twitter.com/Al_Grigor">Al_Grigor</a></td>
 		<td>Berlin Germany</td>
 		<td>3314</td>
 	</tr>
@@ -638,7 +639,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kitty Giraudel
 		</td>
 		<td>Cofenster </td>
-		<td><a href="https://twitter.com/KittyGiraudel">KittyGiraudel</a></td>
+		<td><a target="_blank" href="https://twitter.com/KittyGiraudel">KittyGiraudel</a></td>
 		<td>Berlin</td>
 		<td>2953</td>
 	</tr>
@@ -651,7 +652,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Norman Maurer
 		</td>
 		<td>@apple @netty </td>
-		<td><a href="https://twitter.com/normanmaurer">normanmaurer</a></td>
+		<td><a target="_blank" href="https://twitter.com/normanmaurer">normanmaurer</a></td>
 		<td>Germany</td>
 		<td>2856</td>
 	</tr>
@@ -664,7 +665,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			van Hauser
 		</td>
 		<td>The Hackers Choice <br/>Mhsec<br/><br/>Me<br/><br/>Myself<br/></td>
-		<td><a href="https://twitter.com/hackerschoice">hackerschoice</a></td>
+		<td><a target="_blank" href="https://twitter.com/hackerschoice">hackerschoice</a></td>
 		<td>Berlin</td>
 		<td>2814</td>
 	</tr>
@@ -690,7 +691,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Arman Kolahan
 		</td>
 		<td>Unite </td>
-		<td><a href="https://twitter.com/armancodv">armancodv</a></td>
+		<td><a target="_blank" href="https://twitter.com/armancodv">armancodv</a></td>
 		<td>Berlin Germany</td>
 		<td>2791</td>
 	</tr>
@@ -703,7 +704,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Heilmann
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/codepo8">codepo8</a></td>
+		<td><a target="_blank" href="https://twitter.com/codepo8">codepo8</a></td>
 		<td>Berlin Germany</td>
 		<td>2672</td>
 	</tr>
@@ -742,7 +743,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jannis Leidel
 		</td>
 		<td>@anaconda </td>
-		<td><a href="https://twitter.com/jezdez">jezdez</a></td>
+		<td><a target="_blank" href="https://twitter.com/jezdez">jezdez</a></td>
 		<td> Germany</td>
 		<td>2556</td>
 	</tr>
@@ -755,7 +756,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thorsten Lnborg
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Linus_borg">Linus_borg</a></td>
+		<td><a target="_blank" href="https://twitter.com/Linus_borg">Linus_borg</a></td>
 		<td>Mannheim Germany</td>
 		<td>2488</td>
 	</tr>
@@ -781,7 +782,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dmitry Vyukov
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/dvyukov">dvyukov</a></td>
+		<td><a target="_blank" href="https://twitter.com/dvyukov">dvyukov</a></td>
 		<td>Munich</td>
 		<td>2437</td>
 	</tr>
@@ -794,7 +795,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Niels Lohmann
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nlohmann">nlohmann</a></td>
+		<td><a target="_blank" href="https://twitter.com/nlohmann">nlohmann</a></td>
 		<td>Berlin Germany</td>
 		<td>2435</td>
 	</tr>
@@ -807,7 +808,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dmitry Jemerov
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/intelliyole">intelliyole</a></td>
+		<td><a target="_blank" href="https://twitter.com/intelliyole">intelliyole</a></td>
 		<td>Munich Germany</td>
 		<td>2416</td>
 	</tr>
@@ -833,7 +834,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Phan An
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/notphanan">notphanan</a></td>
+		<td><a target="_blank" href="https://twitter.com/notphanan">notphanan</a></td>
 		<td>Munich</td>
 		<td>2350</td>
 	</tr>
@@ -859,7 +860,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vadim Makeev
 		</td>
 		<td>@webstandardsru </td>
-		<td><a href="https://twitter.com/pepelsbey_dev">pepelsbey_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/pepelsbey_dev">pepelsbey_dev</a></td>
 		<td>Berlin Germany</td>
 		<td>2317</td>
 	</tr>
@@ -872,7 +873,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Richard McElreath
 		</td>
 		<td>Max Planck Institute For<br/>Evolutionary<br/>Anthropology<br/></td>
-		<td><a href="https://twitter.com/rlmcelreath">rlmcelreath</a></td>
+		<td><a target="_blank" href="https://twitter.com/rlmcelreath">rlmcelreath</a></td>
 		<td>Leipzig Germany</td>
 		<td>2277</td>
 	</tr>
@@ -885,7 +886,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nico Schlmer
 		</td>
 		<td>Monday Tech </td>
-		<td><a href="https://twitter.com/nschloe">nschloe</a></td>
+		<td><a target="_blank" href="https://twitter.com/nschloe">nschloe</a></td>
 		<td>Berlin Germany</td>
 		<td>2234</td>
 	</tr>
@@ -898,7 +899,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lennart
 		</td>
 		<td>@clerk </td>
-		<td><a href="https://twitter.com/lekoarts_de">lekoarts_de</a></td>
+		<td><a target="_blank" href="https://twitter.com/lekoarts_de">lekoarts_de</a></td>
 		<td>Germany</td>
 		<td>2185</td>
 	</tr>
@@ -911,7 +912,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Hors
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/horsicq">horsicq</a></td>
+		<td><a target="_blank" href="https://twitter.com/horsicq">horsicq</a></td>
 		<td>Germany</td>
 		<td>2164</td>
 	</tr>
@@ -924,7 +925,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tyler Neely
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sadisticsystems">sadisticsystems</a></td>
+		<td><a target="_blank" href="https://twitter.com/sadisticsystems">sadisticsystems</a></td>
 		<td>Berlin</td>
 		<td>2163</td>
 	</tr>
@@ -963,7 +964,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andre Weissflog
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/FlohOfWoe">FlohOfWoe</a></td>
+		<td><a target="_blank" href="https://twitter.com/FlohOfWoe">FlohOfWoe</a></td>
 		<td>Berlin</td>
 		<td>2134</td>
 	</tr>
@@ -989,7 +990,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andrea Giammarchi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/WebReflection">WebReflection</a></td>
+		<td><a target="_blank" href="https://twitter.com/WebReflection">WebReflection</a></td>
 		<td>Berlin</td>
 		<td>2069</td>
 	</tr>
@@ -1002,7 +1003,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tim Gromann
 		</td>
 		<td>Founder Of Explo </td>
-		<td><a href="https://twitter.com/timigrossmann">timigrossmann</a></td>
+		<td><a target="_blank" href="https://twitter.com/timigrossmann">timigrossmann</a></td>
 		<td>Kiel Germany</td>
 		<td>2051</td>
 	</tr>
@@ -1015,7 +1016,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Robb Bhnke
 		</td>
 		<td>@movingpartsio  </td>
-		<td><a href="https://twitter.com/DLX">DLX</a></td>
+		<td><a target="_blank" href="https://twitter.com/DLX">DLX</a></td>
 		<td>Berlin</td>
 		<td>2030</td>
 	</tr>
@@ -1028,7 +1029,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marin Todorov
 		</td>
 		<td>Underplot Ltd </td>
-		<td><a href="https://twitter.com/icanzilb">icanzilb</a></td>
+		<td><a target="_blank" href="https://twitter.com/icanzilb">icanzilb</a></td>
 		<td>Munich</td>
 		<td>2015</td>
 	</tr>
@@ -1054,7 +1055,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			ligi
 		</td>
 		<td>@ethereum  </td>
-		<td><a href="https://twitter.com/mr_ligi">mr_ligi</a></td>
+		<td><a target="_blank" href="https://twitter.com/mr_ligi">mr_ligi</a></td>
 		<td>Berlin Earth Milkiway</td>
 		<td>1985</td>
 	</tr>
@@ -1093,7 +1094,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Serge Zaitsev
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zsergo">zsergo</a></td>
+		<td><a target="_blank" href="https://twitter.com/zsergo">zsergo</a></td>
 		<td>Mnchen Germany</td>
 		<td>1898</td>
 	</tr>
@@ -1132,7 +1133,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthew Honnibal
 		</td>
 		<td>Founder @explosion  </td>
-		<td><a href="https://twitter.com/honnibal">honnibal</a></td>
+		<td><a target="_blank" href="https://twitter.com/honnibal">honnibal</a></td>
 		<td>Berlin</td>
 		<td>1848</td>
 	</tr>
@@ -1145,7 +1146,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jan Lehnardt
 		</td>
 		<td>Neighbourhoodie Software </td>
-		<td><a href="https://twitter.com/janl">janl</a></td>
+		<td><a target="_blank" href="https://twitter.com/janl">janl</a></td>
 		<td>Berlin Germany</td>
 		<td>1836</td>
 	</tr>
@@ -1158,7 +1159,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Schickling
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/schickling">schickling</a></td>
+		<td><a target="_blank" href="https://twitter.com/schickling">schickling</a></td>
 		<td>Berlin</td>
 		<td>1808</td>
 	</tr>
@@ -1171,7 +1172,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Fabian Vogelsteller
 		</td>
 		<td>Lukso </td>
-		<td><a href="https://twitter.com/feindura">feindura</a></td>
+		<td><a target="_blank" href="https://twitter.com/feindura">feindura</a></td>
 		<td>Berlin Germany</td>
 		<td>1803</td>
 	</tr>
@@ -1197,7 +1198,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			srrrse
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/withoutboats">withoutboats</a></td>
+		<td><a target="_blank" href="https://twitter.com/withoutboats">withoutboats</a></td>
 		<td>Berlin</td>
 		<td>1738</td>
 	</tr>
@@ -1210,7 +1211,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thorsten Ball
 		</td>
 		<td>@sourcegraph  </td>
-		<td><a href="https://twitter.com/thorstenball">thorstenball</a></td>
+		<td><a target="_blank" href="https://twitter.com/thorstenball">thorstenball</a></td>
 		<td>Bavaria Germany</td>
 		<td>1737</td>
 	</tr>
@@ -1223,7 +1224,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nicole Wolf
 		</td>
 		<td>@8mylez  </td>
-		<td><a href="https://twitter.com/joeel56">joeel56</a></td>
+		<td><a target="_blank" href="https://twitter.com/joeel56">joeel56</a></td>
 		<td>Germany</td>
 		<td>1725</td>
 	</tr>
@@ -1249,7 +1250,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Cdric Scherer
 		</td>
 		<td>Independent Contractor </td>
-		<td><a href="https://twitter.com/CedScherer">CedScherer</a></td>
+		<td><a target="_blank" href="https://twitter.com/CedScherer">CedScherer</a></td>
 		<td>Berlin</td>
 		<td>1678</td>
 	</tr>
@@ -1262,7 +1263,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Benjamin Eberlei
 		</td>
 		<td>Tideways Gmbh </td>
-		<td><a href="https://twitter.com/beberlei">beberlei</a></td>
+		<td><a target="_blank" href="https://twitter.com/beberlei">beberlei</a></td>
 		<td>Germany</td>
 		<td>1678</td>
 	</tr>
@@ -1275,7 +1276,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sascha Willems
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SaschaWillems2">SaschaWillems2</a></td>
+		<td><a target="_blank" href="https://twitter.com/SaschaWillems2">SaschaWillems2</a></td>
 		<td>Germany</td>
 		<td>1674</td>
 	</tr>
@@ -1301,7 +1302,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Leo Lamprecht
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/notquiteleo">notquiteleo</a></td>
+		<td><a target="_blank" href="https://twitter.com/notquiteleo">notquiteleo</a></td>
 		<td>Berlin</td>
 		<td>1667</td>
 	</tr>
@@ -1340,7 +1341,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dominik Honnef
 		</td>
 		<td>Opensource Developer </td>
-		<td><a href="https://twitter.com/dominikhonnef">dominikhonnef</a></td>
+		<td><a target="_blank" href="https://twitter.com/dominikhonnef">dominikhonnef</a></td>
 		<td>Germany</td>
 		<td>1629</td>
 	</tr>
@@ -1353,7 +1354,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Urhahn
 		</td>
 		<td>@d4rkenorg  </td>
-		<td><a href="https://twitter.com/d4rken">d4rken</a></td>
+		<td><a target="_blank" href="https://twitter.com/d4rken">d4rken</a></td>
 		<td>Germany</td>
 		<td>1605</td>
 	</tr>
@@ -1366,7 +1367,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Julian Gruber
 		</td>
 		<td>@protocol </td>
-		<td><a href="https://twitter.com/juliangruber">juliangruber</a></td>
+		<td><a target="_blank" href="https://twitter.com/juliangruber">juliangruber</a></td>
 		<td>Kaufbeuren Germany</td>
 		<td>1581</td>
 	</tr>
@@ -1379,7 +1380,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vasily Zubarev
 		</td>
 		<td>@paritytech </td>
-		<td><a href="https://twitter.com/vas3k">vas3k</a></td>
+		<td><a target="_blank" href="https://twitter.com/vas3k">vas3k</a></td>
 		<td>Berlin Germany</td>
 		<td>1566</td>
 	</tr>
@@ -1392,7 +1393,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Endler
 		</td>
 		<td>@corrode </td>
-		<td><a href="https://twitter.com/matthiasendler">matthiasendler</a></td>
+		<td><a target="_blank" href="https://twitter.com/matthiasendler">matthiasendler</a></td>
 		<td>Dsseldorf Germany</td>
 		<td>1564</td>
 	</tr>
@@ -1431,7 +1432,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Martin Kleppe
 		</td>
 		<td>Ubilabs </td>
-		<td><a href="https://twitter.com/aemkei">aemkei</a></td>
+		<td><a target="_blank" href="https://twitter.com/aemkei">aemkei</a></td>
 		<td>Hamburg Germany</td>
 		<td>1486</td>
 	</tr>
@@ -1444,7 +1445,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Linus Henze
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LinusHenze">LinusHenze</a></td>
+		<td><a target="_blank" href="https://twitter.com/LinusHenze">LinusHenze</a></td>
 		<td>Germany</td>
 		<td>1471</td>
 	</tr>
@@ -1457,7 +1458,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Santosh Yadav
 		</td>
 		<td>Senior Software Engineer @celonis<br/></td>
-		<td><a href="https://twitter.com/SantoshYadavDev">SantoshYadavDev</a></td>
+		<td><a target="_blank" href="https://twitter.com/SantoshYadavDev">SantoshYadavDev</a></td>
 		<td>Germany</td>
 		<td>1467</td>
 	</tr>
@@ -1470,7 +1471,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Benedikt Meurer
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/bmeurer">bmeurer</a></td>
+		<td><a target="_blank" href="https://twitter.com/bmeurer">bmeurer</a></td>
 		<td>Munich</td>
 		<td>1466</td>
 	</tr>
@@ -1496,7 +1497,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonas Staudenmeir
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/staudenmeir">staudenmeir</a></td>
+		<td><a target="_blank" href="https://twitter.com/staudenmeir">staudenmeir</a></td>
 		<td>Munich Germany</td>
 		<td>1451</td>
 	</tr>
@@ -1522,7 +1523,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Henning Dieterichs
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hediet_dev">hediet_dev</a></td>
+		<td><a target="_blank" href="https://twitter.com/hediet_dev">hediet_dev</a></td>
 		<td>Germany</td>
 		<td>1437</td>
 	</tr>
@@ -1535,7 +1536,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Max Schmitt
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/mx_schmitt">mx_schmitt</a></td>
+		<td><a target="_blank" href="https://twitter.com/mx_schmitt">mx_schmitt</a></td>
 		<td>Germany Berlin</td>
 		<td>1432</td>
 	</tr>
@@ -1548,7 +1549,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Indrajeet Patil
 		</td>
 		<td>Preisenergie </td>
-		<td><a href="https://twitter.com/patilindrajeets">patilindrajeets</a></td>
+		<td><a target="_blank" href="https://twitter.com/patilindrajeets">patilindrajeets</a></td>
 		<td>Munich</td>
 		<td>1429</td>
 	</tr>
@@ -1561,7 +1562,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Gunnar Morling
 		</td>
 		<td>@decodableco  </td>
-		<td><a href="https://twitter.com/gunnarmorling">gunnarmorling</a></td>
+		<td><a target="_blank" href="https://twitter.com/gunnarmorling">gunnarmorling</a></td>
 		<td>Hamburg Germany</td>
 		<td>1424</td>
 	</tr>
@@ -1574,7 +1575,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lennart Poettering
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pid_eins">pid_eins</a></td>
+		<td><a target="_blank" href="https://twitter.com/pid_eins">pid_eins</a></td>
 		<td>Berlin Germany</td>
 		<td>1418</td>
 	</tr>
@@ -1587,7 +1588,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonathan Mller
 		</td>
 		<td>@thinkcell  </td>
-		<td><a href="https://twitter.com/foonathan">foonathan</a></td>
+		<td><a target="_blank" href="https://twitter.com/foonathan">foonathan</a></td>
 		<td>Aachen Germany</td>
 		<td>1418</td>
 	</tr>
@@ -1613,7 +1614,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Michael Christen
 		</td>
 		<td>Yacy </td>
-		<td><a href="https://twitter.com/orbiterlab">orbiterlab</a></td>
+		<td><a target="_blank" href="https://twitter.com/orbiterlab">orbiterlab</a></td>
 		<td>Frankfurt am Main Germany</td>
 		<td>1396</td>
 	</tr>
@@ -1626,7 +1627,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tejas Kumar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tejaskumar_">tejaskumar_</a></td>
+		<td><a target="_blank" href="https://twitter.com/tejaskumar_">tejaskumar_</a></td>
 		<td>Berlin DE</td>
 		<td>1369</td>
 	</tr>
@@ -1652,7 +1653,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Hynek Schlawack
 		</td>
 		<td>Variomedia Ag </td>
-		<td><a href="https://twitter.com/hynek">hynek</a></td>
+		<td><a target="_blank" href="https://twitter.com/hynek">hynek</a></td>
 		<td>Berlin</td>
 		<td>1346</td>
 	</tr>
@@ -1704,7 +1705,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dat Tran
 		</td>
 		<td>Priceloop Gmbh </td>
-		<td><a href="https://twitter.com/datitran">datitran</a></td>
+		<td><a target="_blank" href="https://twitter.com/datitran">datitran</a></td>
 		<td>Berlin</td>
 		<td>1321</td>
 	</tr>
@@ -1717,7 +1718,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marvin Hagemeister
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/marvinhagemeist">marvinhagemeist</a></td>
+		<td><a target="_blank" href="https://twitter.com/marvinhagemeist">marvinhagemeist</a></td>
 		<td>Germany</td>
 		<td>1317</td>
 	</tr>
@@ -1769,7 +1770,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dominick Baier
 		</td>
 		<td>@identityserver  </td>
-		<td><a href="https://twitter.com/leastprivilege">leastprivilege</a></td>
+		<td><a target="_blank" href="https://twitter.com/leastprivilege">leastprivilege</a></td>
 		<td>Germany</td>
 		<td>1279</td>
 	</tr>
@@ -1782,7 +1783,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Amruth Pillai
 		</td>
 		<td>@elaradigital </td>
-		<td><a href="https://twitter.com/KingOKings">KingOKings</a></td>
+		<td><a target="_blank" href="https://twitter.com/KingOKings">KingOKings</a></td>
 		<td>Berlin Germany</td>
 		<td>1276</td>
 	</tr>
@@ -1795,7 +1796,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonas Franke
 		</td>
 		<td>@sdevsbws </td>
-		<td><a href="https://twitter.com/BinaryBlazer">BinaryBlazer</a></td>
+		<td><a target="_blank" href="https://twitter.com/BinaryBlazer">BinaryBlazer</a></td>
 		<td>Rudolstadt Germany</td>
 		<td>1268</td>
 	</tr>
@@ -1808,7 +1809,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kosh Sergani
 		</td>
 		<td>Engineering Lead @lichtblick </td>
-		<td><a href="https://twitter.com/im_kosh">im_kosh</a></td>
+		<td><a target="_blank" href="https://twitter.com/im_kosh">im_kosh</a></td>
 		<td>Berlin Germany</td>
 		<td>1257</td>
 	</tr>
@@ -1873,7 +1874,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shay Rojansky
 		</td>
 		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/shayrojansky">shayrojansky</a></td>
+		<td><a target="_blank" href="https://twitter.com/shayrojansky">shayrojansky</a></td>
 		<td>Berlin Germany</td>
 		<td>1208</td>
 	</tr>
@@ -1912,7 +1913,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mark Paluch
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mp911de">mp911de</a></td>
+		<td><a target="_blank" href="https://twitter.com/mp911de">mp911de</a></td>
 		<td>Weinheim Germany</td>
 		<td>1175</td>
 	</tr>
@@ -1938,7 +1939,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Pedro Massango
 		</td>
 		<td>@montaapp </td>
-		<td><a href="https://twitter.com/pedromassangom">pedromassangom</a></td>
+		<td><a target="_blank" href="https://twitter.com/pedromassangom">pedromassangom</a></td>
 		<td>Berlin</td>
 		<td>1167</td>
 	</tr>
@@ -1977,7 +1978,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Lck
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/another_clue">another_clue</a></td>
+		<td><a target="_blank" href="https://twitter.com/another_clue">another_clue</a></td>
 		<td>Aachen Germany</td>
 		<td>1132</td>
 	</tr>
@@ -2003,7 +2004,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Stefan Scherer
 		</td>
 		<td>@docker  </td>
-		<td><a href="https://twitter.com/stefscherer">stefscherer</a></td>
+		<td><a target="_blank" href="https://twitter.com/stefscherer">stefscherer</a></td>
 		<td>Erlangen Germany</td>
 		<td>1129</td>
 	</tr>
@@ -2029,7 +2030,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Aleksey Shipilv
 		</td>
 		<td>Aws </td>
-		<td><a href="https://twitter.com/shipilev">shipilev</a></td>
+		<td><a target="_blank" href="https://twitter.com/shipilev">shipilev</a></td>
 		<td>Potsdam Germany</td>
 		<td>1108</td>
 	</tr>
@@ -2055,7 +2056,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thomas Darimont
 		</td>
 		<td>@codecentric Ag </td>
-		<td><a href="https://twitter.com/thomasdarimont">thomasdarimont</a></td>
+		<td><a target="_blank" href="https://twitter.com/thomasdarimont">thomasdarimont</a></td>
 		<td>Saarland  Germany</td>
 		<td>1106</td>
 	</tr>
@@ -2068,7 +2069,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andreas Thomas
 		</td>
 		<td>@unkeyed </td>
-		<td><a href="https://twitter.com/chronark_">chronark_</a></td>
+		<td><a target="_blank" href="https://twitter.com/chronark_">chronark_</a></td>
 		<td>Germany</td>
 		<td>1095</td>
 	</tr>
@@ -2081,7 +2082,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Stefan Esser
 		</td>
 		<td>Antid0te </td>
-		<td><a href="https://twitter.com/i0n1c">i0n1c</a></td>
+		<td><a target="_blank" href="https://twitter.com/i0n1c">i0n1c</a></td>
 		<td>Cologne Germany</td>
 		<td>1091</td>
 	</tr>
@@ -2120,7 +2121,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Soledad Galli
 		</td>
 		<td>Train In Data </td>
-		<td><a href="https://twitter.com/Soledad_Galli">Soledad_Galli</a></td>
+		<td><a target="_blank" href="https://twitter.com/Soledad_Galli">Soledad_Galli</a></td>
 		<td>Berlin Germany</td>
 		<td>1078</td>
 	</tr>
@@ -2159,7 +2160,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mehdi Hasan Khan
 		</td>
 		<td>@contentful </td>
-		<td><a href="https://twitter.com/MehdiHK">MehdiHK</a></td>
+		<td><a target="_blank" href="https://twitter.com/MehdiHK">MehdiHK</a></td>
 		<td>Berlin Germany</td>
 		<td>1072</td>
 	</tr>
@@ -2172,7 +2173,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Simon Choi
 		</td>
 		<td>@clickup </td>
-		<td><a href="https://twitter.com/simcdev">simcdev</a></td>
+		<td><a target="_blank" href="https://twitter.com/simcdev">simcdev</a></td>
 		<td>Munich Germany</td>
 		<td>1071</td>
 	</tr>
@@ -2185,7 +2186,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sujin Lee
 		</td>
 		<td>@adjust </td>
-		<td><a href="https://twitter.com/sujinleeme">sujinleeme</a></td>
+		<td><a target="_blank" href="https://twitter.com/sujinleeme">sujinleeme</a></td>
 		<td>Berlin Germany</td>
 		<td>1070</td>
 	</tr>
@@ -2198,7 +2199,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Rom
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/brillout">brillout</a></td>
+		<td><a target="_blank" href="https://twitter.com/brillout">brillout</a></td>
 		<td>Europe Bavaria Munich</td>
 		<td>1068</td>
 	</tr>
@@ -2224,7 +2225,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Seitz
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mattsse_">mattsse_</a></td>
+		<td><a target="_blank" href="https://twitter.com/mattsse_">mattsse_</a></td>
 		<td>Munich Germany</td>
 		<td>1062</td>
 	</tr>
@@ -2250,7 +2251,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Bjrn Kimminich
 		</td>
 		<td>@kuehnenagel </td>
-		<td><a href="https://twitter.com/bkimminich">bkimminich</a></td>
+		<td><a target="_blank" href="https://twitter.com/bkimminich">bkimminich</a></td>
 		<td>Hamburg Germany</td>
 		<td>1053</td>
 	</tr>
@@ -2263,7 +2264,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Maciej Walkowiak
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/maciejwalkowiak">maciejwalkowiak</a></td>
+		<td><a target="_blank" href="https://twitter.com/maciejwalkowiak">maciejwalkowiak</a></td>
 		<td>Berlin Germany</td>
 		<td>1045</td>
 	</tr>
@@ -2302,7 +2303,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Thiel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/theelbasian">theelbasian</a></td>
+		<td><a target="_blank" href="https://twitter.com/theelbasian">theelbasian</a></td>
 		<td>Berlin</td>
 		<td>1020</td>
 	</tr>
@@ -2315,7 +2316,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lars Vogel
 		</td>
 		<td>Vogella Gmbh </td>
-		<td><a href="https://twitter.com/vogella">vogella</a></td>
+		<td><a target="_blank" href="https://twitter.com/vogella">vogella</a></td>
 		<td>Hamburg</td>
 		<td>1018</td>
 	</tr>
@@ -2328,7 +2329,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Aurelio Jargas
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/oreio">oreio</a></td>
+		<td><a target="_blank" href="https://twitter.com/oreio">oreio</a></td>
 		<td>Ulm Germany</td>
 		<td>1015</td>
 	</tr>
@@ -2354,7 +2355,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Stefan Judis
 		</td>
 		<td>@checkly </td>
-		<td><a href="https://twitter.com/stefanjudis">stefanjudis</a></td>
+		<td><a target="_blank" href="https://twitter.com/stefanjudis">stefanjudis</a></td>
 		<td>Berlin</td>
 		<td>1006</td>
 	</tr>
@@ -2380,7 +2381,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Silbermann
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sebsilbermann">sebsilbermann</a></td>
+		<td><a target="_blank" href="https://twitter.com/sebsilbermann">sebsilbermann</a></td>
 		<td>Berlin Germany</td>
 		<td>1001</td>
 	</tr>
@@ -2406,7 +2407,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Suriyaa Sundararuban
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/SuriyaaKudoIsc">SuriyaaKudoIsc</a></td>
+		<td><a target="_blank" href="https://twitter.com/SuriyaaKudoIsc">SuriyaaKudoIsc</a></td>
 		<td>Germany</td>
 		<td>1000</td>
 	</tr>
@@ -2419,7 +2420,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Antonin RAFFIN
 		</td>
 		<td>@dlrrm </td>
-		<td><a href="https://twitter.com/araffin2">araffin2</a></td>
+		<td><a target="_blank" href="https://twitter.com/araffin2">araffin2</a></td>
 		<td>Munich</td>
 		<td>999</td>
 	</tr>
@@ -2445,7 +2446,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Olivia Jack
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_ojack_">_ojack_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ojack_">_ojack_</a></td>
 		<td> Berlin  Bogot</td>
 		<td>991</td>
 	</tr>
@@ -2471,7 +2472,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Bernd Ruecker
 		</td>
 		<td>@camunda  </td>
-		<td><a href="https://twitter.com/berndruecker">berndruecker</a></td>
+		<td><a target="_blank" href="https://twitter.com/berndruecker">berndruecker</a></td>
 		<td>Berlin</td>
 		<td>982</td>
 	</tr>
@@ -2484,7 +2485,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Adam Wiggins
 		</td>
 		<td>Muse </td>
-		<td><a href="https://twitter.com/_adamwiggins_">_adamwiggins_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_adamwiggins_">_adamwiggins_</a></td>
 		<td>Berlin</td>
 		<td>978</td>
 	</tr>
@@ -2497,7 +2498,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Oli Larkin
 		</td>
 		<td>Ableton Oli Larkin Plugins<br/></td>
-		<td><a href="https://twitter.com/olilarkin">olilarkin</a></td>
+		<td><a target="_blank" href="https://twitter.com/olilarkin">olilarkin</a></td>
 		<td>Berlin</td>
 		<td>969</td>
 	</tr>
@@ -2549,7 +2550,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ayman M
 		</td>
 		<td>Luxoft Kaggle </td>
-		<td><a href="https://twitter.com/csMohamedAyman">csMohamedAyman</a></td>
+		<td><a target="_blank" href="https://twitter.com/csMohamedAyman">csMohamedAyman</a></td>
 		<td>Lbeck SchleswigHolstein Germany</td>
 		<td>945</td>
 	</tr>
@@ -2562,7 +2563,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nils Adermann
 		</td>
 		<td>@packagist  </td>
-		<td><a href="https://twitter.com/naderman">naderman</a></td>
+		<td><a target="_blank" href="https://twitter.com/naderman">naderman</a></td>
 		<td>Berlin Germany</td>
 		<td>943</td>
 	</tr>
@@ -2601,7 +2602,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lars Jung
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lrsjng">lrsjng</a></td>
+		<td><a target="_blank" href="https://twitter.com/lrsjng">lrsjng</a></td>
 		<td>Germany</td>
 		<td>931</td>
 	</tr>
@@ -2614,7 +2615,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vitor Alencar
 		</td>
 		<td>@taxfix  </td>
-		<td><a href="https://twitter.com/vitormalencar">vitormalencar</a></td>
+		<td><a target="_blank" href="https://twitter.com/vitormalencar">vitormalencar</a></td>
 		<td>Berlin Germany </td>
 		<td>924</td>
 	</tr>
@@ -2627,7 +2628,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			 Kevin Jahns
 		</td>
 		<td>Independent Oss Developer </td>
-		<td><a href="https://twitter.com/kevin_jahns">kevin_jahns</a></td>
+		<td><a target="_blank" href="https://twitter.com/kevin_jahns">kevin_jahns</a></td>
 		<td>Berlin Germany</td>
 		<td>920</td>
 	</tr>
@@ -2666,7 +2667,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Felix Kling
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fkling42">fkling42</a></td>
+		<td><a target="_blank" href="https://twitter.com/fkling42">fkling42</a></td>
 		<td>Germany</td>
 		<td>919</td>
 	</tr>
@@ -2679,7 +2680,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Max Pumperla
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/maxpumperla">maxpumperla</a></td>
+		<td><a target="_blank" href="https://twitter.com/maxpumperla">maxpumperla</a></td>
 		<td>Hamburg Germany</td>
 		<td>912</td>
 	</tr>
@@ -2731,7 +2732,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Gerrit Grunwald
 		</td>
 		<td>Azul Systems </td>
-		<td><a href="https://twitter.com/hansolo_">hansolo_</a></td>
+		<td><a target="_blank" href="https://twitter.com/hansolo_">hansolo_</a></td>
 		<td>Muenster Germany</td>
 		<td>898</td>
 	</tr>
@@ -2744,7 +2745,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marc J Schmidt
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MarcJSchmidt">MarcJSchmidt</a></td>
+		<td><a target="_blank" href="https://twitter.com/MarcJSchmidt">MarcJSchmidt</a></td>
 		<td>Black Forest Germany</td>
 		<td>891</td>
 	</tr>
@@ -2757,7 +2758,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lionel
 		</td>
 		<td>@thecosmicuniverse </td>
-		<td><a href="https://twitter.com/lionelrobin528">lionelrobin528</a></td>
+		<td><a target="_blank" href="https://twitter.com/lionelrobin528">lionelrobin528</a></td>
 		<td>Hesse Germany</td>
 		<td>890</td>
 	</tr>
@@ -2770,7 +2771,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Moritz Klack
 		</td>
 		<td>@xyflow </td>
-		<td><a href="https://twitter.com/moklick">moklick</a></td>
+		<td><a target="_blank" href="https://twitter.com/moklick">moklick</a></td>
 		<td>Berlin</td>
 		<td>889</td>
 	</tr>
@@ -2783,7 +2784,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Gurupreet Singh
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/_gurupreet">_gurupreet</a></td>
+		<td><a target="_blank" href="https://twitter.com/_gurupreet">_gurupreet</a></td>
 		<td>Munich Germany </td>
 		<td>888</td>
 	</tr>
@@ -2796,7 +2797,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Zahra Teymouri
 		</td>
 		<td>Vectronic Aerospace </td>
-		<td><a href="https://twitter.com/zahra_teymouri">zahra_teymouri</a></td>
+		<td><a target="_blank" href="https://twitter.com/zahra_teymouri">zahra_teymouri</a></td>
 		<td>Berlin Germany</td>
 		<td>887</td>
 	</tr>
@@ -2822,7 +2823,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vinai Kopp
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/VinaiKopp">VinaiKopp</a></td>
+		<td><a target="_blank" href="https://twitter.com/VinaiKopp">VinaiKopp</a></td>
 		<td>Germany</td>
 		<td>886</td>
 	</tr>
@@ -2835,7 +2836,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Friedrich Lindenberg
 		</td>
 		<td>@opensanctions </td>
-		<td><a href="https://twitter.com/pudo">pudo</a></td>
+		<td><a target="_blank" href="https://twitter.com/pudo">pudo</a></td>
 		<td>Berlin</td>
 		<td>880</td>
 	</tr>
@@ -2861,7 +2862,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mario
 		</td>
 		<td>Universitt Stuttgart </td>
-		<td><a href="https://twitter.com/ScientificML">ScientificML</a></td>
+		<td><a target="_blank" href="https://twitter.com/ScientificML">ScientificML</a></td>
 		<td>Stuttgart DE</td>
 		<td>878</td>
 	</tr>
@@ -2913,7 +2914,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Javier Brquez
 		</td>
 		<td>@vercel </td>
-		<td><a href="https://twitter.com/javierbyte">javierbyte</a></td>
+		<td><a target="_blank" href="https://twitter.com/javierbyte">javierbyte</a></td>
 		<td>Berlin Germany</td>
 		<td>861</td>
 	</tr>
@@ -2926,7 +2927,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lilith Wittmann
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LilithWittmann">LilithWittmann</a></td>
+		<td><a target="_blank" href="https://twitter.com/LilithWittmann">LilithWittmann</a></td>
 		<td>Berlin Germany</td>
 		<td>859</td>
 	</tr>
@@ -2952,7 +2953,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Henning Jacobs
 		</td>
 		<td>Zalando Se </td>
-		<td><a href="https://twitter.com/try_except_">try_except_</a></td>
+		<td><a target="_blank" href="https://twitter.com/try_except_">try_except_</a></td>
 		<td>Germany</td>
 		<td>858</td>
 	</tr>
@@ -2965,7 +2966,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Hahner
 		</td>
 		<td>Karlsruhe Institute Of Technology<br/>Kit<br/></td>
-		<td><a href="https://twitter.com/skate702">skate702</a></td>
+		<td><a target="_blank" href="https://twitter.com/skate702">skate702</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>852</td>
 	</tr>
@@ -2978,7 +2979,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Redowan Delowar
 		</td>
 		<td>@wolt </td>
-		<td><a href="https://twitter.com/rednafi">rednafi</a></td>
+		<td><a target="_blank" href="https://twitter.com/rednafi">rednafi</a></td>
 		<td>Berlin</td>
 		<td>851</td>
 	</tr>
@@ -2991,7 +2992,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Asif Saif Uddin
 		</td>
 		<td>@celery @psf @apache @encode<br/></td>
-		<td><a href="https://twitter.com/auvipy">auvipy</a></td>
+		<td><a target="_blank" href="https://twitter.com/auvipy">auvipy</a></td>
 		<td>Hamburg Germany</td>
 		<td>848</td>
 	</tr>
@@ -3030,7 +3031,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alexander Prinzhorn
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Prinzhorn">Prinzhorn</a></td>
+		<td><a target="_blank" href="https://twitter.com/Prinzhorn">Prinzhorn</a></td>
 		<td>Germany</td>
 		<td>836</td>
 	</tr>
@@ -3056,7 +3057,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Frederic Branczyk
 		</td>
 		<td>@polarsignals </td>
-		<td><a href="https://twitter.com/fredbrancz">fredbrancz</a></td>
+		<td><a target="_blank" href="https://twitter.com/fredbrancz">fredbrancz</a></td>
 		<td>Berlin</td>
 		<td>834</td>
 	</tr>
@@ -3069,7 +3070,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Friedel Ziegelmayer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dignifiedquire">dignifiedquire</a></td>
+		<td><a target="_blank" href="https://twitter.com/dignifiedquire">dignifiedquire</a></td>
 		<td>Germany</td>
 		<td>834</td>
 	</tr>
@@ -3082,7 +3083,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Peter Friese
 		</td>
 		<td>Google </td>
-		<td><a href="https://twitter.com/peterfriese">peterfriese</a></td>
+		<td><a target="_blank" href="https://twitter.com/peterfriese">peterfriese</a></td>
 		<td>Hamburg</td>
 		<td>832</td>
 	</tr>
@@ -3134,7 +3135,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Peter Taoussanis
 		</td>
 		<td>Taoensso </td>
-		<td><a href="https://twitter.com/ptaoussanis">ptaoussanis</a></td>
+		<td><a target="_blank" href="https://twitter.com/ptaoussanis">ptaoussanis</a></td>
 		<td>Berlin Chiang Mai Johannesburg</td>
 		<td>825</td>
 	</tr>
@@ -3147,7 +3148,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Ewald
 		</td>
 		<td>@peerigon </td>
-		<td><a href="https://twitter.com/jhnnns">jhnnns</a></td>
+		<td><a target="_blank" href="https://twitter.com/jhnnns">jhnnns</a></td>
 		<td>Augsburg Germany</td>
 		<td>816</td>
 	</tr>
@@ -3160,7 +3161,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marwan AlSoltany
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MarwanAlsoltany">MarwanAlsoltany</a></td>
+		<td><a target="_blank" href="https://twitter.com/MarwanAlsoltany">MarwanAlsoltany</a></td>
 		<td>Germany</td>
 		<td>813</td>
 	</tr>
@@ -3173,7 +3174,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Pascal Welsch
 		</td>
 		<td>Wiredashio </td>
-		<td><a href="https://twitter.com/passsy">passsy</a></td>
+		<td><a target="_blank" href="https://twitter.com/passsy">passsy</a></td>
 		<td>Cologne</td>
 		<td>813</td>
 	</tr>
@@ -3186,7 +3187,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			David Heckhoff
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DavidHckh">DavidHckh</a></td>
+		<td><a target="_blank" href="https://twitter.com/DavidHckh">DavidHckh</a></td>
 		<td>Germany</td>
 		<td>809</td>
 	</tr>
@@ -3212,7 +3213,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			xct
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/xct_de">xct_de</a></td>
+		<td><a target="_blank" href="https://twitter.com/xct_de">xct_de</a></td>
 		<td>Berlin</td>
 		<td>793</td>
 	</tr>
@@ -3238,7 +3239,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dr Larysa Visengeriyeva
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/visenger">visenger</a></td>
+		<td><a target="_blank" href="https://twitter.com/visenger">visenger</a></td>
 		<td>Berlin Germany </td>
 		<td>781</td>
 	</tr>
@@ -3251,7 +3252,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kai Waehner
 		</td>
 		<td>Confluent </td>
-		<td><a href="https://twitter.com/KaiWaehner">KaiWaehner</a></td>
+		<td><a target="_blank" href="https://twitter.com/KaiWaehner">KaiWaehner</a></td>
 		<td>Munich Germany</td>
 		<td>780</td>
 	</tr>
@@ -3264,7 +3265,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Emad Elsaid
 		</td>
 		<td>@hellofresh </td>
-		<td><a href="https://twitter.com/emad__elsaid">emad__elsaid</a></td>
+		<td><a target="_blank" href="https://twitter.com/emad__elsaid">emad__elsaid</a></td>
 		<td>Berlin Germany</td>
 		<td>778</td>
 	</tr>
@@ -3277,7 +3278,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kashif Rasul
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/krasul">krasul</a></td>
+		<td><a target="_blank" href="https://twitter.com/krasul">krasul</a></td>
 		<td>Berlin Germany</td>
 		<td>778</td>
 	</tr>
@@ -3290,7 +3291,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jan Karger  
 		</td>
 		<td>Inform Gmbh @informsoftware <br/></td>
-		<td><a href="https://twitter.com/punker76">punker76</a></td>
+		<td><a target="_blank" href="https://twitter.com/punker76">punker76</a></td>
 		<td>Aachen Germany</td>
 		<td>778</td>
 	</tr>
@@ -3303,7 +3304,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Meyer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pubkeypubkey">pubkeypubkey</a></td>
+		<td><a target="_blank" href="https://twitter.com/pubkeypubkey">pubkeypubkey</a></td>
 		<td>Stuttgart Germany</td>
 		<td>776</td>
 	</tr>
@@ -3342,7 +3343,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thorbjrn Lindeijer
 		</td>
 		<td>Mapeditororg </td>
-		<td><a href="https://twitter.com/thorbjorn81">thorbjorn81</a></td>
+		<td><a target="_blank" href="https://twitter.com/thorbjorn81">thorbjorn81</a></td>
 		<td>Germany</td>
 		<td>769</td>
 	</tr>
@@ -3355,7 +3356,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Billie Thompson
 		</td>
 		<td>@armakuni </td>
-		<td><a href="https://twitter.com/PurpleBooth">PurpleBooth</a></td>
+		<td><a target="_blank" href="https://twitter.com/PurpleBooth">PurpleBooth</a></td>
 		<td>Berlin</td>
 		<td>767</td>
 	</tr>
@@ -3381,7 +3382,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Michael Hunger
 		</td>
 		<td>Jexp  @neo4j </td>
-		<td><a href="https://twitter.com/mesirii">mesirii</a></td>
+		<td><a target="_blank" href="https://twitter.com/mesirii">mesirii</a></td>
 		<td>Dresden Germany</td>
 		<td>766</td>
 	</tr>
@@ -3407,7 +3408,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Oleg Isonen
 		</td>
 		<td>@webstudiois </td>
-		<td><a href="https://twitter.com/oleg008">oleg008</a></td>
+		<td><a target="_blank" href="https://twitter.com/oleg008">oleg008</a></td>
 		<td>Germany Berlin</td>
 		<td>760</td>
 	</tr>
@@ -3446,7 +3447,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nikolas
 		</td>
 		<td>@prisma  </td>
-		<td><a href="https://twitter.com/nikolasburk">nikolasburk</a></td>
+		<td><a target="_blank" href="https://twitter.com/nikolasburk">nikolasburk</a></td>
 		<td>Berlin</td>
 		<td>748</td>
 	</tr>
@@ -3485,7 +3486,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dmytro Voronianski
 		</td>
 		<td>@sumup </td>
-		<td><a href="https://twitter.com/voronianski">voronianski</a></td>
+		<td><a target="_blank" href="https://twitter.com/voronianski">voronianski</a></td>
 		<td>Berlin Germany</td>
 		<td>744</td>
 	</tr>
@@ -3498,7 +3499,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kpcyrd">kpcyrd</a></td>
+		<td><a target="_blank" href="https://twitter.com/kpcyrd">kpcyrd</a></td>
 		<td>Hamburg Germany</td>
 		<td>743</td>
 	</tr>
@@ -3563,7 +3564,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Said Tahsin Dane
 		</td>
 		<td>@deliveryhero </td>
-		<td><a href="https://twitter.com/tasomaniac">tasomaniac</a></td>
+		<td><a target="_blank" href="https://twitter.com/tasomaniac">tasomaniac</a></td>
 		<td>Berlin</td>
 		<td>733</td>
 	</tr>
@@ -3680,7 +3681,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Claudio W
 		</td>
 		<td>@hubspot </td>
-		<td><a href="https://twitter.com/wunderacle">wunderacle</a></td>
+		<td><a target="_blank" href="https://twitter.com/wunderacle">wunderacle</a></td>
 		<td>Germany</td>
 		<td>719</td>
 	</tr>
@@ -3706,7 +3707,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Maksudur Rahman Maateen
 		</td>
 		<td>Quandoo </td>
-		<td><a href="https://twitter.com/ugcoder">ugcoder</a></td>
+		<td><a target="_blank" href="https://twitter.com/ugcoder">ugcoder</a></td>
 		<td>Berlin Germany</td>
 		<td>718</td>
 	</tr>
@@ -3719,7 +3720,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tim Suchanek
 		</td>
 		<td>Stellate </td>
-		<td><a href="https://twitter.com/timsuchanek">timsuchanek</a></td>
+		<td><a target="_blank" href="https://twitter.com/timsuchanek">timsuchanek</a></td>
 		<td>Berlin Germany</td>
 		<td>714</td>
 	</tr>
@@ -3732,7 +3733,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lili Cosic
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lilicosic">lilicosic</a></td>
+		<td><a target="_blank" href="https://twitter.com/lilicosic">lilicosic</a></td>
 		<td>Berlin Germany</td>
 		<td>712</td>
 	</tr>
@@ -3758,7 +3759,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Busra Demir
 		</td>
 		<td>Neon </td>
-		<td><a href="https://twitter.com/areyou1or0">areyou1or0</a></td>
+		<td><a target="_blank" href="https://twitter.com/areyou1or0">areyou1or0</a></td>
 		<td>Berlin Germany</td>
 		<td>708</td>
 	</tr>
@@ -3797,7 +3798,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jannis R
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/derhuerst">derhuerst</a></td>
+		<td><a target="_blank" href="https://twitter.com/derhuerst">derhuerst</a></td>
 		<td>Berlin</td>
 		<td>703</td>
 	</tr>
@@ -3810,7 +3811,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Kster
 		</td>
 		<td>University Of Duisburgessen </td>
-		<td><a href="https://twitter.com/johanneskoester">johanneskoester</a></td>
+		<td><a target="_blank" href="https://twitter.com/johanneskoester">johanneskoester</a></td>
 		<td>Essen Germany</td>
 		<td>699</td>
 	</tr>
@@ -3849,7 +3850,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Simon Grimm
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/schlimmson">schlimmson</a></td>
+		<td><a target="_blank" href="https://twitter.com/schlimmson">schlimmson</a></td>
 		<td>Germany</td>
 		<td>694</td>
 	</tr>
@@ -3862,7 +3863,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mike West
 		</td>
 		<td>@googlers  </td>
-		<td><a href="https://twitter.com/mikewest">mikewest</a></td>
+		<td><a target="_blank" href="https://twitter.com/mikewest">mikewest</a></td>
 		<td>Munich Germany</td>
 		<td>694</td>
 	</tr>
@@ -3888,7 +3889,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Burak Can
 		</td>
 		<td>@hiveengineering  </td>
-		<td><a href="https://twitter.com/neoberg">neoberg</a></td>
+		<td><a target="_blank" href="https://twitter.com/neoberg">neoberg</a></td>
 		<td>Berlin</td>
 		<td>687</td>
 	</tr>
@@ -3992,7 +3993,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthieu Cneude
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Cneude_Matthieu">Cneude_Matthieu</a></td>
+		<td><a target="_blank" href="https://twitter.com/Cneude_Matthieu">Cneude_Matthieu</a></td>
 		<td>Berlin</td>
 		<td>671</td>
 	</tr>
@@ -4005,7 +4006,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			xima
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_x1m4">_x1m4</a></td>
+		<td><a target="_blank" href="https://twitter.com/_x1m4">_x1m4</a></td>
 		<td>Germany Tbingen</td>
 		<td>671</td>
 	</tr>
@@ -4018,7 +4019,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Levente Polyak
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anthraxx42">anthraxx42</a></td>
+		<td><a target="_blank" href="https://twitter.com/anthraxx42">anthraxx42</a></td>
 		<td>Germany</td>
 		<td>670</td>
 	</tr>
@@ -4057,7 +4058,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Karl Stenerud
 		</td>
 		<td>Smartbear </td>
-		<td><a href="https://twitter.com/karlstenerud">karlstenerud</a></td>
+		<td><a target="_blank" href="https://twitter.com/karlstenerud">karlstenerud</a></td>
 		<td>Leipzig Germany</td>
 		<td>662</td>
 	</tr>
@@ -4070,7 +4071,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Aigner
 		</td>
 		<td>@jetbrains </td>
-		<td><a href="https://twitter.com/sebi_io">sebi_io</a></td>
+		<td><a target="_blank" href="https://twitter.com/sebi_io">sebi_io</a></td>
 		<td>Bavaria Germany</td>
 		<td>659</td>
 	</tr>
@@ -4083,7 +4084,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Simon Schmid
 		</td>
 		<td>@desperatedevs </td>
-		<td><a href="https://twitter.com/s_schmid">s_schmid</a></td>
+		<td><a target="_blank" href="https://twitter.com/s_schmid">s_schmid</a></td>
 		<td>Berlin</td>
 		<td>659</td>
 	</tr>
@@ -4122,7 +4123,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jakob Wolitzki
 		</td>
 		<td>Deltologic </td>
-		<td><a href="https://twitter.com/wolitzki">wolitzki</a></td>
+		<td><a target="_blank" href="https://twitter.com/wolitzki">wolitzki</a></td>
 		<td>Germany</td>
 		<td>656</td>
 	</tr>
@@ -4161,7 +4162,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Haylee Schfer
 		</td>
 		<td>@hypixeldev  </td>
-		<td><a href="https://twitter.com/Inventivtalent">Inventivtalent</a></td>
+		<td><a target="_blank" href="https://twitter.com/Inventivtalent">Inventivtalent</a></td>
 		<td>Germany</td>
 		<td>651</td>
 	</tr>
@@ -4174,7 +4175,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lenz WeberTronic
 		</td>
 		<td>@apollographql </td>
-		<td><a href="https://twitter.com/phry">phry</a></td>
+		<td><a target="_blank" href="https://twitter.com/phry">phry</a></td>
 		<td>Germany</td>
 		<td>650</td>
 	</tr>
@@ -4187,7 +4188,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel
 		</td>
 		<td>Universittsklinikum Hamburgeppendorf </td>
-		<td><a href="https://twitter.com/strengejacke">strengejacke</a></td>
+		<td><a target="_blank" href="https://twitter.com/strengejacke">strengejacke</a></td>
 		<td>Hamburg Germany</td>
 		<td>647</td>
 	</tr>
@@ -4213,7 +4214,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			David Odari
 		</td>
 		<td>@traderepublic </td>
-		<td><a href="https://twitter.com/_davidodari">_davidodari</a></td>
+		<td><a target="_blank" href="https://twitter.com/_davidodari">_davidodari</a></td>
 		<td>Dsseldorf Germany</td>
 		<td>645</td>
 	</tr>
@@ -4226,7 +4227,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Norbert Kozsir
 		</td>
 		<td>Cutscenesio </td>
-		<td><a href="https://twitter.com/norbertkozsir">norbertkozsir</a></td>
+		<td><a target="_blank" href="https://twitter.com/norbertkozsir">norbertkozsir</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>643</td>
 	</tr>
@@ -4278,7 +4279,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Saad Irfan 
 		</td>
 		<td>Software Engineer Ii @<br/>Kyte<br/></td>
-		<td><a href="https://twitter.com/msaaddev">msaaddev</a></td>
+		<td><a target="_blank" href="https://twitter.com/msaaddev">msaaddev</a></td>
 		<td>Berlin Germany</td>
 		<td>635</td>
 	</tr>
@@ -4291,7 +4292,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Manuel Kieling
 		</td>
 		<td>Joboo Gmbh </td>
-		<td><a href="https://twitter.com/manuelkiessling">manuelkiessling</a></td>
+		<td><a target="_blank" href="https://twitter.com/manuelkiessling">manuelkiessling</a></td>
 		<td>Meerbusch Germany</td>
 		<td>633</td>
 	</tr>
@@ -4317,7 +4318,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tagir Valeev
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/tagir_valeev">tagir_valeev</a></td>
+		<td><a target="_blank" href="https://twitter.com/tagir_valeev">tagir_valeev</a></td>
 		<td>Munich Germany</td>
 		<td>630</td>
 	</tr>
@@ -4343,7 +4344,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mark Scherer
 		</td>
 		<td>Available As Cakephp Expert<br/></td>
-		<td><a href="https://twitter.com/dereuromark">dereuromark</a></td>
+		<td><a target="_blank" href="https://twitter.com/dereuromark">dereuromark</a></td>
 		<td>Berlin</td>
 		<td>626</td>
 	</tr>
@@ -4408,7 +4409,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Philipp Rudiger
 		</td>
 		<td>Anaconda Inc </td>
-		<td><a href="https://twitter.com/philippjfr">philippjfr</a></td>
+		<td><a target="_blank" href="https://twitter.com/philippjfr">philippjfr</a></td>
 		<td>Berlin Germany</td>
 		<td>615</td>
 	</tr>
@@ -4434,7 +4435,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Franz Liedke
 		</td>
 		<td>@messhelden  </td>
-		<td><a href="https://twitter.com/franzliedke">franzliedke</a></td>
+		<td><a target="_blank" href="https://twitter.com/franzliedke">franzliedke</a></td>
 		<td>Germany</td>
 		<td>612</td>
 	</tr>
@@ -4447,7 +4448,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Murhaf Sousli
 		</td>
 		<td>@boehringeringelheim </td>
-		<td><a href="https://twitter.com/MurhafSousli">MurhafSousli</a></td>
+		<td><a target="_blank" href="https://twitter.com/MurhafSousli">MurhafSousli</a></td>
 		<td>Mainz Germany</td>
 		<td>610</td>
 	</tr>
@@ -4460,7 +4461,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Robert Tjarko Lange
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RobertTLange">RobertTLange</a></td>
+		<td><a target="_blank" href="https://twitter.com/RobertTLange">RobertTLange</a></td>
 		<td>Tokyo Berlin Barcelona London</td>
 		<td>608</td>
 	</tr>
@@ -4512,7 +4513,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Riedel
 		</td>
 		<td>@suse </td>
-		<td><a href="https://twitter.com/kraih">kraih</a></td>
+		<td><a target="_blank" href="https://twitter.com/kraih">kraih</a></td>
 		<td>Germany</td>
 		<td>602</td>
 	</tr>
@@ -4525,7 +4526,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Bel
 		</td>
 		<td>@vercel  </td>
-		<td><a href="https://twitter.com/okbel">okbel</a></td>
+		<td><a target="_blank" href="https://twitter.com/okbel">okbel</a></td>
 		<td>Germany</td>
 		<td>602</td>
 	</tr>
@@ -4538,7 +4539,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shinigami
 		</td>
 		<td>Dermalog Identification Systems Gmbh<br/></td>
-		<td><a href="https://twitter.com/Shini_92">Shini_92</a></td>
+		<td><a target="_blank" href="https://twitter.com/Shini_92">Shini_92</a></td>
 		<td>Germany Hamburg</td>
 		<td>596</td>
 	</tr>
@@ -4551,7 +4552,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Heiko Seeberger
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hseeberger">hseeberger</a></td>
+		<td><a target="_blank" href="https://twitter.com/hseeberger">hseeberger</a></td>
 		<td>Germany</td>
 		<td>595</td>
 	</tr>
@@ -4564,7 +4565,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jan Piotrowski
 		</td>
 		<td>Prisma </td>
-		<td><a href="https://twitter.com/janpio">janpio</a></td>
+		<td><a target="_blank" href="https://twitter.com/janpio">janpio</a></td>
 		<td>Berlin Germany</td>
 		<td>593</td>
 	</tr>
@@ -4577,7 +4578,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alain Schlesser
 		</td>
 		<td>Yoast </td>
-		<td><a href="https://twitter.com/schlessera">schlessera</a></td>
+		<td><a target="_blank" href="https://twitter.com/schlessera">schlessera</a></td>
 		<td>Germany</td>
 		<td>593</td>
 	</tr>
@@ -4590,7 +4591,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Uday Hiwarale
 		</td>
 		<td>@sap </td>
-		<td><a href="https://twitter.com/thatisuday">thatisuday</a></td>
+		<td><a target="_blank" href="https://twitter.com/thatisuday">thatisuday</a></td>
 		<td>Berlin Germany</td>
 		<td>592</td>
 	</tr>
@@ -4603,7 +4604,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Nehlsen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/matthiasnehlsen">matthiasnehlsen</a></td>
+		<td><a target="_blank" href="https://twitter.com/matthiasnehlsen">matthiasnehlsen</a></td>
 		<td>Hamburg  Berlin Germany</td>
 		<td>591</td>
 	</tr>
@@ -4642,7 +4643,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Philipp Muens
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pmmuens">pmmuens</a></td>
+		<td><a target="_blank" href="https://twitter.com/pmmuens">pmmuens</a></td>
 		<td>Germany  USA</td>
 		<td>590</td>
 	</tr>
@@ -4655,7 +4656,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thomas Viehmann
 		</td>
 		<td>Mathinf Httpsmathinfeu </td>
-		<td><a href="https://twitter.com/ThomasViehmann">ThomasViehmann</a></td>
+		<td><a target="_blank" href="https://twitter.com/ThomasViehmann">ThomasViehmann</a></td>
 		<td>Munich</td>
 		<td>587</td>
 	</tr>
@@ -4694,7 +4695,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Elena Grahovac
 		</td>
 		<td>@ferretdb  </td>
-		<td><a href="https://twitter.com/webdeva">webdeva</a></td>
+		<td><a target="_blank" href="https://twitter.com/webdeva">webdeva</a></td>
 		<td>Berlin Germany</td>
 		<td>580</td>
 	</tr>
@@ -4707,7 +4708,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Thomasburkhartb">Thomasburkhartb</a></td>
+		<td><a target="_blank" href="https://twitter.com/Thomasburkhartb">Thomasburkhartb</a></td>
 		<td>Bonn Germany</td>
 		<td>580</td>
 	</tr>
@@ -4720,7 +4721,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andreas Mller
 		</td>
 		<td>@ergebnis </td>
-		<td><a href="https://twitter.com/localheinz">localheinz</a></td>
+		<td><a target="_blank" href="https://twitter.com/localheinz">localheinz</a></td>
 		<td>Berlin Germany</td>
 		<td>579</td>
 	</tr>
@@ -4746,7 +4747,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Philip Riecks
 		</td>
 		<td>@pragmatechdigitalso </td>
-		<td><a href="https://twitter.com/rieckpil">rieckpil</a></td>
+		<td><a target="_blank" href="https://twitter.com/rieckpil">rieckpil</a></td>
 		<td>Germany</td>
 		<td>578</td>
 	</tr>
@@ -4772,7 +4773,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			zgr ZTRK
 		</td>
 		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/ozgurozturknet">ozgurozturknet</a></td>
+		<td><a target="_blank" href="https://twitter.com/ozgurozturknet">ozgurozturknet</a></td>
 		<td>Berlin</td>
 		<td>577</td>
 	</tr>
@@ -4837,7 +4838,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Harshil
 		</td>
 		<td>Universitt Passau </td>
-		<td><a href="https://twitter.com/iamdarji">iamdarji</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamdarji">iamdarji</a></td>
 		<td>Passau Germany</td>
 		<td>571</td>
 	</tr>
@@ -4850,7 +4851,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Manash Kumar Mandal
 		</td>
 		<td>@creditornot </td>
-		<td><a href="https://twitter.com/_manash_">_manash_</a></td>
+		<td><a target="_blank" href="https://twitter.com/_manash_">_manash_</a></td>
 		<td>Berlin Germany</td>
 		<td>568</td>
 	</tr>
@@ -4863,7 +4864,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Muhammed Salih Guler
 		</td>
 		<td>Aws Amplify </td>
-		<td><a href="https://twitter.com/salihgueler">salihgueler</a></td>
+		<td><a target="_blank" href="https://twitter.com/salihgueler">salihgueler</a></td>
 		<td>Berlin</td>
 		<td>567</td>
 	</tr>
@@ -4889,7 +4890,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Martin Thoma
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_martinthoma">_martinthoma</a></td>
+		<td><a target="_blank" href="https://twitter.com/_martinthoma">_martinthoma</a></td>
 		<td>Munich</td>
 		<td>562</td>
 	</tr>
@@ -4902,7 +4903,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Julius Volz
 		</td>
 		<td>Promlabs </td>
-		<td><a href="https://twitter.com/juliusvolz">juliusvolz</a></td>
+		<td><a target="_blank" href="https://twitter.com/juliusvolz">juliusvolz</a></td>
 		<td>Berlin Germany</td>
 		<td>560</td>
 	</tr>
@@ -4928,7 +4929,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Julie Ng
 		</td>
 		<td>@microsoft </td>
-		<td><a href="https://twitter.com/jng5">jng5</a></td>
+		<td><a target="_blank" href="https://twitter.com/jng5">jng5</a></td>
 		<td>Munich Germany</td>
 		<td>559</td>
 	</tr>
@@ -4941,7 +4942,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Rohan Taneja
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rohantaneja_">rohantaneja_</a></td>
+		<td><a target="_blank" href="https://twitter.com/rohantaneja_">rohantaneja_</a></td>
 		<td>Berlin Germany</td>
 		<td>558</td>
 	</tr>
@@ -4954,7 +4955,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Joachim Breitner
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nomeata">nomeata</a></td>
+		<td><a target="_blank" href="https://twitter.com/nomeata">nomeata</a></td>
 		<td>Freiburg Germany</td>
 		<td>556</td>
 	</tr>
@@ -4980,7 +4981,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andrey Vasnetsov
 		</td>
 		<td>Qdrant </td>
-		<td><a href="https://twitter.com/generall931">generall931</a></td>
+		<td><a target="_blank" href="https://twitter.com/generall931">generall931</a></td>
 		<td>Berlin</td>
 		<td>554</td>
 	</tr>
@@ -4993,7 +4994,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dominik Hauser
 		</td>
 		<td>Rocket Apes Gmbh </td>
-		<td><a href="https://twitter.com/dasdom">dasdom</a></td>
+		<td><a target="_blank" href="https://twitter.com/dasdom">dasdom</a></td>
 		<td>Dsseldorf Germany</td>
 		<td>552</td>
 	</tr>
@@ -5058,7 +5059,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Uwe L Korn
 		</td>
 		<td>@quantco  </td>
-		<td><a href="https://twitter.com/xhochy">xhochy</a></td>
+		<td><a target="_blank" href="https://twitter.com/xhochy">xhochy</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>543</td>
 	</tr>
@@ -5071,7 +5072,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jol Galeran
 		</td>
 		<td>@prisma </td>
-		<td><a href="https://twitter.com/Jolg42">Jolg42</a></td>
+		<td><a target="_blank" href="https://twitter.com/Jolg42">Jolg42</a></td>
 		<td>Berlin localhost</td>
 		<td>542</td>
 	</tr>
@@ -5084,7 +5085,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tobias
 		</td>
 		<td>Tobspr Games </td>
-		<td><a href="https://twitter.com/tobspr">tobspr</a></td>
+		<td><a target="_blank" href="https://twitter.com/tobspr">tobspr</a></td>
 		<td>Germany</td>
 		<td>541</td>
 	</tr>
@@ -5123,7 +5124,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tasdik Rahman
 		</td>
 		<td>@newrelic </td>
-		<td><a href="https://twitter.com/tasdikrahman">tasdikrahman</a></td>
+		<td><a target="_blank" href="https://twitter.com/tasdikrahman">tasdikrahman</a></td>
 		<td>Berlin Germany</td>
 		<td>537</td>
 	</tr>
@@ -5136,7 +5137,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kemal Akkoyun
 		</td>
 		<td>@polarsignals </td>
-		<td><a href="https://twitter.com/kkakkoyun">kkakkoyun</a></td>
+		<td><a target="_blank" href="https://twitter.com/kkakkoyun">kkakkoyun</a></td>
 		<td>Berlin</td>
 		<td>536</td>
 	</tr>
@@ -5175,7 +5176,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christoph Rieke
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/chrieke">chrieke</a></td>
+		<td><a target="_blank" href="https://twitter.com/chrieke">chrieke</a></td>
 		<td>Berlin Germany</td>
 		<td>534</td>
 	</tr>
@@ -5188,7 +5189,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ruben Bridgewater
 		</td>
 		<td>Maibornwolff Gmbh </td>
-		<td><a href="https://twitter.com/BridgeAR">BridgeAR</a></td>
+		<td><a target="_blank" href="https://twitter.com/BridgeAR">BridgeAR</a></td>
 		<td>Frankfurt Germany</td>
 		<td>534</td>
 	</tr>
@@ -5214,7 +5215,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jay Gogoi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/codergogoi">codergogoi</a></td>
+		<td><a target="_blank" href="https://twitter.com/codergogoi">codergogoi</a></td>
 		<td>Berlin Germany</td>
 		<td>532</td>
 	</tr>
@@ -5227,7 +5228,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Robert Haase
 		</td>
 		<td>Data Science Center Scadsai<br/>Uni<br/>Leipzig<br/></td>
-		<td><a href="https://twitter.com/haesleinhuepf">haesleinhuepf</a></td>
+		<td><a target="_blank" href="https://twitter.com/haesleinhuepf">haesleinhuepf</a></td>
 		<td>Leipzig Germany</td>
 		<td>531</td>
 	</tr>
@@ -5240,7 +5241,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alex Ott
 		</td>
 		<td>Alex Otts Consulting </td>
-		<td><a href="https://twitter.com/alexott_en">alexott_en</a></td>
+		<td><a target="_blank" href="https://twitter.com/alexott_en">alexott_en</a></td>
 		<td>Paderborn Germany</td>
 		<td>531</td>
 	</tr>
@@ -5253,7 +5254,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Heimes
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/ChristianHeimes">ChristianHeimes</a></td>
+		<td><a target="_blank" href="https://twitter.com/ChristianHeimes">ChristianHeimes</a></td>
 		<td>Hamburg Germany</td>
 		<td>530</td>
 	</tr>
@@ -5292,7 +5293,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			drakonia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dr4k0nia">dr4k0nia</a></td>
+		<td><a target="_blank" href="https://twitter.com/dr4k0nia">dr4k0nia</a></td>
 		<td>Germany</td>
 		<td>528</td>
 	</tr>
@@ -5305,7 +5306,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Fabrizio Branca
 		</td>
 		<td>Aoe </td>
-		<td><a href="https://twitter.com/fbrnc">fbrnc</a></td>
+		<td><a target="_blank" href="https://twitter.com/fbrnc">fbrnc</a></td>
 		<td>Wiesbaden Germany</td>
 		<td>528</td>
 	</tr>
@@ -5318,7 +5319,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Parpart
 		</td>
 		<td>Ethereum </td>
-		<td><a href="https://twitter.com/iamc9p7">iamc9p7</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamc9p7">iamc9p7</a></td>
 		<td>GermanyBerlin</td>
 		<td>525</td>
 	</tr>
@@ -5357,7 +5358,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Serhii Potapov
 		</td>
 		<td>@imperocom </td>
-		<td><a href="https://twitter.com/greyblake">greyblake</a></td>
+		<td><a target="_blank" href="https://twitter.com/greyblake">greyblake</a></td>
 		<td>Berlin</td>
 		<td>521</td>
 	</tr>
@@ -5383,7 +5384,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mahmoud Ahmed
 		</td>
 		<td>Software Engineer At Unitedprint<br/>Se<br/></td>
-		<td><a href="https://twitter.com/MahmouD_italy">MahmouD_italy</a></td>
+		<td><a target="_blank" href="https://twitter.com/MahmouD_italy">MahmouD_italy</a></td>
 		<td>Dresden Germany</td>
 		<td>520</td>
 	</tr>
@@ -5396,7 +5397,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Espendiller
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BigHaehnchen">BigHaehnchen</a></td>
+		<td><a target="_blank" href="https://twitter.com/BigHaehnchen">BigHaehnchen</a></td>
 		<td>Germany Reken</td>
 		<td>518</td>
 	</tr>
@@ -5422,7 +5423,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Kaisermann
 		</td>
 		<td>@getcircuit  </td>
-		<td><a href="https://twitter.com/kiwistian">kiwistian</a></td>
+		<td><a target="_blank" href="https://twitter.com/kiwistian">kiwistian</a></td>
 		<td>Berlin</td>
 		<td>515</td>
 	</tr>
@@ -5448,7 +5449,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			NeverSink
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/NeverSinkDev">NeverSinkDev</a></td>
+		<td><a target="_blank" href="https://twitter.com/NeverSinkDev">NeverSinkDev</a></td>
 		<td>Lbeck Germany</td>
 		<td>515</td>
 	</tr>
@@ -5474,7 +5475,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Boopathi Rajaa
 		</td>
 		<td>@zalando  </td>
-		<td><a href="https://twitter.com/heisenbugger">heisenbugger</a></td>
+		<td><a target="_blank" href="https://twitter.com/heisenbugger">heisenbugger</a></td>
 		<td>Berlin</td>
 		<td>514</td>
 	</tr>
@@ -5513,7 +5514,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			JanOtto Krpke
 		</td>
 		<td>@cloudeteer </td>
-		<td><a href="https://twitter.com/jkroepke">jkroepke</a></td>
+		<td><a target="_blank" href="https://twitter.com/jkroepke">jkroepke</a></td>
 		<td>Nuremberg Germany</td>
 		<td>512</td>
 	</tr>
@@ -5526,7 +5527,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Juanpe Bolvar
 		</td>
 		<td>Cto @bronzedev </td>
-		<td><a href="https://twitter.com/sinusoidalen">sinusoidalen</a></td>
+		<td><a target="_blank" href="https://twitter.com/sinusoidalen">sinusoidalen</a></td>
 		<td>Berlin Germany</td>
 		<td>512</td>
 	</tr>
@@ -5539,7 +5540,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kostas Minaidis
 		</td>
 		<td>Intechgrationio </td>
-		<td><a href="https://twitter.com/kostas_mns">kostas_mns</a></td>
+		<td><a target="_blank" href="https://twitter.com/kostas_mns">kostas_mns</a></td>
 		<td>Athens Greece  Berlin Germany</td>
 		<td>511</td>
 	</tr>
@@ -5578,7 +5579,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			FreeIPTV
 		</td>
 		<td>Freelancer </td>
-		<td><a href="https://twitter.com/FreeIPTV4Kodi">FreeIPTV4Kodi</a></td>
+		<td><a target="_blank" href="https://twitter.com/FreeIPTV4Kodi">FreeIPTV4Kodi</a></td>
 		<td>Germany</td>
 		<td>511</td>
 	</tr>
@@ -5604,7 +5605,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Hans Christian Reinl
 		</td>
 		<td>Sevenone Entertainment Group Prosiebensat1<br/></td>
-		<td><a href="https://twitter.com/drublic">drublic</a></td>
+		<td><a target="_blank" href="https://twitter.com/drublic">drublic</a></td>
 		<td>Cologne Germany</td>
 		<td>509</td>
 	</tr>
@@ -5617,7 +5618,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			andig
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/evcc_io">evcc_io</a></td>
+		<td><a target="_blank" href="https://twitter.com/evcc_io">evcc_io</a></td>
 		<td>Germany</td>
 		<td>508</td>
 	</tr>
@@ -5630,7 +5631,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Plappert
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mplappert">mplappert</a></td>
+		<td><a target="_blank" href="https://twitter.com/mplappert">mplappert</a></td>
 		<td>Berlin Germany</td>
 		<td>508</td>
 	</tr>
@@ -5656,7 +5657,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dr Stefan Schimanski
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/the_sttts">the_sttts</a></td>
+		<td><a target="_blank" href="https://twitter.com/the_sttts">the_sttts</a></td>
 		<td>Germany</td>
 		<td>507</td>
 	</tr>
@@ -5682,7 +5683,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Wolf Vollprecht
 		</td>
 		<td>Prefixdev Gmbh </td>
-		<td><a href="https://twitter.com/wuoulf">wuoulf</a></td>
+		<td><a target="_blank" href="https://twitter.com/wuoulf">wuoulf</a></td>
 		<td>Berlin</td>
 		<td>503</td>
 	</tr>
@@ -5721,7 +5722,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Karim Abou Zeid
 		</td>
 		<td>Rwth Aachen University </td>
-		<td><a href="https://twitter.com/kacodes">kacodes</a></td>
+		<td><a target="_blank" href="https://twitter.com/kacodes">kacodes</a></td>
 		<td>Aachen Germany</td>
 		<td>500</td>
 	</tr>
@@ -5747,7 +5748,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Simone Amorim
 		</td>
 		<td>@amperoai </td>
-		<td><a href="https://twitter.com/samorim02">samorim02</a></td>
+		<td><a target="_blank" href="https://twitter.com/samorim02">samorim02</a></td>
 		<td>BerlinGermany</td>
 		<td>499</td>
 	</tr>
@@ -5786,7 +5787,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ahmed Ammar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ahmedash95">ahmedash95</a></td>
+		<td><a target="_blank" href="https://twitter.com/ahmedash95">ahmedash95</a></td>
 		<td>Berlin Germany</td>
 		<td>497</td>
 	</tr>
@@ -5799,7 +5800,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nuh Koca
 		</td>
 		<td>@traderepublic </td>
-		<td><a href="https://twitter.com/nuhkoca_">nuhkoca_</a></td>
+		<td><a target="_blank" href="https://twitter.com/nuhkoca_">nuhkoca_</a></td>
 		<td>Berlin Germany</td>
 		<td>495</td>
 	</tr>
@@ -5812,7 +5813,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Kleine
 		</td>
 		<td>@hausautomation </td>
-		<td><a href="https://twitter.com/haus_automation">haus_automation</a></td>
+		<td><a target="_blank" href="https://twitter.com/haus_automation">haus_automation</a></td>
 		<td>Germany</td>
 		<td>495</td>
 	</tr>
@@ -5864,7 +5865,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Norbert Nopper
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/McNopper">McNopper</a></td>
+		<td><a target="_blank" href="https://twitter.com/McNopper">McNopper</a></td>
 		<td>Germany</td>
 		<td>491</td>
 	</tr>
@@ -5903,7 +5904,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Aria
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ariaminaei">ariaminaei</a></td>
+		<td><a target="_blank" href="https://twitter.com/ariaminaei">ariaminaei</a></td>
 		<td>Berlin  Helsinki</td>
 		<td>489</td>
 	</tr>
@@ -5916,7 +5917,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Anirudh Dagar
 		</td>
 		<td>@aws @autogluon @d2lai </td>
-		<td><a href="https://twitter.com/gollum_here">gollum_here</a></td>
+		<td><a target="_blank" href="https://twitter.com/gollum_here">gollum_here</a></td>
 		<td>Berlin</td>
 		<td>488</td>
 	</tr>
@@ -5955,7 +5956,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Oleg Abrazhaev
 		</td>
 		<td>Httpsseyfergithubioy </td>
-		<td><a href="https://twitter.com/abrazhaev">abrazhaev</a></td>
+		<td><a target="_blank" href="https://twitter.com/abrazhaev">abrazhaev</a></td>
 		<td>Berlin Germany</td>
 		<td>485</td>
 	</tr>
@@ -5968,7 +5969,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thorben Janssen
 		</td>
 		<td>Persistence Hub Founder And<br/>Java<br/>Persistence<br/>Specialist<br/></td>
-		<td><a href="https://twitter.com/thjanssen123">thjanssen123</a></td>
+		<td><a target="_blank" href="https://twitter.com/thjanssen123">thjanssen123</a></td>
 		<td>Paderborn Germany</td>
 		<td>485</td>
 	</tr>
@@ -6020,7 +6021,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Donncha  Cearbhaill
 		</td>
 		<td>@amnestytech  </td>
-		<td><a href="https://twitter.com/DonnchaC">DonnchaC</a></td>
+		<td><a target="_blank" href="https://twitter.com/DonnchaC">DonnchaC</a></td>
 		<td>Berlin</td>
 		<td>482</td>
 	</tr>
@@ -6072,7 +6073,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ren Fhring
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rrrene">rrrene</a></td>
+		<td><a target="_blank" href="https://twitter.com/rrrene">rrrene</a></td>
 		<td>NRW Germany</td>
 		<td>477</td>
 	</tr>
@@ -6085,7 +6086,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Michael Simons
 		</td>
 		<td>@neo4j  </td>
-		<td><a href="https://twitter.com/rotnroll666">rotnroll666</a></td>
+		<td><a target="_blank" href="https://twitter.com/rotnroll666">rotnroll666</a></td>
 		<td>Aachen Germany</td>
 		<td>476</td>
 	</tr>
@@ -6111,7 +6112,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kai Sassnowski
 		</td>
 		<td>@wycomco  </td>
-		<td><a href="https://twitter.com/warsh33p">warsh33p</a></td>
+		<td><a target="_blank" href="https://twitter.com/warsh33p">warsh33p</a></td>
 		<td>Munich Germany</td>
 		<td>475</td>
 	</tr>
@@ -6137,7 +6138,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Simon H
 		</td>
 		<td>Vercel </td>
-		<td><a href="https://twitter.com/dummdidumm_">dummdidumm_</a></td>
+		<td><a target="_blank" href="https://twitter.com/dummdidumm_">dummdidumm_</a></td>
 		<td>Germany</td>
 		<td>474</td>
 	</tr>
@@ -6189,7 +6190,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			No Name
 		</td>
 		<td>@revanced </td>
-		<td><a href="https://twitter.com/oSumAtrIX">oSumAtrIX</a></td>
+		<td><a target="_blank" href="https://twitter.com/oSumAtrIX">oSumAtrIX</a></td>
 		<td>Germany</td>
 		<td>472</td>
 	</tr>
@@ -6202,7 +6203,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dr Ralf S Engelschall
 		</td>
 		<td>Msg Research Msg Systems<br/>Ag<br/></td>
-		<td><a href="https://twitter.com/engelschall">engelschall</a></td>
+		<td><a target="_blank" href="https://twitter.com/engelschall">engelschall</a></td>
 		<td>Germany</td>
 		<td>472</td>
 	</tr>
@@ -6280,7 +6281,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mathias Meyer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/roidrage">roidrage</a></td>
+		<td><a target="_blank" href="https://twitter.com/roidrage">roidrage</a></td>
 		<td>Berlin Germany</td>
 		<td>468</td>
 	</tr>
@@ -6319,7 +6320,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Loibl
 		</td>
 		<td>@polarsignals </td>
-		<td><a href="https://twitter.com/metalmatze">metalmatze</a></td>
+		<td><a target="_blank" href="https://twitter.com/metalmatze">metalmatze</a></td>
 		<td>Berlin</td>
 		<td>465</td>
 	</tr>
@@ -6345,7 +6346,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Hahler
 		</td>
 		<td>Freelancer Up For Hire<br/></td>
-		<td><a href="https://twitter.com/blueyed">blueyed</a></td>
+		<td><a target="_blank" href="https://twitter.com/blueyed">blueyed</a></td>
 		<td>Berlin Germany</td>
 		<td>464</td>
 	</tr>
@@ -6371,7 +6372,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Peter Pistorius
 		</td>
 		<td>@snaplet @redwoodjs </td>
-		<td><a href="https://twitter.com/appfactory">appfactory</a></td>
+		<td><a target="_blank" href="https://twitter.com/appfactory">appfactory</a></td>
 		<td>Berlin</td>
 		<td>462</td>
 	</tr>
@@ -6475,7 +6476,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Koki Ibukuro
 		</td>
 		<td>Freelance  @whateverco </td>
-		<td><a href="https://twitter.com/asus4">asus4</a></td>
+		<td><a target="_blank" href="https://twitter.com/asus4">asus4</a></td>
 		<td>Berlin</td>
 		<td>454</td>
 	</tr>
@@ -6488,7 +6489,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Laurin Quast
 		</td>
 		<td>@theguildorg </td>
-		<td><a href="https://twitter.com/n1rual">n1rual</a></td>
+		<td><a target="_blank" href="https://twitter.com/n1rual">n1rual</a></td>
 		<td>BW Germany</td>
 		<td>454</td>
 	</tr>
@@ -6514,7 +6515,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tobias Pfeiffer
 		</td>
 		<td>Remotecom </td>
-		<td><a href="https://twitter.com/PragTob">PragTob</a></td>
+		<td><a target="_blank" href="https://twitter.com/PragTob">PragTob</a></td>
 		<td>Berlin</td>
 		<td>453</td>
 	</tr>
@@ -6605,7 +6606,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ziad Bari
 		</td>
 		<td>Mystro Gmbh  Hochschule<br/>Koblenz<br/></td>
-		<td><a href="https://twitter.com/barry450643">barry450643</a></td>
+		<td><a target="_blank" href="https://twitter.com/barry450643">barry450643</a></td>
 		<td>Germany Bonn</td>
 		<td>450</td>
 	</tr>
@@ -6631,7 +6632,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			billy rennekamp
 		</td>
 		<td>@cloversnetwork  @foliaapp Prev<br/>@cosmos<br/><br/>@interchainio<br/></td>
-		<td><a href="https://twitter.com/billyrennekamp">billyrennekamp</a></td>
+		<td><a target="_blank" href="https://twitter.com/billyrennekamp">billyrennekamp</a></td>
 		<td>Berlin</td>
 		<td>449</td>
 	</tr>
@@ -6670,7 +6671,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Stefan Walther
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/waltherstefan">waltherstefan</a></td>
+		<td><a target="_blank" href="https://twitter.com/waltherstefan">waltherstefan</a></td>
 		<td>Landsberg a Lech Germany</td>
 		<td>448</td>
 	</tr>
@@ -6696,7 +6697,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tim Ermilov
 		</td>
 		<td>@databorg </td>
-		<td><a href="https://twitter.com/yamalight">yamalight</a></td>
+		<td><a target="_blank" href="https://twitter.com/yamalight">yamalight</a></td>
 		<td>Germany</td>
 		<td>445</td>
 	</tr>
@@ -6709,7 +6710,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Theo M Bulut
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vertexclique">vertexclique</a></td>
+		<td><a target="_blank" href="https://twitter.com/vertexclique">vertexclique</a></td>
 		<td>Berlin Germany</td>
 		<td>445</td>
 	</tr>
@@ -6748,7 +6749,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			oneMarcFifty
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/onemarcfifty">onemarcfifty</a></td>
+		<td><a target="_blank" href="https://twitter.com/onemarcfifty">onemarcfifty</a></td>
 		<td>Germany</td>
 		<td>443</td>
 	</tr>
@@ -6774,7 +6775,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Felix Khler
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/felix_m_koehler">felix_m_koehler</a></td>
+		<td><a target="_blank" href="https://twitter.com/felix_m_koehler">felix_m_koehler</a></td>
 		<td>Munich</td>
 		<td>442</td>
 	</tr>
@@ -6787,7 +6788,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ana Mara Martnez Gmez
 		</td>
 		<td>@mandiant @google </td>
-		<td><a href="https://twitter.com/anamma_06">anamma_06</a></td>
+		<td><a target="_blank" href="https://twitter.com/anamma_06">anamma_06</a></td>
 		<td>Germany</td>
 		<td>441</td>
 	</tr>
@@ -6800,7 +6801,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kizito Nwose
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kizitonwose">kizitonwose</a></td>
+		<td><a target="_blank" href="https://twitter.com/kizitonwose">kizitonwose</a></td>
 		<td>Munich Germany</td>
 		<td>441</td>
 	</tr>
@@ -6826,7 +6827,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Engin Diri
 		</td>
 		<td>Pulumi </td>
-		<td><a href="https://twitter.com/_ediri">_ediri</a></td>
+		<td><a target="_blank" href="https://twitter.com/_ediri">_ediri</a></td>
 		<td>Heilbronn Germany</td>
 		<td>440</td>
 	</tr>
@@ -6839,7 +6840,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tess Rinearson
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/_tessr">_tessr</a></td>
+		<td><a target="_blank" href="https://twitter.com/_tessr">_tessr</a></td>
 		<td>Berlin</td>
 		<td>439</td>
 	</tr>
@@ -6852,7 +6853,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Pfefferle
 		</td>
 		<td>@automattic </td>
-		<td><a href="https://twitter.com/pfefferle">pfefferle</a></td>
+		<td><a target="_blank" href="https://twitter.com/pfefferle">pfefferle</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>438</td>
 	</tr>
@@ -6878,7 +6879,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Piotr Sarnacki
 		</td>
 		<td>Looking For Work </td>
-		<td><a href="https://twitter.com/drogus">drogus</a></td>
+		<td><a target="_blank" href="https://twitter.com/drogus">drogus</a></td>
 		<td>Berlin</td>
 		<td>434</td>
 	</tr>
@@ -6917,7 +6918,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Rudolph
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/virtualvoid">virtualvoid</a></td>
+		<td><a target="_blank" href="https://twitter.com/virtualvoid">virtualvoid</a></td>
 		<td>Freiburg Germany</td>
 		<td>433</td>
 	</tr>
@@ -6930,7 +6931,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Felix Gnass
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fgnass">fgnass</a></td>
+		<td><a target="_blank" href="https://twitter.com/fgnass">fgnass</a></td>
 		<td>Hamburg DE</td>
 		<td>429</td>
 	</tr>
@@ -6943,7 +6944,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shahriyar Rzayev
 		</td>
 		<td>Nordvpn </td>
-		<td><a href="https://twitter.com/ShahriyarRzayev">ShahriyarRzayev</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShahriyarRzayev">ShahriyarRzayev</a></td>
 		<td>Germany</td>
 		<td>428</td>
 	</tr>
@@ -6956,7 +6957,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Evaldo Bento
 		</td>
 		<td>Newstore </td>
-		<td><a href="https://twitter.com/InFog9">InFog9</a></td>
+		<td><a target="_blank" href="https://twitter.com/InFog9">InFog9</a></td>
 		<td>Berlin Germany</td>
 		<td>428</td>
 	</tr>
@@ -7034,7 +7035,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andy Grunwald
 		</td>
 		<td>@aiven @sourcectl </td>
-		<td><a href="https://twitter.com/andygrunwald">andygrunwald</a></td>
+		<td><a target="_blank" href="https://twitter.com/andygrunwald">andygrunwald</a></td>
 		<td>Duisburg Germany</td>
 		<td>421</td>
 	</tr>
@@ -7073,7 +7074,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Abhishek Choudhary
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ubunta">ubunta</a></td>
+		<td><a target="_blank" href="https://twitter.com/ubunta">ubunta</a></td>
 		<td>Berlin Germany</td>
 		<td>419</td>
 	</tr>
@@ -7125,7 +7126,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lars Moelleken
 		</td>
 		<td>Remondis It Services Gmbh<br/></td>
-		<td><a href="https://twitter.com/suckup_de">suckup_de</a></td>
+		<td><a target="_blank" href="https://twitter.com/suckup_de">suckup_de</a></td>
 		<td>Voerde Germany</td>
 		<td>417</td>
 	</tr>
@@ -7138,7 +7139,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sagar Viradiya
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/viradiya_sagar">viradiya_sagar</a></td>
+		<td><a target="_blank" href="https://twitter.com/viradiya_sagar">viradiya_sagar</a></td>
 		<td>Berlin Germany</td>
 		<td>417</td>
 	</tr>
@@ -7151,7 +7152,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Rashiq
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rashiq">rashiq</a></td>
+		<td><a target="_blank" href="https://twitter.com/rashiq">rashiq</a></td>
 		<td>Berlin Germany </td>
 		<td>415</td>
 	</tr>
@@ -7164,7 +7165,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Florian Rappl
 		</td>
 		<td>@smapiot </td>
-		<td><a href="https://twitter.com/FlorianRappl">FlorianRappl</a></td>
+		<td><a target="_blank" href="https://twitter.com/FlorianRappl">FlorianRappl</a></td>
 		<td>Munich Germany</td>
 		<td>414</td>
 	</tr>
@@ -7229,7 +7230,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Hitesh Sahu
 		</td>
 		<td>Thoughtworks Munich </td>
-		<td><a href="https://twitter.com/HiteshSahu_">HiteshSahu_</a></td>
+		<td><a target="_blank" href="https://twitter.com/HiteshSahu_">HiteshSahu_</a></td>
 		<td>Munich Germany</td>
 		<td>412</td>
 	</tr>
@@ -7255,7 +7256,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shahriar Shahrabi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/IRCSS">IRCSS</a></td>
+		<td><a target="_blank" href="https://twitter.com/IRCSS">IRCSS</a></td>
 		<td>Berlin</td>
 		<td>411</td>
 	</tr>
@@ -7268,7 +7269,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Aregtech
 		</td>
 		<td>Aregtech </td>
-		<td><a href="https://twitter.com/aregtech">aregtech</a></td>
+		<td><a target="_blank" href="https://twitter.com/aregtech">aregtech</a></td>
 		<td>Munich Germany</td>
 		<td>409</td>
 	</tr>
@@ -7294,7 +7295,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nicola Molinari
 		</td>
 		<td>@commercetools </td>
-		<td><a href="https://twitter.com/emmenko">emmenko</a></td>
+		<td><a target="_blank" href="https://twitter.com/emmenko">emmenko</a></td>
 		<td>Munich</td>
 		<td>408</td>
 	</tr>
@@ -7320,7 +7321,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shirin Elsinghorst
 		</td>
 		<td>@codecentric  </td>
-		<td><a href="https://twitter.com/ShirinGlander">ShirinGlander</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShirinGlander">ShirinGlander</a></td>
 		<td>Germany</td>
 		<td>408</td>
 	</tr>
@@ -7333,7 +7334,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			AlexDenisov
 		</td>
 		<td>@github </td>
-		<td><a href="https://twitter.com/1101_debian">1101_debian</a></td>
+		<td><a target="_blank" href="https://twitter.com/1101_debian">1101_debian</a></td>
 		<td>Berlin</td>
 		<td>407</td>
 	</tr>
@@ -7359,7 +7360,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dominic Rampas
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dome39931447">dome39931447</a></td>
+		<td><a target="_blank" href="https://twitter.com/dome39931447">dome39931447</a></td>
 		<td>Germany</td>
 		<td>407</td>
 	</tr>
@@ -7372,7 +7373,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Fabian Morn Zirfas
 		</td>
 		<td>@technologiestiftung </td>
-		<td><a href="https://twitter.com/fmoronzirfas">fmoronzirfas</a></td>
+		<td><a target="_blank" href="https://twitter.com/fmoronzirfas">fmoronzirfas</a></td>
 		<td>Berlin</td>
 		<td>406</td>
 	</tr>
@@ -7385,7 +7386,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Oscar Franco
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ospfranco">ospfranco</a></td>
+		<td><a target="_blank" href="https://twitter.com/ospfranco">ospfranco</a></td>
 		<td>Munich Germany</td>
 		<td>406</td>
 	</tr>
@@ -7411,7 +7412,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			A Murat Eren Meren
 		</td>
 		<td>Helmholtz Institute For Functional<br/>Marine<br/>Biodiversity<br/></td>
-		<td><a href="https://twitter.com/merenbey">merenbey</a></td>
+		<td><a target="_blank" href="https://twitter.com/merenbey">merenbey</a></td>
 		<td>Oldenburg Germany</td>
 		<td>405</td>
 	</tr>
@@ -7424,7 +7425,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vladimir
 		</td>
 		<td>Zammad </td>
-		<td><a href="https://twitter.com/sheremet_va">sheremet_va</a></td>
+		<td><a target="_blank" href="https://twitter.com/sheremet_va">sheremet_va</a></td>
 		<td>Germany Berlin</td>
 		<td>403</td>
 	</tr>
@@ -7450,7 +7451,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Philipp Hagemeister
 		</td>
 		<td>Tonies </td>
-		<td><a href="https://twitter.com/phihag">phihag</a></td>
+		<td><a target="_blank" href="https://twitter.com/phihag">phihag</a></td>
 		<td>Germany</td>
 		<td>403</td>
 	</tr>
@@ -7476,7 +7477,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Raphael Pierzina
 		</td>
 		<td>@mozilla </td>
-		<td><a href="https://twitter.com/hackebrot">hackebrot</a></td>
+		<td><a target="_blank" href="https://twitter.com/hackebrot">hackebrot</a></td>
 		<td>Berlin Germany</td>
 		<td>402</td>
 	</tr>
@@ -7515,7 +7516,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sagar Khurana
 		</td>
 		<td>@getyourguide </td>
-		<td><a href="https://twitter.com/hellosagarCode">hellosagarCode</a></td>
+		<td><a target="_blank" href="https://twitter.com/hellosagarCode">hellosagarCode</a></td>
 		<td>Berlin Germany</td>
 		<td>399</td>
 	</tr>
@@ -7554,7 +7555,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dan Wilcox
 		</td>
 		<td>@zkmkarlsruhe </td>
-		<td><a href="https://twitter.com/danomatika">danomatika</a></td>
+		<td><a target="_blank" href="https://twitter.com/danomatika">danomatika</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>397</td>
 	</tr>
@@ -7619,7 +7620,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Golo Roden
 		</td>
 		<td>The Native Web Gmbh<br/></td>
-		<td><a href="https://twitter.com/goloroden">goloroden</a></td>
+		<td><a target="_blank" href="https://twitter.com/goloroden">goloroden</a></td>
 		<td>Freiburg im Breisgau Germany</td>
 		<td>394</td>
 	</tr>
@@ -7632,7 +7633,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Boldt
 		</td>
 		<td>Immowelt </td>
-		<td><a href="https://twitter.com/sebastianboldt">sebastianboldt</a></td>
+		<td><a target="_blank" href="https://twitter.com/sebastianboldt">sebastianboldt</a></td>
 		<td>Hamburg</td>
 		<td>394</td>
 	</tr>
@@ -7645,7 +7646,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jan Heinrich Reimer
 		</td>
 		<td>Research Associate @webisde </td>
-		<td><a href="https://twitter.com/H1iReimer">H1iReimer</a></td>
+		<td><a target="_blank" href="https://twitter.com/H1iReimer">H1iReimer</a></td>
 		<td>Braunschweig Germany</td>
 		<td>393</td>
 	</tr>
@@ -7658,7 +7659,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Felicitas Pojtinger
 		</td>
 		<td>@loopholelabs </td>
-		<td><a href="https://twitter.com/pojntfx">pojntfx</a></td>
+		<td><a target="_blank" href="https://twitter.com/pojntfx">pojntfx</a></td>
 		<td>Stuttgart Germany</td>
 		<td>392</td>
 	</tr>
@@ -7671,7 +7672,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			David
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/z3r0dy">z3r0dy</a></td>
+		<td><a target="_blank" href="https://twitter.com/z3r0dy">z3r0dy</a></td>
 		<td>Germany</td>
 		<td>391</td>
 	</tr>
@@ -7710,7 +7711,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marius Rackwitz
 		</td>
 		<td>Wellspent </td>
-		<td><a href="https://twitter.com/mrackwitz">mrackwitz</a></td>
+		<td><a target="_blank" href="https://twitter.com/mrackwitz">mrackwitz</a></td>
 		<td>Remote  Berlin Germany</td>
 		<td>390</td>
 	</tr>
@@ -7723,7 +7724,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mikhail Davydov
 		</td>
 		<td>Arrival Germany Gmbh </td>
-		<td><a href="https://twitter.com/azproduction">azproduction</a></td>
+		<td><a target="_blank" href="https://twitter.com/azproduction">azproduction</a></td>
 		<td>Germany Berlin</td>
 		<td>390</td>
 	</tr>
@@ -7762,7 +7763,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tim Roes
 		</td>
 		<td>@airbytehq </td>
-		<td><a href="https://twitter.com/tim_roes">tim_roes</a></td>
+		<td><a target="_blank" href="https://twitter.com/tim_roes">tim_roes</a></td>
 		<td>Ravensburg Germany</td>
 		<td>388</td>
 	</tr>
@@ -7801,7 +7802,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Rashedul Alam Shakil
 		</td>
 		<td>Founder Of Study Mart<br/></td>
-		<td><a href="https://twitter.com/iamrashakil">iamrashakil</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamrashakil">iamrashakil</a></td>
 		<td>Bayern Germany</td>
 		<td>387</td>
 	</tr>
@@ -7840,7 +7841,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andrey Kuzmin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/unsoundscapes">unsoundscapes</a></td>
+		<td><a target="_blank" href="https://twitter.com/unsoundscapes">unsoundscapes</a></td>
 		<td>Berlin Germany</td>
 		<td>386</td>
 	</tr>
@@ -7853,7 +7854,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Reini Urban
 		</td>
 		<td>Nubixde </td>
-		<td><a href="https://twitter.com/Reini_Urban">Reini_Urban</a></td>
+		<td><a target="_blank" href="https://twitter.com/Reini_Urban">Reini_Urban</a></td>
 		<td>Dresden Germany</td>
 		<td>385</td>
 	</tr>
@@ -7957,7 +7958,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lucas Michot
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iamlucasmichot">iamlucasmichot</a></td>
+		<td><a target="_blank" href="https://twitter.com/iamlucasmichot">iamlucasmichot</a></td>
 		<td>Berlin Germany</td>
 		<td>380</td>
 	</tr>
@@ -7970,7 +7971,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Martin Larralde
 		</td>
 		<td>Embl @zellerlab </td>
-		<td><a href="https://twitter.com/althonos">althonos</a></td>
+		<td><a target="_blank" href="https://twitter.com/althonos">althonos</a></td>
 		<td>Heidelberg Germany</td>
 		<td>380</td>
 	</tr>
@@ -7983,7 +7984,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alexander Reelsen
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/spinscale">spinscale</a></td>
+		<td><a target="_blank" href="https://twitter.com/spinscale">spinscale</a></td>
 		<td>Emsdetten Germany</td>
 		<td>380</td>
 	</tr>
@@ -8035,7 +8036,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Emergency SelfConstruct
 		</td>
 		<td>Anaconda Inc </td>
-		<td><a href="https://twitter.com/esc___">esc___</a></td>
+		<td><a target="_blank" href="https://twitter.com/esc___">esc___</a></td>
 		<td>Berlin Germany</td>
 		<td>379</td>
 	</tr>
@@ -8074,7 +8075,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Juan Orduz
 		</td>
 		<td>Wolt </td>
-		<td><a href="https://twitter.com/juanitorduz">juanitorduz</a></td>
+		<td><a target="_blank" href="https://twitter.com/juanitorduz">juanitorduz</a></td>
 		<td>Berlin</td>
 		<td>376</td>
 	</tr>
@@ -8087,7 +8088,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andy Wermke
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/andywritescode">andywritescode</a></td>
+		<td><a target="_blank" href="https://twitter.com/andywritescode">andywritescode</a></td>
 		<td>Berlin Germany</td>
 		<td>376</td>
 	</tr>
@@ -8100,7 +8101,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Joseph Turian
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/turian">turian</a></td>
+		<td><a target="_blank" href="https://twitter.com/turian">turian</a></td>
 		<td>Berlin  New York</td>
 		<td>374</td>
 	</tr>
@@ -8113,7 +8114,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ravan Scafi
 		</td>
 		<td>@hellofresh </td>
-		<td><a href="https://twitter.com/ravanscafi">ravanscafi</a></td>
+		<td><a target="_blank" href="https://twitter.com/ravanscafi">ravanscafi</a></td>
 		<td>Berlin Germany</td>
 		<td>374</td>
 	</tr>
@@ -8191,7 +8192,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tim Pritlove
 		</td>
 		<td>Metaebene Personal Media </td>
-		<td><a href="https://twitter.com/timpritlove">timpritlove</a></td>
+		<td><a target="_blank" href="https://twitter.com/timpritlove">timpritlove</a></td>
 		<td>Berlin Germany</td>
 		<td>372</td>
 	</tr>
@@ -8243,7 +8244,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Vallentin
 		</td>
 		<td>Tenzir </td>
-		<td><a href="https://twitter.com/mavam">mavam</a></td>
+		<td><a target="_blank" href="https://twitter.com/mavam">mavam</a></td>
 		<td>Hamburg Germany</td>
 		<td>370</td>
 	</tr>
@@ -8282,7 +8283,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Arne Blankerts
 		</td>
 		<td>Thephpcc </td>
-		<td><a href="https://twitter.com/arneblankerts">arneblankerts</a></td>
+		<td><a target="_blank" href="https://twitter.com/arneblankerts">arneblankerts</a></td>
 		<td>Hamburg</td>
 		<td>368</td>
 	</tr>
@@ -8295,7 +8296,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Levent Arman zak
 		</td>
 		<td>Sap  </td>
-		<td><a href="https://twitter.com/ArmanOzak">ArmanOzak</a></td>
+		<td><a target="_blank" href="https://twitter.com/ArmanOzak">ArmanOzak</a></td>
 		<td>Dsseldorf</td>
 		<td>368</td>
 	</tr>
@@ -8308,7 +8309,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lisa Charlotte Muth
 		</td>
 		<td>@datawrapper </td>
-		<td><a href="https://twitter.com/lisacmuth">lisacmuth</a></td>
+		<td><a target="_blank" href="https://twitter.com/lisacmuth">lisacmuth</a></td>
 		<td>Berlin Germany</td>
 		<td>368</td>
 	</tr>
@@ -8321,7 +8322,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Martin Szulecki
 		</td>
 		<td>Mirell Development </td>
-		<td><a href="https://twitter.com/martinszulecki">martinszulecki</a></td>
+		<td><a target="_blank" href="https://twitter.com/martinszulecki">martinszulecki</a></td>
 		<td>Germany</td>
 		<td>368</td>
 	</tr>
@@ -8334,7 +8335,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Hans Knchel
 		</td>
 		<td>Lambus </td>
-		<td><a href="https://twitter.com/hansemannnn">hansemannnn</a></td>
+		<td><a target="_blank" href="https://twitter.com/hansemannnn">hansemannnn</a></td>
 		<td>Osnabrck Germany</td>
 		<td>367</td>
 	</tr>
@@ -8347,7 +8348,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tiger Abrodi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/TAbrodi">TAbrodi</a></td>
+		<td><a target="_blank" href="https://twitter.com/TAbrodi">TAbrodi</a></td>
 		<td>Germany</td>
 		<td>367</td>
 	</tr>
@@ -8386,7 +8387,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonas Haag
 		</td>
 		<td>@quantco </td>
-		<td><a href="https://twitter.com/_jonashaag">_jonashaag</a></td>
+		<td><a target="_blank" href="https://twitter.com/_jonashaag">_jonashaag</a></td>
 		<td>Heidelberg Germany</td>
 		<td>366</td>
 	</tr>
@@ -8412,7 +8413,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Zubair Rehman
 		</td>
 		<td>Choco </td>
-		<td><a href="https://twitter.com/zubair340">zubair340</a></td>
+		<td><a target="_blank" href="https://twitter.com/zubair340">zubair340</a></td>
 		<td>Berlin</td>
 		<td>365</td>
 	</tr>
@@ -8477,7 +8478,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Stephan BnnemannWalenta
 		</td>
 		<td>@prosperitytech </td>
-		<td><a href="https://twitter.com/boennemann">boennemann</a></td>
+		<td><a target="_blank" href="https://twitter.com/boennemann">boennemann</a></td>
 		<td>Berlin Europe</td>
 		<td>363</td>
 	</tr>
@@ -8490,7 +8491,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Benedikt Terhechte
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/terhechte">terhechte</a></td>
+		<td><a target="_blank" href="https://twitter.com/terhechte">terhechte</a></td>
 		<td>Hamburg</td>
 		<td>363</td>
 	</tr>
@@ -8529,7 +8530,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Till Schneidereit
 		</td>
 		<td>@bytecodealliance @fermyon </td>
-		<td><a href="https://twitter.com/tschneidereit">tschneidereit</a></td>
+		<td><a target="_blank" href="https://twitter.com/tschneidereit">tschneidereit</a></td>
 		<td>Germany</td>
 		<td>363</td>
 	</tr>
@@ -8555,7 +8556,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dominik Schilling
 		</td>
 		<td>@wearerequired </td>
-		<td><a href="https://twitter.com/ocean90">ocean90</a></td>
+		<td><a target="_blank" href="https://twitter.com/ocean90">ocean90</a></td>
 		<td>Cologne Germany</td>
 		<td>361</td>
 	</tr>
@@ -8594,7 +8595,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alexander M Turek
 		</td>
 		<td>Alexander M Turek </td>
-		<td><a href="https://twitter.com/derrabus">derrabus</a></td>
+		<td><a target="_blank" href="https://twitter.com/derrabus">derrabus</a></td>
 		<td>Dsseldorf Germany</td>
 		<td>359</td>
 	</tr>
@@ -8659,7 +8660,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jens Maus
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MausJens">MausJens</a></td>
+		<td><a target="_blank" href="https://twitter.com/MausJens">MausJens</a></td>
 		<td>Dresden Germany</td>
 		<td>357</td>
 	</tr>
@@ -8672,7 +8673,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Leah
 		</td>
 		<td>Software Engineer @vercel </td>
-		<td><a href="https://twitter.com/hrmny_">hrmny_</a></td>
+		<td><a target="_blank" href="https://twitter.com/hrmny_">hrmny_</a></td>
 		<td>Berlin Germany</td>
 		<td>356</td>
 	</tr>
@@ -8685,7 +8686,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Clemens Vasters
 		</td>
 		<td>Microsoft Corporation </td>
-		<td><a href="https://twitter.com/clemensv">clemensv</a></td>
+		<td><a target="_blank" href="https://twitter.com/clemensv">clemensv</a></td>
 		<td>Viersen Germany</td>
 		<td>356</td>
 	</tr>
@@ -8698,7 +8699,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Chris Swithinbank
 		</td>
 		<td>@withastro </td>
-		<td><a href="https://twitter.com/swithinbank">swithinbank</a></td>
+		<td><a target="_blank" href="https://twitter.com/swithinbank">swithinbank</a></td>
 		<td>Berlin Germany</td>
 		<td>355</td>
 	</tr>
@@ -8724,7 +8725,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Felix Queiner
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ikskuh">ikskuh</a></td>
+		<td><a target="_blank" href="https://twitter.com/ikskuh">ikskuh</a></td>
 		<td>Stuttgart  Germany</td>
 		<td>355</td>
 	</tr>
@@ -8737,7 +8738,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vladimir Metnew
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vladimir_metnew">vladimir_metnew</a></td>
+		<td><a target="_blank" href="https://twitter.com/vladimir_metnew">vladimir_metnew</a></td>
 		<td>Berlin DE</td>
 		<td>355</td>
 	</tr>
@@ -8750,7 +8751,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tom Herrmann
 		</td>
 		<td>@smartbnb  @astrotomic </td>
-		<td><a href="https://twitter.com/devgummibeer">devgummibeer</a></td>
+		<td><a target="_blank" href="https://twitter.com/devgummibeer">devgummibeer</a></td>
 		<td>Hamburg Germany</td>
 		<td>354</td>
 	</tr>
@@ -8789,7 +8790,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Robin Weser
 		</td>
 		<td>Weserio </td>
-		<td><a href="https://twitter.com/robinweser">robinweser</a></td>
+		<td><a target="_blank" href="https://twitter.com/robinweser">robinweser</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>353</td>
 	</tr>
@@ -8802,7 +8803,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tim Daubenschtz
 		</td>
 		<td>Attestate </td>
-		<td><a href="https://twitter.com/timdaub">timdaub</a></td>
+		<td><a target="_blank" href="https://twitter.com/timdaub">timdaub</a></td>
 		<td>Berlin</td>
 		<td>353</td>
 	</tr>
@@ -8815,7 +8816,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tom Schmelzer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/schmelto2">schmelto2</a></td>
+		<td><a target="_blank" href="https://twitter.com/schmelto2">schmelto2</a></td>
 		<td>Germany</td>
 		<td>353</td>
 	</tr>
@@ -8828,7 +8829,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ivan Franchin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ivangfr">ivangfr</a></td>
+		<td><a target="_blank" href="https://twitter.com/ivangfr">ivangfr</a></td>
 		<td>Berlin Germany</td>
 		<td>353</td>
 	</tr>
@@ -8841,7 +8842,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Till Rohrmann
 		</td>
 		<td>Restate </td>
-		<td><a href="https://twitter.com/stsffap">stsffap</a></td>
+		<td><a target="_blank" href="https://twitter.com/stsffap">stsffap</a></td>
 		<td>Berlin Germany</td>
 		<td>352</td>
 	</tr>
@@ -8854,7 +8855,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Kian Paimani
 		</td>
 		<td>@paritytech  </td>
-		<td><a href="https://twitter.com/kianenigma">kianenigma</a></td>
+		<td><a target="_blank" href="https://twitter.com/kianenigma">kianenigma</a></td>
 		<td>Berlin</td>
 		<td>352</td>
 	</tr>
@@ -8893,7 +8894,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Rieke
 		</td>
 		<td>@streamlit </td>
-		<td><a href="https://twitter.com/jrieke">jrieke</a></td>
+		<td><a target="_blank" href="https://twitter.com/jrieke">jrieke</a></td>
 		<td>Berlin Germany</td>
 		<td>352</td>
 	</tr>
@@ -8906,7 +8907,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Pierre
 		</td>
 		<td>@github </td>
-		<td><a href="https://twitter.com/summarity">summarity</a></td>
+		<td><a target="_blank" href="https://twitter.com/summarity">summarity</a></td>
 		<td>Berlin Germany</td>
 		<td>351</td>
 	</tr>
@@ -8958,7 +8959,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dustin Deus
 		</td>
 		<td>Wundergraph Inc </td>
-		<td><a href="https://twitter.com/dustindeus">dustindeus</a></td>
+		<td><a target="_blank" href="https://twitter.com/dustindeus">dustindeus</a></td>
 		<td>Germany</td>
 		<td>350</td>
 	</tr>
@@ -8984,7 +8985,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Markus Holtermann
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/m_holtermann">m_holtermann</a></td>
+		<td><a target="_blank" href="https://twitter.com/m_holtermann">m_holtermann</a></td>
 		<td>Berlin</td>
 		<td>350</td>
 	</tr>
@@ -9036,7 +9037,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lars Melchior
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/TheLartians">TheLartians</a></td>
+		<td><a target="_blank" href="https://twitter.com/TheLartians">TheLartians</a></td>
 		<td>Berlin</td>
 		<td>348</td>
 	</tr>
@@ -9101,7 +9102,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ashish Yadav
 		</td>
 		<td>@justeattakeaway </td>
-		<td><a href="https://twitter.com/ashiishme">ashiishme</a></td>
+		<td><a target="_blank" href="https://twitter.com/ashiishme">ashiishme</a></td>
 		<td>Berlin Germany</td>
 		<td>346</td>
 	</tr>
@@ -9140,7 +9141,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Claudio Jolowicz
 		</td>
 		<td>@cloudflare </td>
-		<td><a href="https://twitter.com/cjolowicz">cjolowicz</a></td>
+		<td><a target="_blank" href="https://twitter.com/cjolowicz">cjolowicz</a></td>
 		<td>Berlin Germany</td>
 		<td>345</td>
 	</tr>
@@ -9153,7 +9154,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Mller
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/sbstjn">sbstjn</a></td>
+		<td><a target="_blank" href="https://twitter.com/sbstjn">sbstjn</a></td>
 		<td>Hamburg DE</td>
 		<td>344</td>
 	</tr>
@@ -9166,7 +9167,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mariano Guerra
 		</td>
 		<td>Instadeq </td>
-		<td><a href="https://twitter.com/warianoguerra">warianoguerra</a></td>
+		<td><a target="_blank" href="https://twitter.com/warianoguerra">warianoguerra</a></td>
 		<td>Stuttgart Germany</td>
 		<td>344</td>
 	</tr>
@@ -9179,7 +9180,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			inxomnyaa
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/inxomnyaa">inxomnyaa</a></td>
+		<td><a target="_blank" href="https://twitter.com/inxomnyaa">inxomnyaa</a></td>
 		<td>Germany</td>
 		<td>344</td>
 	</tr>
@@ -9192,7 +9193,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Antnio P P Almeida
 		</td>
 		<td>Perusio Llc  Up42<br/></td>
-		<td><a href="https://twitter.com/perusio">perusio</a></td>
+		<td><a target="_blank" href="https://twitter.com/perusio">perusio</a></td>
 		<td>Berlin Germany</td>
 		<td>344</td>
 	</tr>
@@ -9270,7 +9271,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Joachim Bauch
 		</td>
 		<td>Struktur Ag @strukturag </td>
-		<td><a href="https://twitter.com/fancycode">fancycode</a></td>
+		<td><a target="_blank" href="https://twitter.com/fancycode">fancycode</a></td>
 		<td>Stuttgart Germany</td>
 		<td>341</td>
 	</tr>
@@ -9335,7 +9336,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Carlos Tadeu Panato Junior
 		</td>
 		<td>@chainguarddev </td>
-		<td><a href="https://twitter.com/comedordexis">comedordexis</a></td>
+		<td><a target="_blank" href="https://twitter.com/comedordexis">comedordexis</a></td>
 		<td>Berlin</td>
 		<td>340</td>
 	</tr>
@@ -9387,7 +9388,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			DevLeon
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/leonmachens">leonmachens</a></td>
+		<td><a target="_blank" href="https://twitter.com/leonmachens">leonmachens</a></td>
 		<td>Cologne Germany</td>
 		<td>338</td>
 	</tr>
@@ -9400,7 +9401,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hawolt">hawolt</a></td>
+		<td><a target="_blank" href="https://twitter.com/hawolt">hawolt</a></td>
 		<td>Germany</td>
 		<td>338</td>
 	</tr>
@@ -9413,7 +9414,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marco Gomiero
 		</td>
 		<td>@airalo  </td>
-		<td><a href="https://twitter.com/marcoGomier">marcoGomier</a></td>
+		<td><a target="_blank" href="https://twitter.com/marcoGomier">marcoGomier</a></td>
 		<td>Berlin</td>
 		<td>337</td>
 	</tr>
@@ -9439,7 +9440,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Brauner
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/brau_ner">brau_ner</a></td>
+		<td><a target="_blank" href="https://twitter.com/brau_ner">brau_ner</a></td>
 		<td>Berlin</td>
 		<td>337</td>
 	</tr>
@@ -9452,7 +9453,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Abdullatif Kksal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/akoksal_">akoksal_</a></td>
+		<td><a target="_blank" href="https://twitter.com/akoksal_">akoksal_</a></td>
 		<td>Munich</td>
 		<td>337</td>
 	</tr>
@@ -9530,7 +9531,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Manoj Pandey
 		</td>
 		<td>Selfemployed </td>
-		<td><a href="https://twitter.com/onlyrealmvp">onlyrealmvp</a></td>
+		<td><a target="_blank" href="https://twitter.com/onlyrealmvp">onlyrealmvp</a></td>
 		<td>Berlin Germany</td>
 		<td>335</td>
 	</tr>
@@ -9556,7 +9557,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Emi
 		</td>
 		<td>@godotengine </td>
-		<td><a href="https://twitter.com/emi_cpl">emi_cpl</a></td>
+		<td><a target="_blank" href="https://twitter.com/emi_cpl">emi_cpl</a></td>
 		<td>Berlin  Valencia</td>
 		<td>334</td>
 	</tr>
@@ -9569,7 +9570,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Samuel Scheit
 		</td>
 		<td>@respondchat </td>
-		<td><a href="https://twitter.com/SamuelScheit">SamuelScheit</a></td>
+		<td><a target="_blank" href="https://twitter.com/SamuelScheit">SamuelScheit</a></td>
 		<td>Germany</td>
 		<td>334</td>
 	</tr>
@@ -9621,7 +9622,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lukas Masuch
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/lukasmasuch">lukasmasuch</a></td>
+		<td><a target="_blank" href="https://twitter.com/lukasmasuch">lukasmasuch</a></td>
 		<td>Berlin</td>
 		<td>333</td>
 	</tr>
@@ -9634,7 +9635,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nelson Osacky
 		</td>
 		<td>@gradle  </td>
-		<td><a href="https://twitter.com/nellyspageli">nellyspageli</a></td>
+		<td><a target="_blank" href="https://twitter.com/nellyspageli">nellyspageli</a></td>
 		<td>Berlin</td>
 		<td>333</td>
 	</tr>
@@ -9647,7 +9648,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sven Tiigi
 		</td>
 		<td>@opwoco </td>
-		<td><a href="https://twitter.com/SvenTiigi">SvenTiigi</a></td>
+		<td><a target="_blank" href="https://twitter.com/SvenTiigi">SvenTiigi</a></td>
 		<td>Muenster Germany</td>
 		<td>333</td>
 	</tr>
@@ -9699,7 +9700,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Gerhard Klostermeier
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iiiikarus">iiiikarus</a></td>
+		<td><a target="_blank" href="https://twitter.com/iiiikarus">iiiikarus</a></td>
 		<td>Germany</td>
 		<td>332</td>
 	</tr>
@@ -9725,7 +9726,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marcin Kozlowski
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/marcinguy">marcinguy</a></td>
+		<td><a target="_blank" href="https://twitter.com/marcinguy">marcinguy</a></td>
 		<td>Berlin Germany</td>
 		<td>331</td>
 	</tr>
@@ -9751,7 +9752,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Michael Hoffmann
 		</td>
 		<td>Selfemployed </td>
-		<td><a href="https://twitter.com/mokkapps">mokkapps</a></td>
+		<td><a target="_blank" href="https://twitter.com/mokkapps">mokkapps</a></td>
 		<td>Munich</td>
 		<td>330</td>
 	</tr>
@@ -9777,7 +9778,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Guilherme Thomazi Bonicontro
 		</td>
 		<td>@devsbb </td>
-		<td><a href="https://twitter.com/guitmz">guitmz</a></td>
+		<td><a target="_blank" href="https://twitter.com/guitmz">guitmz</a></td>
 		<td>Berlin</td>
 		<td>329</td>
 	</tr>
@@ -9829,7 +9830,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Alejandro Saucedo
 		</td>
 		<td>@ethicalml @zalando </td>
-		<td><a href="https://twitter.com/axsaucedo">axsaucedo</a></td>
+		<td><a target="_blank" href="https://twitter.com/axsaucedo">axsaucedo</a></td>
 		<td>Berlin Germany</td>
 		<td>328</td>
 	</tr>
@@ -9881,7 +9882,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thorsten Hans
 		</td>
 		<td>Thinktecture Ag </td>
-		<td><a href="https://twitter.com/ThorstenHans">ThorstenHans</a></td>
+		<td><a target="_blank" href="https://twitter.com/ThorstenHans">ThorstenHans</a></td>
 		<td>Germany</td>
 		<td>327</td>
 	</tr>
@@ -9933,7 +9934,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sascha Depold
 		</td>
 		<td>Ebay Gmbh </td>
-		<td><a href="https://twitter.com/sdepold">sdepold</a></td>
+		<td><a target="_blank" href="https://twitter.com/sdepold">sdepold</a></td>
 		<td>Berlin</td>
 		<td>325</td>
 	</tr>
@@ -9985,7 +9986,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Bastian Rieck
 		</td>
 		<td>@aidoslab </td>
-		<td><a href="https://twitter.com/Pseudomanifold">Pseudomanifold</a></td>
+		<td><a target="_blank" href="https://twitter.com/Pseudomanifold">Pseudomanifold</a></td>
 		<td>Munich Germany</td>
 		<td>324</td>
 	</tr>
@@ -9998,7 +9999,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dirk Schumacher
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dirk_sch">dirk_sch</a></td>
+		<td><a target="_blank" href="https://twitter.com/dirk_sch">dirk_sch</a></td>
 		<td>Berlin</td>
 		<td>324</td>
 	</tr>
@@ -10011,7 +10012,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Simon Knott
 		</td>
 		<td>@netlify </td>
-		<td><a href="https://twitter.com/skn0tt">skn0tt</a></td>
+		<td><a target="_blank" href="https://twitter.com/skn0tt">skn0tt</a></td>
 		<td>Berlin</td>
 		<td>323</td>
 	</tr>
@@ -10063,7 +10064,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sven Efftinge
 		</td>
 		<td>Gitpod </td>
-		<td><a href="https://twitter.com/svenefftinge">svenefftinge</a></td>
+		<td><a target="_blank" href="https://twitter.com/svenefftinge">svenefftinge</a></td>
 		<td>Kiel Germany</td>
 		<td>322</td>
 	</tr>
@@ -10102,7 +10103,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Steven Murawski
 		</td>
 		<td>@microsoft @azure  </td>
-		<td><a href="https://twitter.com/stevenmurawski">stevenmurawski</a></td>
+		<td><a target="_blank" href="https://twitter.com/stevenmurawski">stevenmurawski</a></td>
 		<td>New Berlin WI</td>
 		<td>322</td>
 	</tr>
@@ -10115,7 +10116,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Luca
 		</td>
 		<td>Manticore </td>
-		<td><a href="https://twitter.com/rpwnage">rpwnage</a></td>
+		<td><a target="_blank" href="https://twitter.com/rpwnage">rpwnage</a></td>
 		<td>Germany</td>
 		<td>322</td>
 	</tr>
@@ -10154,7 +10155,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonas Plum
 		</td>
 		<td>@hashicorp </td>
-		<td><a href="https://twitter.com/jonas_plum">jonas_plum</a></td>
+		<td><a target="_blank" href="https://twitter.com/jonas_plum">jonas_plum</a></td>
 		<td>Munich Germany</td>
 		<td>321</td>
 	</tr>
@@ -10167,7 +10168,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Kaspari
 		</td>
 		<td>League </td>
-		<td><a href="https://twitter.com/Anti_Hype">Anti_Hype</a></td>
+		<td><a target="_blank" href="https://twitter.com/Anti_Hype">Anti_Hype</a></td>
 		<td>Passau Germany</td>
 		<td>321</td>
 	</tr>
@@ -10180,7 +10181,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Roland Hu
 		</td>
 		<td>Red Hat </td>
-		<td><a href="https://twitter.com/ro14nd">ro14nd</a></td>
+		<td><a target="_blank" href="https://twitter.com/ro14nd">ro14nd</a></td>
 		<td>Pegnitz Germany</td>
 		<td>321</td>
 	</tr>
@@ -10193,7 +10194,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Markus Waas
 		</td>
 		<td>@injectivelabs </td>
-		<td><a href="https://twitter.com/gorgos">gorgos</a></td>
+		<td><a target="_blank" href="https://twitter.com/gorgos">gorgos</a></td>
 		<td>Berlin Germany  Auckland New Zealand</td>
 		<td>320</td>
 	</tr>
@@ -10219,7 +10220,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sven Petersen
 		</td>
 		<td>My Own </td>
-		<td><a href="https://twitter.com/svenpetersen191">svenpetersen191</a></td>
+		<td><a target="_blank" href="https://twitter.com/svenpetersen191">svenpetersen191</a></td>
 		<td>Germany</td>
 		<td>320</td>
 	</tr>
@@ -10258,7 +10259,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ismail Khoffi
 		</td>
 		<td>@celestiaorg </td>
-		<td><a href="https://twitter.com/KreuzUQuer">KreuzUQuer</a></td>
+		<td><a target="_blank" href="https://twitter.com/KreuzUQuer">KreuzUQuer</a></td>
 		<td>UK  Germany  Switzerland</td>
 		<td>319</td>
 	</tr>
@@ -10297,7 +10298,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sandro Gauci
 		</td>
 		<td>Enablesecurity </td>
-		<td><a href="https://twitter.com/sandrogauci">sandrogauci</a></td>
+		<td><a target="_blank" href="https://twitter.com/sandrogauci">sandrogauci</a></td>
 		<td>Bavaria Germany</td>
 		<td>319</td>
 	</tr>
@@ -10310,7 +10311,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sandro
 		</td>
 		<td>@sapcc </td>
-		<td><a href="https://twitter.com/SuperSandro2000">SuperSandro2000</a></td>
+		<td><a target="_blank" href="https://twitter.com/SuperSandro2000">SuperSandro2000</a></td>
 		<td>Germany</td>
 		<td>318</td>
 	</tr>
@@ -10323,7 +10324,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Georg Ledermann
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ledermann">ledermann</a></td>
+		<td><a target="_blank" href="https://twitter.com/ledermann">ledermann</a></td>
 		<td>Jlich Germany</td>
 		<td>318</td>
 	</tr>
@@ -10349,7 +10350,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lennart Koopmann
 		</td>
 		<td>@nzymedefense  </td>
-		<td><a href="https://twitter.com/_lennart">_lennart</a></td>
+		<td><a target="_blank" href="https://twitter.com/_lennart">_lennart</a></td>
 		<td>Houston TX  Hamburg GER</td>
 		<td>318</td>
 	</tr>
@@ -10440,7 +10441,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Gkmen Grgen
 		</td>
 		<td>@mimihearingtechnolo </td>
-		<td><a href="https://twitter.com/gokmengorgen">gokmengorgen</a></td>
+		<td><a target="_blank" href="https://twitter.com/gokmengorgen">gokmengorgen</a></td>
 		<td>Berlin Ankara</td>
 		<td>316</td>
 	</tr>
@@ -10479,7 +10480,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Henry Ruhs
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/henryruhs">henryruhs</a></td>
+		<td><a target="_blank" href="https://twitter.com/henryruhs">henryruhs</a></td>
 		<td>Germany</td>
 		<td>315</td>
 	</tr>
@@ -10492,7 +10493,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Natalie
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/nataliepis">nataliepis</a></td>
+		<td><a target="_blank" href="https://twitter.com/nataliepis">nataliepis</a></td>
 		<td>Berlin</td>
 		<td>315</td>
 	</tr>
@@ -10531,7 +10532,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Nico Domino
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ndom91">ndom91</a></td>
+		<td><a target="_blank" href="https://twitter.com/ndom91">ndom91</a></td>
 		<td>Berlin</td>
 		<td>313</td>
 	</tr>
@@ -10557,7 +10558,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christian Rebischke
 		</td>
 		<td>@google </td>
-		<td><a href="https://twitter.com/sh1bumi">sh1bumi</a></td>
+		<td><a target="_blank" href="https://twitter.com/sh1bumi">sh1bumi</a></td>
 		<td>Germany</td>
 		<td>313</td>
 	</tr>
@@ -10583,7 +10584,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			No Name
 		</td>
 		<td>@aws @checkra1n </td>
-		<td><a href="https://twitter.com/never_released">never_released</a></td>
+		<td><a target="_blank" href="https://twitter.com/never_released">never_released</a></td>
 		<td>Berlin Germany</td>
 		<td>313</td>
 	</tr>
@@ -10609,7 +10610,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Carolyn Stransky
 		</td>
 		<td>@emnify </td>
-		<td><a href="https://twitter.com/carolstran">carolstran</a></td>
+		<td><a target="_blank" href="https://twitter.com/carolstran">carolstran</a></td>
 		<td>Berlin</td>
 		<td>312</td>
 	</tr>
@@ -10622,7 +10623,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shravan Vasishth
 		</td>
 		<td>Universitt Potsdam </td>
-		<td><a href="https://twitter.com/ShravanVasishth">ShravanVasishth</a></td>
+		<td><a target="_blank" href="https://twitter.com/ShravanVasishth">ShravanVasishth</a></td>
 		<td>Potsdam Germany</td>
 		<td>312</td>
 	</tr>
@@ -10648,7 +10649,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			David Montero Loaiza
 		</td>
 		<td>Rsc4earth  University Of<br/>Leipzig<br/></td>
-		<td><a href="https://twitter.com/dmlmont">dmlmont</a></td>
+		<td><a target="_blank" href="https://twitter.com/dmlmont">dmlmont</a></td>
 		<td>Leipzig Germany</td>
 		<td>312</td>
 	</tr>
@@ -10661,7 +10662,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ulrich Petri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ulope">ulope</a></td>
+		<td><a target="_blank" href="https://twitter.com/ulope">ulope</a></td>
 		<td>Mainz Germany</td>
 		<td>312</td>
 	</tr>
@@ -10726,7 +10727,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Praneeth Peiris
 		</td>
 		<td>Trivago </td>
-		<td><a href="https://twitter.com/PraneethPeiris">PraneethPeiris</a></td>
+		<td><a target="_blank" href="https://twitter.com/PraneethPeiris">PraneethPeiris</a></td>
 		<td>Dsseldorf  Germany</td>
 		<td>310</td>
 	</tr>
@@ -10739,7 +10740,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Fortas Abdeldjalil
 		</td>
 		<td>Deutsche Bank Ag </td>
-		<td><a href="https://twitter.com/Fcmam5">Fcmam5</a></td>
+		<td><a target="_blank" href="https://twitter.com/Fcmam5">Fcmam5</a></td>
 		<td>Berlin Germany</td>
 		<td>310</td>
 	</tr>
@@ -10752,7 +10753,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			No Name
 		</td>
 		<td>Cnc Kitchen </td>
-		<td><a href="https://twitter.com/CNC_Kitchen">CNC_Kitchen</a></td>
+		<td><a target="_blank" href="https://twitter.com/CNC_Kitchen">CNC_Kitchen</a></td>
 		<td>Germany</td>
 		<td>310</td>
 	</tr>
@@ -10778,7 +10779,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Torsten Dittmann
 		</td>
 		<td>@appwrite </td>
-		<td><a href="https://twitter.com/DittmannTorsten">DittmannTorsten</a></td>
+		<td><a target="_blank" href="https://twitter.com/DittmannTorsten">DittmannTorsten</a></td>
 		<td>Schramberg Germany</td>
 		<td>309</td>
 	</tr>
@@ -10791,7 +10792,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Juraci Paixo Krhling
 		</td>
 		<td>Grafana Labs </td>
-		<td><a href="https://twitter.com/jpkrohling">jpkrohling</a></td>
+		<td><a target="_blank" href="https://twitter.com/jpkrohling">jpkrohling</a></td>
 		<td>Berlin Germany</td>
 		<td>309</td>
 	</tr>
@@ -10817,7 +10818,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andreas Dieckmann
 		</td>
 		<td>@badmonkeysteam </td>
-		<td><a href="https://twitter.com/a_dieckmann">a_dieckmann</a></td>
+		<td><a target="_blank" href="https://twitter.com/a_dieckmann">a_dieckmann</a></td>
 		<td>Berlin Germany</td>
 		<td>308</td>
 	</tr>
@@ -10830,7 +10831,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Hochleitner
 		</td>
 		<td>Oracle </td>
-		<td><a href="https://twitter.com/Dani3lSun">Dani3lSun</a></td>
+		<td><a target="_blank" href="https://twitter.com/Dani3lSun">Dani3lSun</a></td>
 		<td>Germany</td>
 		<td>308</td>
 	</tr>
@@ -10856,7 +10857,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Justin Shenk
 		</td>
 		<td>@simerseteam  </td>
-		<td><a href="https://twitter.com/AskJustinShenk">AskJustinShenk</a></td>
+		<td><a target="_blank" href="https://twitter.com/AskJustinShenk">AskJustinShenk</a></td>
 		<td>Berlin Germany</td>
 		<td>307</td>
 	</tr>
@@ -10882,7 +10883,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Karl Heinz Marbaise
 		</td>
 		<td>Softwareentwicklung Beratung Schulung </td>
-		<td><a href="https://twitter.com/khmarbaise">khmarbaise</a></td>
+		<td><a target="_blank" href="https://twitter.com/khmarbaise">khmarbaise</a></td>
 		<td>Wrselen Germany</td>
 		<td>306</td>
 	</tr>
@@ -10934,7 +10935,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mourad
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mmourafiq">mmourafiq</a></td>
+		<td><a target="_blank" href="https://twitter.com/mmourafiq">mmourafiq</a></td>
 		<td>Berlin Germany</td>
 		<td>305</td>
 	</tr>
@@ -10947,7 +10948,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Devran Cosmo Uenal
 		</td>
 		<td>@zeiss </td>
-		<td><a href="https://twitter.com/maccosmo">maccosmo</a></td>
+		<td><a target="_blank" href="https://twitter.com/maccosmo">maccosmo</a></td>
 		<td>Munich Germany</td>
 		<td>305</td>
 	</tr>
@@ -10973,7 +10974,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Harald Welte
 		</td>
 		<td>@sysmocom </td>
-		<td><a href="https://twitter.com/LaF0rge">LaF0rge</a></td>
+		<td><a target="_blank" href="https://twitter.com/LaF0rge">LaF0rge</a></td>
 		<td>Berlin Germany</td>
 		<td>303</td>
 	</tr>
@@ -10986,7 +10987,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mara Robin B
 		</td>
 		<td>@paritytech  @archlinux </td>
-		<td><a href="https://twitter.com/coderobe">coderobe</a></td>
+		<td><a target="_blank" href="https://twitter.com/coderobe">coderobe</a></td>
 		<td>Berlin Germany</td>
 		<td>303</td>
 	</tr>
@@ -10999,7 +11000,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Timo Schick
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/timo_schick">timo_schick</a></td>
+		<td><a target="_blank" href="https://twitter.com/timo_schick">timo_schick</a></td>
 		<td>Munich Germany</td>
 		<td>303</td>
 	</tr>
@@ -11025,7 +11026,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Cesar Valiente Gordo
 		</td>
 		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/CesarValiente">CesarValiente</a></td>
+		<td><a target="_blank" href="https://twitter.com/CesarValiente">CesarValiente</a></td>
 		<td>Berlin Germany</td>
 		<td>302</td>
 	</tr>
@@ -11051,7 +11052,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tamanna Tamanna
 		</td>
 		<td>Actineo Gmbh A Verisk<br/>Business<br/></td>
-		<td><a href="https://twitter.com/TamTamanna18">TamTamanna18</a></td>
+		<td><a target="_blank" href="https://twitter.com/TamTamanna18">TamTamanna18</a></td>
 		<td>Germany</td>
 		<td>301</td>
 	</tr>
@@ -11077,7 +11078,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mariana Meireles
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/mari_meir">mari_meir</a></td>
+		<td><a target="_blank" href="https://twitter.com/mari_meir">mari_meir</a></td>
 		<td>berlin</td>
 		<td>299</td>
 	</tr>
@@ -11090,7 +11091,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonan Scheffler
 		</td>
 		<td>Dxos </td>
-		<td><a href="https://twitter.com/thejonanshow">thejonanshow</a></td>
+		<td><a target="_blank" href="https://twitter.com/thejonanshow">thejonanshow</a></td>
 		<td>Berlin DE</td>
 		<td>299</td>
 	</tr>
@@ -11103,7 +11104,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ren Rebe
 		</td>
 		<td>Exactcode Gmbh </td>
-		<td><a href="https://twitter.com/renerebeTM">renerebeTM</a></td>
+		<td><a target="_blank" href="https://twitter.com/renerebeTM">renerebeTM</a></td>
 		<td>Berlin</td>
 		<td>299</td>
 	</tr>
@@ -11129,7 +11130,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ben Scholzen
 		</td>
 		<td>Dasprids </td>
-		<td><a href="https://twitter.com/DASPRiD">DASPRiD</a></td>
+		<td><a target="_blank" href="https://twitter.com/DASPRiD">DASPRiD</a></td>
 		<td>Germany Karlsruhe</td>
 		<td>298</td>
 	</tr>
@@ -11168,7 +11169,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Koch
 		</td>
 		<td>@jetbrains </td>
-		<td><a href="https://twitter.com/matkoch87">matkoch87</a></td>
+		<td><a target="_blank" href="https://twitter.com/matkoch87">matkoch87</a></td>
 		<td>Leipzig Germany</td>
 		<td>297</td>
 	</tr>
@@ -11207,7 +11208,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Seif Lotfy
 		</td>
 		<td>@axiomhq  </td>
-		<td><a href="https://twitter.com/seiflotfy">seiflotfy</a></td>
+		<td><a target="_blank" href="https://twitter.com/seiflotfy">seiflotfy</a></td>
 		<td>Berlin Germany</td>
 		<td>296</td>
 	</tr>
@@ -11233,7 +11234,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Marek Fot
 		</td>
 		<td>@shopify </td>
-		<td><a href="https://twitter.com/marekfort">marekfort</a></td>
+		<td><a target="_blank" href="https://twitter.com/marekfort">marekfort</a></td>
 		<td>Berlin Germany</td>
 		<td>295</td>
 	</tr>
@@ -11246,7 +11247,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Anton Kosyakov
 		</td>
 		<td>@gitpodio </td>
-		<td><a href="https://twitter.com/akosyakov">akosyakov</a></td>
+		<td><a target="_blank" href="https://twitter.com/akosyakov">akosyakov</a></td>
 		<td>Kiel Germany</td>
 		<td>295</td>
 	</tr>
@@ -11272,7 +11273,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Jonas Friedmann
 		</td>
 		<td>Iwelt Ag  @rocketchat<br/></td>
-		<td><a href="https://twitter.com/frdmn">frdmn</a></td>
+		<td><a target="_blank" href="https://twitter.com/frdmn">frdmn</a></td>
 		<td>Wrzburg Germany</td>
 		<td>295</td>
 	</tr>
@@ -11285,7 +11286,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Hendrik Erz
 		</td>
 		<td>@zettlr  </td>
-		<td><a href="https://twitter.com/sahiralsaid">sahiralsaid</a></td>
+		<td><a target="_blank" href="https://twitter.com/sahiralsaid">sahiralsaid</a></td>
 		<td>Germany</td>
 		<td>294</td>
 	</tr>
@@ -11298,7 +11299,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Helge He
 		</td>
 		<td>Zeezide Gmbh </td>
-		<td><a href="https://twitter.com/helje5">helje5</a></td>
+		<td><a target="_blank" href="https://twitter.com/helje5">helje5</a></td>
 		<td>Magdeburg Germany</td>
 		<td>294</td>
 	</tr>
@@ -11324,7 +11325,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Khanh Ngo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ngokhanhit">ngokhanhit</a></td>
+		<td><a target="_blank" href="https://twitter.com/ngokhanhit">ngokhanhit</a></td>
 		<td>Berlin Germany</td>
 		<td>293</td>
 	</tr>
@@ -11337,7 +11338,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Shubham Kumar
 		</td>
 		<td>@lessonnine </td>
-		<td><a href="https://twitter.com/TheTweetOfSKR">TheTweetOfSKR</a></td>
+		<td><a target="_blank" href="https://twitter.com/TheTweetOfSKR">TheTweetOfSKR</a></td>
 		<td>Berlin Germany</td>
 		<td>293</td>
 	</tr>
@@ -11376,7 +11377,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Oliver Kopp
 		</td>
 		<td>Selfemployed </td>
-		<td><a href="https://twitter.com/koppor">koppor</a></td>
+		<td><a target="_blank" href="https://twitter.com/koppor">koppor</a></td>
 		<td>Germany</td>
 		<td>292</td>
 	</tr>
@@ -11428,7 +11429,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Benjamin Kadel
 		</td>
 		<td>Babbel </td>
-		<td><a href="https://twitter.com/ben_kadel">ben_kadel</a></td>
+		<td><a target="_blank" href="https://twitter.com/ben_kadel">ben_kadel</a></td>
 		<td>Berlin</td>
 		<td>291</td>
 	</tr>
@@ -11441,7 +11442,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Sogl
 		</td>
 		<td>@finanzenzero </td>
-		<td><a href="https://twitter.com/sogldaniel">sogldaniel</a></td>
+		<td><a target="_blank" href="https://twitter.com/sogldaniel">sogldaniel</a></td>
 		<td>Karlsruhe Germany</td>
 		<td>290</td>
 	</tr>
@@ -11454,7 +11455,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mirco Zeiss
 		</td>
 		<td>@merckgroup </td>
-		<td><a href="https://twitter.com/zemirco">zemirco</a></td>
+		<td><a target="_blank" href="https://twitter.com/zemirco">zemirco</a></td>
 		<td>Darmstadt Germany</td>
 		<td>290</td>
 	</tr>
@@ -11467,7 +11468,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Markus Eisele
 		</td>
 		<td>@jboss  </td>
-		<td><a href="https://twitter.com/myfear">myfear</a></td>
+		<td><a target="_blank" href="https://twitter.com/myfear">myfear</a></td>
 		<td>Munich</td>
 		<td>290</td>
 	</tr>
@@ -11480,7 +11481,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vladimir Haltakov
 		</td>
 		<td>Bmw Group </td>
-		<td><a href="https://twitter.com/haltakov">haltakov</a></td>
+		<td><a target="_blank" href="https://twitter.com/haltakov">haltakov</a></td>
 		<td>Munich Germany</td>
 		<td>289</td>
 	</tr>
@@ -11493,7 +11494,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes fish Ziemke
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/discordianfish">discordianfish</a></td>
+		<td><a target="_blank" href="https://twitter.com/discordianfish">discordianfish</a></td>
 		<td>Berlin</td>
 		<td>289</td>
 	</tr>
@@ -11506,7 +11507,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Schiel
 		</td>
 		<td>Unleashed Design </td>
-		<td><a href="https://twitter.com/UnleasheDesign">UnleasheDesign</a></td>
+		<td><a target="_blank" href="https://twitter.com/UnleasheDesign">UnleasheDesign</a></td>
 		<td>Germany</td>
 		<td>289</td>
 	</tr>
@@ -11519,7 +11520,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Viljami Kuosmanen
 		</td>
 		<td>@epilotdev </td>
-		<td><a href="https://twitter.com/anttiviljami">anttiviljami</a></td>
+		<td><a target="_blank" href="https://twitter.com/anttiviljami">anttiviljami</a></td>
 		<td>Cologne Germany</td>
 		<td>289</td>
 	</tr>
@@ -11545,7 +11546,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Dr Tristan Behrens
 		</td>
 		<td>Ai Guru </td>
-		<td><a href="https://twitter.com/DrTBehrens">DrTBehrens</a></td>
+		<td><a target="_blank" href="https://twitter.com/DrTBehrens">DrTBehrens</a></td>
 		<td>Germany</td>
 		<td>288</td>
 	</tr>
@@ -11571,7 +11572,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Philipp Kief
 		</td>
 		<td>@capgemini </td>
-		<td><a href="https://twitter.com/PhilippKief">PhilippKief</a></td>
+		<td><a target="_blank" href="https://twitter.com/PhilippKief">PhilippKief</a></td>
 		<td>Germany</td>
 		<td>288</td>
 	</tr>
@@ -11597,7 +11598,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Palme
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/danielpalme">danielpalme</a></td>
+		<td><a target="_blank" href="https://twitter.com/danielpalme">danielpalme</a></td>
 		<td>Germany</td>
 		<td>287</td>
 	</tr>
@@ -11623,7 +11624,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Matthias Stahl
 		</td>
 		<td>Der Spiegel </td>
-		<td><a href="https://twitter.com/h_i_g_s_c_h">h_i_g_s_c_h</a></td>
+		<td><a target="_blank" href="https://twitter.com/h_i_g_s_c_h">h_i_g_s_c_h</a></td>
 		<td>Hamburg Germany</td>
 		<td>287</td>
 	</tr>
@@ -11636,7 +11637,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Markus Staab
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/markusstaab">markusstaab</a></td>
+		<td><a target="_blank" href="https://twitter.com/markusstaab">markusstaab</a></td>
 		<td>Germany</td>
 		<td>286</td>
 	</tr>
@@ -11649,7 +11650,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Konstantin Mnster
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kmuenster">kmuenster</a></td>
+		<td><a target="_blank" href="https://twitter.com/kmuenster">kmuenster</a></td>
 		<td>Hamburg Germany</td>
 		<td>286</td>
 	</tr>
@@ -11727,7 +11728,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Mathieu Besanon
 		</td>
 		<td>Zuse Institute Berlin </td>
-		<td><a href="https://twitter.com/matbesancon">matbesancon</a></td>
+		<td><a target="_blank" href="https://twitter.com/matbesancon">matbesancon</a></td>
 		<td>Berlin Germany</td>
 		<td>284</td>
 	</tr>
@@ -11740,7 +11741,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Amartya Saikia
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/florist_notes">florist_notes</a></td>
+		<td><a target="_blank" href="https://twitter.com/florist_notes">florist_notes</a></td>
 		<td>Hamburg Germany</td>
 		<td>284</td>
 	</tr>
@@ -11753,7 +11754,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Christoph Hegemann
 		</td>
 		<td>@sourcegraph </td>
-		<td><a href="https://twitter.com/kritzcreek">kritzcreek</a></td>
+		<td><a target="_blank" href="https://twitter.com/kritzcreek">kritzcreek</a></td>
 		<td>Germany</td>
 		<td>284</td>
 	</tr>
@@ -11766,7 +11767,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ana Schwendler
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anaschwendler">anaschwendler</a></td>
+		<td><a target="_blank" href="https://twitter.com/anaschwendler">anaschwendler</a></td>
 		<td>Berlin</td>
 		<td>284</td>
 	</tr>
@@ -11779,7 +11780,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Johannes Fahrenkrug
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jfahrenkrug">jfahrenkrug</a></td>
+		<td><a target="_blank" href="https://twitter.com/jfahrenkrug">jfahrenkrug</a></td>
 		<td>Berlin</td>
 		<td>284</td>
 	</tr>
@@ -11792,7 +11793,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Michael Friedrich
 		</td>
 		<td>@gitlab </td>
-		<td><a href="https://twitter.com/dnsmichi">dnsmichi</a></td>
+		<td><a target="_blank" href="https://twitter.com/dnsmichi">dnsmichi</a></td>
 		<td>Nuremberg area Germany</td>
 		<td>284</td>
 	</tr>
@@ -11818,7 +11819,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			K
 		</td>
 		<td>Consultant </td>
-		<td><a href="https://twitter.com/k4y1s">k4y1s</a></td>
+		<td><a target="_blank" href="https://twitter.com/k4y1s">k4y1s</a></td>
 		<td>Stuttgart Germany</td>
 		<td>283</td>
 	</tr>
@@ -11870,7 +11871,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Daniel Dietrich
 		</td>
 		<td>@typefox  </td>
-		<td><a href="https://twitter.com/danieldietrich">danieldietrich</a></td>
+		<td><a target="_blank" href="https://twitter.com/danieldietrich">danieldietrich</a></td>
 		<td>Kiel Germany</td>
 		<td>282</td>
 	</tr>
@@ -11896,7 +11897,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Sebastian Holstein
 		</td>
 		<td>@adessoag </td>
-		<td><a href="https://twitter.com/Sebholstein">Sebholstein</a></td>
+		<td><a target="_blank" href="https://twitter.com/Sebholstein">Sebholstein</a></td>
 		<td>Hamm Germany</td>
 		<td>282</td>
 	</tr>
@@ -11909,7 +11910,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Frank Celler
 		</td>
 		<td>@arangodb  </td>
-		<td><a href="https://twitter.com/fceller">fceller</a></td>
+		<td><a target="_blank" href="https://twitter.com/fceller">fceller</a></td>
 		<td>Cologne</td>
 		<td>282</td>
 	</tr>
@@ -11948,7 +11949,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Vasco Santos
 		</td>
 		<td>@protocol </td>
-		<td><a href="https://twitter.com/vascosantos10">vascosantos10</a></td>
+		<td><a target="_blank" href="https://twitter.com/vascosantos10">vascosantos10</a></td>
 		<td>Berlin Germany</td>
 		<td>280</td>
 	</tr>
@@ -11974,7 +11975,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Cristin MaureiraFredes
 		</td>
 		<td>The Qt Company </td>
-		<td><a href="https://twitter.com/cmaureir">cmaureir</a></td>
+		<td><a target="_blank" href="https://twitter.com/cmaureir">cmaureir</a></td>
 		<td>Berlin Germany</td>
 		<td>280</td>
 	</tr>
@@ -11987,7 +11988,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Andreas Braun
 		</td>
 		<td>Mongodb </td>
-		<td><a href="https://twitter.com/alcaeus">alcaeus</a></td>
+		<td><a target="_blank" href="https://twitter.com/alcaeus">alcaeus</a></td>
 		<td>Munich</td>
 		<td>280</td>
 	</tr>
@@ -12026,7 +12027,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Ramy Hakam
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ramyhakam1">ramyhakam1</a></td>
+		<td><a target="_blank" href="https://twitter.com/ramyhakam1">ramyhakam1</a></td>
 		<td>Germany</td>
 		<td>279</td>
 	</tr>
@@ -12065,7 +12066,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Tobias Schmidt
 		</td>
 		<td>@gigs </td>
-		<td><a href="https://twitter.com/dagrobie">dagrobie</a></td>
+		<td><a target="_blank" href="https://twitter.com/dagrobie">dagrobie</a></td>
 		<td>Berlin</td>
 		<td>278</td>
 	</tr>
@@ -12091,7 +12092,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			bugzy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/d3vilbug">d3vilbug</a></td>
+		<td><a target="_blank" href="https://twitter.com/d3vilbug">d3vilbug</a></td>
 		<td>Berlin Germany</td>
 		<td>278</td>
 	</tr>
@@ -12104,7 +12105,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Stephan Zerhusen
 		</td>
 		<td>Byte Connect Gmbh </td>
-		<td><a href="https://twitter.com/stzerhus">stzerhus</a></td>
+		<td><a target="_blank" href="https://twitter.com/stzerhus">stzerhus</a></td>
 		<td>Bad Zwischenahn Germany</td>
 		<td>278</td>
 	</tr>
@@ -12117,7 +12118,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Lukas Wirth
 		</td>
 		<td>@ferroussystems </td>
-		<td><a href="https://twitter.com/veykril">veykril</a></td>
+		<td><a target="_blank" href="https://twitter.com/veykril">veykril</a></td>
 		<td>Germany</td>
 		<td>277</td>
 	</tr>
@@ -12156,7 +12157,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Thomas Boerger
 		</td>
 		<td>Cloudpunks Gmbh </td>
-		<td><a href="https://twitter.com/tboerger">tboerger</a></td>
+		<td><a target="_blank" href="https://twitter.com/tboerger">tboerger</a></td>
 		<td>Nuremberg Germany</td>
 		<td>276</td>
 	</tr>
@@ -12182,7 +12183,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Yichuan Shen
 		</td>
 		<td>@sap </td>
-		<td><a href="https://twitter.com/ychshn">ychshn</a></td>
+		<td><a target="_blank" href="https://twitter.com/ychshn">ychshn</a></td>
 		<td>Heidelberg Germany</td>
 		<td>276</td>
 	</tr>
@@ -12195,7 +12196,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Fabio Niephaus
 		</td>
 		<td>Oracle Labs </td>
-		<td><a href="https://twitter.com/fniephaus">fniephaus</a></td>
+		<td><a target="_blank" href="https://twitter.com/fniephaus">fniephaus</a></td>
 		<td>Potsdam Germany</td>
 		<td>275</td>
 	</tr>
@@ -12234,7 +12235,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Asmir Mustafic
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/goetas_asmir">goetas_asmir</a></td>
+		<td><a target="_blank" href="https://twitter.com/goetas_asmir">goetas_asmir</a></td>
 		<td>Berlin Germany</td>
 		<td>275</td>
 	</tr>
@@ -12260,7 +12261,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Aurlien Lourot
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AurelienLourot">AurelienLourot</a></td>
+		<td><a target="_blank" href="https://twitter.com/AurelienLourot">AurelienLourot</a></td>
 		<td>Berlin Germany</td>
 		<td>274</td>
 	</tr>
@@ -12299,7 +12300,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			Michael Niemeyer
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Mi_Niemeyer">Mi_Niemeyer</a></td>
+		<td><a target="_blank" href="https://twitter.com/Mi_Niemeyer">Mi_Niemeyer</a></td>
 		<td>Germany</td>
 		<td>274</td>
 	</tr>
@@ -12312,7 +12313,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			David Whiting
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/vvitling">vvitling</a></td>
+		<td><a target="_blank" href="https://twitter.com/vvitling">vvitling</a></td>
 		<td>Berlin Germany</td>
 		<td>274</td>
 	</tr>
@@ -12346,7 +12347,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Germany&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/germany.md">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Germany&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/germany.md">
 				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
@@ -12398,6 +12399,7 @@ There are `940 users`  in Germany. You need at least `273 followers` to be on th
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
