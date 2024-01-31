@@ -43,17 +43,18 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           showLastUpdateTime: true, 
+          showLastUpdateAuthor: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ePlus-DEV/news/edit/main/',
+            'https://github.com/ePlus-DEV/top-github-users/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ePlus-DEV/news/edit/main/',
+            'https://github.com/ePlus-DEV/top-github-users/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -71,21 +72,14 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ePlus News',
+        title: 'ePlus Top GitHub Users',
         logo: {
-          alt: 'ePlus News',
+          alt: 'ePlus Top GitHub Users',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'News',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/ePlus-DEV/news',
+            href: 'https://github.com/ePlus-DEV/top-github-users',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Thông tin',
+            title: 'About',
             items: [
               {
                 label: 'ePlus.DEV',
@@ -104,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'Mạng xã hội',
+            title: 'Community',
             items: [
               {
                 label: 'Discord',
@@ -117,7 +111,7 @@ const config = {
             ],
           },
           {
-            title: 'Mở rộng',
+            title: 'More',
             items: [
               {
                 label: 'Blog',
@@ -130,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© 2019-${new Date().getFullYear()}. ePlus.DEV Labs điều hành & phát triển.`,
+        copyright: `© 2019-${new Date().getFullYear()}. Operated & developed by ePlus.DEV Labs.`,
       },
       prism: {
         theme: prismThemes.github,
