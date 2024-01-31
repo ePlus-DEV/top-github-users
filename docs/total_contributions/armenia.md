@@ -985,7 +985,7 @@ There are `962 users`  in Armenia. You need at least `6 followers` to be on this
 			</a><br/>
 			Pavel Zaytsev
 		</td>
-		<td>Hsr {moymir.ru} </td>
+		<td>Hsr moymir.ru </td>
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
 		<td>43</td>
