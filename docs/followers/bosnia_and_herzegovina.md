@@ -1,5 +1,6 @@
 ---
-title: Top GitHub Users By Followers in Bosnia And Herzegovina 
+title: Bosnia And Herzegovina 
+description: Top GitHub Users By Followers in Bosnia And Herzegovina 
 ---
 
 # Top GitHub Users By Followers in Bosnia And Herzegovina [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
@@ -9,7 +10,7 @@ title: Top GitHub Users By Followers in Bosnia And Herzegovina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina"/>
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2024/1/31 4:29 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2024/1/31 9:09 AM UTC`. This list contains users from Bosnia And Herzegovina and cities Sarajevo Mostar Tuzla Zenica Brko.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -114,9 +115,9 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/adnanh">
 				<img src="https://avatars.githubusercontent.com/u/82367?s=72&u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4" width="24" alt="Avatar of adnanh"/> adnanh
 			</a><br/>
-			Adnan Hajdarević
+			Adnan Hajdarevi
 		</td>
-		<td>Saburly </td>
+		<td>@saburly </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
 		<td>181</td>
@@ -140,7 +141,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/Nbc66">
 				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"/> Nbc66
 			</a><br/>
-			Kerim Čamdžić
+			Kerim amdi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
@@ -179,7 +180,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/SenadAlagic">
 				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=6b220bda9da04cecc8adf68bc983e5b81f4717ad&v=4" width="24" alt="Avatar of SenadAlagic"/> SenadAlagic
 			</a><br/>
-			Alagić Senad
+			Alagi Senad
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -192,9 +193,9 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/Champa99">
 				<img src="https://avatars.githubusercontent.com/u/44381756?s=72&u=5f86454ad127bca8a5f2314fc16d9da9c8b90fa3&v=4" width="24" alt="Avatar of Champa99"/> Champa99
 			</a><br/>
-			Kerim Čampara
+			Kerim ampara
 		</td>
-		<td>Mukuru </td>
+		<td>@mukuru </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>8</td>
@@ -218,7 +219,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/KerimZuna">
 				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"/> KerimZuna
 			</a><br/>
-			Kerim Žuna
+			Kerim una
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -270,7 +271,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/merjemcs">
 				<img src="https://avatars.githubusercontent.com/u/94116997?s=72&u=e33d07ce3c1344b3b8026fecfac89cb447041d6d&v=4" width="24" alt="Avatar of merjemcs"/> merjemcs
 			</a><br/>
-			Merjem Ćosović
+			Merjem osovi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -283,7 +284,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/seadacehic">
 				<img src="https://avatars.githubusercontent.com/u/43740261?s=72&u=cfb6e045d48034f2c3f9d72d70116478206283cb&v=4" width="24" alt="Avatar of seadacehic"/> seadacehic
 			</a><br/>
-			Seada Čehić
+			Seada ehi
 		</td>
 		<td>King Ict </td>
 		<td>No Twitter Username</td>
@@ -296,7 +297,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/nejramustagrudic">
 				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"/> nejramustagrudic
 			</a><br/>
-			Nejra Mustagrudić
+			Nejra Mustagrudi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -309,7 +310,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/ajdinhusetovic">
 				<img src="https://avatars.githubusercontent.com/u/116389962?s=72&u=5f6d5f1c2d8ae7223fa403af45d3ff81b5ae89af&v=4" width="24" alt="Avatar of ajdinhusetovic"/> ajdinhusetovic
 			</a><br/>
-			Ajdin Husetović
+			Ajdin Husetovi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ajdin_husetovic">ajdin_husetovic</a></td>
@@ -322,7 +323,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/saudinahmetspahic">
 				<img src="https://avatars.githubusercontent.com/u/49145127?s=72&u=ac14e5ccd00ae25cd0f5fd2837bbe114becf64e6&v=4" width="24" alt="Avatar of saudinahmetspahic"/> saudinahmetspahic
 			</a><br/>
-			Saudin Ahmetspahić
+			Saudin Ahmetspahi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -335,7 +336,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/hariselmanovic">
 				<img src="https://avatars.githubusercontent.com/u/27975374?s=72&v=4" width="24" alt="Avatar of hariselmanovic"/> hariselmanovic
 			</a><br/>
-			Haris Selmanović
+			Haris Selmanovi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -348,7 +349,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/nedoo14">
 				<img src="https://avatars.githubusercontent.com/u/53881661?s=72&v=4" width="24" alt="Avatar of nedoo14"/> nedoo14
 			</a><br/>
-			Nedim Đedović
+			Nedim edovi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -361,7 +362,7 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			<a href="https://github.com/BecirbasicAtif">
 				<img src="https://avatars.githubusercontent.com/u/32924807?s=72&u=588030b1733b1157275e023279310c1893f43346&v=4" width="24" alt="Avatar of BecirbasicAtif"/> BecirbasicAtif
 			</a><br/>
-			Atif Bećirbašić
+			Atif Beirbai
 		</td>
 		<td>Webmajstor </td>
 		<td>No Twitter Username</td>
