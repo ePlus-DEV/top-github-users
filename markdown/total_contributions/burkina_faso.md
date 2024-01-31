@@ -8,7 +8,7 @@ title: Top GitHub Users By Total Contributions in Burkina Faso
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` and `private contributions` by users in Burkina Faso on `2024/1/30 8:29 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` and `private contributions` by users in Burkina Faso on `2024/1/31 1:40 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -190,7 +190,7 @@ There are `310 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>77</td>
-		<td>978</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -204,7 +204,7 @@ There are `310 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>393</td>
-		<td>912</td>
+		<td>916</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -315,8 +315,8 @@ There are `310 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Université Joseph Ki-zerbo </td>
 		<td><a href="https://twitter.com/KIENDREBEOGORa4">KIENDREBEOGORa4</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>153</td>
-		<td>173</td>
+		<td>155</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>16</td>
