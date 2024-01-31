@@ -20,11 +20,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18.16.1
-      - name: TOP_GITHUB_USERS_ACTION_1
-        uses: ePlus-DEV/top-github-users-action@master
-        env:
-          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
-      - name: TOP_GITHUB_USERS_ACTION_2
+      - name: TOP GITHUB USERS ACTION
         uses: ePlus-DEV/top-github-users-action@master
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
