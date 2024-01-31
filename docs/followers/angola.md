@@ -4470,7 +4470,7 @@ There are `952 users`  in Angola. You need at least `2 followers` to be on this 
 			<a href="https://github.com/tecnofence">
 				<img src="https://avatars.githubusercontent.com/u/62478830?s=72&u=9204d12482b403c6709f9225f199a2c9fff33780&v=4" width="24" alt="Avatar of tecnofence"/> tecnofence
 			</a><br/>
-			{[( ManuelDev )]}
+			ManuelDev
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
