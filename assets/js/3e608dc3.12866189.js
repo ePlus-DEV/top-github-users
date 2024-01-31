@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktop_github_users=self.webpackChunktop_github_users||[]).push([[935],{7263:e=>{e.exports=JSON.parse('{"title":"Followers","description":"Top GitHub Users By Followers","slug":"followers","permalink":"/followers","navigation":{"previous":{"title":"Homepage","permalink":"/"},"next":{"title":"Australia","permalink":"/followers/australia"}}}')}}]);
