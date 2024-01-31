@@ -6920,7 +6920,7 @@ There are `901 users`  in Cuba. You need at least `0 followers` to be on this li
 			<a href="https://github.com/Reysel1">
 				<img src="https://avatars.githubusercontent.com/u/98265287?s=72&u=6d237bd9185476924c13cde762ad31cea3e81fbd&v=4" width="24" alt="Avatar of Reysel1"/> Reysel1
 			</a><br/>
-			<reysel>
+			reysel
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/reyselx1">reyselx1</a></td>
