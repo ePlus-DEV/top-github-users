@@ -62,6 +62,9 @@ const config = {
         gtag: {
           trackingID: 'G-9ZBLG0R1K1',
         },
+        sitemap: {
+          changefreq: 'hourly',
+        },
       }),
     ],
   ],
