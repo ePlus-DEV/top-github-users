@@ -9603,8 +9603,7 @@ There are `970 users`  in Belgium. You need at least `38 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomvangoethem">
 				<img src="https://avatars.githubusercontent.com/u/4355579?s=72&v=4" width="24" alt="Avatar of tomvangoethem"/> tomvangoethem
-			</a><br/>
-			Tom Van Goethem</td>
+			</a><br/>Tom Van Goethem</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgium</td>
