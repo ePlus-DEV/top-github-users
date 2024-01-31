@@ -11,7 +11,7 @@ slug: /
 	<img align="right" width="400" src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country"/>
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 2:39 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/1/31 2:58 PM UTC`.
 
 This repository contains users `28 countries` and `193 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/ePlus-DEV/top-github-users/blob/main/config.json).
@@ -99,7 +99,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/argentina.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/argentina.md">
 				Argentina
 			</a>
 		</td>
@@ -116,7 +116,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/australia.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/australia.md">
 				Australia
 			</a>
 		</td>
@@ -134,7 +134,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/belgium.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/belgium.md">
 				Belgium
 			</a>
 		</td>
@@ -150,7 +150,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/canada.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/canada.md">
 				Canada
 			</a>
 		</td>
@@ -168,7 +168,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/china.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/china.md">
 				China
 			</a>
 		</td>
@@ -185,7 +185,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/france.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/france.md">
 				France
 			</a>
 		</td>
@@ -204,7 +204,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/germany.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/germany.md">
 				Germany
 			</a>
 		</td>
@@ -221,7 +221,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/india.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/india.md">
 				India
 			</a>
 		</td>
@@ -240,7 +240,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/indonesia.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/indonesia.md">
 				Indonesia
 			</a>
 		</td>
@@ -257,7 +257,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/iran.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/iran.md">
 				Iran
 			</a>
 		</td>
@@ -272,7 +272,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/israel.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/israel.md">
 				Israel
 			</a>
 		</td>
@@ -289,7 +289,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/italy.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/italy.md">
 				Italy
 			</a>
 		</td>
@@ -306,7 +306,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/japan.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/japan.md">
 				Japan
 			</a>
 		</td>
@@ -316,7 +316,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/mexico.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/mexico.md">
 				Mexico
 			</a>
 		</td>
@@ -332,7 +332,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/netherlands.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/netherlands.md">
 				Netherlands
 			</a>
 		</td>
@@ -349,7 +349,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/poland.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/poland.md">
 				Poland
 			</a>
 		</td>
@@ -366,7 +366,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/russia.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/russia.md">
 				Russia
 			</a>
 		</td>
@@ -384,7 +384,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/singapore.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/singapore.md">
 				Singapore
 			</a>
 		</td>
@@ -393,7 +393,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/south_korea.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/south_korea.md">
 				South Korea
 			</a>
 		</td>
@@ -408,7 +408,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/sweden.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/sweden.md">
 				Sweden
 			</a>
 		</td>
@@ -425,7 +425,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/switzerland.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/switzerland.md">
 				Switzerland
 			</a>
 		</td>
@@ -442,7 +442,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/thailand.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/thailand.md">
 				Thailand
 			</a>
 		</td>
@@ -459,7 +459,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/turkey.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/turkey.md">
 				Turkey
 			</a>
 		</td>
@@ -474,7 +474,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/ukraine.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/ukraine.md">
 				Ukraine
 			</a>
 		</td>
@@ -487,7 +487,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/united_arab_emirates.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/united_arab_emirates.md">
 				United Arab Emirates
 			</a>
 		</td>
@@ -499,7 +499,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/united_kingdom.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/united_kingdom.md">
 				United Kingdom
 			</a>
 		</td>
@@ -515,7 +515,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/united_states.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/united_states.md">
 				United States
 			</a>
 		</td>
@@ -530,7 +530,7 @@ Contribute to GitHub action [ePlus-DEV/top-github-users-action](https://github.c
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public_contributions/vietnam.md">
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/vietnam.md">
 				Vietnam
 			</a>
 		</td>
