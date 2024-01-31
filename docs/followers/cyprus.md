@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Cyprus
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg" alt="Cyprus"/>
 </a>
 
-The `number of followers` of users in Cyprus on `2024/1/31 6:52 AM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
+The `number of followers` of users in Cyprus on `2024/1/31 12:02 PM UTC`. This list contains users from Cyprus and cities Nicosia Limassol Larnaca Paphos Paralimni Famagusta.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -119,7 +119,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, European Union</td>
+		<td>Cyprus European Union</td>
 		<td>674</td>
 	</tr>
 	<tr>
@@ -145,7 +145,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Jetbrains </td>
 		<td><a href="https://twitter.com/VBragilevsky">VBragilevsky</a></td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>465</td>
 	</tr>
 	<tr>
@@ -158,7 +158,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Nullsecurity Blackarch Linux </td>
 		<td><a href="https://twitter.com/noptrix">noptrix</a></td>
-		<td>Cyprus, Armenia, Stack, Heap</td>
+		<td>Cyprus Armenia Stack Heap</td>
 		<td>461</td>
 	</tr>
 	<tr>
@@ -171,7 +171,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td><a href="https://twitter.com/KathrinPetrova">KathrinPetrova</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>407</td>
 	</tr>
 	<tr>
@@ -184,7 +184,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@centrifugal  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>377</td>
 	</tr>
 	<tr>
@@ -197,7 +197,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Httpswwwjourneymento </td>
 		<td><a href="https://twitter.com/Sanaebadi97">Sanaebadi97</a></td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>370</td>
 	</tr>
 	<tr>
@@ -236,7 +236,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>335</td>
 	</tr>
 	<tr>
@@ -249,7 +249,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fuszf">fuszf</a></td>
-		<td>~Türkiye / Cyprus</td>
+		<td>Trkiye  Cyprus</td>
 		<td>308</td>
 	</tr>
 	<tr>
@@ -262,7 +262,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dgutov">dgutov</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>293</td>
 	</tr>
 	<tr>
@@ -275,7 +275,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@shopify </td>
 		<td><a href="https://twitter.com/paracycle">paracycle</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>244</td>
 	</tr>
 	<tr>
@@ -284,7 +284,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/polterguy">
 				<img src="https://avatars.githubusercontent.com/u/8466933?s=72&u=ebcbc5f6d8c968861ce193829cc7e6aba0fcf2d4&v=4" width="24" alt="Avatar of polterguy"/> polterguy
 			</a><br/>
-			AINIRO.IO
+			AINIROIO
 		</td>
 		<td>Ainiroio </td>
 		<td><a href="https://twitter.com/AIniroTeam">AIniroTeam</a></td>
@@ -301,7 +301,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@semrush </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>207</td>
 	</tr>
 	<tr>
@@ -310,11 +310,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/dr-dimitru">
 				<img src="https://avatars.githubusercontent.com/u/1686778?s=72&u=90d2cecf76132f5e33422ca09c64640ad03b87d3&v=4" width="24" alt="Avatar of dr-dimitru"/> dr-dimitru
 			</a><br/>
-			dr.dimitru
+			drdimitru
 		</td>
 		<td>@veliovgroup </td>
 		<td><a href="https://twitter.com/smart_egg">smart_egg</a></td>
-		<td>Limassol, Johannesburg, Charleston SC, NYC, LA, Philly, Amsterdam</td>
+		<td>Limassol Johannesburg Charleston SC NYC LA Philly Amsterdam</td>
 		<td>179</td>
 	</tr>
 	<tr>
@@ -353,7 +353,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tez_romach">tez_romach</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>161</td>
 	</tr>
 	<tr>
@@ -366,7 +366,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>156</td>
 	</tr>
 	<tr>
@@ -392,7 +392,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Neon Tech </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Larnaca</td>
+		<td>Cyprus Larnaca</td>
 		<td>132</td>
 	</tr>
 	<tr>
@@ -405,7 +405,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>121</td>
 	</tr>
 	<tr>
@@ -418,7 +418,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@webmin @virtualmin </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>120</td>
 	</tr>
 	<tr>
@@ -431,7 +431,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Scrpt Software </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus , Limassol</td>
+		<td>Cyprus  Limassol</td>
 		<td>119</td>
 	</tr>
 	<tr>
@@ -444,7 +444,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>118</td>
 	</tr>
 	<tr>
@@ -483,7 +483,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@lskjs  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>108</td>
 	</tr>
 	<tr>
@@ -496,7 +496,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Serverscom </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>105</td>
 	</tr>
 	<tr>
@@ -522,7 +522,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@gutai </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>99</td>
 	</tr>
 	<tr>
@@ -613,7 +613,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wargaming Group Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>91</td>
 	</tr>
 	<tr>
@@ -626,7 +626,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Swoo </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>90</td>
 	</tr>
 	<tr>
@@ -635,7 +635,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Vitaee">
 				<img src="https://avatars.githubusercontent.com/u/45064650?s=72&u=b0658dd2458472c5e0b7a81354bb59cb31ee2f57&v=4" width="24" alt="Avatar of Vitaee"/> Vitaee
 			</a><br/>
-			Can İlgu
+			Can lgu
 		</td>
 		<td>Telsim  Vodafone Group<br/>Company<br/></td>
 		<td>No Twitter Username</td>
@@ -652,7 +652,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Indrive </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>88</td>
 	</tr>
 	<tr>
@@ -665,7 +665,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>87</td>
 	</tr>
 	<tr>
@@ -713,11 +713,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/williamolojede">
 				<img src="https://avatars.githubusercontent.com/u/23551907?s=72&u=954f873ef4e83191396202ddb465a92b62623c80&v=4" width="24" alt="Avatar of williamolojede"/> williamolojede
 			</a><br/>
-			William I. Olojede
+			William I Olojede
 		</td>
 		<td>@xchangerfx </td>
 		<td><a href="https://twitter.com/williamolojede">williamolojede</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>83</td>
 	</tr>
 	<tr>
@@ -730,7 +730,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/zakirullin">zakirullin</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>82</td>
 	</tr>
 	<tr>
@@ -743,7 +743,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/katsuba_igor">katsuba_igor</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>82</td>
 	</tr>
 	<tr>
@@ -791,11 +791,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/saitonakamura">
 				<img src="https://avatars.githubusercontent.com/u/1552189?s=72&u=1939f1e505dc8d846255f7348b1633ab16dd5d33&v=4" width="24" alt="Avatar of saitonakamura"/> saitonakamura
 			</a><br/>
-			Michael サイトー 中村 Bashurov
+			Michael   Bashurov
 		</td>
 		<td>@mayflowertech  </td>
 		<td><a href="https://twitter.com/saitonakamura">saitonakamura</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>75</td>
 	</tr>
 	<tr>
@@ -821,7 +821,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>73</td>
 	</tr>
 	<tr>
@@ -847,7 +847,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Faceapp </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>71</td>
 	</tr>
 	<tr>
@@ -860,7 +860,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Majordomo </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -873,7 +873,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@exness </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -886,7 +886,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -899,7 +899,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td><a href="https://twitter.com/dedsec256">dedsec256</a></td>
-		<td>St. Petersburg / Cyprus</td>
+		<td>St Petersburg  Cyprus</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -921,7 +921,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Mariosmsk">
 				<img src="https://avatars.githubusercontent.com/u/2945956?s=72&u=ef06749b45c733b69cc4cbebc97dca2f055a8513&v=4" width="24" alt="Avatar of Mariosmsk"/> Mariosmsk
 			</a><br/>
-			Marios S. Kyriakou
+			Marios S Kyriakou
 		</td>
 		<td>@kiosresearch  </td>
 		<td><a href="https://twitter.com/_mariosmsk_">_mariosmsk_</a></td>
@@ -951,7 +951,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>68</td>
 	</tr>
 	<tr>
@@ -977,7 +977,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@songsterr </td>
 		<td><a href="https://twitter.com/ReDetection">ReDetection</a></td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>68</td>
 	</tr>
 	<tr>
@@ -1003,7 +1003,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Exness </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -1029,7 +1029,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wrike </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>64</td>
 	</tr>
 	<tr>
@@ -1042,7 +1042,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains  </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -1055,7 +1055,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/doudburst">doudburst</a></td>
-		<td>Nicosia, TRNC</td>
+		<td>Nicosia TRNC</td>
 		<td>61</td>
 	</tr>
 	<tr>
@@ -1090,7 +1090,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/jgebal">
 				<img src="https://avatars.githubusercontent.com/u/1398171?s=72&u=0bad9bb4031859bef9152ffb5f98654cc02a4dec&v=4" width="24" alt="Avatar of jgebal"/> jgebal
 			</a><br/>
-			Jacek Gębal
+			Jacek Gbal
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/GebalJacek">GebalJacek</a></td>
@@ -1103,11 +1103,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/elifistanya">
 				<img src="https://avatars.githubusercontent.com/u/69623465?s=72&u=7d44365a56b57dc313058d5e1ea69c09dc719a53&v=4" width="24" alt="Avatar of elifistanya"/> elifistanya
 			</a><br/>
-			Elif Nur TÜRK 
+			Elif Nur TRK 
 		</td>
 		<td>Salamis Bay Conti Hotel<br/></td>
 		<td>No Twitter Username</td>
-		<td>Cyprus - Türkiye</td>
+		<td>Cyprus  Trkiye</td>
 		<td>57</td>
 	</tr>
 	<tr>
@@ -1129,7 +1129,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/gorkemalyagut">
 				<img src="https://avatars.githubusercontent.com/u/57588583?s=72&u=524d328c9fad97649e33b835e08ed09b906baed7&v=4" width="24" alt="Avatar of gorkemalyagut"/> gorkemalyagut
 			</a><br/>
-			Görkem Alyağut
+			Grkem Alyaut
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gorkemalyagut">gorkemalyagut</a></td>
@@ -1198,7 +1198,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Next Level International Software<br/>Ltd<br/></td>
 		<td><a href="https://twitter.com/marcelscherf">marcelscherf</a></td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -1211,7 +1211,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>53</td>
 	</tr>
 	<tr>
@@ -1237,7 +1237,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@alleotech  </td>
 		<td><a href="https://twitter.com/mamchenkov">mamchenkov</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>52</td>
 	</tr>
 	<tr>
@@ -1272,11 +1272,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/RamazanBakir">
 				<img src="https://avatars.githubusercontent.com/u/48602486?s=72&u=69bc47e51170679a2c8ceee732f51bf58a2f5f67&v=4" width="24" alt="Avatar of RamazanBakir"/> RamazanBakir
 			</a><br/>
-			Ramazan Bakır
+			Ramazan Bakr
 		</td>
 		<td>Mugla Sitki Kocman University<br/><br/></td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -1289,7 +1289,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@marshmallow  Ex @monzo<br/></td>
 		<td><a href="https://twitter.com/mariaintech">mariaintech</a></td>
-		<td>London, Barcelona, Cyprus</td>
+		<td>London Barcelona Cyprus</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -1302,7 +1302,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaka, Cyprus</td>
+		<td>Larnaka Cyprus</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -1315,7 +1315,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Kibrisorder </td>
 		<td>No Twitter Username</td>
-		<td>Famagusta, Cyprus</td>
+		<td>Famagusta Cyprus</td>
 		<td>48</td>
 	</tr>
 	<tr>
@@ -1328,7 +1328,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>48</td>
 	</tr>
 	<tr>
@@ -1354,7 +1354,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Clevcode Ltd </td>
 		<td><a href="https://twitter.com/OwariDa">OwariDa</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -1363,11 +1363,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/mymakarim">
 				<img src="https://avatars.githubusercontent.com/u/39916324?s=72&u=ec38c4c198536803a147e34f76e7978ce36ebcba&v=4" width="24" alt="Avatar of mymakarim"/> mymakarim
 			</a><br/>
-			Mr. Code (@mymakarim)
+			Mr Code @mymakarim
 		</td>
 		<td>@componentity </td>
 		<td><a href="https://twitter.com/mymakarim">mymakarim</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>46</td>
 	</tr>
 	<tr>
@@ -1386,6 +1386,19 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 	<tr>
 		<td>99</td>
 		<td>
+			<a href="https://github.com/NicosNicolaou16">
+				<img src="https://avatars.githubusercontent.com/u/59845938?s=72&u=2889490c98024af228e6e63ce398591715ae785c&v=4" width="24" alt="Avatar of NicosNicolaou16"/> NicosNicolaou16
+			</a><br/>
+			Nicos Nicolaou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nicolaou_nicos">nicolaou_nicos</a></td>
+		<td>Nicosia Cyprus</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
 			<a href="https://github.com/west0r">
 				<img src="https://avatars.githubusercontent.com/u/8268115?s=72&v=4" width="24" alt="Avatar of west0r"/> west0r
 			</a><br/>
@@ -1393,11 +1406,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@indriver  </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/Smertig">
 				<img src="https://avatars.githubusercontent.com/u/3898244?s=72&v=4" width="24" alt="Avatar of Smertig"/> Smertig
@@ -1410,7 +1423,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/vozersky">
 				<img src="https://avatars.githubusercontent.com/u/17472907?s=72&u=cf81e7e3aac97d73273ec151623f96368c997c17&v=4" width="24" alt="Avatar of vozersky"/> vozersky
@@ -1423,7 +1436,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/jessgusclark">
 				<img src="https://avatars.githubusercontent.com/u/766679?s=72&u=97dda75ca611f14149de844ab243b329f05ece93&v=4" width="24" alt="Avatar of jessgusclark"/> jessgusclark
@@ -1432,20 +1445,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/NicosNicolaou16">
-				<img src="https://avatars.githubusercontent.com/u/59845938?s=72&u=2889490c98024af228e6e63ce398591715ae785c&v=4" width="24" alt="Avatar of NicosNicolaou16"/> NicosNicolaou16
-			</a><br/>
-			Nicos Nicolaou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nicolaou_nicos">nicolaou_nicos</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -1497,7 +1497,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/axgord">axgord</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>42</td>
 	</tr>
 	<tr>
@@ -1510,7 +1510,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Voltsoft </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>42</td>
 	</tr>
 	<tr>
@@ -1523,7 +1523,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>2amigos Consulting Group Llc<br/></td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -1549,7 +1549,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Mojo  </td>
 		<td><a href="https://twitter.com/most_mojo">most_mojo</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -1562,7 +1562,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wargamingnet </td>
 		<td><a href="https://twitter.com/annmuor">annmuor</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -1575,7 +1575,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Eastern Mediterranean University </td>
 		<td>No Twitter Username</td>
-		<td>Mersin and Gazimağusa (Famagusta)</td>
+		<td>Mersin and Gazimausa Famagusta</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -1614,7 +1614,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia,Cy</td>
+		<td>NicosiaCy</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -1627,7 +1627,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetappseu </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -1649,7 +1649,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/bromso">
 				<img src="https://avatars.githubusercontent.com/u/4441528?s=72&u=9b0e987a3b2b13b14223a05e9c6178ee736d460e&v=4" width="24" alt="Avatar of bromso"/> bromso
 			</a><br/>
-			Jonas Bröms
+			Jonas Brms
 		</td>
 		<td>@odduse  </td>
 		<td><a href="https://twitter.com/jonasbroms">jonasbroms</a></td>
@@ -1666,7 +1666,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Trouva </td>
 		<td><a href="https://twitter.com/mschinis">mschinis</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -1679,7 +1679,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ilgyrd">ilgyrd</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -1692,7 +1692,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Teknavo </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -1705,7 +1705,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains  </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -1718,7 +1718,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@serverscom  </td>
 		<td><a href="https://twitter.com/anber_dev">anber_dev</a></td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -1766,11 +1766,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Deams51">
 				<img src="https://avatars.githubusercontent.com/u/6062062?s=72&v=4" width="24" alt="Avatar of Deams51"/> Deams51
 			</a><br/>
-			Mickaël
+			Mickal
 		</td>
 		<td>Cubit Studios </td>
 		<td>No Twitter Username</td>
-		<td>Berlin - Cyprus</td>
+		<td>Berlin  Cyprus</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -1783,7 +1783,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -1809,7 +1809,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -1818,7 +1818,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/hb20007">
 				<img src="https://avatars.githubusercontent.com/u/8860322?s=72&u=8205224e8dde560414e4cdd310cd5fc50ae8e668&v=4" width="24" alt="Avatar of hb20007"/> hb20007
 			</a><br/>
-			H. Z. Sababa
+			H Z Sababa
 		</td>
 		<td>Truly Kryptic </td>
 		<td>No Twitter Username</td>
@@ -1835,11 +1835,24 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>37</td>
 	</tr>
 	<tr>
 		<td>134</td>
+		<td>
+			<a href="https://github.com/behnood-eghbali">
+				<img src="https://avatars.githubusercontent.com/u/8597722?s=72&u=065c2161a6e966f92e327d81cd4456e33324d7d4&v=4" width="24" alt="Avatar of behnood-eghbali"/> behnood-eghbali
+			</a><br/>
+			Behnood Eghbali
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/behnoooood">behnoooood</a></td>
+		<td>Nicosia Cyprus</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/selfuryon">
 				<img src="https://avatars.githubusercontent.com/u/2993917?s=72&u=84ad0479a9bc8e808775e520c048818081288b07&v=4" width="24" alt="Avatar of selfuryon"/> selfuryon
@@ -1852,12 +1865,12 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/hsyntes">
 				<img src="https://avatars.githubusercontent.com/u/69708483?s=72&u=5d40444f9f415042b6124edf3000b4ba7f42ff8f&v=4" width="24" alt="Avatar of hsyntes"/> hsyntes
 			</a><br/>
-			Hüseyin Ateş
+			Hseyin Ate
 		</td>
 		<td>Eastern Mediterranean University </td>
 		<td><a href="https://twitter.com/hsyntes">hsyntes</a></td>
@@ -1865,7 +1878,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/strangeman">
 				<img src="https://avatars.githubusercontent.com/u/1083576?s=72&u=1ad87d943473e3c859b84776ef123693797e6a84&v=4" width="24" alt="Avatar of strangeman"/> strangeman
@@ -1874,11 +1887,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Prisma Labs </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/codewithahad01">
 				<img src="https://avatars.githubusercontent.com/u/62951574?s=72&u=0e89d91dc04ce648d9f9735bedbe58d666e7d70c&v=4" width="24" alt="Avatar of codewithahad01"/> codewithahad01
@@ -1887,20 +1900,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@netlinksaf </td>
 		<td><a href="https://twitter.com/codewithahad">codewithahad</a></td>
-		<td>Limassol, Cyprus</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/behnood-eghbali">
-				<img src="https://avatars.githubusercontent.com/u/8597722?s=72&u=065c2161a6e966f92e327d81cd4456e33324d7d4&v=4" width="24" alt="Avatar of behnood-eghbali"/> behnood-eghbali
-			</a><br/>
-			Behnood Eghbali
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/behnoooood">behnoooood</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -1909,11 +1909,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/SergioPerm">
 				<img src="https://avatars.githubusercontent.com/u/11042817?s=72&u=f5975f427f66339e4345eb7261e71e271d6d8465&v=4" width="24" alt="Avatar of SergioPerm"/> SergioPerm
 			</a><br/>
-			Sergei Lepinin (Сергей Лепинин)
+			Sergei Lepinin  
 		</td>
 		<td>Dccllc </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -1952,7 +1952,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@kodeosityhq </td>
 		<td><a href="https://twitter.com/alxnclds">alxnclds</a></td>
-		<td>Cyprus | San Francisco (Bay Area), CA</td>
+		<td>Cyprus  San Francisco Bay Area CA</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -1965,7 +1965,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Clover </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -2004,7 +2004,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -2017,7 +2017,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@mpvplayer </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -2030,7 +2030,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -2043,7 +2043,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@walletconnect </td>
 		<td><a href="https://twitter.com/geek_maks">geek_maks</a></td>
-		<td>Cyprus, Kyiv, Budapest, Dubai</td>
+		<td>Cyprus Kyiv Budapest Dubai</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -2082,7 +2082,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -2095,7 +2095,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Poraai </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -2130,11 +2130,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/lapkoshka">
 				<img src="https://avatars.githubusercontent.com/u/4532214?s=72&u=dd29ef71daa61a7c49c3fcca665f32f3615aa60c&v=4" width="24" alt="Avatar of lapkoshka"/> lapkoshka
 			</a><br/>
-			Artёm Lapko
+			Artm Lapko
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -2143,11 +2143,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/ololx">
 				<img src="https://avatars.githubusercontent.com/u/57698089?s=72&u=3685636b1c116537c0bc35e1548cdb511911d88d&v=4" width="24" alt="Avatar of ololx"/> ololx
 			</a><br/>
-			Alexander A. Kropotin
+			Alexander A Kropotin
 		</td>
 		<td>@pixonic </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -2186,7 +2186,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cardiff University  </td>
 		<td><a href="https://twitter.com/5b4anu">5b4anu</a></td>
-		<td>Nicosia,Cyprus </td>
+		<td>NicosiaCyprus </td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -2212,7 +2212,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iacons">iacons</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -2264,7 +2264,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Indrive </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -2277,7 +2277,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Catalink </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -2316,7 +2316,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@yelp </td>
 		<td>No Twitter Username</td>
-		<td>UK | Cyprus</td>
+		<td>UK  Cyprus</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -2329,7 +2329,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@wheely  </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, CY</td>
+		<td>Nicosia CY</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -2381,7 +2381,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Abbyy </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -2407,7 +2407,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>010community </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -2433,7 +2433,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Ios Dev Lead @<br/>Palta<br/></td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -2455,7 +2455,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/p-janik">
 				<img src="https://avatars.githubusercontent.com/u/5458660?s=72&u=e6e2ac136154a65ea8ceb3f7006cef381a638ff0&v=4" width="24" alt="Avatar of p-janik"/> p-janik
 			</a><br/>
-			Paweł Janik
+			Pawe Janik
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2472,7 +2472,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>The Cyprus Institute </td>
 		<td><a href="https://twitter.com/doctor_no__">doctor_no__</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -2485,7 +2485,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -2511,7 +2511,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@nativerobotics  </td>
 		<td><a href="https://twitter.com/koalamoondance">koalamoondance</a></td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -2550,7 +2550,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@percona  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -2563,7 +2563,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -2576,7 +2576,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Electi Consulting </td>
 		<td>No Twitter Username</td>
-		<td>EU - UK -  Cyprus</td>
+		<td>EU  UK   Cyprus</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -2615,7 +2615,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Qiiwi Games </td>
 		<td><a href="https://twitter.com/JackMini36">JackMini36</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -2641,7 +2641,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Fullstack Software Developer </td>
 		<td><a href="https://twitter.com/PamphileMusonda">PamphileMusonda</a></td>
-		<td>North Cyprus, Nicosia.</td>
+		<td>North Cyprus Nicosia</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -2693,7 +2693,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -2706,7 +2706,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Exness </td>
 		<td><a href="https://twitter.com/spacepatcher">spacepatcher</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -2741,11 +2741,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/aytacg26">
 				<img src="https://avatars.githubusercontent.com/u/51089771?s=72&u=7e5c0888119de39ab9675b0d0fd85dd36a9d089c&v=4" width="24" alt="Avatar of aytacg26"/> aytacg26
 			</a><br/>
-			Aytac Güley
+			Aytac Gley
 		</td>
 		<td>Cyens Superworld </td>
 		<td><a href="https://twitter.com/aytacg26">aytacg26</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2784,7 +2784,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Space Clicker </td>
 		<td>No Twitter Username</td>
-		<td>Famagusta, Cyprus</td>
+		<td>Famagusta Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2797,7 +2797,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2810,7 +2810,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetappseu  </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2819,11 +2819,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/skyrim">
 				<img src="https://avatars.githubusercontent.com/u/1439271?s=72&v=4" width="24" alt="Avatar of skyrim"/> skyrim
 			</a><br/>
-			Stefan Stojković
+			Stefan Stojkovi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2836,7 +2836,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Jetbrains @jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2862,7 +2862,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>University Of Cyprus </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2884,7 +2884,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/eldemet">
 				<img src="https://avatars.githubusercontent.com/u/973084?s=72&u=c81311b57d7aea5d6c64c94b39b9ffb2be3eccfb&v=4" width="24" alt="Avatar of eldemet"/> eldemet
 			</a><br/>
-			Demetrios G. Eliades
+			Demetrios G Eliades
 		</td>
 		<td>@kiosresearch  </td>
 		<td><a href="https://twitter.com/eldemet">eldemet</a></td>
@@ -2901,7 +2901,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/menina_sal">menina_sal</a></td>
-		<td>Famagusta, Cyprus</td>
+		<td>Famagusta Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2940,7 +2940,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cyprus Institute </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2966,7 +2966,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@shopify  </td>
 		<td><a href="https://twitter.com/eStivaros">eStivaros</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -3057,7 +3057,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Orptech Software @orptechcom </td>
 		<td>No Twitter Username</td>
-		<td>United Kingdom | Cyprus</td>
+		<td>United Kingdom  Cyprus</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3070,7 +3070,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3083,7 +3083,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Hadron Labs </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3122,7 +3122,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3135,7 +3135,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3200,16 +3200,29 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@cordlesssystems  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>21</td>
 	</tr>
 	<tr>
 		<td>239</td>
 		<td>
+			<a href="https://github.com/alaegin">
+				<img src="https://avatars.githubusercontent.com/u/10329086?s=72&u=9da90ef2a6138d93a137623e393573a7c4c21643&v=4" width="24" alt="Avatar of alaegin"/> alaegin
+			</a><br/>
+			Alexey Egin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cyprus</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
 			<a href="https://github.com/web3jt">
 				<img src="https://avatars.githubusercontent.com/u/86281610?s=72&u=347bbf80dc98c3d580524dae5147652a5737ed22&v=4" width="24" alt="Avatar of web3jt"/> web3jt
 			</a><br/>
-			J.T.
+			JT
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/web3jt">web3jt</a></td>
@@ -3217,7 +3230,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/poirazis">
 				<img src="https://avatars.githubusercontent.com/u/80512170?s=72&u=f22d560839c4d7b6afb7b7edee68d8209b1ef910&v=4" width="24" alt="Avatar of poirazis"/> poirazis
@@ -3226,11 +3239,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Poirazis Unlimited Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/followdarko">
 				<img src="https://avatars.githubusercontent.com/u/7001916?s=72&u=f0f84e4abae94e9f5579b8225270f32fcf53d915&v=4" width="24" alt="Avatar of followdarko"/> followdarko
@@ -3243,7 +3256,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/petertretyakov">
 				<img src="https://avatars.githubusercontent.com/u/1763387?s=72&v=4" width="24" alt="Avatar of petertretyakov"/> petertretyakov
@@ -3256,7 +3269,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/misterpaul4">
 				<img src="https://avatars.githubusercontent.com/u/45200883?s=72&u=aa0ac9bb8e7f29fc7507d9efc7f1908f286f1732&v=4" width="24" alt="Avatar of misterpaul4"/> misterpaul4
@@ -3269,7 +3282,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/kriuchkov">
 				<img src="https://avatars.githubusercontent.com/u/1130455?s=72&u=1a1122a62c29709840c2c7e855e32489f512d97a&v=4" width="24" alt="Avatar of kriuchkov"/> kriuchkov
@@ -3282,7 +3295,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/Kami-no">
 				<img src="https://avatars.githubusercontent.com/u/5441195?s=72&v=4" width="24" alt="Avatar of Kami-no"/> Kami-no
@@ -3295,7 +3308,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/exchange12rocks">
 				<img src="https://avatars.githubusercontent.com/u/17012873?s=72&u=3168a885ece5d424a60b5a4b88bae7ce7c3daf26&v=4" width="24" alt="Avatar of exchange12rocks"/> exchange12rocks
@@ -3308,7 +3321,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/nikbrain">
 				<img src="https://avatars.githubusercontent.com/u/3016028?s=72&v=4" width="24" alt="Avatar of nikbrain"/> nikbrain
@@ -3321,7 +3334,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/SimonOsipov">
 				<img src="https://avatars.githubusercontent.com/u/28685772?s=72&v=4" width="24" alt="Avatar of SimonOsipov"/> SimonOsipov
@@ -3331,19 +3344,6 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>Gett </td>
 		<td><a href="https://twitter.com/OsipovSimon">OsipovSimon</a></td>
 		<td>Nicosia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/alaegin">
-				<img src="https://avatars.githubusercontent.com/u/10329086?s=72&u=9da90ef2a6138d93a137623e393573a7c4c21643&v=4" width="24" alt="Avatar of alaegin"/> alaegin
-			</a><br/>
-			Alexey Egin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cyprus</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3369,7 +3369,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Retrocketio </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3382,7 +3382,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/rudasn">rudasn</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3395,7 +3395,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Self Employed </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3408,7 +3408,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>University Of Cyprus </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3447,7 +3447,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/elvisray_dev">elvisray_dev</a></td>
-		<td>Nicosia, CY</td>
+		<td>Nicosia CY</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3486,7 +3486,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/flangofas_">flangofas_</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -3603,7 +3603,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -3629,7 +3629,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wg </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -3642,7 +3642,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@simplelifeapps </td>
 		<td><a href="https://twitter.com/sergeyshevch">sergeyshevch</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -3655,7 +3655,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Whipped Cream Studios </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -3681,7 +3681,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -3716,7 +3716,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/apa512">
 				<img src="https://avatars.githubusercontent.com/u/319058?s=72&u=b1bb3f6d2e0642f60753c2a539dfbe0b0075e5cd&v=4" width="24" alt="Avatar of apa512"/> apa512
 			</a><br/>
-			Erik Strömberg
+			Erik Strmberg
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3729,7 +3729,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/styx00">
 				<img src="https://avatars.githubusercontent.com/u/17887949?s=72&u=2e6803049d6f100205ca3f10412d5a640f1a5c56&v=4" width="24" alt="Avatar of styx00"/> styx00
 			</a><br/>
-			Marios Nicolaides (styx00)
+			Marios Nicolaides styx00
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3759,7 +3759,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Jr Software Dev At<br/>Ciu<br/>Software<br/>Unit<br/></td>
 		<td>No Twitter Username</td>
-		<td>Nicosia,Cyprus </td>
+		<td>NicosiaCyprus </td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -3811,7 +3811,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -3824,7 +3824,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@ahrefs </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -3863,7 +3863,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Serverscom </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -3876,7 +3876,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -3889,7 +3889,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -3902,7 +3902,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cypurs</td>
+		<td>Larnaca Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -3928,7 +3928,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -3950,11 +3950,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Danico-mfala">
 				<img src="https://avatars.githubusercontent.com/u/82734738?s=72&u=8b1e1aa197a3623a09a972e3b12314e45ac3e993&v=4" width="24" alt="Avatar of Danico-mfala"/> Danico-mfala
 			</a><br/>
-			Danico_Mfala
+			DanicoMfala
 		</td>
 		<td> @roottechnology  </td>
 		<td><a href="https://twitter.com/mfaladan">mfaladan</a></td>
-		<td>Nicosia,cyprus</td>
+		<td>Nicosiacyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -3980,7 +3980,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Castorc The Cyprus Institute<br/>Cyi<br/></td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -3993,7 +3993,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4006,7 +4006,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Brain Rocket </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4028,7 +4028,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/codergirll-droid">
 				<img src="https://avatars.githubusercontent.com/u/59964531?s=72&u=271f08d2e70725221f82e4f78161102d78212493&v=4" width="24" alt="Avatar of codergirll-droid"/> codergirll-droid
 			</a><br/>
-			Ayşe Oduncu
+			Aye Oduncu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4054,11 +4054,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/cengizonkal">
 				<img src="https://avatars.githubusercontent.com/u/3024926?s=72&u=090a470f2abb0297ba14ba3c7f54dce223b467d6&v=4" width="24" alt="Avatar of cengizonkal"/> cengizonkal
 			</a><br/>
-			Cengiz Önkal
+			Cengiz nkal
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, nicosia</td>
+		<td>Cyprus nicosia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4071,7 +4071,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>European University Cyprus School<br/>Of<br/>Medicine<br/></td>
 		<td><a href="https://twitter.com/TheodoreLytras">TheodoreLytras</a></td>
-		<td>Athens, GR and Nicosia, CY</td>
+		<td>Athens GR and Nicosia CY</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4097,7 +4097,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4110,7 +4110,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>nicosia, north cyprus</td>
+		<td>nicosia north cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4136,7 +4136,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Senior Ios Engineer @<br/>Finom<br/>Tech<br/>Ltd<br/></td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4149,7 +4149,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Prisma Ai </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -4162,7 +4162,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@symfony @apiplatform @iotbbg <br/></td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4175,7 +4175,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4214,7 +4214,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Dailymind </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4240,7 +4240,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Student </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4253,7 +4253,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wanna Fashion </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4292,7 +4292,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Criteo </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4305,7 +4305,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4383,7 +4383,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/PDimitri0u">PDimitri0u</a></td>
-		<td>Limassol, Cyprus.</td>
+		<td>Limassol Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4435,7 +4435,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AkyrosXD">AkyrosXD</a></td>
-		<td>Nicosia, Republic of Cyprus</td>
+		<td>Nicosia Republic of Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4448,7 +4448,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4474,7 +4474,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Digitouch Spa </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia(EN)</td>
+		<td>NicosiaEN</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -4487,7 +4487,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Indrive </td>
 		<td>No Twitter Username</td>
-		<td>CY, Paphos</td>
+		<td>CY Paphos</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4513,7 +4513,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4526,7 +4526,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4552,7 +4552,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cing </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4565,7 +4565,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4630,7 +4630,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>University of Cyprus, Nicosia, Cyprus</td>
+		<td>University of Cyprus Nicosia Cyprus</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4656,7 +4656,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Exness </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4669,7 +4669,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Semrush </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4708,7 +4708,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>The Lodge </td>
 		<td>No Twitter Username</td>
-		<td>Blue Lagoon, Cyprus</td>
+		<td>Blue Lagoon Cyprus</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -4717,7 +4717,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/denizgolbas">
 				<img src="https://avatars.githubusercontent.com/u/27892099?s=72&u=9da8a53ef28c7a604a84af185416f447af4df647&v=4" width="24" alt="Avatar of denizgolbas"/> denizgolbas
 			</a><br/>
-			Deniz Gölbaş
+			Deniz Glba
 		</td>
 		<td>Retrocket </td>
 		<td><a href="https://twitter.com/denizgolbas">denizgolbas</a></td>
@@ -4747,7 +4747,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Limbic </td>
 		<td><a href="https://twitter.com/akarpasitis">akarpasitis</a></td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4786,7 +4786,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@cryptoboyio </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4834,11 +4834,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/petuch03">
 				<img src="https://avatars.githubusercontent.com/u/81352831?s=72&u=108fd47c8f3bfb8fa5a4b869dbbc016188d21d01&v=4" width="24" alt="Avatar of petuch03"/> petuch03
 			</a><br/>
-			E. Safronov
+			E Safronov
 		</td>
 		<td>Neapolis University Pafos </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4847,11 +4847,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/JDMukiibs">
 				<img src="https://avatars.githubusercontent.com/u/40675392?s=72&u=e8794f4821a4e64056d3bc730baf2429ca15cd35&v=4" width="24" alt="Avatar of JDMukiibs"/> JDMukiibs
 			</a><br/>
-			Joshua D. Mukiibi
+			Joshua D Mukiibi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/joshuamukiibi10">joshuamukiibi10</a></td>
-		<td>Famagusta, Cyprus</td>
+		<td>Famagusta Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4864,7 +4864,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cyprus University Of Technology<br/></td>
 		<td><a href="https://twitter.com/chrodos">chrodos</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4877,7 +4877,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Telegram Wallet </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4890,7 +4890,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4903,7 +4903,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/snegovikufa">snegovikufa</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4929,7 +4929,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Ibit </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4955,7 +4955,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@wrike </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4968,7 +4968,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus (North)</td>
+		<td>Cyprus North</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -4994,7 +4994,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -5046,7 +5046,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>University Of Cyprus </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -5059,7 +5059,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@codeda  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -5085,7 +5085,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Agvend </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5137,7 +5137,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5163,7 +5163,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5189,7 +5189,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@google @askmediagroup </td>
 		<td><a href="https://twitter.com/groschovskiy">groschovskiy</a></td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5293,7 +5293,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Paytech </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5319,7 +5319,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5332,7 +5332,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@wheely </td>
 		<td><a href="https://twitter.com/s3rgush4">s3rgush4</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5371,7 +5371,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Faithful Sarl </td>
 		<td><a href="https://twitter.com/patrickdipumba">patrickdipumba</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5384,7 +5384,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5410,7 +5410,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@spotware </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5432,7 +5432,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/bparlan">
 				<img src="https://avatars.githubusercontent.com/u/3730152?s=72&v=4" width="24" alt="Avatar of bparlan"/> bparlan
 			</a><br/>
-			Barış Parlan
+			Bar Parlan
 		</td>
 		<td>Technology Consultant </td>
 		<td><a href="https://twitter.com/bparlan">bparlan</a></td>
@@ -5462,7 +5462,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5514,7 +5514,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5579,7 +5579,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@indriver </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Psematismenos</td>
+		<td>Cyprus Psematismenos</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5592,7 +5592,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/moofkit">moofkit</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5605,7 +5605,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@osaiai Osaiai </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5618,7 +5618,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Mercuryo </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5631,7 +5631,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Moscow/Cyprus</td>
+		<td>MoscowCyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5644,7 +5644,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Learnworlds </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5696,7 +5696,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Moodby Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Limassol/Cyprus</td>
+		<td>LimassolCyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5709,7 +5709,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Turkey\Cyprus </td>
+		<td>TurkeyCyprus </td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5722,7 +5722,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>The Cyprus Institute </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5748,7 +5748,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, CY</td>
+		<td>Limassol CY</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5757,7 +5757,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/serhananil">
 				<img src="https://avatars.githubusercontent.com/u/78823809?s=72&u=dd4f0c7910aed9e5d5322d8cb80c448140ea8f20&v=4" width="24" alt="Avatar of serhananil"/> serhananil
 			</a><br/>
-			Serhan Anıl Kılıç
+			Serhan Anl Kl
 		</td>
 		<td>My Hashtag </td>
 		<td>No Twitter Username</td>
@@ -5774,7 +5774,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Azul </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5800,7 +5800,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5813,7 +5813,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5826,7 +5826,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5852,7 +5852,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nikosia, Cyprus</td>
+		<td>Nikosia Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5865,7 +5865,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@uvoteam </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5952,11 +5952,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/melikebalpinar">
 				<img src="https://avatars.githubusercontent.com/u/75689856?s=72&u=d54d3cac5ff7523c00878190a5774c38d0a4f14a&v=4" width="24" alt="Avatar of melikebalpinar"/> melikebalpinar
 			</a><br/>
-			Melike Balpınar
+			Melike Balpnar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus & Turkey </td>
+		<td>Cyprus  Turkey </td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -5995,7 +5995,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ruslanchek">ruslanchek</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6047,7 +6047,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Somewhere Magic </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6056,7 +6056,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/mustafamengutay">
 				<img src="https://avatars.githubusercontent.com/u/48598974?s=72&u=3e20178001ffaf80a52be14cac92d46fc457a3af&v=4" width="24" alt="Avatar of mustafamengutay"/> mustafamengutay
 			</a><br/>
-			Mustafa Mengütay
+			Mustafa Mengtay
 		</td>
 		<td>Eastern Mediterranean University </td>
 		<td>No Twitter Username</td>
@@ -6086,7 +6086,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Autodscom </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6099,7 +6099,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Musecy Llc </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6125,7 +6125,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6164,7 +6164,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Feed Me Cyprus </td>
 		<td><a href="https://twitter.com/ElwanRami">ElwanRami</a></td>
-		<td>Northern Cyprus, Famagusta</td>
+		<td>Northern Cyprus Famagusta</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6190,7 +6190,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Saintpetersburg State University </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6203,7 +6203,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6216,7 +6216,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>1inch </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6229,7 +6229,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Hadjiantonis_A">Hadjiantonis_A</a></td>
-		<td>Thessaloniki, Greece (from Cyprus)</td>
+		<td>Thessaloniki Greece from Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6255,7 +6255,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>High Edge Software </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Kypros</td>
+		<td>Paphos Kypros</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6294,7 +6294,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Root Tech Cypruscodes Fatsoma<br/></td>
 		<td><a href="https://twitter.com/frankteidara">frankteidara</a></td>
-		<td>Nicosia, North Cyprus</td>
+		<td>Nicosia North Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6320,7 +6320,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marko_kostich">marko_kostich</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6359,7 +6359,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6385,7 +6385,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Brainrocket </td>
 		<td><a href="https://twitter.com/_ItNoN">_ItNoN</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6398,7 +6398,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AABur">AABur</a></td>
-		<td>Limassol (Cyprus)</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6411,7 +6411,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wisebits </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6450,7 +6450,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Anidetrix">Anidetrix</a></td>
-		<td>Kyrenia, Cyprus</td>
+		<td>Kyrenia Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6463,7 +6463,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Finteco </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Larnaca</td>
+		<td>Cyprus Larnaca</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6489,7 +6489,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6502,7 +6502,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6537,11 +6537,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/serhatozles">
 				<img src="https://avatars.githubusercontent.com/u/4962332?s=72&u=49eaf7e7d6f95fb19339402e7e33d5be768752d9&v=4" width="24" alt="Avatar of serhatozles"/> serhatozles
 			</a><br/>
-			Serhat Özleş
+			Serhat zle
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6554,7 +6554,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6606,7 +6606,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cryptokami </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -6619,7 +6619,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6628,7 +6628,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/serdarbasol">
 				<img src="https://avatars.githubusercontent.com/u/10073284?s=72&u=afc9b5dcaf03c6dbba66c4db70b61f69cd329f23&v=4" width="24" alt="Avatar of serdarbasol"/> serdarbasol
 			</a><br/>
-			Serdar Başol
+			Serdar Baol
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6645,7 +6645,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6684,7 +6684,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@serkseal </td>
 		<td><a href="https://twitter.com/KViseal">KViseal</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6697,7 +6697,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6706,7 +6706,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/adilecetinkaya">
 				<img src="https://avatars.githubusercontent.com/u/34406371?s=72&v=4" width="24" alt="Avatar of adilecetinkaya"/> adilecetinkaya
 			</a><br/>
-			Adile Çetinkaya
+			Adile etinkaya
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6745,7 +6745,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Mustafadagkiranlar">
 				<img src="https://avatars.githubusercontent.com/u/43909833?s=72&u=3a4b75d6619a49d4fa3b968a32502896591b8a34&v=4" width="24" alt="Avatar of Mustafadagkiranlar"/> Mustafadagkiranlar
 			</a><br/>
-			Mustafa Dağkıranlar
+			Mustafa Dakranlar
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dagkiranlarm">dagkiranlarm</a></td>
@@ -6762,7 +6762,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Pafos, Cyprus</td>
+		<td>Pafos Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6775,7 +6775,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6814,7 +6814,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/erodotosd">erodotosd</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6853,7 +6853,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6879,7 +6879,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>One Robot </td>
 		<td><a href="https://twitter.com/alkihuri">alkihuri</a></td>
-		<td>Cyprus, Limassol. Russia, Moscow/Makhachkala.</td>
+		<td>Cyprus Limassol Russia MoscowMakhachkala</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6892,7 +6892,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6905,7 +6905,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Uclan Cyprus </td>
 		<td><a href="https://twitter.com/AimiliosHadj">AimiliosHadj</a></td>
-		<td>Paralimni, Cyprus</td>
+		<td>Paralimni Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6918,7 +6918,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6931,7 +6931,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@nilfoundation </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -6983,7 +6983,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Criteo </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7009,7 +7009,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Philoshopic </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7022,7 +7022,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7074,7 +7074,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7152,7 +7152,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wrike </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus,Nicosia</td>
+		<td>CyprusNicosia</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7165,7 +7165,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -7204,7 +7204,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7217,7 +7217,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Indigo Softwares  </td>
 		<td>No Twitter Username</td>
-		<td>Lefke, Nicosia, Cyprus</td>
+		<td>Lefke Nicosia Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7230,7 +7230,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7243,7 +7243,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>It Tech Aoratos Ltd<br/></td>
 		<td>No Twitter Username</td>
-		<td>Building software with ♥ from the beautiful island of Cyprus</td>
+		<td>Building software with  from the beautiful island of Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7269,7 +7269,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@onelightapps  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7282,7 +7282,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Murex </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7308,7 +7308,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Belitsoft </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7317,7 +7317,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/a-poliakov">
 				<img src="https://avatars.githubusercontent.com/u/4224817?s=72&u=fe1888234b5a15bafb22ec9bc5b56c0871a06df9&v=4" width="24" alt="Avatar of a-poliakov"/> a-poliakov
 			</a><br/>
-			Андрей Поляков
+			 
 		</td>
 		<td>@unlimint </td>
 		<td>No Twitter Username</td>
@@ -7330,7 +7330,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Briankurtish">
 				<img src="https://avatars.githubusercontent.com/u/67450280?s=72&v=4" width="24" alt="Avatar of Briankurtish"/> Briankurtish
 			</a><br/>
-			Annon_101
+			Annon101
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7347,7 +7347,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Megastack </td>
 		<td><a href="https://twitter.com/Larrykoya_">Larrykoya_</a></td>
-		<td>Türkiye-Cyprus</td>
+		<td>TrkiyeCyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7360,7 +7360,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/joegkaram">joegkaram</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7399,7 +7399,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Levant Company </td>
 		<td><a href="https://twitter.com/sommio_lepir">sommio_lepir</a></td>
-		<td>Varosha, Famagusta, Cyprus, Archipelago, Ottoman Empire</td>
+		<td>Varosha Famagusta Cyprus Archipelago Ottoman Empire</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7425,7 +7425,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@indrive </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7451,7 +7451,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Mayflower </td>
 		<td><a href="https://twitter.com/yoskutik">yoskutik</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7477,7 +7477,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/theleokul">theleokul</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7503,7 +7503,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Paycom </td>
 		<td><a href="https://twitter.com/TroynovYury">TroynovYury</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7529,7 +7529,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>P2porg </td>
 		<td><a href="https://twitter.com/btolfa">btolfa</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7607,7 +7607,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@semrush </td>
 		<td><a href="https://twitter.com/Indomian">Indomian</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7646,7 +7646,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7694,7 +7694,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/klukonin">
 				<img src="https://avatars.githubusercontent.com/u/6944552?s=72&u=58c3a64728e6016e3453e55db22fdb0f69f2acc8&v=4" width="24" alt="Avatar of klukonin"/> klukonin
 			</a><br/>
-			Kirill Lukonin (EvilWirelessMan)
+			Kirill Lukonin EvilWirelessMan
 		</td>
 		<td>Evil Wireless </td>
 		<td>No Twitter Username</td>
@@ -7711,7 +7711,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7724,7 +7724,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Realytics Corp Limited </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7789,7 +7789,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7841,7 +7841,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Appquantum </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7854,7 +7854,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Exness </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7867,7 +7867,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Findhosseincom </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7880,7 +7880,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Podilates </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7893,7 +7893,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>European University Of Cyprus<br/></td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, CY</td>
+		<td>Nicosia CY</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7945,7 +7945,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Exness </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7958,7 +7958,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@traceair  </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus/Moscow, Russia</td>
+		<td>Larnaca CyprusMoscow Russia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7967,11 +7967,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/sukruonbas">
 				<img src="https://avatars.githubusercontent.com/u/48892643?s=72&u=6a128792f273ab080b72fbe9d0ae0a4d39007fed&v=4" width="24" alt="Avatar of sukruonbas"/> sukruonbas
 			</a><br/>
-			Şükrü Önbaş
+			kr nba
 		</td>
 		<td>Ai Web Solutions </td>
 		<td><a href="https://twitter.com/sukruonbas">sukruonbas</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8023,7 +8023,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Opslayer </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8062,7 +8062,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8110,11 +8110,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/evey201">
 				<img src="https://avatars.githubusercontent.com/u/38035361?s=72&u=35698baa129ca826f648c81761311c4ae6ac82a5&v=4" width="24" alt="Avatar of evey201"/> evey201
 			</a><br/>
-			Eveshonyanime Ocheche-Alabi
+			Eveshonyanime OchecheAlabi
 		</td>
 		<td>@tropixel </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8127,7 +8127,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Famagusta, Northern Cyprus</td>
+		<td>Famagusta Northern Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8205,7 +8205,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kazakhstan/Cyprus</td>
+		<td>KazakhstanCyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8257,7 +8257,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains  </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8270,7 +8270,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8296,7 +8296,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Netu Consultants Ltd <br/></td>
 		<td>No Twitter Username</td>
-		<td>Nicosia,Cyprus</td>
+		<td>NicosiaCyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8335,7 +8335,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8361,7 +8361,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Nekki </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Larnaca</td>
+		<td>Cyprus Larnaca</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8374,7 +8374,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Marfatech </td>
 		<td><a href="https://twitter.com/revil_on">revil_on</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8400,7 +8400,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8435,11 +8435,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/takis79">
 				<img src="https://avatars.githubusercontent.com/u/10500639?s=72&u=9f8ee6e95e10c6068c1bbdfee40de437933918a3&v=4" width="24" alt="Avatar of takis79"/> takis79
 			</a><br/>
-			Christos A. Nicolaides
+			Christos A Nicolaides
 		</td>
 		<td>Shadorn Technologies </td>
 		<td><a href="https://twitter.com/drakius">drakius</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8465,11 +8465,24 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Pafos</td>
+		<td>Cyprus Pafos</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>644</td>
+		<td>
+			<a href="https://github.com/OzkanInonlu">
+				<img src="https://avatars.githubusercontent.com/u/79935049?s=72&u=ddc2c1ac7a34063d41e25d6d6cbe7c0bb87d64cf&v=4" width="24" alt="Avatar of OzkanInonlu"/> OzkanInonlu
+			</a><br/>
+			zkan nnl
+		</td>
+		<td>Eastern Mediterranean University </td>
+		<td><a href="https://twitter.com/d4ch3f">d4ch3f</a></td>
+		<td>Cyprus Nicosia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/kolobok-kelbek">
 				<img src="https://avatars.githubusercontent.com/u/18598553?s=72&u=5c0630d636cff589641a2236838564721f5ae35e&v=4" width="24" alt="Avatar of kolobok-kelbek"/> kolobok-kelbek
@@ -8478,11 +8491,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/NPaspallis">
 				<img src="https://avatars.githubusercontent.com/u/11538011?s=72&u=d6b105dcd163e5d7adcf3f63fdd8938cf6136178&v=4" width="24" alt="Avatar of NPaspallis"/> NPaspallis
@@ -8495,7 +8508,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/romanen003">
 				<img src="https://avatars.githubusercontent.com/u/36954518?s=72&v=4" width="24" alt="Avatar of romanen003"/> romanen003
@@ -8504,11 +8517,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wisebits </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/Jackagency">
 				<img src="https://avatars.githubusercontent.com/u/56089621?s=72&u=e0822baa8e7dbb9b810467bf607e654bc6b9be22&v=4" width="24" alt="Avatar of Jackagency"/> Jackagency
@@ -8517,11 +8530,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Spotware </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/evgenabramov">
 				<img src="https://avatars.githubusercontent.com/u/43136719?s=72&u=d1d28a9dd3714313ea02284d26a92fc788da2d3e&v=4" width="24" alt="Avatar of evgenabramov"/> evgenabramov
@@ -8530,11 +8543,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/OwariDa">
 				<img src="https://avatars.githubusercontent.com/u/937840?s=72&v=4" width="24" alt="Avatar of OwariDa"/> OwariDa
@@ -8543,11 +8556,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Clevcode Ltd </td>
 		<td><a href="https://twitter.com/OwariDa">OwariDa</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/rda-dev">
 				<img src="https://avatars.githubusercontent.com/u/1040910?s=72&u=b89702afe879c756ed2005d3a79ee33f96167566&v=4" width="24" alt="Avatar of rda-dev"/> rda-dev
@@ -8556,11 +8569,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/gstr169">
 				<img src="https://avatars.githubusercontent.com/u/7230984?s=72&u=9effdf1b6e601b2d5abef6899b61d17e772cbeab&v=4" width="24" alt="Avatar of gstr169"/> gstr169
@@ -8569,11 +8582,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus </td>
+		<td>Limassol Cyprus </td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/kosnet2">
 				<img src="https://avatars.githubusercontent.com/u/20568574?s=72&u=ef793562f1b10035e45016f804c04ff6b1c4095b&v=4" width="24" alt="Avatar of kosnet2"/> kosnet2
@@ -8586,7 +8599,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/0xAtrotos">
 				<img src="https://avatars.githubusercontent.com/u/233955?s=72&u=5b8b151666d30c712064553bba4f9b53f61e69f3&v=4" width="24" alt="Avatar of 0xAtrotos"/> 0xAtrotos
@@ -8599,7 +8612,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/ayranamo">
 				<img src="https://avatars.githubusercontent.com/u/18281221?s=72&u=c41f4eec8535fd91d78528ac196b64fc52304b5a&v=4" width="24" alt="Avatar of ayranamo"/> ayranamo
@@ -8612,7 +8625,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/LorienMan">
 				<img src="https://avatars.githubusercontent.com/u/1560211?s=72&v=4" width="24" alt="Avatar of LorienMan"/> LorienMan
@@ -8625,7 +8638,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/rulk">
 				<img src="https://avatars.githubusercontent.com/u/792964?s=72&u=c7957eab4a4b26077b7ec3fd2b9627da2e141605&v=4" width="24" alt="Avatar of rulk"/> rulk
@@ -8638,7 +8651,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/cyberflow">
 				<img src="https://avatars.githubusercontent.com/u/1011668?s=72&v=4" width="24" alt="Avatar of cyberflow"/> cyberflow
@@ -8647,11 +8660,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Serverscom </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/unitedworx">
 				<img src="https://avatars.githubusercontent.com/u/756848?s=72&u=fe95d801baa5327d7a1c9f92da2fa1c415009a71&v=4" width="24" alt="Avatar of unitedworx"/> unitedworx
@@ -8664,7 +8677,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/usovand">
 				<img src="https://avatars.githubusercontent.com/u/8720877?s=72&u=b228f0afa362e87cb704a124dab10dafbf3e4044&v=4" width="24" alt="Avatar of usovand"/> usovand
@@ -8677,7 +8690,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/MaksimOrekhov">
 				<img src="https://avatars.githubusercontent.com/u/29957660?s=72&u=7d404b24f0f8087b7155d5658a41e97379c366fa&v=4" width="24" alt="Avatar of MaksimOrekhov"/> MaksimOrekhov
@@ -8686,11 +8699,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/gatitskiy">
 				<img src="https://avatars.githubusercontent.com/u/1006763?s=72&u=3dd7636105333ad5886cf296b7aa5e32b1d3b507&v=4" width="24" alt="Avatar of gatitskiy"/> gatitskiy
@@ -8699,11 +8712,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Criteo </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/TriAnMan">
 				<img src="https://avatars.githubusercontent.com/u/2266882?s=72&v=4" width="24" alt="Avatar of TriAnMan"/> TriAnMan
@@ -8716,7 +8729,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/Goananda">
 				<img src="https://avatars.githubusercontent.com/u/63379138?s=72&u=7a96e05f73f042f00c591ca444a33169ec9001a4&v=4" width="24" alt="Avatar of Goananda"/> Goananda
@@ -8725,11 +8738,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Space307 </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/binaryzebra">
 				<img src="https://avatars.githubusercontent.com/u/882216?s=72&v=4" width="24" alt="Avatar of binaryzebra"/> binaryzebra
@@ -8742,7 +8755,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/jean-1314">
 				<img src="https://avatars.githubusercontent.com/u/24607096?s=72&v=4" width="24" alt="Avatar of jean-1314"/> jean-1314
@@ -8755,7 +8768,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/meediewow">
 				<img src="https://avatars.githubusercontent.com/u/48750314?s=72&u=11bd99de5c50d9ac17fa85728ae5b16c487681fd&v=4" width="24" alt="Avatar of meediewow"/> meediewow
@@ -8764,11 +8777,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Nda </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/bakl">
 				<img src="https://avatars.githubusercontent.com/u/10196392?s=72&u=2da7b238fef9deb962f1d0328d74d3c9ca890eef&v=4" width="24" alt="Avatar of bakl"/> bakl
@@ -8777,11 +8790,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Propeller Ads </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/stavros2">
 				<img src="https://avatars.githubusercontent.com/u/45168559?s=72&u=280235524e2542a64d92ba7fa20efe8d2494cf6a&v=4" width="24" alt="Avatar of stavros2"/> stavros2
@@ -8790,11 +8803,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Tsys </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/DangerOotaku1999">
 				<img src="https://avatars.githubusercontent.com/u/58048242?s=72&u=4e64bb95a55bbab0e00ff0bf41b928fc0e444e11&v=4" width="24" alt="Avatar of DangerOotaku1999"/> DangerOotaku1999
@@ -8807,7 +8820,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/venix">
 				<img src="https://avatars.githubusercontent.com/u/428944?s=72&v=4" width="24" alt="Avatar of venix"/> venix
@@ -8820,7 +8833,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/serebryakov7">
 				<img src="https://avatars.githubusercontent.com/u/22691820?s=72&v=4" width="24" alt="Avatar of serebryakov7"/> serebryakov7
@@ -8833,7 +8846,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/tsviryakina">
 				<img src="https://avatars.githubusercontent.com/u/8806844?s=72&u=b7e6c6f80b81065d7273312dda696c5027726a78&v=4" width="24" alt="Avatar of tsviryakina"/> tsviryakina
@@ -8842,11 +8855,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@evilmartians  </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/Nazarov7mu">
 				<img src="https://avatars.githubusercontent.com/u/18037133?s=72&u=2fd3dfbf80ab09c51544e4c7bf6c150abdb44f55&v=4" width="24" alt="Avatar of Nazarov7mu"/> Nazarov7mu
@@ -8859,7 +8872,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/TheRatG">
 				<img src="https://avatars.githubusercontent.com/u/1580318?s=72&v=4" width="24" alt="Avatar of TheRatG"/> TheRatG
@@ -8872,12 +8885,12 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/harald-UNic">
 				<img src="https://avatars.githubusercontent.com/u/60772043?s=72&u=14b6ad9db3ff66095a03ad1e4d00714f6beb28f1&v=4" width="24" alt="Avatar of harald-UNic"/> harald-UNic
 			</a><br/>
-			Harald Gjermundrød
+			Harald Gjermundrd
 		</td>
 		<td>University Of Nicosia </td>
 		<td>No Twitter Username</td>
@@ -8885,7 +8898,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/kostasxyz">
 				<img src="https://avatars.githubusercontent.com/u/1220837?s=72&u=f24dbbddbb05800ded288412cf2cdb11b80fa172&v=4" width="24" alt="Avatar of kostasxyz"/> kostasxyz
@@ -8894,11 +8907,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Novel Digital Agency Ltd<br/></td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/phalouvas">
 				<img src="https://avatars.githubusercontent.com/u/5654203?s=72&u=f969227a5e388d1a63f97c7fa41207439ed3e87a&v=4" width="24" alt="Avatar of phalouvas"/> phalouvas
@@ -8911,7 +8924,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/astamataris">
 				<img src="https://avatars.githubusercontent.com/u/9121276?s=72&u=7569ba849734508ba0cf0c638c440aa288b3ded8&v=4" width="24" alt="Avatar of astamataris"/> astamataris
@@ -8924,20 +8937,20 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/megasteve19">
 				<img src="https://avatars.githubusercontent.com/u/32229751?s=72&u=62d6445ca20852f8fc43eb3da4e9c402fc536b0e&v=4" width="24" alt="Avatar of megasteve19"/> megasteve19
 			</a><br/>
-			Abdulkadir Cemiloğlu
+			Abdulkadir Cemilolu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/silentz">
 				<img src="https://avatars.githubusercontent.com/u/25668745?s=72&u=1825e004d65c96665f20deb524384840b2cf4a0d&v=4" width="24" alt="Avatar of silentz"/> silentz
@@ -8946,11 +8959,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/WinaZar">
 				<img src="https://avatars.githubusercontent.com/u/2156116?s=72&u=7ca0f042faf59772927326d4380bada2a565ae23&v=4" width="24" alt="Avatar of WinaZar"/> WinaZar
@@ -8963,7 +8976,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/dzen-it">
 				<img src="https://avatars.githubusercontent.com/u/9261927?s=72&u=814ad631887e63f7a9eb16258dd5904b745efb16&v=4" width="24" alt="Avatar of dzen-it"/> dzen-it
@@ -8976,7 +8989,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/dipiash">
 				<img src="https://avatars.githubusercontent.com/u/14073668?s=72&u=b34fbe0ad2c9f492f59221a5a795f5862c4e0035&v=4" width="24" alt="Avatar of dipiash"/> dipiash
@@ -8989,7 +9002,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/antoniskalou">
 				<img src="https://avatars.githubusercontent.com/u/51527605?s=72&u=22b98de24ca50ed9212bf6244f6465aba88252f0&v=4" width="24" alt="Avatar of antoniskalou"/> antoniskalou
@@ -9002,7 +9015,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/josephuche1">
 				<img src="https://avatars.githubusercontent.com/u/82161676?s=72&u=34d2a2a46cbddf6b81498d078c24eb56f6fabbfe&v=4" width="24" alt="Avatar of josephuche1"/> josephuche1
@@ -9011,16 +9024,16 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>University Of Nicosia </td>
 		<td><a href="https://twitter.com/joseph_uch82861">joseph_uch82861</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/daniel-teddy">
 				<img src="https://avatars.githubusercontent.com/u/89258830?s=72&u=f09d02d8b3d589f997b9a9852ef1f1bdbfd7a812&v=4" width="24" alt="Avatar of daniel-teddy"/> daniel-teddy
 			</a><br/>
-			where.is.one
+			whereisone
 		</td>
 		<td>Cypruscodes </td>
 		<td>No Twitter Username</td>
@@ -9028,7 +9041,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/Klaster1">
 				<img src="https://avatars.githubusercontent.com/u/2667662?s=72&u=6f07015afa37f68e18e2ebf35fd89361aaeb9e18&v=4" width="24" alt="Avatar of Klaster1"/> Klaster1
@@ -9037,11 +9050,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@gridgain  </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/kzagoris">
 				<img src="https://avatars.githubusercontent.com/u/2039303?s=72&v=4" width="24" alt="Avatar of kzagoris"/> kzagoris
@@ -9054,7 +9067,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/lefkiospaikousis">
 				<img src="https://avatars.githubusercontent.com/u/13045798?s=72&u=8d6ddf67dcf7330bc635cfd7d4ed0a5900b04c9b&v=4" width="24" alt="Avatar of lefkiospaikousis"/> lefkiospaikousis
@@ -9067,7 +9080,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/AndreyBubnov">
 				<img src="https://avatars.githubusercontent.com/u/24320435?s=72&u=55e65517219e04e086a93590e8905800112eb12b&v=4" width="24" alt="Avatar of AndreyBubnov"/> AndreyBubnov
@@ -9076,11 +9089,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/dlascelles">
 				<img src="https://avatars.githubusercontent.com/u/52032313?s=72&u=c316d010df8c1213587870c40e66ecf2b2f22572&v=4" width="24" alt="Avatar of dlascelles"/> dlascelles
@@ -9093,7 +9106,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/pessom">
 				<img src="https://avatars.githubusercontent.com/u/4654636?s=72&u=27566c83566ef9a502b2fc13d332721a552074c7&v=4" width="24" alt="Avatar of pessom"/> pessom
@@ -9106,20 +9119,20 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/hosamalhamwi">
 				<img src="https://avatars.githubusercontent.com/u/92847997?s=72&u=1c217c93953a7902b678f88b418c4868ab33bc17&v=4" width="24" alt="Avatar of hosamalhamwi"/> hosamalhamwi
 			</a><br/>
-			HOSAM AL-HAMWI
+			HOSAM ALHAMWI
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus/Iskele</td>
+		<td>CyprusIskele</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/MaxAstin">
 				<img src="https://avatars.githubusercontent.com/u/36783631?s=72&u=b01e35b24e4f46edbb1c908da2330a5725384097&v=4" width="24" alt="Avatar of MaxAstin"/> MaxAstin
@@ -9128,11 +9141,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Fxpro </td>
 		<td>No Twitter Username</td>
-		<td>Limassol / Cyprus </td>
+		<td>Limassol  Cyprus </td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/mr-exception">
 				<img src="https://avatars.githubusercontent.com/u/17408108?s=72&u=1359d8488b7db8d66656185c03cf20d28364ed40&v=4" width="24" alt="Avatar of mr-exception"/> mr-exception
@@ -9145,7 +9158,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/1984Zenith">
 				<img src="https://avatars.githubusercontent.com/u/90709483?s=72&u=9d1a5c090a128936c10fc9b1ebfe70cfbff6986e&v=4" width="24" alt="Avatar of 1984Zenith"/> 1984Zenith
@@ -9154,11 +9167,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Desire  Fantasy </td>
 		<td><a href="https://twitter.com/TechWave1984">TechWave1984</a></td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/dmitrii92">
 				<img src="https://avatars.githubusercontent.com/u/17344213?s=72&v=4" width="24" alt="Avatar of dmitrii92"/> dmitrii92
@@ -9167,11 +9180,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/kelevra-pro">
 				<img src="https://avatars.githubusercontent.com/u/56725080?s=72&u=3d767fa443bd5aeecf8ef5a1111db2300c2c770a&v=4" width="24" alt="Avatar of kelevra-pro"/> kelevra-pro
@@ -9180,11 +9193,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@spotware </td>
 		<td><a href="https://twitter.com/kelevra_pro">kelevra_pro</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/ivxnv">
 				<img src="https://avatars.githubusercontent.com/u/63825780?s=72&u=4a3c08d90f7421ff9bcca84b526b6501ee68d946&v=4" width="24" alt="Avatar of ivxnv"/> ivxnv
@@ -9193,24 +9206,24 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Diconium Gmbh </td>
 		<td><a href="https://twitter.com/ivxnvv">ivxnvv</a></td>
-		<td>Kyrenia, Cyprus</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>700</td>
-		<td>
-			<a href="https://github.com/sxnxl">
-				<img src="https://avatars.githubusercontent.com/u/3392581?s=72&v=4" width="24" alt="Avatar of sxnxl"/> sxnxl
-			</a><br/>
-			Şenol Korkmaz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Kyrenia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>701</td>
+		<td>
+			<a href="https://github.com/sxnxl">
+				<img src="https://avatars.githubusercontent.com/u/3392581?s=72&v=4" width="24" alt="Avatar of sxnxl"/> sxnxl
+			</a><br/>
+			enol Korkmaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nicosia Cyprus</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/Jawabreh0">
 				<img src="https://avatars.githubusercontent.com/u/98946028?s=72&u=30891d7ac200cf2bd1240c88f0a905dc40efa089&v=4" width="24" alt="Avatar of Jawabreh0"/> Jawabreh0
@@ -9219,11 +9232,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cyprus International University </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/fostroll">
 				<img src="https://avatars.githubusercontent.com/u/40763674?s=72&u=f980328ee17f037ab7f018e97a2541347e3940f2&v=4" width="24" alt="Avatar of fostroll"/> fostroll
@@ -9232,11 +9245,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/marios2019">
 				<img src="https://avatars.githubusercontent.com/u/17276744?s=72&v=4" width="24" alt="Avatar of marios2019"/> marios2019
@@ -9245,11 +9258,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/wdmegrv">
 				<img src="https://avatars.githubusercontent.com/u/27425112?s=72&v=4" width="24" alt="Avatar of wdmegrv"/> wdmegrv
@@ -9262,7 +9275,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/chocolacula">
 				<img src="https://avatars.githubusercontent.com/u/22878004?s=72&u=2d5d9d7dcb871ae10dfc0d4a859f09c97e3122ae&v=4" width="24" alt="Avatar of chocolacula"/> chocolacula
@@ -9275,7 +9288,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/kerguler">
 				<img src="https://avatars.githubusercontent.com/u/14839751?s=72&u=9c5940bb6c9198f1636ae2fdf74ebcf1295a24a6&v=4" width="24" alt="Avatar of kerguler"/> kerguler
@@ -9288,7 +9301,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/Nehorowo">
 				<img src="https://avatars.githubusercontent.com/u/29424413?s=72&u=1f35ee4436919390f4f65b1c0703286bcb7a1b8f&v=4" width="24" alt="Avatar of Nehorowo"/> Nehorowo
@@ -9297,11 +9310,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/dikaiakos">
 				<img src="https://avatars.githubusercontent.com/u/6593196?s=72&u=64cb641d33d6321a115c101c5b56ea81aac3cf57&v=4" width="24" alt="Avatar of dikaiakos"/> dikaiakos
@@ -9314,7 +9327,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/SpireX64">
 				<img src="https://avatars.githubusercontent.com/u/34627858?s=72&u=e8f61fb1fd2ffcb95b9d32df8415ff382f40f5a4&v=4" width="24" alt="Avatar of SpireX64"/> SpireX64
@@ -9323,11 +9336,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Muse Group </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/SalahiErensel">
 				<img src="https://avatars.githubusercontent.com/u/100222193?s=72&u=d1d018c820f8f0fb9019431e9b33cf87ec48e2a4&v=4" width="24" alt="Avatar of SalahiErensel"/> SalahiErensel
@@ -9340,7 +9353,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/dzeckelev">
 				<img src="https://avatars.githubusercontent.com/u/26454087?s=72&v=4" width="24" alt="Avatar of dzeckelev"/> dzeckelev
@@ -9349,16 +9362,16 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/LTSana">
 				<img src="https://avatars.githubusercontent.com/u/34522558?s=72&u=4a120d2f3c4e2cf776ca63e5a3c72d4e88aea192&v=4" width="24" alt="Avatar of LTSana"/> LTSana
 			</a><br/>
-			LT. Sana
+			LT Sana
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LT_Sana">LT_Sana</a></td>
@@ -9366,7 +9379,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/mohammadhosseini3">
 				<img src="https://avatars.githubusercontent.com/u/104784668?s=72&u=76e34b8c0ccba89baca320d93fdbddbd6b970c44&v=4" width="24" alt="Avatar of mohammadhosseini3"/> mohammadhosseini3
@@ -9379,7 +9392,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/remorhaz">
 				<img src="https://avatars.githubusercontent.com/u/13167914?s=72&u=4766c398208f152c3ec575cd62bcbf28c55e17b3&v=4" width="24" alt="Avatar of remorhaz"/> remorhaz
@@ -9392,7 +9405,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/AlexSonar">
 				<img src="https://avatars.githubusercontent.com/u/39096971?s=72&u=2ce2ada8e207168ba20c18a5abd13a714923b96f&v=4" width="24" alt="Avatar of AlexSonar"/> AlexSonar
@@ -9405,7 +9418,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/wwoytenko">
 				<img src="https://avatars.githubusercontent.com/u/74241416?s=72&u=94af69b78f2205292a220e3f728d7eda1b7f3246&v=4" width="24" alt="Avatar of wwoytenko"/> wwoytenko
@@ -9418,7 +9431,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/FriOne">
 				<img src="https://avatars.githubusercontent.com/u/5888410?s=72&u=738f8c723765029bb33d48ef1dedd4b4f3cdd54d&v=4" width="24" alt="Avatar of FriOne"/> FriOne
@@ -9427,11 +9440,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/imprevo">
 				<img src="https://avatars.githubusercontent.com/u/16841577?s=72&u=3c558e1d2bc9cbf349856d5b5a9edf150050db56&v=4" width="24" alt="Avatar of imprevo"/> imprevo
@@ -9440,11 +9453,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Conzylum </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/iltan987">
 				<img src="https://avatars.githubusercontent.com/u/89255395?s=72&u=063e3cf11436c530af6d72b428443d4a8c9e0cd2&v=4" width="24" alt="Avatar of iltan987"/> iltan987
@@ -9453,11 +9466,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/rbakulin">
 				<img src="https://avatars.githubusercontent.com/u/11297871?s=72&u=7cfdf499e81df7507bf97ca37d720531a7b10749&v=4" width="24" alt="Avatar of rbakulin"/> rbakulin
@@ -9466,11 +9479,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@semrush </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/theodoros1234">
 				<img src="https://avatars.githubusercontent.com/u/13623256?s=72&u=86f9747c240d31893d4f5c89a7d8faf211847a23&v=4" width="24" alt="Avatar of theodoros1234"/> theodoros1234
@@ -9483,7 +9496,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/IlyaZadyabin">
 				<img src="https://avatars.githubusercontent.com/u/46046910?s=72&u=d840a66fdb78d05884f2c004149bda84667659d8&v=4" width="24" alt="Avatar of IlyaZadyabin"/> IlyaZadyabin
@@ -9496,7 +9509,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/mumukiller">
 				<img src="https://avatars.githubusercontent.com/u/7724711?s=72&u=d2e8bfca7e454fb2cfdb9bfa43dc9a6ab78ba5f0&v=4" width="24" alt="Avatar of mumukiller"/> mumukiller
@@ -9509,7 +9522,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/ef1rspb">
 				<img src="https://avatars.githubusercontent.com/u/17689921?s=72&u=da0c173cb011d40be61a3ceb75055da5e1060c7d&v=4" width="24" alt="Avatar of ef1rspb"/> ef1rspb
@@ -9518,16 +9531,16 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@tangome </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/emre79mcyp">
 				<img src="https://avatars.githubusercontent.com/u/45490222?s=72&u=5cbf36aa8bc420d4a6e7ec4bbfbd5b9a42c1e6fc&v=4" width="24" alt="Avatar of emre79mcyp"/> emre79mcyp
 			</a><br/>
-			Emre Özgen
+			Emre zgen
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9535,7 +9548,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/rigidsh">
 				<img src="https://avatars.githubusercontent.com/u/4436140?s=72&v=4" width="24" alt="Avatar of rigidsh"/> rigidsh
@@ -9544,11 +9557,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/Index24">
 				<img src="https://avatars.githubusercontent.com/u/50617263?s=72&u=ff91e73f9cf062237bfe9b783cb9c55d3c7f82d5&v=4" width="24" alt="Avatar of Index24"/> Index24
@@ -9557,11 +9570,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BalaevArif">BalaevArif</a></td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/synchris">
 				<img src="https://avatars.githubusercontent.com/u/59018?s=72&v=4" width="24" alt="Avatar of synchris"/> synchris
@@ -9574,7 +9587,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/LunakisDev">
 				<img src="https://avatars.githubusercontent.com/u/71980142?s=72&u=57d4831204c56ecf692f2a09bce01b671ecb0f4f&v=4" width="24" alt="Avatar of LunakisDev"/> LunakisDev
@@ -9587,25 +9600,12 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>730</td>
-		<td>
-			<a href="https://github.com/OzkanInonlu">
-				<img src="https://avatars.githubusercontent.com/u/79935049?s=72&u=ddc2c1ac7a34063d41e25d6d6cbe7c0bb87d64cf&v=4" width="24" alt="Avatar of OzkanInonlu"/> OzkanInonlu
-			</a><br/>
-			Özkan İnönlü
-		</td>
-		<td>Eastern Mediterranean University </td>
-		<td><a href="https://twitter.com/d4ch3f">d4ch3f</a></td>
-		<td>Cyprus, Nicosia</td>
-		<td>7</td>
-	</tr>
-	<tr>
 		<td>731</td>
 		<td>
 			<a href="https://github.com/Garik-">
 				<img src="https://avatars.githubusercontent.com/u/3644925?s=72&u=99b33ba1aa696821003824c3e9d21058fe76d5aa&v=4" width="24" alt="Avatar of Garik-"/> Garik-
 			</a><br/>
-			Gar|k
+			Gark
 		</td>
 		<td>@daocasino </td>
 		<td>No Twitter Username</td>
@@ -9622,7 +9622,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9635,7 +9635,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Kamaz Digital </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9648,7 +9648,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lemesos, Cyprus</td>
+		<td>Lemesos Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9657,7 +9657,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/emuSoftAI">
 				<img src="https://avatars.githubusercontent.com/u/152265647?s=72&u=00d3b5f8d9417b28a54148a1ea9a9ff181cc2964&v=4" width="24" alt="Avatar of emuSoftAI"/> emuSoftAI
 			</a><br/>
-			EMU Software&AI Development Club
+			EMU SoftwareAI Development Club
 		</td>
 		<td>Eastern Mediterranean University </td>
 		<td><a href="https://twitter.com/emusoftai">emusoftai</a></td>
@@ -9674,7 +9674,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Remotely </td>
 		<td><a href="https://twitter.com/ademsencer">ademsencer</a></td>
-		<td>Nicosia, Northern Cyprus</td>
+		<td>Nicosia Northern Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9713,7 +9713,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Almus </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9726,7 +9726,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9739,7 +9739,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Serverscom </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9765,7 +9765,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Wrike </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9800,11 +9800,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/SametKzgn">
 				<img src="https://avatars.githubusercontent.com/u/92011854?s=72&u=4c3c8bd1240734ef414b9a6e434c6a04cc949ddc&v=4" width="24" alt="Avatar of SametKzgn"/> SametKzgn
 			</a><br/>
-			Samet Kızgın
+			Samet Kzgn
 		</td>
 		<td>Gnsel </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus/Kyrenia</td>
+		<td>CyprusKyrenia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9856,7 +9856,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9869,7 +9869,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9882,7 +9882,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9934,7 +9934,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9947,7 +9947,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9960,7 +9960,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/loulloudes">loulloudes</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9986,7 +9986,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -9999,7 +9999,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Nitroweb Development </td>
 		<td>No Twitter Username</td>
-		<td>Thessaloniki, Greece / Nicosia, Cyprus</td>
+		<td>Thessaloniki Greece  Nicosia Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -10051,7 +10051,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -10077,7 +10077,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@space307  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -10142,7 +10142,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10161,19 +10161,6 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 	<tr>
 		<td>774</td>
 		<td>
-			<a href="https://github.com/EvgeniyIvanchikov">
-				<img src="https://avatars.githubusercontent.com/u/78445642?s=72&u=5f8a56af4fc89ec5d5b34de72081e8d02028dc32&v=4" width="24" alt="Avatar of EvgeniyIvanchikov"/> EvgeniyIvanchikov
-			</a><br/>
-			Evgeniy Ivanchikov
-		</td>
-		<td>@digitalbutlersorgan </td>
-		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>775</td>
-		<td>
 			<a href="https://github.com/cmario92">
 				<img src="https://avatars.githubusercontent.com/u/5765285?s=72&u=939581dc5563c2d41a7d20439f06a18807860715&v=4" width="24" alt="Avatar of cmario92"/> cmario92
 			</a><br/>
@@ -10182,6 +10169,19 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cyprus</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>775</td>
+		<td>
+			<a href="https://github.com/EvgeniyIvanchikov">
+				<img src="https://avatars.githubusercontent.com/u/78445642?s=72&u=5f8a56af4fc89ec5d5b34de72081e8d02028dc32&v=4" width="24" alt="Avatar of EvgeniyIvanchikov"/> EvgeniyIvanchikov
+			</a><br/>
+			Evgeniy Ivanchikov
+		</td>
+		<td>@digitalbutlersorgan </td>
+		<td>No Twitter Username</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10233,7 +10233,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Fmgames </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, CY</td>
+		<td>Limassol CY</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10242,11 +10242,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/npateras">
 				<img src="https://avatars.githubusercontent.com/u/5959474?s=72&v=4" width="24" alt="Avatar of npateras"/> npateras
 			</a><br/>
-			Νικόλας Πατέρας
+			 
 		</td>
 		<td>Bytegap Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10255,7 +10255,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/AzmanMerto">
 				<img src="https://avatars.githubusercontent.com/u/62012483?s=72&u=eb1441ca35925d14a0fea42963c0a632e7487f25&v=4" width="24" alt="Avatar of AzmanMerto"/> AzmanMerto
 			</a><br/>
-			Mert Türedü
+			Mert Tred
 		</td>
 		<td>@aiachy </td>
 		<td><a href="https://twitter.com/NomoteteSS">NomoteteSS</a></td>
@@ -10311,7 +10311,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, CY</td>
+		<td>Nicosia CY</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10346,11 +10346,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/gknbrdl">
 				<img src="https://avatars.githubusercontent.com/u/5670040?s=72&u=dda03b67963f9af28bc9809477c7d100d6e39679&v=4" width="24" alt="Avatar of gknbrdl"/> gknbrdl
 			</a><br/>
-			Salih Gökan Birdal
+			Salih Gkan Birdal
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kyrenia / North Cyprus</td>
+		<td>Kyrenia  North Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10363,7 +10363,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10376,7 +10376,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/razackoff">razackoff</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10389,7 +10389,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Richads </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10411,7 +10411,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/PPP0E">
 				<img src="https://avatars.githubusercontent.com/u/90158764?s=72&u=e600346552cbc1dd528626530cfa1d2f81533674&v=4" width="24" alt="Avatar of PPP0E"/> PPP0E
 			</a><br/>
-			Berzan Özejder
+			Berzan zejder
 		</td>
 		<td>Medimun </td>
 		<td>No Twitter Username</td>
@@ -10437,7 +10437,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/stop-cran">
 				<img src="https://avatars.githubusercontent.com/u/19759705?s=72&u=31a9e8d1daf3d327b313806af295e5088cc4afff&v=4" width="24" alt="Avatar of stop-cran"/> stop-cran
 			</a><br/>
-			stop-cran
+			stopcran
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10454,7 +10454,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Ducibus Ltd </td>
 		<td><a href="https://twitter.com/WirthAware">WirthAware</a></td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10467,7 +10467,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BehnamHddn">BehnamHddn</a></td>
-		<td>Famagusta, Cyprus</td>
+		<td>Famagusta Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10476,11 +10476,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Format-X22">
 				<img src="https://avatars.githubusercontent.com/u/11276553?s=72&u=2ecb1389963849faf4973b642025b56fd8896c57&v=4" width="24" alt="Avatar of Format-X22"/> Format-X22
 			</a><br/>
-			Олег
+			
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10493,7 +10493,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10506,7 +10506,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vg_popoff">vg_popoff</a></td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10519,7 +10519,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Unknown </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10558,7 +10558,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10584,7 +10584,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10597,7 +10597,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Codexgrey">Codexgrey</a></td>
-		<td>Nicosia, Cyprus. </td>
+		<td>Nicosia Cyprus </td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10671,7 +10671,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/OlguD">
 				<img src="https://avatars.githubusercontent.com/u/92662245?s=72&u=67ff36209525d3d3e30f06dd4ac06e9b4ccb3230&v=4" width="24" alt="Avatar of OlguD"/> OlguD
 			</a><br/>
-			Olgu Değirmenci
+			Olgu Deirmenci
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10688,7 +10688,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10701,7 +10701,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10714,7 +10714,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10740,7 +10740,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10766,7 +10766,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@mayflowertech  </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10779,7 +10779,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10788,11 +10788,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/boris-sinyapkin">
 				<img src="https://avatars.githubusercontent.com/u/39591205?s=72&u=c829eb432bb96061f9a0eb3dc228086e6cc13869&v=4" width="24" alt="Avatar of boris-sinyapkin"/> boris-sinyapkin
 			</a><br/>
-			Boris S.
+			Boris S
 		</td>
 		<td>Azul Systems </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10831,7 +10831,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/umar_dembele">umar_dembele</a></td>
-		<td>Turkey(North Cyprus) and Nigeria</td>
+		<td>TurkeyNorth Cyprus and Nigeria</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10844,7 +10844,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Ortnec </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10853,7 +10853,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Gnyblast">
 				<img src="https://avatars.githubusercontent.com/u/28509323?s=72&u=df764e4a2ca47ece7b19b289ab2de0762e08c6bd&v=4" width="24" alt="Avatar of Gnyblast"/> Gnyblast
 			</a><br/>
-			Güney Saramali
+			Gney Saramali
 		</td>
 		<td>Albourne Partners </td>
 		<td>No Twitter Username</td>
@@ -10922,7 +10922,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10961,7 +10961,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Simple </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10987,7 +10987,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@indriver  </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Paphos</td>
+		<td>Cyprus Paphos</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -10996,7 +10996,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/pns2050">
 				<img src="https://avatars.githubusercontent.com/u/6561841?s=72&u=373d58997d95374629d8f0966d044b9cae29de41&v=4" width="24" alt="Avatar of pns2050"/> pns2050
 			</a><br/>
-			Panayiotis G.
+			Panayiotis G
 		</td>
 		<td>Digipro Education Limited </td>
 		<td>No Twitter Username</td>
@@ -11026,7 +11026,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11052,7 +11052,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11065,7 +11065,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@platacard </td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11078,7 +11078,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11091,7 +11091,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11208,7 +11208,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Xm </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11234,7 +11234,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@arghteam </td>
 		<td><a href="https://twitter.com/silenzushka">silenzushka</a></td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11247,7 +11247,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11286,7 +11286,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11299,7 +11299,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11325,7 +11325,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Sepaga Emi </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Nicosia</td>
+		<td>Cyprus Nicosia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11338,7 +11338,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>University Of Cyprus <br/>Computer<br/>Science<br/></td>
 		<td>No Twitter Username</td>
-		<td>Larnaca-Nicosia, Cyprus</td>
+		<td>LarnacaNicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11351,7 +11351,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Cyens Centre Of Excellence<br/></td>
 		<td><a href="https://twitter.com/kyriakosb4a">kyriakosb4a</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11373,11 +11373,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/musdy-guner">
 				<img src="https://avatars.githubusercontent.com/u/94365188?s=72&u=5183142553f7db32e4b289f3d6af44f6f77f72df&v=4" width="24" alt="Avatar of musdy-guner"/> musdy-guner
 			</a><br/>
-			Mustafa Güner
+			Mustafa Gner
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus,Nicosia</td>
+		<td>CyprusNicosia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11390,7 +11390,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>@oxengr </td>
 		<td>No Twitter Username</td>
-		<td>Greece-Cyprus</td>
+		<td>GreeceCyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11442,7 +11442,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SteliosMitas">SteliosMitas</a></td>
-		<td>Nicosia,Cyprus and Nottingham,UK</td>
+		<td>NicosiaCyprus and NottinghamUK</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11468,7 +11468,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Mygames </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11477,7 +11477,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/geonaumov">
 				<img src="https://avatars.githubusercontent.com/u/26381048?s=72&u=7bad0e93a762a8a165f12a3b5749968048db6a26&v=4" width="24" alt="Avatar of geonaumov"/> geonaumov
 			</a><br/>
-			G. Naumov
+			G Naumov
 		</td>
 		<td>Auditprime Ltd </td>
 		<td>No Twitter Username</td>
@@ -11494,7 +11494,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -11624,7 +11624,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Tychetech Ltd  Scientia<br/>Consulting<br/></td>
 		<td><a href="https://twitter.com/ugh82">ugh82</a></td>
-		<td>Nicosia , Cyprus / Athens , Greece</td>
+		<td>Nicosia  Cyprus  Athens  Greece</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11637,7 +11637,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11650,7 +11650,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Nekto_007">Nekto_007</a></td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11676,7 +11676,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Now not in Nicosia, Cyprus</td>
+		<td>Now not in Nicosia Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11685,7 +11685,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/mh3th">
 				<img src="https://avatars.githubusercontent.com/u/13091692?s=72&u=1d599cf1f3736f0a9609926e7b83068ac749518e&v=4" width="24" alt="Avatar of mh3th"/> mh3th
 			</a><br/>
-			mh3th | Misha Kudriashov 
+			mh3th  Misha Kudriashov 
 		</td>
 		<td>Httpsmh3thcom </td>
 		<td><a href="https://twitter.com/mh3th_">mh3th_</a></td>
@@ -11698,7 +11698,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/Salihkaymakamoglu">
 				<img src="https://avatars.githubusercontent.com/u/101871714?s=72&u=9da2e8db6236b1ae1183f898764cdb037267366f&v=4" width="24" alt="Avatar of Salihkaymakamoglu"/> Salihkaymakamoglu
 			</a><br/>
-			Salih Topel Kaymakamoğlu
+			Salih Topel Kaymakamolu
 		</td>
 		<td>Retrocket  </td>
 		<td>No Twitter Username</td>
@@ -11715,7 +11715,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/itszbari">itszbari</a></td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11741,7 +11741,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11767,7 +11767,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Paphos, Cyprus</td>
+		<td>Paphos Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11828,11 +11828,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/AbdullahDalgic">
 				<img src="https://avatars.githubusercontent.com/u/60696152?s=72&u=2488f976f9a9b266ec2a84e82e184c2114f9b0d4&v=4" width="24" alt="Avatar of AbdullahDalgic"/> AbdullahDalgic
 			</a><br/>
-			Abdullah Dalgıç
+			Abdullah Dalg
 		</td>
 		<td>Mbl High Tech </td>
 		<td><a href="https://twitter.com/abdullahdalgic_">abdullahdalgic_</a></td>
-		<td>Kyrenia/Cyprus</td>
+		<td>KyreniaCyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11867,7 +11867,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/nitrochange">
 				<img src="https://avatars.githubusercontent.com/u/44585576?s=72&u=0eaff3c856af40f7b0655a92913091432ac8d15c&v=4" width="24" alt="Avatar of nitrochange"/> nitrochange
 			</a><br/>
-			Александр Романов
+			 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11884,7 +11884,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Codehouse Five </td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11910,7 +11910,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11919,7 +11919,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 			<a href="https://github.com/NETERBIL">
 				<img src="https://avatars.githubusercontent.com/u/77340043?s=72&u=f61a7846987a2b1035d67bb6a2752ecf952656a0&v=4" width="24" alt="Avatar of NETERBIL"/> NETERBIL
 			</a><br/>
-			Ahmed S.Mohammed
+			Ahmed SMohammed
 		</td>
 		<td>Ciu </td>
 		<td>No Twitter Username</td>
@@ -12066,7 +12066,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12079,7 +12079,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12111,6 +12111,19 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 	<tr>
 		<td>924</td>
 		<td>
+			<a href="https://github.com/IgorKhlebunov">
+				<img src="https://avatars.githubusercontent.com/u/6672852?s=72&v=4" width="24" alt="Avatar of IgorKhlebunov"/> IgorKhlebunov
+			</a><br/>
+			Igor
+		</td>
+		<td>Funcorp </td>
+		<td>No Twitter Username</td>
+		<td>Cyprus</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>925</td>
+		<td>
 			<a href="https://github.com/mangafas">
 				<img src="https://avatars.githubusercontent.com/u/16082128?s=72&v=4" width="24" alt="Avatar of mangafas"/> mangafas
 			</a><br/>
@@ -12122,7 +12135,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/xnd-r">
 				<img src="https://avatars.githubusercontent.com/u/21983773?s=72&u=4c7868ee748c49e3370c094ec609dbd9966d8305&v=4" width="24" alt="Avatar of xnd-r"/> xnd-r
@@ -12135,7 +12148,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/alpet83">
 				<img src="https://avatars.githubusercontent.com/u/5441278?s=72&v=4" width="24" alt="Avatar of alpet83"/> alpet83
@@ -12144,11 +12157,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alpet_m">alpet_m</a></td>
-		<td>Cyprus,Parekklisia</td>
+		<td>CyprusParekklisia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/ilyaguy">
 				<img src="https://avatars.githubusercontent.com/u/6704355?s=72&u=1039fc22374b78f9b7aba441321545b01368090f&v=4" width="24" alt="Avatar of ilyaguy"/> ilyaguy
@@ -12157,11 +12170,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/evgentus-cy">
 				<img src="https://avatars.githubusercontent.com/u/1565995?s=72&u=f583857826e799db77e94315c68fd802c0034573&v=4" width="24" alt="Avatar of evgentus-cy"/> evgentus-cy
@@ -12170,11 +12183,11 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Inktech </td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/henryh">
 				<img src="https://avatars.githubusercontent.com/u/19281673?s=72&u=530e88b14a89106b890ae95b148eb0dd5da3cfad&v=4" width="24" alt="Avatar of henryh"/> henryh
@@ -12183,19 +12196,6 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/henryhcoding">henryhcoding</a></td>
-		<td>Cyprus</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>930</td>
-		<td>
-			<a href="https://github.com/IgorKhlebunov">
-				<img src="https://avatars.githubusercontent.com/u/6672852?s=72&v=4" width="24" alt="Avatar of IgorKhlebunov"/> IgorKhlebunov
-			</a><br/>
-			Igor
-		</td>
-		<td>Funcorp </td>
-		<td>No Twitter Username</td>
 		<td>Cyprus</td>
 		<td>5</td>
 	</tr>
@@ -12235,7 +12235,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyprus, Limassol</td>
+		<td>Cyprus Limassol</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12248,7 +12248,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>Polydigitals </td>
 		<td><a href="https://twitter.com/drealoracle">drealoracle</a></td>
-		<td>Lefkosa, North Cyprus</td>
+		<td>Lefkosa North Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12274,7 +12274,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12287,7 +12287,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/demec">demec</a></td>
-		<td>Larnaca, Cyprus</td>
+		<td>Larnaca Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12326,7 +12326,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Limassol, Cyprus</td>
+		<td>Limassol Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12339,7 +12339,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12417,7 +12417,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>University Of Cyprus </td>
 		<td>No Twitter Username</td>
-		<td>Nicosia, Cyprus</td>
+		<td>Nicosia Cyprus</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12456,7 +12456,7 @@ There are `950 users`  in Cyprus. You need at least `5 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Famagusta, Cyprus</td>
+		<td>Famagusta Cyprus</td>
 		<td>5</td>
 	</tr>
 </table>
