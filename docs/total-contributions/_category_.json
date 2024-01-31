@@ -1,0 +1,10 @@
+{
+    "position": 4,
+    "label": "Total Contributions",
+    "collapsible": true,
+    "link": {
+        "type": "generated-index",
+        "description": "Top Users By Total Contributions",
+        "slug": "total-contributions"
+    }
+}

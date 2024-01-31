@@ -1,0 +1,10 @@
+{
+    "position": 2,
+    "label": "Followers",
+    "collapsible": true,
+    "link": {
+        "type": "generated-index",
+        "description": "Top GitHub Users By Followers",
+        "slug": "followers"
+    }
+}

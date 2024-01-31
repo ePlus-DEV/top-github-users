@@ -1,0 +1,10 @@
+{
+    "position": 3,
+    "label": "Public Contributions",
+    "collapsible": true,
+    "link": {
+        "type": "generated-index",
+        "description": "Top Users By Public Contributions",
+        "slug": "public-contributions"
+    }
+}
