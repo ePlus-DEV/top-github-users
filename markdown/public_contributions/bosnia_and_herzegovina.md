@@ -8,7 +8,7 @@ title: Top GitHub Users By Public Contributions in Bosnia And Herzegovina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2024/1/30 8:04 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2024/1/31 1:16 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -149,6 +149,19 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/Nbc66">
+				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
+			</a><br/>
+			Kerim Čamdžić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
+		<td>Sarajevo</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/KerimZuna">
 				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
 			</a><br/>
@@ -158,19 +171,6 @@ There are `31 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Zenica</td>
 		<td>86</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/Nbc66">
-				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
-			</a><br/>
-			Kerim Čamdžić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
-		<td>Sarajevo</td>
-		<td>85</td>
 	</tr>
 	<tr>
 		<td>6</td>
