@@ -1,5 +1,6 @@
 ---
-title: Top GitHub Users By Total Contributions in Bulgaria 
+title: Bulgaria 
+description: Top GitHub Users By Total Contributions in Bulgaria 
 ---
 
 # Top GitHub Users By Total Contributions in Bulgaria [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
@@ -9,7 +10,7 @@ title: Top GitHub Users By Total Contributions in Bulgaria
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2024/1/31 4:59 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2024/1/31 10:21 AM UTC`. This list contains users from Bulgaria and cities Sofia Varna Plovdiv Ruse Starazagora.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -119,7 +120,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Manta Network </td>
 		<td><a href="https://twitter.com/grenade">grenade</a></td>
-		<td>bansko, bulgaria</td>
+		<td>bansko bulgaria</td>
 		<td>108680</td>
 		<td>108813</td>
 	</tr>
@@ -129,11 +130,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/NikolaRHristov">
 				<img src="https://avatars.githubusercontent.com/u/90222871?s=72&u=746ec72521ae0273af9df1ea0ce0eb0d715ec066&v=4" width="24" alt="Avatar of NikolaRHristov"/> NikolaRHristov
 			</a><br/>
-			Nikola R. Hristov
+			Nikola R Hristov
 		</td>
-		<td>Playform  Codeeditorland <br/></td>
+		<td>@playform  @codeeditorland <br/></td>
 		<td><a href="https://twitter.com/NikolaRHristov">NikolaRHristov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>51878</td>
 		<td>63365</td>
 	</tr>
@@ -145,11 +146,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Antoine Fourmy
 		</td>
-		<td>Enmsautomation  </td>
+		<td>@enmsautomation  </td>
 		<td>No Twitter Username</td>
-		<td>Bansko, Bulgaria</td>
+		<td>Bansko Bulgaria</td>
 		<td>669</td>
-		<td>7466</td>
+		<td>7467</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,9 +160,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Stanislav Vasilev
 		</td>
-		<td>Madladsquad  </td>
+		<td>@madladsquad  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>6783</td>
 		<td>6843</td>
 	</tr>
@@ -175,7 +176,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Fynt </td>
 		<td>No Twitter Username</td>
-		<td>Tryavna, Bulgaria</td>
+		<td>Tryavna Bulgaria</td>
 		<td>4249</td>
 		<td>6310</td>
 	</tr>
@@ -189,37 +190,37 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>0</td>
-		<td>4796</td>
+		<td>4799</td>
 	</tr>
 	<tr>
 		<td>7</td>
-		<td>
-			<a href="https://github.com/gugu">
-				<img src="https://avatars.githubusercontent.com/u/75169?s=72&u=02d432e08aadcf0b965c5630a2adf69cfb4c1d3d&v=4" width="24" alt="Avatar of gugu"/> gugu
-			</a><br/>
-			Andrii Kostenko
-		</td>
-		<td>Shortio  </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>188</td>
-		<td>4407</td>
-	</tr>
-	<tr>
-		<td>8</td>
 		<td>
 			<a href="https://github.com/erusev">
 				<img src="https://avatars.githubusercontent.com/u/184170?s=72&u=371a2d254c265973cdd81820ce8ece52d94e9b2f&v=4" width="24" alt="Avatar of erusev"/> erusev
 			</a><br/>
 			Emanuil Rusev
 		</td>
-		<td>Notaapp </td>
+		<td>@notaapp </td>
 		<td><a href="https://twitter.com/erusev">erusev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>27</td>
-		<td>4398</td>
+		<td>4412</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/gugu">
+				<img src="https://avatars.githubusercontent.com/u/75169?s=72&u=02d432e08aadcf0b965c5630a2adf69cfb4c1d3d&v=4" width="24" alt="Avatar of gugu"/> gugu
+			</a><br/>
+			Andrii Kostenko
+		</td>
+		<td>@shortio  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>188</td>
+		<td>4407</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -231,7 +232,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>4312</td>
 		<td>4312</td>
 	</tr>
@@ -245,9 +246,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Devture Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>2686</td>
-		<td>3814</td>
+		<td>Sofia Bulgaria</td>
+		<td>2687</td>
+		<td>3815</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -261,7 +262,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>1</td>
-		<td>3696</td>
+		<td>3700</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -273,9 +274,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Httpsintellibarapp </td>
 		<td><a href="https://twitter.com/antoniostoilkov">antoniostoilkov</a></td>
-		<td>EU › Bulgaria › Sofia</td>
+		<td>EU  Bulgaria  Sofia</td>
 		<td>362</td>
-		<td>3560</td>
+		<td>3563</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -287,7 +288,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fr3fou">fr3fou</a></td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>926</td>
 		<td>3557</td>
 	</tr>
@@ -315,9 +316,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Senteca </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
-		<td>3515</td>
+		<td>3517</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -327,11 +328,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ivo Georgiev
 		</td>
-		<td>Ambiretech </td>
+		<td>@ambiretech </td>
 		<td><a href="https://twitter.com/Ivshti">Ivshti</a></td>
 		<td>Bulgaria</td>
-		<td>961</td>
-		<td>3480</td>
+		<td>962</td>
+		<td>3484</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -343,7 +344,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Tiebreak Solutions </td>
 		<td><a href="https://twitter.com/nsinorov123">nsinorov123</a></td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>3392</td>
 		<td>3392</td>
 	</tr>
@@ -355,9 +356,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Gerganov
 		</td>
-		<td>Ggmlorg  </td>
+		<td>@ggmlorg  </td>
 		<td><a href="https://twitter.com/ggerganov">ggerganov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3389</td>
 		<td>3389</td>
 	</tr>
@@ -369,9 +370,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Kaloyan Kosev
 		</td>
-		<td>Devlabsbg  </td>
+		<td>@devlabsbg  </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>766</td>
 		<td>3314</td>
 	</tr>
@@ -385,7 +386,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Angry Building </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>78</td>
 		<td>2868</td>
 	</tr>
@@ -400,8 +401,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>2803</td>
-		<td>2803</td>
+		<td>2804</td>
+		<td>2804</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -415,7 +416,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>372</td>
-		<td>2784</td>
+		<td>2793</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -427,7 +428,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Europe, Bulgaria</td>
+		<td>Europe Bulgaria</td>
 		<td>2782</td>
 		<td>2782</td>
 	</tr>
@@ -439,11 +440,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Trayan Azarov
 		</td>
-		<td>Chaoslabsbg Amikostech </td>
+		<td>@chaoslabsbg @amikostech </td>
 		<td><a href="https://twitter.com/t_azarov">t_azarov</a></td>
 		<td>Bulgaria</td>
-		<td>940</td>
-		<td>2705</td>
+		<td>942</td>
+		<td>2707</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -469,7 +470,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dia Soft </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2666</td>
 		<td>2669</td>
 	</tr>
@@ -497,7 +498,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2547</td>
 	</tr>
@@ -509,11 +510,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alexander Todorov
 		</td>
-		<td>Kiwitcms  </td>
+		<td>@kiwitcms  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>2436</td>
-		<td>2528</td>
+		<td>Sofia Bulgaria</td>
+		<td>2442</td>
+		<td>2534</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -523,7 +524,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Rumen Nikiforov
 		</td>
-		<td>L2junity </td>
+		<td>@l2junity </td>
 		<td><a href="https://twitter.com/UnAfraid89">UnAfraid89</a></td>
 		<td>Bulgaria</td>
 		<td>262</td>
@@ -541,7 +542,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/KrasimirTsonev">KrasimirTsonev</a></td>
 		<td>Bulgaria</td>
 		<td>88</td>
-		<td>2416</td>
+		<td>2421</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -555,10 +556,24 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>18</td>
-		<td>2344</td>
+		<td>2346</td>
 	</tr>
 	<tr>
 		<td>33</td>
+		<td>
+			<a href="https://github.com/wencakisa">
+				<img src="https://avatars.githubusercontent.com/u/14956725?s=72&u=260f00e061655f174ea82a44256a62dad68952d4&v=4" width="24" alt="Avatar of wencakisa"/> wencakisa
+			</a><br/>
+			Ventsislav Tashev
+		</td>
+		<td>@hacksoftware </td>
+		<td><a href="https://twitter.com/v_tashev">v_tashev</a></td>
+		<td>Sofia Bulgaria</td>
+		<td>6</td>
+		<td>2323</td>
+	</tr>
+	<tr>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/nikolavp">
 				<img src="https://avatars.githubusercontent.com/u/288612?s=72&u=f80e024c00b6e9976dba736eb9332e02341ea9eb&v=4" width="24" alt="Avatar of nikolavp"/> nikolavp
@@ -572,20 +587,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>2323</td>
 	</tr>
 	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/wencakisa">
-				<img src="https://avatars.githubusercontent.com/u/14956725?s=72&u=260f00e061655f174ea82a44256a62dad68952d4&v=4" width="24" alt="Avatar of wencakisa"/> wencakisa
-			</a><br/>
-			Ventsislav Tashev
-		</td>
-		<td>Hacksoftware </td>
-		<td><a href="https://twitter.com/v_tashev">v_tashev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>6</td>
-		<td>2317</td>
-	</tr>
-	<tr>
 		<td>35</td>
 		<td>
 			<a href="https://github.com/delchev">
@@ -596,8 +597,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Codbex </td>
 		<td><a href="https://twitter.com/delchevn">delchevn</a></td>
 		<td>Sofia</td>
-		<td>2256</td>
-		<td>2256</td>
+		<td>2257</td>
+		<td>2257</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -607,7 +608,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Berk Cambaz
 		</td>
-		<td>Dorkodu </td>
+		<td>@dorkodu </td>
 		<td><a href="https://twitter.com/bercrobat">bercrobat</a></td>
 		<td>Bulgaria</td>
 		<td>1224</td>
@@ -623,7 +624,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1498</td>
 		<td>2223</td>
 	</tr>
@@ -637,9 +638,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, BULGARIA</td>
+		<td>Sofia BULGARIA</td>
 		<td>100</td>
-		<td>2219</td>
+		<td>2220</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -649,11 +650,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Borislav Stanimirov
 		</td>
-		<td>Viewrayinc </td>
+		<td>@viewrayinc </td>
 		<td><a href="https://twitter.com/stanimirovb">stanimirovb</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>717</td>
-		<td>2205</td>
+		<td>2206</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -666,8 +667,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>2162</td>
-		<td>2162</td>
+		<td>2163</td>
+		<td>2163</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -679,9 +680,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Printify </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>9</td>
-		<td>2154</td>
+		<td>2157</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -695,7 +696,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/vlad_karamfilov">vlad_karamfilov</a></td>
 		<td>Bulgaria</td>
 		<td>58</td>
-		<td>2130</td>
+		<td>2131</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -707,7 +708,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Pleven, Bulgaria</td>
+		<td>Pleven Bulgaria</td>
 		<td>910</td>
 		<td>2127</td>
 	</tr>
@@ -717,13 +718,13 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/akurtakov">
 				<img src="https://avatars.githubusercontent.com/u/574788?s=72&v=4" width="24" alt="Avatar of akurtakov"/> akurtakov
 			</a><br/>
-			Александър Куртаков
+			 
 		</td>
 		<td>Red Hat Inc <br/>Kodisi<br/>Ltd<br/></td>
 		<td><a href="https://twitter.com/akurtakov">akurtakov</a></td>
-		<td>Pazardzhik, Bulgaria</td>
-		<td>2041</td>
-		<td>2041</td>
+		<td>Pazardzhik Bulgaria</td>
+		<td>2042</td>
+		<td>2042</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -736,8 +737,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Microweber  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>1237</td>
-		<td>2021</td>
+		<td>1239</td>
+		<td>2023</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -749,7 +750,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>110</td>
 		<td>2002</td>
 	</tr>
@@ -763,9 +764,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
-		<td>1991</td>
+		<td>1992</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -791,7 +792,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/didkoslawow">didkoslawow</a></td>
-		<td>Pomorie, Bulgaria</td>
+		<td>Pomorie Bulgaria</td>
 		<td>1951</td>
 		<td>1951</td>
 	</tr>
@@ -805,9 +806,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>13</td>
-		<td>1906</td>
+		<td>1908</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -819,7 +820,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Softzen </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>46</td>
 		<td>1859</td>
 	</tr>
@@ -861,9 +862,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Payhawk </td>
 		<td><a href="https://twitter.com/ventsislav_g">ventsislav_g</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>178</td>
-		<td>1812</td>
+		<td>1813</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -873,11 +874,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Harry Dobrev
 		</td>
-		<td>Poweredbypercent </td>
+		<td>@poweredbypercent </td>
 		<td><a href="https://twitter.com/hkdobrev">hkdobrev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>835</td>
-		<td>1776</td>
+		<td>1777</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -887,9 +888,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Marin Atanasov
 		</td>
-		<td>Automattic  </td>
+		<td>@automattic  </td>
 		<td><a href="https://twitter.com/krenvirsh">krenvirsh</a></td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>1413</td>
 		<td>1767</td>
 	</tr>
@@ -899,7 +900,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/kumchovylcho">
 				<img src="https://avatars.githubusercontent.com/u/111090547?s=72&u=73ab5509d0d870f102adf48e521efcaa00311289&v=4" width="24" alt="Avatar of kumchovylcho"/> kumchovylcho
 			</a><br/>
-			Tamer-py
+			Tamerpy
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -931,9 +932,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Devrix </td>
 		<td><a href="https://twitter.com/metodiew">metodiew</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>52</td>
-		<td>1689</td>
+		<td>1690</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -945,7 +946,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Archives State Agency </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1679</td>
 		<td>1684</td>
 	</tr>
@@ -971,9 +972,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Dmitry Kalinin
 		</td>
-		<td>Serverhub Browserling </td>
+		<td>@serverhub @browserling </td>
 		<td>No Twitter Username</td>
-		<td>Ukraine / Bulgaria</td>
+		<td>Ukraine  Bulgaria</td>
 		<td>100</td>
 		<td>1658</td>
 	</tr>
@@ -985,7 +986,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Boyan Koychev
 		</td>
-		<td>Yaradigitallabs  </td>
+		<td>@yaradigitallabs  </td>
 		<td>No Twitter Username</td>
 		<td>Varna</td>
 		<td>1347</td>
@@ -999,11 +1000,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Daniel Dimitrov
 		</td>
-		<td>Quaver </td>
+		<td>@quaver </td>
 		<td><a href="https://twitter.com/ayyayyye">ayyayyye</a></td>
-		<td>Bulgaria/Varna</td>
+		<td>BulgariaVarna</td>
 		<td>450</td>
-		<td>1633</td>
+		<td>1635</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1011,13 +1012,13 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/bundyo">
 				<img src="https://avatars.githubusercontent.com/u/98318?s=72&u=c1d143af12343260ea4885b7cca483afc0a3d02e&v=4" width="24" alt="Avatar of bundyo"/> bundyo
 			</a><br/>
-			Bundyo (Kamen Bundev)
+			Bundyo Kamen Bundev
 		</td>
 		<td>Telerik </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>34</td>
-		<td>1592</td>
+		<td>1593</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1027,9 +1028,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Konstantin Simeonov
 		</td>
-		<td>Loancrate  </td>
+		<td>@loancrate  </td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>581</td>
 		<td>1579</td>
 	</tr>
@@ -1041,11 +1042,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Dimitar Dimitrov
 		</td>
-		<td>Dext </td>
+		<td>@dext </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
-		<td>1561</td>
+		<td>1562</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1071,7 +1072,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tsarevo, Bulgaria</td>
+		<td>Tsarevo Bulgaria</td>
 		<td>514</td>
 		<td>1541</td>
 	</tr>
@@ -1097,9 +1098,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Gardev
 		</td>
-		<td>Latticeflowai </td>
+		<td>@latticeflowai </td>
 		<td><a href="https://twitter.com/georgesg92">georgesg92</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>453</td>
 		<td>1533</td>
 	</tr>
@@ -1113,7 +1114,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>68</td>
 		<td>1532</td>
 	</tr>
@@ -1127,7 +1128,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>21</td>
 		<td>1505</td>
 	</tr>
@@ -1141,9 +1142,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Studio Raketa </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>9</td>
-		<td>1498</td>
+		<td>1499</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1153,7 +1154,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Ivanov
 		</td>
-		<td>Copperexchange </td>
+		<td>@copperexchange </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>27</td>
@@ -1167,7 +1168,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Miro Yovchev
 		</td>
-		<td>Corllete  </td>
+		<td>@corllete  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>286</td>
@@ -1211,7 +1212,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Nemetschek Bulgaria </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>890</td>
 		<td>1477</td>
 	</tr>
@@ -1225,7 +1226,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/suricactus">suricactus</a></td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>1473</td>
 		<td>1473</td>
 	</tr>
@@ -1237,11 +1238,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Andrey Antukh
 		</td>
-		<td>Kaleidostaigaio  Penpot </td>
+		<td>@kaleidos@taigaio  @penpot </td>
 		<td><a href="https://twitter.com/niwinz">niwinz</a></td>
-		<td>Figueres (Girona), Sofia (Bulgaria)</td>
-		<td>1454</td>
-		<td>1469</td>
+		<td>Figueres Girona Sofia Bulgaria</td>
+		<td>1456</td>
+		<td>1471</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1265,9 +1266,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Radoslav Kirilov
 		</td>
-		<td>Corvaai  </td>
+		<td>@corvaai  </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>19</td>
 		<td>1442</td>
 	</tr>
@@ -1283,7 +1284,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/venelin_valkov">venelin_valkov</a></td>
 		<td>Bulgaria</td>
 		<td>101</td>
-		<td>1433</td>
+		<td>1435</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1295,7 +1296,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>19</td>
 		<td>1422</td>
 	</tr>
@@ -1309,7 +1310,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Haskovo, Bulgaria</td>
+		<td>Haskovo Bulgaria</td>
 		<td>1416</td>
 		<td>1416</td>
 	</tr>
@@ -1323,9 +1324,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
-		<td>1410</td>
+		<td>1411</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1365,7 +1366,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1371</td>
 		<td>1371</td>
 	</tr>
@@ -1379,7 +1380,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>261</td>
 		<td>1370</td>
 	</tr>
@@ -1391,9 +1392,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Miroslav Mitev
 		</td>
-		<td>Automattic </td>
+		<td>@automattic </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>800</td>
 		<td>1367</td>
 	</tr>
@@ -1419,9 +1420,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Martin Angelov
 		</td>
-		<td>Hacksoftware </td>
+		<td>@hacksoftware </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>1321</td>
 	</tr>
@@ -1435,9 +1436,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Bobby Iliev </td>
 		<td><a href="https://twitter.com/bobbyiliev_">bobbyiliev_</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>1088</td>
-		<td>1318</td>
+		<td>Sofia Bulgaria</td>
+		<td>1089</td>
+		<td>1319</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1447,11 +1448,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Viktor Kirilov
 		</td>
-		<td>Enhancv  </td>
+		<td>@enhancv  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>149</td>
-		<td>1308</td>
+		<td>1310</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1463,7 +1464,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Ever Technologies </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>112</td>
 		<td>1307</td>
 	</tr>
@@ -1491,7 +1492,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/skovachev">skovachev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>1271</td>
 	</tr>
@@ -1503,9 +1504,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Genadi Samokovarov
 		</td>
-		<td>Dext </td>
+		<td>@dext </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>212</td>
 		<td>1261</td>
 	</tr>
@@ -1519,9 +1520,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>1015</td>
-		<td>1257</td>
+		<td>Plovdiv Bulgaria</td>
+		<td>1016</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -1533,7 +1534,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>1245</td>
 		<td>1245</td>
 	</tr>
@@ -1547,7 +1548,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sumup </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>32</td>
 		<td>1194</td>
 	</tr>
@@ -1559,7 +1560,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Dimitar Panov
 		</td>
-		<td>Shopify </td>
+		<td>@shopify </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>2</td>
@@ -1571,11 +1572,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/GeorgiLukanov87">
 				<img src="https://avatars.githubusercontent.com/u/102332504?s=72&u=480bd18d54ef91b1ef07e3c3d96a23ec6967a8f4&v=4" width="24" alt="Avatar of GeorgiLukanov87"/> GeorgiLukanov87
 			</a><br/>
-			Georgi St. Lukanov
+			Georgi St Lukanov
 		</td>
 		<td>Httpsgeorgilukanov87 </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>1182</td>
 		<td>1182</td>
 	</tr>
@@ -1589,7 +1590,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Nimasystems Ltd </td>
 		<td><a href="https://twitter.com/miraclebg">miraclebg</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>22</td>
 		<td>1177</td>
 	</tr>
@@ -1603,7 +1604,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/PreslavMihaylov">PreslavMihaylov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>115</td>
 		<td>1171</td>
 	</tr>
@@ -1615,9 +1616,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Konstantin Dinev
 		</td>
-		<td>Infragistics </td>
+		<td>@infragistics </td>
 		<td><a href="https://twitter.com/KonstantinDinev">KonstantinDinev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1162</td>
 		<td>1171</td>
 	</tr>
@@ -1629,9 +1630,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Vladislav Mihov
 		</td>
-		<td>Wesynaptic </td>
+		<td>@wesynaptic </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>19</td>
 		<td>1159</td>
 	</tr>
@@ -1643,7 +1644,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Radoslav Georgiev
 		</td>
-		<td>Hacksoftware  </td>
+		<td>@hacksoftware  </td>
 		<td><a href="https://twitter.com/Rado_g">Rado_g</a></td>
 		<td>Sofia</td>
 		<td>83</td>
@@ -1671,9 +1672,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Tony Troeff
 		</td>
-		<td>Onebitsoftware </td>
+		<td>@onebitsoftware </td>
 		<td>No Twitter Username</td>
-		<td>Shumen, Bulgaria</td>
+		<td>Shumen Bulgaria</td>
 		<td>1000</td>
 		<td>1143</td>
 	</tr>
@@ -1701,9 +1702,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Itbp </td>
 		<td>No Twitter Username</td>
-		<td>Kazanlak, Bulgaria</td>
-		<td>359</td>
-		<td>1138</td>
+		<td>Kazanlak Bulgaria</td>
+		<td>360</td>
+		<td>1139</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1715,7 +1716,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dext </td>
 		<td><a href="https://twitter.com/SeishinBG">SeishinBG</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>0</td>
 		<td>1135</td>
 	</tr>
@@ -1757,7 +1758,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>8</td>
 		<td>1124</td>
 	</tr>
@@ -1769,9 +1770,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Martin Grigorov
 		</td>
-		<td>Apache  </td>
+		<td>@apache  </td>
 		<td><a href="https://twitter.com/mtgrigorov">mtgrigorov</a></td>
-		<td>Veliko Tarnovo, Bulgaria</td>
+		<td>Veliko Tarnovo Bulgaria</td>
 		<td>1101</td>
 		<td>1120</td>
 	</tr>
@@ -1785,7 +1786,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Radzen </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>727</td>
 		<td>1116</td>
 	</tr>
@@ -1799,7 +1800,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>53</td>
 		<td>1116</td>
 	</tr>
@@ -1813,7 +1814,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Graosoft </td>
 		<td>No Twitter Username</td>
-		<td>Pernik, Bulgaria</td>
+		<td>Pernik Bulgaria</td>
 		<td>649</td>
 		<td>1112</td>
 	</tr>
@@ -1827,7 +1828,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Aes Europe Services Ltd<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>990</td>
 		<td>1110</td>
 	</tr>
@@ -1853,7 +1854,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			ivan
 		</td>
-		<td>Santiment  </td>
+		<td>@santiment  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>883</td>
@@ -1870,8 +1871,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>944</td>
-		<td>1085</td>
+		<td>945</td>
+		<td>1086</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1883,7 +1884,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>1084</td>
 		<td>1084</td>
 	</tr>
@@ -1895,9 +1896,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Iliyan Germanov
 		</td>
-		<td>Ivyapps </td>
+		<td>@ivyapps </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1049</td>
 		<td>1083</td>
 	</tr>
@@ -1911,7 +1912,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1081</td>
 		<td>1081</td>
 	</tr>
@@ -1925,9 +1926,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>30</td>
-		<td>1079</td>
+		<td>1080</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -1937,9 +1938,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Lyubo Lyubchev
 		</td>
-		<td>Pushmarket </td>
+		<td>@pushmarket </td>
 		<td><a href="https://twitter.com/impzero">impzero</a></td>
-		<td>Bulgaria / Netherlands</td>
+		<td>Bulgaria  Netherlands</td>
 		<td>11</td>
 		<td>1078</td>
 	</tr>
@@ -1953,7 +1954,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv/Bulgaria</td>
+		<td>PlovdivBulgaria</td>
 		<td>185</td>
 		<td>1065</td>
 	</tr>
@@ -1967,7 +1968,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Payarc Llc </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>190</td>
 		<td>1039</td>
 	</tr>
@@ -1979,9 +1980,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Gancho Radkov
 		</td>
-		<td>Walletconnect </td>
+		<td>@walletconnect </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>1030</td>
 		<td>1037</td>
 	</tr>
@@ -1997,7 +1998,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>8</td>
-		<td>1022</td>
+		<td>1026</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -2007,7 +2008,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Kiril Kirkov
 		</td>
-		<td>Issuetrackingsystem </td>
+		<td>@issuetrackingsystem </td>
 		<td><a href="https://twitter.com/kirilkirkov">kirilkirkov</a></td>
 		<td>Bulgaria</td>
 		<td>59</td>
@@ -2016,19 +2017,33 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>137</td>
 		<td>
+			<a href="https://github.com/ZgrK">
+				<img src="https://avatars.githubusercontent.com/u/879674?s=72&u=dc61b1237bab685e028ae456d96bafd66e2f3fab&v=4" width="24" alt="Avatar of ZgrK"/> ZgrK
+			</a><br/>
+			zgr KARALAR
+		</td>
+		<td>Unbelievabledigital </td>
+		<td><a href="https://twitter.com/zgrkaralar">zgrkaralar</a></td>
+		<td>Varna</td>
+		<td>30</td>
+		<td>1012</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
 			<a href="https://github.com/zdrawku">
 				<img src="https://avatars.githubusercontent.com/u/11193764?s=72&u=c7ad3ad6bc80ed8a0d83054d315d2aefa75c1ca3&v=4" width="24" alt="Avatar of zdrawku"/> zdrawku
 			</a><br/>
 			Zdravko Kolev
 		</td>
-		<td>Infragistics  </td>
+		<td>@infragistics  </td>
 		<td><a href="https://twitter.com/Zdravko43">Zdravko43</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>998</td>
 		<td>1011</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/ialidzhikov">
 				<img src="https://avatars.githubusercontent.com/u/9372594?s=72&u=24d7279d0075332d012ecce3d83687cd2e098d07&v=4" width="24" alt="Avatar of ialidzhikov"/> ialidzhikov
@@ -2037,26 +2052,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1006</td>
 		<td>1006</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/KokosTech">
 				<img src="https://avatars.githubusercontent.com/u/46886807?s=72&u=6435394dc60f8602161908e64d384598ba7c1b25&v=4" width="24" alt="Avatar of KokosTech"/> KokosTech
 			</a><br/>
 			Kaloyan Doychinov
 		</td>
-		<td>Hacktues9 Elsys </td>
+		<td>@hacktues9 @elsys </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>995</td>
 		<td>1001</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/petyosi">
 				<img src="https://avatars.githubusercontent.com/u/13347?s=72&u=b329cd2ec6bd3562524cca65eab91ecd8fcc5a65&v=4" width="24" alt="Avatar of petyosi"/> petyosi
@@ -2065,26 +2080,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/petyosi">petyosi</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>659</td>
 		<td>999</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/dimitardanailov">
 				<img src="https://avatars.githubusercontent.com/u/2182018?s=72&u=ada2e431a64e8fd6a6f35849f0667082d8631247&v=4" width="24" alt="Avatar of dimitardanailov"/> dimitardanailov
 			</a><br/>
-			Dimitar Danailov (a.k.a Mitco)
+			Dimitar Danailov aka Mitco
 		</td>
 		<td>Danailov Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>357</td>
-		<td>993</td>
+		<td>994</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/yassenshopov">
 				<img src="https://avatars.githubusercontent.com/u/83444316?s=72&u=bae4639eb90a63a3052364ee7bc606b2812f6158&v=4" width="24" alt="Avatar of yassenshopov"/> yassenshopov
@@ -2093,37 +2108,23 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Nuvei </td>
 		<td><a href="https://twitter.com/yassenshopov">yassenshopov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>970</td>
 		<td>988</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/Ivo-Donchev">
 				<img src="https://avatars.githubusercontent.com/u/12683214?s=72&u=482f774bea6d7f3ba2c5e415414f1c1a1bdaf9b2&v=4" width="24" alt="Avatar of Ivo-Donchev"/> Ivo-Donchev
 			</a><br/>
 			Ivaylo Donchev
 		</td>
-		<td>Hacksoftware  </td>
+		<td>@hacksoftware  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>23</td>
 		<td>983</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/ZgrK">
-				<img src="https://avatars.githubusercontent.com/u/879674?s=72&u=dc61b1237bab685e028ae456d96bafd66e2f3fab&v=4" width="24" alt="Avatar of ZgrK"/> ZgrK
-			</a><br/>
-			Özgür KARALAR
-		</td>
-		<td>Unbelievabledigital </td>
-		<td><a href="https://twitter.com/zgrkaralar">zgrkaralar</a></td>
-		<td>Varna</td>
-		<td>30</td>
-		<td>980</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2149,7 +2150,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>973</td>
 		<td>973</td>
 	</tr>
@@ -2189,11 +2190,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Gabriela Luhova
 		</td>
-		<td>Tutuf  </td>
+		<td>@tutuf  </td>
 		<td><a href="https://twitter.com/gabriela_luhova">gabriela_luhova</a></td>
 		<td>Sofia</td>
 		<td>25</td>
-		<td>961</td>
+		<td>966</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2219,7 +2220,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>939</td>
 		<td>940</td>
 	</tr>
@@ -2233,9 +2234,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
-		<td>934</td>
-		<td>934</td>
+		<td>Burgas Bulgaria</td>
+		<td>939</td>
+		<td>939</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2259,11 +2260,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			meddle
 		</td>
-		<td>Elixircourse  </td>
+		<td>@elixircourse  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>220</td>
-		<td>922</td>
+		<td>923</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -2275,7 +2276,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Aim Academics </td>
 		<td>No Twitter Username</td>
-		<td>Blagoevgrad, Bulgaria</td>
+		<td>Blagoevgrad Bulgaria</td>
 		<td>596</td>
 		<td>913</td>
 	</tr>
@@ -2287,11 +2288,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Atanas Atanasov
 		</td>
-		<td>Htmllab Toptal Braintrustofficial Andela<br/>Dmarcian<br/></td>
+		<td>@htmllab @toptal @braintrustofficial @andela<br/>@dmarcian<br/></td>
 		<td><a href="https://twitter.com/scriptexbg">scriptexbg</a></td>
-		<td>Varna, Bulgaria</td>
-		<td>692</td>
-		<td>904</td>
+		<td>Varna Bulgaria</td>
+		<td>693</td>
+		<td>905</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2303,9 +2304,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna,Bulgaria</td>
-		<td>303</td>
-		<td>902</td>
+		<td>VarnaBulgaria</td>
+		<td>305</td>
+		<td>904</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -2318,8 +2319,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Graphops </td>
 		<td><a href="https://twitter.com/axiom_aardvark">axiom_aardvark</a></td>
 		<td>Bulgaria</td>
-		<td>777</td>
-		<td>902</td>
+		<td>779</td>
+		<td>904</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -2331,7 +2332,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Universless </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>900</td>
 	</tr>
@@ -2343,7 +2344,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Veronika
 		</td>
-		<td>Softuni </td>
+		<td>@softuni </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>4</td>
@@ -2357,9 +2358,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Atanas Vasilev
 		</td>
-		<td>Resolutesoft  </td>
+		<td>@resolutesoft  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>51</td>
 		<td>885</td>
 	</tr>
@@ -2385,9 +2386,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Keranov
 		</td>
-		<td>Relevaai  </td>
+		<td>@relevaai  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>4</td>
 		<td>885</td>
 	</tr>
@@ -2401,7 +2402,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>795</td>
 		<td>876</td>
 	</tr>
@@ -2415,7 +2416,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Plesk </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>229</td>
 		<td>866</td>
 	</tr>
@@ -2429,9 +2430,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>18</td>
-		<td>851</td>
+		<td>852</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2471,7 +2472,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dext </td>
 		<td><a href="https://twitter.com/skanev">skanev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>82</td>
 		<td>847</td>
 	</tr>
@@ -2485,7 +2486,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>23</td>
 		<td>846</td>
 	</tr>
@@ -2497,9 +2498,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alexander Vakrilov
 		</td>
-		<td>St6io </td>
+		<td>@st6io </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>195</td>
 		<td>839</td>
 	</tr>
@@ -2513,7 +2514,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dext </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>58</td>
 		<td>837</td>
 	</tr>
@@ -2527,7 +2528,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>834</td>
 		<td>834</td>
 	</tr>
@@ -2539,9 +2540,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Denis Vasilev
 		</td>
-		<td>Softuni </td>
+		<td>@softuni </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>660</td>
 		<td>829</td>
 	</tr>
@@ -2555,12 +2556,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dragonflydb </td>
 		<td>No Twitter Username</td>
-		<td>Sunny Beach, Bulgaria</td>
+		<td>Sunny Beach Bulgaria</td>
 		<td>35</td>
-		<td>827</td>
+		<td>828</td>
 	</tr>
 	<tr>
 		<td>176</td>
+		<td>
+			<a href="https://github.com/pveentjer">
+				<img src="https://avatars.githubusercontent.com/u/105243?s=72&u=529faa5afe49262b9d7cd1d7f7c153b9b7e9a127&v=4" width="24" alt="Avatar of pveentjer"/> pveentjer
+			</a><br/>
+			Peter Veentjer
+		</td>
+		<td>Wwwhazelcastcom </td>
+		<td><a href="https://twitter.com/PeterVeentjer">PeterVeentjer</a></td>
+		<td>Bulgaria</td>
+		<td>524</td>
+		<td>820</td>
+	</tr>
+	<tr>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/kateliev">
 				<img src="https://avatars.githubusercontent.com/u/10247582?s=72&u=1965327c0b6cabb1c4b779bc9b9d8af89620cfa7&v=4" width="24" alt="Avatar of kateliev"/> kateliev
@@ -2571,21 +2586,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>114</td>
-		<td>819</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/pveentjer">
-				<img src="https://avatars.githubusercontent.com/u/105243?s=72&u=529faa5afe49262b9d7cd1d7f7c153b9b7e9a127&v=4" width="24" alt="Avatar of pveentjer"/> pveentjer
-			</a><br/>
-			Peter Veentjer
-		</td>
-		<td>Wwwhazelcastcom </td>
-		<td><a href="https://twitter.com/PeterVeentjer">PeterVeentjer</a></td>
-		<td>Bulgaria</td>
-		<td>521</td>
-		<td>817</td>
+		<td>820</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2597,7 +2598,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>101</td>
 		<td>816</td>
 	</tr>
@@ -2609,9 +2610,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Martin Vrachev
 		</td>
-		<td>Broadcom </td>
+		<td>@broadcom </td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>806</td>
 		<td>816</td>
 	</tr>
@@ -2623,9 +2624,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Kalin Tsenkov
 		</td>
-		<td>Ambitionedsoftware </td>
+		<td>@ambitionedsoftware </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>125</td>
 		<td>809</td>
 	</tr>
@@ -2637,7 +2638,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Jordan Enev
 		</td>
-		<td>Devlabsbg  </td>
+		<td>@devlabsbg  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>440</td>
@@ -2663,7 +2664,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/inodentry">
 				<img src="https://avatars.githubusercontent.com/u/40234599?s=72&u=62fcbb5fac4c2a39efc13b793eb0194fe92f42bd&v=4" width="24" alt="Avatar of inodentry"/> inodentry
 			</a><br/>
-			Ida "Iyes"
+			Ida Iyes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2681,7 +2682,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>72</td>
 		<td>802</td>
 	</tr>
@@ -2695,7 +2696,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>800</td>
 		<td>800</td>
 	</tr>
@@ -2709,40 +2710,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sdv Projects </td>
 		<td><a href="https://twitter.com/simeon_valev">simeon_valev</a></td>
-		<td>Kazanlak, Bulgaria </td>
+		<td>Kazanlak Bulgaria </td>
 		<td>35</td>
 		<td>797</td>
 	</tr>
 	<tr>
 		<td>187</td>
-		<td>
-			<a href="https://github.com/akorchev">
-				<img src="https://avatars.githubusercontent.com/u/454726?s=72&v=4" width="24" alt="Avatar of akorchev"/> akorchev
-			</a><br/>
-			Atanas Korchev
-		</td>
-		<td>Radzen Ltd </td>
-		<td><a href="https://twitter.com/korchev">korchev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>94</td>
-		<td>792</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/MrGKanev">
-				<img src="https://avatars.githubusercontent.com/u/5780974?s=72&u=ebe4e567c988dafccce31e7091c8b824fb49126b&v=4" width="24" alt="Avatar of MrGKanev"/> MrGKanev
-			</a><br/>
-			Gabriel Kanev
-		</td>
-		<td>Bimbala </td>
-		<td><a href="https://twitter.com/mrgkanev">mrgkanev</a></td>
-		<td>Bulgaria, Ruse</td>
-		<td>359</td>
-		<td>790</td>
-	</tr>
-	<tr>
-		<td>189</td>
 		<td>
 			<a href="https://github.com/MomchilGorchev">
 				<img src="https://avatars.githubusercontent.com/u/4651284?s=72&v=4" width="24" alt="Avatar of MomchilGorchev"/> MomchilGorchev
@@ -2753,7 +2726,35 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>0</td>
-		<td>783</td>
+		<td>796</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/akorchev">
+				<img src="https://avatars.githubusercontent.com/u/454726?s=72&v=4" width="24" alt="Avatar of akorchev"/> akorchev
+			</a><br/>
+			Atanas Korchev
+		</td>
+		<td>Radzen Ltd </td>
+		<td><a href="https://twitter.com/korchev">korchev</a></td>
+		<td>Sofia Bulgaria</td>
+		<td>94</td>
+		<td>792</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/MrGKanev">
+				<img src="https://avatars.githubusercontent.com/u/5780974?s=72&u=ebe4e567c988dafccce31e7091c8b824fb49126b&v=4" width="24" alt="Avatar of MrGKanev"/> MrGKanev
+			</a><br/>
+			Gabriel Kanev
+		</td>
+		<td>Bimbala </td>
+		<td><a href="https://twitter.com/mrgkanev">mrgkanev</a></td>
+		<td>Bulgaria Ruse</td>
+		<td>359</td>
+		<td>790</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2763,28 +2764,14 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Radimir Bitsov
 		</td>
-		<td>Acbstudio   </td>
+		<td>@acbstudio   </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>21</td>
-		<td>781</td>
+		<td>782</td>
 	</tr>
 	<tr>
 		<td>191</td>
-		<td>
-			<a href="https://github.com/magdalenavelikova">
-				<img src="https://avatars.githubusercontent.com/u/113022603?s=72&u=5cfaf7ea3e7e3eb49b55aa6517775d5d28be8564&v=4" width="24" alt="Avatar of magdalenavelikova"/> magdalenavelikova
-			</a><br/>
-			Magdalena Velikova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
-		<td>779</td>
-		<td>779</td>
-	</tr>
-	<tr>
-		<td>192</td>
 		<td>
 			<a href="https://github.com/puzpuzpuz">
 				<img src="https://avatars.githubusercontent.com/u/37772591?s=72&u=1cb2bded183e7ed78f032272f162af0845d6feef&v=4" width="24" alt="Avatar of puzpuzpuz"/> puzpuzpuz
@@ -2793,9 +2780,23 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Questdb </td>
 		<td><a href="https://twitter.com/AndreyPechkurov">AndreyPechkurov</a></td>
-		<td>Varna, Bulgaria</td>
-		<td>520</td>
-		<td>778</td>
+		<td>Varna Bulgaria</td>
+		<td>522</td>
+		<td>780</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/magdalenavelikova">
+				<img src="https://avatars.githubusercontent.com/u/113022603?s=72&u=5cfaf7ea3e7e3eb49b55aa6517775d5d28be8564&v=4" width="24" alt="Avatar of magdalenavelikova"/> magdalenavelikova
+			</a><br/>
+			Magdalena Velikova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varna Bulgaria</td>
+		<td>779</td>
+		<td>779</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2821,7 +2822,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Weichain </td>
 		<td><a href="https://twitter.com/raykov_krasimir">raykov_krasimir</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>86</td>
 		<td>775</td>
 	</tr>
@@ -2835,7 +2836,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vidin, Bulgaria</td>
+		<td>Vidin Bulgaria</td>
 		<td>760</td>
 		<td>760</td>
 	</tr>
@@ -2863,7 +2864,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Manta Network </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>347</td>
 		<td>756</td>
 	</tr>
@@ -2879,7 +2880,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>2</td>
-		<td>755</td>
+		<td>756</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -2891,7 +2892,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Radomir, Bulgaria</td>
+		<td>Radomir Bulgaria</td>
 		<td>754</td>
 		<td>754</td>
 	</tr>
@@ -2905,7 +2906,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vmco </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>746</td>
 		<td>752</td>
 	</tr>
@@ -2917,9 +2918,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Irina Hristova
 		</td>
-		<td>Fourth </td>
+		<td>@fourth </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>743</td>
 	</tr>
@@ -2933,9 +2934,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Apis Europe </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>700</td>
-		<td>736</td>
+		<td>Sofia Bulgaria</td>
+		<td>704</td>
+		<td>740</td>
 	</tr>
 	<tr>
 		<td>203</td>
@@ -2947,12 +2948,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>716</td>
 		<td>733</td>
 	</tr>
 	<tr>
 		<td>204</td>
+		<td>
+			<a href="https://github.com/StoyanShopov">
+				<img src="https://avatars.githubusercontent.com/u/25417032?s=72&u=c0a124a2d20d72cc195a498059513612bbbfba7e&v=4" width="24" alt="Avatar of StoyanShopov"/> StoyanShopov
+			</a><br/>
+			Stoyan Shopov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>4</td>
+		<td>732</td>
+	</tr>
+	<tr>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/tborisova">
 				<img src="https://avatars.githubusercontent.com/u/1222952?s=72&u=5cb4c161aabece24854030d3be1116ab1ff02136&v=4" width="24" alt="Avatar of tborisova"/> tborisova
@@ -2963,21 +2978,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>0</td>
-		<td>730</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/StoyanShopov">
-				<img src="https://avatars.githubusercontent.com/u/25417032?s=72&u=c0a124a2d20d72cc195a498059513612bbbfba7e&v=4" width="24" alt="Avatar of StoyanShopov"/> StoyanShopov
-			</a><br/>
-			Stoyan Shopov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>4</td>
-		<td>729</td>
+		<td>731</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -2989,7 +2990,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Camplight </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>0</td>
 		<td>723</td>
 	</tr>
@@ -3003,7 +3004,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Varna</td>
+		<td>Bulgaria Varna</td>
 		<td>723</td>
 		<td>723</td>
 	</tr>
@@ -3017,7 +3018,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Servicenow Itom Consultant At<br/>Doitwise<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>552</td>
 		<td>721</td>
 	</tr>
@@ -3038,20 +3039,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>210</td>
 		<td>
-			<a href="https://github.com/bbsbb">
-				<img src="https://avatars.githubusercontent.com/u/6582764?s=72&u=8a8a58fe68b5c163845283dd8cd71e79b3550917&v=4" width="24" alt="Avatar of bbsbb"/> bbsbb
-			</a><br/>
-			Boyan Bonev
-		</td>
-		<td>Stemmaai </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, BG</td>
-		<td>0</td>
-		<td>715</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
 			<a href="https://github.com/pfrenssen">
 				<img src="https://avatars.githubusercontent.com/u/442924?s=72&u=86d557c9c4316178c7a4a079b7b6461d4ca1a6e8&v=4" width="24" alt="Avatar of pfrenssen"/> pfrenssen
 			</a><br/>
@@ -3059,9 +3046,23 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>172</td>
-		<td>712</td>
+		<td>715</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/bbsbb">
+				<img src="https://avatars.githubusercontent.com/u/6582764?s=72&u=8a8a58fe68b5c163845283dd8cd71e79b3550917&v=4" width="24" alt="Avatar of bbsbb"/> bbsbb
+			</a><br/>
+			Boyan Bonev
+		</td>
+		<td>Stemmaai </td>
+		<td>No Twitter Username</td>
+		<td>Sofia BG</td>
+		<td>0</td>
+		<td>715</td>
 	</tr>
 	<tr>
 		<td>212</td>
@@ -3101,7 +3102,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Yambol, Bulgaria </td>
+		<td>Yambol Bulgaria </td>
 		<td>361</td>
 		<td>680</td>
 	</tr>
@@ -3115,7 +3116,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Software University Softuniorg </td>
 		<td><a href="https://twitter.com/svetlinnakov">svetlinnakov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>434</td>
 		<td>679</td>
 	</tr>
@@ -3143,54 +3144,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>677</td>
 		<td>677</td>
 	</tr>
 	<tr>
 		<td>218</td>
-		<td>
-			<a href="https://github.com/onqtam">
-				<img src="https://avatars.githubusercontent.com/u/4648169?s=72&u=282e8ad4ae48b574f7fc03d618a0d234f8b5b0ac&v=4" width="24" alt="Avatar of onqtam"/> onqtam
-			</a><br/>
-			Viktor Kirilov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KirilovVik">KirilovVik</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>673</td>
-		<td>673</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/kalkov">
-				<img src="https://avatars.githubusercontent.com/u/103871?s=72&u=d24a5e65989e07f2d969cea0315b8597724e9323&v=4" width="24" alt="Avatar of kalkov"/> kalkov
-			</a><br/>
-			Vassil Kalkov
-		</td>
-		<td>Santiment  </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>46</td>
-		<td>672</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/alexa984">
-				<img src="https://avatars.githubusercontent.com/u/12685856?s=72&u=257722fcbb5f2aa2269a60e871fa0cdbaf79844d&v=4" width="24" alt="Avatar of alexa984"/> alexa984
-			</a><br/>
-			Aleksandra Yovkova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>0</td>
-		<td>667</td>
-	</tr>
-	<tr>
-		<td>221</td>
 		<td>
 			<a href="https://github.com/KristianMariyanov">
 				<img src="https://avatars.githubusercontent.com/u/6886919?s=72&u=0dee654147cb783a2747002e8c92b70fdf1cf804&v=4" width="24" alt="Avatar of KristianMariyanov"/> KristianMariyanov
@@ -3201,10 +3160,66 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/kris_mariyanov">kris_mariyanov</a></td>
 		<td>Sofia</td>
 		<td>20</td>
-		<td>666</td>
+		<td>674</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/onqtam">
+				<img src="https://avatars.githubusercontent.com/u/4648169?s=72&u=282e8ad4ae48b574f7fc03d618a0d234f8b5b0ac&v=4" width="24" alt="Avatar of onqtam"/> onqtam
+			</a><br/>
+			Viktor Kirilov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KirilovVik">KirilovVik</a></td>
+		<td>Sofia Bulgaria</td>
+		<td>673</td>
+		<td>673</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/kalkov">
+				<img src="https://avatars.githubusercontent.com/u/103871?s=72&u=d24a5e65989e07f2d969cea0315b8597724e9323&v=4" width="24" alt="Avatar of kalkov"/> kalkov
+			</a><br/>
+			Vassil Kalkov
+		</td>
+		<td>@santiment  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>46</td>
+		<td>672</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/alexa984">
+				<img src="https://avatars.githubusercontent.com/u/12685856?s=72&u=257722fcbb5f2aa2269a60e871fa0cdbaf79844d&v=4" width="24" alt="Avatar of alexa984"/> alexa984
+			</a><br/>
+			Aleksandra Yovkova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>0</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>222</td>
+		<td>
+			<a href="https://github.com/Daniel-K-Ivanov">
+				<img src="https://avatars.githubusercontent.com/u/12232750?s=72&u=a0554d8c1e3529e16af844483807f4fd4ad5db3b&v=4" width="24" alt="Avatar of Daniel-K-Ivanov"/> Daniel-K-Ivanov
+			</a><br/>
+			Daniel Ivanov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/danielkivanov">danielkivanov</a></td>
+		<td>Sofia Bulgaria</td>
+		<td>288</td>
+		<td>666</td>
+	</tr>
+	<tr>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/svrakata">
 				<img src="https://avatars.githubusercontent.com/u/17287274?s=72&u=a9ee44ccbfabfb822ab963961809b56ca358707d&v=4" width="24" alt="Avatar of svrakata"/> svrakata
@@ -3218,7 +3233,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>666</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/simeon-petrov-5">
 				<img src="https://avatars.githubusercontent.com/u/15708352?s=72&u=d40d97731deb63e00b3107ab699a02b41be55794&v=4" width="24" alt="Avatar of simeon-petrov-5"/> simeon-petrov-5
@@ -3227,22 +3242,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Blubito Ag </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>86</td>
-		<td>664</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/Daniel-K-Ivanov">
-				<img src="https://avatars.githubusercontent.com/u/12232750?s=72&u=a0554d8c1e3529e16af844483807f4fd4ad5db3b&v=4" width="24" alt="Avatar of Daniel-K-Ivanov"/> Daniel-K-Ivanov
-			</a><br/>
-			Daniel Ivanov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/danielkivanov">danielkivanov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>288</td>
 		<td>664</td>
 	</tr>
 	<tr>
@@ -3267,7 +3268,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Vladimir Alexiev
 		</td>
-		<td>Ontotextad </td>
+		<td>@ontotextad </td>
 		<td><a href="https://twitter.com/valexiev1">valexiev1</a></td>
 		<td>Bulgaria</td>
 		<td>449</td>
@@ -3281,11 +3282,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Bozhidar Batsov
 		</td>
-		<td>Toptal Toptal </td>
+		<td>Toptal @toptal </td>
 		<td><a href="https://twitter.com/bbatsov">bbatsov</a></td>
 		<td>Bulgaria</td>
-		<td>656</td>
-		<td>656</td>
+		<td>657</td>
+		<td>657</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3297,7 +3298,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Digital Lights Ltd </td>
 		<td><a href="https://twitter.com/azlekov">azlekov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>42</td>
 		<td>652</td>
 	</tr>
@@ -3307,13 +3308,13 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/akostadinov">
 				<img src="https://avatars.githubusercontent.com/u/1408661?s=72&v=4" width="24" alt="Avatar of akostadinov"/> akostadinov
 			</a><br/>
-			Aleksandar N. Kostadinov
+			Aleksandar N Kostadinov
 		</td>
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>641</td>
-		<td>641</td>
+		<td>643</td>
+		<td>643</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -3337,9 +3338,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Kristiyan Stoimenov
 		</td>
-		<td>Elsys Fmi </td>
+		<td>@elsys @fmi </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>448</td>
 		<td>628</td>
 	</tr>
@@ -3351,9 +3352,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Boris Filipov
 		</td>
-		<td>Camplight  </td>
+		<td>@camplight  </td>
 		<td>No Twitter Username</td>
-		<td>Pleven, Bulgaria</td>
+		<td>Pleven Bulgaria</td>
 		<td>0</td>
 		<td>626</td>
 	</tr>
@@ -3365,9 +3366,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Vladimir Blaskov
 		</td>
-		<td>Transportapi </td>
+		<td>@transportapi </td>
 		<td><a href="https://twitter.com/blaskov">blaskov</a></td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>2</td>
 		<td>625</td>
 	</tr>
@@ -3395,7 +3396,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>614</td>
 		<td>614</td>
 	</tr>
@@ -3407,7 +3408,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Daniel Georgiev
 		</td>
-		<td>Dabanny  </td>
+		<td>@dabanny  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>35</td>
@@ -3421,7 +3422,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Vlad Sabev
 		</td>
-		<td>Pactinteractive  </td>
+		<td>@pactinteractive  </td>
 		<td><a href="https://twitter.com/vdsabev">vdsabev</a></td>
 		<td>Bulgaria</td>
 		<td>171</td>
@@ -3435,9 +3436,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Yan Sern
 		</td>
-		<td>Automattic </td>
+		<td>@automattic </td>
 		<td>No Twitter Username</td>
-		<td>Rotterdam, NL / Sofia, BG</td>
+		<td>Rotterdam NL  Sofia BG</td>
 		<td>545</td>
 		<td>604</td>
 	</tr>
@@ -3465,7 +3466,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sumup </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>597</td>
 	</tr>
@@ -3477,9 +3478,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Elena Gancheva
 		</td>
-		<td>Telerik  </td>
+		<td>@telerik  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>35</td>
 		<td>593</td>
 	</tr>
@@ -3493,7 +3494,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>163</td>
 		<td>593</td>
 	</tr>
@@ -3521,7 +3522,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>538</td>
 		<td>592</td>
 	</tr>
@@ -3535,9 +3536,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv,Bulgaria</td>
-		<td>588</td>
-		<td>588</td>
+		<td>PlovdivBulgaria</td>
+		<td>589</td>
+		<td>589</td>
 	</tr>
 	<tr>
 		<td>246</td>
@@ -3549,7 +3550,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>588</td>
 		<td>588</td>
 	</tr>
@@ -3577,26 +3578,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>158</td>
 		<td>582</td>
 	</tr>
 	<tr>
 		<td>249</td>
-		<td>
-			<a href="https://github.com/hawkgs">
-				<img src="https://avatars.githubusercontent.com/u/4449497?s=72&u=064aec775c35d44aa434620afa7479a7f43ec94b&v=4" width="24" alt="Avatar of hawkgs"/> hawkgs
-			</a><br/>
-			Georgi Serev
-		</td>
-		<td>Tellhealth  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>91</td>
-		<td>581</td>
-	</tr>
-	<tr>
-		<td>250</td>
 		<td>
 			<a href="https://github.com/danielng01">
 				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"/> danielng01
@@ -3605,9 +3592,23 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Httpsiristechco </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>24</td>
-		<td>580</td>
+		<td>581</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/hawkgs">
+				<img src="https://avatars.githubusercontent.com/u/4449497?s=72&u=064aec775c35d44aa434620afa7479a7f43ec94b&v=4" width="24" alt="Avatar of hawkgs"/> hawkgs
+			</a><br/>
+			Georgi Serev
+		</td>
+		<td>@tellhealth  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>91</td>
+		<td>581</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -3620,8 +3621,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Evolution </td>
 		<td><a href="https://twitter.com/katzacodo">katzacodo</a></td>
 		<td>Sofia</td>
-		<td>84</td>
-		<td>578</td>
+		<td>85</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>252</td>
@@ -3647,9 +3648,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>575</td>
-		<td>575</td>
+		<td>Sofia Bulgaria</td>
+		<td>576</td>
+		<td>576</td>
 	</tr>
 	<tr>
 		<td>254</td>
@@ -3661,7 +3662,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>50</td>
 		<td>571</td>
 	</tr>
@@ -3671,11 +3672,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/joneff">
 				<img src="https://avatars.githubusercontent.com/u/8048?s=72&u=ec354b1ea9838f7b6690ea62b9def99cc16b22b2&v=4" width="24" alt="Avatar of joneff"/> joneff
 			</a><br/>
-			Иван Жеков
+			 
 		</td>
-		<td>Telerik </td>
+		<td>@telerik </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>103</td>
 		<td>570</td>
 	</tr>
@@ -3687,9 +3688,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Dimitar Todorov
 		</td>
-		<td>Findmecure </td>
+		<td>@findmecure </td>
 		<td>No Twitter Username</td>
-		<td>Haskovo, Bulgaria</td>
+		<td>Haskovo Bulgaria</td>
 		<td>5</td>
 		<td>562</td>
 	</tr>
@@ -3703,7 +3704,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>557</td>
 		<td>557</td>
 	</tr>
@@ -3715,9 +3716,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Oleg Agafonov
 		</td>
-		<td>Restcomm  Sip3io Byzantionxyz<br/><br/></td>
+		<td>@restcomm  @sip3io @byzantionxyz<br/><br/></td>
 		<td><a href="https://twitter.com/agaf0x">agaf0x</a></td>
-		<td>Varna, BG - Moscow, RU</td>
+		<td>Varna BG  Moscow RU</td>
 		<td>42</td>
 		<td>556</td>
 	</tr>
@@ -3731,7 +3732,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>353</td>
 		<td>554</td>
 	</tr>
@@ -3743,9 +3744,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Matus Goljer
 		</td>
-		<td>Ydistri </td>
+		<td>@ydistri </td>
 		<td><a href="https://twitter.com/Fuco1337">Fuco1337</a></td>
-		<td>Czech Republic, Bulgaria</td>
+		<td>Czech Republic Bulgaria</td>
 		<td>538</td>
 		<td>550</td>
 	</tr>
@@ -3757,11 +3758,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alex Popov
 		</td>
-		<td>Toptal </td>
+		<td>@toptal </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>9</td>
-		<td>549</td>
+		<td>550</td>
 	</tr>
 	<tr>
 		<td>262</td>
@@ -3769,11 +3770,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/neolit123">
 				<img src="https://avatars.githubusercontent.com/u/331852?s=72&v=4" width="24" alt="Avatar of neolit123"/> neolit123
 			</a><br/>
-			Lubomir I. Ivanov
+			Lubomir I Ivanov
 		</td>
 		<td>Vmware </td>
 		<td>No Twitter Username</td>
-		<td>Varna, BG</td>
+		<td>Varna BG</td>
 		<td>548</td>
 		<td>548</td>
 	</tr>
@@ -3787,7 +3788,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Reactive Solutions Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>144</td>
 		<td>544</td>
 	</tr>
@@ -3799,9 +3800,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alex Bogdanovski
 		</td>
-		<td>Erudika </td>
+		<td>@erudika </td>
 		<td><a href="https://twitter.com/albogdano">albogdano</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>367</td>
 		<td>540</td>
 	</tr>
@@ -3813,9 +3814,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Vasil Bachev
 		</td>
-		<td>Financialtimes  </td>
+		<td>@financialtimes  </td>
 		<td><a href="https://twitter.com/vbachev">vbachev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>540</td>
 	</tr>
@@ -3827,7 +3828,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ivan Dokov
 		</td>
-		<td>Jetspark  </td>
+		<td>@jetspark  </td>
 		<td><a href="https://twitter.com/IvanDokov">IvanDokov</a></td>
 		<td>Bulgaria</td>
 		<td>55</td>
@@ -3843,7 +3844,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Blagoevgrad, Bulgaria</td>
+		<td>Blagoevgrad Bulgaria</td>
 		<td>328</td>
 		<td>535</td>
 	</tr>
@@ -3855,9 +3856,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ventsislav Nikolov
 		</td>
-		<td>Rubylift </td>
+		<td>@rubylift </td>
 		<td><a href="https://twitter.com/ventsislaf">ventsislaf</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>38</td>
 		<td>518</td>
 	</tr>
@@ -3869,14 +3870,28 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Pavel Atanasov
 		</td>
-		<td>Limechain </td>
+		<td>@limechain </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>469</td>
 		<td>514</td>
 	</tr>
 	<tr>
 		<td>270</td>
+		<td>
+			<a href="https://github.com/fakeheal">
+				<img src="https://avatars.githubusercontent.com/u/1038697?s=72&v=4" width="24" alt="Avatar of fakeheal"/> fakeheal
+			</a><br/>
+			Ivanka Todorova
+		</td>
+		<td>@cardwisetcg </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>101</td>
+		<td>510</td>
+	</tr>
+	<tr>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/slavivanov">
 				<img src="https://avatars.githubusercontent.com/u/713329?s=72&v=4" width="24" alt="Avatar of slavivanov"/> slavivanov
@@ -3885,23 +3900,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>29</td>
 		<td>510</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/fakeheal">
-				<img src="https://avatars.githubusercontent.com/u/1038697?s=72&v=4" width="24" alt="Avatar of fakeheal"/> fakeheal
-			</a><br/>
-			Ivanka Todorova
-		</td>
-		<td>Cardwisetcg </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>101</td>
-		<td>508</td>
 	</tr>
 	<tr>
 		<td>272</td>
@@ -3913,7 +3914,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Carspending </td>
 		<td><a href="https://twitter.com/ddinchev">ddinchev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>508</td>
 	</tr>
@@ -3925,11 +3926,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Stefan Dobrev
 		</td>
-		<td>St6io  </td>
+		<td>@st6io  </td>
 		<td><a href="https://twitter.com/ligaz">ligaz</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>20</td>
-		<td>505</td>
+		<td>507</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -3937,11 +3938,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/StanislavNikolov">
 				<img src="https://avatars.githubusercontent.com/u/10270328?s=72&u=433a384f52ff3a1ce5bd12ddffb2b12afda2f7de&v=4" width="24" alt="Avatar of StanislavNikolov"/> StanislavNikolov
 			</a><br/>
-			Stanislav Ch. Nikolov
+			Stanislav Ch Nikolov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>113</td>
 		<td>499</td>
 	</tr>
@@ -3969,12 +3970,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>11</td>
 		<td>494</td>
 	</tr>
 	<tr>
 		<td>277</td>
+		<td>
+			<a href="https://github.com/dinamic">
+				<img src="https://avatars.githubusercontent.com/u/11616?s=72&u=e3cdee7c97bb5488830d4245c327677ef87404a6&v=4" width="24" alt="Avatar of dinamic"/> dinamic
+			</a><br/>
+			Nikola Petkanski
+		</td>
+		<td>@salsapartybg  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>7</td>
+		<td>486</td>
+	</tr>
+	<tr>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/KleoPetroff">
 				<img src="https://avatars.githubusercontent.com/u/8289691?s=72&u=a7cd8d6b2a90595323f7eed0aedcd13cb02f5f2c&v=4" width="24" alt="Avatar of KleoPetroff"/> KleoPetroff
@@ -3983,12 +3998,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KleoPetroff">KleoPetroff</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>40</td>
 		<td>483</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/NibbleByte">
 				<img src="https://avatars.githubusercontent.com/u/2332996?s=72&u=14089d30fadfeb17dd4067a4dea9e43235490b0e&v=4" width="24" alt="Avatar of NibbleByte"/> NibbleByte
@@ -3997,22 +4012,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>483</td>
-		<td>483</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/dinamic">
-				<img src="https://avatars.githubusercontent.com/u/11616?s=72&u=e3cdee7c97bb5488830d4245c327677ef87404a6&v=4" width="24" alt="Avatar of dinamic"/> dinamic
-			</a><br/>
-			Nikola Petkanski
-		</td>
-		<td>Salsapartybg  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>7</td>
 		<td>483</td>
 	</tr>
 	<tr>
@@ -4025,7 +4026,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Elin Pelin</td>
+		<td>Bulgaria Elin Pelin</td>
 		<td>481</td>
 		<td>481</td>
 	</tr>
@@ -4039,7 +4040,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kyustendil, Bulgaria</td>
+		<td>Kyustendil Bulgaria</td>
 		<td>478</td>
 		<td>478</td>
 	</tr>
@@ -4053,7 +4054,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>291</td>
 		<td>477</td>
 	</tr>
@@ -4065,38 +4066,38 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Rubens de Melo
 		</td>
-		<td>Ibm </td>
+		<td>@ibm </td>
 		<td><a href="https://twitter.com/rubensdemelo">rubensdemelo</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>84</td>
 		<td>476</td>
 	</tr>
 	<tr>
 		<td>284</td>
 		<td>
-			<a href="https://github.com/antonpetkoff">
-				<img src="https://avatars.githubusercontent.com/u/4152757?s=72&u=af22091deb0d71dcb362d7570ea6c737f2120579&v=4" width="24" alt="Avatar of antonpetkoff"/> antonpetkoff
-			</a><br/>
-			Anton Petkov
-		</td>
-		<td>Dext </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>0</td>
-		<td>469</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
 			<a href="https://github.com/lachezarbozhkov">
 				<img src="https://avatars.githubusercontent.com/u/15607871?s=72&u=cfc72a99a085abb2617b2d2a88303c8ed1c76891&v=4" width="24" alt="Avatar of lachezarbozhkov"/> lachezarbozhkov
 			</a><br/>
 			Lachezar Bozhkov
 		</td>
-		<td>Dext </td>
+		<td>@dext </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>4</td>
+		<td>Sofia Bulgaria</td>
+		<td>5</td>
+		<td>470</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/antonpetkoff">
+				<img src="https://avatars.githubusercontent.com/u/4152757?s=72&u=af22091deb0d71dcb362d7570ea6c737f2120579&v=4" width="24" alt="Avatar of antonpetkoff"/> antonpetkoff
+			</a><br/>
+			Anton Petkov
+		</td>
+		<td>@dext </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>0</td>
 		<td>469</td>
 	</tr>
 	<tr>
@@ -4123,7 +4124,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>456</td>
 		<td>467</td>
 	</tr>
@@ -4137,7 +4138,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>463</td>
 		<td>463</td>
 	</tr>
@@ -4163,9 +4164,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Plamen Nikolov
 		</td>
-		<td>Weareathlon  </td>
+		<td>@weareathlon  </td>
 		<td><a href="https://twitter.com/pvnikolov">pvnikolov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>309</td>
 		<td>461</td>
 	</tr>
@@ -4177,9 +4178,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alexander Gekov
 		</td>
-		<td>Talentsight </td>
+		<td>@talentsight </td>
 		<td><a href="https://twitter.com/AlexanderGekov">AlexanderGekov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>133</td>
 		<td>460</td>
 	</tr>
@@ -4193,7 +4194,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Lancelotmobile Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>56</td>
 		<td>458</td>
 	</tr>
@@ -4205,9 +4206,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Svetloslav Novoselski
 		</td>
-		<td>Jiminny </td>
+		<td>@jiminny </td>
 		<td><a href="https://twitter.com/SvetliDev">SvetliDev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>219</td>
 		<td>454</td>
 	</tr>
@@ -4219,9 +4220,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ivan Siderov
 		</td>
-		<td>Accedia </td>
+		<td>@accedia </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria </td>
+		<td>Sofia Bulgaria </td>
 		<td>26</td>
 		<td>450</td>
 	</tr>
@@ -4235,7 +4236,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>447</td>
 		<td>447</td>
 	</tr>
@@ -4249,7 +4250,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dext </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>440</td>
 	</tr>
@@ -4261,11 +4262,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Deyan Dobromirov
 		</td>
-		<td>Senior Application Developer Codixbg<br/></td>
+		<td>Senior Application Developer @codixbg<br/></td>
 		<td><a href="https://twitter.com/DeyanDobromirov">DeyanDobromirov</a></td>
-		<td>Asen Jordanov 23, Bozhurishte, Sofia, Bulgaria</td>
-		<td>438</td>
-		<td>438</td>
+		<td>Asen Jordanov 23 Bozhurishte Sofia Bulgaria</td>
+		<td>439</td>
+		<td>439</td>
 	</tr>
 	<tr>
 		<td>298</td>
@@ -4277,7 +4278,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>296</td>
 		<td>433</td>
 	</tr>
@@ -4291,7 +4292,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Mongodb </td>
 		<td><a href="https://twitter.com/StanimiraVlaeva">StanimiraVlaeva</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>268</td>
 		<td>429</td>
 	</tr>
@@ -4319,7 +4320,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Ethereum Foundation </td>
 		<td><a href="https://twitter.com/ogenev0">ogenev0</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>426</td>
 		<td>428</td>
 	</tr>
@@ -4333,7 +4334,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/georgiev_val">georgiev_val</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>6</td>
 		<td>420</td>
 	</tr>
@@ -4361,7 +4362,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>380</td>
 		<td>420</td>
 	</tr>
@@ -4375,7 +4376,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vmware Carbon Black </td>
 		<td><a href="https://twitter.com/a_sankov">a_sankov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>347</td>
 		<td>414</td>
 	</tr>
@@ -4389,7 +4390,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sliven, Bulgaria</td>
+		<td>Sliven Bulgaria</td>
 		<td>238</td>
 		<td>412</td>
 	</tr>
@@ -4403,7 +4404,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>410</td>
 		<td>410</td>
 	</tr>
@@ -4417,26 +4418,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KrisApost1">KrisApost1</a></td>
-		<td>The EVM, Bulgaria</td>
+		<td>The EVM Bulgaria</td>
 		<td>33</td>
 		<td>406</td>
 	</tr>
 	<tr>
 		<td>309</td>
-		<td>
-			<a href="https://github.com/braboj">
-				<img src="https://avatars.githubusercontent.com/u/66906831?s=72&u=9e75aa19da1b62b991fc6d42977ee644e2f111b1&v=4" width="24" alt="Avatar of braboj"/> braboj
-			</a><br/>
-			Branimir Georgiev
-		</td>
-		<td>Hilscher </td>
-		<td><a href="https://twitter.com/bhaibranko">bhaibranko</a></td>
-		<td>Varna, Bulgaria</td>
-		<td>207</td>
-		<td>405</td>
-	</tr>
-	<tr>
-		<td>310</td>
 		<td>
 			<a href="https://github.com/slavchev">
 				<img src="https://avatars.githubusercontent.com/u/3962815?s=72&u=febadf9731ce0a5b94b848c40c96575aa3cde0f7&v=4" width="24" alt="Avatar of slavchev"/> slavchev
@@ -4445,9 +4432,23 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
-		<td>400</td>
+		<td>402</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/braboj">
+				<img src="https://avatars.githubusercontent.com/u/66906831?s=72&u=9e75aa19da1b62b991fc6d42977ee644e2f111b1&v=4" width="24" alt="Avatar of braboj"/> braboj
+			</a><br/>
+			Branimir Georgiev
+		</td>
+		<td>@hilscher </td>
+		<td><a href="https://twitter.com/bhaibranko">bhaibranko</a></td>
+		<td>Varna Bulgaria</td>
+		<td>207</td>
+		<td>401</td>
 	</tr>
 	<tr>
 		<td>311</td>
@@ -4459,7 +4460,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Gabrovo, Bulgaria</td>
+		<td>Gabrovo Bulgaria</td>
 		<td>3</td>
 		<td>397</td>
 	</tr>
@@ -4471,9 +4472,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Hristiyan Dodov
 		</td>
-		<td>Oblikstudio  </td>
+		<td>@oblikstudio  </td>
 		<td><a href="https://twitter.com/yandodov">yandodov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>126</td>
 		<td>393</td>
 	</tr>
@@ -4501,7 +4502,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Information Services Jsc </td>
 		<td><a href="https://twitter.com/vakata">vakata</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>125</td>
 		<td>389</td>
 	</tr>
@@ -4515,7 +4516,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Zencodeo </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>64</td>
 		<td>388</td>
 	</tr>
@@ -4539,11 +4540,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/vrstanchev">
 				<img src="https://avatars.githubusercontent.com/u/23107143?s=72&u=56e84f886337eafd4b8c80cc2607764868dc8bcc&v=4" width="24" alt="Avatar of vrstanchev"/> vrstanchev
 			</a><br/>
-			Veselin Stanchev,Eng. MSc
+			Veselin StanchevEng MSc
 		</td>
 		<td>Technical University Plovdiv </td>
 		<td><a href="https://twitter.com/vrstanchev">vrstanchev</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>387</td>
 		<td>387</td>
 	</tr>
@@ -4557,7 +4558,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>386</td>
 		<td>386</td>
 	</tr>
@@ -4571,7 +4572,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>377</td>
 		<td>377</td>
 	</tr>
@@ -4585,7 +4586,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Strypes </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>199</td>
 		<td>371</td>
 	</tr>
@@ -4599,7 +4600,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Strypes </td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>122</td>
 		<td>370</td>
 	</tr>
@@ -4613,7 +4614,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>370</td>
 		<td>370</td>
 	</tr>
@@ -4641,7 +4642,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mnedelchev_">mnedelchev_</a></td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>170</td>
 		<td>369</td>
 	</tr>
@@ -4655,7 +4656,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>347</td>
 		<td>369</td>
 	</tr>
@@ -4669,7 +4670,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Context Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Plovdiv</td>
+		<td>Bulgaria Plovdiv</td>
 		<td>366</td>
 		<td>366</td>
 	</tr>
@@ -4683,12 +4684,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td> Ipt  Intellectual<br/>Products<br/><br/>Technologies<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>363</td>
 		<td>363</td>
 	</tr>
 	<tr>
 		<td>328</td>
+		<td>
+			<a href="https://github.com/SimeonHristov99">
+				<img src="https://avatars.githubusercontent.com/u/43776531?s=72&u=ac578b9f9836c72d32aee756288d7f5d950eb85f&v=4" width="24" alt="Avatar of SimeonHristov99"/> SimeonHristov99
+			</a><br/>
+			Simeon Hristov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>FMI Sofia</td>
+		<td>255</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/Whimfoome">
 				<img src="https://avatars.githubusercontent.com/u/42871796?s=72&u=76096995983f24c0d21197742a4f97de6b7ee1fd&v=4" width="24" alt="Avatar of Whimfoome"/> Whimfoome
@@ -4702,20 +4717,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>361</td>
 	</tr>
 	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/SimeonHristov99">
-				<img src="https://avatars.githubusercontent.com/u/43776531?s=72&u=ac578b9f9836c72d32aee756288d7f5d950eb85f&v=4" width="24" alt="Avatar of SimeonHristov99"/> SimeonHristov99
-			</a><br/>
-			Simeon Hristov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>FMI Sofia</td>
-		<td>254</td>
-		<td>360</td>
-	</tr>
-	<tr>
 		<td>330</td>
 		<td>
 			<a href="https://github.com/xavortm">
@@ -4725,7 +4726,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>10up </td>
 		<td><a href="https://twitter.com/xavortm">xavortm</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>20</td>
 		<td>359</td>
 	</tr>
@@ -4767,7 +4768,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Newsuk </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>48</td>
 		<td>353</td>
 	</tr>
@@ -4777,11 +4778,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/Ivan-Kalatchev">
 				<img src="https://avatars.githubusercontent.com/u/28691097?s=72&u=a69579e29e00f32faeef216382374b2f64383d5b&v=4" width="24" alt="Avatar of Ivan-Kalatchev"/> Ivan-Kalatchev
 			</a><br/>
-			Иван Калъчев
+			 
 		</td>
 		<td>Skyware Group </td>
 		<td><a href="https://twitter.com/kalatchev_365">kalatchev_365</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>31</td>
 		<td>351</td>
 	</tr>
@@ -4837,7 +4838,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/r_genchev">r_genchev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>349</td>
 	</tr>
@@ -4851,7 +4852,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Adesso Bulgaria </td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>0</td>
 		<td>345</td>
 	</tr>
@@ -4879,7 +4880,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>339</td>
 		<td>339</td>
 	</tr>
@@ -4891,9 +4892,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Petar
 		</td>
-		<td>Mentormate </td>
+		<td>@mentormate </td>
 		<td>No Twitter Username</td>
-		<td>Veliko Tarnovo, Bulgaria</td>
+		<td>Veliko Tarnovo Bulgaria</td>
 		<td>339</td>
 		<td>339</td>
 	</tr>
@@ -4935,26 +4936,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>336</td>
 		<td>336</td>
 	</tr>
 	<tr>
 		<td>346</td>
-		<td>
-			<a href="https://github.com/Ssmidge">
-				<img src="https://avatars.githubusercontent.com/u/43932476?s=72&u=104933d8d0eaa0a3d1182ee78cc9c8198b6816b2&v=4" width="24" alt="Avatar of Ssmidge"/> Ssmidge
-			</a><br/>
-			Adrian T
-		</td>
-		<td>Weliketocodestuff </td>
-		<td><a href="https://twitter.com/ignSsmidge">ignSsmidge</a></td>
-		<td>Montreal, Canada & Sofia, Bulgaria</td>
-		<td>44</td>
-		<td>336</td>
-	</tr>
-	<tr>
-		<td>347</td>
 		<td>
 			<a href="https://github.com/sytolk">
 				<img src="https://avatars.githubusercontent.com/u/1415463?s=72&u=c2c0f216c85bf7a2b44746a90101961612f7c232&v=4" width="24" alt="Avatar of sytolk"/> sytolk
@@ -4963,9 +4950,23 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Structmedia </td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
-		<td>335</td>
-		<td>335</td>
+		<td>Burgas Bulgaria</td>
+		<td>336</td>
+		<td>336</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/Ssmidge">
+				<img src="https://avatars.githubusercontent.com/u/43932476?s=72&u=104933d8d0eaa0a3d1182ee78cc9c8198b6816b2&v=4" width="24" alt="Avatar of Ssmidge"/> Ssmidge
+			</a><br/>
+			Adrian T
+		</td>
+		<td>@weliketocodestuff </td>
+		<td><a href="https://twitter.com/ignSsmidge">ignSsmidge</a></td>
+		<td>Montreal Canada  Sofia Bulgaria</td>
+		<td>44</td>
+		<td>336</td>
 	</tr>
 	<tr>
 		<td>348</td>
@@ -4991,26 +4992,40 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Httpwwwenickorg </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>333</td>
 		<td>333</td>
 	</tr>
 	<tr>
 		<td>350</td>
 		<td>
+			<a href="https://github.com/kidroca">
+				<img src="https://avatars.githubusercontent.com/u/12156624?s=72&v=4" width="24" alt="Avatar of kidroca"/> kidroca
+			</a><br/>
+			Peter Velkov
+		</td>
+		<td>Inceptdevelopment </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>325</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
 			<a href="https://github.com/radi-cho">
 				<img src="https://avatars.githubusercontent.com/u/12954909?s=72&u=338d088598979a6e6e29232c222250c97c7d1584&v=4" width="24" alt="Avatar of radi-cho"/> radi-cho
 			</a><br/>
 			Radi Cho
 		</td>
-		<td>Rsggroup </td>
+		<td>@rsggroup </td>
 		<td><a href="https://twitter.com/radi_cho">radi_cho</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>180</td>
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/mihail-petrov">
 				<img src="https://avatars.githubusercontent.com/u/849655?s=72&u=f56bdb8aeb0814144530ff18a290f77634364b48&v=4" width="24" alt="Avatar of mihail-petrov"/> mihail-petrov
@@ -5024,7 +5039,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/ikawrakow">
 				<img src="https://avatars.githubusercontent.com/u/48489457?s=72&v=4" width="24" alt="Avatar of ikawrakow"/> ikawrakow
@@ -5033,12 +5048,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Viewray </td>
 		<td>No Twitter Username</td>
-		<td>Italy & Bulgaria</td>
+		<td>Italy  Bulgaria</td>
 		<td>205</td>
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/Benkolov">
 				<img src="https://avatars.githubusercontent.com/u/111705203?s=72&u=06585d89be42ef72a42fe72a446a17472ac9108e&v=4" width="24" alt="Avatar of Benkolov"/> Benkolov
@@ -5052,20 +5067,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/kidroca">
-				<img src="https://avatars.githubusercontent.com/u/12156624?s=72&v=4" width="24" alt="Avatar of kidroca"/> kidroca
-			</a><br/>
-			Peter Velkov
-		</td>
-		<td>Inceptdevelopment </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>316</td>
-		<td>317</td>
-	</tr>
-	<tr>
 		<td>355</td>
 		<td>
 			<a href="https://github.com/dnaeon">
@@ -5075,7 +5076,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>316</td>
 		<td>316</td>
 	</tr>
@@ -5089,7 +5090,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>179</td>
 		<td>315</td>
 	</tr>
@@ -5103,7 +5104,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Progress </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>286</td>
 		<td>313</td>
 	</tr>
@@ -5115,7 +5116,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Orlix
 		</td>
-		<td>Vmwaretanzu Vmware  </td>
+		<td>@vmwaretanzu @vmware  </td>
 		<td><a href="https://twitter.com/OrlinVasilev">OrlinVasilev</a></td>
 		<td>Bulgaria</td>
 		<td>292</td>
@@ -5145,7 +5146,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Unemployed Enthusiast </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>247</td>
 		<td>307</td>
 	</tr>
@@ -5159,7 +5160,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>302</td>
 		<td>302</td>
 	</tr>
@@ -5173,7 +5174,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Quantive </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>296</td>
 	</tr>
@@ -5185,9 +5186,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Yordan Valkov
 		</td>
-		<td>Softuni </td>
+		<td>@softuni </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>296</td>
 		<td>296</td>
 	</tr>
@@ -5201,7 +5202,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Ruse</td>
+		<td>Bulgaria Ruse</td>
 		<td>293</td>
 		<td>293</td>
 	</tr>
@@ -5215,12 +5216,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>289</td>
 		<td>289</td>
 	</tr>
 	<tr>
 		<td>366</td>
+		<td>
+			<a href="https://github.com/aChaushev">
+				<img src="https://avatars.githubusercontent.com/u/119160647?s=72&u=4742131beaa5f5b668e4996a64bdcd92af66bbeb&v=4" width="24" alt="Avatar of aChaushev"/> aChaushev
+			</a><br/>
+			Alexandar Chaushev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>PlovdivBulgaria</td>
+		<td>289</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/peterlevi">
 				<img src="https://avatars.githubusercontent.com/u/1457048?s=72&v=4" width="24" alt="Avatar of peterlevi"/> peterlevi
@@ -5234,20 +5249,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>288</td>
 	</tr>
 	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/aChaushev">
-				<img src="https://avatars.githubusercontent.com/u/119160647?s=72&u=4742131beaa5f5b668e4996a64bdcd92af66bbeb&v=4" width="24" alt="Avatar of aChaushev"/> aChaushev
-			</a><br/>
-			Alexandar Chaushev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Plovdiv,Bulgaria</td>
-		<td>288</td>
-		<td>288</td>
-	</tr>
-	<tr>
 		<td>368</td>
 		<td>
 			<a href="https://github.com/ShieldifyMartin">
@@ -5257,7 +5258,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Shieldify </td>
 		<td><a href="https://twitter.com/ShieldifyMartin">ShieldifyMartin</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>161</td>
 		<td>287</td>
 	</tr>
@@ -5271,7 +5272,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/rgerganov">rgerganov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>201</td>
 		<td>285</td>
 	</tr>
@@ -5285,7 +5286,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>285</td>
 		<td>285</td>
 	</tr>
@@ -5309,11 +5310,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/kberov">
 				<img src="https://avatars.githubusercontent.com/u/111614?s=72&u=d32f482cd718734caee48b4d8fe6003a04aae63e&v=4" width="24" alt="Avatar of kberov"/> kberov
 			</a><br/>
-			Красимир Беров
+			 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria; Byala Slatina, Bulgaria</td>
+		<td>Sofia Bulgaria Byala Slatina Bulgaria</td>
 		<td>281</td>
 		<td>283</td>
 	</tr>
@@ -5327,7 +5328,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>43</td>
 		<td>282</td>
 	</tr>
@@ -5362,6 +5363,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>376</td>
 		<td>
+			<a href="https://github.com/tsachev">
+				<img src="https://avatars.githubusercontent.com/u/142505?s=72&v=4" width="24" alt="Avatar of tsachev"/> tsachev
+			</a><br/>
+			Vladimir Tsanev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>8</td>
+		<td>277</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
 			<a href="https://github.com/nerf">
 				<img src="https://avatars.githubusercontent.com/u/16040?s=72&v=4" width="24" alt="Avatar of nerf"/> nerf
 			</a><br/>
@@ -5371,10 +5386,10 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>1</td>
-		<td>272</td>
+		<td>273</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/petsto">
 				<img src="https://avatars.githubusercontent.com/u/7047129?s=72&u=d3ee92e15e49a7ffe891b69ec8373cdc0f883022&v=4" width="24" alt="Avatar of petsto"/> petsto
@@ -5383,23 +5398,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Teamworkcom </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>270</td>
-	</tr>
-	<tr>
-		<td>378</td>
-		<td>
-			<a href="https://github.com/tsachev">
-				<img src="https://avatars.githubusercontent.com/u/142505?s=72&v=4" width="24" alt="Avatar of tsachev"/> tsachev
-			</a><br/>
-			Vladimir Tsanev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>3</td>
-		<td>269</td>
 	</tr>
 	<tr>
 		<td>379</td>
@@ -5409,7 +5410,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Me No Dev
 		</td>
-		<td>Espressif </td>
+		<td>@espressif </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>267</td>
@@ -5421,11 +5422,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/mguludag">
 				<img src="https://avatars.githubusercontent.com/u/12413639?s=72&v=4" width="24" alt="Avatar of mguludag"/> mguludag
 			</a><br/>
-			M. Galib Uludag
+			M Galib Uludag
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mguludag">mguludag</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>252</td>
 		<td>264</td>
 	</tr>
@@ -5439,7 +5440,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia , Bulgaria</td>
+		<td>Sofia  Bulgaria</td>
 		<td>1</td>
 		<td>263</td>
 	</tr>
@@ -5467,7 +5468,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>144</td>
 		<td>260</td>
 	</tr>
@@ -5481,7 +5482,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Welovedigi </td>
 		<td>No Twitter Username</td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>92</td>
 		<td>259</td>
 	</tr>
@@ -5495,7 +5496,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Evolution Engineering </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>258</td>
 		<td>258</td>
 	</tr>
@@ -5530,29 +5531,29 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>388</td>
 		<td>
-			<a href="https://github.com/NickyMateev">
-				<img src="https://avatars.githubusercontent.com/u/15074116?s=72&u=7eaaf8436ecfbedcfd8e729a0918f2e844e1bc2c&v=4" width="24" alt="Avatar of NickyMateev"/> NickyMateev
-			</a><br/>
-			Nikolay Mateev
-		</td>
-		<td>Sap  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>51</td>
-		<td>257</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
 			<a href="https://github.com/RadoslavGeorgiev">
 				<img src="https://avatars.githubusercontent.com/u/5311119?s=72&u=8b2115f3b73e0c07f8d3357820e7bdfe07800026&v=4" width="24" alt="Avatar of RadoslavGeorgiev"/> RadoslavGeorgiev
 			</a><br/>
 			Radoslav Georgiev
 		</td>
-		<td>Automattic  </td>
+		<td>@automattic  </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>191</td>
+		<td>258</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/NickyMateev">
+				<img src="https://avatars.githubusercontent.com/u/15074116?s=72&u=7eaaf8436ecfbedcfd8e729a0918f2e844e1bc2c&v=4" width="24" alt="Avatar of NickyMateev"/> NickyMateev
+			</a><br/>
+			Nikolay Mateev
+		</td>
+		<td>@sap  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>51</td>
 		<td>257</td>
 	</tr>
 	<tr>
@@ -5565,9 +5566,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Softuni </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>255</td>
-		<td>255</td>
+		<td>Sofia Bulgaria</td>
+		<td>256</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>391</td>
@@ -5593,7 +5594,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/karadimov">karadimov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>212</td>
 		<td>251</td>
 	</tr>
@@ -5607,7 +5608,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Accedia </td>
 		<td>No Twitter Username</td>
-		<td>Ruse,Bulgaria</td>
+		<td>RuseBulgaria</td>
 		<td>236</td>
 		<td>251</td>
 	</tr>
@@ -5633,9 +5634,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Hakan Chandar
 		</td>
-		<td>Codingburgas </td>
+		<td>@codingburgas </td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>169</td>
 		<td>250</td>
 	</tr>
@@ -5647,9 +5648,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Dimitar Stoyanov
 		</td>
-		<td>Voicelip Vmware Centroida </td>
+		<td>@voicelip @vmware @centroida </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>20</td>
 		<td>248</td>
 	</tr>
@@ -5661,9 +5662,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Slavomir Kaslev
 		</td>
-		<td>Payhawk </td>
+		<td>@payhawk </td>
 		<td><a href="https://twitter.com/skaslev">skaslev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>15</td>
 		<td>244</td>
 	</tr>
@@ -5677,12 +5678,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Euro Games Technology </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>240</td>
 		<td>240</td>
 	</tr>
 	<tr>
 		<td>399</td>
+		<td>
+			<a href="https://github.com/nikoladimitroff">
+				<img src="https://avatars.githubusercontent.com/u/3112182?s=72&u=96c22927e07c2916a69ad2e70016c14f8ba6ed36&v=4" width="24" alt="Avatar of nikoladimitroff"/> nikoladimitroff
+			</a><br/>
+			Nikola Dimitroff
+		</td>
+		<td>Ubisoft Sofia </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>58</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/SilviyaKarageorgiev">
 				<img src="https://avatars.githubusercontent.com/u/92262869?s=72&u=b87831849f852a85e5627272b87801f42d86d21c&v=4" width="24" alt="Avatar of SilviyaKarageorgiev"/> SilviyaKarageorgiev
@@ -5691,12 +5706,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>235</td>
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/lyubolp">
 				<img src="https://avatars.githubusercontent.com/u/17728894?s=72&u=e9c76b9d91f610b9a98551a312e53fb485e6a06e&v=4" width="24" alt="Avatar of lyubolp"/> lyubolp
@@ -5710,20 +5725,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>234</td>
 	</tr>
 	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/nikoladimitroff">
-				<img src="https://avatars.githubusercontent.com/u/3112182?s=72&u=96c22927e07c2916a69ad2e70016c14f8ba6ed36&v=4" width="24" alt="Avatar of nikoladimitroff"/> nikoladimitroff
-			</a><br/>
-			Nikola Dimitroff
-		</td>
-		<td>Ubisoft Sofia </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>58</td>
-		<td>232</td>
-	</tr>
-	<tr>
 		<td>402</td>
 		<td>
 			<a href="https://github.com/pvarna">
@@ -5733,7 +5734,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>229</td>
 		<td>229</td>
 	</tr>
@@ -5761,7 +5762,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Velbazhd Software Llc </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>226</td>
 		<td>226</td>
 	</tr>
@@ -5775,7 +5776,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Gorna Oryahovitsa, Bulgaria</td>
+		<td>Gorna Oryahovitsa Bulgaria</td>
 		<td>225</td>
 		<td>225</td>
 	</tr>
@@ -5787,9 +5788,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Boris Petrov
 		</td>
-		<td>Profuz </td>
+		<td>@profuz </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>224</td>
 		<td>224</td>
 	</tr>
@@ -5801,9 +5802,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Byurhan Nurula
 		</td>
-		<td>Recheckio  </td>
+		<td>@recheckio  </td>
 		<td><a href="https://twitter.com/byurhannurula">byurhannurula</a></td>
-		<td>Ruse, Bulgaria</td>
+		<td>Ruse Bulgaria</td>
 		<td>55</td>
 		<td>222</td>
 	</tr>
@@ -5817,7 +5818,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Yambol</td>
+		<td>Bulgaria Yambol</td>
 		<td>222</td>
 		<td>222</td>
 	</tr>
@@ -5829,9 +5830,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Galin Georgiev
 		</td>
-		<td>Vscpi  Codingburgas </td>
+		<td>Vscpi  @codingburgas </td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>43</td>
 		<td>221</td>
 	</tr>
@@ -5841,11 +5842,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/ydm">
 				<img src="https://avatars.githubusercontent.com/u/568909?s=72&v=4" width="24" alt="Avatar of ydm"/> ydm
 			</a><br/>
-			Йордан Миладинов
+			 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>58</td>
 		<td>220</td>
 	</tr>
@@ -5873,7 +5874,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Radomir, Bulgaria</td>
+		<td>Radomir Bulgaria</td>
 		<td>218</td>
 		<td>218</td>
 	</tr>
@@ -5883,11 +5884,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/NikolayKostadinov">
 				<img src="https://avatars.githubusercontent.com/u/5593368?s=72&u=60a43498484cafc47ff7f1d8f561ce41e54611a5&v=4" width="24" alt="Avatar of NikolayKostadinov"/> NikolayKostadinov
 			</a><br/>
-			Nikolay.Kostadinov
+			NikolayKostadinov
 		</td>
 		<td>Business Management Systems Ltd<br/></td>
 		<td>No Twitter Username</td>
-		<td>Burgas; Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>217</td>
 		<td>217</td>
 	</tr>
@@ -5915,7 +5916,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>215</td>
 		<td>215</td>
 	</tr>
@@ -5929,7 +5930,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>215</td>
 	</tr>
@@ -5943,26 +5944,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Automate The Planet </td>
 		<td><a href="https://twitter.com/angelovstanton">angelovstanton</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>144</td>
 		<td>208</td>
 	</tr>
 	<tr>
 		<td>418</td>
-		<td>
-			<a href="https://github.com/dalexandrov">
-				<img src="https://avatars.githubusercontent.com/u/2016949?s=72&u=27e3404826037198d918045a93b0fd640aaa8680&v=4" width="24" alt="Avatar of dalexandrov"/> dalexandrov
-			</a><br/>
-			Dmitry Aleksandrov
-		</td>
-		<td>Oracle </td>
-		<td><a href="https://twitter.com/bercut2000">bercut2000</a></td>
-		<td>Sofia,Bulgaria/St. Petersburg, Russian Federation</td>
-		<td>148</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>419</td>
 		<td>
 			<a href="https://github.com/tdimitrov">
 				<img src="https://avatars.githubusercontent.com/u/610755?s=72&u=9457bbc90491f8be178aacb762e7d688ed4285ae&v=4" width="24" alt="Avatar of tdimitrov"/> tdimitrov
@@ -5971,8 +5958,22 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tdimitrov">tdimitrov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>206</td>
+		<td>Sofia Bulgaria</td>
+		<td>207</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
+			<a href="https://github.com/dalexandrov">
+				<img src="https://avatars.githubusercontent.com/u/2016949?s=72&u=27e3404826037198d918045a93b0fd640aaa8680&v=4" width="24" alt="Avatar of dalexandrov"/> dalexandrov
+			</a><br/>
+			Dmitry Aleksandrov
+		</td>
+		<td>Oracle </td>
+		<td><a href="https://twitter.com/bercut2000">bercut2000</a></td>
+		<td>SofiaBulgariaSt Petersburg Russian Federation</td>
+		<td>148</td>
 		<td>206</td>
 	</tr>
 	<tr>
@@ -6013,7 +6014,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, BG</td>
+		<td>Sofia BG</td>
 		<td>202</td>
 		<td>202</td>
 	</tr>
@@ -6055,7 +6056,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>197</td>
 		<td>197</td>
 	</tr>
@@ -6069,7 +6070,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sparkle Development </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>196</td>
 	</tr>
@@ -6097,7 +6098,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>149</td>
 		<td>193</td>
 	</tr>
@@ -6111,7 +6112,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>187</td>
 	</tr>
@@ -6123,7 +6124,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Kristian Zhelyazkov
 		</td>
-		<td>Suse </td>
+		<td>@suse </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>187</td>
@@ -6137,9 +6138,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ognyan Angelov
 		</td>
-		<td>Financialtimes  </td>
+		<td>@financialtimes  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>187</td>
 	</tr>
@@ -6160,6 +6161,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>433</td>
 		<td>
+			<a href="https://github.com/icom85">
+				<img src="https://avatars.githubusercontent.com/u/5156494?s=72&u=6f2a624ef750fc650ff9d9048f082de28a7e5f2d&v=4" width="24" alt="Avatar of icom85"/> icom85
+			</a><br/>
+			Hristo Merdjanov
+		</td>
+		<td>@telerik  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>84</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
 			<a href="https://github.com/salif">
 				<img src="https://avatars.githubusercontent.com/u/35408721?s=72&u=555cc564c121c1980a7a93546dc2fa3e89a0672c&v=4" width="24" alt="Avatar of salif"/> salif
 			</a><br/>
@@ -6168,22 +6183,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Open To Work </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>162</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
-			<a href="https://github.com/icom85">
-				<img src="https://avatars.githubusercontent.com/u/5156494?s=72&u=6f2a624ef750fc650ff9d9048f082de28a7e5f2d&v=4" width="24" alt="Avatar of icom85"/> icom85
-			</a><br/>
-			Hristo Merdjanov
-		</td>
-		<td>Telerik  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>84</td>
-		<td>185</td>
+		<td>161</td>
+		<td>184</td>
 	</tr>
 	<tr>
 		<td>435</td>
@@ -6195,7 +6196,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Wso2 </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>178</td>
 		<td>182</td>
 	</tr>
@@ -6209,7 +6210,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Bulagaria</td>
+		<td>SofiaBulagaria</td>
 		<td>0</td>
 		<td>182</td>
 	</tr>
@@ -6223,7 +6224,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>181</td>
 		<td>181</td>
 	</tr>
@@ -6235,7 +6236,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Kostadinov
 		</td>
-		<td>Cto Imagga  Kelvinhealth<br/></td>
+		<td>Cto @imagga  @kelvinhealth<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>0</td>
@@ -6251,7 +6252,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>140</td>
 		<td>177</td>
 	</tr>
@@ -6265,7 +6266,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sofia University  Astea<br/>Solutions<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>176</td>
 		<td>176</td>
 	</tr>
@@ -6279,7 +6280,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>St6 </td>
 		<td><a href="https://twitter.com/ibratoev">ibratoev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>53</td>
 		<td>175</td>
 	</tr>
@@ -6293,7 +6294,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>175</td>
 		<td>175</td>
 	</tr>
@@ -6307,7 +6308,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Cytec Bg Ltd </td>
 		<td><a href="https://twitter.com/PeterPrototypes">PeterPrototypes</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>135</td>
 		<td>173</td>
 	</tr>
@@ -6321,7 +6322,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sap </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>169</td>
 		<td>172</td>
 	</tr>
@@ -6356,6 +6357,34 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>447</td>
 		<td>
+			<a href="https://github.com/harrygg">
+				<img src="https://avatars.githubusercontent.com/u/1013950?s=72&u=07925f9d6578deb88f3022ec4cbddab5be8d5ff4&v=4" width="24" alt="Avatar of harrygg"/> harrygg
+			</a><br/>
+			Harry G
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>170</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/vesheff">
+				<img src="https://avatars.githubusercontent.com/u/3620516?s=72&u=88b103a3306ceb2ec139dc483514dbdc2c965fbe&v=4" width="24" alt="Avatar of vesheff"/> vesheff
+			</a><br/>
+			Martin Vesheff
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>0</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
 			<a href="https://github.com/PopovMP">
 				<img src="https://avatars.githubusercontent.com/u/479765?s=72&v=4" width="24" alt="Avatar of PopovMP"/> PopovMP
 			</a><br/>
@@ -6368,7 +6397,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/riverside">
 				<img src="https://avatars.githubusercontent.com/u/43607?s=72&u=eb0db99fa6ce52a161dbc59007b2665579420352&v=4" width="24" alt="Avatar of riverside"/> riverside
@@ -6377,54 +6406,40 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DimitarIvanov">DimitarIvanov</a></td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>168</td>
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/harrygg">
-				<img src="https://avatars.githubusercontent.com/u/1013950?s=72&u=07925f9d6578deb88f3022ec4cbddab5be8d5ff4&v=4" width="24" alt="Avatar of harrygg"/> harrygg
-			</a><br/>
-			Harry G
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>168</td>
-		<td>168</td>
-	</tr>
-	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/ddmitov">
 				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"/> ddmitov
 			</a><br/>
-			Dimitar D. Mitov
+			Dimitar D Mitov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>166</td>
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/Appsalar">
 				<img src="https://avatars.githubusercontent.com/u/9485132?s=72&u=d52abf441ae98ca2a0c0682f549fdc77766e8263&v=4" width="24" alt="Avatar of Appsalar"/> Appsalar
 			</a><br/>
 			Ivan Velkov
 		</td>
-		<td>Payhawk </td>
+		<td>@payhawk </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/ysanatomic">
 				<img src="https://avatars.githubusercontent.com/u/41269324?s=72&u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4" width="24" alt="Avatar of ysanatomic"/> ysanatomic
@@ -6438,7 +6453,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/stanimirovv">
 				<img src="https://avatars.githubusercontent.com/u/4281340?s=72&u=34a4c7ebffff01191209b617ae5aef503b66871b&v=4" width="24" alt="Avatar of stanimirovv"/> stanimirovv
@@ -6447,12 +6462,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>60</td>
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/sovanesyan">
 				<img src="https://avatars.githubusercontent.com/u/43985?s=72&v=4" width="24" alt="Avatar of sovanesyan"/> sovanesyan
@@ -6461,12 +6476,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Receipt Bank </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>4</td>
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/AlenPaunov">
 				<img src="https://avatars.githubusercontent.com/u/30209517?s=72&u=7c86ad206b1f440b32870670baee4a75693e5530&v=4" width="24" alt="Avatar of AlenPaunov"/> AlenPaunov
@@ -6475,26 +6490,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>43</td>
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/100yo">
 				<img src="https://avatars.githubusercontent.com/u/4093336?s=72&u=c6505da458f3de229ba9429366258ef45c11c088&v=4" width="24" alt="Avatar of 100yo"/> 100yo
 			</a><br/>
 			Stoyan Vellev
 		</td>
-		<td>Sap </td>
+		<td>@sap </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>163</td>
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/Marti2509">
 				<img src="https://avatars.githubusercontent.com/u/82093220?s=72&u=3ba80433678ea609919f705b25aad1c20eb693ce&v=4" width="24" alt="Avatar of Marti2509"/> Marti2509
@@ -6503,12 +6518,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_simov__">_simov__</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>163</td>
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/pgergov">
+				<img src="https://avatars.githubusercontent.com/u/10997689?s=72&u=903ea2a5c76d0124d4fe46f29073f836f13e2592&v=4" width="24" alt="Avatar of pgergov"/> pgergov
+			</a><br/>
+			Pavlin Gergov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>5</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/MrIvanPlays">
 				<img src="https://avatars.githubusercontent.com/u/37958105?s=72&u=ccd9603d277a6a6abe7526144ea118c47817049f&v=4" width="24" alt="Avatar of MrIvanPlays"/> MrIvanPlays
@@ -6517,26 +6546,40 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>162</td>
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/DanailH">
+				<img src="https://avatars.githubusercontent.com/u/5858539?s=72&v=4" width="24" alt="Avatar of DanailH"/> DanailH
+			</a><br/>
+			Danail Hadjiatanasov
+		</td>
+		<td>Materialui </td>
+		<td><a href="https://twitter.com/danail_h">danail_h</a></td>
+		<td>Bulgaria</td>
+		<td>161</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/etabakov">
 				<img src="https://avatars.githubusercontent.com/u/2611328?s=72&u=a2821eed4247cb3b54bf5cbfa17238170c48e536&v=4" width="24" alt="Avatar of etabakov"/> etabakov
 			</a><br/>
 			Emil Tabakov
 		</td>
-		<td>Icanpreneur </td>
+		<td>@icanpreneur </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>126</td>
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/PepiPetrov">
 				<img src="https://avatars.githubusercontent.com/u/74186271?s=72&u=f131b5ed6583a952b1e0be35aa3432e47953a838&v=4" width="24" alt="Avatar of PepiPetrov"/> PepiPetrov
@@ -6545,26 +6588,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Svishtov, Bulgaria</td>
+		<td>Svishtov Bulgaria</td>
 		<td>161</td>
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/wqweto">
 				<img src="https://avatars.githubusercontent.com/u/987963?s=72&u=985f3833b288b56aadf7b34d3184bae46865fa63&v=4" width="24" alt="Avatar of wqweto"/> wqweto
 			</a><br/>
 			Vladimir Vissoultchev
 		</td>
-		<td>Unicontsoft </td>
+		<td>@unicontsoft </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>160</td>
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/Dekryptor">
 				<img src="https://avatars.githubusercontent.com/u/4175854?s=72&u=ac64b3e6b0d4ca71a65e3d3d43384936fa2b19ce&v=4" width="24" alt="Avatar of Dekryptor"/> Dekryptor
@@ -6578,35 +6621,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>463</td>
-		<td>
-			<a href="https://github.com/vesheff">
-				<img src="https://avatars.githubusercontent.com/u/3620516?s=72&u=88b103a3306ceb2ec139dc483514dbdc2c965fbe&v=4" width="24" alt="Avatar of vesheff"/> vesheff
-			</a><br/>
-			Martin Vesheff
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>0</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>464</td>
-		<td>
-			<a href="https://github.com/DanailH">
-				<img src="https://avatars.githubusercontent.com/u/5858539?s=72&v=4" width="24" alt="Avatar of DanailH"/> DanailH
-			</a><br/>
-			Danail Hadjiatanasov
-		</td>
-		<td>Materialui </td>
-		<td><a href="https://twitter.com/danail_h">danail_h</a></td>
-		<td>Bulgaria</td>
-		<td>159</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/VladiGGeorgiev">
 				<img src="https://avatars.githubusercontent.com/u/3617141?s=72&u=41936d96b39a0e1e2e2ffdff49a749c172075513&v=4" width="24" alt="Avatar of VladiGGeorgiev"/> VladiGGeorgiev
@@ -6615,23 +6630,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Efemarai </td>
 		<td><a href="https://twitter.com/vladiggeorgiev">vladiggeorgiev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/pgergov">
-				<img src="https://avatars.githubusercontent.com/u/10997689?s=72&u=903ea2a5c76d0124d4fe46f29073f836f13e2592&v=4" width="24" alt="Avatar of pgergov"/> pgergov
-			</a><br/>
-			Pavlin Gergov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>5</td>
-		<td>156</td>
 	</tr>
 	<tr>
 		<td>467</td>
@@ -6641,9 +6642,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alex Tsvetanov
 		</td>
-		<td>Headstarter </td>
+		<td>@headstarter </td>
 		<td><a href="https://twitter.com/AlexTsvetanovIT">AlexTsvetanovIT</a></td>
-		<td>Sofia/Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>23</td>
 		<td>155</td>
 	</tr>
@@ -6655,9 +6656,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Valentin Kirilov
 		</td>
-		<td>Mtrdesign  </td>
+		<td>@mtrdesign  </td>
 		<td><a href="https://twitter.com/valkirilov">valkirilov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>52</td>
 		<td>154</td>
 	</tr>
@@ -6711,7 +6712,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Atanas Angelov
 		</td>
-		<td>Automattic </td>
+		<td>@automattic </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>57</td>
@@ -6727,7 +6728,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Sofia City, Bulgaria</td>
+		<td>Sofia Sofia City Bulgaria</td>
 		<td>135</td>
 		<td>147</td>
 	</tr>
@@ -6741,7 +6742,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>146</td>
 		<td>146</td>
 	</tr>
@@ -6769,7 +6770,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>145</td>
 		<td>145</td>
 	</tr>
@@ -6783,7 +6784,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Trirand Inc </td>
 		<td><a href="https://twitter.com/jqGrid">jqGrid</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>144</td>
 		<td>144</td>
 	</tr>
@@ -6795,7 +6796,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Iliana Bobeva
 		</td>
-		<td>Sap  </td>
+		<td>@sap  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>144</td>
@@ -6846,20 +6847,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/atmin">
-				<img src="https://avatars.githubusercontent.com/u/714648?s=72&u=97842f47585c69d1bcec05f3209dc72b947ad43c&v=4" width="24" alt="Avatar of atmin"/> atmin
-			</a><br/>
-			Atanas Minev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>8</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
 			<a href="https://github.com/RosenKrumov">
 				<img src="https://avatars.githubusercontent.com/u/8313916?s=72&u=5a2d17bd3cf67bf56aaef7f9ec952accfd2a2085&v=4" width="24" alt="Avatar of RosenKrumov"/> RosenKrumov
 			</a><br/>
@@ -6869,6 +6856,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/krumov_rosen">krumov_rosen</a></td>
 		<td>Sofia</td>
 		<td>132</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/atmin">
+				<img src="https://avatars.githubusercontent.com/u/714648?s=72&u=97842f47585c69d1bcec05f3209dc72b947ad43c&v=4" width="24" alt="Avatar of atmin"/> atmin
+			</a><br/>
+			Atanas Minev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>8</td>
 		<td>138</td>
 	</tr>
 	<tr>
@@ -6881,7 +6882,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Bg Team </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>123</td>
 		<td>137</td>
 	</tr>
@@ -6895,7 +6896,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>136</td>
 		<td>136</td>
 	</tr>
@@ -6909,7 +6910,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>136</td>
 		<td>136</td>
 	</tr>
@@ -6919,11 +6920,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/0xAF">
 				<img src="https://avatars.githubusercontent.com/u/326320?s=72&u=7a4e06f58d72711098dc47bcfa8ddac098a31f67&v=4" width="24" alt="Avatar of 0xAF"/> 0xAF
 			</a><br/>
-			Stanislav Lechev [0xAF]
+			Stanislav Lechev 0xAF
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>135</td>
 		<td>135</td>
 	</tr>
@@ -6979,7 +6980,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dreamteck </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>41</td>
 		<td>128</td>
 	</tr>
@@ -6993,7 +6994,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NTNikolaev">NTNikolaev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>39</td>
 		<td>128</td>
 	</tr>
@@ -7007,7 +7008,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>124</td>
 		<td>127</td>
 	</tr>
@@ -7021,7 +7022,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Montana, Bulgaria</td>
+		<td>Montana Bulgaria</td>
 		<td>71</td>
 		<td>127</td>
 	</tr>
@@ -7035,7 +7036,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>126</td>
 		<td>126</td>
 	</tr>
@@ -7061,7 +7062,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Vitaliy Filipov
 		</td>
-		<td>Camplight  </td>
+		<td>@camplight  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>0</td>
@@ -7091,7 +7092,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Oracle </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>122</td>
 		<td>122</td>
 	</tr>
@@ -7133,12 +7134,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sap </td>
 		<td><a href="https://twitter.com/d_topuzakova">d_topuzakova</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>120</td>
 		<td>120</td>
 	</tr>
 	<tr>
 		<td>503</td>
+		<td>
+			<a href="https://github.com/Elizabethvk">
+				<img src="https://avatars.githubusercontent.com/u/20144344?s=72&u=0aa8a87d1b98877b9d8d99042df4167da177d254&v=4" width="24" alt="Avatar of Elizabethvk"/> Elizabethvk
+			</a><br/>
+			Elizabeth
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>75</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/Stan15321">
 				<img src="https://avatars.githubusercontent.com/u/109627707?s=72&u=efe720713eeeedd7c5dd117f9ee471edbcfb80b8&v=4" width="24" alt="Avatar of Stan15321"/> Stan15321
@@ -7147,26 +7162,26 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv,Bulgaria</td>
+		<td>PlovdivBulgaria</td>
 		<td>120</td>
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/bisko">
 				<img src="https://avatars.githubusercontent.com/u/184938?s=72&v=4" width="24" alt="Avatar of bisko"/> bisko
 			</a><br/>
 			Biser Perchinkov
 		</td>
-		<td>Automattic  </td>
+		<td>@automattic  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>81</td>
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/parunev">
 				<img src="https://avatars.githubusercontent.com/u/94488479?s=72&u=41add99fce6a6cdb54a17848e2650941b0beed82&v=4" width="24" alt="Avatar of parunev"/> parunev
@@ -7175,12 +7190,12 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>56</td>
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/Alexander1022">
 				<img src="https://avatars.githubusercontent.com/u/36764735?s=72&u=0877baa7dcf6a2af894841157b659bfa264157a2&v=4" width="24" alt="Avatar of Alexander1022"/> Alexander1022
@@ -7194,20 +7209,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>507</td>
-		<td>
-			<a href="https://github.com/Elizabethvk">
-				<img src="https://avatars.githubusercontent.com/u/20144344?s=72&u=0aa8a87d1b98877b9d8d99042df4167da177d254&v=4" width="24" alt="Avatar of Elizabethvk"/> Elizabethvk
-			</a><br/>
-			Elizabeth
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>71</td>
-		<td>116</td>
-	</tr>
-	<tr>
 		<td>508</td>
 		<td>
 			<a href="https://github.com/SValkanov">
@@ -7217,7 +7218,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>116</td>
 	</tr>
@@ -7259,7 +7260,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Astrolet </td>
 		<td><a href="https://twitter.com/orlin">orlin</a></td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>10</td>
 		<td>115</td>
 	</tr>
@@ -7273,7 +7274,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>114</td>
 		<td>114</td>
 	</tr>
@@ -7287,7 +7288,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vscpi </td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>111</td>
 		<td>111</td>
 	</tr>
@@ -7301,7 +7302,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>111</td>
 		<td>111</td>
 	</tr>
@@ -7329,7 +7330,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ilzhechev">ilzhechev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>38</td>
 		<td>108</td>
 	</tr>
@@ -7357,7 +7358,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tzvetkoff">tzvetkoff</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>107</td>
 		<td>107</td>
 	</tr>
@@ -7371,7 +7372,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Scavasoft </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>33</td>
 		<td>107</td>
 	</tr>
@@ -7385,7 +7386,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>30</td>
 		<td>105</td>
 	</tr>
@@ -7397,7 +7398,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Plamen Georgiev
 		</td>
-		<td>Devrix </td>
+		<td>@devrix </td>
 		<td><a href="https://twitter.com/pgeorgiev_">pgeorgiev_</a></td>
 		<td>Bulgaria</td>
 		<td>9</td>
@@ -7413,7 +7414,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Technical University Sofia And<br/>Softuni<br/></td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>104</td>
 		<td>104</td>
 	</tr>
@@ -7427,7 +7428,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Psinteractive </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>92</td>
 		<td>103</td>
 	</tr>
@@ -7453,9 +7454,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Joro Stoyanov
 		</td>
-		<td>2createstudio </td>
+		<td>@2createstudio </td>
 		<td><a href="https://twitter.com/jorostoyanov">jorostoyanov</a></td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>21</td>
 		<td>103</td>
 	</tr>
@@ -7483,7 +7484,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/miglen">miglen</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>17</td>
 		<td>101</td>
 	</tr>
@@ -7497,7 +7498,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>99</td>
 		<td>101</td>
 	</tr>
@@ -7509,9 +7510,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Andrey Drenski
 		</td>
-		<td>Chaosgroup </td>
+		<td>@chaosgroup </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>99</td>
 		<td>100</td>
 	</tr>
@@ -7525,7 +7526,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Plovdiv</td>
+		<td>Bulgaria Plovdiv</td>
 		<td>100</td>
 		<td>100</td>
 	</tr>
@@ -7537,7 +7538,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Aleksandar Dinkov
 		</td>
-		<td>Stotina </td>
+		<td>@stotina </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>100</td>
@@ -7553,7 +7554,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Encorpio </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>96</td>
 		<td>96</td>
 	</tr>
@@ -7581,7 +7582,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Indeavr </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>93</td>
 		<td>93</td>
 	</tr>
@@ -7623,7 +7624,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>76</td>
 		<td>89</td>
 	</tr>
@@ -7635,7 +7636,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Alex Buznik
 		</td>
-		<td>Wildix </td>
+		<td>@wildix </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>89</td>
@@ -7651,7 +7652,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Astea Solutions Ad </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>89</td>
 		<td>89</td>
 	</tr>
@@ -7665,7 +7666,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Icb </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>89</td>
 		<td>89</td>
 	</tr>
@@ -7679,7 +7680,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>11</td>
 		<td>88</td>
 	</tr>
@@ -7719,9 +7720,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Antonia Atanasova
 		</td>
-		<td>Devexperts </td>
+		<td>@devexperts </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>60</td>
 		<td>80</td>
 	</tr>
@@ -7735,7 +7736,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Burgas, Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>75</td>
 		<td>78</td>
 	</tr>
@@ -7745,7 +7746,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/BoykoPetevBoev">
 				<img src="https://avatars.githubusercontent.com/u/55878188?s=72&u=3f604cf65cff620035b1ed7b701662c037fa6da0&v=4" width="24" alt="Avatar of BoykoPetevBoev"/> BoykoPetevBoev
 			</a><br/>
-			           Бойко Боев
+			            
 		</td>
 		<td>0876 550 806 </td>
 		<td><a href="https://twitter.com/boyko_boev">boyko_boev</a></td>
@@ -7763,7 +7764,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>75</td>
 		<td>76</td>
 	</tr>
@@ -7777,7 +7778,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>76</td>
 		<td>76</td>
 	</tr>
@@ -7789,9 +7790,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Bonka Tsvetanova
 		</td>
-		<td>Softuni </td>
+		<td>@softuni </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>75</td>
 		<td>75</td>
 	</tr>
@@ -7805,7 +7806,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>75</td>
 	</tr>
@@ -7847,7 +7848,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Evo Tech </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>73</td>
 		<td>73</td>
 	</tr>
@@ -7859,9 +7860,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			No Name
 		</td>
-		<td>Devexperts </td>
+		<td>@devexperts </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>64</td>
 		<td>73</td>
 	</tr>
@@ -7901,9 +7902,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ivaylo Jelev
 		</td>
-		<td>Softuni  </td>
+		<td>@softuni  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>62</td>
 		<td>70</td>
 	</tr>
@@ -7913,16 +7914,30 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/abuseofnotation">
 				<img src="https://avatars.githubusercontent.com/u/4872512?s=72&u=b70795f1d4e356aeae0382d280c641e97fb912e0&v=4" width="24" alt="Avatar of abuseofnotation"/> abuseofnotation
 			</a><br/>
-			-
+			
 		</td>
 		<td>Open To Work </td>
 		<td><a href="https://twitter.com/alexanderkatt">alexanderkatt</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>70</td>
 		<td>70</td>
 	</tr>
 	<tr>
 		<td>559</td>
+		<td>
+			<a href="https://github.com/gochev">
+				<img src="https://avatars.githubusercontent.com/u/5537142?s=72&u=36446d6bf5d98437b2d048f76a01dcd6fa1c96f9&v=4" width="24" alt="Avatar of gochev"/> gochev
+			</a><br/>
+			Nayden Gochev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gochev">gochev</a></td>
+		<td>Bulgaria</td>
+		<td>69</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/andriiburka">
 				<img src="https://avatars.githubusercontent.com/u/18247787?s=72&u=23ca13c97f4aaa1d3d41b36c9b8ff617abebafa7&v=4" width="24" alt="Avatar of andriiburka"/> andriiburka
@@ -7936,20 +7951,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>560</td>
-		<td>
-			<a href="https://github.com/gochev">
-				<img src="https://avatars.githubusercontent.com/u/5537142?s=72&u=36446d6bf5d98437b2d048f76a01dcd6fa1c96f9&v=4" width="24" alt="Avatar of gochev"/> gochev
-			</a><br/>
-			Nayden Gochev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gochev">gochev</a></td>
-		<td>Bulgaria</td>
-		<td>68</td>
-		<td>68</td>
-	</tr>
-	<tr>
 		<td>561</td>
 		<td>
 			<a href="https://github.com/slaff">
@@ -7959,7 +7960,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Stuttgart, DE || Sofia, BG || Earth</td>
+		<td>Stuttgart DE  Sofia BG  Earth</td>
 		<td>68</td>
 		<td>68</td>
 	</tr>
@@ -7987,7 +7988,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>68</td>
 		<td>68</td>
 	</tr>
@@ -8001,7 +8002,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>67</td>
 		<td>67</td>
 	</tr>
@@ -8015,7 +8016,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria - Sofia</td>
+		<td>Bulgaria  Sofia</td>
 		<td>14</td>
 		<td>67</td>
 	</tr>
@@ -8027,7 +8028,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Petar Tahchiev
 		</td>
-		<td>Nemesis Software Ltd Nemesissoftware<br/><br/></td>
+		<td>Nemesis Software Ltd @nemesissoftware<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>66</td>
@@ -8055,7 +8056,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Miroslav Nikolov
 		</td>
-		<td>Onecom  </td>
+		<td>@onecom  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>13</td>
@@ -8071,7 +8072,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jdichev">jdichev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>61</td>
 		<td>65</td>
 	</tr>
@@ -8085,7 +8086,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>22</td>
 		<td>64</td>
 	</tr>
@@ -8099,7 +8100,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Psp Webtech </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>64</td>
 		<td>64</td>
 	</tr>
@@ -8127,7 +8128,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>51</td>
 		<td>62</td>
 	</tr>
@@ -8139,9 +8140,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Viktor Ketipov
 		</td>
-		<td>Kipiiinteractive  </td>
+		<td>@kipiiinteractive  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>61</td>
 		<td>61</td>
 	</tr>
@@ -8155,7 +8156,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Unicredit Consumer Financing Ead<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>60</td>
 		<td>60</td>
 	</tr>
@@ -8183,7 +8184,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Interconsult Bulgaria Icb </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>60</td>
 		<td>60</td>
 	</tr>
@@ -8197,7 +8198,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>59</td>
 		<td>59</td>
 	</tr>
@@ -8211,7 +8212,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>56</td>
 	</tr>
@@ -8225,7 +8226,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>55</td>
 		<td>56</td>
 	</tr>
@@ -8239,7 +8240,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>5</td>
 		<td>55</td>
 	</tr>
@@ -8267,7 +8268,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sheppa Technologies </td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Bulagaria</td>
+		<td>SofiaBulagaria</td>
 		<td>25</td>
 		<td>55</td>
 	</tr>
@@ -8281,7 +8282,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Daedalus Angels </td>
 		<td><a href="https://twitter.com/valentinmihov">valentinmihov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>50</td>
 		<td>54</td>
 	</tr>
@@ -8295,7 +8296,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Blagoevgrad, Bulgaria</td>
+		<td>Blagoevgrad Bulgaria</td>
 		<td>51</td>
 		<td>54</td>
 	</tr>
@@ -8309,7 +8310,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Full Stack Developer </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>53</td>
 		<td>53</td>
 	</tr>
@@ -8365,7 +8366,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>52</td>
 		<td>52</td>
 	</tr>
@@ -8393,7 +8394,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/RadoslavGatev">RadoslavGatev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>7</td>
 		<td>52</td>
 	</tr>
@@ -8407,7 +8408,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sap </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>52</td>
 		<td>52</td>
 	</tr>
@@ -8421,7 +8422,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Envato Author </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>51</td>
 		<td>51</td>
 	</tr>
@@ -8449,7 +8450,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>44</td>
 		<td>50</td>
 	</tr>
@@ -8463,7 +8464,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>30</td>
 		<td>49</td>
 	</tr>
@@ -8475,9 +8476,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			No Name
 		</td>
-		<td>Softuni </td>
+		<td>@softuni </td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>49</td>
 		<td>49</td>
 	</tr>
@@ -8491,7 +8492,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Tangra Inc </td>
 		<td><a href="https://twitter.com/PeterStaev">PeterStaev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>48</td>
 		<td>48</td>
 	</tr>
@@ -8519,7 +8520,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>48</td>
 		<td>48</td>
 	</tr>
@@ -8529,11 +8530,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/joromir">
 				<img src="https://avatars.githubusercontent.com/u/4867236?s=72&u=287a0c28f2b73f5050f9d8ac2ff6d180bbd402e6&v=4" width="24" alt="Avatar of joromir"/> joromir
 			</a><br/>
-			George N. Kostov
+			George N Kostov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>48</td>
 	</tr>
@@ -8561,7 +8562,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>europe://Bulgaria/Plovdiv</td>
+		<td>europeBulgariaPlovdiv</td>
 		<td>47</td>
 		<td>47</td>
 	</tr>
@@ -8575,7 +8576,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dapper Penguin Studios </td>
 		<td><a href="https://twitter.com/simeonradivoev">simeonradivoev</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>24</td>
 		<td>46</td>
 	</tr>
@@ -8589,7 +8590,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>46</td>
 		<td>46</td>
 	</tr>
@@ -8631,7 +8632,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>44</td>
 		<td>44</td>
 	</tr>
@@ -8659,7 +8660,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>43</td>
 	</tr>
@@ -8673,7 +8674,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vmware Bulgaria </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>43</td>
 		<td>43</td>
 	</tr>
@@ -8685,9 +8686,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Stanislav Tashev
 		</td>
-		<td>Codingburgas </td>
+		<td>@codingburgas </td>
 		<td><a href="https://twitter.com/Stashev800">Stashev800</a></td>
-		<td>Burgas, Bulgaria</td>
+		<td>Burgas Bulgaria</td>
 		<td>41</td>
 		<td>41</td>
 	</tr>
@@ -8715,7 +8716,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Ontotext </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>40</td>
 		<td>40</td>
 	</tr>
@@ -8729,7 +8730,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>40</td>
 		<td>40</td>
 	</tr>
@@ -8743,7 +8744,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>38</td>
 		<td>39</td>
 	</tr>
@@ -8757,7 +8758,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>39</td>
 		<td>39</td>
 	</tr>
@@ -8771,7 +8772,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Trading 212 </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>39</td>
 		<td>39</td>
 	</tr>
@@ -8813,7 +8814,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>37</td>
 		<td>37</td>
 	</tr>
@@ -8841,7 +8842,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>36</td>
 		<td>36</td>
 	</tr>
@@ -8855,7 +8856,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>35</td>
 	</tr>
@@ -8883,7 +8884,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>35</td>
 		<td>35</td>
 	</tr>
@@ -8925,7 +8926,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Indeavr </td>
 		<td>No Twitter Username</td>
-		<td>Stara Zagora, Bulgaria</td>
+		<td>Stara Zagora Bulgaria</td>
 		<td>32</td>
 		<td>32</td>
 	</tr>
@@ -8939,7 +8940,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>16</td>
 		<td>32</td>
 	</tr>
@@ -8951,9 +8952,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Dimitar Kalinkov
 		</td>
-		<td>Tbstech  </td>
+		<td>@tbstech  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>32</td>
 	</tr>
@@ -8979,9 +8980,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Venelin Stoykov
 		</td>
-		<td>Industriatech  </td>
+		<td>@industriatech  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>31</td>
 		<td>31</td>
 	</tr>
@@ -9023,7 +9024,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Madan, Smolyan, Bulgaria</td>
+		<td>Madan Smolyan Bulgaria</td>
 		<td>31</td>
 		<td>31</td>
 	</tr>
@@ -9037,7 +9038,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>30</td>
 		<td>30</td>
 	</tr>
@@ -9065,7 +9066,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia , Bulgaria</td>
+		<td>Sofia  Bulgaria</td>
 		<td>28</td>
 		<td>30</td>
 	</tr>
@@ -9079,7 +9080,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>30</td>
 	</tr>
@@ -9093,7 +9094,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Burgas</td>
+		<td>Bulgaria Burgas</td>
 		<td>30</td>
 		<td>30</td>
 	</tr>
@@ -9107,7 +9108,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>29</td>
 		<td>29</td>
 	</tr>
@@ -9121,7 +9122,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Company </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, BULGARIA</td>
+		<td>Sofia BULGARIA</td>
 		<td>28</td>
 		<td>28</td>
 	</tr>
@@ -9135,7 +9136,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Leanplum </td>
 		<td><a href="https://twitter.com/agyoshev">agyoshev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>28</td>
 		<td>28</td>
 	</tr>
@@ -9163,7 +9164,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>13</td>
 		<td>28</td>
 	</tr>
@@ -9205,7 +9206,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Panagyurishte, Bulgaria @ EU</td>
+		<td>Panagyurishte Bulgaria @ EU</td>
 		<td>27</td>
 		<td>27</td>
 	</tr>
@@ -9219,7 +9220,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>26</td>
 	</tr>
@@ -9233,7 +9234,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Technological School Of Electronic<br/>Systems<br/><br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>5</td>
 		<td>26</td>
 	</tr>
@@ -9247,7 +9248,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Draftkings Inc </td>
 		<td><a href="https://twitter.com/raziel_pld">raziel_pld</a></td>
-		<td>Sofia, BG</td>
+		<td>Sofia BG</td>
 		<td>23</td>
 		<td>25</td>
 	</tr>
@@ -9261,7 +9262,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>23</td>
 		<td>25</td>
 	</tr>
@@ -9289,7 +9290,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>25</td>
 		<td>25</td>
 	</tr>
@@ -9301,9 +9302,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Viktor Kazakov
 		</td>
-		<td>Softuni  </td>
+		<td>@softuni  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>24</td>
 		<td>24</td>
 	</tr>
@@ -9317,7 +9318,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Onepagecraft </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>7</td>
 		<td>24</td>
 	</tr>
@@ -9331,7 +9332,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>23</td>
 		<td>23</td>
 	</tr>
@@ -9345,7 +9346,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dreamix Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>23</td>
 		<td>23</td>
 	</tr>
@@ -9359,7 +9360,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/andrey_cfc">andrey_cfc</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>23</td>
 		<td>23</td>
 	</tr>
@@ -9373,7 +9374,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Halo Precision Diagnostics </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>23</td>
 		<td>23</td>
 	</tr>
@@ -9387,7 +9388,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>18</td>
 		<td>23</td>
 	</tr>
@@ -9415,7 +9416,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Softserve </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>22</td>
 	</tr>
@@ -9429,7 +9430,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Givingforce </td>
 		<td><a href="https://twitter.com/kdankov">kdankov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>21</td>
 		<td>21</td>
 	</tr>
@@ -9443,7 +9444,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Tide Uk </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>21</td>
 		<td>21</td>
 	</tr>
@@ -9457,7 +9458,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/filip_bakalov">filip_bakalov</a></td>
-		<td>Smolyan, Bulgaria</td>
+		<td>Smolyan Bulgaria</td>
 		<td>21</td>
 		<td>21</td>
 	</tr>
@@ -9485,7 +9486,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>4</td>
 		<td>21</td>
 	</tr>
@@ -9497,7 +9498,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Gyokan Syuleymanov
 		</td>
-		<td>Vmware </td>
+		<td>@vmware </td>
 		<td><a href="https://twitter.com/gyokkoo">gyokkoo</a></td>
 		<td>Sofia</td>
 		<td>20</td>
@@ -9527,7 +9528,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Ambitioned </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>19</td>
 		<td>19</td>
 	</tr>
@@ -9541,7 +9542,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Codedesign </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>19</td>
 		<td>19</td>
 	</tr>
@@ -9583,7 +9584,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>19</td>
 		<td>19</td>
 	</tr>
@@ -9597,7 +9598,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>19</td>
 	</tr>
@@ -9611,7 +9612,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria </td>
+		<td>Varna Bulgaria </td>
 		<td>19</td>
 		<td>19</td>
 	</tr>
@@ -9625,7 +9626,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dreamix </td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>10</td>
 		<td>18</td>
 	</tr>
@@ -9639,7 +9640,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>18</td>
 		<td>18</td>
 	</tr>
@@ -9653,7 +9654,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Sap </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>18</td>
 		<td>18</td>
 	</tr>
@@ -9681,7 +9682,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Symbiopen Ltd </td>
 		<td><a href="https://twitter.com/disastacre">disastacre</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>18</td>
 		<td>18</td>
 	</tr>
@@ -9693,9 +9694,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Kiryakov
 		</td>
-		<td>Uber  </td>
+		<td>@uber  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>18</td>
 	</tr>
@@ -9723,7 +9724,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Telerik </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -9737,7 +9738,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Softuni </td>
 		<td>No Twitter Username</td>
-		<td>Asenovgrad, Bulgaria</td>
+		<td>Asenovgrad Bulgaria</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -9751,7 +9752,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Provadia, Bulgaria</td>
+		<td>Provadia Bulgaria</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -9765,7 +9766,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Intellias </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -9779,7 +9780,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -9807,7 +9808,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
@@ -9821,7 +9822,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Stara Zagora, Bulgaria</td>
+		<td>Stara Zagora Bulgaria</td>
 		<td>12</td>
 		<td>17</td>
 	</tr>
@@ -9833,9 +9834,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ivan Yonkov
 		</td>
-		<td>Codexioltd  </td>
+		<td>@codexioltd  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>16</td>
 		<td>16</td>
 	</tr>
@@ -9847,9 +9848,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Kiril Vladimirov
 		</td>
-		<td>Siteground </td>
+		<td>@siteground </td>
 		<td><a href="https://twitter.com/k_vladimiroff">k_vladimiroff</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>16</td>
 		<td>16</td>
 	</tr>
@@ -9863,7 +9864,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>6</td>
 		<td>16</td>
 	</tr>
@@ -9891,7 +9892,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>A1 Bg </td>
 		<td><a href="https://twitter.com/SashoStoichkov">SashoStoichkov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>15</td>
 	</tr>
@@ -9919,7 +9920,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/atkuzmanov">atkuzmanov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>15</td>
 		<td>15</td>
 	</tr>
@@ -9933,7 +9934,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>14</td>
 	</tr>
@@ -9945,9 +9946,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Sergey Sobko
 		</td>
-		<td>Ibm </td>
+		<td>@ibm </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>14</td>
 	</tr>
@@ -9961,7 +9962,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>American University In Bulgaria<br/></td>
 		<td>No Twitter Username</td>
-		<td>Blagoevgrad, Bulgaria</td>
+		<td>Blagoevgrad Bulgaria</td>
 		<td>7</td>
 		<td>14</td>
 	</tr>
@@ -9975,7 +9976,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>14</td>
 		<td>14</td>
 	</tr>
@@ -9989,7 +9990,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>13</td>
 		<td>13</td>
 	</tr>
@@ -10003,7 +10004,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>0</td>
 		<td>13</td>
 	</tr>
@@ -10017,7 +10018,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>13</td>
 		<td>13</td>
 	</tr>
@@ -10027,11 +10028,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/it3xl">
 				<img src="https://avatars.githubusercontent.com/u/919928?s=72&u=d26863cc2cfcc7616a34991497b834ab28e6f9cc&v=4" width="24" alt="Avatar of it3xl"/> it3xl
 			</a><br/>
-			Ilya Tretyakov #it3xl
+			Ilya Tretyakov it3xl
 		</td>
 		<td>Ingram Micro </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>13</td>
 		<td>13</td>
 	</tr>
@@ -10043,7 +10044,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Stamo Petkov
 		</td>
-		<td>Informationservices </td>
+		<td>@informationservices </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>12</td>
@@ -10059,7 +10060,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/asual">asual</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
@@ -10073,7 +10074,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
@@ -10087,7 +10088,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Clean Code Facotry </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
@@ -10101,7 +10102,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
@@ -10113,9 +10114,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Borislav Ivanov
 		</td>
-		<td>Progress </td>
+		<td>@progress </td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>6</td>
 		<td>12</td>
 	</tr>
@@ -10127,9 +10128,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Miroslav Rachev
 		</td>
-		<td>Dext </td>
+		<td>@dext </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
@@ -10143,7 +10144,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Pravets,Bulgaria</td>
+		<td>PravetsBulgaria</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
@@ -10155,7 +10156,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Aleksandar Ivanov
 		</td>
-		<td>Fundingcircle  </td>
+		<td>@fundingcircle  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>12</td>
@@ -10171,7 +10172,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Ubisoft </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>11</td>
 		<td>11</td>
 	</tr>
@@ -10211,9 +10212,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Adrian Bobev
 		</td>
-		<td>Sap  </td>
+		<td>@sap  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>5</td>
 		<td>10</td>
 	</tr>
@@ -10227,7 +10228,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
@@ -10241,7 +10242,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Princeberk Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
@@ -10251,7 +10252,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/DHMarinov">
 				<img src="https://avatars.githubusercontent.com/u/18357628?s=72&u=435fdbdc162c980ce93291b32ffdbc86aa5e323d&v=4" width="24" alt="Avatar of DHMarinov"/> DHMarinov
 			</a><br/>
-			Dimitar H. Marinov
+			Dimitar H Marinov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10267,9 +10268,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Momchil Ignatov
 		</td>
-		<td>Sap </td>
+		<td>@sap </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>7</td>
 		<td>10</td>
 	</tr>
@@ -10279,11 +10280,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/jeuxdemains">
 				<img src="https://avatars.githubusercontent.com/u/7083803?s=72&u=fef42a2e1a4182ccc64d03a5f5f7c8017e7426a1&v=4" width="24" alt="Avatar of jeuxdemains"/> jeuxdemains
 			</a><br/>
-			Yuriy Georgiev (jeux)
+			Yuriy Georgiev jeux
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
@@ -10295,9 +10296,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Rumen Damyanov
 		</td>
-		<td>Ffwagency </td>
+		<td>@ffwagency </td>
 		<td><a href="https://twitter.com/RumenDamyanov">RumenDamyanov</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -10309,9 +10310,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Hristo Borisov
 		</td>
-		<td>Sap  </td>
+		<td>@sap  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -10339,7 +10340,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -10351,9 +10352,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ross Georgiev
 		</td>
-		<td>Vmware </td>
+		<td>@vmware </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -10367,7 +10368,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -10381,7 +10382,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vmware </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10395,7 +10396,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Lamassu </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>8</td>
 	</tr>
@@ -10409,7 +10410,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10421,7 +10422,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Georgi Hristozov
 		</td>
-		<td>Vmware </td>
+		<td>@vmware </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>8</td>
@@ -10437,7 +10438,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Dataart </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10491,9 +10492,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Ivan Penev
 		</td>
-		<td>Fmi </td>
+		<td>@fmi </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10507,7 +10508,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10535,7 +10536,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Labo8 </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10563,7 +10564,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
@@ -10577,7 +10578,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>7</td>
 	</tr>
@@ -10591,7 +10592,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Consultant </td>
 		<td><a href="https://twitter.com/delian">delian</a></td>
-		<td>Bulgaria, Luxembourg</td>
+		<td>Bulgaria Luxembourg</td>
 		<td>0</td>
 		<td>7</td>
 	</tr>
@@ -10603,9 +10604,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Bozhidar Dryanovski
 		</td>
-		<td>Vmware  </td>
+		<td>@vmware  </td>
 		<td><a href="https://twitter.com/dryanovski">dryanovski</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>7</td>
 	</tr>
@@ -10633,7 +10634,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
@@ -10647,7 +10648,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Blagoevgrad</td>
+		<td>Bulgaria Blagoevgrad</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
@@ -10675,7 +10676,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>6</td>
 		<td>6</td>
 	</tr>
@@ -10687,9 +10688,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Tsvetan Tsvetkov
 		</td>
-		<td>Vmware  </td>
+		<td>@vmware  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>6</td>
 		<td>6</td>
 	</tr>
@@ -10731,7 +10732,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Plovdiv University </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
@@ -10757,9 +10758,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Aykut
 		</td>
-		<td>Millsapsllc  </td>
+		<td>@millsapsllc  </td>
 		<td><a href="https://twitter.com/AykutKorkmazX">AykutKorkmazX</a></td>
-		<td>Bulgaria - EU</td>
+		<td>Bulgaria  EU</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
@@ -10773,7 +10774,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Livotov Labs Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
@@ -10787,7 +10788,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>V. Tarnovo & Sofia</td>
+		<td>V Tarnovo  Sofia</td>
 		<td>0</td>
 		<td>5</td>
 	</tr>
@@ -10815,7 +10816,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Creative Assembly </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
@@ -10829,7 +10830,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
@@ -10843,7 +10844,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>2</td>
 		<td>5</td>
 	</tr>
@@ -10857,7 +10858,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vratsa, Bulgaria</td>
+		<td>Vratsa Bulgaria</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
@@ -10869,7 +10870,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Darin Dimitroff
 		</td>
-		<td>Webflow </td>
+		<td>@webflow </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>5</td>
@@ -10899,7 +10900,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -10909,9 +10910,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/Victor-Borisov">
 				<img src="https://avatars.githubusercontent.com/u/14372724?s=72&u=bd1fa6446339a2d4d9df215c63df732a5f0f32a2&v=4" width="24" alt="Avatar of Victor-Borisov"/> Victor-Borisov
 			</a><br/>
-			Vikt||
+			Vikt
 		</td>
-		<td>Dataart </td>
+		<td>@dataart </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>4</td>
@@ -10941,7 +10942,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Theopentag </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -10955,7 +10956,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -10997,7 +10998,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11011,7 +11012,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Nlcv  Bas </td>
 		<td><a href="https://twitter.com/VessOnSecurity">VessOnSecurity</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11023,9 +11024,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Marian Ignev
 		</td>
-		<td>Cloudstrap  </td>
+		<td>@cloudstrap  </td>
 		<td><a href="https://twitter.com/mignev">mignev</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11039,7 +11040,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11049,11 +11050,11 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/IvanFilipov">
 				<img src="https://avatars.githubusercontent.com/u/15016284?s=72&u=192fef284edec89a9c438334a8d7e0b76d139eb7&v=4" width="24" alt="Avatar of IvanFilipov"/> IvanFilipov
 			</a><br/>
-			Иван Филипов
+			 
 		</td>
 		<td> Faculty Of Math<br/>And<br/>Science<br/>Sofia<br/>University<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11081,7 +11082,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Veliko Tarnovo, Bulgaria</td>
+		<td>Veliko Tarnovo Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11095,7 +11096,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11109,7 +11110,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11137,7 +11138,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11165,7 +11166,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ivopdimitrov">ivopdimitrov</a></td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -11235,7 +11236,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>3</td>
 	</tr>
@@ -11263,7 +11264,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sliven, Bulgaria</td>
+		<td>Sliven Bulgaria</td>
 		<td>0</td>
 		<td>3</td>
 	</tr>
@@ -11275,9 +11276,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Robert Dimitrov
 		</td>
-		<td>Vmware </td>
+		<td>@vmware </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11289,9 +11290,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Yulia Tenincheva
 		</td>
-		<td>Mentormate </td>
+		<td>@mentormate </td>
 		<td><a href="https://twitter.com/3thelfleda">3thelfleda</a></td>
-		<td>Kyustendil, Bulgaria</td>
+		<td>Kyustendil Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11305,7 +11306,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Jpdocu Services Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11319,7 +11320,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kamend">kamend</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11333,7 +11334,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Hardware Group Ltd </td>
 		<td><a href="https://twitter.com/irdroid">irdroid</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11347,7 +11348,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11361,7 +11362,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>2</td>
 	</tr>
@@ -11375,7 +11376,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
+		<td>Varna Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11389,7 +11390,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Uber Bulgaria </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11403,7 +11404,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11459,7 +11460,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia/Zürich</td>
+		<td>SofiaZrich</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11473,7 +11474,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Intway </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>0</td>
 		<td>2</td>
 	</tr>
@@ -11501,7 +11502,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11571,7 +11572,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Nexo </td>
 		<td><a href="https://twitter.com/iliev_mario">iliev_mario</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -11597,9 +11598,9 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			</a><br/>
 			Viktor Vasilev
 		</td>
-		<td>2createstudio  </td>
+		<td>@2createstudio  </td>
 		<td>No Twitter Username</td>
-		<td>Popovo/Varna, Bulgaria</td>
+		<td>PopovoVarna Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11613,7 +11614,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11627,7 +11628,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Chtmlphpjavacss Developer </td>
 		<td>No Twitter Username</td>
-		<td>Kubrat,Razgrad [Bulgaria]</td>
+		<td>KubratRazgrad Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11655,7 +11656,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Currently Unemployeed  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11669,7 +11670,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Transmetrics </td>
 		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
+		<td>SofiaBulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11683,7 +11684,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Aussems Software </td>
 		<td>No Twitter Username</td>
-		<td>Bansko, Bulgaria</td>
+		<td>Bansko Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11711,7 +11712,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11725,7 +11726,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Despark </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11739,7 +11740,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vadikom Web Ltd </td>
 		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Plovdiv Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11753,7 +11754,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11767,7 +11768,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Entersoft Sa </td>
 		<td>No Twitter Username</td>
-		<td>Greece, Romania, Bulgaria</td>
+		<td>Greece Romania Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11795,7 +11796,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Strypes </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11823,7 +11824,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11837,7 +11838,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Vmware </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11851,7 +11852,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
+		<td>Bulgaria Sofia</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11879,7 +11880,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11893,7 +11894,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Citizen_Kolev">Citizen_Kolev</a></td>
-		<td>Europe / Sofia</td>
+		<td>Europe  Sofia</td>
 		<td>0</td>
 		<td>1</td>
 	</tr>
@@ -11907,7 +11908,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Relevaai </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, BG</td>
+		<td>Sofia BG</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11921,7 +11922,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Telerik </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
+		<td>Sofia Bulgaria</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -11931,7 +11932,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 			<a href="https://github.com/kmpelectronics">
 				<img src="https://avatars.githubusercontent.com/u/10406299?s=72&u=ce3a342c2b1ef353f21f345ec0a4a467c9876280&v=4" width="24" alt="Avatar of kmpelectronics"/> kmpelectronics
 			</a><br/>
-			KMP Electronics Ltd.
+			KMP Electronics Ltd
 		</td>
 		<td>Kmp Electronics Ltd </td>
 		<td>No Twitter Username</td>
