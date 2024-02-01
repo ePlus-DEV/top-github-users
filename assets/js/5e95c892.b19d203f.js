@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktop_github_users=self.webpackChunktop_github_users||[]).push([[4304],{3564:(e,s,r)=>{r.r(s),r.d(s,{default:()=>p});r(1504);var u=r(5456),c=r(5756),t=r(5864),a=r(5464),h=r(9012),n=r(7624);function p(e){return(0,n.jsx)(c.cr,{className:(0,u.c)(t.W.wrapper.docsPages),children:(0,n.jsx)(h.c,{children:(0,a.k)(e.route.routes)})})}}}]);
