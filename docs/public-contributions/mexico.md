@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` by users in Mexico on `2024/2/2 10:54 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` by users in Mexico on `2024/2/2 1:37 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Object Computing Inc Oci<br/></td>
 		<td><a target="_blank" href="https://twitter.com/sdelamo">sdelamo</a></td>
 		<td>Guadalajara Spain Remote</td>
-		<td>18002</td>
+		<td>18004</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -302,7 +302,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/luigirazum">luigirazum</a></td>
 		<td>Mexico</td>
-		<td>1271</td>
+		<td>1272</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -458,7 +458,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New Mexico United States</td>
-		<td>908</td>
+		<td>910</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -788,6 +788,19 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>53</td>
 		<td>
+			<a target="_blank" href="https://github.com/jmcota">
+				<img src="https://avatars.githubusercontent.com/u/2374503?s=72&u=ba4789d62913c8708a2a05365b7c622e5941e3b8&v=4" width="24" alt="Avatar of jmcota"/> jmcota
+			</a><br/>
+			Jos Manuel Cota
+		</td>
+		<td>Ontica </td>
+		<td><a target="_blank" href="https://twitter.com/ontica">ontica</a></td>
+		<td>Mexico</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
 			<a target="_blank" href="https://github.com/sam-621">
 				<img src="https://avatars.githubusercontent.com/u/63329638?s=72&u=6ab8ab1b020e01b7d26b21218ef2849e7d2d1a03&v=4" width="24" alt="Avatar of sam-621"/> sam-621
 			</a><br/>
@@ -797,19 +810,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico Sinaloa</td>
 		<td>599</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
-			<a target="_blank" href="https://github.com/jmcota">
-				<img src="https://avatars.githubusercontent.com/u/2374503?s=72&u=ba4789d62913c8708a2a05365b7c622e5941e3b8&v=4" width="24" alt="Avatar of jmcota"/> jmcota
-			</a><br/>
-			Jos Manuel Cota
-		</td>
-		<td>Ontica </td>
-		<td><a target="_blank" href="https://twitter.com/ontica">ontica</a></td>
-		<td>Mexico</td>
-		<td>598</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1225,7 +1225,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Tcs </td>
 		<td>No Twitter Username</td>
 		<td>Son Mexico</td>
-		<td>413</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1680,7 +1680,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Cgiar </td>
 		<td>No Twitter Username</td>
 		<td>Texcoco Mexico</td>
-		<td>289</td>
+		<td>290</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -2205,6 +2205,19 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>162</td>
 		<td>
+			<a target="_blank" href="https://github.com/Softwave">
+				<img src="https://avatars.githubusercontent.com/u/2408541?s=72&u=ee12aa6307636e5885c30340a161fdece1b99e27&v=4" width="24" alt="Avatar of Softwave"/> Softwave
+			</a><br/>
+			Jessica Leyba
+		</td>
+		<td>Softwave </td>
+		<td>No Twitter Username</td>
+		<td>Albuquerque New Mexico</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
 			<a target="_blank" href="https://github.com/ElmerAdrianV">
 				<img src="https://avatars.githubusercontent.com/u/71801888?s=72&u=6aa6dc6c359a1dc3e6552dd480daf8dc98ce37ee&v=4" width="24" alt="Avatar of ElmerAdrianV"/> ElmerAdrianV
 			</a><br/>
@@ -2216,7 +2229,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a target="_blank" href="https://github.com/CesarJimenezVilleda02">
 				<img src="https://avatars.githubusercontent.com/u/65324745?s=72&u=ae92ed962fe0f3b549821f218cb76c50a2a03291&v=4" width="24" alt="Avatar of CesarJimenezVilleda02"/> CesarJimenezVilleda02
@@ -2229,7 +2242,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/danihodovic">
 				<img src="https://avatars.githubusercontent.com/u/5557301?s=72&u=9e4d47fc0a8e04ce09d103f06341c5fe8a498ffa&v=4" width="24" alt="Avatar of danihodovic"/> danihodovic
@@ -2242,7 +2255,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/jmsalcido">
 				<img src="https://avatars.githubusercontent.com/u/339040?s=72&u=13c4fe19705ee7d42c7b5f8dd4b61b7e9ecf10ba&v=4" width="24" alt="Avatar of jmsalcido"/> jmsalcido
@@ -2255,7 +2268,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/ArturVargas">
 				<img src="https://avatars.githubusercontent.com/u/21693926?s=72&u=a0f35d5cbc47e874623f1e81ca93359293f09718&v=4" width="24" alt="Avatar of ArturVargas"/> ArturVargas
@@ -2265,19 +2278,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/0xVato">0xVato</a></td>
 		<td>CDMX Mexico</td>
-		<td>214</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a target="_blank" href="https://github.com/Softwave">
-				<img src="https://avatars.githubusercontent.com/u/2408541?s=72&u=ee12aa6307636e5885c30340a161fdece1b99e27&v=4" width="24" alt="Avatar of Softwave"/> Softwave
-			</a><br/>
-			Jessica Leyba
-		</td>
-		<td>Softwave </td>
-		<td>No Twitter Username</td>
-		<td>Albuquerque New Mexico</td>
 		<td>214</td>
 	</tr>
 	<tr>
@@ -2738,19 +2738,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>203</td>
 		<td>
-			<a target="_blank" href="https://github.com/cedoduarte">
-				<img src="https://avatars.githubusercontent.com/u/7476704?s=72&u=9a206fbb2a9496c39fe8cfcbfe1af09344481793&v=4" width="24" alt="Avatar of cedoduarte"/> cedoduarte
-			</a><br/>
-			Carlos Duarte
-		</td>
-		<td>Integon </td>
-		<td>No Twitter Username</td>
-		<td>Tijuana Baja California</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
 			<a target="_blank" href="https://github.com/lcajachahua">
 				<img src="https://avatars.githubusercontent.com/u/7228660?s=72&u=e7b0e3823d2f4a2ab17c7c444a7f434348ba8090&v=4" width="24" alt="Avatar of lcajachahua"/> lcajachahua
 			</a><br/>
@@ -2759,6 +2746,19 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>@teradata </td>
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a target="_blank" href="https://github.com/cedoduarte">
+				<img src="https://avatars.githubusercontent.com/u/7476704?s=72&u=9a206fbb2a9496c39fe8cfcbfe1af09344481793&v=4" width="24" alt="Avatar of cedoduarte"/> cedoduarte
+			</a><br/>
+			Carlos Duarte
+		</td>
+		<td>Integon </td>
+		<td>No Twitter Username</td>
+		<td>Tijuana Baja California</td>
 		<td>166</td>
 	</tr>
 	<tr>
@@ -4883,6 +4883,19 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>368</td>
 		<td>
+			<a target="_blank" href="https://github.com/kenohori">
+				<img src="https://avatars.githubusercontent.com/u/1544239?s=72&u=963638249079f5d79f0aeb8ed21ab629cfd0347f&v=4" width="24" alt="Avatar of kenohori"/> kenohori
+			</a><br/>
+			Ken Arroyo Ohori
+		</td>
+		<td>Delft University Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Delft NL  Mexico City MX</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
 			<a target="_blank" href="https://github.com/kurenn">
 				<img src="https://avatars.githubusercontent.com/u/236312?s=72&u=7b0be7ca7b5c8c8798648f9d3d5928aea5c9df36&v=4" width="24" alt="Avatar of kurenn"/> kurenn
 			</a><br/>
@@ -4894,7 +4907,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielnieto">
 				<img src="https://avatars.githubusercontent.com/u/2120107?s=72&u=3cd8594a298d926bc64bc41ed370650b6154cac5&v=4" width="24" alt="Avatar of danielnieto"/> danielnieto
@@ -4907,7 +4920,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a target="_blank" href="https://github.com/gibranfp">
 				<img src="https://avatars.githubusercontent.com/u/3673076?s=72&u=52a1fe4c608e20b6a0212a6b4bae11d9a5df2997&v=4" width="24" alt="Avatar of gibranfp"/> gibranfp
@@ -4920,7 +4933,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a target="_blank" href="https://github.com/SweetSofiMC">
 				<img src="https://avatars.githubusercontent.com/u/7455707?s=72&u=75266c81207093fbd5a1673c4ff85f306c8b559b&v=4" width="24" alt="Avatar of SweetSofiMC"/> SweetSofiMC
@@ -4930,19 +4943,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a target="_blank" href="https://github.com/kenohori">
-				<img src="https://avatars.githubusercontent.com/u/1544239?s=72&u=963638249079f5d79f0aeb8ed21ab629cfd0347f&v=4" width="24" alt="Avatar of kenohori"/> kenohori
-			</a><br/>
-			Ken Arroyo Ohori
-		</td>
-		<td>Delft University Of Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Delft NL  Mexico City MX</td>
 		<td>53</td>
 	</tr>
 	<tr>
@@ -6521,19 +6521,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>494</td>
 		<td>
-			<a target="_blank" href="https://github.com/BernardoOlisan">
-				<img src="https://avatars.githubusercontent.com/u/46250121?s=72&u=d05bd895d7e734d5ec3553834b16001ab97d823c&v=4" width="24" alt="Avatar of BernardoOlisan"/> BernardoOlisan
-			</a><br/>
-			Bernardo Olisan
-		</td>
-		<td>None </td>
-		<td>No Twitter Username</td>
-		<td>Mexico</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
 			<a target="_blank" href="https://github.com/saiphcita">
 				<img src="https://avatars.githubusercontent.com/u/1920117?s=72&u=51096da90d7254c54ffb512d88e3d98c82c9de24&v=4" width="24" alt="Avatar of saiphcita"/> saiphcita
 			</a><br/>
@@ -6545,7 +6532,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a target="_blank" href="https://github.com/sr-vazkez">
 				<img src="https://avatars.githubusercontent.com/u/54718858?s=72&v=4" width="24" alt="Avatar of sr-vazkez"/> sr-vazkez
@@ -6558,7 +6545,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a target="_blank" href="https://github.com/odonML">
 				<img src="https://avatars.githubusercontent.com/u/30378361?s=72&u=5eaa948405d18524f0357bdb3afc406940ea1e7d&v=4" width="24" alt="Avatar of odonML"/> odonML
@@ -6571,7 +6558,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ricardoaar">
 				<img src="https://avatars.githubusercontent.com/u/52052247?s=72&u=13985172176e8f6eb81ecde8fb49bd0f21343d9d&v=4" width="24" alt="Avatar of Ricardoaar"/> Ricardoaar
@@ -6584,7 +6571,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a target="_blank" href="https://github.com/xe1gyq">
 				<img src="https://avatars.githubusercontent.com/u/3952588?s=72&u=1e26828b4abd382f027906f17ddde29d48ab650a&v=4" width="24" alt="Avatar of xe1gyq"/> xe1gyq
@@ -6597,7 +6584,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlexMaguey">
 				<img src="https://avatars.githubusercontent.com/u/13966704?s=72&u=f9c57370161605cb6c6185b5b71e4da40058219c&v=4" width="24" alt="Avatar of AlexMaguey"/> AlexMaguey
@@ -6606,6 +6593,19 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/alexmaguey">alexmaguey</a></td>
+		<td>Mexico</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a target="_blank" href="https://github.com/BernardoOlisan">
+				<img src="https://avatars.githubusercontent.com/u/46250121?s=72&u=d05bd895d7e734d5ec3553834b16001ab97d823c&v=4" width="24" alt="Avatar of BernardoOlisan"/> BernardoOlisan
+			</a><br/>
+			Bernardo Olisan
+		</td>
+		<td>None </td>
+		<td>No Twitter Username</td>
 		<td>Mexico</td>
 		<td>23</td>
 	</tr>
@@ -10032,7 +10032,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>764</td>
 		<td>
 			<a target="_blank" href="https://github.com/Phaze1D">
-				<img src="https://avatars.githubusercontent.com/u/8495952?s=72&u=a6500664c9c391b07824de6278a8726aeccf4c01&v=4" width="24" alt="Avatar of Phaze1D"/> Phaze1D
+				<img src="https://avatars.githubusercontent.com/u/8495952?s=72&u=def14fc674f9308c52dfd1ce3c7c76ab275258ed&v=4" width="24" alt="Avatar of Phaze1D"/> Phaze1D
 			</a><br/>
 			David Villarreal
 		</td>
