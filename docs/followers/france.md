@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in France
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France"/>
 </a>
 
-The `number of followers` of users in France on `2024/2/3 12:20 AM UTC`. This list contains users from France and cities Paris Marseille Lyon Bordeaux Toulouse Strasbourg Nice Nantes Montpellier Lille.
+The `number of followers` of users in France on `2024/2/3 3:06 AM UTC`. This list contains users from France and cities Paris Marseille Lyon Bordeaux Toulouse Strasbourg Nice Nantes Montpellier Lille.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -172,7 +172,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Freelance </td>
 		<td><a target="_blank" href="https://twitter.com/posva">posva</a></td>
 		<td>Paris </td>
-		<td>5344</td>
+		<td>5343</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -237,7 +237,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@nuxtlabs </td>
 		<td><a target="_blank" href="https://twitter.com/Atinux">Atinux</a></td>
 		<td>France</td>
-		<td>4204</td>
+		<td>4203</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -276,7 +276,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@bdflabsec </td>
 		<td><a target="_blank" href="https://twitter.com/gentilkiwi">gentilkiwi</a></td>
 		<td>France</td>
-		<td>3868</td>
+		<td>3870</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -536,7 +536,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>2331</td>
+		<td>2332</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -549,7 +549,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>MesnilPanneville France</td>
-		<td>2328</td>
+		<td>2323</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -653,7 +653,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/_StanGirard">_StanGirard</a></td>
 		<td>Paris</td>
-		<td>2017</td>
+		<td>2018</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -666,7 +666,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@google </td>
 		<td>No Twitter Username</td>
 		<td>Paris</td>
-		<td>1939</td>
+		<td>1936</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -679,7 +679,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Argos </td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
-		<td>1895</td>
+		<td>1894</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -705,7 +705,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@ledgerhq </td>
 		<td><a target="_blank" href="https://twitter.com/greweb">greweb</a></td>
 		<td>Paris France</td>
-		<td>1868</td>
+		<td>1867</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -822,7 +822,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@carbonfact </td>
 		<td><a target="_blank" href="https://twitter.com/GitSquared">GitSquared</a></td>
 		<td>Paris France</td>
-		<td>1658</td>
+		<td>1659</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1082,7 +1082,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@huawei </td>
 		<td><a target="_blank" href="https://twitter.com/imperioworld_">imperioworld_</a></td>
 		<td>Paris</td>
-		<td>1281</td>
+		<td>1280</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1238,7 +1238,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@redhatofficial </td>
 		<td><a target="_blank" href="https://twitter.com/VictorStinner">VictorStinner</a></td>
 		<td>France</td>
-		<td>1200</td>
+		<td>1201</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1251,7 +1251,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Freelance </td>
 		<td><a target="_blank" href="https://twitter.com/aloisdeniel">aloisdeniel</a></td>
 		<td>Rennes France</td>
-		<td>1184</td>
+		<td>1185</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1277,7 +1277,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@godotengine </td>
 		<td><a target="_blank" href="https://twitter.com/HugoLocurcio">HugoLocurcio</a></td>
 		<td>Troyes France</td>
-		<td>1177</td>
+		<td>1176</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1433,7 +1433,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Videolabs </td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
-		<td>1099</td>
+		<td>1098</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1680,7 +1680,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Vercel </td>
 		<td><a target="_blank" href="https://twitter.com/vvoyer">vvoyer</a></td>
 		<td>Nantes France</td>
-		<td>937</td>
+		<td>936</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1732,7 +1732,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paris</td>
-		<td>899</td>
+		<td>900</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1979,7 +1979,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@datadog  </td>
 		<td><a target="_blank" href="https://twitter.com/phaazon_">phaazon_</a></td>
 		<td>France</td>
-		<td>797</td>
+		<td>798</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2127,19 +2127,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>156</td>
 		<td>
-			<a target="_blank" href="https://github.com/kizu">
-				<img src="https://avatars.githubusercontent.com/u/177485?s=72&u=4d84ea69f3e98cc16d9daf0c5e7e2ca09c9efad7&v=4" width="24" alt="Avatar of kizu"/> kizu
-			</a><br/>
-			Roman Komarov
-		</td>
-		<td>@datadog </td>
-		<td>No Twitter Username</td>
-		<td>France</td>
-		<td>751</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
 			<a target="_blank" href="https://github.com/Te-k">
 				<img src="https://avatars.githubusercontent.com/u/15989628?s=72&u=7e42e05b8b30d6706597aa6c9fd90f4b3c35d904&v=4" width="24" alt="Avatar of Te-k"/> Te-k
 			</a><br/>
@@ -2148,6 +2135,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toulouse France</td>
+		<td>752</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a target="_blank" href="https://github.com/kizu">
+				<img src="https://avatars.githubusercontent.com/u/177485?s=72&u=4d84ea69f3e98cc16d9daf0c5e7e2ca09c9efad7&v=4" width="24" alt="Avatar of kizu"/> kizu
+			</a><br/>
+			Roman Komarov
+		</td>
+		<td>@datadog </td>
+		<td>No Twitter Username</td>
+		<td>France</td>
 		<td>751</td>
 	</tr>
 	<tr>
@@ -2473,7 +2473,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>663</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>183</td>
@@ -3297,19 +3297,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>246</td>
 		<td>
-			<a target="_blank" href="https://github.com/vinayak-mehta">
-				<img src="https://avatars.githubusercontent.com/u/4329421?s=72&u=9cf48f14e306d48adfda27ae7a0bbd7d7533b1d2&v=4" width="24" alt="Avatar of vinayak-mehta"/> vinayak-mehta
-			</a><br/>
-			Vinayak Mehta
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/vortex_ape">vortex_ape</a></td>
-		<td>Paris</td>
-		<td>503</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
 			<a target="_blank" href="https://github.com/Amagash">
 				<img src="https://avatars.githubusercontent.com/u/20380447?s=72&u=1c5deea446e3f81f4e86708d96bad45cbd633fe3&v=4" width="24" alt="Avatar of Amagash"/> Amagash
 			</a><br/>
@@ -3318,6 +3305,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Aws </td>
 		<td><a target="_blank" href="https://twitter.com/tiffanysouterre">tiffanysouterre</a></td>
 		<td>France</td>
+		<td>504</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a target="_blank" href="https://github.com/vinayak-mehta">
+				<img src="https://avatars.githubusercontent.com/u/4329421?s=72&u=9cf48f14e306d48adfda27ae7a0bbd7d7533b1d2&v=4" width="24" alt="Avatar of vinayak-mehta"/> vinayak-mehta
+			</a><br/>
+			Vinayak Mehta
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/vortex_ape">vortex_ape</a></td>
+		<td>Paris</td>
 		<td>503</td>
 	</tr>
 	<tr>
@@ -3357,7 +3357,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/DenysSeguret">DenysSeguret</a></td>
 		<td>Lyon France</td>
-		<td>497</td>
+		<td>498</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -4155,19 +4155,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>312</td>
 		<td>
-			<a target="_blank" href="https://github.com/soupette">
-				<img src="https://avatars.githubusercontent.com/u/13311463?s=72&u=527f277877419863eb9ce120bf6f758aa39835bd&v=4" width="24" alt="Avatar of soupette"/> soupette
-			</a><br/>
-			cyril lopez
-		</td>
-		<td>@payfit </td>
-		<td>No Twitter Username</td>
-		<td>Lyon</td>
-		<td>411</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
 			<a target="_blank" href="https://github.com/TBoileau">
 				<img src="https://avatars.githubusercontent.com/u/10845781?s=72&u=04d4799c25b80cde73b93a6af187c1531336f1c0&v=4" width="24" alt="Avatar of TBoileau"/> TBoileau
 			</a><br/>
@@ -4179,7 +4166,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>410</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>313</td>
 		<td>
 			<a target="_blank" href="https://github.com/eliasdorneles">
 				<img src="https://avatars.githubusercontent.com/u/37565?s=72&u=c434472874ee0e4fddc18f96e4f4ff36a70e9eb2&v=4" width="24" alt="Avatar of eliasdorneles"/> eliasdorneles
@@ -4189,6 +4176,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paris</td>
+		<td>410</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a target="_blank" href="https://github.com/soupette">
+				<img src="https://avatars.githubusercontent.com/u/13311463?s=72&u=527f277877419863eb9ce120bf6f758aa39835bd&v=4" width="24" alt="Avatar of soupette"/> soupette
+			</a><br/>
+			cyril lopez
+		</td>
+		<td>@payfit </td>
+		<td>No Twitter Username</td>
+		<td>Lyon</td>
 		<td>410</td>
 	</tr>
 	<tr>
@@ -4384,7 +4384,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Strapi </td>
 		<td><a target="_blank" href="https://twitter.com/_alexandrebodin">_alexandrebodin</a></td>
 		<td>France</td>
-		<td>397</td>
+		<td>396</td>
 	</tr>
 	<tr>
 		<td>330</td>
@@ -4670,7 +4670,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@strapi  </td>
 		<td><a target="_blank" href="https://twitter.com/laurie_jim">laurie_jim</a></td>
 		<td>Paris FRANCE</td>
-		<td>382</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>352</td>
@@ -4701,19 +4701,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>354</td>
 		<td>
-			<a target="_blank" href="https://github.com/ndeloof">
-				<img src="https://avatars.githubusercontent.com/u/132757?s=72&v=4" width="24" alt="Avatar of ndeloof"/> ndeloof
-			</a><br/>
-			Nicolas De loof
-		</td>
-		<td>Docker </td>
-		<td><a target="_blank" href="https://twitter.com/ndeloof">ndeloof</a></td>
-		<td>Rennes France</td>
-		<td>378</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
 			<a target="_blank" href="https://github.com/thoas">
 				<img src="https://avatars.githubusercontent.com/u/19938?s=72&u=c1fa51350dbf4bc260670b025c94810ac19d6634&v=4" width="24" alt="Avatar of thoas"/> thoas
 			</a><br/>
@@ -4722,6 +4709,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Ulule </td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
+		<td>377</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a target="_blank" href="https://github.com/ndeloof">
+				<img src="https://avatars.githubusercontent.com/u/132757?s=72&v=4" width="24" alt="Avatar of ndeloof"/> ndeloof
+			</a><br/>
+			Nicolas De loof
+		</td>
+		<td>Docker </td>
+		<td><a target="_blank" href="https://twitter.com/ndeloof">ndeloof</a></td>
+		<td>Rennes France</td>
 		<td>377</td>
 	</tr>
 	<tr>
@@ -5242,7 +5242,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@leboncoin </td>
 		<td><a target="_blank" href="https://twitter.com/SimonAndroidDev">SimonAndroidDev</a></td>
 		<td>Paris France</td>
-		<td>337</td>
+		<td>338</td>
 	</tr>
 	<tr>
 		<td>396</td>
@@ -5351,6 +5351,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>404</td>
 		<td>
+			<a target="_blank" href="https://github.com/rozierguillaume">
+				<img src="https://avatars.githubusercontent.com/u/22763678?s=72&u=f10c1d50d6f9ce7ed6c7d64a767c02911df19cf4&v=4" width="24" alt="Avatar of rozierguillaume"/> rozierguillaume
+			</a><br/>
+			Guillaume Rozier
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/guillaumerozier">guillaumerozier</a></td>
+		<td>Paris</td>
+		<td>333</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a target="_blank" href="https://github.com/ClementPinard">
 				<img src="https://avatars.githubusercontent.com/u/4380424?s=72&u=53e6490329da8249d6307a0baa12aca6f681414f&v=4" width="24" alt="Avatar of ClementPinard"/> ClementPinard
 			</a><br/>
@@ -5360,19 +5373,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paris</td>
 		<td>333</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a target="_blank" href="https://github.com/rozierguillaume">
-				<img src="https://avatars.githubusercontent.com/u/22763678?s=72&u=f10c1d50d6f9ce7ed6c7d64a767c02911df19cf4&v=4" width="24" alt="Avatar of rozierguillaume"/> rozierguillaume
-			</a><br/>
-			Guillaume Rozier
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/guillaumerozier">guillaumerozier</a></td>
-		<td>Paris</td>
-		<td>332</td>
 	</tr>
 	<tr>
 		<td>406</td>
@@ -6248,6 +6248,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>473</td>
 		<td>
+			<a target="_blank" href="https://github.com/RaitoBezarius">
+				<img src="https://avatars.githubusercontent.com/u/314564?s=72&u=2b23b8b25c888f248f04be073e6b4994f932f7b7&v=4" width="24" alt="Avatar of RaitoBezarius"/> RaitoBezarius
+			</a><br/>
+			Ryan Lahfa
+		</td>
+		<td>Independent Contributor </td>
+		<td>No Twitter Username</td>
+		<td>France</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
 			<a target="_blank" href="https://github.com/toufik-airane">
 				<img src="https://avatars.githubusercontent.com/u/5610269?s=72&u=1b72057199197e4edb29ee4928078e1633ea0efa&v=4" width="24" alt="Avatar of toufik-airane"/> toufik-airane
 			</a><br/>
@@ -6257,19 +6270,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
 		<td>295</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a target="_blank" href="https://github.com/RaitoBezarius">
-				<img src="https://avatars.githubusercontent.com/u/314564?s=72&u=2b23b8b25c888f248f04be073e6b4994f932f7b7&v=4" width="24" alt="Avatar of RaitoBezarius"/> RaitoBezarius
-			</a><br/>
-			Ryan Lahfa
-		</td>
-		<td>Independent Contributor </td>
-		<td>No Twitter Username</td>
-		<td>France</td>
-		<td>294</td>
 	</tr>
 	<tr>
 		<td>475</td>
@@ -6404,6 +6404,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>485</td>
 		<td>
+			<a target="_blank" href="https://github.com/Guilouz">
+				<img src="https://avatars.githubusercontent.com/u/12702322?s=72&u=f6da23f5fd8d72ed72413e5bc8b9b2c170670783&v=4" width="24" alt="Avatar of Guilouz"/> Guilouz
+			</a><br/>
+			Cyril Guislain
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>France</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
 			<a target="_blank" href="https://github.com/Liryna">
 				<img src="https://avatars.githubusercontent.com/u/4311419?s=72&v=4" width="24" alt="Avatar of Liryna"/> Liryna
 			</a><br/>
@@ -6413,19 +6426,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>France</td>
 		<td>289</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a target="_blank" href="https://github.com/Guilouz">
-				<img src="https://avatars.githubusercontent.com/u/12702322?s=72&u=f6da23f5fd8d72ed72413e5bc8b9b2c170670783&v=4" width="24" alt="Avatar of Guilouz"/> Guilouz
-			</a><br/>
-			Cyril Guislain
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>France</td>
-		<td>288</td>
 	</tr>
 	<tr>
 		<td>487</td>
@@ -6586,6 +6586,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>499</td>
 		<td>
+			<a target="_blank" href="https://github.com/piitaya">
+				<img src="https://avatars.githubusercontent.com/u/5878303?s=72&u=ab28a992669ff3369d3f23bebe1313e7b3fbee0b&v=4" width="24" alt="Avatar of piitaya"/> piitaya
+			</a><br/>
+			Paul Bottein
+		</td>
+		<td>@homeassistant @nabucasa </td>
+		<td><a target="_blank" href="https://twitter.com/piitaya">piitaya</a></td>
+		<td>Lille</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
 			<a target="_blank" href="https://github.com/pvictor">
 				<img src="https://avatars.githubusercontent.com/u/4415580?s=72&u=20521e4b00f77d0e22b042bff019ed86abd03913&v=4" width="24" alt="Avatar of pvictor"/> pvictor
 			</a><br/>
@@ -6595,19 +6608,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
 		<td>280</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
-			<a target="_blank" href="https://github.com/piitaya">
-				<img src="https://avatars.githubusercontent.com/u/5878303?s=72&u=ab28a992669ff3369d3f23bebe1313e7b3fbee0b&v=4" width="24" alt="Avatar of piitaya"/> piitaya
-			</a><br/>
-			Paul Bottein
-		</td>
-		<td>@homeassistant @nabucasa </td>
-		<td><a target="_blank" href="https://twitter.com/piitaya">piitaya</a></td>
-		<td>Lille</td>
-		<td>279</td>
 	</tr>
 	<tr>
 		<td>501</td>
@@ -6820,19 +6820,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>517</td>
 		<td>
-			<a target="_blank" href="https://github.com/alexandregv">
-				<img src="https://avatars.githubusercontent.com/u/10067226?s=72&u=b87e0627a85990be28fbaae1373ce69b1595b5b2&v=4" width="24" alt="Avatar of alexandregv"/> alexandregv
-			</a><br/>
-			Alexandre GUIOTVALENTIN
-		</td>
-		<td>@42paris </td>
-		<td>No Twitter Username</td>
-		<td>Paris France</td>
-		<td>272</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
 			<a target="_blank" href="https://github.com/Phyronnaz">
 				<img src="https://avatars.githubusercontent.com/u/16806877?s=72&u=9f22d47f8682df3061081987287e90d40f553cc8&v=4" width="24" alt="Avatar of Phyronnaz"/> Phyronnaz
 			</a><br/>
@@ -6841,6 +6828,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>France</td>
+		<td>271</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a target="_blank" href="https://github.com/alexandregv">
+				<img src="https://avatars.githubusercontent.com/u/10067226?s=72&u=b87e0627a85990be28fbaae1373ce69b1595b5b2&v=4" width="24" alt="Avatar of alexandregv"/> alexandregv
+			</a><br/>
+			Alexandre GUIOTVALENTIN
+		</td>
+		<td>@42paris </td>
+		<td>No Twitter Username</td>
+		<td>Paris France</td>
 		<td>271</td>
 	</tr>
 	<tr>
@@ -8354,6 +8354,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>635</td>
 		<td>
+			<a target="_blank" href="https://github.com/devnied">
+				<img src="https://avatars.githubusercontent.com/u/995890?s=72&u=4c66a52fd29133a10c12c10c753854ee72332105&v=4" width="24" alt="Avatar of devnied"/> devnied
+			</a><br/>
+			Julien Millau
+		</td>
+		<td>Michelin </td>
+		<td><a target="_blank" href="https://twitter.com/devnied">devnied</a></td>
+		<td>ClermontFerrand France</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
 			<a target="_blank" href="https://github.com/gquere">
 				<img src="https://avatars.githubusercontent.com/u/1585000?s=72&u=5cd4da320787e2e6d6fbf0d1bcf13e85615c35f4&v=4" width="24" alt="Avatar of gquere"/> gquere
 			</a><br/>
@@ -8365,7 +8378,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>637</td>
 		<td>
 			<a target="_blank" href="https://github.com/BillelBenoudjit">
 				<img src="https://avatars.githubusercontent.com/u/33964844?s=72&u=a992fd7b40d9900a13e9b4456cbe952227e4e885&v=4" width="24" alt="Avatar of BillelBenoudjit"/> BillelBenoudjit
@@ -8378,7 +8391,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>638</td>
 		<td>
 			<a target="_blank" href="https://github.com/fabriceyopa">
 				<img src="https://avatars.githubusercontent.com/u/4902424?s=72&u=54bf5e65a787aaa0ea253953b4c391250563e997&v=4" width="24" alt="Avatar of fabriceyopa"/> fabriceyopa
@@ -8388,19 +8401,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@laravelcm  </td>
 		<td><a target="_blank" href="https://twitter.com/yopafabrice">yopafabrice</a></td>
 		<td>France</td>
-		<td>231</td>
-	</tr>
-	<tr>
-		<td>638</td>
-		<td>
-			<a target="_blank" href="https://github.com/devnied">
-				<img src="https://avatars.githubusercontent.com/u/995890?s=72&u=4c66a52fd29133a10c12c10c753854ee72332105&v=4" width="24" alt="Avatar of devnied"/> devnied
-			</a><br/>
-			Julien Millau
-		</td>
-		<td>Michelin </td>
-		<td><a target="_blank" href="https://twitter.com/devnied">devnied</a></td>
-		<td>ClermontFerrand France</td>
 		<td>231</td>
 	</tr>
 	<tr>
@@ -10135,6 +10135,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>772</td>
 		<td>
+			<a target="_blank" href="https://github.com/clarus">
+				<img src="https://avatars.githubusercontent.com/u/316665?s=72&u=18aacb0561d43abcf7ecca90bebbf753b655ee75&v=4" width="24" alt="Avatar of clarus"/> clarus
+			</a><br/>
+			Guillaume Claret
+		</td>
+		<td>Formal Land </td>
+		<td><a target="_blank" href="https://twitter.com/guillaumeclaret">guillaumeclaret</a></td>
+		<td>Paris</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
 			<a target="_blank" href="https://github.com/gabriel-dehan">
 				<img src="https://avatars.githubusercontent.com/u/1383633?s=72&v=4" width="24" alt="Avatar of gabriel-dehan"/> gabriel-dehan
 			</a><br/>
@@ -10146,7 +10159,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a target="_blank" href="https://github.com/Romakita">
 				<img src="https://avatars.githubusercontent.com/u/1763311?s=72&u=29dc6efc281f9b8c8de20eab797b894fed5e57d9&v=4" width="24" alt="Avatar of Romakita"/> Romakita
@@ -10159,7 +10172,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a target="_blank" href="https://github.com/julienXX">
 				<img src="https://avatars.githubusercontent.com/u/53949?s=72&u=2c248a2b035094bbbb6a8cd3113dfcbc215ea96c&v=4" width="24" alt="Avatar of julienXX"/> julienXX
@@ -10172,7 +10185,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a target="_blank" href="https://github.com/loicdescotte">
 				<img src="https://avatars.githubusercontent.com/u/638150?s=72&u=1b9cce352f1f7e877cf677846bb2b759077231ce&v=4" width="24" alt="Avatar of loicdescotte"/> loicdescotte
@@ -10185,7 +10198,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a target="_blank" href="https://github.com/mykiwi">
 				<img src="https://avatars.githubusercontent.com/u/334432?s=72&u=8e0e09ca184a8891c4731401f39edba0895834c2&v=4" width="24" alt="Avatar of mykiwi"/> mykiwi
@@ -10198,7 +10211,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a target="_blank" href="https://github.com/xavierlacot">
 				<img src="https://avatars.githubusercontent.com/u/177293?s=72&v=4" width="24" alt="Avatar of xavierlacot"/> xavierlacot
@@ -10208,19 +10221,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Jolicode </td>
 		<td><a target="_blank" href="https://twitter.com/xavierlacot">xavierlacot</a></td>
 		<td>Paris France</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>778</td>
-		<td>
-			<a target="_blank" href="https://github.com/clarus">
-				<img src="https://avatars.githubusercontent.com/u/316665?s=72&u=18aacb0561d43abcf7ecca90bebbf753b655ee75&v=4" width="24" alt="Avatar of clarus"/> clarus
-			</a><br/>
-			Guillaume Claret
-		</td>
-		<td>Formal Land </td>
-		<td><a target="_blank" href="https://twitter.com/guillaumeclaret">guillaumeclaret</a></td>
-		<td>Paris</td>
 		<td>191</td>
 	</tr>
 	<tr>
@@ -10642,19 +10642,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>811</td>
 		<td>
-			<a target="_blank" href="https://github.com/mockersf">
-				<img src="https://avatars.githubusercontent.com/u/8672791?s=72&u=6350847888b0006d335bc98ca32a5359389d26b5&v=4" width="24" alt="Avatar of mockersf"/> mockersf
-			</a><br/>
-			Franois
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/FrancoisMockers">FrancoisMockers</a></td>
-		<td>France</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>812</td>
-		<td>
 			<a target="_blank" href="https://github.com/djhi">
 				<img src="https://avatars.githubusercontent.com/u/1122076?s=72&u=f0c921a9936a7af17c272ca8857044c079ccd225&v=4" width="24" alt="Avatar of djhi"/> djhi
 			</a><br/>
@@ -10666,20 +10653,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>813</td>
-		<td>
-			<a target="_blank" href="https://github.com/frgfm">
-				<img src="https://avatars.githubusercontent.com/u/26927750?s=72&u=dfbafc3534a42845875b527483a134ec48bfe6f9&v=4" width="24" alt="Avatar of frgfm"/> frgfm
-			</a><br/>
-			FG Fernandez
-		</td>
-		<td>@quackai @pyronear </td>
-		<td><a target="_blank" href="https://twitter.com/FrG_FM">FrG_FM</a></td>
-		<td>Paris FR</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>814</td>
+		<td>812</td>
 		<td>
 			<a target="_blank" href="https://github.com/N0rz3">
 				<img src="https://avatars.githubusercontent.com/u/123885505?s=72&u=fad974e8c45c7991d949daafd7f49fe08fda6a69&v=4" width="24" alt="Avatar of N0rz3"/> N0rz3
@@ -10692,7 +10666,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>813</td>
 		<td>
 			<a target="_blank" href="https://github.com/bvernoux">
 				<img src="https://avatars.githubusercontent.com/u/432709?s=72&v=4" width="24" alt="Avatar of bvernoux"/> bvernoux
@@ -10705,7 +10679,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>814</td>
 		<td>
 			<a target="_blank" href="https://github.com/serlesen">
 				<img src="https://avatars.githubusercontent.com/u/6515947?s=72&v=4" width="24" alt="Avatar of serlesen"/> serlesen
@@ -10718,7 +10692,20 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>815</td>
+		<td>
+			<a target="_blank" href="https://github.com/mockersf">
+				<img src="https://avatars.githubusercontent.com/u/8672791?s=72&u=6350847888b0006d335bc98ca32a5359389d26b5&v=4" width="24" alt="Avatar of mockersf"/> mockersf
+			</a><br/>
+			Franois
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/FrancoisMockers">FrancoisMockers</a></td>
+		<td>France</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/tchak">
 				<img src="https://avatars.githubusercontent.com/u/12428?s=72&v=4" width="24" alt="Avatar of tchak"/> tchak
@@ -10728,6 +10715,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@betagouv </td>
 		<td><a target="_blank" href="https://twitter.com/tchak13">tchak13</a></td>
 		<td>Paris</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>817</td>
+		<td>
+			<a target="_blank" href="https://github.com/frgfm">
+				<img src="https://avatars.githubusercontent.com/u/26927750?s=72&u=dfbafc3534a42845875b527483a134ec48bfe6f9&v=4" width="24" alt="Avatar of frgfm"/> frgfm
+			</a><br/>
+			FG Fernandez
+		</td>
+		<td>@quackai @pyronear </td>
+		<td><a target="_blank" href="https://twitter.com/FrG_FM">FrG_FM</a></td>
+		<td>Paris FR</td>
 		<td>184</td>
 	</tr>
 	<tr>
@@ -10759,19 +10759,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>820</td>
 		<td>
-			<a target="_blank" href="https://github.com/diox">
-				<img src="https://avatars.githubusercontent.com/u/187006?s=72&v=4" width="24" alt="Avatar of diox"/> diox
-			</a><br/>
-			Mathieu Pillard
-		</td>
-		<td>@mozilla </td>
-		<td>No Twitter Username</td>
-		<td>Rennes France</td>
-		<td>183</td>
-	</tr>
-	<tr>
-		<td>821</td>
-		<td>
 			<a target="_blank" href="https://github.com/ybayle">
 				<img src="https://avatars.githubusercontent.com/u/17142748?s=72&u=afdd9a9e0734ff3cee700ff4d168bfc318ca23f5&v=4" width="24" alt="Avatar of ybayle"/> ybayle
 			</a><br/>
@@ -10783,7 +10770,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/tdimnet">
 				<img src="https://avatars.githubusercontent.com/u/9935925?s=72&u=90d6020b1e99960d5cc4ad0517bf6e6e96907d6f&v=4" width="24" alt="Avatar of tdimnet"/> tdimnet
@@ -10796,7 +10783,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>822</td>
 		<td>
 			<a target="_blank" href="https://github.com/damienalexandre">
 				<img src="https://avatars.githubusercontent.com/u/225704?s=72&u=0db288d2431f6fd5962b41ea540dbd1299d0e955&v=4" width="24" alt="Avatar of damienalexandre"/> damienalexandre
@@ -10809,7 +10796,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>823</td>
 		<td>
 			<a target="_blank" href="https://github.com/gmetais">
 				<img src="https://avatars.githubusercontent.com/u/498031?s=72&u=337b2446662214c6896d39e137ebd517cc9fc789&v=4" width="24" alt="Avatar of gmetais"/> gmetais
@@ -10822,7 +10809,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>824</td>
 		<td>
 			<a target="_blank" href="https://github.com/gnodet">
 				<img src="https://avatars.githubusercontent.com/u/84022?s=72&u=411d6cc1a1007325d0051d524e5ec04b5a859e1f&v=4" width="24" alt="Avatar of gnodet"/> gnodet
@@ -10832,6 +10819,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Caen France</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>825</td>
+		<td>
+			<a target="_blank" href="https://github.com/diox">
+				<img src="https://avatars.githubusercontent.com/u/187006?s=72&v=4" width="24" alt="Avatar of diox"/> diox
+			</a><br/>
+			Mathieu Pillard
+		</td>
+		<td>@mozilla </td>
+		<td>No Twitter Username</td>
+		<td>Rennes France</td>
 		<td>182</td>
 	</tr>
 	<tr>

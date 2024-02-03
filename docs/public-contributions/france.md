@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in France
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France"/>
 </a>
 
-The `public contributions` by users in France on `2024/2/3 12:20 AM UTC`. This list contains users from France and cities Paris Marseille Lyon Bordeaux Toulouse Strasbourg Nice Nantes Montpellier Lille.
+The `public contributions` by users in France on `2024/2/3 3:06 AM UTC`. This list contains users from France and cities Paris Marseille Lyon Bordeaux Toulouse Strasbourg Nice Nantes Montpellier Lille.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -133,7 +133,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@docker </td>
 		<td><a target="_blank" href="https://twitter.com/crazyws">crazyws</a></td>
 		<td>France</td>
-		<td>8569</td>
+		<td>8570</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -172,7 +172,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@inseefrlab </td>
 		<td><a target="_blank" href="https://twitter.com/GarroneJoseph">GarroneJoseph</a></td>
 		<td>Paris France</td>
-		<td>6962</td>
+		<td>6964</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -250,7 +250,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@cleverage </td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
-		<td>4526</td>
+		<td>4528</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -263,7 +263,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Cea </td>
 		<td><a target="_blank" href="https://twitter.com/ParisNeoAI">ParisNeoAI</a></td>
 		<td>France</td>
-		<td>4268</td>
+		<td>4275</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -302,7 +302,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@huawei </td>
 		<td><a target="_blank" href="https://twitter.com/imperioworld_">imperioworld_</a></td>
 		<td>Paris</td>
-		<td>3716</td>
+		<td>3717</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -471,7 +471,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@leboncoin </td>
 		<td><a target="_blank" href="https://twitter.com/SimonAndroidDev">SimonAndroidDev</a></td>
 		<td>Paris France</td>
-		<td>2719</td>
+		<td>2722</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -731,7 +731,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@godotengine </td>
 		<td><a target="_blank" href="https://twitter.com/HugoLocurcio">HugoLocurcio</a></td>
 		<td>Troyes France</td>
-		<td>2275</td>
+		<td>2278</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -757,7 +757,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@huggingface </td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
-		<td>2228</td>
+		<td>2229</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -874,7 +874,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>@swanio </td>
 		<td><a target="_blank" href="https://twitter.com/bloodyowl">bloodyowl</a></td>
 		<td>Paris France</td>
-		<td>1974</td>
+		<td>1975</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -965,7 +965,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ludnadez">ludnadez</a></td>
 		<td>France</td>
-		<td>1834</td>
+		<td>1835</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1550,7 +1550,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Developer @jetflyaviation </td>
 		<td><a target="_blank" href="https://twitter.com/enzoinnocenzi">enzoinnocenzi</a></td>
 		<td>France</td>
-		<td>1365</td>
+		<td>1366</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1940,7 +1940,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/vr_hai">vr_hai</a></td>
 		<td>Paris France</td>
-		<td>1199</td>
+		<td>1201</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -4410,7 +4410,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Notepad Project </td>
 		<td><a target="_blank" href="https://twitter.com/ho_don">ho_don</a></td>
 		<td>Paris France</td>
-		<td>464</td>
+		<td>465</td>
 	</tr>
 	<tr>
 		<td>332</td>
@@ -4709,7 +4709,7 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td>Freelance At Mooxio </td>
 		<td><a target="_blank" href="https://twitter.com/MoOx">MoOx</a></td>
 		<td>Toulouse France</td>
-		<td>426</td>
+		<td>427</td>
 	</tr>
 	<tr>
 		<td>355</td>
@@ -6963,6 +6963,19 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 	<tr>
 		<td>528</td>
 		<td>
+			<a target="_blank" href="https://github.com/topheman">
+				<img src="https://avatars.githubusercontent.com/u/985982?s=72&u=9319a164fa8c3c905b48e00bb554c4243d9c734b&v=4" width="24" alt="Avatar of topheman"/> topheman
+			</a><br/>
+			Christophe Rosset
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/topheman">topheman</a></td>
+		<td>Paris</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
 			<a target="_blank" href="https://github.com/PierreZ">
 				<img src="https://avatars.githubusercontent.com/u/2698318?s=72&v=4" width="24" alt="Avatar of PierreZ"/> PierreZ
 			</a><br/>
@@ -6972,19 +6985,6 @@ There are `950 users`  in France. You need at least `164 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/PierreZ">PierreZ</a></td>
 		<td>Brest France</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>529</td>
-		<td>
-			<a target="_blank" href="https://github.com/topheman">
-				<img src="https://avatars.githubusercontent.com/u/985982?s=72&u=9319a164fa8c3c905b48e00bb554c4243d9c734b&v=4" width="24" alt="Avatar of topheman"/> topheman
-			</a><br/>
-			Christophe Rosset
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/topheman">topheman</a></td>
-		<td>Paris</td>
-		<td>156</td>
 	</tr>
 	<tr>
 		<td>530</td>
