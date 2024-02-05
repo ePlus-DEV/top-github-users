@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Singapore
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore"/>
 </a>
 
-The `public contributions` by users in Singapore on `2024/2/5 6:58 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
+The `public contributions` by users in Singapore on `2024/2/5 9:57 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -406,7 +406,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/just4jc">just4jc</a></td>
 		<td>Singapore</td>
-		<td>1698</td>
+		<td>1699</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -2655,7 +2655,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>K8sugcom </td>
 		<td><a target="_blank" href="https://twitter.com/yongkanghe">yongkanghe</a></td>
 		<td>Singapore</td>
-		<td>249</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>197</td>
@@ -6586,6 +6586,19 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 	<tr>
 		<td>499</td>
 		<td>
+			<a target="_blank" href="https://github.com/spinningarrow">
+				<img src="https://avatars.githubusercontent.com/u/1797328?s=72&v=4" width="24" alt="Avatar of spinningarrow"/> spinningarrow
+			</a><br/>
+			Sahil Bajaj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oslo  Hamburg  Singapore</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
 			<a target="_blank" href="https://github.com/XingangPan">
 				<img src="https://avatars.githubusercontent.com/u/13579537?s=72&u=d3436a58b7f07f60d1ddd0e30e33e9c1f0b5e331&v=4" width="24" alt="Avatar of XingangPan"/> XingangPan
 			</a><br/>
@@ -6597,7 +6610,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
 		<td>
 			<a target="_blank" href="https://github.com/vdt">
 				<img src="https://avatars.githubusercontent.com/u/1792491?s=72&u=3d0ed4453521a31146922b1c3f6adf775e76db39&v=4" width="24" alt="Avatar of vdt"/> vdt
@@ -6610,7 +6623,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a target="_blank" href="https://github.com/FrozenBurning">
 				<img src="https://avatars.githubusercontent.com/u/35674081?s=72&u=ef16d3d858ffffb682c665e427ba4f0b8b0da233&v=4" width="24" alt="Avatar of FrozenBurning"/> FrozenBurning
@@ -6623,7 +6636,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a target="_blank" href="https://github.com/tonghuikang">
 				<img src="https://avatars.githubusercontent.com/u/17105577?s=72&u=f923d365d349dedec7efcf6bb3a6f76fa853284c&v=4" width="24" alt="Avatar of tonghuikang"/> tonghuikang
@@ -6636,7 +6649,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a target="_blank" href="https://github.com/lushl9301">
 				<img src="https://avatars.githubusercontent.com/u/2193051?s=72&v=4" width="24" alt="Avatar of lushl9301"/> lushl9301
@@ -6649,7 +6662,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/ruqqq">
 				<img src="https://avatars.githubusercontent.com/u/175895?s=72&u=e15dfa8f0767bb5fbb8061099285f8868617e3b9&v=4" width="24" alt="Avatar of ruqqq"/> ruqqq
@@ -6659,19 +6672,6 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
-			<a target="_blank" href="https://github.com/spinningarrow">
-				<img src="https://avatars.githubusercontent.com/u/1797328?s=72&v=4" width="24" alt="Avatar of spinningarrow"/> spinningarrow
-			</a><br/>
-			Sahil Bajaj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Oslo  Hamburg  Singapore</td>
 		<td>36</td>
 	</tr>
 	<tr>

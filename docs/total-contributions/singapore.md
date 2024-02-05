@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Singapore
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Singapore on `2024/2/5 6:58 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
+The `public contributions` and `private contributions` by users in Singapore on `2024/2/5 9:57 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -122,7 +122,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>182</td>
-		<td>1745369</td>
+		<td>1746314</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -304,7 +304,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/jmeistrich">jmeistrich</a></td>
 		<td>Singapore</td>
 		<td>804</td>
-		<td>4119</td>
+		<td>4120</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -934,7 +934,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/adriangohjw">adriangohjw</a></td>
 		<td>Singapore</td>
 		<td>47</td>
-		<td>2069</td>
+		<td>2070</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1032,7 +1032,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>0</td>
-		<td>1890</td>
+		<td>1893</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1227,8 +1227,8 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/just4jc">just4jc</a></td>
 		<td>Singapore</td>
-		<td>1698</td>
-		<td>1702</td>
+		<td>1699</td>
+		<td>1703</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1816,7 +1816,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/bryanmylee">bryanmylee</a></td>
 		<td>Singapore</td>
 		<td>264</td>
-		<td>1245</td>
+		<td>1247</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -3439,8 +3439,8 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oslo  Hamburg  Singapore</td>
-		<td>36</td>
-		<td>573</td>
+		<td>37</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3678,7 +3678,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>453</td>
-		<td>499</td>
+		<td>500</td>
 	</tr>
 	<tr>
 		<td>256</td>
@@ -4383,20 +4383,6 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 	<tr>
 		<td>306</td>
 		<td>
-			<a target="_blank" href="https://github.com/teowu">
-				<img src="https://avatars.githubusercontent.com/u/38696372?s=72&u=dca202bb9b785872eccc7ec787d47c32aa3fa535&v=4" width="24" alt="Avatar of teowu"/> teowu
-			</a><br/>
-			Teo Timothy Wu Haoning
-		</td>
-		<td>Nanyang Technological University </td>
-		<td><a target="_blank" href="https://twitter.com/HaoningTimothy">HaoningTimothy</a></td>
-		<td>50 Nanyang Avenue Singapore</td>
-		<td>369</td>
-		<td>369</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
 			<a target="_blank" href="https://github.com/jaepass">
 				<img src="https://avatars.githubusercontent.com/u/48780927?s=72&u=74259c2c4150e07fe804dc49bf0dac17b15acd96&v=4" width="24" alt="Avatar of jaepass"/> jaepass
 			</a><br/>
@@ -4406,6 +4392,20 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/jaeriaht">jaeriaht</a></td>
 		<td>Canada  Singapore  Thailand  Italy</td>
 		<td>5</td>
+		<td>370</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a target="_blank" href="https://github.com/teowu">
+				<img src="https://avatars.githubusercontent.com/u/38696372?s=72&u=dca202bb9b785872eccc7ec787d47c32aa3fa535&v=4" width="24" alt="Avatar of teowu"/> teowu
+			</a><br/>
+			Teo Timothy Wu Haoning
+		</td>
+		<td>Nanyang Technological University </td>
+		<td><a target="_blank" href="https://twitter.com/HaoningTimothy">HaoningTimothy</a></td>
+		<td>50 Nanyang Avenue Singapore</td>
+		<td>369</td>
 		<td>369</td>
 	</tr>
 	<tr>
@@ -5377,6 +5377,20 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 	<tr>
 		<td>377</td>
 		<td>
+			<a target="_blank" href="https://github.com/yongkanghe">
+				<img src="https://avatars.githubusercontent.com/u/40347406?s=72&u=6f1b093f2e9ec1047aad942c2e7e657025126896&v=4" width="24" alt="Avatar of yongkanghe"/> yongkanghe
+			</a><br/>
+			Yongkang He
+		</td>
+		<td>K8sugcom </td>
+		<td><a target="_blank" href="https://twitter.com/yongkanghe">yongkanghe</a></td>
+		<td>Singapore</td>
+		<td>250</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
 			<a target="_blank" href="https://github.com/mrigger">
 				<img src="https://avatars.githubusercontent.com/u/14328197?s=72&u=e97ef0750006855d997af2dbd65413ff0a6bcd72&v=4" width="24" alt="Avatar of mrigger"/> mrigger
 			</a><br/>
@@ -5387,20 +5401,6 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>Singapore</td>
 		<td>251</td>
 		<td>251</td>
-	</tr>
-	<tr>
-		<td>378</td>
-		<td>
-			<a target="_blank" href="https://github.com/yongkanghe">
-				<img src="https://avatars.githubusercontent.com/u/40347406?s=72&u=6f1b093f2e9ec1047aad942c2e7e657025126896&v=4" width="24" alt="Avatar of yongkanghe"/> yongkanghe
-			</a><br/>
-			Yongkang He
-		</td>
-		<td>K8sugcom </td>
-		<td><a target="_blank" href="https://twitter.com/yongkanghe">yongkanghe</a></td>
-		<td>Singapore</td>
-		<td>249</td>
-		<td>250</td>
 	</tr>
 	<tr>
 		<td>379</td>
@@ -6688,7 +6688,7 @@ There are `928 users`  in Singapore. You need at least `62 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/limdingwen">limdingwen</a></td>
 		<td>Singapore</td>
 		<td>36</td>
-		<td>140</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>471</td>
