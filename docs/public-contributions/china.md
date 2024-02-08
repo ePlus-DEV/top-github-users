@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in China
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China"/>
 </a>
 
-The `public contributions` by users in China on `2024/2/7 9:51 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
+The `public contributions` by users in China on `2024/2/8 12:56 AM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -146,7 +146,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ExpLang_Cn">ExpLang_Cn</a></td>
 		<td>shanghai</td>
-		<td>49214</td>
+		<td>49265</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xian China</td>
-		<td>37032</td>
+		<td>37045</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -276,7 +276,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Wfh Remote </td>
 		<td><a target="_blank" href="https://twitter.com/__oQuery">__oQuery</a></td>
 		<td>ShanghaiHangzhou China</td>
-		<td>3986</td>
+		<td>3987</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -315,7 +315,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/hooopo">hooopo</a></td>
 		<td>Beijing China</td>
-		<td>3635</td>
+		<td>3636</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -328,7 +328,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>@apache @sphereex </td>
 		<td><a target="_blank" href="https://twitter.com/LiangZh52199766">LiangZh52199766</a></td>
 		<td>Beijing China</td>
-		<td>3367</td>
+		<td>3368</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -380,7 +380,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>@toeverything </td>
 		<td><a target="_blank" href="https://twitter.com/ewind1994">ewind1994</a></td>
 		<td>China  Singapore</td>
-		<td>2992</td>
+		<td>2994</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -653,7 +653,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/yihong0618">yihong0618</a></td>
 		<td>China</td>
-		<td>1775</td>
+		<td>1776</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -744,7 +744,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Sjtu </td>
 		<td><a target="_blank" href="https://twitter.com/krahets">krahets</a></td>
 		<td>Shanghai</td>
-		<td>1615</td>
+		<td>1616</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1004,7 +1004,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/twsxtd">twsxtd</a></td>
 		<td>China</td>
-		<td>1255</td>
+		<td>1248</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1381,7 +1381,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Pigstycc </td>
 		<td>No Twitter Username</td>
 		<td>Beijing</td>
-		<td>846</td>
+		<td>847</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -2044,7 +2044,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Solopreneur </td>
 		<td><a target="_blank" href="https://twitter.com/ezshine">ezshine</a></td>
 		<td>BeijingChina</td>
-		<td>597</td>
+		<td>598</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2460,7 +2460,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Shenzhen Biqu Technology Co<br/>Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen China</td>
-		<td>498</td>
+		<td>499</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2551,7 +2551,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>@bmpidev </td>
 		<td><a target="_blank" href="https://twitter.com/madawei2699">madawei2699</a></td>
 		<td>China</td>
-		<td>455</td>
+		<td>457</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -2694,7 +2694,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Veighna Tech Co Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>408</td>
+		<td>409</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -2785,7 +2785,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Jdcom </td>
 		<td>No Twitter Username</td>
 		<td>Beijing china</td>
-		<td>383</td>
+		<td>384</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2985,6 +2985,19 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 	<tr>
 		<td>222</td>
 		<td>
+			<a target="_blank" href="https://github.com/Sneezry">
+				<img src="https://avatars.githubusercontent.com/u/1621293?s=72&u=49d359de5317d5eea2361b505cf07931691efecd&v=4" width="24" alt="Avatar of Sneezry"/> Sneezry
+			</a><br/>
+			Zhe Li
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Shanghai</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
 			<a target="_blank" href="https://github.com/geffzhang">
 				<img src="https://avatars.githubusercontent.com/u/439390?s=72&u=18ef08a0ec0899e57c7577ec03338d219e1c1973&v=4" width="24" alt="Avatar of geffzhang"/> geffzhang
 			</a><br/>
@@ -2994,19 +3007,6 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/geffzhang">geffzhang</a></td>
 		<td>ShenzhenChina</td>
 		<td>334</td>
-	</tr>
-	<tr>
-		<td>223</td>
-		<td>
-			<a target="_blank" href="https://github.com/Sneezry">
-				<img src="https://avatars.githubusercontent.com/u/1621293?s=72&u=49d359de5317d5eea2361b505cf07931691efecd&v=4" width="24" alt="Avatar of Sneezry"/> Sneezry
-			</a><br/>
-			Zhe Li
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Shanghai</td>
-		<td>332</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -4345,7 +4345,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Inblockchain </td>
 		<td><a target="_blank" href="https://twitter.com/xiaolai">xiaolai</a></td>
 		<td>beijing</td>
-		<td>153</td>
+		<td>154</td>
 	</tr>
 	<tr>
 		<td>327</td>
