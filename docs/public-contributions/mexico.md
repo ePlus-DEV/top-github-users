@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` by users in Mexico on `2024/2/9 12:16 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` by users in Mexico on `2024/2/9 3:23 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Object Computing Inc Oci<br/></td>
 		<td><a target="_blank" href="https://twitter.com/sdelamo">sdelamo</a></td>
 		<td>Guadalajara Spain Remote</td>
-		<td>17867</td>
+		<td>17878</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -224,7 +224,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/soysarcasme">soysarcasme</a></td>
 		<td>Acapulco Mexico</td>
-		<td>2255</td>
+		<td>2257</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1329,7 +1329,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Looking For Oportunities </td>
 		<td><a target="_blank" href="https://twitter.com/meltrustDVX">meltrustDVX</a></td>
 		<td>Mexico</td>
-		<td>378</td>
+		<td>380</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -2920,6 +2920,19 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>217</td>
 		<td>
+			<a target="_blank" href="https://github.com/David-Hackro">
+				<img src="https://avatars.githubusercontent.com/u/4633870?s=72&u=141fcf0f58894a71515641d8f13165db0f722786&v=4" width="24" alt="Avatar of David-Hackro"/> David-Hackro
+			</a><br/>
+			David Hackro
+		</td>
+		<td>David Hackro </td>
+		<td><a target="_blank" href="https://twitter.com/DavidHackro">DavidHackro</a></td>
+		<td>Mexico City</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
 			<a target="_blank" href="https://github.com/SergioArnaud">
 				<img src="https://avatars.githubusercontent.com/u/35473819?s=72&u=b3b13721077350338b1112191af660b5f5ad9ff7&v=4" width="24" alt="Avatar of SergioArnaud"/> SergioArnaud
 			</a><br/>
@@ -2931,7 +2944,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a target="_blank" href="https://github.com/terry1921">
 				<img src="https://avatars.githubusercontent.com/u/46543936?s=72&u=e1b037efbfb0d78ae8b25d14dffa5bf17910052e&v=4" width="24" alt="Avatar of terry1921"/> terry1921
@@ -2942,19 +2955,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/terry1921">terry1921</a></td>
 		<td>Queretaro Mexico</td>
 		<td>143</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a target="_blank" href="https://github.com/David-Hackro">
-				<img src="https://avatars.githubusercontent.com/u/4633870?s=72&u=141fcf0f58894a71515641d8f13165db0f722786&v=4" width="24" alt="Avatar of David-Hackro"/> David-Hackro
-			</a><br/>
-			David Hackro
-		</td>
-		<td>David Hackro </td>
-		<td><a target="_blank" href="https://twitter.com/DavidHackro">DavidHackro</a></td>
-		<td>Mexico City</td>
-		<td>141</td>
 	</tr>
 	<tr>
 		<td>220</td>

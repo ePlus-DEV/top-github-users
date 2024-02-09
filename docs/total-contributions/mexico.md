@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Mexico on `2024/2/9 12:16 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` and `private contributions` by users in Mexico on `2024/2/9 3:23 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -121,8 +121,8 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Object Computing Inc Oci<br/></td>
 		<td><a target="_blank" href="https://twitter.com/sdelamo">sdelamo</a></td>
 		<td>Guadalajara Spain Remote</td>
-		<td>17867</td>
-		<td>17867</td>
+		<td>17878</td>
+		<td>17878</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -164,7 +164,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Guadalajara MX</td>
 		<td>999</td>
-		<td>6509</td>
+		<td>6516</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -178,7 +178,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/chochosmx">chochosmx</a></td>
 		<td>Mexico City</td>
 		<td>4</td>
-		<td>4621</td>
+		<td>4624</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -276,7 +276,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/thefunador">thefunador</a></td>
 		<td>Puerto Escondido Mexico</td>
 		<td>0</td>
-		<td>3166</td>
+		<td>3168</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -429,8 +429,8 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/soysarcasme">soysarcasme</a></td>
 		<td>Acapulco Mexico</td>
-		<td>2255</td>
-		<td>2555</td>
+		<td>2257</td>
+		<td>2557</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -771,6 +771,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>48</td>
 		<td>
+			<a target="_blank" href="https://github.com/jupazave">
+				<img src="https://avatars.githubusercontent.com/u/1057196?s=72&u=bb0dfc0dfe348768661078f3891e6db52d72234f&v=4" width="24" alt="Avatar of jupazave"/> jupazave
+			</a><br/>
+			Juan Pablo Zamora Veraza
+		</td>
+		<td>@beekio </td>
+		<td><a target="_blank" href="https://twitter.com/jupazave">jupazave</a></td>
+		<td>Mexico Merida</td>
+		<td>6</td>
+		<td>1658</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
 			<a target="_blank" href="https://github.com/jovsz">
 				<img src="https://avatars.githubusercontent.com/u/12373528?s=72&u=7389a9dbb78c5c6d0b79a16a39a8127bb2c87b83&v=4" width="24" alt="Avatar of jovsz"/> jovsz
 			</a><br/>
@@ -781,20 +795,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Tijuana</td>
 		<td>85</td>
 		<td>1657</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a target="_blank" href="https://github.com/jupazave">
-				<img src="https://avatars.githubusercontent.com/u/1057196?s=72&u=bb0dfc0dfe348768661078f3891e6db52d72234f&v=4" width="24" alt="Avatar of jupazave"/> jupazave
-			</a><br/>
-			Juan Pablo Zamora Veraza
-		</td>
-		<td>@beekio </td>
-		<td><a target="_blank" href="https://twitter.com/jupazave">jupazave</a></td>
-		<td>Mexico Merida</td>
-		<td>6</td>
-		<td>1654</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1037,20 +1037,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>67</td>
 		<td>
-			<a target="_blank" href="https://github.com/soska">
-				<img src="https://avatars.githubusercontent.com/u/139577?s=72&u=4250553cd888ae40931eb3272ec531b86d486ff9&v=4" width="24" alt="Avatar of soska"/> soska
-			</a><br/>
-			Armando Sosa
-		</td>
-		<td>Nolimitstudiocom </td>
-		<td>No Twitter Username</td>
-		<td>Guadalajara Jal Mexico</td>
-		<td>0</td>
-		<td>1446</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
 			<a target="_blank" href="https://github.com/fdorantesm">
 				<img src="https://avatars.githubusercontent.com/u/19377556?s=72&u=e43532e3c73dc5ed50399067443696a57eaf29ea&v=4" width="24" alt="Avatar of fdorantesm"/> fdorantesm
 			</a><br/>
@@ -1060,6 +1046,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/fdorantesm">fdorantesm</a></td>
 		<td>Mexico City</td>
 		<td>470</td>
+		<td>1447</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a target="_blank" href="https://github.com/soska">
+				<img src="https://avatars.githubusercontent.com/u/139577?s=72&u=4250553cd888ae40931eb3272ec531b86d486ff9&v=4" width="24" alt="Avatar of soska"/> soska
+			</a><br/>
+			Armando Sosa
+		</td>
+		<td>Nolimitstudiocom </td>
+		<td>No Twitter Username</td>
+		<td>Guadalajara Jal Mexico</td>
+		<td>0</td>
 		<td>1446</td>
 	</tr>
 	<tr>
@@ -1186,7 +1186,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/_ebobby">_ebobby</a></td>
 		<td>Mexico</td>
 		<td>170</td>
-		<td>1334</td>
+		<td>1336</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1466,7 +1466,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jvelezmagic">jvelezmagic</a></td>
 		<td>Mexico</td>
 		<td>202</td>
-		<td>1197</td>
+		<td>1198</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1536,7 +1536,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/undedfined">undedfined</a></td>
 		<td>Mexico</td>
 		<td>0</td>
-		<td>1173</td>
+		<td>1174</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1788,7 +1788,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico City</td>
 		<td>1</td>
-		<td>1092</td>
+		<td>1093</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1830,7 +1830,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/hectorddmx">hectorddmx</a></td>
 		<td>Mexico City</td>
 		<td>61</td>
-		<td>1075</td>
+		<td>1076</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1872,7 +1872,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/MightyPenguinV">MightyPenguinV</a></td>
 		<td>Guadalajara</td>
 		<td>147</td>
-		<td>1045</td>
+		<td>1049</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -2432,7 +2432,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Colima Mexico</td>
 		<td>63</td>
-		<td>908</td>
+		<td>909</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -3039,6 +3039,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>210</td>
 		<td>
+			<a target="_blank" href="https://github.com/xiam">
+				<img src="https://avatars.githubusercontent.com/u/385670?s=72&u=1fde06de3d2788eb23fcb32bd204b343224293bd&v=4" width="24" alt="Avatar of xiam"/> xiam
+			</a><br/>
+			Jos Nieto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mexico City</td>
+		<td>46</td>
+		<td>714</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a target="_blank" href="https://github.com/Kelebra28">
 				<img src="https://avatars.githubusercontent.com/u/42687922?s=72&u=24089302810e6565475d2afa4dd5c02c9c967aa5&v=4" width="24" alt="Avatar of Kelebra28"/> Kelebra28
 			</a><br/>
@@ -3049,20 +3063,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Mexico City</td>
 		<td>410</td>
 		<td>713</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a target="_blank" href="https://github.com/xiam">
-				<img src="https://avatars.githubusercontent.com/u/385670?s=72&u=1fde06de3d2788eb23fcb32bd204b343224293bd&v=4" width="24" alt="Avatar of xiam"/> xiam
-			</a><br/>
-			Jos Nieto
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mexico City</td>
-		<td>46</td>
-		<td>712</td>
 	</tr>
 	<tr>
 		<td>212</td>
@@ -3487,20 +3487,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>242</td>
 		<td>
-			<a target="_blank" href="https://github.com/luisfernandobarrera">
-				<img src="https://avatars.githubusercontent.com/u/1202547?s=72&v=4" width="24" alt="Avatar of luisfernandobarrera"/> luisfernandobarrera
-			</a><br/>
-			Luis Fernando Barrera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mexico City Mexico</td>
-		<td>0</td>
-		<td>595</td>
-	</tr>
-	<tr>
-		<td>243</td>
-		<td>
 			<a target="_blank" href="https://github.com/orlandocharles">
 				<img src="https://avatars.githubusercontent.com/u/22510311?s=72&u=43912c86886ccf78247580c1581a9667e5984b60&v=4" width="24" alt="Avatar of orlandocharles"/> orlandocharles
 			</a><br/>
@@ -3509,6 +3495,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Monterrey</td>
+		<td>0</td>
+		<td>596</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a target="_blank" href="https://github.com/luisfernandobarrera">
+				<img src="https://avatars.githubusercontent.com/u/1202547?s=72&v=4" width="24" alt="Avatar of luisfernandobarrera"/> luisfernandobarrera
+			</a><br/>
+			Luis Fernando Barrera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mexico City Mexico</td>
 		<td>0</td>
 		<td>595</td>
 	</tr>
@@ -3860,7 +3860,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/Developerafan">Developerafan</a></td>
 		<td>Guadalajara Jalisco Mexico</td>
 		<td>10</td>
-		<td>518</td>
+		<td>520</td>
 	</tr>
 	<tr>
 		<td>269</td>
@@ -4182,7 +4182,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Guadalajara Mxico</td>
 		<td>0</td>
-		<td>470</td>
+		<td>471</td>
 	</tr>
 	<tr>
 		<td>292</td>
@@ -4551,20 +4551,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>318</td>
 		<td>
-			<a target="_blank" href="https://github.com/felipegonzalez">
-				<img src="https://avatars.githubusercontent.com/u/738299?s=72&v=4" width="24" alt="Avatar of felipegonzalez"/> felipegonzalez
-			</a><br/>
-			Felipe Gonzlez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mexico</td>
-		<td>332</td>
-		<td>397</td>
-	</tr>
-	<tr>
-		<td>319</td>
-		<td>
 			<a target="_blank" href="https://github.com/BernardoOlisan">
 				<img src="https://avatars.githubusercontent.com/u/46250121?s=72&u=d05bd895d7e734d5ec3553834b16001ab97d823c&v=4" width="24" alt="Avatar of BernardoOlisan"/> BernardoOlisan
 			</a><br/>
@@ -4574,6 +4560,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
 		<td>24</td>
+		<td>401</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a target="_blank" href="https://github.com/felipegonzalez">
+				<img src="https://avatars.githubusercontent.com/u/738299?s=72&v=4" width="24" alt="Avatar of felipegonzalez"/> felipegonzalez
+			</a><br/>
+			Felipe Gonzlez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mexico</td>
+		<td>332</td>
 		<td>397</td>
 	</tr>
 	<tr>
@@ -4663,6 +4663,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>326</td>
 		<td>
+			<a target="_blank" href="https://github.com/Meltrust">
+				<img src="https://avatars.githubusercontent.com/u/57421823?s=72&u=543385238d411f4a8984c718d22aa89182029b28&v=4" width="24" alt="Avatar of Meltrust"/> Meltrust
+			</a><br/>
+			Miguel Tapia
+		</td>
+		<td>Looking For Oportunities </td>
+		<td><a target="_blank" href="https://twitter.com/meltrustDVX">meltrustDVX</a></td>
+		<td>Mexico</td>
+		<td>380</td>
+		<td>383</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
 			<a target="_blank" href="https://github.com/neodevelop">
 				<img src="https://avatars.githubusercontent.com/u/23603?s=72&u=1599423f3caed1b52c3bc24680daf96d8d489b99&v=4" width="24" alt="Avatar of neodevelop"/> neodevelop
 			</a><br/>
@@ -4672,20 +4686,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/neodevelop">neodevelop</a></td>
 		<td>Mexico city</td>
 		<td>366</td>
-		<td>381</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
-			<a target="_blank" href="https://github.com/Meltrust">
-				<img src="https://avatars.githubusercontent.com/u/57421823?s=72&u=543385238d411f4a8984c718d22aa89182029b28&v=4" width="24" alt="Avatar of Meltrust"/> Meltrust
-			</a><br/>
-			Miguel Tapia
-		</td>
-		<td>Looking For Oportunities </td>
-		<td><a target="_blank" href="https://twitter.com/meltrustDVX">meltrustDVX</a></td>
-		<td>Mexico</td>
-		<td>378</td>
 		<td>381</td>
 	</tr>
 	<tr>
@@ -4756,7 +4756,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico City</td>
 		<td>242</td>
-		<td>365</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>333</td>
@@ -4775,6 +4775,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>334</td>
 		<td>
+			<a target="_blank" href="https://github.com/mayela">
+				<img src="https://avatars.githubusercontent.com/u/665952?s=72&u=f664323d61403261215e8392e5d82f6dcfb4e5a8&v=4" width="24" alt="Avatar of mayela"/> mayela
+			</a><br/>
+			Mar Snchez
+		</td>
+		<td>@washingtonpost </td>
+		<td>No Twitter Username</td>
+		<td>Mexico City</td>
+		<td>14</td>
+		<td>363</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
 			<a target="_blank" href="https://github.com/roberto-aguilar">
 				<img src="https://avatars.githubusercontent.com/u/5356595?s=72&u=239e2f41b72a4b599e233cc4b036a1ecd5d9e95c&v=4" width="24" alt="Avatar of roberto-aguilar"/> roberto-aguilar
 			</a><br/>
@@ -4787,7 +4801,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>363</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a target="_blank" href="https://github.com/gogl92">
 				<img src="https://avatars.githubusercontent.com/u/1505641?s=72&u=20bc2671bc6fe6dae9d0f015ce6578c9c183bcfb&v=4" width="24" alt="Avatar of gogl92"/> gogl92
@@ -4799,20 +4813,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Texas  Florida  Mexico</td>
 		<td>104</td>
 		<td>363</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a target="_blank" href="https://github.com/mayela">
-				<img src="https://avatars.githubusercontent.com/u/665952?s=72&u=f664323d61403261215e8392e5d82f6dcfb4e5a8&v=4" width="24" alt="Avatar of mayela"/> mayela
-			</a><br/>
-			Mar Snchez
-		</td>
-		<td>@washingtonpost </td>
-		<td>No Twitter Username</td>
-		<td>Mexico City</td>
-		<td>14</td>
-		<td>362</td>
 	</tr>
 	<tr>
 		<td>337</td>
@@ -4938,7 +4938,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
 		<td>27</td>
-		<td>347</td>
+		<td>349</td>
 	</tr>
 	<tr>
 		<td>346</td>
@@ -5204,7 +5204,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>New Mexico</td>
 		<td>55</td>
-		<td>309</td>
+		<td>310</td>
 	</tr>
 	<tr>
 		<td>365</td>
@@ -5279,6 +5279,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>370</td>
 		<td>
+			<a target="_blank" href="https://github.com/codingpains">
+				<img src="https://avatars.githubusercontent.com/u/54297?s=72&u=6c1bfe27cb96856178408bc00f2a136a4d96f62b&v=4" width="24" alt="Avatar of codingpains"/> codingpains
+			</a><br/>
+			Gustavo Ortiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Guadalajara Jalisco Mxico</td>
+		<td>3</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
 			<a target="_blank" href="https://github.com/EdgarGarciaMar">
 				<img src="https://avatars.githubusercontent.com/u/58317087?s=72&u=7f92b4990d079c1641048cb5a6f2672de928ba16&v=4" width="24" alt="Avatar of EdgarGarciaMar"/> EdgarGarciaMar
 			</a><br/>
@@ -5289,20 +5303,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Mexico</td>
 		<td>39</td>
 		<td>298</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a target="_blank" href="https://github.com/codingpains">
-				<img src="https://avatars.githubusercontent.com/u/54297?s=72&u=6c1bfe27cb96856178408bc00f2a136a4d96f62b&v=4" width="24" alt="Avatar of codingpains"/> codingpains
-			</a><br/>
-			Gustavo Ortiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guadalajara Jalisco Mxico</td>
-		<td>3</td>
-		<td>297</td>
 	</tr>
 	<tr>
 		<td>372</td>
@@ -6679,6 +6679,20 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>470</td>
 		<td>
+			<a target="_blank" href="https://github.com/David-Hackro">
+				<img src="https://avatars.githubusercontent.com/u/4633870?s=72&u=141fcf0f58894a71515641d8f13165db0f722786&v=4" width="24" alt="Avatar of David-Hackro"/> David-Hackro
+			</a><br/>
+			David Hackro
+		</td>
+		<td>David Hackro </td>
+		<td><a target="_blank" href="https://twitter.com/DavidHackro">DavidHackro</a></td>
+		<td>Mexico City</td>
+		<td>146</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
 			<a target="_blank" href="https://github.com/lcajachahua">
 				<img src="https://avatars.githubusercontent.com/u/7228660?s=72&u=e7b0e3823d2f4a2ab17c7c444a7f434348ba8090&v=4" width="24" alt="Avatar of lcajachahua"/> lcajachahua
 			</a><br/>
@@ -6691,7 +6705,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a target="_blank" href="https://github.com/codewithgoz">
 				<img src="https://avatars.githubusercontent.com/u/25261?s=72&u=4506e7fb2216c4eb4bbb2925e9411235f0a5a813&v=4" width="24" alt="Avatar of codewithgoz"/> codewithgoz
@@ -6705,7 +6719,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/javiersanpan">
 				<img src="https://avatars.githubusercontent.com/u/69559745?s=72&u=1ed46bfc19dbe3cc72f9fceca02b01c6a167e6c5&v=4" width="24" alt="Avatar of javiersanpan"/> javiersanpan
@@ -6719,7 +6733,7 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/Repflez">
 				<img src="https://avatars.githubusercontent.com/u/659133?s=72&u=3a5770663309113f65ea132f3804fd63343199db&v=4" width="24" alt="Avatar of Repflez"/> Repflez
@@ -6731,20 +6745,6 @@ There are `971 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Mexico</td>
 		<td>41</td>
 		<td>163</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a target="_blank" href="https://github.com/David-Hackro">
-				<img src="https://avatars.githubusercontent.com/u/4633870?s=72&u=141fcf0f58894a71515641d8f13165db0f722786&v=4" width="24" alt="Avatar of David-Hackro"/> David-Hackro
-			</a><br/>
-			David Hackro
-		</td>
-		<td>David Hackro </td>
-		<td><a target="_blank" href="https://twitter.com/DavidHackro">DavidHackro</a></td>
-		<td>Mexico City</td>
-		<td>141</td>
-		<td>161</td>
 	</tr>
 	<tr>
 		<td>475</td>
