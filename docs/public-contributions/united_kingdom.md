@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in United Kingdom
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom"/>
 </a>
 
-The `public contributions` by users in United Kingdom on `2024/2/9 12:52 AM UTC`. This list contains users from United Kingdom and cities London Birmingham Edinburgh Manchester Glasgow Liverpool Bristol.
+The `public contributions` by users in United Kingdom on `2024/2/9 3:57 AM UTC`. This list contains users from United Kingdom and cities London Birmingham Edinburgh Manchester Glasgow Liverpool Bristol.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -125,6 +125,19 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 	<tr>
 		<td>2</td>
 		<td>
+			<a target="_blank" href="https://github.com/HariSekhon">
+				<img src="https://avatars.githubusercontent.com/u/2211051?s=72&u=7747a673d98078d50467ba6e4d4f3a2f17b6db17&v=4" width="24" alt="Avatar of HariSekhon"/> HariSekhon
+			</a><br/>
+			Hari Sekhon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>London United Kingdom</td>
+		<td>9106</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
 			<a target="_blank" href="https://github.com/martincostello">
 				<img src="https://avatars.githubusercontent.com/u/1439341?s=72&u=bb6a16ba9e32502e6be979b743512144da2d4e02&v=4" width="24" alt="Avatar of martincostello"/> martincostello
 			</a><br/>
@@ -134,19 +147,6 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td><a target="_blank" href="https://twitter.com/martin_costello">martin_costello</a></td>
 		<td>London UK</td>
 		<td>9021</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>
-			<a target="_blank" href="https://github.com/HariSekhon">
-				<img src="https://avatars.githubusercontent.com/u/2211051?s=72&u=7747a673d98078d50467ba6e4d4f3a2f17b6db17&v=4" width="24" alt="Avatar of HariSekhon"/> HariSekhon
-			</a><br/>
-			Hari Sekhon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London United Kingdom</td>
-		<td>8903</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@monzo   </td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>8065</td>
+		<td>8069</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -328,7 +328,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>3381</td>
+		<td>3382</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -419,7 +419,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@digitalocean @alveusgg @cdnjs </td>
 		<td><a target="_blank" href="https://twitter.com/MattIPv4">MattIPv4</a></td>
 		<td>London United Kingdom</td>
-		<td>2911</td>
+		<td>2913</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -471,7 +471,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/isaacmarovitz">isaacmarovitz</a></td>
 		<td>London UK</td>
-		<td>2514</td>
+		<td>2515</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -510,7 +510,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@heroku </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>2279</td>
+		<td>2280</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -549,7 +549,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@facebook </td>
 		<td><a target="_blank" href="https://twitter.com/cortinico">cortinico</a></td>
 		<td>London UK</td>
-		<td>2234</td>
+		<td>2235</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -705,7 +705,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/karianna">karianna</a></td>
 		<td>London</td>
-		<td>1940</td>
+		<td>1947</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -1134,7 +1134,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@facebook </td>
 		<td><a target="_blank" href="https://twitter.com/unixchris">unixchris</a></td>
 		<td>London England</td>
-		<td>1451</td>
+		<td>1460</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -2720,7 +2720,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@canonicalltd  </td>
 		<td>No Twitter Username</td>
 		<td>Manchester UK</td>
-		<td>538</td>
+		<td>539</td>
 	</tr>
 	<tr>
 		<td>202</td>
@@ -3552,7 +3552,7 @@ There are `955 users`  in United Kingdom. You need at least `202 followers` to b
 		<td>@persistenceone  </td>
 		<td><a target="_blank" href="https://twitter.com/xlab_gg">xlab_gg</a></td>
 		<td>London</td>
-		<td>360</td>
+		<td>362</td>
 	</tr>
 	<tr>
 		<td>266</td>
