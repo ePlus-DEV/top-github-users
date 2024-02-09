@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in China
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China"/>
 </a>
 
-The `number of followers` of users in China on `2024/2/8 10:53 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
+The `number of followers` of users in China on `2024/2/9 1:59 AM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -133,7 +133,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Huawei Research </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>76470</td>
+		<td>76471</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1069,7 +1069,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Shenzhen Biqu Technology Co<br/>Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen China</td>
-		<td>5882</td>
+		<td>5883</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1966,7 +1966,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/lencx_">lencx_</a></td>
 		<td>Shanghai China</td>
-		<td>3605</td>
+		<td>3606</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -4332,7 +4332,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>1794</td>
+		<td>1795</td>
 	</tr>
 	<tr>
 		<td>326</td>
@@ -5099,7 +5099,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/lcMenci">lcMenci</a></td>
 		<td>Suzhou China</td>
-		<td>1568</td>
+		<td>1567</td>
 	</tr>
 	<tr>
 		<td>385</td>
@@ -5307,7 +5307,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td> Hangzhou China</td>
-		<td>1512</td>
+		<td>1513</td>
 	</tr>
 	<tr>
 		<td>401</td>
@@ -5710,7 +5710,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Peking University </td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>1403</td>
+		<td>1404</td>
 	</tr>
 	<tr>
 		<td>432</td>
@@ -5957,7 +5957,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1368</td>
+		<td>1369</td>
 	</tr>
 	<tr>
 		<td>451</td>
@@ -8986,7 +8986,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>@anaheimelectronics </td>
 		<td>No Twitter Username</td>
 		<td>ChengduChina</td>
-		<td>957</td>
+		<td>958</td>
 	</tr>
 	<tr>
 		<td>684</td>
@@ -9779,7 +9779,7 @@ There are `962 users`  in China. You need at least `687 followers` to be on this
 		<td>Nanjing University </td>
 		<td>No Twitter Username</td>
 		<td>Nanjing China</td>
-		<td>883</td>
+		<td>884</td>
 	</tr>
 	<tr>
 		<td>745</td>
