@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Australia
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia"/>
 </a>
 
-The `public contributions` by users in Australia on `2024/2/10 5:42 PM UTC`. This list contains users from Australia and cities Sydney Melbourne Perth Adelaide Brisbane Canberra Hobart Goldcoast Darwin.
+The `public contributions` by users in Australia on `2024/2/10 8:45 PM UTC`. This list contains users from Australia and cities Sydney Melbourne Perth Adelaide Brisbane Canberra Hobart Goldcoast Darwin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -146,7 +146,7 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>Red Hat </td>
 		<td><a target="_blank" href="https://twitter.com/phillipkruger">phillipkruger</a></td>
 		<td>Victoria Australia</td>
-		<td>5531</td>
+		<td>5542</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -164,19 +164,6 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 	<tr>
 		<td>5</td>
 		<td>
-			<a target="_blank" href="https://github.com/aaronparker">
-				<img src="https://avatars.githubusercontent.com/u/8227455?s=72&u=22af9362732882cc7e56e490a2643aeec87054e2&v=4" width="24" alt="Avatar of aaronparker"/> aaronparker
-			</a><br/>
-			Aaron Parker
-		</td>
-		<td>@insentra  </td>
-		<td><a target="_blank" href="https://twitter.com/stealthpuppy">stealthpuppy</a></td>
-		<td>Melbourne Australia</td>
-		<td>4870</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a target="_blank" href="https://github.com/harlan-zw">
 				<img src="https://avatars.githubusercontent.com/u/5326365?s=72&u=171656f99ff4c2f33943f642d813fff8399e76a8&v=4" width="24" alt="Avatar of harlan-zw"/> harlan-zw
 			</a><br/>
@@ -185,7 +172,20 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>Myself </td>
 		<td><a target="_blank" href="https://twitter.com/harlan_zw">harlan_zw</a></td>
 		<td>Australia</td>
-		<td>4868</td>
+		<td>4875</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a target="_blank" href="https://github.com/aaronparker">
+				<img src="https://avatars.githubusercontent.com/u/8227455?s=72&u=22af9362732882cc7e56e490a2643aeec87054e2&v=4" width="24" alt="Avatar of aaronparker"/> aaronparker
+			</a><br/>
+			Aaron Parker
+		</td>
+		<td>@insentra  </td>
+		<td><a target="_blank" href="https://twitter.com/stealthpuppy">stealthpuppy</a></td>
+		<td>Melbourne Australia</td>
+		<td>4873</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -211,7 +211,7 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>North Road </td>
 		<td>No Twitter Username</td>
 		<td>Sunshine Coast Australia</td>
-		<td>4552</td>
+		<td>4555</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -601,7 +601,7 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>@bevry </td>
 		<td><a target="_blank" href="https://twitter.com/balupton">balupton</a></td>
 		<td>Perth Australia</td>
-		<td>2160</td>
+		<td>2167</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -627,7 +627,7 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sydney Australia</td>
-		<td>2127</td>
+		<td>2128</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -1082,7 +1082,7 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Australia</td>
-		<td>1346</td>
+		<td>1347</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -3895,6 +3895,19 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 	<tr>
 		<td>292</td>
 		<td>
+			<a target="_blank" href="https://github.com/davecheney">
+				<img src="https://avatars.githubusercontent.com/u/7171?s=72&u=5616ab442b740916bb53748d0cfeb1345d2ffa99&v=4" width="24" alt="Avatar of davecheney"/> davecheney
+			</a><br/>
+			Dave Cheney
+		</td>
+		<td>Github </td>
+		<td>No Twitter Username</td>
+		<td>Sydney Australia</td>
+		<td>265</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
 			<a target="_blank" href="https://github.com/pda">
 				<img src="https://avatars.githubusercontent.com/u/15759?s=72&v=4" width="24" alt="Avatar of pda"/> pda
 			</a><br/>
@@ -3904,19 +3917,6 @@ There are `963 users`  in Australia. You need at least `117 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Adelaide Australia</td>
 		<td>265</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a target="_blank" href="https://github.com/davecheney">
-				<img src="https://avatars.githubusercontent.com/u/7171?s=72&u=5616ab442b740916bb53748d0cfeb1345d2ffa99&v=4" width="24" alt="Avatar of davecheney"/> davecheney
-			</a><br/>
-			Dave Cheney
-		</td>
-		<td>Github </td>
-		<td>No Twitter Username</td>
-		<td>Sydney Australia</td>
-		<td>264</td>
 	</tr>
 	<tr>
 		<td>294</td>
