@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/2/11 9:01 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/2/11 12:10 PM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -926,7 +926,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>Dymaxion Labs </td>
 		<td><a target="_blank" href="https://twitter.com/munshkr">munshkr</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>720</td>
+		<td>721</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -965,7 +965,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>3dgames </td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>708</td>
+		<td>709</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1407,7 +1407,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>Awebfactory </td>
 		<td><a target="_blank" href="https://twitter.com/a_web_factory">a_web_factory</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>479</td>
+		<td>481</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -6118,6 +6118,19 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 	<tr>
 		<td>463</td>
 		<td>
+			<a target="_blank" href="https://github.com/jesuslencina">
+				<img src="https://avatars.githubusercontent.com/u/36510164?s=72&u=64b205276e34cbf0d69e6e5ce875b08e8bd70a52&v=4" width="24" alt="Avatar of jesuslencina"/> jesuslencina
+			</a><br/>
+			Jesus Lencina
+		</td>
+		<td>Jemersoft </td>
+		<td>No Twitter Username</td>
+		<td>Crdoba Argentina</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
 			<a target="_blank" href="https://github.com/alexchwoj">
 				<img src="https://avatars.githubusercontent.com/u/49602261?s=72&u=70eb4b0fd22787a65d3d169b2b2f16f824210a46&v=4" width="24" alt="Avatar of alexchwoj"/> alexchwoj
 			</a><br/>
@@ -6129,7 +6142,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/gasp">
 				<img src="https://avatars.githubusercontent.com/u/597067?s=72&v=4" width="24" alt="Avatar of gasp"/> gasp
@@ -6139,19 +6152,6 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>@mazedesignhq  </td>
 		<td>No Twitter Username</td>
 		<td>Paris Buenos Aires</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
-			<a target="_blank" href="https://github.com/jesuslencina">
-				<img src="https://avatars.githubusercontent.com/u/36510164?s=72&u=64b205276e34cbf0d69e6e5ce875b08e8bd70a52&v=4" width="24" alt="Avatar of jesuslencina"/> jesuslencina
-			</a><br/>
-			Jesus Lencina
-		</td>
-		<td>Jemersoft </td>
-		<td>No Twitter Username</td>
-		<td>Crdoba Argentina</td>
 		<td>51</td>
 	</tr>
 	<tr>
