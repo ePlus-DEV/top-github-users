@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` by users in Mexico on `2024/2/11 10:43 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` by users in Mexico on `2024/2/11 1:50 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -237,7 +237,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Benemrita Universidad Autnoma De<br/>Puebla<br/></td>
 		<td><a target="_blank" href="https://twitter.com/dantecc10">dantecc10</a></td>
 		<td>Puebla Puebla</td>
-		<td>1851</td>
+		<td>1861</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -4480,19 +4480,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>337</td>
 		<td>
-			<a target="_blank" href="https://github.com/tereom">
-				<img src="https://avatars.githubusercontent.com/u/6341201?s=72&u=2c27a3e571f9378959dca65ef1ff80ddf5db7545&v=4" width="24" alt="Avatar of tereom"/> tereom
-			</a><br/>
-			Maria Teresa Ortiz
-		</td>
-		<td>Kantar Itam </td>
-		<td><a target="_blank" href="https://twitter.com/TeresaOM">TeresaOM</a></td>
-		<td>Mexico</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
 			<a target="_blank" href="https://github.com/kenohori">
 				<img src="https://avatars.githubusercontent.com/u/1544239?s=72&u=963638249079f5d79f0aeb8ed21ab629cfd0347f&v=4" width="24" alt="Avatar of kenohori"/> kenohori
 			</a><br/>
@@ -4501,6 +4488,19 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Delft University Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Delft NL  Mexico City MX</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a target="_blank" href="https://github.com/tereom">
+				<img src="https://avatars.githubusercontent.com/u/6341201?s=72&u=2c27a3e571f9378959dca65ef1ff80ddf5db7545&v=4" width="24" alt="Avatar of tereom"/> tereom
+			</a><br/>
+			Maria Teresa Ortiz
+		</td>
+		<td>Kantar Itam </td>
+		<td><a target="_blank" href="https://twitter.com/TeresaOM">TeresaOM</a></td>
+		<td>Mexico</td>
 		<td>66</td>
 	</tr>
 	<tr>
