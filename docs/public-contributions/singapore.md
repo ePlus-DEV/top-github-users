@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Singapore
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore"/>
 </a>
 
-The `public contributions` by users in Singapore on `2024/2/14 6:25 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
+The `public contributions` by users in Singapore on `2024/2/14 10:02 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -159,7 +159,7 @@ There are `929 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>3169</td>
+		<td>3170</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -250,7 +250,7 @@ There are `929 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>Nus </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>2551</td>
+		<td>2552</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -406,7 +406,7 @@ There are `929 users`  in Singapore. You need at least `62 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/just4jc">just4jc</a></td>
 		<td>Singapore</td>
-		<td>1706</td>
+		<td>1709</td>
 	</tr>
 	<tr>
 		<td>24</td>
