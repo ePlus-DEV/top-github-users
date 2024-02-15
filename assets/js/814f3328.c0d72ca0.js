@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktop_github_users=self.webpackChunktop_github_users||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Markdown blog truncation example","permalink":"/blog/index","unlisted":false}]}')}}]);
