@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/2/17 6:44 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/2/17 10:01 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -237,7 +237,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/moebiusSurfing">moebiusSurfing</a></td>
 		<td>Buenos Aires  Barcelona</td>
-		<td>1920</td>
+		<td>1922</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -263,7 +263,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>Ethereum Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>1727</td>
+		<td>1728</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1160,7 +1160,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Plata Argentina</td>
-		<td>578</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1251,7 +1251,7 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Pilar Buenos Aires Argentina</td>
-		<td>549</td>
+		<td>550</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -3739,6 +3739,19 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 	<tr>
 		<td>280</td>
 		<td>
+			<a target="_blank" href="https://github.com/lgallard">
+				<img src="https://avatars.githubusercontent.com/u/6194359?s=72&u=f163e450034a502dd4e2920c707f700df364e969&v=4" width="24" alt="Avatar of lgallard"/> lgallard
+			</a><br/>
+			Luis M Gallardo D
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Argentina</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
 			<a target="_blank" href="https://github.com/reynico">
 				<img src="https://avatars.githubusercontent.com/u/715768?s=72&u=a729f19e7cacb6ba61680ef5cc449d8521373cf8&v=4" width="24" alt="Avatar of reynico"/> reynico
 			</a><br/>
@@ -3748,19 +3761,6 @@ There are `974 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Buenos Aires</td>
 		<td>149</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a target="_blank" href="https://github.com/lgallard">
-				<img src="https://avatars.githubusercontent.com/u/6194359?s=72&u=f163e450034a502dd4e2920c707f700df364e969&v=4" width="24" alt="Avatar of lgallard"/> lgallard
-			</a><br/>
-			Luis M Gallardo D
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Argentina</td>
-		<td>148</td>
 	</tr>
 	<tr>
 		<td>282</td>
