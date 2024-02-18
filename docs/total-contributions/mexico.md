@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Mexico on `2024/2/18 7:48 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` and `private contributions` by users in Mexico on `2024/2/18 11:10 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -934,7 +934,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Guaymas Sonora Mexico</td>
 		<td>15</td>
-		<td>1562</td>
+		<td>1563</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -2824,7 +2824,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
 		<td>0</td>
-		<td>788</td>
+		<td>789</td>
 	</tr>
 	<tr>
 		<td>195</td>
@@ -4327,6 +4327,20 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>302</td>
 		<td>
+			<a target="_blank" href="https://github.com/David-Lazaro-Fernandez">
+				<img src="https://avatars.githubusercontent.com/u/57787993?s=72&u=07bedaa907417d71426d411a66222f3a9029cf6a&v=4" width="24" alt="Avatar of David-Lazaro-Fernandez"/> David-Lazaro-Fernandez
+			</a><br/>
+			David Lzaro Fernndez
+		</td>
+		<td>Davidlazaro20@hotmai </td>
+		<td><a target="_blank" href="https://twitter.com/DavidLazaroFern">DavidLazaroFern</a></td>
+		<td>Monterrey NL</td>
+		<td>326</td>
+		<td>452</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
 			<a target="_blank" href="https://github.com/pekosoG">
 				<img src="https://avatars.githubusercontent.com/u/5169813?s=72&u=0d0a589f774dd47e0c6d1dc2ba60ab5b43dd53ef&v=4" width="24" alt="Avatar of pekosoG"/> pekosoG
 			</a><br/>
@@ -4337,20 +4351,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Guadalajara Mxico</td>
 		<td>4</td>
 		<td>452</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
-			<a target="_blank" href="https://github.com/David-Lazaro-Fernandez">
-				<img src="https://avatars.githubusercontent.com/u/57787993?s=72&u=07bedaa907417d71426d411a66222f3a9029cf6a&v=4" width="24" alt="Avatar of David-Lazaro-Fernandez"/> David-Lazaro-Fernandez
-			</a><br/>
-			David Lzaro Fernndez
-		</td>
-		<td>Davidlazaro20@hotmai </td>
-		<td><a target="_blank" href="https://twitter.com/DavidLazaroFern">DavidLazaroFern</a></td>
-		<td>Monterrey NL</td>
-		<td>326</td>
-		<td>451</td>
 	</tr>
 	<tr>
 		<td>304</td>
@@ -5209,6 +5209,20 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>365</td>
 		<td>
+			<a target="_blank" href="https://github.com/SeaWar741">
+				<img src="https://avatars.githubusercontent.com/u/29043954?s=72&u=f445250922e194230025becbead934be4cb3c113&v=4" width="24" alt="Avatar of SeaWar741"/> SeaWar741
+			</a><br/>
+			Juan Carlos Garfias Tovar
+		</td>
+		<td>@dfuturemx </td>
+		<td><a target="_blank" href="https://twitter.com/juancagarfias">juancagarfias</a></td>
+		<td>Mexico</td>
+		<td>108</td>
+		<td>312</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
 			<a target="_blank" href="https://github.com/ivaan1992">
 				<img src="https://avatars.githubusercontent.com/u/73128809?s=72&u=3f4847cb885af446ee9452d3c2e76b0a3bde4836&v=4" width="24" alt="Avatar of ivaan1992"/> ivaan1992
 			</a><br/>
@@ -5221,7 +5235,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a target="_blank" href="https://github.com/GaboGomezT">
 				<img src="https://avatars.githubusercontent.com/u/14799183?s=72&u=697bc10a48814ae5196be32378bc89f5e89a36d0&v=4" width="24" alt="Avatar of GaboGomezT"/> GaboGomezT
@@ -5235,7 +5249,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>311</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a target="_blank" href="https://github.com/sabas1080">
 				<img src="https://avatars.githubusercontent.com/u/2874292?s=72&u=c6eec294fee36d18d20b2f08c49939dbd30255f8&v=4" width="24" alt="Avatar of sabas1080"/> sabas1080
@@ -5247,20 +5261,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Mexico</td>
 		<td>310</td>
 		<td>310</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a target="_blank" href="https://github.com/SeaWar741">
-				<img src="https://avatars.githubusercontent.com/u/29043954?s=72&u=f445250922e194230025becbead934be4cb3c113&v=4" width="24" alt="Avatar of SeaWar741"/> SeaWar741
-			</a><br/>
-			Juan Carlos Garfias Tovar
-		</td>
-		<td>@dfuturemx </td>
-		<td><a target="_blank" href="https://twitter.com/juancagarfias">juancagarfias</a></td>
-		<td>Mexico</td>
-		<td>108</td>
-		<td>306</td>
 	</tr>
 	<tr>
 		<td>369</td>
@@ -7107,8 +7107,8 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Universidad Popular Autonoma Del<br/>Estado<br/>De<br/>Puebla<br/></td>
 		<td>No Twitter Username</td>
 		<td>Puebla Pue</td>
-		<td>133</td>
-		<td>133</td>
+		<td>134</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>501</td>
