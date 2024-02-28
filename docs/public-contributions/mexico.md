@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` by users in Mexico on `2024/2/28 7:52 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` by users in Mexico on `2024/2/28 11:54 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Object Computing Inc Oci<br/></td>
 		<td><a target="_blank" href="https://twitter.com/sdelamo">sdelamo</a></td>
 		<td>Guadalajara Spain Remote</td>
-		<td>17807</td>
+		<td>17936</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Aguascalientes Mexico</td>
-		<td>5602</td>
+		<td>5604</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -237,7 +237,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Benemrita Universidad Autnoma De<br/>Puebla<br/></td>
 		<td><a target="_blank" href="https://twitter.com/dantecc10">dantecc10</a></td>
 		<td>Puebla Puebla</td>
-		<td>1922</td>
+		<td>1931</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1477,6 +1477,19 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>106</td>
 		<td>
+			<a target="_blank" href="https://github.com/MADGRISMAD">
+				<img src="https://avatars.githubusercontent.com/u/93164849?s=72&u=bfd5ebd1e2734c39624a2dc6e9e6139f75f0ddad&v=4" width="24" alt="Avatar of MADGRISMAD"/> MADGRISMAD
+			</a><br/>
+			Madeline Sabino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tijuana BC</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
 			<a target="_blank" href="https://github.com/David-Lazaro-Fernandez">
 				<img src="https://avatars.githubusercontent.com/u/57787993?s=72&u=07bedaa907417d71426d411a66222f3a9029cf6a&v=4" width="24" alt="Avatar of David-Lazaro-Fernandez"/> David-Lazaro-Fernandez
 			</a><br/>
@@ -1488,7 +1501,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a target="_blank" href="https://github.com/DiegoSt23">
 				<img src="https://avatars.githubusercontent.com/u/85208706?s=72&u=f5478bf35e2775d2f7c42561a3e986ddeda2af7d&v=4" width="24" alt="Avatar of DiegoSt23"/> DiegoSt23
@@ -1498,19 +1511,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Blackstone Studio </td>
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
-		<td>324</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a target="_blank" href="https://github.com/MADGRISMAD">
-				<img src="https://avatars.githubusercontent.com/u/93164849?s=72&u=bfd5ebd1e2734c39624a2dc6e9e6139f75f0ddad&v=4" width="24" alt="Avatar of MADGRISMAD"/> MADGRISMAD
-			</a><br/>
-			Madeline Sabino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tijuana BC</td>
 		<td>324</td>
 	</tr>
 	<tr>
