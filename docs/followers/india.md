@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in India
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India"/>
 </a>
 
-The `number of followers` of users in India on `2024/3/2 8:39 AM UTC`. This list contains users from India and cities Mumbai Bengaluru Chennai Ahmedabad Pune Kolkata Hyderabad Newdelhi Lucknow Jaipur.
+The `number of followers` of users in India on `2024/3/2 12:29 PM UTC`. This list contains users from India and cities Mumbai Bengaluru Chennai Ahmedabad Pune Kolkata Hyderabad Newdelhi Lucknow Jaipur.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/hiteshdotcom">hiteshdotcom</a></td>
 		<td>India</td>
-		<td>16612</td>
+		<td>16630</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -172,7 +172,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Codepur </td>
 		<td><a target="_blank" href="https://twitter.com/imthepk">imthepk</a></td>
 		<td>Faridabad India</td>
-		<td>11145</td>
+		<td>11146</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -185,7 +185,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Hyderabad India</td>
-		<td>8703</td>
+		<td>8712</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -198,7 +198,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Noob Hackers </td>
 		<td><a target="_blank" href="https://twitter.com/noob_hackers">noob_hackers</a></td>
 		<td>india</td>
-		<td>8641</td>
+		<td>8642</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -211,7 +211,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/s0md3v">s0md3v</a></td>
 		<td>India</td>
-		<td>8239</td>
+		<td>8240</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -224,7 +224,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Zerodha </td>
 		<td>No Twitter Username</td>
 		<td>Bengaluru</td>
-		<td>8170</td>
+		<td>8171</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -237,7 +237,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@amitshekhariitbhu </td>
 		<td><a target="_blank" href="https://twitter.com/amitiitbhu">amitiitbhu</a></td>
 		<td>New Delhi India</td>
-		<td>7651</td>
+		<td>7652</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -250,7 +250,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Bhiwani Students Club </td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>6732</td>
+		<td>6735</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -263,7 +263,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>6009</td>
+		<td>6019</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -289,7 +289,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Ibm </td>
 		<td>No Twitter Username</td>
 		<td>Ahmedabad</td>
-		<td>5790</td>
+		<td>5791</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -315,7 +315,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mumbai India</td>
-		<td>5307</td>
+		<td>5308</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -328,7 +328,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Coding Shuttle </td>
 		<td><a target="_blank" href="https://twitter.com/anujbhaiya716">anujbhaiya716</a></td>
 		<td>New Delhi India</td>
-		<td>4723</td>
+		<td>4722</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -341,7 +341,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Campusx </td>
 		<td>No Twitter Username</td>
 		<td>Gurgaon India</td>
-		<td>4643</td>
+		<td>4644</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -354,7 +354,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New DelhiIndia</td>
-		<td>4524</td>
+		<td>4528</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -367,7 +367,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@scaleracademy </td>
 		<td><a target="_blank" href="https://twitter.com/championswimmer">championswimmer</a></td>
 		<td>Bangalore India</td>
-		<td>4458</td>
+		<td>4459</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -380,7 +380,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Java Guides </td>
 		<td><a target="_blank" href="https://twitter.com/FadatareRamesh">FadatareRamesh</a></td>
 		<td>Pune</td>
-		<td>4400</td>
+		<td>4402</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -458,7 +458,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@myw3schoolscom </td>
 		<td>No Twitter Username</td>
 		<td>Bangalore India</td>
-		<td>3612</td>
+		<td>3611</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -510,7 +510,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New Delhi India</td>
-		<td>3219</td>
+		<td>3229</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -536,7 +536,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@google </td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>3083</td>
+		<td>3085</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -614,7 +614,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Google </td>
 		<td><a target="_blank" href="https://twitter.com/arpit_bhayani">arpit_bhayani</a></td>
 		<td>Bangalore India</td>
-		<td>2771</td>
+		<td>2773</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -640,7 +640,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>127001 </td>
 		<td><a target="_blank" href="https://twitter.com/arjuncvinod7">arjuncvinod7</a></td>
 		<td>India</td>
-		<td>2732</td>
+		<td>2729</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -900,7 +900,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Cred </td>
 		<td><a target="_blank" href="https://twitter.com/rahuldkjain">rahuldkjain</a></td>
 		<td>Bangalore India</td>
-		<td>2175</td>
+		<td>2174</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -926,7 +926,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@flutter </td>
 		<td><a target="_blank" href="https://twitter.com/pooja_bhaumik">pooja_bhaumik</a></td>
 		<td>India</td>
-		<td>2137</td>
+		<td>2138</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -1017,7 +1017,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/piyushgarg_dev">piyushgarg_dev</a></td>
 		<td>India</td>
-		<td>2043</td>
+		<td>2044</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1160,7 +1160,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ishan739">ishan739</a></td>
 		<td>Goa India</td>
-		<td>1902</td>
+		<td>1901</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1316,7 +1316,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>1675</td>
+		<td>1674</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1602,7 +1602,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@elestio </td>
 		<td><a target="_blank" href="https://twitter.com/kaiwalya_">kaiwalya_</a></td>
 		<td>Nashik India</td>
-		<td>1324</td>
+		<td>1323</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1628,7 +1628,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@amzn </td>
 		<td><a target="_blank" href="https://twitter.com/SwapAgarwal">SwapAgarwal</a></td>
 		<td>Bangalore India</td>
-		<td>1308</td>
+		<td>1309</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1784,7 +1784,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@toptal </td>
 		<td><a target="_blank" href="https://twitter.com/aviaryan123">aviaryan123</a></td>
 		<td>New Delhi India</td>
-		<td>1214</td>
+		<td>1215</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1875,7 +1875,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Statsoio </td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>1179</td>
+		<td>1180</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -1966,7 +1966,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@thealgorithms </td>
 		<td>No Twitter Username</td>
 		<td>Kolkata West Bengal India</td>
-		<td>1095</td>
+		<td>1094</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -1992,7 +1992,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td> @webpack @eslint @razorpay<br/></td>
 		<td><a target="_blank" href="https://twitter.com/snitin315">snitin315</a></td>
 		<td>INDIA</td>
-		<td>1089</td>
+		<td>1090</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2044,7 +2044,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/gursimarsm">gursimarsm</a></td>
 		<td>India</td>
-		<td>1057</td>
+		<td>1056</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2101,6 +2101,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>154</td>
 		<td>
+			<a target="_blank" href="https://github.com/darshilparmar">
+				<img src="https://avatars.githubusercontent.com/u/22773771?s=72&u=fa438f14780f0e76aa965050d8972977eaf8b6fa&v=4" width="24" alt="Avatar of darshilparmar"/> darshilparmar
+			</a><br/>
+			Darshil Parmar
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/parmardarshil07">parmardarshil07</a></td>
+		<td>Mumbai</td>
+		<td>1027</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
 			<a target="_blank" href="https://github.com/hackiftekhar">
 				<img src="https://avatars.githubusercontent.com/u/3831495?s=72&u=e97406e0c4cca3d9c8a9d23998dc880d767b5a8d&v=4" width="24" alt="Avatar of hackiftekhar"/> hackiftekhar
 			</a><br/>
@@ -2112,7 +2125,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>1026</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/TechieBlossom">
 				<img src="https://avatars.githubusercontent.com/u/39679158?s=72&u=f032c3410e630a0b97a16632eb4f5b6c6490a224&v=4" width="24" alt="Avatar of TechieBlossom"/> TechieBlossom
@@ -2122,19 +2135,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/SharmaPrateek7">SharmaPrateek7</a></td>
 		<td>India</td>
-		<td>1026</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a target="_blank" href="https://github.com/darshilparmar">
-				<img src="https://avatars.githubusercontent.com/u/22773771?s=72&u=fa438f14780f0e76aa965050d8972977eaf8b6fa&v=4" width="24" alt="Avatar of darshilparmar"/> darshilparmar
-			</a><br/>
-			Darshil Parmar
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/parmardarshil07">parmardarshil07</a></td>
-		<td>Mumbai</td>
 		<td>1026</td>
 	</tr>
 	<tr>
@@ -2382,7 +2382,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Amazon </td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>942</td>
+		<td>943</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2785,7 +2785,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Learncodewithdurgesh </td>
 		<td><a target="_blank" href="https://twitter.com/durgesh_k_t">durgesh_k_t</a></td>
 		<td>INDIA</td>
-		<td>847</td>
+		<td>849</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2798,7 +2798,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jigar_sable">jigar_sable</a></td>
 		<td>Pune India</td>
-		<td>845</td>
+		<td>846</td>
 	</tr>
 	<tr>
 		<td>208</td>
@@ -3136,7 +3136,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/MathewSachin7">MathewSachin7</a></td>
 		<td>India</td>
-		<td>769</td>
+		<td>768</td>
 	</tr>
 	<tr>
 		<td>234</td>
@@ -3227,7 +3227,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@esyasoft Technology  @cognizant<br/>@growthpal<br/>Technology<br/>@masaicourse<br/></td>
 		<td><a target="_blank" href="https://twitter.com/mvaibhav131">mvaibhav131</a></td>
 		<td>India</td>
-		<td>756</td>
+		<td>757</td>
 	</tr>
 	<tr>
 		<td>241</td>
@@ -3240,7 +3240,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/dosomecoding">dosomecoding</a></td>
 		<td>India</td>
-		<td>750</td>
+		<td>751</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3565,7 +3565,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New Delhi India Bharat</td>
-		<td>702</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>267</td>
@@ -3830,6 +3830,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>287</td>
 		<td>
+			<a target="_blank" href="https://github.com/Ayushparikh-code">
+				<img src="https://avatars.githubusercontent.com/u/60268067?s=72&u=ecba3bae801bb710839f9bb917c95f8c0e75976b&v=4" width="24" alt="Avatar of Ayushparikh-code"/> Ayushparikh-code
+			</a><br/>
+			Ayush Parikh
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ayushparikh5">ayushparikh5</a></td>
+		<td>India</td>
+		<td>664</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
 			<a target="_blank" href="https://github.com/karma9874">
 				<img src="https://avatars.githubusercontent.com/u/33444666?s=72&u=236731bce6eb24fd1d94326db0c237ae34b47bd2&v=4" width="24" alt="Avatar of karma9874"/> karma9874
 			</a><br/>
@@ -3841,7 +3854,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>662</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a target="_blank" href="https://github.com/hindupuravinash">
 				<img src="https://avatars.githubusercontent.com/u/3033246?s=72&u=168f48d42ed70afbb244a72cb0e2c785cb293875&v=4" width="24" alt="Avatar of hindupuravinash"/> hindupuravinash
@@ -3852,19 +3865,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/hindupuravinash">hindupuravinash</a></td>
 		<td>New Delhi</td>
 		<td>662</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a target="_blank" href="https://github.com/Ayushparikh-code">
-				<img src="https://avatars.githubusercontent.com/u/60268067?s=72&u=ecba3bae801bb710839f9bb917c95f8c0e75976b&v=4" width="24" alt="Avatar of Ayushparikh-code"/> Ayushparikh-code
-			</a><br/>
-			Ayush Parikh
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/ayushparikh5">ayushparikh5</a></td>
-		<td>India</td>
-		<td>660</td>
 	</tr>
 	<tr>
 		<td>290</td>
@@ -3960,6 +3960,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>297</td>
 		<td>
+			<a target="_blank" href="https://github.com/msfjarvis">
+				<img src="https://avatars.githubusercontent.com/u/13348378?s=72&u=76f4b1555db36d21f26e68822f7b17eeeda79968&v=4" width="24" alt="Avatar of msfjarvis"/> msfjarvis
+			</a><br/>
+			Harsh Shandilya
+		</td>
+		<td>@dyteio  </td>
+		<td>No Twitter Username</td>
+		<td>New Delhi</td>
+		<td>642</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
 			<a target="_blank" href="https://github.com/ibhavikmakwana">
 				<img src="https://avatars.githubusercontent.com/u/22465800?s=72&u=8e0e26cc2a571dd75adb44dcd7c9ebf903253b2c&v=4" width="24" alt="Avatar of ibhavikmakwana"/> ibhavikmakwana
 			</a><br/>
@@ -3969,19 +3982,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/ibhavikmakwana">ibhavikmakwana</a></td>
 		<td>Ahmedabad</td>
 		<td>642</td>
-	</tr>
-	<tr>
-		<td>298</td>
-		<td>
-			<a target="_blank" href="https://github.com/msfjarvis">
-				<img src="https://avatars.githubusercontent.com/u/13348378?s=72&u=76f4b1555db36d21f26e68822f7b17eeeda79968&v=4" width="24" alt="Avatar of msfjarvis"/> msfjarvis
-			</a><br/>
-			Harsh Shandilya
-		</td>
-		<td>@dyteio  </td>
-		<td>No Twitter Username</td>
-		<td>New Delhi</td>
-		<td>641</td>
 	</tr>
 	<tr>
 		<td>299</td>
@@ -4410,7 +4410,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Informatica </td>
 		<td>No Twitter Username</td>
 		<td>Chennai India</td>
-		<td>577</td>
+		<td>578</td>
 	</tr>
 	<tr>
 		<td>332</td>
@@ -4683,7 +4683,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/AbhishekDoshi26">AbhishekDoshi26</a></td>
 		<td>India</td>
-		<td>556</td>
+		<td>557</td>
 	</tr>
 	<tr>
 		<td>353</td>
@@ -5130,19 +5130,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>387</td>
 		<td>
-			<a target="_blank" href="https://github.com/subhajit51193">
-				<img src="https://avatars.githubusercontent.com/u/105916991?s=72&u=a19b4a7af6b5e9ecdf93ae5aee8ed65777e8d5d0&v=4" width="24" alt="Avatar of subhajit51193"/> subhajit51193
-			</a><br/>
-			Subhajit Saha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kolkata West Bengal</td>
-		<td>522</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
 			<a target="_blank" href="https://github.com/PrithivirajDamodaran">
 				<img src="https://avatars.githubusercontent.com/u/7071019?s=72&u=6ebe4f9050588a4cb34de4b9f0aa34ab22266710&v=4" width="24" alt="Avatar of PrithivirajDamodaran"/> PrithivirajDamodaran
 			</a><br/>
@@ -5151,6 +5138,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India</td>
+		<td>522</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
+			<a target="_blank" href="https://github.com/subhajit51193">
+				<img src="https://avatars.githubusercontent.com/u/105916991?s=72&u=a19b4a7af6b5e9ecdf93ae5aee8ed65777e8d5d0&v=4" width="24" alt="Avatar of subhajit51193"/> subhajit51193
+			</a><br/>
+			Subhajit Saha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kolkata West Bengal</td>
 		<td>521</td>
 	</tr>
 	<tr>
@@ -5736,7 +5736,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Cybrosys Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Calicut India</td>
-		<td>478</td>
+		<td>479</td>
 	</tr>
 	<tr>
 		<td>434</td>
@@ -5801,7 +5801,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Juntrax Solution </td>
 		<td><a target="_blank" href="https://twitter.com/AmarjitPh_">AmarjitPh_</a></td>
 		<td>Bangalore India</td>
-		<td>472</td>
+		<td>473</td>
 	</tr>
 	<tr>
 		<td>439</td>
@@ -5897,6 +5897,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>446</td>
 		<td>
+			<a target="_blank" href="https://github.com/ForceGT">
+				<img src="https://avatars.githubusercontent.com/u/31688051?s=72&u=b60ab35265bc3c08e257b844fd0ad4d13488a3b2&v=4" width="24" alt="Avatar of ForceGT"/> ForceGT
+			</a><br/>
+			Gaurav Thakkar
+		</td>
+		<td>Bookmyshow </td>
+		<td>No Twitter Username</td>
+		<td>Mumbai India</td>
+		<td>468</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
 			<a target="_blank" href="https://github.com/rbhatia46">
 				<img src="https://avatars.githubusercontent.com/u/20289101?s=72&u=febb4c4ab42c253ec213b910042a955cc048b067&v=4" width="24" alt="Avatar of rbhatia46"/> rbhatia46
 			</a><br/>
@@ -5908,7 +5921,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>468</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hassan-Shoayb">
 				<img src="https://avatars.githubusercontent.com/u/79839316?s=72&u=e24087b09d7831ad3f229964190078f5ebe66da0&v=4" width="24" alt="Avatar of Hassan-Shoayb"/> Hassan-Shoayb
@@ -5918,19 +5931,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@softlinkshq  </td>
 		<td><a target="_blank" href="https://twitter.com/Hassan_Shoayb">Hassan_Shoayb</a></td>
 		<td>Delhi India</td>
-		<td>467</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a target="_blank" href="https://github.com/ForceGT">
-				<img src="https://avatars.githubusercontent.com/u/31688051?s=72&u=b60ab35265bc3c08e257b844fd0ad4d13488a3b2&v=4" width="24" alt="Avatar of ForceGT"/> ForceGT
-			</a><br/>
-			Gaurav Thakkar
-		</td>
-		<td>Bookmyshow </td>
-		<td>No Twitter Username</td>
-		<td>Mumbai India</td>
 		<td>467</td>
 	</tr>
 	<tr>
@@ -6087,7 +6087,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Ex Engineering @workduck </td>
 		<td><a target="_blank" href="https://twitter.com/tamalCodes">tamalCodes</a></td>
 		<td>India</td>
-		<td>449</td>
+		<td>450</td>
 	</tr>
 	<tr>
 		<td>461</td>
@@ -6204,7 +6204,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Razorpay </td>
 		<td><a target="_blank" href="https://twitter.com/_kamlesh_">_kamlesh_</a></td>
 		<td>Bangalore India</td>
-		<td>439</td>
+		<td>440</td>
 	</tr>
 	<tr>
 		<td>470</td>
@@ -6625,6 +6625,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>502</td>
 		<td>
+			<a target="_blank" href="https://github.com/Shra1V32">
+				<img src="https://avatars.githubusercontent.com/u/89348492?s=72&u=7ad668a389cc3aa8d01cb5fbdeedcf7f9180253e&v=4" width="24" alt="Avatar of Shra1V32"/> Shra1V32
+			</a><br/>
+			Shravan Vadeghar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hyderabad India</td>
+		<td>418</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
 			<a target="_blank" href="https://github.com/vipulnsward">
 				<img src="https://avatars.githubusercontent.com/u/567626?s=72&u=21feddf6c972d874e08c32536e09d0812a7df59c&v=4" width="24" alt="Avatar of vipulnsward"/> vipulnsward
 			</a><br/>
@@ -6636,20 +6649,20 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>417</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
-			<a target="_blank" href="https://github.com/Shra1V32">
-				<img src="https://avatars.githubusercontent.com/u/89348492?s=72&u=7ad668a389cc3aa8d01cb5fbdeedcf7f9180253e&v=4" width="24" alt="Avatar of Shra1V32"/> Shra1V32
+			<a target="_blank" href="https://github.com/ortoniKC">
+				<img src="https://avatars.githubusercontent.com/u/58769833?s=72&u=a9b8bdd98499411d86d81613ceecaca0aff34f51&v=4" width="24" alt="Avatar of ortoniKC"/> ortoniKC
 			</a><br/>
-			Shravan Vadeghar
+			Koushik Chatterjee
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hyderabad India</td>
+		<td>Letcode </td>
+		<td><a target="_blank" href="https://twitter.com/Koushik_chat">Koushik_chat</a></td>
+		<td>Chennai TN India</td>
 		<td>417</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/surfsidemedia">
 				<img src="https://avatars.githubusercontent.com/u/60210270?s=72&u=bf3cba1a76b69748bb991952e86920bd3c0a4238&v=4" width="24" alt="Avatar of surfsidemedia"/> surfsidemedia
@@ -6662,7 +6675,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>417</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tikam02">
 				<img src="https://avatars.githubusercontent.com/u/10548085?s=72&u=353d09c563684f97506a8479a3db095024b398df&v=4" width="24" alt="Avatar of Tikam02"/> Tikam02
@@ -6672,19 +6685,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Mobiuxlabs </td>
 		<td><a target="_blank" href="https://twitter.com/tikamalma">tikamalma</a></td>
 		<td>AhmedabadIndia</td>
-		<td>416</td>
-	</tr>
-	<tr>
-		<td>506</td>
-		<td>
-			<a target="_blank" href="https://github.com/ortoniKC">
-				<img src="https://avatars.githubusercontent.com/u/58769833?s=72&u=a9b8bdd98499411d86d81613ceecaca0aff34f51&v=4" width="24" alt="Avatar of ortoniKC"/> ortoniKC
-			</a><br/>
-			Koushik Chatterjee
-		</td>
-		<td>Letcode </td>
-		<td><a target="_blank" href="https://twitter.com/Koushik_chat">Koushik_chat</a></td>
-		<td>Chennai TN India</td>
 		<td>416</td>
 	</tr>
 	<tr>
@@ -7548,6 +7548,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>573</td>
 		<td>
+			<a target="_blank" href="https://github.com/ramitsurana">
+				<img src="https://avatars.githubusercontent.com/u/8342133?s=72&u=48fb7d34b171fe90b7e080ef4694ceba5041ee91&v=4" width="24" alt="Avatar of ramitsurana"/> ramitsurana
+			</a><br/>
+			Ramit Surana
+		</td>
+		<td>Minfytech </td>
+		<td><a target="_blank" href="https://twitter.com/ramitsurana">ramitsurana</a></td>
+		<td>India</td>
+		<td>374</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
 			<a target="_blank" href="https://github.com/vividvilla">
 				<img src="https://avatars.githubusercontent.com/u/715529?s=72&u=754c1f24eb9755c04eb4a00b63ebc5482373adef&v=4" width="24" alt="Avatar of vividvilla"/> vividvilla
 			</a><br/>
@@ -7559,7 +7572,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>374</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a target="_blank" href="https://github.com/vivmagarwal">
 				<img src="https://avatars.githubusercontent.com/u/34507994?s=72&u=81a658a914c9868281f10b15961546d29e1c5431&v=4" width="24" alt="Avatar of vivmagarwal"/> vivmagarwal
@@ -7572,7 +7585,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>373</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a target="_blank" href="https://github.com/Deepaksharma-39">
 				<img src="https://avatars.githubusercontent.com/u/105967703?s=72&u=8b0c2f3856ebbd52facd40c3072dfd1de8564bca&v=4" width="24" alt="Avatar of Deepaksharma-39"/> Deepaksharma-39
@@ -7582,19 +7595,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>@masaicourse  </td>
 		<td>No Twitter Username</td>
 		<td>Madya Pradesh India</td>
-		<td>372</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
-			<a target="_blank" href="https://github.com/ramitsurana">
-				<img src="https://avatars.githubusercontent.com/u/8342133?s=72&u=48fb7d34b171fe90b7e080ef4694ceba5041ee91&v=4" width="24" alt="Avatar of ramitsurana"/> ramitsurana
-			</a><br/>
-			Ramit Surana
-		</td>
-		<td>Minfytech </td>
-		<td><a target="_blank" href="https://twitter.com/ramitsurana">ramitsurana</a></td>
-		<td>India</td>
 		<td>372</td>
 	</tr>
 	<tr>
@@ -7691,6 +7691,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>584</td>
 		<td>
+			<a target="_blank" href="https://github.com/Prince-1501">
+				<img src="https://avatars.githubusercontent.com/u/37762770?s=72&u=bf5d61f916fdb361ec28e9fc00bc9c98f2389fac&v=4" width="24" alt="Avatar of Prince-1501"/> Prince-1501
+			</a><br/>
+			Prince Kumar
+		</td>
+		<td>@browserstack </td>
+		<td><a target="_blank" href="https://twitter.com/prince_king_">prince_king_</a></td>
+		<td>India</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>585</td>
+		<td>
 			<a target="_blank" href="https://github.com/ashkulz">
 				<img src="https://avatars.githubusercontent.com/u/854352?s=72&v=4" width="24" alt="Avatar of ashkulz"/> ashkulz
 			</a><br/>
@@ -7702,7 +7715,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a target="_blank" href="https://github.com/himanshu007-creator">
 				<img src="https://avatars.githubusercontent.com/u/65963997?s=72&u=c26038b5c3369df474d2a42a12c963968d18fc0e&v=4" width="24" alt="Avatar of himanshu007-creator"/> himanshu007-creator
@@ -7715,7 +7728,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a target="_blank" href="https://github.com/adityathakurxd">
 				<img src="https://avatars.githubusercontent.com/u/53579386?s=72&u=1018460a80488d138177cee5b5b16ff928971805&v=4" width="24" alt="Avatar of adityathakurxd"/> adityathakurxd
@@ -7728,7 +7741,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a target="_blank" href="https://github.com/qboticslabs">
 				<img src="https://avatars.githubusercontent.com/u/10907702?s=72&u=6d3665e6d20309e20c66f0a6698a737eb8f46f32&v=4" width="24" alt="Avatar of qboticslabs"/> qboticslabs
@@ -7741,7 +7754,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a target="_blank" href="https://github.com/vihaankapoor">
 				<img src="https://avatars.githubusercontent.com/u/37697557?s=72&u=f6d4783ac771a9b231ab38de0fd499de02a7b1c2&v=4" width="24" alt="Avatar of vihaankapoor"/> vihaankapoor
@@ -7752,19 +7765,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>New Delhi</td>
 		<td>366</td>
-	</tr>
-	<tr>
-		<td>589</td>
-		<td>
-			<a target="_blank" href="https://github.com/Prince-1501">
-				<img src="https://avatars.githubusercontent.com/u/37762770?s=72&u=bf5d61f916fdb361ec28e9fc00bc9c98f2389fac&v=4" width="24" alt="Avatar of Prince-1501"/> Prince-1501
-			</a><br/>
-			Prince Kumar
-		</td>
-		<td>@browserstack </td>
-		<td><a target="_blank" href="https://twitter.com/prince_king_">prince_king_</a></td>
-		<td>India</td>
-		<td>365</td>
 	</tr>
 	<tr>
 		<td>590</td>
@@ -7808,6 +7808,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>593</td>
 		<td>
+			<a target="_blank" href="https://github.com/sudoboyy">
+				<img src="https://avatars.githubusercontent.com/u/134145898?s=72&u=0ccc068b7e88357c5f9549415b0a938efc954b4e&v=4" width="24" alt="Avatar of sudoboyy"/> sudoboyy
+			</a><br/>
+			Parth 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>India</td>
+		<td>363</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
 			<a target="_blank" href="https://github.com/onprem">
 				<img src="https://avatars.githubusercontent.com/u/29674758?s=72&u=02d5cfb0c0832436ac9e7925603dbc67d2c58004&v=4" width="24" alt="Avatar of onprem"/> onprem
 			</a><br/>
@@ -7819,7 +7832,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>362</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a target="_blank" href="https://github.com/starlightknown">
 				<img src="https://avatars.githubusercontent.com/u/74637789?s=72&u=52c8e3b3a19047646b7a05d1883cfa6f0021e763&v=4" width="24" alt="Avatar of starlightknown"/> starlightknown
@@ -7832,7 +7845,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>361</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/sitaramc">
 				<img src="https://avatars.githubusercontent.com/u/43316?s=72&v=4" width="24" alt="Avatar of sitaramc"/> sitaramc
@@ -7845,7 +7858,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>361</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/RameshAditya">
 				<img src="https://avatars.githubusercontent.com/u/17107833?s=72&u=baab1ce7e7980626865333b33803bd1d1dac908c&v=4" width="24" alt="Avatar of RameshAditya"/> RameshAditya
@@ -7858,7 +7871,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>361</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a target="_blank" href="https://github.com/sohamsshah">
 				<img src="https://avatars.githubusercontent.com/u/47717492?s=72&u=b4dcfe5d0656ecd53504f3e061eb8d8e54d2b2ad&v=4" width="24" alt="Avatar of sohamsshah"/> sohamsshah
@@ -7867,19 +7880,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		</td>
 		<td>@userfocus </td>
 		<td><a target="_blank" href="https://twitter.com/sohamsshah_">sohamsshah_</a></td>
-		<td>India</td>
-		<td>359</td>
-	</tr>
-	<tr>
-		<td>598</td>
-		<td>
-			<a target="_blank" href="https://github.com/sudoboyy">
-				<img src="https://avatars.githubusercontent.com/u/134145898?s=72&u=0ccc068b7e88357c5f9549415b0a938efc954b4e&v=4" width="24" alt="Avatar of sudoboyy"/> sudoboyy
-			</a><br/>
-			Parth 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>India</td>
 		<td>359</td>
 	</tr>
@@ -8328,6 +8328,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>633</td>
 		<td>
+			<a target="_blank" href="https://github.com/anoopkunchukuttan">
+				<img src="https://avatars.githubusercontent.com/u/2256602?s=72&u=e4360e393f3c7045b6c030af41e7dd533a0fcae4&v=4" width="24" alt="Avatar of anoopkunchukuttan"/> anoopkunchukuttan
+			</a><br/>
+			Anoop Kunchukuttan
+		</td>
+		<td>Microsoft Translator Ai4bharat Iit<br/>Madras<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hyderabad India</td>
+		<td>343</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
 			<a target="_blank" href="https://github.com/logicopslab">
 				<img src="https://avatars.githubusercontent.com/u/82759985?s=72&u=c5bec11606e02dd0bd2b729dc3b3892a8ad98a00&v=4" width="24" alt="Avatar of logicopslab"/> logicopslab
 			</a><br/>
@@ -8337,19 +8350,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/LogicOpsLab">LogicOpsLab</a></td>
 		<td>India</td>
 		<td>343</td>
-	</tr>
-	<tr>
-		<td>634</td>
-		<td>
-			<a target="_blank" href="https://github.com/anoopkunchukuttan">
-				<img src="https://avatars.githubusercontent.com/u/2256602?s=72&u=e4360e393f3c7045b6c030af41e7dd533a0fcae4&v=4" width="24" alt="Avatar of anoopkunchukuttan"/> anoopkunchukuttan
-			</a><br/>
-			Anoop Kunchukuttan
-		</td>
-		<td>Microsoft Translator Ai4bharat Iit<br/>Madras<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hyderabad India</td>
-		<td>342</td>
 	</tr>
 	<tr>
 		<td>635</td>
@@ -8601,6 +8601,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>654</td>
 		<td>
+			<a target="_blank" href="https://github.com/ravisuhag">
+				<img src="https://avatars.githubusercontent.com/u/2075279?s=72&u=ee54bf302fcc1ee2227ca64bc5cffd34c495b187&v=4" width="24" alt="Avatar of ravisuhag"/> ravisuhag
+			</a><br/>
+			Ravi Suhag
+		</td>
+		<td>Pixxel </td>
+		<td><a target="_blank" href="https://twitter.com/ravi_suhag">ravi_suhag</a></td>
+		<td>India</td>
+		<td>329</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
 			<a target="_blank" href="https://github.com/priyankarpal">
 				<img src="https://avatars.githubusercontent.com/u/88102392?s=72&u=4001d29cc2c2e557cd32ca6fc29a0bd876962e7a&v=4" width="24" alt="Avatar of priyankarpal"/> priyankarpal
 			</a><br/>
@@ -8612,7 +8625,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>328</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/pranshuchittora">
 				<img src="https://avatars.githubusercontent.com/u/32242596?s=72&u=1ea285743fc4b083f95d6ee0be2e7bb8dcfc676e&v=4" width="24" alt="Avatar of pranshuchittora"/> pranshuchittora
@@ -8622,19 +8635,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/pranshuchittora">pranshuchittora</a></td>
 		<td>Bengaluru IN</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
-			<a target="_blank" href="https://github.com/ravisuhag">
-				<img src="https://avatars.githubusercontent.com/u/2075279?s=72&u=ee54bf302fcc1ee2227ca64bc5cffd34c495b187&v=4" width="24" alt="Avatar of ravisuhag"/> ravisuhag
-			</a><br/>
-			Ravi Suhag
-		</td>
-		<td>Pixxel </td>
-		<td><a target="_blank" href="https://twitter.com/ravi_suhag">ravi_suhag</a></td>
-		<td>India</td>
 		<td>328</td>
 	</tr>
 	<tr>
@@ -8861,6 +8861,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>674</td>
 		<td>
+			<a target="_blank" href="https://github.com/pawarspeaks">
+				<img src="https://avatars.githubusercontent.com/u/87373605?s=72&u=6a1f79bbe623f668ce1f0eef7a7ca541f4b51e7a&v=4" width="24" alt="Avatar of pawarspeaks"/> pawarspeaks
+			</a><br/>
+			Pratap Pawar
+		</td>
+		<td>Vellore Institute Of Technology<br/>Bhopal<br/></td>
+		<td><a target="_blank" href="https://twitter.com/Pratappawar_">Pratappawar_</a></td>
+		<td>India</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
 			<a target="_blank" href="https://github.com/abhizaik">
 				<img src="https://avatars.githubusercontent.com/u/65501471?s=72&u=6dc894f6bb75c5e1e8cc645b014959fd4ba92d07&v=4" width="24" alt="Avatar of abhizaik"/> abhizaik
 			</a><br/>
@@ -8872,7 +8885,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kritikalcoder">
 				<img src="https://avatars.githubusercontent.com/u/19571676?s=72&u=33b740a611931e3ffb8b546b302e7f7246867577&v=4" width="24" alt="Avatar of Kritikalcoder"/> Kritikalcoder
@@ -8885,7 +8898,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a target="_blank" href="https://github.com/krshrimali">
 				<img src="https://avatars.githubusercontent.com/u/19997320?s=72&u=b2cd179aaee5cb3d8b0bee6dbd2875dbba6dd353&v=4" width="24" alt="Avatar of krshrimali"/> krshrimali
@@ -8898,7 +8911,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>323</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a target="_blank" href="https://github.com/ParthJadhav">
 				<img src="https://avatars.githubusercontent.com/u/42001064?s=72&u=c33e2bb9c6fe0ee3dec05a61741127dc2f7334b9&v=4" width="24" alt="Avatar of ParthJadhav"/> ParthJadhav
@@ -8908,19 +8921,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ParthJadhav8">ParthJadhav8</a></td>
 		<td>Pune India</td>
-		<td>323</td>
-	</tr>
-	<tr>
-		<td>678</td>
-		<td>
-			<a target="_blank" href="https://github.com/pawarspeaks">
-				<img src="https://avatars.githubusercontent.com/u/87373605?s=72&u=6a1f79bbe623f668ce1f0eef7a7ca541f4b51e7a&v=4" width="24" alt="Avatar of pawarspeaks"/> pawarspeaks
-			</a><br/>
-			Pratap Pawar
-		</td>
-		<td>Vellore Institute Of Technology<br/>Bhopal<br/></td>
-		<td><a target="_blank" href="https://twitter.com/Pratappawar_">Pratappawar_</a></td>
-		<td>India</td>
 		<td>323</td>
 	</tr>
 	<tr>
@@ -9134,19 +9134,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>695</td>
 		<td>
-			<a target="_blank" href="https://github.com/subhamkumarr">
-				<img src="https://avatars.githubusercontent.com/u/99977240?s=72&u=bd042b7b4985481df7ab707d2d97e2c771503c36&v=4" width="24" alt="Avatar of subhamkumarr"/> subhamkumarr
-			</a><br/>
-			subham kumar
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/subham16kumar">subham16kumar</a></td>
-		<td>India</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>696</td>
-		<td>
 			<a target="_blank" href="https://github.com/tinniaru3005">
 				<img src="https://avatars.githubusercontent.com/u/62856848?s=72&u=ec23576bdd87c6ccd3a0056f5970056a441c1522&v=4" width="24" alt="Avatar of tinniaru3005"/> tinniaru3005
 			</a><br/>
@@ -9158,7 +9145,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>318</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/seema1711">
 				<img src="https://avatars.githubusercontent.com/u/48756444?s=72&u=eb84811c137fad97d5d02c2cb99c77bc39676a26&v=4" width="24" alt="Avatar of seema1711"/> seema1711
@@ -9171,7 +9158,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>318</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/HarshilShah">
 				<img src="https://avatars.githubusercontent.com/u/3503595?s=72&u=a8b85f1995581595519bb52462dd7eb34e7f2991&v=4" width="24" alt="Avatar of HarshilShah"/> HarshilShah
@@ -9184,7 +9171,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>317</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/karthikb351">
 				<img src="https://avatars.githubusercontent.com/u/3104454?s=72&v=4" width="24" alt="Avatar of karthikb351"/> karthikb351
@@ -9197,7 +9184,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>317</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/amitmerchant1990">
 				<img src="https://avatars.githubusercontent.com/u/3647841?s=72&u=0def99702e4742a23a24b49aed645f05364033c5&v=4" width="24" alt="Avatar of amitmerchant1990"/> amitmerchant1990
@@ -9207,6 +9194,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/amit_merchant">amit_merchant</a></td>
 		<td>Surat Gujarat India</td>
+		<td>317</td>
+	</tr>
+	<tr>
+		<td>700</td>
+		<td>
+			<a target="_blank" href="https://github.com/subhamkumarr">
+				<img src="https://avatars.githubusercontent.com/u/99977240?s=72&u=bd042b7b4985481df7ab707d2d97e2c771503c36&v=4" width="24" alt="Avatar of subhamkumarr"/> subhamkumarr
+			</a><br/>
+			subham kumar
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/subham16kumar">subham16kumar</a></td>
+		<td>India</td>
 		<td>317</td>
 	</tr>
 	<tr>
@@ -9303,6 +9303,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>708</td>
 		<td>
+			<a target="_blank" href="https://github.com/VedantKhairnar">
+				<img src="https://avatars.githubusercontent.com/u/42309779?s=72&u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" width="24" alt="Avatar of VedantKhairnar"/> VedantKhairnar
+			</a><br/>
+			Vedant Khairnar
+		</td>
+		<td>@juspay  Hyperswitch </td>
+		<td><a target="_blank" href="https://twitter.com/VedantKhairnar3">VedantKhairnar3</a></td>
+		<td>India</td>
+		<td>315</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
 			<a target="_blank" href="https://github.com/shobhamalviya">
 				<img src="https://avatars.githubusercontent.com/u/101391214?s=72&u=41dc9c18e9834722088695618abf0830e5b958d2&v=4" width="24" alt="Avatar of shobhamalviya"/> shobhamalviya
 			</a><br/>
@@ -9314,7 +9327,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>315</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/parikshit223933">
 				<img src="https://avatars.githubusercontent.com/u/47470038?s=72&u=cd9117adfd7d4014d9eb69bf10510533115a276b&v=4" width="24" alt="Avatar of parikshit223933"/> parikshit223933
@@ -9324,19 +9337,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Coding Ninjas India </td>
 		<td>No Twitter Username</td>
 		<td>Delhi India</td>
-		<td>314</td>
-	</tr>
-	<tr>
-		<td>710</td>
-		<td>
-			<a target="_blank" href="https://github.com/VedantKhairnar">
-				<img src="https://avatars.githubusercontent.com/u/42309779?s=72&u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" width="24" alt="Avatar of VedantKhairnar"/> VedantKhairnar
-			</a><br/>
-			Vedant Khairnar
-		</td>
-		<td>@juspay  Hyperswitch </td>
-		<td><a target="_blank" href="https://twitter.com/VedantKhairnar3">VedantKhairnar3</a></td>
-		<td>India</td>
 		<td>314</td>
 	</tr>
 	<tr>
@@ -9381,18 +9381,31 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>714</td>
 		<td>
-			<a target="_blank" href="https://github.com/iAmKankan">
-				<img src="https://avatars.githubusercontent.com/u/12748752?s=72&u=fc379159ee61e55d32c868ff9d62b84dcf24ea83&v=4" width="24" alt="Avatar of iAmKankan"/> iAmKankan
+			<a target="_blank" href="https://github.com/yashsehgal">
+				<img src="https://avatars.githubusercontent.com/u/62352288?s=72&u=a67664dd732265f07eb3a691031e803d60474c8a&v=4" width="24" alt="Avatar of yashsehgal"/> yashsehgal
 			</a><br/>
-			AB
+			Yash Sehgal
 		</td>
 		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/bhadra_arijit">bhadra_arijit</a></td>
-		<td>Bangalore India</td>
+		<td><a target="_blank" href="https://twitter.com/yashsehgaldev">yashsehgaldev</a></td>
+		<td>India</td>
 		<td>311</td>
 	</tr>
 	<tr>
 		<td>715</td>
+		<td>
+			<a target="_blank" href="https://github.com/JapneetSachdeva1">
+				<img src="https://avatars.githubusercontent.com/u/46420079?s=72&u=c76cea700010ef6b56318f9b278875411f8a1d31&v=4" width="24" alt="Avatar of JapneetSachdeva1"/> JapneetSachdeva1
+			</a><br/>
+			Japneet Sachdeva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Delhi India</td>
+		<td>311</td>
+	</tr>
+	<tr>
+		<td>716</td>
 		<td>
 			<a target="_blank" href="https://github.com/GaurangTandon">
 				<img src="https://avatars.githubusercontent.com/u/6308683?s=72&u=697f34bad55ac19a727d18360ec602cf0e2c81bd&v=4" width="24" alt="Avatar of GaurangTandon"/> GaurangTandon
@@ -9405,7 +9418,20 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>311</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
+		<td>
+			<a target="_blank" href="https://github.com/akpythonyt">
+				<img src="https://avatars.githubusercontent.com/u/72851630?s=72&u=8b04735151bf2402e1b6d0b82d1db60ec86377f1&v=4" width="24" alt="Avatar of akpythonyt"/> akpythonyt
+			</a><br/>
+			Arun
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/Ak_Python">Ak_Python</a></td>
+		<td>India</td>
+		<td>311</td>
+	</tr>
+	<tr>
+		<td>718</td>
 		<td>
 			<a target="_blank" href="https://github.com/CarthikYes">
 				<img src="https://avatars.githubusercontent.com/u/104158790?s=72&v=4" width="24" alt="Avatar of CarthikYes"/> CarthikYes
@@ -9418,20 +9444,20 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>311</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>719</td>
 		<td>
-			<a target="_blank" href="https://github.com/yashsehgal">
-				<img src="https://avatars.githubusercontent.com/u/62352288?s=72&u=a67664dd732265f07eb3a691031e803d60474c8a&v=4" width="24" alt="Avatar of yashsehgal"/> yashsehgal
+			<a target="_blank" href="https://github.com/iAmKankan">
+				<img src="https://avatars.githubusercontent.com/u/12748752?s=72&u=fc379159ee61e55d32c868ff9d62b84dcf24ea83&v=4" width="24" alt="Avatar of iAmKankan"/> iAmKankan
 			</a><br/>
-			Yash Sehgal
+			AB
 		</td>
 		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/yashsehgaldev">yashsehgaldev</a></td>
-		<td>India</td>
+		<td><a target="_blank" href="https://twitter.com/bhadra_arijit">bhadra_arijit</a></td>
+		<td>Bangalore India</td>
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a target="_blank" href="https://github.com/Gaurav000001">
 				<img src="https://avatars.githubusercontent.com/u/112757203?s=72&u=66a42be46c141a6aed17932a0a8691978c442bd7&v=4" width="24" alt="Avatar of Gaurav000001"/> Gaurav000001
@@ -9444,7 +9470,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a target="_blank" href="https://github.com/souravkl11">
 				<img src="https://avatars.githubusercontent.com/u/87891508?s=72&u=7bfc23a81326da1d04197606fdbd36333a50c3bf&v=4" width="24" alt="Avatar of souravkl11"/> souravkl11
@@ -9457,7 +9483,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>722</td>
 		<td>
 			<a target="_blank" href="https://github.com/prateek-bka">
 				<img src="https://avatars.githubusercontent.com/u/96651559?s=72&v=4" width="24" alt="Avatar of prateek-bka"/> prateek-bka
@@ -9467,32 +9493,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New Delhi</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>721</td>
-		<td>
-			<a target="_blank" href="https://github.com/JapneetSachdeva1">
-				<img src="https://avatars.githubusercontent.com/u/46420079?s=72&u=c76cea700010ef6b56318f9b278875411f8a1d31&v=4" width="24" alt="Avatar of JapneetSachdeva1"/> JapneetSachdeva1
-			</a><br/>
-			Japneet Sachdeva
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Delhi India</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>722</td>
-		<td>
-			<a target="_blank" href="https://github.com/akpythonyt">
-				<img src="https://avatars.githubusercontent.com/u/72851630?s=72&u=8b04735151bf2402e1b6d0b82d1db60ec86377f1&v=4" width="24" alt="Avatar of akpythonyt"/> akpythonyt
-			</a><br/>
-			Arun
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/Ak_Python">Ak_Python</a></td>
-		<td>India</td>
 		<td>310</td>
 	</tr>
 	<tr>
@@ -10538,19 +10538,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>803</td>
 		<td>
-			<a target="_blank" href="https://github.com/AbhishekChauhan9036">
-				<img src="https://avatars.githubusercontent.com/u/96897831?s=72&u=43616f3a50ad4c420942be015ffc7be8d59c204b&v=4" width="24" alt="Avatar of AbhishekChauhan9036"/> AbhishekChauhan9036
-			</a><br/>
-			Abhishek Chauhan 
-		</td>
-		<td>Sharpenertech </td>
-		<td>No Twitter Username</td>
-		<td>BalliaUttar PradeshIndia</td>
-		<td>283</td>
-	</tr>
-	<tr>
-		<td>804</td>
-		<td>
 			<a target="_blank" href="https://github.com/dipayansarkar47">
 				<img src="https://avatars.githubusercontent.com/u/77672753?s=72&u=7c752db582b520d6ba58288b7fb651146c2f49e9&v=4" width="24" alt="Avatar of dipayansarkar47"/> dipayansarkar47
 			</a><br/>
@@ -10559,6 +10546,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/codewithbiki">codewithbiki</a></td>
 		<td>Kolkata </td>
+		<td>284</td>
+	</tr>
+	<tr>
+		<td>804</td>
+		<td>
+			<a target="_blank" href="https://github.com/AbhishekChauhan9036">
+				<img src="https://avatars.githubusercontent.com/u/96897831?s=72&u=43616f3a50ad4c420942be015ffc7be8d59c204b&v=4" width="24" alt="Avatar of AbhishekChauhan9036"/> AbhishekChauhan9036
+			</a><br/>
+			Abhishek Chauhan 
+		</td>
+		<td>Sharpenertech </td>
+		<td>No Twitter Username</td>
+		<td>BalliaUttar PradeshIndia</td>
 		<td>283</td>
 	</tr>
 	<tr>
@@ -11136,6 +11136,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>849</td>
 		<td>
+			<a target="_blank" href="https://github.com/abhi-bhatra">
+				<img src="https://avatars.githubusercontent.com/u/63901956?s=72&u=a75858e70cf4a5a90e5e32ab8b13fc59dc5e7676&v=4" width="24" alt="Avatar of abhi-bhatra"/> abhi-bhatra
+			</a><br/>
+			Abhinav Sharma
+		</td>
+		<td>@github </td>
+		<td><a target="_blank" href="https://twitter.com/the_bhatra">the_bhatra</a></td>
+		<td>JAIPUR</td>
+		<td>273</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
 			<a target="_blank" href="https://github.com/muthu1809">
 				<img src="https://avatars.githubusercontent.com/u/10348520?s=72&u=cf63f8e5e56ae8f1e06d424140feab7744356930&v=4" width="24" alt="Avatar of muthu1809"/> muthu1809
 			</a><br/>
@@ -11147,7 +11160,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>851</td>
 		<td>
 			<a target="_blank" href="https://github.com/PredatorHackerzZ">
 				<img src="https://avatars.githubusercontent.com/u/77227205?s=72&u=b8a910e4a374badc9fcb06c2b46ea629f0364578&v=4" width="24" alt="Avatar of PredatorHackerzZ"/> PredatorHackerzZ
@@ -11160,7 +11173,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>852</td>
 		<td>
 			<a target="_blank" href="https://github.com/Prince-Shivaram">
 				<img src="https://avatars.githubusercontent.com/u/42378118?s=72&u=8a86fbfbdce0de4022bb02cfb904086fa0fbc0a9&v=4" width="24" alt="Avatar of Prince-Shivaram"/> Prince-Shivaram
@@ -11173,7 +11186,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>853</td>
 		<td>
 			<a target="_blank" href="https://github.com/sambitraze">
 				<img src="https://avatars.githubusercontent.com/u/23294656?s=72&u=0abbd8db21423dfdd9faf52f18c5efb7a2eee075&v=4" width="24" alt="Avatar of sambitraze"/> sambitraze
@@ -11186,7 +11199,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>854</td>
 		<td>
 			<a target="_blank" href="https://github.com/yogeshhk">
 				<img src="https://avatars.githubusercontent.com/u/5088114?s=72&u=c3fff9bf9ebefa9fa49289a56a9d75f8ee5569de&v=4" width="24" alt="Avatar of yogeshhk"/> yogeshhk
@@ -11199,7 +11212,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>855</td>
 		<td>
 			<a target="_blank" href="https://github.com/shikhu51197">
 				<img src="https://avatars.githubusercontent.com/u/107506646?s=72&u=4cf8b4ec1840b3597041017f3cf3c0d726e0555e&v=4" width="24" alt="Avatar of shikhu51197"/> shikhu51197
@@ -11209,19 +11222,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Masai School </td>
 		<td><a target="_blank" href="https://twitter.com/ShikhaG61708689">ShikhaG61708689</a></td>
 		<td>ShahdolMadhyaPradeshIndia</td>
-		<td>272</td>
-	</tr>
-	<tr>
-		<td>855</td>
-		<td>
-			<a target="_blank" href="https://github.com/abhi-bhatra">
-				<img src="https://avatars.githubusercontent.com/u/63901956?s=72&u=a75858e70cf4a5a90e5e32ab8b13fc59dc5e7676&v=4" width="24" alt="Avatar of abhi-bhatra"/> abhi-bhatra
-			</a><br/>
-			Abhinav Sharma
-		</td>
-		<td>@github </td>
-		<td><a target="_blank" href="https://twitter.com/the_bhatra">the_bhatra</a></td>
-		<td>JAIPUR</td>
 		<td>272</td>
 	</tr>
 	<tr>
@@ -11513,6 +11513,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>878</td>
 		<td>
+			<a target="_blank" href="https://github.com/amberkakkar01">
+				<img src="https://avatars.githubusercontent.com/u/52875602?s=72&u=47c2710a7d03483adb97686f18be731b18e59f23&v=4" width="24" alt="Avatar of amberkakkar01"/> amberkakkar01
+			</a><br/>
+			Amber Kakkar
+		</td>
+		<td>Tiketcom  </td>
+		<td><a target="_blank" href="https://twitter.com/amberkakkar01">amberkakkar01</a></td>
+		<td>DehraDun India</td>
+		<td>266</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
 			<a target="_blank" href="https://github.com/aniruddhachoudhury">
 				<img src="https://avatars.githubusercontent.com/u/28830164?s=72&u=7cfeb29fb4accf3fc48f5d31778e4eaff033bc4f&v=4" width="24" alt="Avatar of aniruddhachoudhury"/> aniruddhachoudhury
 			</a><br/>
@@ -11524,7 +11537,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>266</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>880</td>
 		<td>
 			<a target="_blank" href="https://github.com/salil-naik">
 				<img src="https://avatars.githubusercontent.com/u/20141508?s=72&u=756d238478cc2ce4216939c043074182df6d69c4&v=4" width="24" alt="Avatar of salil-naik"/> salil-naik
@@ -11537,7 +11550,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>881</td>
 		<td>
 			<a target="_blank" href="https://github.com/Aniket-Engg">
 				<img src="https://avatars.githubusercontent.com/u/30843294?s=72&u=eb4d4de214784ff4d5bad32971dad7ca0c25e7e7&v=4" width="24" alt="Avatar of Aniket-Engg"/> Aniket-Engg
@@ -11550,7 +11563,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a target="_blank" href="https://github.com/AbhinavRajesh">
 				<img src="https://avatars.githubusercontent.com/u/54738622?s=72&u=4cef2c4d0f0c83ae357d230c07b165db6efaebae&v=4" width="24" alt="Avatar of AbhinavRajesh"/> AbhinavRajesh
@@ -11563,7 +11576,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a target="_blank" href="https://github.com/goelabhishek694">
 				<img src="https://avatars.githubusercontent.com/u/47237306?s=72&u=6981333fc6193d6fd7f8bce68384d872bee3c09f&v=4" width="24" alt="Avatar of goelabhishek694"/> goelabhishek694
@@ -11576,7 +11589,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a target="_blank" href="https://github.com/aryanc403">
 				<img src="https://avatars.githubusercontent.com/u/32961797?s=72&v=4" width="24" alt="Avatar of aryanc403"/> aryanc403
@@ -11586,19 +11599,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/aryanc403">aryanc403</a></td>
 		<td>India</td>
-		<td>265</td>
-	</tr>
-	<tr>
-		<td>884</td>
-		<td>
-			<a target="_blank" href="https://github.com/amberkakkar01">
-				<img src="https://avatars.githubusercontent.com/u/52875602?s=72&u=47c2710a7d03483adb97686f18be731b18e59f23&v=4" width="24" alt="Avatar of amberkakkar01"/> amberkakkar01
-			</a><br/>
-			Amber Kakkar
-		</td>
-		<td>Tiketcom  </td>
-		<td><a target="_blank" href="https://twitter.com/amberkakkar01">amberkakkar01</a></td>
-		<td>DehraDun India</td>
 		<td>265</td>
 	</tr>
 	<tr>
@@ -11721,6 +11721,19 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 	<tr>
 		<td>894</td>
 		<td>
+			<a target="_blank" href="https://github.com/arjunsingh27">
+				<img src="https://avatars.githubusercontent.com/u/70803514?s=72&u=f089f4e5dbde687025de692cbc5d6d8c17782907&v=4" width="24" alt="Avatar of arjunsingh27"/> arjunsingh27
+			</a><br/>
+			Arjun Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>India</td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<td>895</td>
+		<td>
 			<a target="_blank" href="https://github.com/raj74434">
 				<img src="https://avatars.githubusercontent.com/u/105916680?s=72&u=c71236a4d6692b5b3040bd6a4c029e4140ded14a&v=4" width="24" alt="Avatar of raj74434"/> raj74434
 			</a><br/>
@@ -11732,7 +11745,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a target="_blank" href="https://github.com/ch8n">
 				<img src="https://avatars.githubusercontent.com/u/11576342?s=72&u=13e191944f701b9d63c5a1f7649c043d4cecb1c7&v=4" width="24" alt="Avatar of ch8n"/> ch8n
@@ -11745,7 +11758,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a target="_blank" href="https://github.com/KunaalNaik">
 				<img src="https://avatars.githubusercontent.com/u/33804703?s=72&u=d462b618d0992106b8d3f8bd6c33aac821513417&v=4" width="24" alt="Avatar of KunaalNaik"/> KunaalNaik
@@ -11758,7 +11771,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a target="_blank" href="https://github.com/kunaal438">
 				<img src="https://avatars.githubusercontent.com/u/61322084?s=72&u=38a295fba3f64fa358424249a87cec798a02121b&v=4" width="24" alt="Avatar of kunaal438"/> kunaal438
@@ -11771,7 +11784,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>899</td>
 		<td>
 			<a target="_blank" href="https://github.com/archanchoudhury">
 				<img src="https://avatars.githubusercontent.com/u/51078911?s=72&u=326d2c973c479cb69050bf6586efcc8839f74968&v=4" width="24" alt="Avatar of archanchoudhury"/> archanchoudhury
@@ -11784,7 +11797,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>900</td>
 		<td>
 			<a target="_blank" href="https://github.com/sagarchoudhary96">
 				<img src="https://avatars.githubusercontent.com/u/16102594?s=72&u=8a935712d51281d7df450a26667f3aee5306e788&v=4" width="24" alt="Avatar of sagarchoudhary96"/> sagarchoudhary96
@@ -11797,20 +11810,20 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
-			<a target="_blank" href="https://github.com/arjunsingh27">
-				<img src="https://avatars.githubusercontent.com/u/70803514?s=72&u=f089f4e5dbde687025de692cbc5d6d8c17782907&v=4" width="24" alt="Avatar of arjunsingh27"/> arjunsingh27
+			<a target="_blank" href="https://github.com/vershwal">
+				<img src="https://avatars.githubusercontent.com/u/17474532?s=72&u=2d59583d23c8c35b3c5de6b638b72a8ccf0a52f3&v=4" width="24" alt="Avatar of vershwal"/> vershwal
 			</a><br/>
-			Arjun Singh
+			Princi Vershwal
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>India</td>
+		<td>Princi Technologies </td>
+		<td><a target="_blank" href="https://twitter.com/vershwal">vershwal</a></td>
+		<td>Dehradun India</td>
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaiyesh">
 				<img src="https://avatars.githubusercontent.com/u/64524945?s=72&u=0652ef3da7ad796491250e0bbf27be49ff4cd3e9&v=4" width="24" alt="Avatar of jaiyesh"/> jaiyesh
@@ -11823,7 +11836,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a target="_blank" href="https://github.com/codingmastr">
 				<img src="https://avatars.githubusercontent.com/u/63731974?s=72&u=7b486b6906df150918fa1e7def0facc9d6749ee1&v=4" width="24" alt="Avatar of codingmastr"/> codingmastr
@@ -11836,7 +11849,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a target="_blank" href="https://github.com/Daksh777">
 				<img src="https://avatars.githubusercontent.com/u/43648146?s=72&u=401a3bbe8efe0cd95f9d8883eca0fe6c0d02c2ab&v=4" width="24" alt="Avatar of Daksh777"/> Daksh777
@@ -11849,7 +11862,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a target="_blank" href="https://github.com/anubhavanonymous">
 				<img src="https://avatars.githubusercontent.com/u/61369802?s=72&u=9ca25fda74512bcb9df6a4f27365805ba192575c&v=4" width="24" alt="Avatar of anubhavanonymous"/> anubhavanonymous
@@ -11862,7 +11875,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a target="_blank" href="https://github.com/afsalashyana">
 				<img src="https://avatars.githubusercontent.com/u/7298503?s=72&u=8daba1af08572ac074863f76e1b914f683e5cdc4&v=4" width="24" alt="Avatar of afsalashyana"/> afsalashyana
@@ -11875,7 +11888,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a target="_blank" href="https://github.com/Harshal0902">
 				<img src="https://avatars.githubusercontent.com/u/64153988?s=72&u=b217ae0c6d1c768bda97742859c14085a72d1b64&v=4" width="24" alt="Avatar of Harshal0902"/> Harshal0902
@@ -11888,7 +11901,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a target="_blank" href="https://github.com/Grace-Hephzibah">
 				<img src="https://avatars.githubusercontent.com/u/63595093?s=72&u=4043debfbe9815ba5eb75e464ecc4c7908ff27f5&v=4" width="24" alt="Avatar of Grace-Hephzibah"/> Grace-Hephzibah
@@ -11901,7 +11914,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a target="_blank" href="https://github.com/Niraj-Lunavat">
 				<img src="https://avatars.githubusercontent.com/u/37310844?s=72&u=a2d70900f2d5ad97817cc8f175d088362700d60c&v=4" width="24" alt="Avatar of Niraj-Lunavat"/> Niraj-Lunavat
@@ -11914,7 +11927,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a target="_blank" href="https://github.com/shrikanth7698">
 				<img src="https://avatars.githubusercontent.com/u/25195315?s=72&u=e5d5a59a8be9115825b722e8fe76cdd77427c8ab&v=4" width="24" alt="Avatar of shrikanth7698"/> shrikanth7698
@@ -11927,7 +11940,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a target="_blank" href="https://github.com/SwetabhOfficial">
 				<img src="https://avatars.githubusercontent.com/u/19845881?s=72&u=38c3bd83441b2ebaf61c176c4684af26ab05b59e&v=4" width="24" alt="Avatar of SwetabhOfficial"/> SwetabhOfficial
@@ -11940,7 +11953,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a target="_blank" href="https://github.com/ravi2krishna">
 				<img src="https://avatars.githubusercontent.com/u/5461468?s=72&u=45d3517f548949ad6619cc76b0aa77519186965c&v=4" width="24" alt="Avatar of ravi2krishna"/> ravi2krishna
@@ -11953,7 +11966,7 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>258</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a target="_blank" href="https://github.com/NotHarshhaa">
 				<img src="https://avatars.githubusercontent.com/u/112948305?s=72&u=0a72b71779326ea42dbed4d57d148a44a9cafd87&v=4" width="24" alt="Avatar of NotHarshhaa"/> NotHarshhaa
@@ -11963,19 +11976,6 @@ There are `968 users`  in India. You need at least `249 followers` to be on this
 		<td>Tata Consultancy Services </td>
 		<td>No Twitter Username</td>
 		<td>Hyderabad</td>
-		<td>258</td>
-	</tr>
-	<tr>
-		<td>913</td>
-		<td>
-			<a target="_blank" href="https://github.com/vershwal">
-				<img src="https://avatars.githubusercontent.com/u/17474532?s=72&u=2d59583d23c8c35b3c5de6b638b72a8ccf0a52f3&v=4" width="24" alt="Avatar of vershwal"/> vershwal
-			</a><br/>
-			Princi Vershwal
-		</td>
-		<td>Princi Technologies </td>
-		<td><a target="_blank" href="https://twitter.com/vershwal">vershwal</a></td>
-		<td>Dehradun India</td>
 		<td>258</td>
 	</tr>
 	<tr>
