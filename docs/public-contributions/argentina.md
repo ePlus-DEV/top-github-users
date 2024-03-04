@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/3/4 4:58 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/3/4 9:01 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -172,7 +172,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/CalcagniGabriel">CalcagniGabriel</a></td>
 		<td>Concarn San luis Argentina</td>
-		<td>3328</td>
+		<td>3329</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -237,7 +237,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berazategui Argentina</td>
-		<td>1890</td>
+		<td>1894</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -549,7 +549,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>@developerdao </td>
 		<td><a target="_blank" href="https://twitter.com/markkos89">markkos89</a></td>
 		<td>San Nicolas de los Arroyos Buenos Aires Argentina</td>
-		<td>1027</td>
+		<td>1029</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -3167,6 +3167,19 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 	<tr>
 		<td>236</td>
 		<td>
+			<a target="_blank" href="https://github.com/linsaftw">
+				<img src="https://avatars.githubusercontent.com/u/25271111?s=72&u=87328ec27da3de1a2d9264ff11a83cc52b24fa18&v=4" width="24" alt="Avatar of linsaftw"/> linsaftw
+			</a><br/>
+			LinsaFTW
+		</td>
+		<td>Arkflame Development </td>
+		<td><a target="_blank" href="https://twitter.com/LinsaFTW">LinsaFTW</a></td>
+		<td>Argentina</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
 			<a target="_blank" href="https://github.com/Josemiranda989">
 				<img src="https://avatars.githubusercontent.com/u/84145112?s=72&u=9a217cd75f9a9b00438dac150750562f79385a0f&v=4" width="24" alt="Avatar of Josemiranda989"/> Josemiranda989
 			</a><br/>
@@ -3178,7 +3191,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a target="_blank" href="https://github.com/igruntplay">
 				<img src="https://avatars.githubusercontent.com/u/52015401?s=72&u=b59e5d6396c59983d1a8ecf7e39321bd1749acfa&v=4" width="24" alt="Avatar of igruntplay"/> igruntplay
@@ -3191,7 +3204,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a target="_blank" href="https://github.com/cardenasmaximiliano">
 				<img src="https://avatars.githubusercontent.com/u/72896446?s=72&u=93fc726e1e4d3a4f8d2e494492069aae62e3f103&v=4" width="24" alt="Avatar of cardenasmaximiliano"/> cardenasmaximiliano
@@ -3204,7 +3217,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a target="_blank" href="https://github.com/veroandreo">
 				<img src="https://avatars.githubusercontent.com/u/20075188?s=72&u=d1ec9a5a4916ccbd250fd373ee4caf563277eec7&v=4" width="24" alt="Avatar of veroandreo"/> veroandreo
@@ -3215,19 +3228,6 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Cordoba Argentina</td>
 		<td>186</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
-			<a target="_blank" href="https://github.com/linsaftw">
-				<img src="https://avatars.githubusercontent.com/u/25271111?s=72&u=87328ec27da3de1a2d9264ff11a83cc52b24fa18&v=4" width="24" alt="Avatar of linsaftw"/> linsaftw
-			</a><br/>
-			LinsaFTW
-		</td>
-		<td>Arkflame Development </td>
-		<td><a target="_blank" href="https://twitter.com/LinsaFTW">LinsaFTW</a></td>
-		<td>Argentina</td>
-		<td>185</td>
 	</tr>
 	<tr>
 		<td>241</td>
@@ -3687,6 +3687,19 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 	<tr>
 		<td>276</td>
 		<td>
+			<a target="_blank" href="https://github.com/lndgalante">
+				<img src="https://avatars.githubusercontent.com/u/2475912?s=72&u=9bfcf70f5a10f9fa3847a322c4dcb8d523c248c0&v=4" width="24" alt="Avatar of lndgalante"/> lndgalante
+			</a><br/>
+			Leonardo Galante
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lndgalante">lndgalante</a></td>
+		<td>Buenos Aires Argentina</td>
+		<td>160</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
 			<a target="_blank" href="https://github.com/CharlyJazz">
 				<img src="https://avatars.githubusercontent.com/u/12489333?s=72&u=ea9af6c291b89ffeb043587024e91beec89347d4&v=4" width="24" alt="Avatar of CharlyJazz"/> CharlyJazz
 			</a><br/>
@@ -3696,19 +3709,6 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Cordoba</td>
 		<td>160</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a target="_blank" href="https://github.com/lndgalante">
-				<img src="https://avatars.githubusercontent.com/u/2475912?s=72&u=9bfcf70f5a10f9fa3847a322c4dcb8d523c248c0&v=4" width="24" alt="Avatar of lndgalante"/> lndgalante
-			</a><br/>
-			Leonardo Galante
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/lndgalante">lndgalante</a></td>
-		<td>Buenos Aires Argentina</td>
-		<td>158</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -3747,7 +3747,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>154</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>281</td>
