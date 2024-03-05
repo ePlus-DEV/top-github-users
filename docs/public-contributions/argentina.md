@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/3/5 4:54 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/3/5 8:49 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -172,7 +172,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/CalcagniGabriel">CalcagniGabriel</a></td>
 		<td>Concarn San luis Argentina</td>
-		<td>3320</td>
+		<td>3324</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -237,7 +237,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berazategui Argentina</td>
-		<td>1894</td>
+		<td>1900</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1212,7 +1212,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>@forouno  </td>
 		<td><a target="_blank" href="https://twitter.com/Phosphorus_M">Phosphorus_M</a></td>
 		<td>Argentina</td>
-		<td>584</td>
+		<td>586</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -2205,6 +2205,19 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 	<tr>
 		<td>162</td>
 		<td>
+			<a target="_blank" href="https://github.com/FernandoFH">
+				<img src="https://avatars.githubusercontent.com/u/7488881?s=72&u=40188cc41d8ae3f887e85050cc3f43393e30da70&v=4" width="24" alt="Avatar of FernandoFH"/> FernandoFH
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/fernandof_h">fernandof_h</a></td>
+		<td>Buenas AiresArgentina</td>
+		<td>310</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
 			<a target="_blank" href="https://github.com/CrossNox">
 				<img src="https://avatars.githubusercontent.com/u/15719718?s=72&u=88083a9ba614c2cac1e30a8ad0af273580274725&v=4" width="24" alt="Avatar of CrossNox"/> CrossNox
 			</a><br/>
@@ -2216,7 +2229,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>309</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a target="_blank" href="https://github.com/bauti-defi">
 				<img src="https://avatars.githubusercontent.com/u/14324229?s=72&u=f59baa02cb68a546771add5e30ce6262c510015c&v=4" width="24" alt="Avatar of bauti-defi"/> bauti-defi
@@ -2227,19 +2240,6 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/BautiDeFi">BautiDeFi</a></td>
 		<td>Buenos Aires Argentina</td>
 		<td>309</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a target="_blank" href="https://github.com/FernandoFH">
-				<img src="https://avatars.githubusercontent.com/u/7488881?s=72&u=40188cc41d8ae3f887e85050cc3f43393e30da70&v=4" width="24" alt="Avatar of FernandoFH"/> FernandoFH
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/fernandof_h">fernandof_h</a></td>
-		<td>Buenas AiresArgentina</td>
-		<td>305</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -2928,7 +2928,7 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rosario Santa Fe Argentina</td>
-		<td>216</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>218</td>
@@ -8666,19 +8666,6 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 	<tr>
 		<td>659</td>
 		<td>
-			<a target="_blank" href="https://github.com/cristianemm96">
-				<img src="https://avatars.githubusercontent.com/u/49408281?s=72&u=9f6f795082445ee0e12985ea2f4905b4376717c7&v=4" width="24" alt="Avatar of cristianemm96"/> cristianemm96
-			</a><br/>
-			Cristian Mario
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Clara Del Mar Buenos Aires Argentina</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>660</td>
-		<td>
 			<a target="_blank" href="https://github.com/JuanTorchia">
 				<img src="https://avatars.githubusercontent.com/u/54363948?s=72&u=e9d083a504d243fb5f9db2e5d4f7dc67ad496393&v=4" width="24" alt="Avatar of JuanTorchia"/> JuanTorchia
 			</a><br/>
@@ -8687,6 +8674,19 @@ There are `973 users`  in Argentina. You need at least `43 followers` to be on t
 		<td>Lakaut Ac </td>
 		<td><a target="_blank" href="https://twitter.com/Juanchi_AR">Juanchi_AR</a></td>
 		<td>Buenos AIres</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
+			<a target="_blank" href="https://github.com/cristianemm96">
+				<img src="https://avatars.githubusercontent.com/u/49408281?s=72&u=9f6f795082445ee0e12985ea2f4905b4376717c7&v=4" width="24" alt="Avatar of cristianemm96"/> cristianemm96
+			</a><br/>
+			Cristian Mario
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Clara Del Mar Buenos Aires Argentina</td>
 		<td>11</td>
 	</tr>
 	<tr>
