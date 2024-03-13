@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Vietnam
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam"/>
 </a>
 
-The `public contributions` by users in Vietnam on `2024/3/13 6:24 PM UTC`. This list contains users from Vietnam and cities Hochiminhcity Hanoi Danang Cantho Haiphong.
+The `public contributions` by users in Vietnam on `2024/3/13 10:47 PM UTC`. This list contains users from Vietnam and cities Hochiminhcity Hanoi Danang Cantho Haiphong.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>DaNang Vietnam</td>
-		<td>50819</td>
+		<td>50846</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -146,7 +146,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>25652</td>
+		<td>25670</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -263,7 +263,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>@kotlinandroidopenso @flutterdartopensour </td>
 		<td><a target="_blank" href="https://twitter.com/hoc081098">hoc081098</a></td>
 		<td>Da Nang Vietnam</td>
-		<td>2521</td>
+		<td>2522</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -276,7 +276,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>Nashtech </td>
 		<td><a target="_blank" href="https://twitter.com/foxminchan">foxminchan</a></td>
 		<td>Ho Chi Minh City Vietnam</td>
-		<td>2358</td>
+		<td>2359</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -315,7 +315,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>@letterbllc  </td>
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City Vietnam</td>
-		<td>2294</td>
+		<td>2295</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -757,7 +757,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>Vnbnode </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>797</td>
+		<td>799</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -887,7 +887,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>Resalesonline </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>699</td>
+		<td>700</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -918,6 +918,19 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 	<tr>
 		<td>63</td>
 		<td>
+			<a target="_blank" href="https://github.com/nc-minh">
+				<img src="https://avatars.githubusercontent.com/u/59333368?s=72&u=a05f9b7d6ab7b99fd17914252ad92d4f5b2654a7&v=4" width="24" alt="Avatar of nc-minh"/> nc-minh
+			</a><br/>
+			Nguyen Cong Minh
+		</td>
+		<td>@mhnbt </td>
+		<td>No Twitter Username</td>
+		<td>VietNam</td>
+		<td>673</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
 			<a target="_blank" href="https://github.com/nguyend-nam">
 				<img src="https://avatars.githubusercontent.com/u/69586735?s=72&u=e33707529ead87a2beda2fbe67c8df970d29b336&v=4" width="24" alt="Avatar of nguyend-nam"/> nguyend-nam
 			</a><br/>
@@ -927,19 +940,6 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh Vietnam</td>
 		<td>673</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a target="_blank" href="https://github.com/nc-minh">
-				<img src="https://avatars.githubusercontent.com/u/59333368?s=72&u=a05f9b7d6ab7b99fd17914252ad92d4f5b2654a7&v=4" width="24" alt="Avatar of nc-minh"/> nc-minh
-			</a><br/>
-			Nguyen Cong Minh
-		</td>
-		<td>@mhnbt </td>
-		<td>No Twitter Username</td>
-		<td>VietNam</td>
-		<td>672</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1901,7 +1901,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>314</td>
+		<td>316</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -4285,19 +4285,6 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 	<tr>
 		<td>322</td>
 		<td>
-			<a target="_blank" href="https://github.com/phihung5705developer">
-				<img src="https://avatars.githubusercontent.com/u/115966431?s=72&u=cdd3900d9ef530d91bf1aee1e338b99f7cff97c6&v=4" width="24" alt="Avatar of phihung5705developer"/> phihung5705developer
-			</a><br/>
-			L Ngc Phi Hng
-		</td>
-		<td>Hungphatgroup </td>
-		<td>No Twitter Username</td>
-		<td>Ho Chi Minh City</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
 			<a target="_blank" href="https://github.com/letronghoangminh">
 				<img src="https://avatars.githubusercontent.com/u/50044415?s=72&u=f645c67e3bd6d5a921db58abeb93340298247cd6&v=4" width="24" alt="Avatar of letronghoangminh"/> letronghoangminh
 			</a><br/>
@@ -4306,6 +4293,19 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>Da Nang University Of<br/>Science<br/>And<br/>Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Da Nang Viet Nam</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a target="_blank" href="https://github.com/phihung5705developer">
+				<img src="https://avatars.githubusercontent.com/u/115966431?s=72&u=cdd3900d9ef530d91bf1aee1e338b99f7cff97c6&v=4" width="24" alt="Avatar of phihung5705developer"/> phihung5705developer
+			</a><br/>
+			L Ngc Phi Hng
+		</td>
+		<td>Hungphatgroup </td>
+		<td>No Twitter Username</td>
+		<td>Ho Chi Minh City</td>
 		<td>82</td>
 	</tr>
 	<tr>
