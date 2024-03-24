@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in India
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India"/>
 </a>
 
-The `public contributions` by users in India on `2024/3/23 9:11 PM UTC`. This list contains users from India and cities Mumbai Bengaluru Chennai Ahmedabad Pune Kolkata Hyderabad Newdelhi Lucknow Jaipur.
+The `public contributions` by users in India on `2024/3/24 1:38 AM UTC`. This list contains users from India and cities Mumbai Bengaluru Chennai Ahmedabad Pune Kolkata Hyderabad Newdelhi Lucknow Jaipur.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -133,7 +133,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>@openaod </td>
 		<td><a target="_blank" href="https://twitter.com/aryashah2k">aryashah2k</a></td>
 		<td>Mumbai India</td>
-		<td>15263</td>
+		<td>15361</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,7 +146,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>@talentdecrypt @theatron </td>
 		<td><a target="_blank" href="https://twitter.com/JayantGoel001">JayantGoel001</a></td>
 		<td>Ghaziabad India Planet C53</td>
-		<td>13749</td>
+		<td>13752</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>@dscvrone </td>
 		<td><a target="_blank" href="https://twitter.com/_vinayak_k">_vinayak_k</a></td>
 		<td>Pune India</td>
-		<td>13045</td>
+		<td>13058</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,7 +172,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>Nvidia Graphics Pvt Ltd<br/></td>
 		<td><a target="_blank" href="https://twitter.com/UtkarshPathrabe">UtkarshPathrabe</a></td>
 		<td>Pune India</td>
-		<td>9117</td>
+		<td>9118</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -211,7 +211,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>4314</td>
+		<td>4318</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -289,7 +289,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>Codementor </td>
 		<td><a target="_blank" href="https://twitter.com/meshivammathur">meshivammathur</a></td>
 		<td>India</td>
-		<td>3052</td>
+		<td>3056</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -328,7 +328,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India</td>
-		<td>2712</td>
+		<td>2714</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -549,7 +549,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/_brc_dd">_brc_dd</a></td>
 		<td>India</td>
-		<td>1392</td>
+		<td>1393</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1615,7 +1615,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>PuneIndia</td>
-		<td>570</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -2660,19 +2660,6 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 	<tr>
 		<td>197</td>
 		<td>
-			<a target="_blank" href="https://github.com/xprilion">
-				<img src="https://avatars.githubusercontent.com/u/7047208?s=72&u=d14c414316c020811da54dacf881e980e5d4f5fe&v=4" width="24" alt="Avatar of xprilion"/> xprilion
-			</a><br/>
-			Anubhav Singh
-		</td>
-		<td>Building @dynopii  </td>
-		<td><a target="_blank" href="https://twitter.com/xprilion">xprilion</a></td>
-		<td>India</td>
-		<td>321</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
 			<a target="_blank" href="https://github.com/aashutoshrathi">
 				<img src="https://avatars.githubusercontent.com/u/21199234?s=72&u=6148351756f5da4bfe74ca58b802acdf3d7f022b&v=4" width="24" alt="Avatar of aashutoshrathi"/> aashutoshrathi
 			</a><br/>
@@ -2681,6 +2668,19 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>@stackrlabs @2amdevs </td>
 		<td><a target="_blank" href="https://twitter.com/AashutoshRathi">AashutoshRathi</a></td>
 		<td>Bengaluru India</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a target="_blank" href="https://github.com/xprilion">
+				<img src="https://avatars.githubusercontent.com/u/7047208?s=72&u=d14c414316c020811da54dacf881e980e5d4f5fe&v=4" width="24" alt="Avatar of xprilion"/> xprilion
+			</a><br/>
+			Anubhav Singh
+		</td>
+		<td>Building @dynopii  </td>
+		<td><a target="_blank" href="https://twitter.com/xprilion">xprilion</a></td>
+		<td>India</td>
 		<td>321</td>
 	</tr>
 	<tr>
@@ -3708,7 +3708,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>Iit Madras </td>
 		<td><a target="_blank" href="https://twitter.com/SUDIPMO19931261">SUDIPMO19931261</a></td>
 		<td>INDIA</td>
-		<td>218</td>
+		<td>219</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -4371,7 +4371,7 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>@saeloun </td>
 		<td><a target="_blank" href="https://twitter.com/vipulnsward">vipulnsward</a></td>
 		<td>Pune</td>
-		<td>163</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>329</td>
@@ -9160,19 +9160,6 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 	<tr>
 		<td>697</td>
 		<td>
-			<a target="_blank" href="https://github.com/phatak-dev">
-				<img src="https://avatars.githubusercontent.com/u/839498?s=72&v=4" width="24" alt="Avatar of phatak-dev"/> phatak-dev
-			</a><br/>
-			Madhukara Phatak
-		</td>
-		<td>Self </td>
-		<td>No Twitter Username</td>
-		<td>India</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>698</td>
-		<td>
 			<a target="_blank" href="https://github.com/04psm">
 				<img src="https://avatars.githubusercontent.com/u/66555692?s=72&u=593c8e778fc56a363099c0584223e674c8053725&v=4" width="24" alt="Avatar of 04psm"/> 04psm
 			</a><br/>
@@ -9181,6 +9168,19 @@ There are `965 users`  in India. You need at least `251 followers` to be on this
 		<td>Backend Developer </td>
 		<td><a target="_blank" href="https://twitter.com/psmdev04">psmdev04</a></td>
 		<td>Kolkata  West Bengal</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
+			<a target="_blank" href="https://github.com/phatak-dev">
+				<img src="https://avatars.githubusercontent.com/u/839498?s=72&v=4" width="24" alt="Avatar of phatak-dev"/> phatak-dev
+			</a><br/>
+			Madhukara Phatak
+		</td>
+		<td>Self </td>
+		<td>No Twitter Username</td>
+		<td>India</td>
 		<td>13</td>
 	</tr>
 	<tr>
