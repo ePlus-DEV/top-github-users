@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Russia
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia"/>
 </a>
 
-The `public contributions` by users in Russia on `2024/3/26 10:05 AM UTC`. This list contains users from Russia and cities Moscow Saintpetersburg Yekaterinburg Novosibirsk Kazan Omsk Volgograd Chelyabinsk Krasnoyarsk.
+The `public contributions` by users in Russia on `2024/3/26 2:55 PM UTC`. This list contains users from Russia and cities Moscow Saintpetersburg Yekaterinburg Novosibirsk Kazan Omsk Volgograd Chelyabinsk Krasnoyarsk.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>20253</td>
+		<td>20326</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>@thedragoncode </td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>11833</td>
+		<td>11840</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -185,7 +185,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazan Russia</td>
-		<td>6254</td>
+		<td>6255</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -198,7 +198,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow Russia</td>
-		<td>5477</td>
+		<td>5490</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -224,7 +224,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Novosibirsk</td>
-		<td>4692</td>
+		<td>4695</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -250,7 +250,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia Kazan</td>
-		<td>3688</td>
+		<td>3691</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -276,7 +276,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/K900_">K900_</a></td>
 		<td>Moscow</td>
-		<td>2894</td>
+		<td>2896</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -289,7 +289,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td> </td>
 		<td><a target="_blank" href="https://twitter.com/alexander_akait">alexander_akait</a></td>
 		<td>Israel TelAviv  Russia Saint PetersburgKirov</td>
-		<td>2854</td>
+		<td>2863</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -315,7 +315,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>@yiisoft </td>
 		<td><a target="_blank" href="https://twitter.com/predvoditelev">predvoditelev</a></td>
 		<td>Voronezh Russia</td>
-		<td>2586</td>
+		<td>2598</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -354,7 +354,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/DmitryNStepanov">DmitryNStepanov</a></td>
 		<td>SaintPetersburg Russia</td>
-		<td>2193</td>
+		<td>2195</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -432,7 +432,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Compass Plus Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>1826</td>
+		<td>1829</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -471,7 +471,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Xperienceai </td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>1610</td>
+		<td>1616</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -575,7 +575,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>@rexim </td>
 		<td>No Twitter Username</td>
 		<td>Novosibirsk</td>
-		<td>1326</td>
+		<td>1328</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -593,19 +593,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>38</td>
 		<td>
-			<a target="_blank" href="https://github.com/mahenzon">
-				<img src="https://avatars.githubusercontent.com/u/20804158?s=72&v=4" width="24" alt="Avatar of mahenzon"/> mahenzon
-			</a><br/>
-			Suren Khorenyan
-		</td>
-		<td>@mtsai Ex @claimerapp Ex<br/>@adcombo<br/></td>
-		<td>No Twitter Username</td>
-		<td>Moscow</td>
-		<td>1216</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a target="_blank" href="https://github.com/Kakadu">
 				<img src="https://avatars.githubusercontent.com/u/438226?s=72&v=4" width="24" alt="Avatar of Kakadu"/> Kakadu
 			</a><br/>
@@ -614,6 +601,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Exjetbrains Research </td>
 		<td>No Twitter Username</td>
 		<td>SaintPetersburg Russia</td>
+		<td>1225</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a target="_blank" href="https://github.com/mahenzon">
+				<img src="https://avatars.githubusercontent.com/u/20804158?s=72&v=4" width="24" alt="Avatar of mahenzon"/> mahenzon
+			</a><br/>
+			Suren Khorenyan
+		</td>
+		<td>@mtsai Ex @claimerapp Ex<br/>@adcombo<br/></td>
+		<td>No Twitter Username</td>
+		<td>Moscow</td>
 		<td>1216</td>
 	</tr>
 	<tr>
@@ -640,7 +640,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>@linaro </td>
 		<td><a target="_blank" href="https://twitter.com/lumag_lumag">lumag_lumag</a></td>
 		<td>Russia St Petersburg</td>
-		<td>1183</td>
+		<td>1184</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -679,7 +679,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Turkey UAE Egypt Russia Georgia</td>
-		<td>1120</td>
+		<td>1121</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -697,6 +697,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>46</td>
 		<td>
+			<a target="_blank" href="https://github.com/dstogov">
+				<img src="https://avatars.githubusercontent.com/u/2510034?s=72&v=4" width="24" alt="Avatar of dstogov"/> dstogov
+			</a><br/>
+			Dmitry Stogov
+		</td>
+		<td>Zend By Perforce </td>
+		<td>No Twitter Username</td>
+		<td>Russia</td>
+		<td>1108</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a target="_blank" href="https://github.com/Lancetnik">
 				<img src="https://avatars.githubusercontent.com/u/44573917?s=72&u=f9a18be7324333daf9cc314c35c3051f0a20a7a6&v=4" width="24" alt="Avatar of Lancetnik"/> Lancetnik
 			</a><br/>
@@ -706,19 +719,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/diementros">diementros</a></td>
 		<td>Moscow</td>
 		<td>1108</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a target="_blank" href="https://github.com/dstogov">
-				<img src="https://avatars.githubusercontent.com/u/2510034?s=72&v=4" width="24" alt="Avatar of dstogov"/> dstogov
-			</a><br/>
-			Dmitry Stogov
-		</td>
-		<td>Zend By Perforce </td>
-		<td>No Twitter Username</td>
-		<td>Russia</td>
-		<td>1103</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -744,7 +744,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>991</td>
+		<td>993</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -822,7 +822,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>919</td>
+		<td>921</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -952,7 +952,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Hz Inc </td>
 		<td><a target="_blank" href="https://twitter.com/ademaro">ademaro</a></td>
 		<td>Russia</td>
-		<td>806</td>
+		<td>810</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -965,7 +965,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Linguistic Convergence Laboratory Nru<br/>Hse<br/>Httpsilclhseruen<br/></td>
 		<td><a target="_blank" href="https://twitter.com/aGricolaMZ">aGricolaMZ</a></td>
 		<td>Russia Moscow</td>
-		<td>777</td>
+		<td>779</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1017,7 +1017,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia Chelyabinsk</td>
-		<td>736</td>
+		<td>737</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1147,7 +1147,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia Moscow</td>
-		<td>665</td>
+		<td>666</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1238,7 +1238,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>627</td>
+		<td>628</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1303,7 +1303,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow Russia</td>
-		<td>603</td>
+		<td>605</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1316,7 +1316,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Mgimo University </td>
 		<td>No Twitter Username</td>
 		<td>Moscow Russia</td>
-		<td>602</td>
+		<td>603</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1342,7 +1342,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>593</td>
+		<td>594</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1394,7 +1394,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Miit </td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>572</td>
+		<td>577</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1407,7 +1407,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Saint Petersburg</td>
-		<td>563</td>
+		<td>564</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1503,6 +1503,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>108</td>
 		<td>
+			<a target="_blank" href="https://github.com/igsekor">
+				<img src="https://avatars.githubusercontent.com/u/13916521?s=72&u=c55489615932915c0f7930429651b0152fad7d2e&v=4" width="24" alt="Avatar of igsekor"/> igsekor
+			</a><br/>
+			Igor Korovchenko
+		</td>
+		<td>Narisoft Llc Voronezh State<br/>University<br/></td>
+		<td><a target="_blank" href="https://twitter.com/igsekor">igsekor</a></td>
+		<td>Voronezh Russia</td>
+		<td>510</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
 			<a target="_blank" href="https://github.com/newpavlov">
 				<img src="https://avatars.githubusercontent.com/u/329626?s=72&v=4" width="24" alt="Avatar of newpavlov"/> newpavlov
 			</a><br/>
@@ -1514,7 +1527,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>500</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a target="_blank" href="https://github.com/darky">
 				<img src="https://avatars.githubusercontent.com/u/1832800?s=72&u=f4310c8852df2a81db266fb72f79a718cb70c848&v=4" width="24" alt="Avatar of darky"/> darky
@@ -1527,7 +1540,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>499</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlariCode">
 				<img src="https://avatars.githubusercontent.com/u/2528600?s=72&u=34f637b6972a8a5a0043635d64d02912d87bc623&v=4" width="24" alt="Avatar of AlariCode"/> AlariCode
@@ -1537,19 +1550,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Pupleschool </td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>496</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a target="_blank" href="https://github.com/igsekor">
-				<img src="https://avatars.githubusercontent.com/u/13916521?s=72&u=c55489615932915c0f7930429651b0152fad7d2e&v=4" width="24" alt="Avatar of igsekor"/> igsekor
-			</a><br/>
-			Igor Korovchenko
-		</td>
-		<td>Narisoft Llc Voronezh State<br/>University<br/></td>
-		<td><a target="_blank" href="https://twitter.com/igsekor">igsekor</a></td>
-		<td>Voronezh Russia</td>
 		<td>496</td>
 	</tr>
 	<tr>
@@ -1615,7 +1615,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Kazan Federal University </td>
 		<td>No Twitter Username</td>
 		<td>Russia Kazan</td>
-		<td>464</td>
+		<td>465</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1659,19 +1659,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>120</td>
 		<td>
-			<a target="_blank" href="https://github.com/petrochenkov">
-				<img src="https://avatars.githubusercontent.com/u/5751617?s=72&u=33b44cbfd337b51814048a70b4a0ba677d39a3b8&v=4" width="24" alt="Avatar of petrochenkov"/> petrochenkov
-			</a><br/>
-			Vadim Petrochenkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moscow Russia</td>
-		<td>443</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
 			<a target="_blank" href="https://github.com/maxbarsukov">
 				<img src="https://avatars.githubusercontent.com/u/60351594?s=72&u=bd54db9560cbc1424311047192edc1544f690729&v=4" width="24" alt="Avatar of maxbarsukov"/> maxbarsukov
 			</a><br/>
@@ -1680,6 +1667,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>@followydev </td>
 		<td><a target="_blank" href="https://twitter.com/nyapsilon">nyapsilon</a></td>
 		<td>Russia St Petersburg</td>
+		<td>444</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a target="_blank" href="https://github.com/petrochenkov">
+				<img src="https://avatars.githubusercontent.com/u/5751617?s=72&u=33b44cbfd337b51814048a70b4a0ba677d39a3b8&v=4" width="24" alt="Avatar of petrochenkov"/> petrochenkov
+			</a><br/>
+			Vadim Petrochenkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moscow Russia</td>
 		<td>443</td>
 	</tr>
 	<tr>
@@ -1758,7 +1758,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Itmo University </td>
 		<td>No Twitter Username</td>
 		<td>Russia SaintPetersburg</td>
-		<td>420</td>
+		<td>423</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1771,7 +1771,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>@teasanctuary  </td>
 		<td><a target="_blank" href="https://twitter.com/rndtrash">rndtrash</a></td>
 		<td>Russia Krasnodar</td>
-		<td>420</td>
+		<td>421</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1841,6 +1841,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>134</td>
 		<td>
+			<a target="_blank" href="https://github.com/ouldevloper">
+				<img src="https://avatars.githubusercontent.com/u/23297924?s=72&u=c61117773459ba3a182c8a822162cf3ba6af0241&v=4" width="24" alt="Avatar of ouldevloper"/> ouldevloper
+			</a><br/>
+			Abdellah Oulahyane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Russia</td>
+		<td>407</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a target="_blank" href="https://github.com/Antonboom">
 				<img src="https://avatars.githubusercontent.com/u/17127404?s=72&u=2efa03fa4e2a40a8c122d25df96691841bff6c73&v=4" width="24" alt="Avatar of Antonboom"/> Antonboom
 			</a><br/>
@@ -1850,19 +1863,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moscow Russia</td>
 		<td>407</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a target="_blank" href="https://github.com/ouldevloper">
-				<img src="https://avatars.githubusercontent.com/u/23297924?s=72&u=c61117773459ba3a182c8a822162cf3ba6af0241&v=4" width="24" alt="Avatar of ouldevloper"/> ouldevloper
-			</a><br/>
-			Abdellah Oulahyane
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Russia</td>
-		<td>406</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -2036,19 +2036,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>149</td>
 		<td>
-			<a target="_blank" href="https://github.com/catamphetamine">
-				<img src="https://avatars.githubusercontent.com/u/477167?s=72&u=3c48fac849cc498b3a32273fb49d7bc72dd322d0&v=4" width="24" alt="Avatar of catamphetamine"/> catamphetamine
-			</a><br/>
-			Nikolay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moscow Mother Russia</td>
-		<td>353</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
 			<a target="_blank" href="https://github.com/gdlbo">
 				<img src="https://avatars.githubusercontent.com/u/41114720?s=72&u=449f146d4d2e9d3cb15da67a0c6817ef2fc200c4&v=4" width="24" alt="Avatar of gdlbo"/> gdlbo
 			</a><br/>
@@ -2057,6 +2044,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow Russia</td>
+		<td>355</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a target="_blank" href="https://github.com/catamphetamine">
+				<img src="https://avatars.githubusercontent.com/u/477167?s=72&u=3c48fac849cc498b3a32273fb49d7bc72dd322d0&v=4" width="24" alt="Avatar of catamphetamine"/> catamphetamine
+			</a><br/>
+			Nikolay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moscow Mother Russia</td>
 		<td>353</td>
 	</tr>
 	<tr>
@@ -2135,7 +2135,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Vk </td>
 		<td>No Twitter Username</td>
 		<td>SaintPetersburg Russia</td>
-		<td>331</td>
+		<td>332</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2206,7 +2206,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>162</td>
 		<td>
 			<a target="_blank" href="https://github.com/KotRikD">
-				<img src="https://avatars.githubusercontent.com/u/23283658?s=72&u=e17c290d7f04413e3f18e6cb4dd5c9ad95172894&v=4" width="24" alt="Avatar of KotRikD"/> KotRikD
+				<img src="https://avatars.githubusercontent.com/u/23283658?s=72&u=1498fee60347a8c2246c3a7a90949129a59b36b6&v=4" width="24" alt="Avatar of KotRikD"/> KotRikD
 			</a><br/>
 			Mikhail Babynichev
 		</td>
@@ -2226,10 +2226,23 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/andrey_taritsyn">andrey_taritsyn</a></td>
 		<td>Moscow Russia</td>
-		<td>301</td>
+		<td>302</td>
 	</tr>
 	<tr>
 		<td>164</td>
+		<td>
+			<a target="_blank" href="https://github.com/dimaip">
+				<img src="https://avatars.githubusercontent.com/u/837032?s=72&u=62a03bd3ca060aa6bbbdf00ebfa8d978bade3be1&v=4" width="24" alt="Avatar of dimaip"/> dimaip
+			</a><br/>
+			Dmitri Pisarev
+		</td>
+		<td>@psmb  </td>
+		<td><a target="_blank" href="https://twitter.com/dimaip">dimaip</a></td>
+		<td>Moscow</td>
+		<td>299</td>
+	</tr>
+	<tr>
+		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/DC-SWAT">
 				<img src="https://avatars.githubusercontent.com/u/5593563?s=72&u=fae7d24dc46981d8c03ec8fbcfad277be7ec4e68&v=4" width="24" alt="Avatar of DC-SWAT"/> DC-SWAT
@@ -2242,7 +2255,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>299</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/SweetVishnya">
 				<img src="https://avatars.githubusercontent.com/u/22149206?s=72&u=3928f79bcde320ac1820fd80d069e31eb8246a6c&v=4" width="24" alt="Avatar of SweetVishnya"/> SweetVishnya
@@ -2253,19 +2266,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/VishnyaSweet">VishnyaSweet</a></td>
 		<td>Moscow Russia</td>
 		<td>298</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a target="_blank" href="https://github.com/dimaip">
-				<img src="https://avatars.githubusercontent.com/u/837032?s=72&u=62a03bd3ca060aa6bbbdf00ebfa8d978bade3be1&v=4" width="24" alt="Avatar of dimaip"/> dimaip
-			</a><br/>
-			Dmitri Pisarev
-		</td>
-		<td>@psmb  </td>
-		<td><a target="_blank" href="https://twitter.com/dimaip">dimaip</a></td>
-		<td>Moscow</td>
-		<td>295</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2595,6 +2595,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>192</td>
 		<td>
+			<a target="_blank" href="https://github.com/zeckson">
+				<img src="https://avatars.githubusercontent.com/u/259739?s=72&u=05c221cbf4efda86c2c43737670eb1bc57275b58&v=4" width="24" alt="Avatar of zeckson"/> zeckson
+			</a><br/>
+			Eugene Shchepotev
+		</td>
+		<td>Devnull  @htmlacademy <br/>@jetbrains<br/></td>
+		<td><a target="_blank" href="https://twitter.com/zeckson">zeckson</a></td>
+		<td>SaintPetersburg Russia</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
 			<a target="_blank" href="https://github.com/antonkomarev">
 				<img src="https://avatars.githubusercontent.com/u/1849174?s=72&u=408c61601f1d70dd70f258df4d1f491bb42652c8&v=4" width="24" alt="Avatar of antonkomarev"/> antonkomarev
 			</a><br/>
@@ -2606,7 +2619,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/bezumkin">
 				<img src="https://avatars.githubusercontent.com/u/1257284?s=72&v=4" width="24" alt="Avatar of bezumkin"/> bezumkin
@@ -2619,7 +2632,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a target="_blank" href="https://github.com/iksergey">
 				<img src="https://avatars.githubusercontent.com/u/23079814?s=72&u=6ccf08a2ae439d706e20e06115dc7e74752795e4&v=4" width="24" alt="Avatar of iksergey"/> iksergey
@@ -2632,7 +2645,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>246</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a target="_blank" href="https://github.com/gazievri">
 				<img src="https://avatars.githubusercontent.com/u/96244317?s=72&u=36574f71cdad756f13278825176fcf8abb2f70df&v=4" width="24" alt="Avatar of gazievri"/> gazievri
@@ -2645,7 +2658,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
 			<a target="_blank" href="https://github.com/maksimr">
 				<img src="https://avatars.githubusercontent.com/u/616193?s=72&u=f840f1587022fb5edb55a056c06bfe1c30a02b55&v=4" width="24" alt="Avatar of maksimr"/> maksimr
@@ -2658,7 +2671,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a target="_blank" href="https://github.com/evgfilim1">
 				<img src="https://avatars.githubusercontent.com/u/17182159?s=72&v=4" width="24" alt="Avatar of evgfilim1"/> evgfilim1
@@ -2671,7 +2684,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a target="_blank" href="https://github.com/foxcpp">
 				<img src="https://avatars.githubusercontent.com/u/37885127?s=72&u=fc6e50ecf3fd725b692c952feef60d97ebcdff45&v=4" width="24" alt="Avatar of foxcpp"/> foxcpp
@@ -2684,7 +2697,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a target="_blank" href="https://github.com/Pekshev">
 				<img src="https://avatars.githubusercontent.com/u/12638819?s=72&u=539a09cdee02aff95d84bae1da545ed347f71c2e&v=4" width="24" alt="Avatar of Pekshev"/> Pekshev
@@ -2694,10 +2707,10 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Modplus </td>
 		<td>No Twitter Username</td>
 		<td>Moscow Russion Federation</td>
-		<td>240</td>
+		<td>241</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a target="_blank" href="https://github.com/xtrime-ru">
 				<img src="https://avatars.githubusercontent.com/u/34161928?s=72&u=5209ef0a3eafb1e5bffb4103e20d8d1b605ce3b2&v=4" width="24" alt="Avatar of xtrime-ru"/> xtrime-ru
@@ -2710,7 +2723,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a target="_blank" href="https://github.com/tsigel">
 				<img src="https://avatars.githubusercontent.com/u/3913017?s=72&v=4" width="24" alt="Avatar of tsigel"/> tsigel
@@ -2720,19 +2733,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia Moscow</td>
-		<td>239</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a target="_blank" href="https://github.com/zeckson">
-				<img src="https://avatars.githubusercontent.com/u/259739?s=72&u=05c221cbf4efda86c2c43737670eb1bc57275b58&v=4" width="24" alt="Avatar of zeckson"/> zeckson
-			</a><br/>
-			Eugene Shchepotev
-		</td>
-		<td>Devnull  @htmlacademy <br/>@jetbrains<br/></td>
-		<td><a target="_blank" href="https://twitter.com/zeckson">zeckson</a></td>
-		<td>SaintPetersburg Russia</td>
 		<td>239</td>
 	</tr>
 	<tr>
@@ -3037,6 +3037,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>226</td>
 		<td>
+			<a target="_blank" href="https://github.com/vdudouyt">
+				<img src="https://avatars.githubusercontent.com/u/1840936?s=72&u=59d7598cd5cf75c3af1daaa362e678eb1732eb9e&v=4" width="24" alt="Avatar of vdudouyt"/> vdudouyt
+			</a><br/>
+			Valentin Dudouyt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novosibirsk Russia</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
 			<a target="_blank" href="https://github.com/ryzhovau">
 				<img src="https://avatars.githubusercontent.com/u/1623091?s=72&u=628267dea4ddcc9023cacd01b55a57fa1118eaf8&v=4" width="24" alt="Avatar of ryzhovau"/> ryzhovau
 			</a><br/>
@@ -3048,7 +3061,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a target="_blank" href="https://github.com/Murcha1990">
 				<img src="https://avatars.githubusercontent.com/u/25839775?s=72&u=754271a92348e8c61e70f9f14b4bb19c413b2a98&v=4" width="24" alt="Avatar of Murcha1990"/> Murcha1990
@@ -3061,7 +3074,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a target="_blank" href="https://github.com/bb33bb">
 				<img src="https://avatars.githubusercontent.com/u/5463104?s=72&v=4" width="24" alt="Avatar of bb33bb"/> bb33bb
@@ -3072,19 +3085,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/frust93717815">frust93717815</a></td>
 		<td>russia</td>
 		<td>193</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
-			<a target="_blank" href="https://github.com/vdudouyt">
-				<img src="https://avatars.githubusercontent.com/u/1840936?s=72&u=59d7598cd5cf75c3af1daaa362e678eb1732eb9e&v=4" width="24" alt="Avatar of vdudouyt"/> vdudouyt
-			</a><br/>
-			Valentin Dudouyt
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novosibirsk Russia</td>
-		<td>192</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -3349,19 +3349,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>250</td>
 		<td>
-			<a target="_blank" href="https://github.com/TheNewAttacker64">
-				<img src="https://avatars.githubusercontent.com/u/57035255?s=72&v=4" width="24" alt="Avatar of TheNewAttacker64"/> TheNewAttacker64
-			</a><br/>
-			TheNewAttacker
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Russia</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
 			<a target="_blank" href="https://github.com/mkalinin">
 				<img src="https://avatars.githubusercontent.com/u/1892772?s=72&v=4" width="24" alt="Avatar of mkalinin"/> mkalinin
 			</a><br/>
@@ -3370,6 +3357,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Omsk</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a target="_blank" href="https://github.com/TheNewAttacker64">
+				<img src="https://avatars.githubusercontent.com/u/57035255?s=72&v=4" width="24" alt="Avatar of TheNewAttacker64"/> TheNewAttacker64
+			</a><br/>
+			TheNewAttacker
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Russia</td>
 		<td>161</td>
 	</tr>
 	<tr>
@@ -3492,6 +3492,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>261</td>
 		<td>
+			<a target="_blank" href="https://github.com/s1lentq">
+				<img src="https://avatars.githubusercontent.com/u/5860435?s=72&u=27024edf31a734f1da98e53cb5db407a7ee721f1&v=4" width="24" alt="Avatar of s1lentq"/> s1lentq
+			</a><br/>
+			Dmitry Novikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Russia Tomsk</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
 			<a target="_blank" href="https://github.com/panosru">
 				<img src="https://avatars.githubusercontent.com/u/400362?s=72&u=b846b61811bb4640545f803098529144aac73311&v=4" width="24" alt="Avatar of panosru"/> panosru
 			</a><br/>
@@ -3501,19 +3514,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/panosru">panosru</a></td>
 		<td>Greece  Russia</td>
 		<td>154</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a target="_blank" href="https://github.com/s1lentq">
-				<img src="https://avatars.githubusercontent.com/u/5860435?s=72&u=27024edf31a734f1da98e53cb5db407a7ee721f1&v=4" width="24" alt="Avatar of s1lentq"/> s1lentq
-			</a><br/>
-			Dmitry Novikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Russia Tomsk</td>
-		<td>153</td>
 	</tr>
 	<tr>
 		<td>263</td>
@@ -5138,7 +5138,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Open Mobile Platform </td>
 		<td>No Twitter Username</td>
 		<td>Volgodonsk Russia</td>
-		<td>77</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>388</td>
@@ -5195,19 +5195,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>392</td>
 		<td>
-			<a target="_blank" href="https://github.com/avevlad">
-				<img src="https://avatars.githubusercontent.com/u/2889662?s=72&u=4bbb40a4514d04c11ac38a86d9f7866121f5033a&v=4" width="24" alt="Avatar of avevlad"/> avevlad
-			</a><br/>
-			Vlad Derzhavin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moscow</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
 			<a target="_blank" href="https://github.com/pumPCin">
 				<img src="https://avatars.githubusercontent.com/u/15312002?s=72&u=55d266956b233f78cc9e85f4c2d1be51313078c3&v=4" width="24" alt="Avatar of pumPCin"/> pumPCin
 			</a><br/>
@@ -5216,6 +5203,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a target="_blank" href="https://github.com/avevlad">
+				<img src="https://avatars.githubusercontent.com/u/2889662?s=72&u=4bbb40a4514d04c11ac38a86d9f7866121f5033a&v=4" width="24" alt="Avatar of avevlad"/> avevlad
+			</a><br/>
+			Vlad Derzhavin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moscow</td>
 		<td>74</td>
 	</tr>
 	<tr>
@@ -5949,6 +5949,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>450</td>
 		<td>
+			<a target="_blank" href="https://github.com/CODeRUS">
+				<img src="https://avatars.githubusercontent.com/u/720601?s=72&v=4" width="24" alt="Avatar of CODeRUS"/> CODeRUS
+			</a><br/>
+			CODeRUS
+		</td>
+		<td>0x7da </td>
+		<td>No Twitter Username</td>
+		<td>Russia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
 			<a target="_blank" href="https://github.com/pConst">
 				<img src="https://avatars.githubusercontent.com/u/949988?s=72&u=f3522db79f177f26173514d462db100020d44ed0&v=4" width="24" alt="Avatar of pConst"/> pConst
 			</a><br/>
@@ -5960,7 +5973,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a target="_blank" href="https://github.com/iskander-faggod">
 				<img src="https://avatars.githubusercontent.com/u/60395869?s=72&u=db0a11efbae855da062e64f3ec0a9ba12961d530&v=4" width="24" alt="Avatar of iskander-faggod"/> iskander-faggod
@@ -5973,7 +5986,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a target="_blank" href="https://github.com/RaD">
 				<img src="https://avatars.githubusercontent.com/u/119226?s=72&v=4" width="24" alt="Avatar of RaD"/> RaD
@@ -5986,7 +5999,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a target="_blank" href="https://github.com/davydovanton">
 				<img src="https://avatars.githubusercontent.com/u/1147484?s=72&u=534bb36aa9125388ccc619385a9ec8a1ad4acbf7&v=4" width="24" alt="Avatar of davydovanton"/> davydovanton
@@ -5996,19 +6009,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow Russia</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
-			<a target="_blank" href="https://github.com/CODeRUS">
-				<img src="https://avatars.githubusercontent.com/u/720601?s=72&v=4" width="24" alt="Avatar of CODeRUS"/> CODeRUS
-			</a><br/>
-			CODeRUS
-		</td>
-		<td>0x7da </td>
-		<td>No Twitter Username</td>
-		<td>Russia</td>
 		<td>45</td>
 	</tr>
 	<tr>
@@ -6885,6 +6885,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>522</td>
 		<td>
+			<a target="_blank" href="https://github.com/gonetz">
+				<img src="https://avatars.githubusercontent.com/u/8983092?s=72&u=c743d926cf8476790f67bdac3e3e9199e318932a&v=4" width="24" alt="Avatar of gonetz"/> gonetz
+			</a><br/>
+			Sergey Lipskiy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Russia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
 			<a target="_blank" href="https://github.com/alari">
 				<img src="https://avatars.githubusercontent.com/u/683668?s=72&u=a549004e886e79ef04b570bcf68f6593dfd2fd27&v=4" width="24" alt="Avatar of alari"/> alari
 			</a><br/>
@@ -6896,7 +6909,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a target="_blank" href="https://github.com/MoonW1nd">
 				<img src="https://avatars.githubusercontent.com/u/23711465?s=72&u=1e0030fb98f854180d9903effc78bfbaa5c50387&v=4" width="24" alt="Avatar of MoonW1nd"/> MoonW1nd
@@ -6909,7 +6922,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a target="_blank" href="https://github.com/RusAnonym">
 				<img src="https://avatars.githubusercontent.com/u/45464902?s=72&u=b662cd504db66fe21e837276fcf1497af8ee5e6a&v=4" width="24" alt="Avatar of RusAnonym"/> RusAnonym
@@ -6922,7 +6935,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a target="_blank" href="https://github.com/sergeyshaykhullin">
 				<img src="https://avatars.githubusercontent.com/u/46970457?s=72&u=cd64ef97b656d819b6b45eb76b680fda99b5275e&v=4" width="24" alt="Avatar of sergeyshaykhullin"/> sergeyshaykhullin
@@ -6935,7 +6948,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a target="_blank" href="https://github.com/devpew">
 				<img src="https://avatars.githubusercontent.com/u/24252968?s=72&u=d967db0c13b162165c720861915168c74d32d837&v=4" width="24" alt="Avatar of devpew"/> devpew
@@ -6948,7 +6961,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a target="_blank" href="https://github.com/z3APA3A">
 				<img src="https://avatars.githubusercontent.com/u/7222768?s=72&u=67de4dfbfc53826cd3144febed308b071f808708&v=4" width="24" alt="Avatar of z3APA3A"/> z3APA3A
@@ -6958,19 +6971,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>Vk </td>
 		<td>No Twitter Username</td>
 		<td>Nizhny Novgorod Russia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>528</td>
-		<td>
-			<a target="_blank" href="https://github.com/gonetz">
-				<img src="https://avatars.githubusercontent.com/u/8983092?s=72&u=c743d926cf8476790f67bdac3e3e9199e318932a&v=4" width="24" alt="Avatar of gonetz"/> gonetz
-			</a><br/>
-			Sergey Lipskiy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Russia</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -7964,6 +7964,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>605</td>
 		<td>
+			<a target="_blank" href="https://github.com/alexey-goloburdin">
+				<img src="https://avatars.githubusercontent.com/u/1895747?s=72&u=77a7fe566b05047b16fea2bb38204828a786841b&v=4" width="24" alt="Avatar of alexey-goloburdin"/> alexey-goloburdin
+			</a><br/>
+			Alexey Goloburdin
+		</td>
+		<td>Salesbeatpro Todigital Digitalizeteam </td>
+		<td>No Twitter Username</td>
+		<td>Moscow Russia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
 			<a target="_blank" href="https://github.com/maxdenaro">
 				<img src="https://avatars.githubusercontent.com/u/25548841?s=72&u=fade5510cdadac340f03e5c9661ac4dc77297a11&v=4" width="24" alt="Avatar of maxdenaro"/> maxdenaro
 			</a><br/>
@@ -7975,7 +7988,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a target="_blank" href="https://github.com/Beeblerox">
 				<img src="https://avatars.githubusercontent.com/u/857406?s=72&v=4" width="24" alt="Avatar of Beeblerox"/> Beeblerox
@@ -7988,7 +8001,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a target="_blank" href="https://github.com/rvasily">
 				<img src="https://avatars.githubusercontent.com/u/1797652?s=72&u=911446f77cd8eebccba178d8d45916c18a004e92&v=4" width="24" alt="Avatar of rvasily"/> rvasily
@@ -8001,7 +8014,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a target="_blank" href="https://github.com/DobbyWanKenoby">
 				<img src="https://avatars.githubusercontent.com/u/17415647?s=72&u=9e811e7f4bfeb1e601d6e430641b0bd01d17dca8&v=4" width="24" alt="Avatar of DobbyWanKenoby"/> DobbyWanKenoby
@@ -8014,7 +8027,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a target="_blank" href="https://github.com/kaizer1">
 				<img src="https://avatars.githubusercontent.com/u/5073933?s=72&u=3e658f896c2db580140ce72261b27f7471dded78&v=4" width="24" alt="Avatar of kaizer1"/> kaizer1
@@ -8027,7 +8040,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a target="_blank" href="https://github.com/ansakharov">
 				<img src="https://avatars.githubusercontent.com/u/89106839?s=72&u=ae526925ffe53901e17017ec72b78a975f9a3845&v=4" width="24" alt="Avatar of ansakharov"/> ansakharov
@@ -8040,7 +8053,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a target="_blank" href="https://github.com/artemmad">
 				<img src="https://avatars.githubusercontent.com/u/24296446?s=72&u=465091d11a4abb9379095f4dd8c13cd78b46074a&v=4" width="24" alt="Avatar of artemmad"/> artemmad
@@ -8053,7 +8066,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/jlertle">
 				<img src="https://avatars.githubusercontent.com/u/206436?s=72&v=4" width="24" alt="Avatar of jlertle"/> jlertle
@@ -8066,7 +8079,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/universome">
 				<img src="https://avatars.githubusercontent.com/u/3128824?s=72&u=b508e7e217ebe19ebe319bb2785d7199791d7fc2&v=4" width="24" alt="Avatar of universome"/> universome
@@ -8079,7 +8092,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/antirek">
 				<img src="https://avatars.githubusercontent.com/u/324436?s=72&u=2184294dbc3aaf3d2cad90f28065ed233a8f3d99&v=4" width="24" alt="Avatar of antirek"/> antirek
@@ -8092,7 +8105,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a target="_blank" href="https://github.com/Laex">
 				<img src="https://avatars.githubusercontent.com/u/168313?s=72&v=4" width="24" alt="Avatar of Laex"/> Laex
@@ -8105,7 +8118,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a target="_blank" href="https://github.com/denofevil">
 				<img src="https://avatars.githubusercontent.com/u/32124?s=72&v=4" width="24" alt="Avatar of denofevil"/> denofevil
@@ -8118,7 +8131,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a target="_blank" href="https://github.com/termi">
 				<img src="https://avatars.githubusercontent.com/u/973643?s=72&u=f7731219e6ec5096a4aac13a23163c740b9167cb&v=4" width="24" alt="Avatar of termi"/> termi
@@ -8131,7 +8144,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a target="_blank" href="https://github.com/kostia7alania">
 				<img src="https://avatars.githubusercontent.com/u/18175496?s=72&u=2d9804b36048883d32bdae9437350d8d37917f97&v=4" width="24" alt="Avatar of kostia7alania"/> kostia7alania
@@ -8144,7 +8157,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a target="_blank" href="https://github.com/d4rsen">
 				<img src="https://avatars.githubusercontent.com/u/89852964?s=72&u=4a1b2a6fb0676756f36218af471e9d0fb7a6f006&v=4" width="24" alt="Avatar of d4rsen"/> d4rsen
@@ -8157,7 +8170,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>621</td>
 		<td>
 			<a target="_blank" href="https://github.com/KirillTemnov">
 				<img src="https://avatars.githubusercontent.com/u/147170?s=72&u=79dd548e0bd006d54eb1113b3e4a5f3a3c9a92eb&v=4" width="24" alt="Avatar of KirillTemnov"/> KirillTemnov
@@ -8170,7 +8183,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a target="_blank" href="https://github.com/VN0">
 				<img src="https://avatars.githubusercontent.com/u/37180264?s=72&u=c5a165e02e54b90a71f05d982e9bddc9d7c97bda&v=4" width="24" alt="Avatar of VN0"/> VN0
@@ -8183,7 +8196,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a target="_blank" href="https://github.com/Evil-Spirit">
 				<img src="https://avatars.githubusercontent.com/u/1980537?s=72&u=985024d5672e60066d74114dabd9b7c784518aae&v=4" width="24" alt="Avatar of Evil-Spirit"/> Evil-Spirit
@@ -8196,7 +8209,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a target="_blank" href="https://github.com/Zhekuson">
 				<img src="https://avatars.githubusercontent.com/u/30335842?s=72&u=9f0c663e0e4d03b9d70a3d234f8fa739a2a04960&v=4" width="24" alt="Avatar of Zhekuson"/> Zhekuson
@@ -8209,7 +8222,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>625</td>
 		<td>
 			<a target="_blank" href="https://github.com/jointime1">
 				<img src="https://avatars.githubusercontent.com/u/96395085?s=72&u=b9d01dd9f570edb14b5573acbca7a74e2de9ee6e&v=4" width="24" alt="Avatar of jointime1"/> jointime1
@@ -8222,7 +8235,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>626</td>
 		<td>
 			<a target="_blank" href="https://github.com/webistomin">
 				<img src="https://avatars.githubusercontent.com/u/30475699?s=72&u=c0831e74161cbf51db0f756133152a61657c5186&v=4" width="24" alt="Avatar of webistomin"/> webistomin
@@ -8235,7 +8248,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a target="_blank" href="https://github.com/klim0v">
 				<img src="https://avatars.githubusercontent.com/u/8124188?s=72&u=ee168bef7cbab41905ba487b1126a85b43a16f53&v=4" width="24" alt="Avatar of klim0v"/> klim0v
@@ -8248,7 +8261,7 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a target="_blank" href="https://github.com/rmuhamedgaliev">
 				<img src="https://avatars.githubusercontent.com/u/1178731?s=72&u=5d40d9ba758d006c845e0a5b7d7fdfebf3c47871&v=4" width="24" alt="Avatar of rmuhamedgaliev"/> rmuhamedgaliev
@@ -8259,19 +8272,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/rmuhamedgaliev">rmuhamedgaliev</a></td>
 		<td>Russia</td>
 		<td>12</td>
-	</tr>
-	<tr>
-		<td>628</td>
-		<td>
-			<a target="_blank" href="https://github.com/alexey-goloburdin">
-				<img src="https://avatars.githubusercontent.com/u/1895747?s=72&u=77a7fe566b05047b16fea2bb38204828a786841b&v=4" width="24" alt="Avatar of alexey-goloburdin"/> alexey-goloburdin
-			</a><br/>
-			Alexey Goloburdin
-		</td>
-		<td>Salesbeatpro Todigital Digitalizeteam </td>
-		<td>No Twitter Username</td>
-		<td>Moscow Russia</td>
-		<td>11</td>
 	</tr>
 	<tr>
 		<td>629</td>
@@ -8744,19 +8744,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>665</td>
 		<td>
-			<a target="_blank" href="https://github.com/Alexander-Shum">
-				<img src="https://avatars.githubusercontent.com/u/73932863?s=72&u=efefe75b6fbc51ed8ff184431422dd17efe66c63&v=4" width="24" alt="Avatar of Alexander-Shum"/> Alexander-Shum
-			</a><br/>
-			Alexander Shumilov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moscow</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>666</td>
-		<td>
 			<a target="_blank" href="https://github.com/Ruuv1337">
 				<img src="https://avatars.githubusercontent.com/u/31353526?s=72&u=1443a999f40656ea89f3483a7159ad32806987aa&v=4" width="24" alt="Avatar of Ruuv1337"/> Ruuv1337
 			</a><br/>
@@ -8765,6 +8752,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
+			<a target="_blank" href="https://github.com/Alexander-Shum">
+				<img src="https://avatars.githubusercontent.com/u/73932863?s=72&u=efefe75b6fbc51ed8ff184431422dd17efe66c63&v=4" width="24" alt="Avatar of Alexander-Shum"/> Alexander-Shum
+			</a><br/>
+			Alexander Shumilov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moscow</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10317,19 +10317,6 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 	<tr>
 		<td>786</td>
 		<td>
-			<a target="_blank" href="https://github.com/xanderblinov">
-				<img src="https://avatars.githubusercontent.com/u/469876?s=72&u=1ba7a4874be536bed8d41a5a7820256e96e12633&v=4" width="24" alt="Avatar of xanderblinov"/> xanderblinov
-			</a><br/>
-			Alexander Blinov
-		</td>
-		<td>@hhru  </td>
-		<td><a target="_blank" href="https://twitter.com/xanderblinov">xanderblinov</a></td>
-		<td>Moscow</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>787</td>
-		<td>
 			<a target="_blank" href="https://github.com/GSkoba">
 				<img src="https://avatars.githubusercontent.com/u/17052650?s=72&u=4b5285c45631bce89f963ef4c73f4333b5c4b056&v=4" width="24" alt="Avatar of GSkoba"/> GSkoba
 			</a><br/>
@@ -10338,6 +10325,19 @@ There are `972 users`  in Russia. You need at least `54 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/gskobelevff">gskobelevff</a></td>
 		<td>St Petersburg Russia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>787</td>
+		<td>
+			<a target="_blank" href="https://github.com/xanderblinov">
+				<img src="https://avatars.githubusercontent.com/u/469876?s=72&u=1ba7a4874be536bed8d41a5a7820256e96e12633&v=4" width="24" alt="Avatar of xanderblinov"/> xanderblinov
+			</a><br/>
+			Alexander Blinov
+		</td>
+		<td>@hhru  </td>
+		<td><a target="_blank" href="https://twitter.com/xanderblinov">xanderblinov</a></td>
+		<td>Moscow</td>
 		<td>1</td>
 	</tr>
 	<tr>
