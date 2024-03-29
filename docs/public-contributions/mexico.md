@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` by users in Mexico on `2024/3/29 9:11 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` by users in Mexico on `2024/3/29 1:50 PM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Object Computing Inc Oci<br/></td>
 		<td><a target="_blank" href="https://twitter.com/sdelamo">sdelamo</a></td>
 		<td>Guadalajara Spain Remote</td>
-		<td>18034</td>
+		<td>18041</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Aguascalientes Mexico</td>
-		<td>9766</td>
+		<td>9768</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -250,7 +250,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Benemrita Universidad Autnoma De<br/>Puebla<br/></td>
 		<td><a target="_blank" href="https://twitter.com/dantecc10">dantecc10</a></td>
 		<td>Puebla Puebla</td>
-		<td>1855</td>
+		<td>1863</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -801,6 +801,19 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>54</td>
 		<td>
+			<a target="_blank" href="https://github.com/jmcota">
+				<img src="https://avatars.githubusercontent.com/u/2374503?s=72&u=ba4789d62913c8708a2a05365b7c622e5941e3b8&v=4" width="24" alt="Avatar of jmcota"/> jmcota
+			</a><br/>
+			Jos Manuel Cota
+		</td>
+		<td>Ontica </td>
+		<td><a target="_blank" href="https://twitter.com/ontica">ontica</a></td>
+		<td>Mexico</td>
+		<td>620</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
 			<a target="_blank" href="https://github.com/Pointedstick">
 				<img src="https://avatars.githubusercontent.com/u/1097249?s=72&u=fce21e635ca2eb3e3b57bdac4d2fe17b969afca3&v=4" width="24" alt="Avatar of Pointedstick"/> Pointedstick
 			</a><br/>
@@ -810,19 +823,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>New Mexico USA</td>
 		<td>619</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
-			<a target="_blank" href="https://github.com/jmcota">
-				<img src="https://avatars.githubusercontent.com/u/2374503?s=72&u=ba4789d62913c8708a2a05365b7c622e5941e3b8&v=4" width="24" alt="Avatar of jmcota"/> jmcota
-			</a><br/>
-			Jos Manuel Cota
-		</td>
-		<td>Ontica </td>
-		<td><a target="_blank" href="https://twitter.com/ontica">ontica</a></td>
-		<td>Mexico</td>
-		<td>617</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -3362,6 +3362,19 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>251</td>
 		<td>
+			<a target="_blank" href="https://github.com/SantiagoTorres">
+				<img src="https://avatars.githubusercontent.com/u/3579933?s=72&u=bc63604daea01e4da41b3b204512b91fa6685572&v=4" width="24" alt="Avatar of SantiagoTorres"/> SantiagoTorres
+			</a><br/>
+			Santiago Torres
+		</td>
+		<td>Purdue University </td>
+		<td><a target="_blank" href="https://twitter.com/TorresAriasS">TorresAriasS</a></td>
+		<td>Mexico  US</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
 			<a target="_blank" href="https://github.com/javiersanpan">
 				<img src="https://avatars.githubusercontent.com/u/69559745?s=72&u=1ed46bfc19dbe3cc72f9fceca02b01c6a167e6c5&v=4" width="24" alt="Avatar of javiersanpan"/> javiersanpan
 			</a><br/>
@@ -3371,19 +3384,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/javiersanpan">javiersanpan</a></td>
 		<td>Guadalajara Mexico</td>
 		<td>112</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a target="_blank" href="https://github.com/SantiagoTorres">
-				<img src="https://avatars.githubusercontent.com/u/3579933?s=72&u=bc63604daea01e4da41b3b204512b91fa6685572&v=4" width="24" alt="Avatar of SantiagoTorres"/> SantiagoTorres
-			</a><br/>
-			Santiago Torres
-		</td>
-		<td>Purdue University </td>
-		<td><a target="_blank" href="https://twitter.com/TorresAriasS">TorresAriasS</a></td>
-		<td>Mexico  US</td>
-		<td>111</td>
 	</tr>
 	<tr>
 		<td>253</td>
@@ -4649,6 +4649,19 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>350</td>
 		<td>
+			<a target="_blank" href="https://github.com/4k1k0">
+				<img src="https://avatars.githubusercontent.com/u/3821782?s=72&u=a50fc1fcee3d3b52f4244bb0ffcbb01ce80a0753&v=4" width="24" alt="Avatar of 4k1k0"/> 4k1k0
+			</a><br/>
+			Wako
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mexico City</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
 			<a target="_blank" href="https://github.com/luzaracelydls">
 				<img src="https://avatars.githubusercontent.com/u/16451112?s=72&u=ec749ace56791f824be6a3555e69c93966cab57c&v=4" width="24" alt="Avatar of luzaracelydls"/> luzaracelydls
 			</a><br/>
@@ -4658,19 +4671,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/luzaracelydls">luzaracelydls</a></td>
 		<td>Monterrey</td>
 		<td>60</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a target="_blank" href="https://github.com/4k1k0">
-				<img src="https://avatars.githubusercontent.com/u/3821782?s=72&u=a50fc1fcee3d3b52f4244bb0ffcbb01ce80a0753&v=4" width="24" alt="Avatar of 4k1k0"/> 4k1k0
-			</a><br/>
-			Wako
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mexico City</td>
-		<td>59</td>
 	</tr>
 	<tr>
 		<td>352</td>
