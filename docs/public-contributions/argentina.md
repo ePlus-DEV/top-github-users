@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/3/31 6:03 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/3/31 10:36 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -250,7 +250,7 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>1919</td>
+		<td>1922</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -640,7 +640,7 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>916</td>
+		<td>917</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -1036,7 +1036,7 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>72</td>
 		<td>
 			<a target="_blank" href="https://github.com/paoliniluis">
-				<img src="https://avatars.githubusercontent.com/u/1711649?s=72&u=3886d61b22120e18663bc80e645c38e61329fa68&v=4" width="24" alt="Avatar of paoliniluis"/> paoliniluis
+				<img src="https://avatars.githubusercontent.com/u/1711649?s=72&u=bec64b083ac55c8bd69e305c773a52da1a24e5e5&v=4" width="24" alt="Avatar of paoliniluis"/> paoliniluis
 			</a><br/>
 			Luis Paolini
 		</td>
@@ -1147,7 +1147,7 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>@profunktor  </td>
 		<td><a target="_blank" href="https://twitter.com/volpegabriel87">volpegabriel87</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>610</td>
+		<td>611</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -5754,6 +5754,19 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 	<tr>
 		<td>435</td>
 		<td>
+			<a target="_blank" href="https://github.com/romeroadrian">
+				<img src="https://avatars.githubusercontent.com/u/1090631?s=72&u=08392c780afbc9b4c2fc7d915b6ddb9f0a14eee9&v=4" width="24" alt="Avatar of romeroadrian"/> romeroadrian
+			</a><br/>
+			Adrian Romero
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/adrianromero">adrianromero</a></td>
+		<td>Argentina</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
 			<a target="_blank" href="https://github.com/safernandez666">
 				<img src="https://avatars.githubusercontent.com/u/19507831?s=72&u=d7ec10005db70787015153d3b38fad3cd720b425&v=4" width="24" alt="Avatar of safernandez666"/> safernandez666
 			</a><br/>
@@ -5765,7 +5778,7 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a target="_blank" href="https://github.com/jesuslencina">
 				<img src="https://avatars.githubusercontent.com/u/36510164?s=72&u=54e4be827c058e21662220864ed7b2a6413303c1&v=4" width="24" alt="Avatar of jesuslencina"/> jesuslencina
@@ -5775,19 +5788,6 @@ There are `970 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>Flux It </td>
 		<td>No Twitter Username</td>
 		<td>Crdoba Argentina</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a target="_blank" href="https://github.com/romeroadrian">
-				<img src="https://avatars.githubusercontent.com/u/1090631?s=72&u=08392c780afbc9b4c2fc7d915b6ddb9f0a14eee9&v=4" width="24" alt="Avatar of romeroadrian"/> romeroadrian
-			</a><br/>
-			Adrian Romero
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/adrianromero">adrianromero</a></td>
-		<td>Argentina</td>
 		<td>62</td>
 	</tr>
 	<tr>
