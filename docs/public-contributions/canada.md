@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Canada
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" alt="Canada"/>
 </a>
 
-The `public contributions` by users in Canada on `2024/4/4 11:24 AM UTC`. This list contains users from Canada and cities Toronto Montreal Vancouver Calgary Edmonton Quebeccity Winnipeg Saskatoon Regina.
+The `public contributions` by users in Canada on `2024/4/4 4:26 PM UTC`. This list contains users from Canada and cities Toronto Montreal Vancouver Calgary Edmonton Quebeccity Winnipeg Saskatoon Regina.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Montreal QC Canada</td>
-		<td>14729</td>
+		<td>13198</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@vsekai @godotengine @chibifire <br/></td>
 		<td><a target="_blank" href="https://twitter.com/iFiery">iFiery</a></td>
 		<td>AmericaVancouver</td>
-		<td>10857</td>
+		<td>10858</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Open Contracting Partnership </td>
 		<td><a target="_blank" href="https://twitter.com/mckinneyjames">mckinneyjames</a></td>
 		<td>Canada</td>
-		<td>5755</td>
+		<td>5758</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,7 +172,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@unoplatform </td>
 		<td><a target="_blank" href="https://twitter.com/jlaban">jlaban</a></td>
 		<td>Montreal Canada</td>
-		<td>5427</td>
+		<td>5433</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -198,7 +198,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@denoland </td>
 		<td><a target="_blank" href="https://twitter.com/DavidSherret">DavidSherret</a></td>
 		<td>Toronto Canada</td>
-		<td>4471</td>
+		<td>4475</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -237,7 +237,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@zabbly </td>
 		<td><a target="_blank" href="https://twitter.com/stgraber">stgraber</a></td>
 		<td>Shefford QC Canada</td>
-		<td>3826</td>
+		<td>3827</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -276,7 +276,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montreal Canada</td>
-		<td>3609</td>
+		<td>3627</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -289,7 +289,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@getsentry </td>
 		<td>No Twitter Username</td>
 		<td>Toronto Ontario</td>
-		<td>3596</td>
+		<td>3599</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -302,7 +302,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@vmware </td>
 		<td>No Twitter Username</td>
 		<td>Toronto Ontario</td>
-		<td>3536</td>
+		<td>3538</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -315,7 +315,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/rgrinb">rgrinb</a></td>
 		<td>Toronto</td>
-		<td>3455</td>
+		<td>3459</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -328,7 +328,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Fraser Valley Canada</td>
-		<td>3423</td>
+		<td>3425</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -341,7 +341,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kingthorin_rm">kingthorin_rm</a></td>
 		<td>Ontario Canada</td>
-		<td>3362</td>
+		<td>3365</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -367,7 +367,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vancouver BC</td>
-		<td>3060</td>
+		<td>3061</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -393,7 +393,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toronto Ontario</td>
-		<td>2870</td>
+		<td>2883</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -406,7 +406,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@opensauced </td>
 		<td><a target="_blank" href="https://twitter.com/nickytonline">nickytonline</a></td>
 		<td>Montreal Canada</td>
-		<td>2795</td>
+		<td>2806</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -445,7 +445,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Wundersolutionscom </td>
 		<td>No Twitter Username</td>
 		<td>Toronto ON CA</td>
-		<td>2715</td>
+		<td>2723</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -458,7 +458,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@geopython @opengeospatial @wmoim <br/></td>
 		<td><a target="_blank" href="https://twitter.com/tomkralidis">tomkralidis</a></td>
 		<td>Toronto Ontario Canada</td>
-		<td>2626</td>
+		<td>2629</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -484,7 +484,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ottawa Ontario Canada</td>
-		<td>2401</td>
+		<td>2402</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -497,7 +497,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@positpbc </td>
 		<td><a target="_blank" href="https://twitter.com/jennybryan">jennybryan</a></td>
 		<td>Vancouver BC Canada</td>
-		<td>2368</td>
+		<td>2371</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -536,7 +536,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Universit Du Qubec Teluq<br/></td>
 		<td><a target="_blank" href="https://twitter.com/lemire">lemire</a></td>
 		<td>Montreal Canada</td>
-		<td>2215</td>
+		<td>2217</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -588,7 +588,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/reiver">reiver</a></td>
 		<td>Metro Vancouver</td>
-		<td>2121</td>
+		<td>2124</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -614,7 +614,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@kalamuna  </td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>2058</td>
+		<td>2059</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -640,7 +640,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>4de3 Ad16 Fa0a 584b<br/>3c8d<br/><br/>C054<br/>3acb<br/>4cb1<br/>5ea2<br/>Ffd6<br/></td>
 		<td><a target="_blank" href="https://twitter.com/huitseeker">huitseeker</a></td>
 		<td>Montreal Qubec Canada</td>
-		<td>1979</td>
+		<td>1981</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -653,7 +653,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@ollama </td>
 		<td><a target="_blank" href="https://twitter.com/jmorgan">jmorgan</a></td>
 		<td>Toronto</td>
-		<td>1968</td>
+		<td>1969</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -679,7 +679,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@matrixorg  @vectorim </td>
 		<td><a target="_blank" href="https://twitter.com/turt2live">turt2live</a></td>
 		<td>Alberta Canada</td>
-		<td>1890</td>
+		<td>1891</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -692,7 +692,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Nrwlio </td>
 		<td>No Twitter Username</td>
 		<td>Toronto ON Canada</td>
-		<td>1857</td>
+		<td>1858</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -705,7 +705,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Perimeter Institute For Theoretical<br/>Physics<br/></td>
 		<td>No Twitter Username</td>
 		<td>Waterloo Ontario Canada</td>
-		<td>1852</td>
+		<td>1853</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -718,7 +718,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Nx </td>
 		<td><a target="_blank" href="https://twitter.com/jay_soo">jay_soo</a></td>
 		<td>Toronto</td>
-		<td>1801</td>
+		<td>1802</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -861,7 +861,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Xanadu </td>
 		<td><a target="_blank" href="https://twitter.com/galactromeda">galactromeda</a></td>
 		<td>Canada</td>
-		<td>1564</td>
+		<td>1568</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -887,7 +887,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/jiaxiao_zhou">jiaxiao_zhou</a></td>
 		<td>Vancouver</td>
-		<td>1536</td>
+		<td>1537</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -900,7 +900,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@voltrondata </td>
 		<td><a target="_blank" href="https://twitter.com/paleolimbot">paleolimbot</a></td>
 		<td>Nova Scotia Canada</td>
-		<td>1507</td>
+		<td>1508</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -965,7 +965,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Sanctuary Ai </td>
 		<td>No Twitter Username</td>
 		<td>Vancouver Canada</td>
-		<td>1405</td>
+		<td>1406</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -978,7 +978,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Nvidia </td>
 		<td><a target="_blank" href="https://twitter.com/code_report">code_report</a></td>
 		<td>Toronto ON</td>
-		<td>1401</td>
+		<td>1403</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1017,7 +1017,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@getsentry </td>
 		<td><a target="_blank" href="https://twitter.com/brungarc">brungarc</a></td>
 		<td>Toronto Canada</td>
-		<td>1338</td>
+		<td>1339</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1043,7 +1043,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/marcospereira">marcospereira</a></td>
 		<td>Toronto ON</td>
-		<td>1312</td>
+		<td>1315</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1056,7 +1056,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Acr Software </td>
 		<td><a target="_blank" href="https://twitter.com/allanritchie911">allanritchie911</a></td>
 		<td>Toronto Canada</td>
-		<td>1306</td>
+		<td>1308</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1121,7 +1121,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@dagger </td>
 		<td>No Twitter Username</td>
 		<td>Toronto ON</td>
-		<td>1257</td>
+		<td>1259</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1134,7 +1134,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@openearthfoundation  </td>
 		<td>No Twitter Username</td>
 		<td>Montreal Quebec Canada</td>
-		<td>1252</td>
+		<td>1257</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1147,7 +1147,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ste_bau">ste_bau</a></td>
 		<td>Sarnia Ontario Canada</td>
-		<td>1240</td>
+		<td>1242</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1160,7 +1160,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chambly Quebec Canada</td>
-		<td>1234</td>
+		<td>1236</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1264,7 +1264,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Square Inc </td>
 		<td>No Twitter Username</td>
 		<td>Waterloo Ontario Canada</td>
-		<td>1156</td>
+		<td>1158</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1316,7 +1316,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Gns3 Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>1107</td>
+		<td>1108</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1329,7 +1329,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>MontrealQC</td>
-		<td>1095</td>
+		<td>1096</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1347,6 +1347,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>96</td>
 		<td>
+			<a target="_blank" href="https://github.com/rsaz">
+				<img src="https://avatars.githubusercontent.com/u/4088378?s=72&u=3f05c4672c5855b7b8709face8afb453eaf0e138&v=4" width="24" alt="Avatar of rsaz"/> rsaz
+			</a><br/>
+			Richard Zampieri
+		</td>
+		<td>@expressots  </td>
+		<td>No Twitter Username</td>
+		<td>BC Canada</td>
+		<td>1088</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
 			<a target="_blank" href="https://github.com/jasonish">
 				<img src="https://avatars.githubusercontent.com/u/644115?s=72&u=a6abdaa49662ca8d8f472603281d0ad8efb0d08a&v=4" width="24" alt="Avatar of jasonish"/> jasonish
 			</a><br/>
@@ -1356,19 +1369,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/jasonish">jasonish</a></td>
 		<td>Saskatoon Canada</td>
 		<td>1086</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a target="_blank" href="https://github.com/rsaz">
-				<img src="https://avatars.githubusercontent.com/u/4088378?s=72&u=3f05c4672c5855b7b8709face8afb453eaf0e138&v=4" width="24" alt="Avatar of rsaz"/> rsaz
-			</a><br/>
-			Richard Zampieri
-		</td>
-		<td>@expressots  </td>
-		<td>No Twitter Username</td>
-		<td>BC Canada</td>
-		<td>1075</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1407,7 +1407,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>1030</td>
+		<td>1031</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1542,6 +1542,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>111</td>
 		<td>
+			<a target="_blank" href="https://github.com/humphd">
+				<img src="https://avatars.githubusercontent.com/u/427398?s=72&u=faca4e4a8e16d7f7fc61fc9fd185df1671cb9adf&v=4" width="24" alt="Avatar of humphd"/> humphd
+			</a><br/>
+			David Humphrey
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/humphd">humphd</a></td>
+		<td>Canada</td>
+		<td>974</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
 			<a target="_blank" href="https://github.com/cuteolaf">
 				<img src="https://avatars.githubusercontent.com/u/53915161?s=72&u=5fcd9013b90da07cb4fc8f138f9b0f4fda0985dc&v=4" width="24" alt="Avatar of cuteolaf"/> cuteolaf
 			</a><br/>
@@ -1551,19 +1564,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vancouver</td>
 		<td>970</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a target="_blank" href="https://github.com/humphd">
-				<img src="https://avatars.githubusercontent.com/u/427398?s=72&u=faca4e4a8e16d7f7fc61fc9fd185df1671cb9adf&v=4" width="24" alt="Avatar of humphd"/> humphd
-			</a><br/>
-			David Humphrey
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/humphd">humphd</a></td>
-		<td>Canada</td>
-		<td>969</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1659,6 +1659,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>120</td>
 		<td>
+			<a target="_blank" href="https://github.com/james-gates-0212">
+				<img src="https://avatars.githubusercontent.com/u/157581830?s=72&u=6d54d0a58b036ef37a292654b4ab5645aaeb058b&v=4" width="24" alt="Avatar of james-gates-0212"/> james-gates-0212
+			</a><br/>
+			James Gates
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC Canada</td>
+		<td>876</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
 			<a target="_blank" href="https://github.com/lassoan">
 				<img src="https://avatars.githubusercontent.com/u/307929?s=72&u=1270f1e4ee0c114f4b1d8508d69582b486ab8b37&v=4" width="24" alt="Avatar of lassoan"/> lassoan
 			</a><br/>
@@ -1670,7 +1683,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>870</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a target="_blank" href="https://github.com/JLHwung">
 				<img src="https://avatars.githubusercontent.com/u/3607926?s=72&v=4" width="24" alt="Avatar of JLHwung"/> JLHwung
@@ -1680,20 +1693,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Waterloo ON Canada</td>
-		<td>860</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a target="_blank" href="https://github.com/james-gates-0212">
-				<img src="https://avatars.githubusercontent.com/u/157581830?s=72&u=6d54d0a58b036ef37a292654b4ab5645aaeb058b&v=4" width="24" alt="Avatar of james-gates-0212"/> james-gates-0212
-			</a><br/>
-			James Gates
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC Canada</td>
-		<td>859</td>
+		<td>863</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1732,7 +1732,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/shiftkey">shiftkey</a></td>
 		<td>Canada</td>
-		<td>853</td>
+		<td>856</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1750,6 +1750,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>127</td>
 		<td>
+			<a target="_blank" href="https://github.com/ninjamuffin99">
+				<img src="https://avatars.githubusercontent.com/u/22229331?s=72&v=4" width="24" alt="Avatar of ninjamuffin99"/> ninjamuffin99
+			</a><br/>
+			Cameron Taylor
+		</td>
+		<td>@funkincrew  </td>
+		<td><a target="_blank" href="https://twitter.com/ninja_muffin99">ninja_muffin99</a></td>
+		<td>Toronto</td>
+		<td>834</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
 			<a target="_blank" href="https://github.com/davepagurek">
 				<img src="https://avatars.githubusercontent.com/u/5315059?s=72&u=59dd1097bdb387414b0c5e08afade98e67223ff3&v=4" width="24" alt="Avatar of davepagurek"/> davepagurek
 			</a><br/>
@@ -1759,19 +1772,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/davepvm">davepvm</a></td>
 		<td>Toronto Canada</td>
 		<td>834</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a target="_blank" href="https://github.com/ninjamuffin99">
-				<img src="https://avatars.githubusercontent.com/u/22229331?s=72&v=4" width="24" alt="Avatar of ninjamuffin99"/> ninjamuffin99
-			</a><br/>
-			Cameron Taylor
-		</td>
-		<td>@funkincrew  </td>
-		<td><a target="_blank" href="https://twitter.com/ninja_muffin99">ninja_muffin99</a></td>
-		<td>Toronto</td>
-		<td>833</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1901,7 +1901,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toronto</td>
-		<td>772</td>
+		<td>774</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2088,6 +2088,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>153</td>
 		<td>
+			<a target="_blank" href="https://github.com/Redth">
+				<img src="https://avatars.githubusercontent.com/u/271950?s=72&u=1056e06f0ac039feabb458ed233ee62dcb3d67c7&v=4" width="24" alt="Avatar of Redth"/> Redth
+			</a><br/>
+			Jonathan Dick
+		</td>
+		<td>Net Maui @ Microsoft<br/></td>
+		<td><a target="_blank" href="https://twitter.com/redth">redth</a></td>
+		<td>Ontario Canada</td>
+		<td>709</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
 			<a target="_blank" href="https://github.com/jhawthorn">
 				<img src="https://avatars.githubusercontent.com/u/131752?s=72&u=32ddf1119b1d189c9bd241a721b36ea01c29f61e&v=4" width="24" alt="Avatar of jhawthorn"/> jhawthorn
 			</a><br/>
@@ -2099,7 +2112,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>709</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a target="_blank" href="https://github.com/karenetheridge">
 				<img src="https://avatars.githubusercontent.com/u/303051?s=72&v=4" width="24" alt="Avatar of karenetheridge"/> karenetheridge
@@ -2112,19 +2125,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>708</td>
 	</tr>
 	<tr>
-		<td>155</td>
-		<td>
-			<a target="_blank" href="https://github.com/Redth">
-				<img src="https://avatars.githubusercontent.com/u/271950?s=72&u=1056e06f0ac039feabb458ed233ee62dcb3d67c7&v=4" width="24" alt="Avatar of Redth"/> Redth
-			</a><br/>
-			Jonathan Dick
-		</td>
-		<td>Net Maui @ Microsoft<br/></td>
-		<td><a target="_blank" href="https://twitter.com/redth">redth</a></td>
-		<td>Ontario Canada</td>
-		<td>703</td>
-	</tr>
-	<tr>
 		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/nikolovlazar">
@@ -2135,7 +2135,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@getsentry </td>
 		<td><a target="_blank" href="https://twitter.com/NikolovLazar">NikolovLazar</a></td>
 		<td>Toronto Canada</td>
-		<td>699</td>
+		<td>705</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2179,6 +2179,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>160</td>
 		<td>
+			<a target="_blank" href="https://github.com/Akasurde">
+				<img src="https://avatars.githubusercontent.com/u/633765?s=72&u=ba5af42e0c623b1527d35537604bfb161eec2cca&v=4" width="24" alt="Avatar of Akasurde"/> Akasurde
+			</a><br/>
+			Abhijeet Kasurde
+		</td>
+		<td>Red Hat Canada </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC Canada</td>
+		<td>689</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
 			<a target="_blank" href="https://github.com/davidbgk">
 				<img src="https://avatars.githubusercontent.com/u/3556?s=72&v=4" width="24" alt="Avatar of davidbgk"/> davidbgk
 			</a><br/>
@@ -2188,19 +2201,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Montral Canada</td>
 		<td>689</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a target="_blank" href="https://github.com/Akasurde">
-				<img src="https://avatars.githubusercontent.com/u/633765?s=72&u=ba5af42e0c623b1527d35537604bfb161eec2cca&v=4" width="24" alt="Avatar of Akasurde"/> Akasurde
-			</a><br/>
-			Abhijeet Kasurde
-		</td>
-		<td>Red Hat Canada </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC Canada</td>
-		<td>688</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -2231,6 +2231,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>164</td>
 		<td>
+			<a target="_blank" href="https://github.com/hairyhenderson">
+				<img src="https://avatars.githubusercontent.com/u/2037086?s=72&u=ae42cd2e5c82a63126ddfb8220ab04ca9e21e79e&v=4" width="24" alt="Avatar of hairyhenderson"/> hairyhenderson
+			</a><br/>
+			Dave Henderson
+		</td>
+		<td>@grafana </td>
+		<td><a target="_blank" href="https://twitter.com/hairyhenderson">hairyhenderson</a></td>
+		<td>Ottawa Canada</td>
+		<td>681</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
 			<a target="_blank" href="https://github.com/pkieltyka">
 				<img src="https://avatars.githubusercontent.com/u/18831?s=72&v=4" width="24" alt="Avatar of pkieltyka"/> pkieltyka
 			</a><br/>
@@ -2242,7 +2255,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>680</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/mimaraslan">
 				<img src="https://avatars.githubusercontent.com/u/3824125?s=72&u=b5e6f903dc76de3e3341e5d83f5c69c51e6f491f&v=4" width="24" alt="Avatar of mimaraslan"/> mimaraslan
@@ -2252,19 +2265,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Oracle Ace At Java<br/><br/>Trkiye<br/>Java<br/>User<br/>Group<br/>Leader<br/></td>
 		<td><a target="_blank" href="https://twitter.com/mimaraslan">mimaraslan</a></td>
 		<td>Toronto Canada </td>
-		<td>679</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a target="_blank" href="https://github.com/hairyhenderson">
-				<img src="https://avatars.githubusercontent.com/u/2037086?s=72&u=ae42cd2e5c82a63126ddfb8220ab04ca9e21e79e&v=4" width="24" alt="Avatar of hairyhenderson"/> hairyhenderson
-			</a><br/>
-			Dave Henderson
-		</td>
-		<td>@grafana </td>
-		<td><a target="_blank" href="https://twitter.com/hairyhenderson">hairyhenderson</a></td>
-		<td>Ottawa Canada</td>
 		<td>679</td>
 	</tr>
 	<tr>
@@ -2395,7 +2395,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>University Of British Columbia<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vancouver BC Canada</td>
-		<td>639</td>
+		<td>641</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2408,7 +2408,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Stevenblackcom </td>
 		<td>No Twitter Username</td>
 		<td>Kingston Ontario Canada</td>
-		<td>633</td>
+		<td>636</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2421,7 +2421,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@sevenshores </td>
 		<td><a target="_blank" href="https://twitter.com/ryanrwinchester">ryanrwinchester</a></td>
 		<td>Atlantic Canada</td>
-		<td>629</td>
+		<td>630</td>
 	</tr>
 	<tr>
 		<td>179</td>
@@ -2447,7 +2447,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
-		<td>622</td>
+		<td>623</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -2512,7 +2512,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>598</td>
+		<td>600</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -2538,7 +2538,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@wintercms </td>
 		<td><a target="_blank" href="https://twitter.com/theluketowers">theluketowers</a></td>
 		<td>Saskatchewan Canada</td>
-		<td>590</td>
+		<td>591</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -2616,7 +2616,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>@askorama </td>
 		<td><a target="_blank" href="https://twitter.com/MicheleRivaCode">MicheleRivaCode</a></td>
 		<td>Vancouver Canada</td>
-		<td>569</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -2686,6 +2686,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>199</td>
 		<td>
+			<a target="_blank" href="https://github.com/julianlam">
+				<img src="https://avatars.githubusercontent.com/u/923011?s=72&u=8ed6b5f991cb100bfa44e5051419b6d4ba6b3be9&v=4" width="24" alt="Avatar of julianlam"/> julianlam
+			</a><br/>
+			Julian Lam
+		</td>
+		<td>Nodebb Inc </td>
+		<td>No Twitter Username</td>
+		<td>Toronto Ontario Canada</td>
+		<td>535</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a target="_blank" href="https://github.com/ggreer">
 				<img src="https://avatars.githubusercontent.com/u/200121?s=72&u=d6d1da21bce2510b2f7474f7d08c2d1f3a26b037&v=4" width="24" alt="Avatar of ggreer"/> ggreer
 			</a><br/>
@@ -2695,19 +2708,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/ggreer">ggreer</a></td>
 		<td>Vancouver WA</td>
 		<td>534</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a target="_blank" href="https://github.com/julianlam">
-				<img src="https://avatars.githubusercontent.com/u/923011?s=72&u=8ed6b5f991cb100bfa44e5051419b6d4ba6b3be9&v=4" width="24" alt="Avatar of julianlam"/> julianlam
-			</a><br/>
-			Julian Lam
-		</td>
-		<td>Nodebb Inc </td>
-		<td>No Twitter Username</td>
-		<td>Toronto Ontario Canada</td>
-		<td>532</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -2751,6 +2751,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>204</td>
 		<td>
+			<a target="_blank" href="https://github.com/thisisnabi">
+				<img src="https://avatars.githubusercontent.com/u/3371886?s=72&u=cb8ebf9fc27e463b5d7002aaeeef881eb950b71f&v=4" width="24" alt="Avatar of thisisnabi"/> thisisnabi
+			</a><br/>
+			Nabi Karampour
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/thisisnabi">thisisnabi</a></td>
+		<td>Canada</td>
+		<td>525</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
 			<a target="_blank" href="https://github.com/abhineet123">
 				<img src="https://avatars.githubusercontent.com/u/8259742?s=72&u=8edea2f3b5b302bdd11efa0e2b3001cb302d140a&v=4" width="24" alt="Avatar of abhineet123"/> abhineet123
 			</a><br/>
@@ -2762,7 +2775,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>525</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a target="_blank" href="https://github.com/hlissner">
 				<img src="https://avatars.githubusercontent.com/u/510883?s=72&u=7eeebf99d9e079bb4ae33cb66b3b044bb2367f60&v=4" width="24" alt="Avatar of hlissner"/> hlissner
@@ -2772,19 +2785,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/hlissner">hlissner</a></td>
 		<td>Toronto ON</td>
-		<td>523</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a target="_blank" href="https://github.com/thisisnabi">
-				<img src="https://avatars.githubusercontent.com/u/3371886?s=72&u=cb8ebf9fc27e463b5d7002aaeeef881eb950b71f&v=4" width="24" alt="Avatar of thisisnabi"/> thisisnabi
-			</a><br/>
-			Nabi Karampour
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/thisisnabi">thisisnabi</a></td>
-		<td>Canada</td>
 		<td>523</td>
 	</tr>
 	<tr>
@@ -2928,7 +2928,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Nvidia </td>
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
-		<td>495</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>218</td>
@@ -3024,6 +3024,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>225</td>
 		<td>
+			<a target="_blank" href="https://github.com/ruyadorno">
+				<img src="https://avatars.githubusercontent.com/u/220900?s=72&u=f0f6d93b66f6c4aa9f1dfd6dd0751c3b19df9d55&v=4" width="24" alt="Avatar of ruyadorno"/> ruyadorno
+			</a><br/>
+			Ruy Adorno
+		</td>
+		<td>Vltsh </td>
+		<td><a target="_blank" href="https://twitter.com/ruyadorno">ruyadorno</a></td>
+		<td>Montreal Canada</td>
+		<td>465</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
 			<a target="_blank" href="https://github.com/KlausMikhaelson">
 				<img src="https://avatars.githubusercontent.com/u/100528412?s=72&u=5a698ee122d2296cb361f5d0434160fdcd26c039&v=4" width="24" alt="Avatar of KlausMikhaelson"/> KlausMikhaelson
 			</a><br/>
@@ -3033,19 +3046,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/KlausCodes">KlausCodes</a></td>
 		<td>Canada</td>
 		<td>463</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a target="_blank" href="https://github.com/ruyadorno">
-				<img src="https://avatars.githubusercontent.com/u/220900?s=72&u=f0f6d93b66f6c4aa9f1dfd6dd0751c3b19df9d55&v=4" width="24" alt="Avatar of ruyadorno"/> ruyadorno
-			</a><br/>
-			Ruy Adorno
-		</td>
-		<td>Vltsh </td>
-		<td><a target="_blank" href="https://twitter.com/ruyadorno">ruyadorno</a></td>
-		<td>Montreal Canada</td>
-		<td>461</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -3058,7 +3058,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Treasury Board Of Canada<br/>Secretariat<br/></td>
 		<td><a target="_blank" href="https://twitter.com/nschonni">nschonni</a></td>
 		<td>Ottawa Ontario Canada</td>
-		<td>461</td>
+		<td>462</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3240,7 +3240,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
-		<td>421</td>
+		<td>422</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3318,7 +3318,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toronto ON</td>
-		<td>401</td>
+		<td>402</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -3396,7 +3396,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Fermyon Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Cedar BC Canada</td>
-		<td>393</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>254</td>
@@ -3414,19 +3414,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>255</td>
 		<td>
-			<a target="_blank" href="https://github.com/ajinabraham">
-				<img src="https://avatars.githubusercontent.com/u/4301109?s=72&u=8bb3773bf66478832d45759783cc2584624e5f5b&v=4" width="24" alt="Avatar of ajinabraham"/> ajinabraham
-			</a><br/>
-			Ajin Abraham
-		</td>
-		<td>@opensecurityin  </td>
-		<td><a target="_blank" href="https://twitter.com/ajinabraham">ajinabraham</a></td>
-		<td>Vancouver Canada</td>
-		<td>386</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
 			<a target="_blank" href="https://github.com/TMRh20">
 				<img src="https://avatars.githubusercontent.com/u/2610460?s=72&v=4" width="24" alt="Avatar of TMRh20"/> TMRh20
 			</a><br/>
@@ -3435,6 +3422,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
+		<td>387</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a target="_blank" href="https://github.com/ajinabraham">
+				<img src="https://avatars.githubusercontent.com/u/4301109?s=72&u=8bb3773bf66478832d45759783cc2584624e5f5b&v=4" width="24" alt="Avatar of ajinabraham"/> ajinabraham
+			</a><br/>
+			Ajin Abraham
+		</td>
+		<td>@opensecurityin  </td>
+		<td><a target="_blank" href="https://twitter.com/ajinabraham">ajinabraham</a></td>
+		<td>Vancouver Canada</td>
 		<td>386</td>
 	</tr>
 	<tr>
@@ -3474,7 +3474,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Perimeter Institute @perimeterinstitute </td>
 		<td><a target="_blank" href="https://twitter.com/dstndstn">dstndstn</a></td>
 		<td>Waterloo Canada</td>
-		<td>380</td>
+		<td>382</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -3487,7 +3487,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>375</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -3500,7 +3500,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Misery  Co </td>
 		<td><a target="_blank" href="https://twitter.com/rileyjshaw">rileyjshaw</a></td>
 		<td>Toronto Canada</td>
-		<td>373</td>
+		<td>377</td>
 	</tr>
 	<tr>
 		<td>262</td>
@@ -3552,7 +3552,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>367</td>
+		<td>368</td>
 	</tr>
 	<tr>
 		<td>266</td>
@@ -3791,6 +3791,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>284</td>
 		<td>
+			<a target="_blank" href="https://github.com/carlalexander">
+				<img src="https://avatars.githubusercontent.com/u/654684?s=72&v=4" width="24" alt="Avatar of carlalexander"/> carlalexander
+			</a><br/>
+			Carl Alexander
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montreal Canada</td>
+		<td>333</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
 			<a target="_blank" href="https://github.com/d4l3k">
 				<img src="https://avatars.githubusercontent.com/u/909104?s=72&u=96076067a3a3d6e2d452375136f62a70eb3a06f9&v=4" width="24" alt="Avatar of d4l3k"/> d4l3k
 			</a><br/>
@@ -3802,7 +3815,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>286</td>
 		<td>
 			<a target="_blank" href="https://github.com/benfred">
 				<img src="https://avatars.githubusercontent.com/u/69536?s=72&u=8e3a4e3d5f7028a5424d4ad61bf1146afc58bfe8&v=4" width="24" alt="Avatar of benfred"/> benfred
@@ -3815,7 +3828,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>330</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a target="_blank" href="https://github.com/jasonkuhrt">
 				<img src="https://avatars.githubusercontent.com/u/284476?s=72&u=ba8631af34e60c326d81db7bd339108f16019f20&v=4" width="24" alt="Avatar of jasonkuhrt"/> jasonkuhrt
@@ -3826,19 +3839,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/JasonKuhrt">JasonKuhrt</a></td>
 		<td>Montreal</td>
 		<td>330</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a target="_blank" href="https://github.com/carlalexander">
-				<img src="https://avatars.githubusercontent.com/u/654684?s=72&v=4" width="24" alt="Avatar of carlalexander"/> carlalexander
-			</a><br/>
-			Carl Alexander
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montreal Canada</td>
-		<td>329</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -3947,6 +3947,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>296</td>
 		<td>
+			<a target="_blank" href="https://github.com/tessalt">
+				<img src="https://avatars.githubusercontent.com/u/1789029?s=72&u=ce3c03859e277611f779cc76d81d88c6139362ea&v=4" width="24" alt="Avatar of tessalt"/> tessalt
+			</a><br/>
+			Tessa Thornton
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
 			<a target="_blank" href="https://github.com/abbycabs">
 				<img src="https://avatars.githubusercontent.com/u/617994?s=72&u=24b65e8fb04a7d1aa58071e28bc7cdc924697ae1&v=4" width="24" alt="Avatar of abbycabs"/> abbycabs
 			</a><br/>
@@ -3958,7 +3971,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a target="_blank" href="https://github.com/kadenzipfel">
 				<img src="https://avatars.githubusercontent.com/u/30579067?s=72&u=98cd76cf943754c292dd752a99b466dc9b67a68a&v=4" width="24" alt="Avatar of kadenzipfel"/> kadenzipfel
@@ -3968,19 +3981,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/0xkaden">0xkaden</a></td>
 		<td>Vancouver British Columbia</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>298</td>
-		<td>
-			<a target="_blank" href="https://github.com/tessalt">
-				<img src="https://avatars.githubusercontent.com/u/1789029?s=72&u=ce3c03859e277611f779cc76d81d88c6139362ea&v=4" width="24" alt="Avatar of tessalt"/> tessalt
-			</a><br/>
-			Tessa Thornton
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
 		<td>319</td>
 	</tr>
 	<tr>
@@ -4072,7 +4072,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montreal</td>
-		<td>307</td>
+		<td>308</td>
 	</tr>
 	<tr>
 		<td>306</td>
@@ -4259,15 +4259,15 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>320</td>
 		<td>
-			<a target="_blank" href="https://github.com/barry-far">
-				<img src="https://avatars.githubusercontent.com/u/143993892?s=72&u=ca3c39c843658828074cf4a9e9dc42394c85a636&v=4" width="24" alt="Avatar of barry-far"/> barry-far
+			<a target="_blank" href="https://github.com/patmorin">
+				<img src="https://avatars.githubusercontent.com/u/104271?s=72&v=4" width="24" alt="Avatar of patmorin"/> patmorin
 			</a><br/>
-			bardiafa
+			Pat Morin
 		</td>
-		<td>@mizegerdtech </td>
-		<td><a target="_blank" href="https://twitter.com/fard1627">fard1627</a></td>
-		<td>Toronto ON</td>
-		<td>274</td>
+		<td>Carleton University </td>
+		<td>No Twitter Username</td>
+		<td>Ottawa Canada</td>
+		<td>276</td>
 	</tr>
 	<tr>
 		<td>321</td>
@@ -4280,10 +4280,23 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montral Canada</td>
-		<td>273</td>
+		<td>274</td>
 	</tr>
 	<tr>
 		<td>322</td>
+		<td>
+			<a target="_blank" href="https://github.com/barry-far">
+				<img src="https://avatars.githubusercontent.com/u/143993892?s=72&u=ca3c39c843658828074cf4a9e9dc42394c85a636&v=4" width="24" alt="Avatar of barry-far"/> barry-far
+			</a><br/>
+			bardiafa
+		</td>
+		<td>@mizegerdtech </td>
+		<td><a target="_blank" href="https://twitter.com/fard1627">fard1627</a></td>
+		<td>Toronto ON</td>
+		<td>274</td>
+	</tr>
+	<tr>
+		<td>323</td>
 		<td>
 			<a target="_blank" href="https://github.com/EiNSTeiN-">
 				<img src="https://avatars.githubusercontent.com/u/2053039?s=72&u=53235d6f29e64ae3a0b3cca2c2b9e95f4e75bde1&v=4" width="24" alt="Avatar of EiNSTeiN-"/> EiNSTeiN-
@@ -4296,7 +4309,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a target="_blank" href="https://github.com/benlangmuir">
 				<img src="https://avatars.githubusercontent.com/u/3412956?s=72&v=4" width="24" alt="Avatar of benlangmuir"/> benlangmuir
@@ -4306,19 +4319,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Waterloo ON Canada</td>
-		<td>272</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a target="_blank" href="https://github.com/patmorin">
-				<img src="https://avatars.githubusercontent.com/u/104271?s=72&v=4" width="24" alt="Avatar of patmorin"/> patmorin
-			</a><br/>
-			Pat Morin
-		</td>
-		<td>Carleton University </td>
-		<td>No Twitter Username</td>
-		<td>Ottawa Canada</td>
 		<td>272</td>
 	</tr>
 	<tr>
@@ -4454,19 +4454,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>335</td>
 		<td>
-			<a target="_blank" href="https://github.com/dgryski">
-				<img src="https://avatars.githubusercontent.com/u/970862?s=72&v=4" width="24" alt="Avatar of dgryski"/> dgryski
-			</a><br/>
-			Damian Gryski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vancouver Canada</td>
-		<td>246</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
 			<a target="_blank" href="https://github.com/emgucv">
 				<img src="https://avatars.githubusercontent.com/u/2035816?s=72&u=17518dab2d70e1d775c308ae4ab1447eec0a96fa&v=4" width="24" alt="Avatar of emgucv"/> emgucv
 			</a><br/>
@@ -4475,6 +4462,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Emgu Corporation </td>
 		<td>No Twitter Username</td>
 		<td>Markham Ontario Canada</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a target="_blank" href="https://github.com/dgryski">
+				<img src="https://avatars.githubusercontent.com/u/970862?s=72&v=4" width="24" alt="Avatar of dgryski"/> dgryski
+			</a><br/>
+			Damian Gryski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vancouver Canada</td>
 		<td>246</td>
 	</tr>
 	<tr>
@@ -5364,19 +5364,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>405</td>
 		<td>
-			<a target="_blank" href="https://github.com/marcopeix">
-				<img src="https://avatars.githubusercontent.com/u/19268689?s=72&u=e7ec91f9a2966f4d4793bc20866e031c9a6a70bf&v=4" width="24" alt="Avatar of marcopeix"/> marcopeix
-			</a><br/>
-			Marco
-		</td>
-		<td>Nixtla </td>
-		<td>No Twitter Username</td>
-		<td>Montreal</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
 			<a target="_blank" href="https://github.com/dalenguyen">
 				<img src="https://avatars.githubusercontent.com/u/14116156?s=72&u=f0d2e8b9da63f2f63fab4f17e65effa945a1b92a&v=4" width="24" alt="Avatar of dalenguyen"/> dalenguyen
 			</a><br/>
@@ -5385,6 +5372,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a target="_blank" href="https://github.com/marcopeix">
+				<img src="https://avatars.githubusercontent.com/u/19268689?s=72&u=e7ec91f9a2966f4d4793bc20866e031c9a6a70bf&v=4" width="24" alt="Avatar of marcopeix"/> marcopeix
+			</a><br/>
+			Marco
+		</td>
+		<td>Nixtla </td>
+		<td>No Twitter Username</td>
+		<td>Montreal</td>
 		<td>162</td>
 	</tr>
 	<tr>
@@ -5663,6 +5663,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>428</td>
 		<td>
+			<a target="_blank" href="https://github.com/corbanbrook">
+				<img src="https://avatars.githubusercontent.com/u/62406?s=72&v=4" width="24" alt="Avatar of corbanbrook"/> corbanbrook
+			</a><br/>
+			Corban Brook
+		</td>
+		<td>Horizon Blockchain Games </td>
+		<td><a target="_blank" href="https://twitter.com/corban">corban</a></td>
+		<td>Toronto Canada</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
 			<a target="_blank" href="https://github.com/edward">
 				<img src="https://avatars.githubusercontent.com/u/325?s=72&u=65a40f9574087a1c956eb7b9c1810ca885a7cc9d&v=4" width="24" alt="Avatar of edward"/> edward
 			</a><br/>
@@ -5672,19 +5685,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/edwardog">edwardog</a></td>
 		<td>Ottawa Ontario Canada</td>
 		<td>145</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
-			<a target="_blank" href="https://github.com/corbanbrook">
-				<img src="https://avatars.githubusercontent.com/u/62406?s=72&v=4" width="24" alt="Avatar of corbanbrook"/> corbanbrook
-			</a><br/>
-			Corban Brook
-		</td>
-		<td>Horizon Blockchain Games </td>
-		<td><a target="_blank" href="https://twitter.com/corban">corban</a></td>
-		<td>Toronto Canada</td>
-		<td>144</td>
 	</tr>
 	<tr>
 		<td>430</td>
@@ -5767,6 +5767,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>436</td>
 		<td>
+			<a target="_blank" href="https://github.com/popekim">
+				<img src="https://avatars.githubusercontent.com/u/6261778?s=72&u=7af828b0a19fb45416c508405f2e3193c766cee6&v=4" width="24" alt="Avatar of popekim"/> popekim
+			</a><br/>
+			Pope Kim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
 			<a target="_blank" href="https://github.com/aleemrehmtulla">
 				<img src="https://avatars.githubusercontent.com/u/60443878?s=72&u=9c0fe834d5b94a1d4938e282e04b054d2cebfcb2&v=4" width="24" alt="Avatar of aleemrehmtulla"/> aleemrehmtulla
 			</a><br/>
@@ -5776,19 +5789,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/aleemrehmtulla">aleemrehmtulla</a></td>
 		<td>toronto</td>
 		<td>139</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a target="_blank" href="https://github.com/popekim">
-				<img src="https://avatars.githubusercontent.com/u/6261778?s=72&u=7af828b0a19fb45416c508405f2e3193c766cee6&v=4" width="24" alt="Avatar of popekim"/> popekim
-			</a><br/>
-			Pope Kim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
-		<td>138</td>
 	</tr>
 	<tr>
 		<td>438</td>
@@ -5858,19 +5858,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>443</td>
 		<td>
-			<a target="_blank" href="https://github.com/jtemporal">
-				<img src="https://avatars.githubusercontent.com/u/6595551?s=72&u=0142b6219be4e7a7e9107c485ef1b38aa4ab63de&v=4" width="24" alt="Avatar of jtemporal"/> jtemporal
-			</a><br/>
-			Jessica Temporal
-		</td>
-		<td>@auth0 </td>
-		<td><a target="_blank" href="https://twitter.com/jesstemporal">jesstemporal</a></td>
-		<td>Toronto</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
 			<a target="_blank" href="https://github.com/syl20bnr">
 				<img src="https://avatars.githubusercontent.com/u/1243537?s=72&u=92b3a9640b6999de2581a34b1525a71ddcb25c6b&v=4" width="24" alt="Avatar of syl20bnr"/> syl20bnr
 			</a><br/>
@@ -5879,6 +5866,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Tracel Ai </td>
 		<td>No Twitter Username</td>
 		<td>Quebec City Canada</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a target="_blank" href="https://github.com/jtemporal">
+				<img src="https://avatars.githubusercontent.com/u/6595551?s=72&u=0142b6219be4e7a7e9107c485ef1b38aa4ab63de&v=4" width="24" alt="Avatar of jtemporal"/> jtemporal
+			</a><br/>
+			Jessica Temporal
+		</td>
+		<td>@auth0 </td>
+		<td><a target="_blank" href="https://twitter.com/jesstemporal">jesstemporal</a></td>
+		<td>Toronto</td>
 		<td>132</td>
 	</tr>
 	<tr>
@@ -6183,6 +6183,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>468</td>
 		<td>
+			<a target="_blank" href="https://github.com/honza">
+				<img src="https://avatars.githubusercontent.com/u/206357?s=72&u=305f804239123dda2adc52a4f9fed5ed7a81fd03&v=4" width="24" alt="Avatar of honza"/> honza
+			</a><br/>
+			Honza Pokorn
+		</td>
+		<td>Red Hat </td>
+		<td><a target="_blank" href="https://twitter.com/_honza">_honza</a></td>
+		<td>Halifax Canada</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
 			<a target="_blank" href="https://github.com/slamj1">
 				<img src="https://avatars.githubusercontent.com/u/912224?s=72&u=a00f5e050edba18ebe7e492eadb70fb7976d0f0c&v=4" width="24" alt="Avatar of slamj1"/> slamj1
 			</a><br/>
@@ -6194,7 +6207,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/friyiajr">
 				<img src="https://avatars.githubusercontent.com/u/48887088?s=72&u=a6a39803da98d6bee0fcc3e6fdc9fca60719b60f&v=4" width="24" alt="Avatar of friyiajr"/> friyiajr
@@ -6205,19 +6218,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/wa2goose">wa2goose</a></td>
 		<td>Toronto Ontario</td>
 		<td>112</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
-			<a target="_blank" href="https://github.com/honza">
-				<img src="https://avatars.githubusercontent.com/u/206357?s=72&u=305f804239123dda2adc52a4f9fed5ed7a81fd03&v=4" width="24" alt="Avatar of honza"/> honza
-			</a><br/>
-			Honza Pokorn
-		</td>
-		<td>Red Hat </td>
-		<td><a target="_blank" href="https://twitter.com/_honza">_honza</a></td>
-		<td>Halifax Canada</td>
-		<td>111</td>
 	</tr>
 	<tr>
 		<td>471</td>
@@ -7028,6 +7028,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>533</td>
 		<td>
+			<a target="_blank" href="https://github.com/xuorig">
+				<img src="https://avatars.githubusercontent.com/u/1919498?s=72&u=62d03283493704b9e8058d8a5e57cf54b0c510f4&v=4" width="24" alt="Avatar of xuorig"/> xuorig
+			</a><br/>
+			MarcAndre Giroux
+		</td>
+		<td>Netflix </td>
+		<td><a target="_blank" href="https://twitter.com/__xuorig__">__xuorig__</a></td>
+		<td>Montreal QC</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
 			<a target="_blank" href="https://github.com/pct960">
 				<img src="https://avatars.githubusercontent.com/u/24371086?s=72&u=ab9357862786cd9068b6a77e09b51a0d6c022a26&v=4" width="24" alt="Avatar of pct960"/> pct960
 			</a><br/>
@@ -7039,7 +7052,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a target="_blank" href="https://github.com/jts">
 				<img src="https://avatars.githubusercontent.com/u/389535?s=72&v=4" width="24" alt="Avatar of jts"/> jts
@@ -7052,7 +7065,7 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/Shazwazza">
 				<img src="https://avatars.githubusercontent.com/u/1742685?s=72&u=76749f7fecd872aacedea1040d85312db1ed04b3&v=4" width="24" alt="Avatar of Shazwazza"/> Shazwazza
@@ -7063,19 +7076,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Medicine Hat Alberta Canada</td>
 		<td>69</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
-			<a target="_blank" href="https://github.com/xuorig">
-				<img src="https://avatars.githubusercontent.com/u/1919498?s=72&u=62d03283493704b9e8058d8a5e57cf54b0c510f4&v=4" width="24" alt="Avatar of xuorig"/> xuorig
-			</a><br/>
-			MarcAndre Giroux
-		</td>
-		<td>Netflix </td>
-		<td><a target="_blank" href="https://twitter.com/__xuorig__">__xuorig__</a></td>
-		<td>Montreal QC</td>
-		<td>68</td>
 	</tr>
 	<tr>
 		<td>537</td>
@@ -10473,19 +10473,6 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 	<tr>
 		<td>798</td>
 		<td>
-			<a target="_blank" href="https://github.com/BrunnaMaiaradaSilva">
-				<img src="https://avatars.githubusercontent.com/u/45864414?s=72&u=31689f0d56c03fda7bf6052e37158c35bccc7cea&v=4" width="24" alt="Avatar of BrunnaMaiaradaSilva"/> BrunnaMaiaradaSilva
-			</a><br/>
-			Brunna Silva
-		</td>
-		<td>Ita Unibanco </td>
-		<td><a target="_blank" href="https://twitter.com/BrunnaNotBruna">BrunnaNotBruna</a></td>
-		<td>Vancouver BC</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>799</td>
-		<td>
 			<a target="_blank" href="https://github.com/Davidharvey589">
 				<img src="https://avatars.githubusercontent.com/u/23534921?s=72&v=4" width="24" alt="Avatar of Davidharvey589"/> Davidharvey589
 			</a><br/>
@@ -10494,6 +10481,19 @@ There are `954 users`  in Canada. You need at least `194 followers` to be on thi
 		<td>Qanonteamforce </td>
 		<td><a target="_blank" href="https://twitter.com/freedom4everQC">freedom4everQC</a></td>
 		<td>canada quebec</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>799</td>
+		<td>
+			<a target="_blank" href="https://github.com/BrunnaMaiaradaSilva">
+				<img src="https://avatars.githubusercontent.com/u/45864414?s=72&u=31689f0d56c03fda7bf6052e37158c35bccc7cea&v=4" width="24" alt="Avatar of BrunnaMaiaradaSilva"/> BrunnaMaiaradaSilva
+			</a><br/>
+			Brunna Silva
+		</td>
+		<td>Ita Unibanco </td>
+		<td><a target="_blank" href="https://twitter.com/BrunnaNotBruna">BrunnaNotBruna</a></td>
+		<td>Vancouver BC</td>
 		<td>4</td>
 	</tr>
 	<tr>
