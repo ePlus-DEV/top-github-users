@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Australia
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia"/>
 </a>
 
-The `number of followers` of users in Australia on `2024/4/11 6:47 AM UTC`. This list contains users from Australia and cities Sydney Melbourne Perth Adelaide Brisbane Canberra Hobart Goldcoast Darwin.
+The `number of followers` of users in Australia on `2024/4/11 12:35 PM UTC`. This list contains users from Australia and cities Sydney Melbourne Perth Adelaide Brisbane Canberra Hobart Goldcoast Darwin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Melbourne Australia</td>
-		<td>11715</td>
+		<td>11718</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Melbourne Australia</td>
-		<td>10531</td>
+		<td>10532</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,7 +146,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sydney Australia</td>
-		<td>10360</td>
+		<td>10364</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -185,7 +185,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/logout">logout</a></td>
 		<td>Sydney Australia</td>
-		<td>6772</td>
+		<td>6774</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -211,7 +211,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Github </td>
 		<td>No Twitter Username</td>
 		<td>Sydney Australia</td>
-		<td>6399</td>
+		<td>6400</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -237,7 +237,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@fastai  </td>
 		<td><a target="_blank" href="https://twitter.com/jeremyphoward">jeremyphoward</a></td>
 		<td>Brisbane Australia</td>
-		<td>5598</td>
+		<td>5599</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -263,7 +263,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Thinkmill </td>
 		<td><a target="_blank" href="https://twitter.com/JedWatson">JedWatson</a></td>
 		<td>Sydney</td>
-		<td>4571</td>
+		<td>4572</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -276,7 +276,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brisbane</td>
-		<td>4125</td>
+		<td>4126</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -289,7 +289,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/DuffieldJesse">DuffieldJesse</a></td>
 		<td>Melbourne</td>
-		<td>3948</td>
+		<td>3950</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -445,7 +445,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/atomiksdev">atomiksdev</a></td>
 		<td>Gold Coast Australia</td>
-		<td>2380</td>
+		<td>2379</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -510,7 +510,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brisbane</td>
-		<td>1927</td>
+		<td>1928</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -523,7 +523,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Atlassian </td>
 		<td><a target="_blank" href="https://twitter.com/orhanobut">orhanobut</a></td>
 		<td>Sydney Australia</td>
-		<td>1877</td>
+		<td>1878</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -536,7 +536,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Atlassian </td>
 		<td><a target="_blank" href="https://twitter.com/dmytrodanylyk">dmytrodanylyk</a></td>
 		<td>Australia Sydney</td>
-		<td>1820</td>
+		<td>1821</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -575,7 +575,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@github  </td>
 		<td><a target="_blank" href="https://twitter.com/MishManners">MishManners</a></td>
 		<td>Melbourne Australia</td>
-		<td>1755</td>
+		<td>1757</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -679,7 +679,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@canva </td>
 		<td>No Twitter Username</td>
 		<td>Sydney Australia</td>
-		<td>1593</td>
+		<td>1594</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -1204,19 +1204,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>85</td>
 		<td>
-			<a target="_blank" href="https://github.com/domesticmouse">
-				<img src="https://avatars.githubusercontent.com/u/30503?s=72&v=4" width="24" alt="Avatar of domesticmouse"/> domesticmouse
-			</a><br/>
-			Brett Morgan
-		</td>
-		<td>@flutter  </td>
-		<td><a target="_blank" href="https://twitter.com/DomesticMouse">DomesticMouse</a></td>
-		<td>Sydney Australia</td>
-		<td>911</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
 			<a target="_blank" href="https://github.com/heidi-dang">
 				<img src="https://avatars.githubusercontent.com/u/35790?s=72&u=3ff915125e690d9829639913fc0b32f4f79b6848&v=4" width="24" alt="Avatar of heidi-dang"/> heidi-dang
 			</a><br/>
@@ -1226,6 +1213,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Australia</td>
 		<td>911</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a target="_blank" href="https://github.com/domesticmouse">
+				<img src="https://avatars.githubusercontent.com/u/30503?s=72&v=4" width="24" alt="Avatar of domesticmouse"/> domesticmouse
+			</a><br/>
+			Brett Morgan
+		</td>
+		<td>@flutter  </td>
+		<td><a target="_blank" href="https://twitter.com/DomesticMouse">DomesticMouse</a></td>
+		<td>Sydney Australia</td>
+		<td>910</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1290,7 +1290,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@ctolabs </td>
 		<td><a target="_blank" href="https://twitter.com/kitsonk">kitsonk</a></td>
 		<td>Melbourne Australia</td>
-		<td>887</td>
+		<td>886</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1316,7 +1316,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sydney</td>
-		<td>882</td>
+		<td>883</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1342,7 +1342,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sydney</td>
-		<td>874</td>
+		<td>873</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1368,7 +1368,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@kablamooss </td>
 		<td><a target="_blank" href="https://twitter.com/iann0036">iann0036</a></td>
 		<td>Sydney NSW</td>
-		<td>841</td>
+		<td>842</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1550,7 +1550,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/SimonCropp">SimonCropp</a></td>
 		<td>Canberra ACT Australia</td>
-		<td>740</td>
+		<td>741</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1732,7 +1732,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sydney NSW Australia</td>
-		<td>670</td>
+		<td>671</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1901,7 +1901,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Australian National University </td>
 		<td>No Twitter Username</td>
 		<td>Canberra Australia</td>
-		<td>601</td>
+		<td>602</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -1953,7 +1953,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@futureweitech </td>
 		<td>No Twitter Username</td>
 		<td>Melbourne Australia</td>
-		<td>598</td>
+		<td>599</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2044,7 +2044,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@googlecloudplatform </td>
 		<td><a target="_blank" href="https://twitter.com/glasnt">glasnt</a></td>
 		<td>Australia UTC11</td>
-		<td>571</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2148,7 +2148,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Queensland Fire And Emergency<br/>Services<br/></td>
 		<td>No Twitter Username</td>
 		<td>Brisbane Queensland</td>
-		<td>547</td>
+		<td>546</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -2270,6 +2270,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>167</td>
 		<td>
+			<a target="_blank" href="https://github.com/futureshocked">
+				<img src="https://avatars.githubusercontent.com/u/25273?s=72&v=4" width="24" alt="Avatar of futureshocked"/> futureshocked
+			</a><br/>
+			Peter Dalmaris
+		</td>
+		<td>Tech Explorations </td>
+		<td>No Twitter Username</td>
+		<td>Sydney</td>
+		<td>530</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
 			<a target="_blank" href="https://github.com/daftspunk">
 				<img src="https://avatars.githubusercontent.com/u/1392869?s=72&u=2c79648a2545e52a1ef45064c6ee5df3c3f539c4&v=4" width="24" alt="Avatar of daftspunk"/> daftspunk
 			</a><br/>
@@ -2281,7 +2294,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>529</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshnewans">
 				<img src="https://avatars.githubusercontent.com/u/13210235?s=72&u=704d5e0107ad5ad87b75826769de6e6c0643bd7e&v=4" width="24" alt="Avatar of joshnewans"/> joshnewans
@@ -2291,19 +2304,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Newcastle Australia</td>
-		<td>529</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a target="_blank" href="https://github.com/futureshocked">
-				<img src="https://avatars.githubusercontent.com/u/25273?s=72&v=4" width="24" alt="Avatar of futureshocked"/> futureshocked
-			</a><br/>
-			Peter Dalmaris
-		</td>
-		<td>Tech Explorations </td>
-		<td>No Twitter Username</td>
-		<td>Sydney</td>
 		<td>529</td>
 	</tr>
 	<tr>
@@ -2725,19 +2725,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>202</td>
 		<td>
-			<a target="_blank" href="https://github.com/Aria-Dolatabadian">
-				<img src="https://avatars.githubusercontent.com/u/74664712?s=72&u=1315fbfd2de480a46ea6e52aab107fbf8136a6f5&v=4" width="24" alt="Avatar of Aria-Dolatabadian"/> Aria-Dolatabadian
-			</a><br/>
-			Aria Dolatabadian
-		</td>
-		<td>The University Of Western<br/>Australia<br/></td>
-		<td><a target="_blank" href="https://twitter.com/A_Dolatabadian">A_Dolatabadian</a></td>
-		<td>Perth Australia</td>
-		<td>465</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
 			<a target="_blank" href="https://github.com/projectgus">
 				<img src="https://avatars.githubusercontent.com/u/205573?s=72&v=4" width="24" alt="Avatar of projectgus"/> projectgus
 			</a><br/>
@@ -2747,6 +2734,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Castlemaine Australia</td>
 		<td>465</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a target="_blank" href="https://github.com/Aria-Dolatabadian">
+				<img src="https://avatars.githubusercontent.com/u/74664712?s=72&u=1315fbfd2de480a46ea6e52aab107fbf8136a6f5&v=4" width="24" alt="Avatar of Aria-Dolatabadian"/> Aria-Dolatabadian
+			</a><br/>
+			Aria Dolatabadian
+		</td>
+		<td>The University Of Western<br/>Australia<br/></td>
+		<td><a target="_blank" href="https://twitter.com/A_Dolatabadian">A_Dolatabadian</a></td>
+		<td>Perth Australia</td>
+		<td>464</td>
 	</tr>
 	<tr>
 		<td>204</td>
@@ -2907,19 +2907,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>216</td>
 		<td>
-			<a target="_blank" href="https://github.com/mitchmindtree">
-				<img src="https://avatars.githubusercontent.com/u/4587373?s=72&v=4" width="24" alt="Avatar of mitchmindtree"/> mitchmindtree
-			</a><br/>
-			No Name
-		</td>
-		<td>@nannouorg  </td>
-		<td>No Twitter Username</td>
-		<td>Melbourne</td>
-		<td>440</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
 			<a target="_blank" href="https://github.com/jc21">
 				<img src="https://avatars.githubusercontent.com/u/1518257?s=72&u=7b4aa64434045013cc970ef9ba636adb4022f7b5&v=4" width="24" alt="Avatar of jc21"/> jc21
 			</a><br/>
@@ -2928,6 +2915,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brisbane</td>
+		<td>441</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a target="_blank" href="https://github.com/mitchmindtree">
+				<img src="https://avatars.githubusercontent.com/u/4587373?s=72&v=4" width="24" alt="Avatar of mitchmindtree"/> mitchmindtree
+			</a><br/>
+			No Name
+		</td>
+		<td>@nannouorg  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne</td>
 		<td>440</td>
 	</tr>
 	<tr>
@@ -3037,19 +3037,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>226</td>
 		<td>
-			<a target="_blank" href="https://github.com/andrekolodochka">
-				<img src="https://avatars.githubusercontent.com/u/59625655?s=72&u=d1e000a849902e0586d559fb2ba594e723d97d7a&v=4" width="24" alt="Avatar of andrekolodochka"/> andrekolodochka
-			</a><br/>
-			Andre Kolodochka
-		</td>
-		<td>Github </td>
-		<td>No Twitter Username</td>
-		<td>Sydney Australia</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
 			<a target="_blank" href="https://github.com/tiagomatosweb">
 				<img src="https://avatars.githubusercontent.com/u/3372967?s=72&u=2638cdf7b82655a76cb02faa4ada25e832bd4e4d&v=4" width="24" alt="Avatar of tiagomatosweb"/> tiagomatosweb
 			</a><br/>
@@ -3058,6 +3045,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sydney  NSW  Australia</td>
+		<td>427</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a target="_blank" href="https://github.com/andrekolodochka">
+				<img src="https://avatars.githubusercontent.com/u/59625655?s=72&u=d1e000a849902e0586d559fb2ba594e723d97d7a&v=4" width="24" alt="Avatar of andrekolodochka"/> andrekolodochka
+			</a><br/>
+			Andre Kolodochka
+		</td>
+		<td>Github </td>
+		<td>No Twitter Username</td>
+		<td>Sydney Australia</td>
 		<td>426</td>
 	</tr>
 	<tr>
@@ -3427,19 +3427,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>256</td>
 		<td>
-			<a target="_blank" href="https://github.com/hamishwillee">
-				<img src="https://avatars.githubusercontent.com/u/5368500?s=72&v=4" width="24" alt="Avatar of hamishwillee"/> hamishwillee
-			</a><br/>
-			Hamish Willee
-		</td>
-		<td>Jenosam Pty Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Melbourne Australia</td>
-		<td>389</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
 			<a target="_blank" href="https://github.com/livinamuk">
 				<img src="https://avatars.githubusercontent.com/u/7821313?s=72&u=de0ad648f5a7a6b12e0013c0812e35087f4b7d3b&v=4" width="24" alt="Avatar of livinamuk"/> livinamuk
 			</a><br/>
@@ -3448,6 +3435,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tasmania Australia</td>
+		<td>390</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a target="_blank" href="https://github.com/hamishwillee">
+				<img src="https://avatars.githubusercontent.com/u/5368500?s=72&v=4" width="24" alt="Avatar of hamishwillee"/> hamishwillee
+			</a><br/>
+			Hamish Willee
+		</td>
+		<td>Jenosam Pty Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne Australia</td>
 		<td>389</td>
 	</tr>
 	<tr>
@@ -3674,19 +3674,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>275</td>
 		<td>
-			<a target="_blank" href="https://github.com/thelindat">
-				<img src="https://avatars.githubusercontent.com/u/65407488?s=72&u=e78ba409a37856d3c1f4db196811f69e6f74c5ff&v=4" width="24" alt="Avatar of thelindat"/> thelindat
-			</a><br/>
-			Linden
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Australia</td>
-		<td>367</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
 			<a target="_blank" href="https://github.com/bencorlett">
 				<img src="https://avatars.githubusercontent.com/u/181919?s=72&u=87793d1238f013cc9704ecff2469d5a90650a5d7&v=4" width="24" alt="Avatar of bencorlett"/> bencorlett
 			</a><br/>
@@ -3696,6 +3683,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Morisset Australia</td>
 		<td>367</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a target="_blank" href="https://github.com/thelindat">
+				<img src="https://avatars.githubusercontent.com/u/65407488?s=72&u=e78ba409a37856d3c1f4db196811f69e6f74c5ff&v=4" width="24" alt="Avatar of thelindat"/> thelindat
+			</a><br/>
+			Linden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Australia</td>
+		<td>366</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -4124,7 +4124,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Github </td>
 		<td><a target="_blank" href="https://twitter.com/slightlycode">slightlycode</a></td>
 		<td>Gold Coast Australia</td>
-		<td>330</td>
+		<td>331</td>
 	</tr>
 	<tr>
 		<td>310</td>
@@ -4403,7 +4403,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>331</td>
 		<td>
 			<a target="_blank" href="https://github.com/ArjunAranetaCodes">
-				<img src="https://avatars.githubusercontent.com/u/16072259?s=72&u=6f338b638c49f54b9d139cbbc31e98e8572756e1&v=4" width="24" alt="Avatar of ArjunAranetaCodes"/> ArjunAranetaCodes
+				<img src="https://avatars.githubusercontent.com/u/16072259?s=72&u=0425f0941a9a28d39591813bff361dbbf5139294&v=4" width="24" alt="Avatar of ArjunAranetaCodes"/> ArjunAranetaCodes
 			</a><br/>
 			Arjun Araneta
 		</td>
@@ -5606,7 +5606,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Httpspowerledgerio </td>
 		<td><a target="_blank" href="https://twitter.com/aaguileravega">aaguileravega</a></td>
 		<td>Perth WA</td>
-		<td>258</td>
+		<td>259</td>
 	</tr>
 	<tr>
 		<td>424</td>
@@ -5780,19 +5780,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>437</td>
 		<td>
-			<a target="_blank" href="https://github.com/atymic">
-				<img src="https://avatars.githubusercontent.com/u/50683531?s=72&u=38451a183643d9281841e467cb6c7d1b8d057920&v=4" width="24" alt="Avatar of atymic"/> atymic
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Australia</td>
-		<td>250</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
 			<a target="_blank" href="https://github.com/mattray">
 				<img src="https://avatars.githubusercontent.com/u/330023?s=72&u=49fac6e1eb13378c970206fc20cd8de3a03b3a9c&v=4" width="24" alt="Avatar of mattray"/> mattray
 			</a><br/>
@@ -5804,7 +5791,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a target="_blank" href="https://github.com/nkbt">
 				<img src="https://avatars.githubusercontent.com/u/175264?s=72&v=4" width="24" alt="Avatar of nkbt"/> nkbt
@@ -5817,7 +5804,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>439</td>
 		<td>
 			<a target="_blank" href="https://github.com/japgolly">
 				<img src="https://avatars.githubusercontent.com/u/202935?s=72&v=4" width="24" alt="Avatar of japgolly"/> japgolly
@@ -5830,7 +5817,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/pento">
 				<img src="https://avatars.githubusercontent.com/u/352291?s=72&v=4" width="24" alt="Avatar of pento"/> pento
@@ -5841,6 +5828,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td><a target="_blank" href="https://twitter.com/GaryPendergast">GaryPendergast</a></td>
 		<td>Melbourne Australia</td>
 		<td>250</td>
+	</tr>
+	<tr>
+		<td>441</td>
+		<td>
+			<a target="_blank" href="https://github.com/atymic">
+				<img src="https://avatars.githubusercontent.com/u/50683531?s=72&u=38451a183643d9281841e467cb6c7d1b8d057920&v=4" width="24" alt="Avatar of atymic"/> atymic
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Australia</td>
+		<td>249</td>
 	</tr>
 	<tr>
 		<td>442</td>
@@ -6040,6 +6040,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>457</td>
 		<td>
+			<a target="_blank" href="https://github.com/alessandrod">
+				<img src="https://avatars.githubusercontent.com/u/62002?s=72&u=37aa36bcc913992cd3b833d2e5b2ac151cffbb59&v=4" width="24" alt="Avatar of alessandrod"/> alessandrod
+			</a><br/>
+			Alessandro Decina
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/alessandrod">alessandrod</a></td>
+		<td>Sydney Australia</td>
+		<td>240</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
 			<a target="_blank" href="https://github.com/Bluebie">
 				<img src="https://avatars.githubusercontent.com/u/12768?s=72&u=6bdd441db6a38e7b68a30e19742198847b076a98&v=4" width="24" alt="Avatar of Bluebie"/> Bluebie
 			</a><br/>
@@ -6051,7 +6064,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a target="_blank" href="https://github.com/MelbourneDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/16697547?s=72&u=594aee9c06f696c22aea23faebf2466fc1ffe208&v=4" width="24" alt="Avatar of MelbourneDeveloper"/> MelbourneDeveloper
@@ -6064,7 +6077,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a target="_blank" href="https://github.com/dd32">
 				<img src="https://avatars.githubusercontent.com/u/767313?s=72&v=4" width="24" alt="Avatar of dd32"/> dd32
@@ -6074,19 +6087,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@wordpress @automattic  </td>
 		<td>No Twitter Username</td>
 		<td>Australia</td>
-		<td>239</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
-			<a target="_blank" href="https://github.com/alessandrod">
-				<img src="https://avatars.githubusercontent.com/u/62002?s=72&u=37aa36bcc913992cd3b833d2e5b2ac151cffbb59&v=4" width="24" alt="Avatar of alessandrod"/> alessandrod
-			</a><br/>
-			Alessandro Decina
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/alessandrod">alessandrod</a></td>
-		<td>Sydney Australia</td>
 		<td>239</td>
 	</tr>
 	<tr>
@@ -6261,6 +6261,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>474</td>
 		<td>
+			<a target="_blank" href="https://github.com/ydkhatri">
+				<img src="https://avatars.githubusercontent.com/u/13247440?s=72&v=4" width="24" alt="Avatar of ydkhatri"/> ydkhatri
+			</a><br/>
+			Yogesh Khatri @swiftforensics
+		</td>
+		<td>Cybercx </td>
+		<td><a target="_blank" href="https://twitter.com/swiftforensics">swiftforensics</a></td>
+		<td>Sydney Australia</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
 			<a target="_blank" href="https://github.com/joscha">
 				<img src="https://avatars.githubusercontent.com/u/188038?s=72&u=c6f6202b68d739a0805a23e41e5dbf3734a67404&v=4" width="24" alt="Avatar of joscha"/> joscha
 			</a><br/>
@@ -6272,7 +6285,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a target="_blank" href="https://github.com/amaarora">
 				<img src="https://avatars.githubusercontent.com/u/41290559?s=72&u=6a4512851c441ff0f9f9f5d52cfc0d53278f7eca&v=4" width="24" alt="Avatar of amaarora"/> amaarora
@@ -6283,19 +6296,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td><a target="_blank" href="https://twitter.com/amaarora">amaarora</a></td>
 		<td>Sydney</td>
 		<td>232</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a target="_blank" href="https://github.com/ydkhatri">
-				<img src="https://avatars.githubusercontent.com/u/13247440?s=72&v=4" width="24" alt="Avatar of ydkhatri"/> ydkhatri
-			</a><br/>
-			Yogesh Khatri @swiftforensics
-		</td>
-		<td>Cybercx </td>
-		<td><a target="_blank" href="https://twitter.com/swiftforensics">swiftforensics</a></td>
-		<td>Sydney Australia</td>
-		<td>231</td>
 	</tr>
 	<tr>
 		<td>477</td>
@@ -7335,7 +7335,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Australia</td>
-		<td>197</td>
+		<td>198</td>
 	</tr>
 	<tr>
 		<td>557</td>
@@ -7574,6 +7574,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>575</td>
 		<td>
+			<a target="_blank" href="https://github.com/fediskhakov">
+				<img src="https://avatars.githubusercontent.com/u/2765768?s=72&u=5e0ed97125fb3569872e77a20647a00f1b3ec11d&v=4" width="24" alt="Avatar of fediskhakov"/> fediskhakov
+			</a><br/>
+			Fedor Iskhakov
+		</td>
+		<td>Research School Of Economics<br/>Anu<br/></td>
+		<td>No Twitter Username</td>
+		<td>Canberra</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
 			<a target="_blank" href="https://github.com/leadedge">
 				<img src="https://avatars.githubusercontent.com/u/7351229?s=72&u=e3570b13b21914d1de2763388033387d87ad3e9a&v=4" width="24" alt="Avatar of leadedge"/> leadedge
 			</a><br/>
@@ -7585,7 +7598,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a target="_blank" href="https://github.com/billhhh">
 				<img src="https://avatars.githubusercontent.com/u/7709725?s=72&u=7afafa25257a2d15bfd2a8af67522bd13dc0f06c&v=4" width="24" alt="Avatar of billhhh"/> billhhh
@@ -7598,7 +7611,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hona">
 				<img src="https://avatars.githubusercontent.com/u/10430890?s=72&u=aaa2e46be8ebc7c4a48957e7d336f9673985335c&v=4" width="24" alt="Avatar of Hona"/> Hona
@@ -7608,19 +7621,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>@sswconsulting </td>
 		<td><a target="_blank" href="https://twitter.com/LukeParkerDev">LukeParkerDev</a></td>
 		<td>Brisbane Australia</td>
-		<td>188</td>
-	</tr>
-	<tr>
-		<td>578</td>
-		<td>
-			<a target="_blank" href="https://github.com/fediskhakov">
-				<img src="https://avatars.githubusercontent.com/u/2765768?s=72&u=5e0ed97125fb3569872e77a20647a00f1b3ec11d&v=4" width="24" alt="Avatar of fediskhakov"/> fediskhakov
-			</a><br/>
-			Fedor Iskhakov
-		</td>
-		<td>Research School Of Economics<br/>Anu<br/></td>
-		<td>No Twitter Username</td>
-		<td>Canberra</td>
 		<td>188</td>
 	</tr>
 	<tr>
@@ -8042,6 +8042,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>611</td>
 		<td>
+			<a target="_blank" href="https://github.com/navidcy">
+				<img src="https://avatars.githubusercontent.com/u/7112768?s=72&u=8d950a5f9601f19c0ecbefd1aaddfc3658a60913&v=4" width="24" alt="Avatar of navidcy"/> navidcy
+			</a><br/>
+			Navid C Constantinou
+		</td>
+		<td>Australian National University </td>
+		<td><a target="_blank" href="https://twitter.com/navid_ocean">navid_ocean</a></td>
+		<td>Australia</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
 			<a target="_blank" href="https://github.com/jarshwah">
 				<img src="https://avatars.githubusercontent.com/u/541083?s=72&v=4" width="24" alt="Avatar of jarshwah"/> jarshwah
 			</a><br/>
@@ -8053,7 +8066,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/nickvsnetworking">
 				<img src="https://avatars.githubusercontent.com/u/26107392?s=72&v=4" width="24" alt="Avatar of nickvsnetworking"/> nickvsnetworking
@@ -8066,7 +8079,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/mihar-22">
 				<img src="https://avatars.githubusercontent.com/u/14304599?s=72&u=7c73e890de9c22d7b1523aeba1717b63cf0aa4be&v=4" width="24" alt="Avatar of mihar-22"/> mihar-22
@@ -8079,7 +8092,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/crafterm">
 				<img src="https://avatars.githubusercontent.com/u/397?s=72&v=4" width="24" alt="Avatar of crafterm"/> crafterm
@@ -8092,7 +8105,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcnamee">
 				<img src="https://avatars.githubusercontent.com/u/1809236?s=72&u=dcfdb4e97e4de6701d7f387e42159fbccf43b76d&v=4" width="24" alt="Avatar of mcnamee"/> mcnamee
@@ -8105,7 +8118,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a target="_blank" href="https://github.com/KelvinJin">
 				<img src="https://avatars.githubusercontent.com/u/2549987?s=72&v=4" width="24" alt="Avatar of KelvinJin"/> KelvinJin
@@ -8118,7 +8131,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a target="_blank" href="https://github.com/jessedc">
 				<img src="https://avatars.githubusercontent.com/u/17407?s=72&v=4" width="24" alt="Avatar of jessedc"/> jessedc
@@ -8129,19 +8142,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Melbourne</td>
 		<td>177</td>
-	</tr>
-	<tr>
-		<td>618</td>
-		<td>
-			<a target="_blank" href="https://github.com/navidcy">
-				<img src="https://avatars.githubusercontent.com/u/7112768?s=72&u=8d950a5f9601f19c0ecbefd1aaddfc3658a60913&v=4" width="24" alt="Avatar of navidcy"/> navidcy
-			</a><br/>
-			Navid C Constantinou
-		</td>
-		<td>Australian National University </td>
-		<td><a target="_blank" href="https://twitter.com/navid_ocean">navid_ocean</a></td>
-		<td>Australia</td>
-		<td>176</td>
 	</tr>
 	<tr>
 		<td>619</td>
@@ -8328,6 +8328,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>633</td>
 		<td>
+			<a target="_blank" href="https://github.com/buymeasoda">
+				<img src="https://avatars.githubusercontent.com/u/44082?s=72&u=17af7762bfef84ad1972340c54f71e3830d31d01&v=4" width="24" alt="Avatar of buymeasoda"/> buymeasoda
+			</a><br/>
+			Ian Hill
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sunshine Coast Australia</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
 			<a target="_blank" href="https://github.com/kvos">
 				<img src="https://avatars.githubusercontent.com/u/7217258?s=72&u=b22ee2caf9b1b64f4df616ea88d0fedd2d00e286&v=4" width="24" alt="Avatar of kvos"/> kvos
 			</a><br/>
@@ -8339,7 +8352,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>635</td>
 		<td>
 			<a target="_blank" href="https://github.com/debajyotikarmaker">
 				<img src="https://avatars.githubusercontent.com/u/15763541?s=72&u=0508a3471528a98d3d624a9686cd799064147226&v=4" width="24" alt="Avatar of debajyotikarmaker"/> debajyotikarmaker
@@ -8352,7 +8365,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>636</td>
 		<td>
 			<a target="_blank" href="https://github.com/DrMeers">
 				<img src="https://avatars.githubusercontent.com/u/48157?s=72&v=4" width="24" alt="Avatar of DrMeers"/> DrMeers
@@ -8362,19 +8375,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Australia</td>
-		<td>172</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
-			<a target="_blank" href="https://github.com/buymeasoda">
-				<img src="https://avatars.githubusercontent.com/u/44082?s=72&u=17af7762bfef84ad1972340c54f71e3830d31d01&v=4" width="24" alt="Avatar of buymeasoda"/> buymeasoda
-			</a><br/>
-			Ian Hill
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sunshine Coast Australia</td>
 		<td>172</td>
 	</tr>
 	<tr>
@@ -8666,14 +8666,14 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>659</td>
 		<td>
-			<a target="_blank" href="https://github.com/arttnba3">
-				<img src="https://avatars.githubusercontent.com/u/28689148?s=72&u=844e2daffcdc3a5ad3ff3eef6f6c3bd473b560e9&v=4" width="24" alt="Avatar of arttnba3"/> arttnba3
+			<a target="_blank" href="https://github.com/JohnClema">
+				<img src="https://avatars.githubusercontent.com/u/1367017?s=72&u=edac56b3f799d88dddaefeccb23a3e82c3fdbb8e&v=4" width="24" alt="Avatar of JohnClema"/> JohnClema
 			</a><br/>
-			arttnba3
+			John Clema
 		</td>
-		<td>@xdsec </td>
-		<td><a target="_blank" href="https://twitter.com/arttnba3">arttnba3</a></td>
-		<td>Melbourne Australia</td>
+		<td>@incrementalsystems  </td>
+		<td>No Twitter Username</td>
+		<td>Perth Western Australia</td>
 		<td>167</td>
 	</tr>
 	<tr>
@@ -8705,6 +8705,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>662</td>
 		<td>
+			<a target="_blank" href="https://github.com/arttnba3">
+				<img src="https://avatars.githubusercontent.com/u/28689148?s=72&u=844e2daffcdc3a5ad3ff3eef6f6c3bd473b560e9&v=4" width="24" alt="Avatar of arttnba3"/> arttnba3
+			</a><br/>
+			arttnba3
+		</td>
+		<td>@xdsec </td>
+		<td><a target="_blank" href="https://twitter.com/arttnba3">arttnba3</a></td>
+		<td>Melbourne Australia</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
 			<a target="_blank" href="https://github.com/brendanmurty">
 				<img src="https://avatars.githubusercontent.com/u/608191?s=72&u=9c71472209db899131a8aa7ae80a527a1f28d273&v=4" width="24" alt="Avatar of brendanmurty"/> brendanmurty
 			</a><br/>
@@ -8716,7 +8729,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a target="_blank" href="https://github.com/yoninazarathy">
 				<img src="https://avatars.githubusercontent.com/u/19950326?s=72&u=2add9d2e3ec0bf281df98a0faad7a1defb57bddd&v=4" width="24" alt="Avatar of yoninazarathy"/> yoninazarathy
@@ -8726,19 +8739,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>Uq Accumulation Point And<br/>Pumas<br/>Ai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Brisbane Australia</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>664</td>
-		<td>
-			<a target="_blank" href="https://github.com/JohnClema">
-				<img src="https://avatars.githubusercontent.com/u/1367017?s=72&u=edac56b3f799d88dddaefeccb23a3e82c3fdbb8e&v=4" width="24" alt="Avatar of JohnClema"/> JohnClema
-			</a><br/>
-			John Clema
-		</td>
-		<td>@incrementalsystems  </td>
-		<td>No Twitter Username</td>
-		<td>Perth Western Australia</td>
 		<td>166</td>
 	</tr>
 	<tr>
@@ -8965,19 +8965,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>682</td>
 		<td>
-			<a target="_blank" href="https://github.com/klepas">
-				<img src="https://avatars.githubusercontent.com/u/52766?s=72&u=6f164d18c949d431e76048ca3045ffe5d7e94541&v=4" width="24" alt="Avatar of klepas"/> klepas
-			</a><br/>
-			Simon Pascal Klein
-		</td>
-		<td>@bugcrowd </td>
-		<td>No Twitter Username</td>
-		<td>Australia</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>683</td>
-		<td>
 			<a target="_blank" href="https://github.com/treffynnon">
 				<img src="https://avatars.githubusercontent.com/u/65215?s=72&u=9c86bbad59c74840a36f52b422ff9b98f43adcc6&v=4" width="24" alt="Avatar of treffynnon"/> treffynnon
 			</a><br/>
@@ -8986,6 +8973,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/Treffynnon">Treffynnon</a></td>
 		<td>Brisbane Australia</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>683</td>
+		<td>
+			<a target="_blank" href="https://github.com/klepas">
+				<img src="https://avatars.githubusercontent.com/u/52766?s=72&u=6f164d18c949d431e76048ca3045ffe5d7e94541&v=4" width="24" alt="Avatar of klepas"/> klepas
+			</a><br/>
+			Simon Pascal Klein
+		</td>
+		<td>@bugcrowd </td>
+		<td>No Twitter Username</td>
+		<td>Australia</td>
 		<td>163</td>
 	</tr>
 	<tr>
@@ -9758,6 +9758,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>743</td>
 		<td>
+			<a target="_blank" href="https://github.com/samcm">
+				<img src="https://avatars.githubusercontent.com/u/8144395?s=72&u=d78482c1c0273ef20816b3136e738cdd8680f362&v=4" width="24" alt="Avatar of samcm"/> samcm
+			</a><br/>
+			Sam CalderMason
+		</td>
+		<td>@ethereum </td>
+		<td><a target="_blank" href="https://twitter.com/samcmau">samcmau</a></td>
+		<td>Australia</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
 			<a target="_blank" href="https://github.com/auscompgeek">
 				<img src="https://avatars.githubusercontent.com/u/128854?s=72&v=4" width="24" alt="Avatar of auscompgeek"/> auscompgeek
 			</a><br/>
@@ -9769,7 +9782,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a target="_blank" href="https://github.com/geeknam">
 				<img src="https://avatars.githubusercontent.com/u/199628?s=72&u=77f3bb1e7bdf4ab23a1549f348e254d490b4f949&v=4" width="24" alt="Avatar of geeknam"/> geeknam
@@ -9782,7 +9795,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a target="_blank" href="https://github.com/up209d">
 				<img src="https://avatars.githubusercontent.com/u/3246881?s=72&u=a6dc7694e8a59156d89c8bc41af67ef48988b8b5&v=4" width="24" alt="Avatar of up209d"/> up209d
@@ -9795,7 +9808,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a target="_blank" href="https://github.com/eigenbom">
 				<img src="https://avatars.githubusercontent.com/u/1103761?s=72&u=c4eafcebd26bad06d3e095b5b868f326c840c26a&v=4" width="24" alt="Avatar of eigenbom"/> eigenbom
@@ -9808,7 +9821,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a target="_blank" href="https://github.com/honglytech">
 				<img src="https://avatars.githubusercontent.com/u/22977709?s=72&u=ef0711ed1f7d04174991205fd1092834db904e9d&v=4" width="24" alt="Avatar of honglytech"/> honglytech
@@ -9819,19 +9832,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Melbourne Victoria Australia</td>
 		<td>150</td>
-	</tr>
-	<tr>
-		<td>748</td>
-		<td>
-			<a target="_blank" href="https://github.com/samcm">
-				<img src="https://avatars.githubusercontent.com/u/8144395?s=72&u=d78482c1c0273ef20816b3136e738cdd8680f362&v=4" width="24" alt="Avatar of samcm"/> samcm
-			</a><br/>
-			Sam CalderMason
-		</td>
-		<td>@ethereum </td>
-		<td><a target="_blank" href="https://twitter.com/samcmau">samcmau</a></td>
-		<td>Australia</td>
-		<td>149</td>
 	</tr>
 	<tr>
 		<td>749</td>
@@ -10096,6 +10096,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>769</td>
 		<td>
+			<a target="_blank" href="https://github.com/MegaManSec">
+				<img src="https://avatars.githubusercontent.com/u/2505339?s=72&u=0d04586a2f4b91554e4b21123b133a8319db7d10&v=4" width="24" alt="Avatar of MegaManSec"/> MegaManSec
+			</a><br/>
+			Joshua Rogers
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>5 in Australia 95 somewhere in Eastern Europe</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>770</td>
+		<td>
 			<a target="_blank" href="https://github.com/wangdicoder">
 				<img src="https://avatars.githubusercontent.com/u/7374042?s=72&u=30e28a3fa45967a9fb84ab2430df7ac752cc6d48&v=4" width="24" alt="Avatar of wangdicoder"/> wangdicoder
 			</a><br/>
@@ -10107,7 +10120,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a target="_blank" href="https://github.com/d11wtq">
 				<img src="https://avatars.githubusercontent.com/u/37948?s=72&v=4" width="24" alt="Avatar of d11wtq"/> d11wtq
@@ -10120,7 +10133,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a target="_blank" href="https://github.com/ninjaprawn">
 				<img src="https://avatars.githubusercontent.com/u/4337909?s=72&u=71c3c779a922498aed95237319e5fdd209d6cffb&v=4" width="24" alt="Avatar of ninjaprawn"/> ninjaprawn
@@ -10133,7 +10146,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a target="_blank" href="https://github.com/stackotter">
 				<img src="https://avatars.githubusercontent.com/u/26103979?s=72&u=90f660b345ec22bf5319313488f93ea5dd89cb21&v=4" width="24" alt="Avatar of stackotter"/> stackotter
@@ -10143,19 +10156,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/stackotter">stackotter</a></td>
 		<td>Australia</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>773</td>
-		<td>
-			<a target="_blank" href="https://github.com/MegaManSec">
-				<img src="https://avatars.githubusercontent.com/u/2505339?s=72&u=0d04586a2f4b91554e4b21123b133a8319db7d10&v=4" width="24" alt="Avatar of MegaManSec"/> MegaManSec
-			</a><br/>
-			Joshua Rogers
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>5 in Australia 95 somewhere in Eastern Europe</td>
 		<td>144</td>
 	</tr>
 	<tr>
@@ -10902,6 +10902,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>831</td>
 		<td>
+			<a target="_blank" href="https://github.com/adevnadia">
+				<img src="https://avatars.githubusercontent.com/u/6586830?s=72&u=6c03f4a6cf5acad5e6a564297219356ebfb8c52d&v=4" width="24" alt="Avatar of adevnadia"/> adevnadia
+			</a><br/>
+			Nadia Makarevich
+		</td>
+		<td>@atlassian  </td>
+		<td><a target="_blank" href="https://twitter.com/adevnadia">adevnadia</a></td>
+		<td>Sydney</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>832</td>
+		<td>
 			<a target="_blank" href="https://github.com/sushil79g">
 				<img src="https://avatars.githubusercontent.com/u/17825243?s=72&u=2be996f170d5c071c930206eefe5622bec816b21&v=4" width="24" alt="Avatar of sushil79g"/> sushil79g
 			</a><br/>
@@ -10913,7 +10926,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/julia-">
 				<img src="https://avatars.githubusercontent.com/u/6425489?s=72&u=0d7f25c10022f4dd265abc3d835bc5c439dd8747&v=4" width="24" alt="Avatar of julia-"/> julia-
@@ -10926,7 +10939,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>834</td>
 		<td>
 			<a target="_blank" href="https://github.com/mzhaoshuai">
 				<img src="https://avatars.githubusercontent.com/u/22476764?s=72&u=45de2eca601916e09e519e439c05d6556ddcc1da&v=4" width="24" alt="Avatar of mzhaoshuai"/> mzhaoshuai
@@ -10939,7 +10952,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>835</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdneuzerling">
 				<img src="https://avatars.githubusercontent.com/u/14957706?s=72&u=467e290136319075848bf32098cf18d06b93498e&v=4" width="24" alt="Avatar of mdneuzerling"/> mdneuzerling
@@ -10952,7 +10965,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>836</td>
 		<td>
 			<a target="_blank" href="https://github.com/cjheath">
 				<img src="https://avatars.githubusercontent.com/u/1703?s=72&u=04b7a340657fdb3eb2ed94dd12e463562d76ddfd&v=4" width="24" alt="Avatar of cjheath"/> cjheath
@@ -10965,7 +10978,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>837</td>
 		<td>
 			<a target="_blank" href="https://github.com/ZeroLP">
 				<img src="https://avatars.githubusercontent.com/u/24566018?s=72&u=6652bb8afa3ffe4fcf5f6aad11345f78b95da7c6&v=4" width="24" alt="Avatar of ZeroLP"/> ZeroLP
@@ -10978,7 +10991,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>838</td>
 		<td>
 			<a target="_blank" href="https://github.com/semorrison">
 				<img src="https://avatars.githubusercontent.com/u/477956?s=72&u=b0eae48895c773e3f90d1583d0d1cc9d52787b11&v=4" width="24" alt="Avatar of semorrison"/> semorrison
@@ -10991,7 +11004,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>839</td>
 		<td>
 			<a target="_blank" href="https://github.com/mashaal">
 				<img src="https://avatars.githubusercontent.com/u/6100364?s=72&u=9e16535281bfa8e5a6f750445f5ad7d391305b26&v=4" width="24" alt="Avatar of mashaal"/> mashaal
@@ -11004,7 +11017,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>840</td>
 		<td>
 			<a target="_blank" href="https://github.com/TheCSharpAcademy">
 				<img src="https://avatars.githubusercontent.com/u/108711476?s=72&u=2ca4792252d4b9fcba71093a5933b5013c3eb320&v=4" width="24" alt="Avatar of TheCSharpAcademy"/> TheCSharpAcademy
@@ -11014,19 +11027,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>The C Academy </td>
 		<td>No Twitter Username</td>
 		<td>Queensland Australia</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>840</td>
-		<td>
-			<a target="_blank" href="https://github.com/adevnadia">
-				<img src="https://avatars.githubusercontent.com/u/6586830?s=72&u=6c03f4a6cf5acad5e6a564297219356ebfb8c52d&v=4" width="24" alt="Avatar of adevnadia"/> adevnadia
-			</a><br/>
-			Nadia Makarevich
-		</td>
-		<td>@atlassian  </td>
-		<td><a target="_blank" href="https://twitter.com/adevnadia">adevnadia</a></td>
-		<td>Sydney</td>
 		<td>134</td>
 	</tr>
 	<tr>
@@ -12449,6 +12449,19 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 	<tr>
 		<td>950</td>
 		<td>
+			<a target="_blank" href="https://github.com/nickfarrow">
+				<img src="https://avatars.githubusercontent.com/u/24557779?s=72&u=36eea17d5d12ed82d62690ea1bd254a5c8d3717e&v=4" width="24" alt="Avatar of nickfarrow"/> nickfarrow
+			</a><br/>
+			Nick
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Australia</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>951</td>
+		<td>
 			<a target="_blank" href="https://github.com/tyconsulting">
 				<img src="https://avatars.githubusercontent.com/u/11845994?s=72&u=eee11d60806a0926b9592321f01b89e2a7044a9b&v=4" width="24" alt="Avatar of tyconsulting"/> tyconsulting
 			</a><br/>
@@ -12460,7 +12473,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>952</td>
 		<td>
 			<a target="_blank" href="https://github.com/NicoleSiapno">
 				<img src="https://avatars.githubusercontent.com/u/17018000?s=72&u=93d030d77635ce0f2a45bc2f9c699fd8370f6f11&v=4" width="24" alt="Avatar of NicoleSiapno"/> NicoleSiapno
@@ -12473,7 +12486,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>953</td>
 		<td>
 			<a target="_blank" href="https://github.com/gonzalo-bulnes">
 				<img src="https://avatars.githubusercontent.com/u/1619067?s=72&v=4" width="24" alt="Avatar of gonzalo-bulnes"/> gonzalo-bulnes
@@ -12486,7 +12499,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>954</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgiuca">
 				<img src="https://avatars.githubusercontent.com/u/228433?s=72&v=4" width="24" alt="Avatar of mgiuca"/> mgiuca
@@ -12499,7 +12512,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>955</td>
 		<td>
 			<a target="_blank" href="https://github.com/gsherwood">
 				<img src="https://avatars.githubusercontent.com/u/185976?s=72&v=4" width="24" alt="Avatar of gsherwood"/> gsherwood
@@ -12512,7 +12525,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>956</td>
 		<td>
 			<a target="_blank" href="https://github.com/akmand">
 				<img src="https://avatars.githubusercontent.com/u/13884949?s=72&v=4" width="24" alt="Avatar of akmand"/> akmand
@@ -12525,7 +12538,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>957</td>
 		<td>
 			<a target="_blank" href="https://github.com/dylanegan">
 				<img src="https://avatars.githubusercontent.com/u/94?s=72&v=4" width="24" alt="Avatar of dylanegan"/> dylanegan
@@ -12538,7 +12551,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>958</td>
 		<td>
 			<a target="_blank" href="https://github.com/guyecode">
 				<img src="https://avatars.githubusercontent.com/u/359870?s=72&v=4" width="24" alt="Avatar of guyecode"/> guyecode
@@ -12551,7 +12564,7 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>959</td>
 		<td>
 			<a target="_blank" href="https://github.com/Quoll-io">
 				<img src="https://avatars.githubusercontent.com/u/7194233?s=72&u=4d2b72c5ba729e72cb930823799c985580097dae&v=4" width="24" alt="Avatar of Quoll-io"/> Quoll-io
@@ -12562,19 +12575,6 @@ There are `960 users`  in Australia. You need at least `119 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Australia</td>
 		<td>120</td>
-	</tr>
-	<tr>
-		<td>959</td>
-		<td>
-			<a target="_blank" href="https://github.com/buntine">
-				<img src="https://avatars.githubusercontent.com/u/14033?s=72&u=5a32111bc0643b33c733a5d34a30532bfeee1a7a&v=4" width="24" alt="Avatar of buntine"/> buntine
-			</a><br/>
-			Andrew Buntine
-		</td>
-		<td>Staff Engineer @cultureamp </td>
-		<td>No Twitter Username</td>
-		<td>Melbourne Australia</td>
-		<td>119</td>
 	</tr>
 	<tr>
 		<td>960</td>
