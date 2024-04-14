@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Ukraine
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine"/>
 </a>
 
-The `number of followers` of users in Ukraine on `2024/4/13 9:13 PM UTC`. This list contains users from Ukraine and cities Kyiv Lviv Kharkiv Odesa.
+The `number of followers` of users in Ukraine on `2024/4/14 2:12 AM UTC`. This list contains users from Ukraine and cities Kyiv Lviv Kharkiv Odesa.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -744,7 +744,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>Refactoringguru </td>
 		<td>No Twitter Username</td>
 		<td>Kyiv Ukraine</td>
-		<td>508</td>
+		<td>509</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -2582,6 +2582,19 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 	<tr>
 		<td>191</td>
 		<td>
+			<a target="_blank" href="https://github.com/pavlenkoviktor">
+				<img src="https://avatars.githubusercontent.com/u/161328754?s=72&u=e9888fc57b0b0957ab0b86779d9fff05970dd77c&v=4" width="24" alt="Avatar of pavlenkoviktor"/> pavlenkoviktor
+			</a><br/>
+			Viktor Pavlenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Krasyliv Ukraine</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
 			<a target="_blank" href="https://github.com/vandroiy2013">
 				<img src="https://avatars.githubusercontent.com/u/8144780?s=72&u=dfc4a5d807c87c2eb9bdb08abdf2981c63821a18&v=4" width="24" alt="Avatar of vandroiy2013"/> vandroiy2013
 			</a><br/>
@@ -2591,19 +2604,6 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ukraine Dnipro</td>
 		<td>175</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a target="_blank" href="https://github.com/pavlenkoviktor">
-				<img src="https://avatars.githubusercontent.com/u/161328754?s=72&u=e9888fc57b0b0957ab0b86779d9fff05970dd77c&v=4" width="24" alt="Avatar of pavlenkoviktor"/> pavlenkoviktor
-			</a><br/>
-			Viktor Pavlenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Krasyliv Ukraine</td>
-		<td>174</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2829,6 +2829,19 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 	<tr>
 		<td>210</td>
 		<td>
+			<a target="_blank" href="https://github.com/efiop">
+				<img src="https://avatars.githubusercontent.com/u/5367102?s=72&u=5b658b7ef8283a52698187b22061f140e050e666&v=4" width="24" alt="Avatar of efiop"/> efiop
+			</a><br/>
+			Ruslan Kuprieiev
+		</td>
+		<td>@falai </td>
+		<td><a target="_blank" href="https://twitter.com/rkuprieiev">rkuprieiev</a></td>
+		<td>Ukraine</td>
+		<td>160</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a target="_blank" href="https://github.com/uadata">
 				<img src="https://avatars.githubusercontent.com/u/101830157?s=72&u=64727991990b7a44748399ca7f270bfafc43cca8&v=4" width="24" alt="Avatar of uadata"/> uadata
 			</a><br/>
@@ -2840,7 +2853,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a target="_blank" href="https://github.com/avislab">
 				<img src="https://avatars.githubusercontent.com/u/16078733?s=72&v=4" width="24" alt="Avatar of avislab"/> avislab
@@ -2851,19 +2864,6 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
 		<td>160</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a target="_blank" href="https://github.com/efiop">
-				<img src="https://avatars.githubusercontent.com/u/5367102?s=72&u=5b658b7ef8283a52698187b22061f140e050e666&v=4" width="24" alt="Avatar of efiop"/> efiop
-			</a><br/>
-			Ruslan Kuprieiev
-		</td>
-		<td>@falai </td>
-		<td><a target="_blank" href="https://twitter.com/rkuprieiev">rkuprieiev</a></td>
-		<td>Ukraine</td>
-		<td>159</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -5325,6 +5325,19 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 	<tr>
 		<td>402</td>
 		<td>
+			<a target="_blank" href="https://github.com/GavdzinskyiVeacheslav">
+				<img src="https://avatars.githubusercontent.com/u/62297406?s=72&u=a019ca6d74927afd1fde402421dae31dce71e08b&v=4" width="24" alt="Avatar of GavdzinskyiVeacheslav"/> GavdzinskyiVeacheslav
+			</a><br/>
+			Gavdzynskyi Viacheslav
+		</td>
+		<td>Looking For A Job<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ukraine Odessa</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a target="_blank" href="https://github.com/msoap">
 				<img src="https://avatars.githubusercontent.com/u/844117?s=72&u=9473905de254d792803f344487a8e6b445907d64&v=4" width="24" alt="Avatar of msoap"/> msoap
 			</a><br/>
@@ -5336,7 +5349,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ilya114">
 				<img src="https://avatars.githubusercontent.com/u/93242944?s=72&u=826983d77cae0581995522d8f6573306c9cc3641&v=4" width="24" alt="Avatar of Ilya114"/> Ilya114
@@ -5349,7 +5362,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a target="_blank" href="https://github.com/cyberspacedk">
 				<img src="https://avatars.githubusercontent.com/u/44088176?s=72&u=19b80861cc46c50ae8cd4b82383014b7cb784b0d&v=4" width="24" alt="Avatar of cyberspacedk"/> cyberspacedk
@@ -5359,19 +5372,6 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>Dataart </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a target="_blank" href="https://github.com/GavdzinskyiVeacheslav">
-				<img src="https://avatars.githubusercontent.com/u/62297406?s=72&u=a019ca6d74927afd1fde402421dae31dce71e08b&v=4" width="24" alt="Avatar of GavdzinskyiVeacheslav"/> GavdzinskyiVeacheslav
-			</a><br/>
-			Gavdzynskyi Viacheslav
-		</td>
-		<td>Looking For A Job<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ukraine Odessa</td>
 		<td>90</td>
 	</tr>
 	<tr>
@@ -5897,19 +5897,6 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 	<tr>
 		<td>446</td>
 		<td>
-			<a target="_blank" href="https://github.com/cbmd">
-				<img src="https://avatars.githubusercontent.com/u/196139?s=72&u=1fd8ee4fe65f433fe111377c60772d338e13611c&v=4" width="24" alt="Avatar of cbmd"/> cbmd
-			</a><br/>
-			Vadym Okun
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>DP Ukraine</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
 			<a target="_blank" href="https://github.com/1NeCoder">
 				<img src="https://avatars.githubusercontent.com/u/132444083?s=72&u=5b52eb15a6299d52558b11b08bd73107bd22e7e3&v=4" width="24" alt="Avatar of 1NeCoder"/> 1NeCoder
 			</a><br/>
@@ -5921,7 +5908,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>447</td>
 		<td>
 			<a target="_blank" href="https://github.com/Fivell">
 				<img src="https://avatars.githubusercontent.com/u/120269?s=72&u=1c658a9d924f2bd47df4c666169398ead37722e5&v=4" width="24" alt="Avatar of Fivell"/> Fivell
@@ -5934,7 +5921,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>448</td>
 		<td>
 			<a target="_blank" href="https://github.com/serhiisavchuk9">
 				<img src="https://avatars.githubusercontent.com/u/140882509?s=72&v=4" width="24" alt="Avatar of serhiisavchuk9"/> serhiisavchuk9
@@ -5947,7 +5934,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>449</td>
 		<td>
 			<a target="_blank" href="https://github.com/sapran">
 				<img src="https://avatars.githubusercontent.com/u/633520?s=72&u=fbc02278c8498e7b6f99154ecb12ef5e7eac2aa7&v=4" width="24" alt="Avatar of sapran"/> sapran
@@ -5960,7 +5947,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>450</td>
 		<td>
 			<a target="_blank" href="https://github.com/mishadoff">
 				<img src="https://avatars.githubusercontent.com/u/814799?s=72&u=e3ae0168dd7971c36eeb3e355a552dce18d8ff5b&v=4" width="24" alt="Avatar of mishadoff"/> mishadoff
@@ -5973,7 +5960,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>451</td>
 		<td>
 			<a target="_blank" href="https://github.com/qwerty541">
 				<img src="https://avatars.githubusercontent.com/u/53787217?s=72&u=854e9a18ce03643f3d7566b9e7f8811958721737&v=4" width="24" alt="Avatar of qwerty541"/> qwerty541
@@ -5986,7 +5973,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>452</td>
 		<td>
 			<a target="_blank" href="https://github.com/dkaraush">
 				<img src="https://avatars.githubusercontent.com/u/10834227?s=72&u=375111a7594437b8f7ab9aafd0c43602686d16fd&v=4" width="24" alt="Avatar of dkaraush"/> dkaraush
@@ -5999,7 +5986,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>453</td>
 		<td>
 			<a target="_blank" href="https://github.com/belochub">
 				<img src="https://avatars.githubusercontent.com/u/3501391?s=72&u=2a1fccd0b99541bfc38165f1ff13c348f697f9a5&v=4" width="24" alt="Avatar of belochub"/> belochub
@@ -6012,7 +5999,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>454</td>
 		<td>
 			<a target="_blank" href="https://github.com/dimariabovol">
 				<img src="https://avatars.githubusercontent.com/u/59827548?s=72&u=04d8efa15a0ad6615e288aa3d27ea77b4d4f4acd&v=4" width="24" alt="Avatar of dimariabovol"/> dimariabovol
@@ -6022,6 +6009,19 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>@studytube </td>
 		<td>No Twitter Username</td>
 		<td>Kyiv</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a target="_blank" href="https://github.com/cbmd">
+				<img src="https://avatars.githubusercontent.com/u/196139?s=72&u=1fd8ee4fe65f433fe111377c60772d338e13611c&v=4" width="24" alt="Avatar of cbmd"/> cbmd
+			</a><br/>
+			Vadym Okun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>DP Ukraine</td>
 		<td>81</td>
 	</tr>
 	<tr>
@@ -6144,6 +6144,19 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 	<tr>
 		<td>465</td>
 		<td>
+			<a target="_blank" href="https://github.com/olegkutkov">
+				<img src="https://avatars.githubusercontent.com/u/699871?s=72&u=40aa57d8a196b607e491283d5fea59a9ddd491e0&v=4" width="24" alt="Avatar of olegkutkov"/> olegkutkov
+			</a><br/>
+			Oleg Kutkov
+		</td>
+		<td>Ubiquiti Networks </td>
+		<td>No Twitter Username</td>
+		<td>Kyiv</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
 			<a target="_blank" href="https://github.com/mik9">
 				<img src="https://avatars.githubusercontent.com/u/244760?s=72&v=4" width="24" alt="Avatar of mik9"/> mik9
 			</a><br/>
@@ -6155,7 +6168,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/he11erstern">
 				<img src="https://avatars.githubusercontent.com/u/66907987?s=72&u=207ab7a9d5b83fc2e7fa27f24a476ad6091a404b&v=4" width="24" alt="Avatar of he11erstern"/> he11erstern
@@ -6168,7 +6181,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/mac2000">
 				<img src="https://avatars.githubusercontent.com/u/88868?s=72&u=99e157350b26180471564ef513d5f6881712fdd4&v=4" width="24" alt="Avatar of mac2000"/> mac2000
@@ -6181,7 +6194,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/GarrisonD">
 				<img src="https://avatars.githubusercontent.com/u/13675895?s=72&u=fd697659c1bd2fcda1d6d1426ba94bfd5bd1e0e3&v=4" width="24" alt="Avatar of GarrisonD"/> GarrisonD
@@ -6194,7 +6207,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/kovart">
 				<img src="https://avatars.githubusercontent.com/u/3381640?s=72&u=fd468fbb08ffeaf236abe9ada1d9135025da4326&v=4" width="24" alt="Avatar of kovart"/> kovart
@@ -6207,7 +6220,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a target="_blank" href="https://github.com/Arvolear">
 				<img src="https://avatars.githubusercontent.com/u/47551140?s=72&u=00a442601fefce0621c6fb0f82541251262b69e8&v=4" width="24" alt="Avatar of Arvolear"/> Arvolear
@@ -6220,7 +6233,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a target="_blank" href="https://github.com/vmagamedov">
 				<img src="https://avatars.githubusercontent.com/u/179213?s=72&u=c787ccfdc2043adcd280814cb0e02a9e2b07da6b&v=4" width="24" alt="Avatar of vmagamedov"/> vmagamedov
@@ -6233,7 +6246,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlexMost">
 				<img src="https://avatars.githubusercontent.com/u/1831767?s=72&v=4" width="24" alt="Avatar of AlexMost"/> AlexMost
@@ -6243,19 +6256,6 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>Evo </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>473</td>
-		<td>
-			<a target="_blank" href="https://github.com/olegkutkov">
-				<img src="https://avatars.githubusercontent.com/u/699871?s=72&u=40aa57d8a196b607e491283d5fea59a9ddd491e0&v=4" width="24" alt="Avatar of olegkutkov"/> olegkutkov
-			</a><br/>
-			Oleg Kutkov
-		</td>
-		<td>Ubiquiti Networks </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv</td>
 		<td>78</td>
 	</tr>
 	<tr>
@@ -12280,19 +12280,6 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 	<tr>
 		<td>937</td>
 		<td>
-			<a target="_blank" href="https://github.com/ur4ltz">
-				<img src="https://avatars.githubusercontent.com/u/920202?s=72&u=d647a2b9acd955886c18ae03541b113a976acaf3&v=4" width="24" alt="Avatar of ur4ltz"/> ur4ltz
-			</a><br/>
-			Andy Shevchenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kharkiv  Ukraine Glory to Ukraine</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>938</td>
-		<td>
 			<a target="_blank" href="https://github.com/onix">
 				<img src="https://avatars.githubusercontent.com/u/645583?s=72&u=65e98d7b45ff99eb4680f26e2de17102ccb9a1a4&v=4" width="24" alt="Avatar of onix"/> onix
 			</a><br/>
@@ -12304,7 +12291,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>938</td>
 		<td>
 			<a target="_blank" href="https://github.com/Verokster">
 				<img src="https://avatars.githubusercontent.com/u/22202894?s=72&u=9036bde770ec71db17ac665a24c2e4a4071da09b&v=4" width="24" alt="Avatar of Verokster"/> Verokster
@@ -12317,7 +12304,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>939</td>
 		<td>
 			<a target="_blank" href="https://github.com/batishta">
 				<img src="https://avatars.githubusercontent.com/u/99121095?s=72&v=4" width="24" alt="Avatar of batishta"/> batishta
@@ -12330,7 +12317,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>940</td>
 		<td>
 			<a target="_blank" href="https://github.com/GYFK">
 				<img src="https://avatars.githubusercontent.com/u/12175974?s=72&u=1a9802f5b034373e06a02659612c7506fd97e538&v=4" width="24" alt="Avatar of GYFK"/> GYFK
@@ -12343,7 +12330,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>941</td>
 		<td>
 			<a target="_blank" href="https://github.com/lgmkr">
 				<img src="https://avatars.githubusercontent.com/u/31403?s=72&u=de41ae8eaf4d86536c92042d2d0485a657728957&v=4" width="24" alt="Avatar of lgmkr"/> lgmkr
@@ -12356,7 +12343,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>942</td>
 		<td>
 			<a target="_blank" href="https://github.com/toddams">
 				<img src="https://avatars.githubusercontent.com/u/6703574?s=72&u=48a428052061f8e0ce2f0965e40f732c5d2cc410&v=4" width="24" alt="Avatar of toddams"/> toddams
@@ -12369,7 +12356,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>943</td>
 		<td>
 			<a target="_blank" href="https://github.com/sriqin">
 				<img src="https://avatars.githubusercontent.com/u/67589386?s=72&v=4" width="24" alt="Avatar of sriqin"/> sriqin
@@ -12382,7 +12369,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>944</td>
 		<td>
 			<a target="_blank" href="https://github.com/predator-1">
 				<img src="https://avatars.githubusercontent.com/u/26644889?s=72&u=800bf3007af2ca6a6b7d92eef078431f79fed58f&v=4" width="24" alt="Avatar of predator-1"/> predator-1
@@ -12395,7 +12382,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>945</td>
 		<td>
 			<a target="_blank" href="https://github.com/lavriv92">
 				<img src="https://avatars.githubusercontent.com/u/2587946?s=72&v=4" width="24" alt="Avatar of lavriv92"/> lavriv92
@@ -12408,7 +12395,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>946</td>
 		<td>
 			<a target="_blank" href="https://github.com/razielgn">
 				<img src="https://avatars.githubusercontent.com/u/237493?s=72&u=de424d54b12108a70fa05c8f956f05579a273777&v=4" width="24" alt="Avatar of razielgn"/> razielgn
@@ -12421,7 +12408,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>947</td>
 		<td>
 			<a target="_blank" href="https://github.com/aleksuss">
 				<img src="https://avatars.githubusercontent.com/u/3829201?s=72&u=d859e4c16d46387f81609a9a4176e6634a8753b4&v=4" width="24" alt="Avatar of aleksuss"/> aleksuss
@@ -12434,7 +12421,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>948</td>
 		<td>
 			<a target="_blank" href="https://github.com/eskrano">
 				<img src="https://avatars.githubusercontent.com/u/10223123?s=72&u=eb256901aa02c2b2bf398d769e98cfadf244aa5c&v=4" width="24" alt="Avatar of eskrano"/> eskrano
@@ -12447,7 +12434,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>949</td>
 		<td>
 			<a target="_blank" href="https://github.com/CakesTwix">
 				<img src="https://avatars.githubusercontent.com/u/57946485?s=72&u=c9f5b62837dfcc0c2de1f0b71e3a0a6a4deac2bd&v=4" width="24" alt="Avatar of CakesTwix"/> CakesTwix
@@ -12460,7 +12447,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>950</td>
 		<td>
 			<a target="_blank" href="https://github.com/odorenskyi">
 				<img src="https://avatars.githubusercontent.com/u/37213842?s=72&u=768cd12a2013ada8077e14a78975c817548680a3&v=4" width="24" alt="Avatar of odorenskyi"/> odorenskyi
@@ -12473,7 +12460,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>951</td>
 		<td>
 			<a target="_blank" href="https://github.com/NataliiaValko">
 				<img src="https://avatars.githubusercontent.com/u/75252511?s=72&u=30a1e410aecf3905ac6e4469a80aeec645bb940c&v=4" width="24" alt="Avatar of NataliiaValko"/> NataliiaValko
@@ -12486,7 +12473,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>952</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tariod">
 				<img src="https://avatars.githubusercontent.com/u/31654782?s=72&u=af6d447630d3009dccd4e0e253257dc48cb08bbb&v=4" width="24" alt="Avatar of Tariod"/> Tariod
@@ -12499,7 +12486,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>953</td>
 		<td>
 			<a target="_blank" href="https://github.com/d4rk4444">
 				<img src="https://avatars.githubusercontent.com/u/95656976?s=72&u=9d8b521618cc8eed8e1e5e69a297177ada20265e&v=4" width="24" alt="Avatar of d4rk4444"/> d4rk4444
@@ -12512,7 +12499,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>954</td>
 		<td>
 			<a target="_blank" href="https://github.com/mksh">
 				<img src="https://avatars.githubusercontent.com/u/1139113?s=72&u=9921348c8424862d83abd28efd987fa3e1f06f0c&v=4" width="24" alt="Avatar of mksh"/> mksh
@@ -12525,7 +12512,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ypurek">
 				<img src="https://avatars.githubusercontent.com/u/6419044?s=72&u=4535352039babcede8166fe6413d48688c738295&v=4" width="24" alt="Avatar of Ypurek"/> Ypurek
@@ -12538,7 +12525,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a target="_blank" href="https://github.com/handicraftsman">
 				<img src="https://avatars.githubusercontent.com/u/6382804?s=72&u=f17d862a42f2d01185c88dc762ab9b78a1eddd70&v=4" width="24" alt="Avatar of handicraftsman"/> handicraftsman
@@ -12551,7 +12538,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a target="_blank" href="https://github.com/vladkampov">
 				<img src="https://avatars.githubusercontent.com/u/7047991?s=72&u=645bd524bcc5fc75096e365dc59e69f5ceb235a7&v=4" width="24" alt="Avatar of vladkampov"/> vladkampov
@@ -12564,7 +12551,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a target="_blank" href="https://github.com/zeloras">
 				<img src="https://avatars.githubusercontent.com/u/196059?s=72&u=327f71470dc04990c31427b899b1a6185c2f0a4a&v=4" width="24" alt="Avatar of zeloras"/> zeloras
@@ -12577,7 +12564,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>959</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tusko">
 				<img src="https://avatars.githubusercontent.com/u/2039259?s=72&u=bdad1f1c93330fb4f02bc23f7b32d9417de72814&v=4" width="24" alt="Avatar of Tusko"/> Tusko
@@ -12590,7 +12577,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>960</td>
 		<td>
 			<a target="_blank" href="https://github.com/oleksadobush">
 				<img src="https://avatars.githubusercontent.com/u/70766505?s=72&u=4bc31c9cf969c3b723b5e0f26764e22107df7e90&v=4" width="24" alt="Avatar of oleksadobush"/> oleksadobush
@@ -12603,7 +12590,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kuchiriel">
 				<img src="https://avatars.githubusercontent.com/u/4648891?s=72&v=4" width="24" alt="Avatar of Kuchiriel"/> Kuchiriel
@@ -12616,7 +12603,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a target="_blank" href="https://github.com/cholombytko">
 				<img src="https://avatars.githubusercontent.com/u/72078732?s=72&u=0fac15e0d685a712b67fdca1663dd02c2de60b8f&v=4" width="24" alt="Avatar of cholombytko"/> cholombytko
@@ -12629,7 +12616,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a target="_blank" href="https://github.com/budfy">
 				<img src="https://avatars.githubusercontent.com/u/51324307?s=72&u=3505a655268c1958add101e8a321a2ac2060c423&v=4" width="24" alt="Avatar of budfy"/> budfy
@@ -12642,7 +12629,7 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a target="_blank" href="https://github.com/yurkovskiy">
 				<img src="https://avatars.githubusercontent.com/u/4039390?s=72&u=20c939cce24e98c89031c8bdd3716c63b190702d&v=4" width="24" alt="Avatar of yurkovskiy"/> yurkovskiy
@@ -12652,6 +12639,19 @@ There are `974 users`  in Ukraine. You need at least `45 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>IvanoFrankivsk Ukraine</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>965</td>
+		<td>
+			<a target="_blank" href="https://github.com/ur4ltz">
+				<img src="https://avatars.githubusercontent.com/u/920202?s=72&u=d647a2b9acd955886c18ae03541b113a976acaf3&v=4" width="24" alt="Avatar of ur4ltz"/> ur4ltz
+			</a><br/>
+			Andy Shevchenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kharkiv  Ukraine Glory to Ukraine</td>
 		<td>46</td>
 	</tr>
 	<tr>
