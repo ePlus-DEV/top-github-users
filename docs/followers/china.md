@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in China
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China"/>
 </a>
 
-The `number of followers` of users in China on `2024/4/23 2:41 AM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
+The `number of followers` of users in China on `2024/4/23 8:02 AM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>78006</td>
+		<td>78012</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Huawei Research </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>77860</td>
+		<td>77865</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -185,7 +185,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>20739</td>
+		<td>20740</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -198,7 +198,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Ejoycom </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>20343</td>
+		<td>20344</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -224,7 +224,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Inblockchain </td>
 		<td><a target="_blank" href="https://twitter.com/xiaolai">xiaolai</a></td>
 		<td>beijing</td>
-		<td>18015</td>
+		<td>18014</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -250,7 +250,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@kubeflow @cncf </td>
 		<td><a target="_blank" href="https://twitter.com/halffrost">halffrost</a></td>
 		<td>California Singapore China</td>
-		<td>16703</td>
+		<td>16704</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -263,7 +263,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td> </td>
 		<td>No Twitter Username</td>
 		<td>China Shanghai</td>
-		<td>16061</td>
+		<td>16068</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -289,7 +289,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>15823</td>
+		<td>15824</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -302,7 +302,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/OviliaZhang">OviliaZhang</a></td>
 		<td>Shanghai China</td>
-		<td>15349</td>
+		<td>15350</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -380,7 +380,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Alipay </td>
 		<td><a target="_blank" href="https://twitter.com/chenchengpro">chenchengpro</a></td>
 		<td>HangZhou China</td>
-		<td>14153</td>
+		<td>14155</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -419,7 +419,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>QingdaoChina</td>
-		<td>13026</td>
+		<td>13027</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -458,7 +458,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Bytedance </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>12823</td>
+		<td>12825</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -497,7 +497,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Umida Inc </td>
 		<td><a target="_blank" href="https://twitter.com/localhost_5173">localhost_5173</a></td>
 		<td>China</td>
-		<td>11997</td>
+		<td>11998</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -510,7 +510,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td> </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>11292</td>
+		<td>11291</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -536,7 +536,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Taobao Fed </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>11130</td>
+		<td>11131</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -549,7 +549,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen China</td>
-		<td>10681</td>
+		<td>10682</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -614,7 +614,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Windmarkpro </td>
 		<td><a target="_blank" href="https://twitter.com/easychen">easychen</a></td>
 		<td>Chongqing China</td>
-		<td>9569</td>
+		<td>9573</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -692,7 +692,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>WuxiChina</td>
-		<td>8755</td>
+		<td>8756</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -744,7 +744,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/fndroid">fndroid</a></td>
 		<td>China</td>
-		<td>8442</td>
+		<td>8443</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -788,6 +788,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>53</td>
 		<td>
+			<a target="_blank" href="https://github.com/drakeet">
+				<img src="https://avatars.githubusercontent.com/u/5214214?s=72&u=e8d8e4a3828cebedd628bb7a8d11f0c77bea80b8&v=4" width="24" alt="Avatar of drakeet"/> drakeet
+			</a><br/>
+			Drakeet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Suzhou China</td>
+		<td>7937</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
 			<a target="_blank" href="https://github.com/rengwuxian">
 				<img src="https://avatars.githubusercontent.com/u/4454687?s=72&u=2e2c8ca250ce6f482efe34d4e6dddb067ea573bd&v=4" width="24" alt="Avatar of rengwuxian"/> rengwuxian
 			</a><br/>
@@ -797,19 +810,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Zhengzhou China</td>
 		<td>7937</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
-			<a target="_blank" href="https://github.com/drakeet">
-				<img src="https://avatars.githubusercontent.com/u/5214214?s=72&u=e8d8e4a3828cebedd628bb7a8d11f0c77bea80b8&v=4" width="24" alt="Avatar of drakeet"/> drakeet
-			</a><br/>
-			Drakeet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Suzhou China</td>
-		<td>7936</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -874,7 +874,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td> </td>
 		<td><a target="_blank" href="https://twitter.com/jaywcjlove">jaywcjlove</a></td>
 		<td>Shanghai China</td>
-		<td>7306</td>
+		<td>7307</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -913,7 +913,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Bytedance Meta China </td>
 		<td><a target="_blank" href="https://twitter.com/huxpro">huxpro</a></td>
 		<td>NY CA China</td>
-		<td>6972</td>
+		<td>6973</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -939,7 +939,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Pdd @taobao @aliyun @alibaba<br/></td>
 		<td><a target="_blank" href="https://twitter.com/oldratlee">oldratlee</a></td>
 		<td>Shanghai  Hangzhou Zhejiang China</td>
-		<td>6812</td>
+		<td>6813</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -978,7 +978,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Baidutencent </td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen</td>
-		<td>6741</td>
+		<td>6742</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -991,7 +991,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Uit </td>
 		<td>No Twitter Username</td>
 		<td>china</td>
-		<td>6642</td>
+		<td>6643</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1017,7 +1017,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/twsxtd">twsxtd</a></td>
 		<td>China</td>
-		<td>6418</td>
+		<td>6420</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1043,7 +1043,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chengdu China</td>
-		<td>6297</td>
+		<td>6299</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1056,7 +1056,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Peking University </td>
 		<td><a target="_blank" href="https://twitter.com/YinminZhong">YinminZhong</a></td>
 		<td>Beijing China</td>
-		<td>6242</td>
+		<td>6244</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1069,7 +1069,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Coderwhy </td>
 		<td>No Twitter Username</td>
 		<td>guangzhou</td>
-		<td>6170</td>
+		<td>6171</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1082,7 +1082,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Shenzhen Biqu Technology Co<br/>Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen China</td>
-		<td>6134</td>
+		<td>6137</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1108,7 +1108,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Suzhou China</td>
-		<td>5806</td>
+		<td>5805</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1173,7 +1173,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td> </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>5489</td>
+		<td>5490</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1407,7 +1407,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Amoy China</td>
-		<td>4638</td>
+		<td>4639</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1459,7 +1459,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Ant Group </td>
 		<td><a target="_blank" href="https://twitter.com/Barret_China">Barret_China</a></td>
 		<td>HangzhouChina</td>
-		<td>4568</td>
+		<td>4570</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1472,7 +1472,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Secret </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>4543</td>
+		<td>4544</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1485,7 +1485,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>SZ China</td>
-		<td>4523</td>
+		<td>4524</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1498,7 +1498,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Coowner At Cypherband Architect<br/>At<br/>Metarhia<br/>Lecturer<br/>At<br/>Kpi<br/></td>
 		<td><a target="_blank" href="https://twitter.com/tshemsedinov">tshemsedinov</a></td>
 		<td>Earth Europe Ukraine USA Spain Germany Italy China Kiev Kyiv</td>
-		<td>4522</td>
+		<td>4521</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1529,6 +1529,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>110</td>
 		<td>
+			<a target="_blank" href="https://github.com/pissang">
+				<img src="https://avatars.githubusercontent.com/u/841551?s=72&u=d20f30b1e08a44195ef793cbdddc46abe72672d6&v=4" width="24" alt="Avatar of pissang"/> pissang
+			</a><br/>
+			Yi Shen
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/pissang1">pissang1</a></td>
+		<td>Shanghai China</td>
+		<td>4392</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
 			<a target="_blank" href="https://github.com/KieSun">
 				<img src="https://avatars.githubusercontent.com/u/11811888?s=72&u=2d330564df93a5291ea8f261c588670ae01f20de&v=4" width="24" alt="Avatar of KieSun"/> KieSun
 			</a><br/>
@@ -1538,19 +1551,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
 		<td>4391</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a target="_blank" href="https://github.com/pissang">
-				<img src="https://avatars.githubusercontent.com/u/841551?s=72&u=d20f30b1e08a44195ef793cbdddc46abe72672d6&v=4" width="24" alt="Avatar of pissang"/> pissang
-			</a><br/>
-			Yi Shen
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/pissang1">pissang1</a></td>
-		<td>Shanghai China</td>
-		<td>4390</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1680,7 +1680,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Tsinghua Unviersity </td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>4175</td>
+		<td>4176</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1693,7 +1693,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Sjtu </td>
 		<td><a target="_blank" href="https://twitter.com/krahets">krahets</a></td>
 		<td>Shanghai</td>
-		<td>4166</td>
+		<td>4167</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1719,7 +1719,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China Singapore</td>
-		<td>4121</td>
+		<td>4122</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1763,6 +1763,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>128</td>
 		<td>
+			<a target="_blank" href="https://github.com/lencx">
+				<img src="https://avatars.githubusercontent.com/u/16164244?s=72&u=e494bcc61f8128a85aaa9c717958a053f8747402&v=4" width="24" alt="Avatar of lencx"/> lencx
+			</a><br/>
+			lencx
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lencx_">lencx_</a></td>
+		<td>Shanghai China</td>
+		<td>3934</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
 			<a target="_blank" href="https://github.com/bingoogolapple">
 				<img src="https://avatars.githubusercontent.com/u/8949716?s=72&u=6b06d5c98e9b3875bb63595b30cc546ae7da0419&v=4" width="24" alt="Avatar of bingoogolapple"/> bingoogolapple
 			</a><br/>
@@ -1772,19 +1785,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chengdu China</td>
 		<td>3934</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a target="_blank" href="https://github.com/lencx">
-				<img src="https://avatars.githubusercontent.com/u/16164244?s=72&u=e494bcc61f8128a85aaa9c717958a053f8747402&v=4" width="24" alt="Avatar of lencx"/> lencx
-			</a><br/>
-			lencx
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/lencx_">lencx_</a></td>
-		<td>Shanghai China</td>
-		<td>3933</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1862,7 +1862,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>GuangzhouChina</td>
-		<td>3783</td>
+		<td>3785</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -1927,7 +1927,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Bytedance </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>3732</td>
+		<td>3731</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -2031,7 +2031,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/vinceliuice">vinceliuice</a></td>
 		<td>PingXiang  JiangXi  China</td>
-		<td>3551</td>
+		<td>3552</td>
 	</tr>
 	<tr>
 		<td>149</td>
@@ -2096,7 +2096,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/sanxiaozhizi">sanxiaozhizi</a></td>
 		<td>NaN China</td>
-		<td>3477</td>
+		<td>3479</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2135,7 +2135,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Httpswwwcluebenchmar </td>
 		<td>No Twitter Username</td>
 		<td>hangzhouchina</td>
-		<td>3443</td>
+		<td>3442</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2226,7 +2226,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Joint Laboratory Of Hit<br/>And<br/>Iflytek<br/>Research<br/>Hfl<br/></td>
 		<td><a target="_blank" href="https://twitter.com/KCrosner">KCrosner</a></td>
 		<td>Beijing China</td>
-		<td>3295</td>
+		<td>3302</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2330,7 +2330,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen China</td>
-		<td>3142</td>
+		<td>3143</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -2343,10 +2343,23 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@jirenguinc  </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>3123</td>
+		<td>3124</td>
 	</tr>
 	<tr>
 		<td>173</td>
+		<td>
+			<a target="_blank" href="https://github.com/binarywang">
+				<img src="https://avatars.githubusercontent.com/u/1343140?s=72&u=4a3757273712538c0c9b701d99266530f5d334ff&v=4" width="24" alt="Avatar of binarywang"/> binarywang
+			</a><br/>
+			Binary Wang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>3118</td>
+	</tr>
+	<tr>
+		<td>174</td>
 		<td>
 			<a target="_blank" href="https://github.com/TideSec">
 				<img src="https://avatars.githubusercontent.com/u/46297163?s=72&u=72fa2bd48fddd9f578123639cd01f9dcf27ef04b&v=4" width="24" alt="Avatar of TideSec"/> TideSec
@@ -2359,19 +2372,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>3118</td>
 	</tr>
 	<tr>
-		<td>174</td>
-		<td>
-			<a target="_blank" href="https://github.com/binarywang">
-				<img src="https://avatars.githubusercontent.com/u/1343140?s=72&u=4a3757273712538c0c9b701d99266530f5d334ff&v=4" width="24" alt="Avatar of binarywang"/> binarywang
-			</a><br/>
-			Binary Wang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>China</td>
-		<td>3117</td>
-	</tr>
-	<tr>
 		<td>175</td>
 		<td>
 			<a target="_blank" href="https://github.com/binjie09">
@@ -2382,7 +2382,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Zknow </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>3081</td>
+		<td>3084</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2395,7 +2395,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Looking For A Job<br/></td>
 		<td><a target="_blank" href="https://twitter.com/isukkaw">isukkaw</a></td>
 		<td>City of Science which is not in China</td>
-		<td>3057</td>
+		<td>3059</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2439,6 +2439,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>180</td>
 		<td>
+			<a target="_blank" href="https://github.com/eddycjy">
+				<img src="https://avatars.githubusercontent.com/u/13746731?s=72&u=e3f190153cdbb1354d598b95652a9eba9b5037c1&v=4" width="24" alt="Avatar of eddycjy"/> eddycjy
+			</a><br/>
+			
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Shenzhen China</td>
+		<td>3040</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
 			<a target="_blank" href="https://github.com/airen">
 				<img src="https://avatars.githubusercontent.com/u/368462?s=72&v=4" width="24" alt="Avatar of airen"/> airen
 			</a><br/>
@@ -2448,19 +2461,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/w3cplus">w3cplus</a></td>
 		<td>China</td>
 		<td>3039</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a target="_blank" href="https://github.com/eddycjy">
-				<img src="https://avatars.githubusercontent.com/u/13746731?s=72&u=e3f190153cdbb1354d598b95652a9eba9b5037c1&v=4" width="24" alt="Avatar of eddycjy"/> eddycjy
-			</a><br/>
-			
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Shenzhen China</td>
-		<td>3038</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2551,7 +2551,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Tongji University </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>2980</td>
+		<td>2981</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -2577,7 +2577,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Baidudidi </td>
 		<td>No Twitter Username</td>
 		<td>beijing</td>
-		<td>2973</td>
+		<td>2974</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2603,7 +2603,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>2926</td>
+		<td>2927</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2746,7 +2746,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>2742</td>
+		<td>2743</td>
 	</tr>
 	<tr>
 		<td>204</td>
@@ -2785,7 +2785,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>2711</td>
+		<td>2712</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2798,7 +2798,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>2701</td>
+		<td>2702</td>
 	</tr>
 	<tr>
 		<td>208</td>
@@ -2811,7 +2811,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/randyloop">randyloop</a></td>
 		<td>Guangzhou China</td>
-		<td>2700</td>
+		<td>2702</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -2829,19 +2829,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>210</td>
 		<td>
-			<a target="_blank" href="https://github.com/judasn">
-				<img src="https://avatars.githubusercontent.com/u/2867798?s=72&u=90531ed46a3822844720e6f48fe9b4469d1eb38e&v=4" width="24" alt="Avatar of judasn"/> judasn
-			</a><br/>
-			Judasn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>GuangZhouChina</td>
-		<td>2662</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
 			<a target="_blank" href="https://github.com/yulingtianxia">
 				<img src="https://avatars.githubusercontent.com/u/433320?s=72&u=74d8d798ae531b583cbb81c289c75a17a52b8353&v=4" width="24" alt="Avatar of yulingtianxia"/> yulingtianxia
 			</a><br/>
@@ -2850,6 +2837,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/yulingtianxia">yulingtianxia</a></td>
 		<td>ShenzhenChina</td>
+		<td>2661</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a target="_blank" href="https://github.com/judasn">
+				<img src="https://avatars.githubusercontent.com/u/2867798?s=72&u=90531ed46a3822844720e6f48fe9b4469d1eb38e&v=4" width="24" alt="Avatar of judasn"/> judasn
+			</a><br/>
+			Judasn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>GuangZhouChina</td>
 		<td>2661</td>
 	</tr>
 	<tr>
@@ -3019,7 +3019,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Httpwwwlinakesicom </td>
 		<td><a target="_blank" href="https://twitter.com/manateelazycat">manateelazycat</a></td>
 		<td>China</td>
-		<td>2548</td>
+		<td>2549</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -3214,7 +3214,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>2400</td>
+		<td>2402</td>
 	</tr>
 	<tr>
 		<td>240</td>
@@ -3305,7 +3305,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Xiaoma Tech </td>
 		<td>No Twitter Username</td>
 		<td>beijing</td>
-		<td>2304</td>
+		<td>2305</td>
 	</tr>
 	<tr>
 		<td>247</td>
@@ -3461,7 +3461,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Guangzhou China</td>
-		<td>2216</td>
+		<td>2217</td>
 	</tr>
 	<tr>
 		<td>259</td>
@@ -3513,7 +3513,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>2169</td>
+		<td>2170</td>
 	</tr>
 	<tr>
 		<td>263</td>
@@ -3617,7 +3617,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Jike </td>
 		<td><a target="_blank" href="https://twitter.com/wong2_x">wong2_x</a></td>
 		<td>Shanghai China</td>
-		<td>2103</td>
+		<td>2104</td>
 	</tr>
 	<tr>
 		<td>271</td>
@@ -3721,7 +3721,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>2029</td>
+		<td>2031</td>
 	</tr>
 	<tr>
 		<td>279</td>
@@ -3747,7 +3747,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shanghai China</td>
-		<td>2002</td>
+		<td>2003</td>
 	</tr>
 	<tr>
 		<td>281</td>
@@ -3981,7 +3981,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>  </td>
 		<td>No Twitter Username</td>
 		<td>Tianjin</td>
-		<td>1905</td>
+		<td>1908</td>
 	</tr>
 	<tr>
 		<td>299</td>
@@ -4163,7 +4163,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Alibaba </td>
 		<td>No Twitter Username</td>
 		<td>HangZhou China</td>
-		<td>1856</td>
+		<td>1857</td>
 	</tr>
 	<tr>
 		<td>313</td>
@@ -4241,7 +4241,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>ShenZhen China</td>
-		<td>1826</td>
+		<td>1827</td>
 	</tr>
 	<tr>
 		<td>319</td>
@@ -4285,6 +4285,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>322</td>
 		<td>
+			<a target="_blank" href="https://github.com/Xyntax">
+				<img src="https://avatars.githubusercontent.com/u/12861404?s=72&u=247d1e91cd5cd60e46db0fd0e787a167cff8b455&v=4" width="24" alt="Avatar of Xyntax"/> Xyntax
+			</a><br/>
+			cdxy
+		</td>
+		<td>Starcross Technology </td>
+		<td><a target="_blank" href="https://twitter.com/cdxy_">cdxy_</a></td>
+		<td>BeijingChina</td>
+		<td>1819</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a target="_blank" href="https://github.com/kevwan">
 				<img src="https://avatars.githubusercontent.com/u/1918356?s=72&u=4dd68676f27765f2f6f1b8f343b8fa34c332defc&v=4" width="24" alt="Avatar of kevwan"/> kevwan
 			</a><br/>
@@ -4294,19 +4307,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/kevwanzero">kevwanzero</a></td>
 		<td>Shanghai China</td>
 		<td>1818</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a target="_blank" href="https://github.com/Xyntax">
-				<img src="https://avatars.githubusercontent.com/u/12861404?s=72&u=247d1e91cd5cd60e46db0fd0e787a167cff8b455&v=4" width="24" alt="Avatar of Xyntax"/> Xyntax
-			</a><br/>
-			cdxy
-		</td>
-		<td>Starcross Technology </td>
-		<td><a target="_blank" href="https://twitter.com/cdxy_">cdxy_</a></td>
-		<td>BeijingChina</td>
-		<td>1817</td>
 	</tr>
 	<tr>
 		<td>324</td>
@@ -4410,7 +4410,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>1771</td>
+		<td>1770</td>
 	</tr>
 	<tr>
 		<td>332</td>
@@ -4423,7 +4423,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China Nanjing</td>
-		<td>1761</td>
+		<td>1762</td>
 	</tr>
 	<tr>
 		<td>333</td>
@@ -4553,7 +4553,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xian Shaanxi China</td>
-		<td>1714</td>
+		<td>1713</td>
 	</tr>
 	<tr>
 		<td>343</td>
@@ -4761,7 +4761,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Sunshine </td>
 		<td>No Twitter Username</td>
 		<td>beijing china</td>
-		<td>1668</td>
+		<td>1669</td>
 	</tr>
 	<tr>
 		<td>359</td>
@@ -4831,19 +4831,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>364</td>
 		<td>
-			<a target="_blank" href="https://github.com/hluwa">
-				<img src="https://avatars.githubusercontent.com/u/18900732?s=72&u=766cb88dda9ab5a4fb6cf8dcccf1765af77bfc16&v=4" width="24" alt="Avatar of hluwa"/> hluwa
-			</a><br/>
-			
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/_hluwa">_hluwa</a></td>
-		<td>China Swatow</td>
-		<td>1643</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
 			<a target="_blank" href="https://github.com/Lucifer1993">
 				<img src="https://avatars.githubusercontent.com/u/11784451?s=72&u=13384bac385f00d9550f74b2ecf30d8d80a71b65&v=4" width="24" alt="Avatar of Lucifer1993"/> Lucifer1993
 			</a><br/>
@@ -4852,6 +4839,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Matrix </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
+		<td>1644</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a target="_blank" href="https://github.com/hluwa">
+				<img src="https://avatars.githubusercontent.com/u/18900732?s=72&u=766cb88dda9ab5a4fb6cf8dcccf1765af77bfc16&v=4" width="24" alt="Avatar of hluwa"/> hluwa
+			</a><br/>
+			
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/_hluwa">_hluwa</a></td>
+		<td>China Swatow</td>
 		<td>1643</td>
 	</tr>
 	<tr>
@@ -4982,7 +4982,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Wfh Remote </td>
 		<td><a target="_blank" href="https://twitter.com/__oQuery">__oQuery</a></td>
 		<td>ShanghaiHangzhou China</td>
-		<td>1609</td>
+		<td>1610</td>
 	</tr>
 	<tr>
 		<td>376</td>
@@ -5190,7 +5190,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Peking University </td>
 		<td><a target="_blank" href="https://twitter.com/0xAA_Science">0xAA_Science</a></td>
 		<td>Beijing</td>
-		<td>1545</td>
+		<td>1546</td>
 	</tr>
 	<tr>
 		<td>392</td>
@@ -5359,7 +5359,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@microsoft  </td>
 		<td><a target="_blank" href="https://twitter.com/aaronliu00">aaronliu00</a></td>
 		<td>Suzhou China</td>
-		<td>1509</td>
+		<td>1510</td>
 	</tr>
 	<tr>
 		<td>405</td>
@@ -5372,7 +5372,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Ant Group </td>
 		<td>No Twitter Username</td>
 		<td>HangzhouChina </td>
-		<td>1508</td>
+		<td>1509</td>
 	</tr>
 	<tr>
 		<td>406</td>
@@ -5450,7 +5450,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Alibaba </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1490</td>
+		<td>1491</td>
 	</tr>
 	<tr>
 		<td>412</td>
@@ -5507,6 +5507,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>416</td>
 		<td>
+			<a target="_blank" href="https://github.com/yutiansut">
+				<img src="https://avatars.githubusercontent.com/u/11537812?s=72&u=3281d74f12d2f36efeff3415e59508314adfd6bf&v=4" width="24" alt="Avatar of yutiansut"/> yutiansut
+			</a><br/>
+			Vincent yu
+		</td>
+		<td>@quantaxis @blexcapital </td>
+		<td><a target="_blank" href="https://twitter.com/yutiansut">yutiansut</a></td>
+		<td>Hangzhou China</td>
+		<td>1469</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a target="_blank" href="https://github.com/xiaolincoder">
 				<img src="https://avatars.githubusercontent.com/u/23445047?s=72&u=8c74391c1f8985cfc2519f43e44428871c1677c3&v=4" width="24" alt="Avatar of xiaolincoder"/> xiaolincoder
 			</a><br/>
@@ -5516,19 +5529,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>ShenZhen  China</td>
 		<td>1469</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a target="_blank" href="https://github.com/yutiansut">
-				<img src="https://avatars.githubusercontent.com/u/11537812?s=72&u=3281d74f12d2f36efeff3415e59508314adfd6bf&v=4" width="24" alt="Avatar of yutiansut"/> yutiansut
-			</a><br/>
-			Vincent yu
-		</td>
-		<td>@quantaxis @blexcapital </td>
-		<td><a target="_blank" href="https://twitter.com/yutiansut">yutiansut</a></td>
-		<td>Hangzhou China</td>
-		<td>1468</td>
 	</tr>
 	<tr>
 		<td>418</td>
@@ -5775,7 +5775,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Millennium Science School </td>
 		<td><a target="_blank" href="https://twitter.com/llamafactory_ai">llamafactory_ai</a></td>
 		<td>Beijing China</td>
-		<td>1412</td>
+		<td>1414</td>
 	</tr>
 	<tr>
 		<td>437</td>
@@ -5845,6 +5845,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>442</td>
 		<td>
+			<a target="_blank" href="https://github.com/huiyadanli">
+				<img src="https://avatars.githubusercontent.com/u/15783049?s=72&u=86f380636f7c09b86788a977ea96272cb7484a30&v=4" width="24" alt="Avatar of huiyadanli"/> huiyadanli
+			</a><br/>
+			
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hangzhou China</td>
+		<td>1402</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
 			<a target="_blank" href="https://github.com/Peng-YM">
 				<img src="https://avatars.githubusercontent.com/u/21050064?s=72&u=6b8c49454dc619a6780850bc50ba1c660f350784&v=4" width="24" alt="Avatar of Peng-YM"/> Peng-YM
 			</a><br/>
@@ -5856,7 +5869,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>1402</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a target="_blank" href="https://github.com/allencloud">
 				<img src="https://avatars.githubusercontent.com/u/9465626?s=72&u=c756ad67b775fd0968dbfe5aae2703adf5b079ab&v=4" width="24" alt="Avatar of allencloud"/> allencloud
@@ -5869,7 +5882,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>1402</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a target="_blank" href="https://github.com/JimmyLv">
 				<img src="https://avatars.githubusercontent.com/u/4997466?s=72&u=e4e91ddcfbdd81cf3de82b14b4a1728323ea771d&v=4" width="24" alt="Avatar of JimmyLv"/> JimmyLv
@@ -5879,19 +5892,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@parabolinc  </td>
 		<td><a target="_blank" href="https://twitter.com/Jimmy_JingLv">Jimmy_JingLv</a></td>
 		<td>Chengdu China</td>
-		<td>1401</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a target="_blank" href="https://github.com/huiyadanli">
-				<img src="https://avatars.githubusercontent.com/u/15783049?s=72&u=86f380636f7c09b86788a977ea96272cb7484a30&v=4" width="24" alt="Avatar of huiyadanli"/> huiyadanli
-			</a><br/>
-			
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hangzhou China</td>
 		<td>1401</td>
 	</tr>
 	<tr>
@@ -5983,7 +5983,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>1384</td>
+		<td>1385</td>
 	</tr>
 	<tr>
 		<td>453</td>
@@ -6053,19 +6053,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
-			<a target="_blank" href="https://github.com/ruochuan12">
-				<img src="https://avatars.githubusercontent.com/u/15962539?s=72&u=92db8e1aaacb25f54942d18300bdd0388f6bbf6b&v=4" width="24" alt="Avatar of ruochuan12"/> ruochuan12
-			</a><br/>
-			
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/lxchuan12">lxchuan12</a></td>
-		<td>HangzhouChina</td>
-		<td>1372</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
 			<a target="_blank" href="https://github.com/jiangyy">
 				<img src="https://avatars.githubusercontent.com/u/785251?s=72&u=b7f7211964567bff7dfb2787f8abba6c41d82dc1&v=4" width="24" alt="Avatar of jiangyy"/> jiangyy
 			</a><br/>
@@ -6074,6 +6061,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Nanjing University </td>
 		<td>No Twitter Username</td>
 		<td>Nanjing China</td>
+		<td>1373</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a target="_blank" href="https://github.com/ruochuan12">
+				<img src="https://avatars.githubusercontent.com/u/15962539?s=72&u=92db8e1aaacb25f54942d18300bdd0388f6bbf6b&v=4" width="24" alt="Avatar of ruochuan12"/> ruochuan12
+			</a><br/>
+			
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lxchuan12">lxchuan12</a></td>
+		<td>HangzhouChina</td>
 		<td>1372</td>
 	</tr>
 	<tr>
@@ -6178,7 +6178,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>chongqing</td>
-		<td>1346</td>
+		<td>1347</td>
 	</tr>
 	<tr>
 		<td>468</td>
@@ -6217,7 +6217,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@zerolty </td>
 		<td>No Twitter Username</td>
 		<td>Beijing</td>
-		<td>1337</td>
+		<td>1338</td>
 	</tr>
 	<tr>
 		<td>471</td>
@@ -6261,6 +6261,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>474</td>
 		<td>
+			<a target="_blank" href="https://github.com/hantsy">
+				<img src="https://avatars.githubusercontent.com/u/854520?s=72&u=5457fd3217376d476b48339f1995ebedc5cadf1c&v=4" width="24" alt="Avatar of hantsy"/> hantsy
+			</a><br/>
+			Hantsy Bai
+		</td>
+		<td>Etipio </td>
+		<td><a target="_blank" href="https://twitter.com/hantsy">hantsy</a></td>
+		<td>China</td>
+		<td>1323</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
 			<a target="_blank" href="https://github.com/liangfei0201">
 				<img src="https://avatars.githubusercontent.com/u/1162760?s=72&v=4" width="24" alt="Avatar of liangfei0201"/> liangfei0201
 			</a><br/>
@@ -6270,19 +6283,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
 		<td>1323</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a target="_blank" href="https://github.com/hantsy">
-				<img src="https://avatars.githubusercontent.com/u/854520?s=72&u=5457fd3217376d476b48339f1995ebedc5cadf1c&v=4" width="24" alt="Avatar of hantsy"/> hantsy
-			</a><br/>
-			Hantsy Bai
-		</td>
-		<td>Etipio </td>
-		<td><a target="_blank" href="https://twitter.com/hantsy">hantsy</a></td>
-		<td>China</td>
-		<td>1322</td>
 	</tr>
 	<tr>
 		<td>476</td>
@@ -6334,7 +6334,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Logictech </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1318</td>
+		<td>1319</td>
 	</tr>
 	<tr>
 		<td>480</td>
@@ -6503,7 +6503,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1288</td>
+		<td>1289</td>
 	</tr>
 	<tr>
 		<td>493</td>
@@ -6703,6 +6703,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>508</td>
 		<td>
+			<a target="_blank" href="https://github.com/XINCGer">
+				<img src="https://avatars.githubusercontent.com/u/10908565?s=72&u=eb064bd4f0b79950849a2c06ec9aa30a69fde2b8&v=4" width="24" alt="Avatar of XINCGer"/> XINCGer
+			</a><br/>
+			
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ShanghaiChina</td>
+		<td>1257</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
 			<a target="_blank" href="https://github.com/ChenChenJoke">
 				<img src="https://avatars.githubusercontent.com/u/2368562?s=72&u=9db7e0dc4d9b031b3e1142b0e23fe72dd03e1084&v=4" width="24" alt="Avatar of ChenChenJoke"/> ChenChenJoke
 			</a><br/>
@@ -6712,19 +6725,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>BEIJING</td>
 		<td>1257</td>
-	</tr>
-	<tr>
-		<td>509</td>
-		<td>
-			<a target="_blank" href="https://github.com/XINCGer">
-				<img src="https://avatars.githubusercontent.com/u/10908565?s=72&u=eb064bd4f0b79950849a2c06ec9aa30a69fde2b8&v=4" width="24" alt="Avatar of XINCGer"/> XINCGer
-			</a><br/>
-			
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>ShanghaiChina</td>
-		<td>1256</td>
 	</tr>
 	<tr>
 		<td>510</td>
@@ -6737,7 +6737,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Dji  Wuhan University<br/></td>
 		<td>No Twitter Username</td>
 		<td>ShenZhen  Wuhan China</td>
-		<td>1254</td>
+		<td>1255</td>
 	</tr>
 	<tr>
 		<td>511</td>
@@ -6906,10 +6906,23 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1232</td>
+		<td>1233</td>
 	</tr>
 	<tr>
 		<td>524</td>
+		<td>
+			<a target="_blank" href="https://github.com/ZHO-ZHO-ZHO">
+				<img src="https://avatars.githubusercontent.com/u/140084057?s=72&u=4328efa9694e3cc548d7c6d59674201397fb4d3d&v=4" width="24" alt="Avatar of ZHO-ZHO-ZHO"/> ZHO-ZHO-ZHO
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ZHOZHO672070">ZHOZHO672070</a></td>
+		<td>China</td>
+		<td>1232</td>
+	</tr>
+	<tr>
+		<td>525</td>
 		<td>
 			<a target="_blank" href="https://github.com/codeskyblue">
 				<img src="https://avatars.githubusercontent.com/u/3281689?s=72&u=39ec4bc0d35cddcc7cbd00ed0c903f9b8799a22c&v=4" width="24" alt="Avatar of codeskyblue"/> codeskyblue
@@ -6920,19 +6933,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
 		<td>1229</td>
-	</tr>
-	<tr>
-		<td>525</td>
-		<td>
-			<a target="_blank" href="https://github.com/ZHO-ZHO-ZHO">
-				<img src="https://avatars.githubusercontent.com/u/140084057?s=72&u=4328efa9694e3cc548d7c6d59674201397fb4d3d&v=4" width="24" alt="Avatar of ZHO-ZHO-ZHO"/> ZHO-ZHO-ZHO
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/ZHOZHO672070">ZHOZHO672070</a></td>
-		<td>China</td>
-		<td>1228</td>
 	</tr>
 	<tr>
 		<td>526</td>
@@ -6984,7 +6984,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Ustc </td>
 		<td>No Twitter Username</td>
 		<td>Hefei China</td>
-		<td>1220</td>
+		<td>1221</td>
 	</tr>
 	<tr>
 		<td>530</td>
@@ -7049,7 +7049,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@alibaba </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>1210</td>
+		<td>1211</td>
 	</tr>
 	<tr>
 		<td>535</td>
@@ -7101,7 +7101,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td> Ai </td>
 		<td>No Twitter Username</td>
 		<td>Suzhou Beijing Shanghai Hongkong</td>
-		<td>1200</td>
+		<td>1201</td>
 	</tr>
 	<tr>
 		<td>539</td>
@@ -7192,10 +7192,23 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NanjingChina</td>
-		<td>1185</td>
+		<td>1184</td>
 	</tr>
 	<tr>
 		<td>546</td>
+		<td>
+			<a target="_blank" href="https://github.com/seisman">
+				<img src="https://avatars.githubusercontent.com/u/3974108?s=72&u=6adf122b0e527d86f7729792a3f5743b6267cb18&v=4" width="24" alt="Avatar of seisman"/> seisman
+			</a><br/>
+			Dongdong Tian
+		</td>
+		<td>China University Of Geosciences<br/></td>
+		<td>No Twitter Username</td>
+		<td>Wuhan China</td>
+		<td>1182</td>
+	</tr>
+	<tr>
+		<td>547</td>
 		<td>
 			<a target="_blank" href="https://github.com/w4lle">
 				<img src="https://avatars.githubusercontent.com/u/7310246?s=72&u=bbfd130af5412c5da2c72b55a2b518723c633476&v=4" width="24" alt="Avatar of w4lle"/> w4lle
@@ -7206,19 +7219,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>HangzhouChina</td>
 		<td>1182</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
-			<a target="_blank" href="https://github.com/seisman">
-				<img src="https://avatars.githubusercontent.com/u/3974108?s=72&u=6adf122b0e527d86f7729792a3f5743b6267cb18&v=4" width="24" alt="Avatar of seisman"/> seisman
-			</a><br/>
-			Dongdong Tian
-		</td>
-		<td>China University Of Geosciences<br/></td>
-		<td>No Twitter Username</td>
-		<td>Wuhan China</td>
-		<td>1181</td>
 	</tr>
 	<tr>
 		<td>548</td>
@@ -7236,6 +7236,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>549</td>
 		<td>
+			<a target="_blank" href="https://github.com/li-jia-nan">
+				<img src="https://avatars.githubusercontent.com/u/49217418?s=72&u=ecf9314d0f21b70cde7050509aaeb14d9acc393f&v=4" width="24" alt="Avatar of li-jia-nan"/> li-jia-nan
+			</a><br/>
+			lijianan
+		</td>
+		<td> </td>
+		<td><a target="_blank" href="https://twitter.com/lijianan1234">lijianan1234</a></td>
+		<td>Hangzhou China</td>
+		<td>1177</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
 			<a target="_blank" href="https://github.com/liu21st">
 				<img src="https://avatars.githubusercontent.com/u/1111670?s=72&v=4" width="24" alt="Avatar of liu21st"/> liu21st
 			</a><br/>
@@ -7245,19 +7258,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>ShangHaiChina</td>
 		<td>1177</td>
-	</tr>
-	<tr>
-		<td>550</td>
-		<td>
-			<a target="_blank" href="https://github.com/li-jia-nan">
-				<img src="https://avatars.githubusercontent.com/u/49217418?s=72&u=ecf9314d0f21b70cde7050509aaeb14d9acc393f&v=4" width="24" alt="Avatar of li-jia-nan"/> li-jia-nan
-			</a><br/>
-			lijianan
-		</td>
-		<td> </td>
-		<td><a target="_blank" href="https://twitter.com/lijianan1234">lijianan1234</a></td>
-		<td>Hangzhou China</td>
-		<td>1176</td>
 	</tr>
 	<tr>
 		<td>551</td>
@@ -7288,6 +7288,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>553</td>
 		<td>
+			<a target="_blank" href="https://github.com/fangjian0423">
+				<img src="https://avatars.githubusercontent.com/u/5254035?s=72&u=a777570c75521a98dda22bf86ee9f41d2abbd43c&v=4" width="24" alt="Avatar of fangjian0423"/> fangjian0423
+			</a><br/>
+			Jimmy Fang
+		</td>
+		<td>@apache </td>
+		<td>No Twitter Username</td>
+		<td>Hangzhou China</td>
+		<td>1173</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
 			<a target="_blank" href="https://github.com/h2pl">
 				<img src="https://avatars.githubusercontent.com/u/20679558?s=72&u=91975aeb53bcec57d3b1f72e27239d92ff99ba0a&v=4" width="24" alt="Avatar of h2pl"/> h2pl
 			</a><br/>
@@ -7299,7 +7312,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>1172</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a target="_blank" href="https://github.com/benjycui">
 				<img src="https://avatars.githubusercontent.com/u/3580607?s=72&u=04a56f56168389da02426aad9b146b2ed5132d79&v=4" width="24" alt="Avatar of benjycui"/> benjycui
@@ -7310,19 +7323,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>China</td>
 		<td>1172</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a target="_blank" href="https://github.com/fangjian0423">
-				<img src="https://avatars.githubusercontent.com/u/5254035?s=72&u=a777570c75521a98dda22bf86ee9f41d2abbd43c&v=4" width="24" alt="Avatar of fangjian0423"/> fangjian0423
-			</a><br/>
-			Jimmy Fang
-		</td>
-		<td>@apache </td>
-		<td>No Twitter Username</td>
-		<td>Hangzhou China</td>
-		<td>1171</td>
 	</tr>
 	<tr>
 		<td>556</td>
@@ -7374,7 +7374,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/YuZhao48340494">YuZhao48340494</a></td>
 		<td>DongGuan China</td>
-		<td>1160</td>
+		<td>1159</td>
 	</tr>
 	<tr>
 		<td>560</td>
@@ -7452,7 +7452,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/quentin_dian">quentin_dian</a></td>
 		<td>Beijing China</td>
-		<td>1149</td>
+		<td>1150</td>
 	</tr>
 	<tr>
 		<td>566</td>
@@ -7868,7 +7868,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@apolloconfig @sofastack @alipay </td>
 		<td><a target="_blank" href="https://twitter.com/songshun">songshun</a></td>
 		<td>Shanghai</td>
-		<td>1089</td>
+		<td>1090</td>
 	</tr>
 	<tr>
 		<td>598</td>
@@ -8401,7 +8401,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Researcher@pjlab Phd@sjtu </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>1016</td>
+		<td>1017</td>
 	</tr>
 	<tr>
 		<td>639</td>
@@ -8419,6 +8419,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>640</td>
 		<td>
+			<a target="_blank" href="https://github.com/chenzomi12">
+				<img src="https://avatars.githubusercontent.com/u/6355024?s=72&u=5cba82fbf18034407e8d40f6c36a8a0e6fa8804f&v=4" width="24" alt="Avatar of chenzomi12"/> chenzomi12
+			</a><br/>
+			ZOMI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>1015</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
 			<a target="_blank" href="https://github.com/EZLippi">
 				<img src="https://avatars.githubusercontent.com/u/5326814?s=72&u=636d36966367e62aebfc1538b064a79863124534&v=4" width="24" alt="Avatar of EZLippi"/> EZLippi
 			</a><br/>
@@ -8428,19 +8441,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>China</td>
 		<td>1014</td>
-	</tr>
-	<tr>
-		<td>641</td>
-		<td>
-			<a target="_blank" href="https://github.com/chenzomi12">
-				<img src="https://avatars.githubusercontent.com/u/6355024?s=72&u=5cba82fbf18034407e8d40f6c36a8a0e6fa8804f&v=4" width="24" alt="Avatar of chenzomi12"/> chenzomi12
-			</a><br/>
-			ZOMI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>China</td>
-		<td>1013</td>
 	</tr>
 	<tr>
 		<td>642</td>
@@ -8609,7 +8609,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>997</td>
+		<td>996</td>
 	</tr>
 	<tr>
 		<td>655</td>
@@ -8679,6 +8679,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>660</td>
 		<td>
+			<a target="_blank" href="https://github.com/DingXiaoH">
+				<img src="https://avatars.githubusercontent.com/u/55726946?s=72&u=7abc37bed9c271f44720735c415aa4b12871aca8&v=4" width="24" alt="Avatar of DingXiaoH"/> DingXiaoH
+			</a><br/>
+			Xiaohan Ding
+		</td>
+		<td>Tencent Ai Lab Visual<br/>Computing<br/>Center<br/></td>
+		<td>No Twitter Username</td>
+		<td>Shenzhen China</td>
+		<td>988</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
 			<a target="_blank" href="https://github.com/mashirozx">
 				<img src="https://avatars.githubusercontent.com/u/16148054?s=72&u=f361ee239e4fd808bf52cf9d045792d6f28d11bd&v=4" width="24" alt="Avatar of mashirozx"/> mashirozx
 			</a><br/>
@@ -8690,7 +8703,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>987</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/xmu-xiaoma666">
 				<img src="https://avatars.githubusercontent.com/u/33897496?s=72&u=6c6bec6345dc0c10fe922464eaae6df18f082063&v=4" width="24" alt="Avatar of xmu-xiaoma666"/> xmu-xiaoma666
@@ -8700,19 +8713,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Xiamen University </td>
 		<td>No Twitter Username</td>
 		<td>Xiamen China</td>
-		<td>987</td>
-	</tr>
-	<tr>
-		<td>662</td>
-		<td>
-			<a target="_blank" href="https://github.com/DingXiaoH">
-				<img src="https://avatars.githubusercontent.com/u/55726946?s=72&u=7abc37bed9c271f44720735c415aa4b12871aca8&v=4" width="24" alt="Avatar of DingXiaoH"/> DingXiaoH
-			</a><br/>
-			Xiaohan Ding
-		</td>
-		<td>Tencent Ai Lab Visual<br/>Computing<br/>Center<br/></td>
-		<td>No Twitter Username</td>
-		<td>Shenzhen China</td>
 		<td>987</td>
 	</tr>
 	<tr>
@@ -8830,7 +8830,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Zoom </td>
 		<td>No Twitter Username</td>
 		<td>HangZhou China</td>
-		<td>980</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>672</td>
@@ -9142,7 +9142,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@pureadmin </td>
 		<td>No Twitter Username</td>
 		<td>Xinyang City Henan Province China</td>
-		<td>957</td>
+		<td>958</td>
 	</tr>
 	<tr>
 		<td>696</td>
@@ -9155,10 +9155,23 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>@plctlab @aoscdev </td>
 		<td>No Twitter Username</td>
 		<td>Guangzhou Guangdong China</td>
-		<td>956</td>
+		<td>958</td>
 	</tr>
 	<tr>
 		<td>697</td>
+		<td>
+			<a target="_blank" href="https://github.com/songquanpeng">
+				<img src="https://avatars.githubusercontent.com/u/39998050?s=72&v=4" width="24" alt="Avatar of songquanpeng"/> songquanpeng
+			</a><br/>
+			JustSong
+		</td>
+		<td>South China University Of<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Shanghai China</td>
+		<td>956</td>
+	</tr>
+	<tr>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/abop">
 				<img src="https://avatars.githubusercontent.com/u/2064065?s=72&v=4" width="24" alt="Avatar of abop"/> abop
@@ -9171,7 +9184,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>956</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/ShusenTang">
 				<img src="https://avatars.githubusercontent.com/u/16498688?s=72&v=4" width="24" alt="Avatar of ShusenTang"/> ShusenTang
@@ -9182,19 +9195,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Peking University China</td>
 		<td>955</td>
-	</tr>
-	<tr>
-		<td>699</td>
-		<td>
-			<a target="_blank" href="https://github.com/songquanpeng">
-				<img src="https://avatars.githubusercontent.com/u/39998050?s=72&v=4" width="24" alt="Avatar of songquanpeng"/> songquanpeng
-			</a><br/>
-			JustSong
-		</td>
-		<td>South China University Of<br/>Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Shanghai China</td>
-		<td>954</td>
 	</tr>
 	<tr>
 		<td>700</td>
@@ -9376,7 +9376,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Indie Hacker </td>
 		<td><a target="_blank" href="https://twitter.com/robert_shaw_x">robert_shaw_x</a></td>
 		<td>Dali China</td>
-		<td>937</td>
+		<td>936</td>
 	</tr>
 	<tr>
 		<td>714</td>
@@ -9615,6 +9615,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>732</td>
 		<td>
+			<a target="_blank" href="https://github.com/FranzKafkaYu">
+				<img src="https://avatars.githubusercontent.com/u/38254177?s=72&u=abf42548a14c7eb401801966f023def3f14d57fa&v=4" width="24" alt="Avatar of FranzKafkaYu"/> FranzKafkaYu
+			</a><br/>
+			Yu FranzKafka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>908</td>
+	</tr>
+	<tr>
+		<td>733</td>
+		<td>
 			<a target="_blank" href="https://github.com/huluoyang">
 				<img src="https://avatars.githubusercontent.com/u/1304552?s=72&u=e91d1ba8d81fc2a8f09b466ba78c9b8ba91dfa8d&v=4" width="24" alt="Avatar of huluoyang"/> huluoyang
 			</a><br/>
@@ -9626,7 +9639,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>908</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>734</td>
 		<td>
 			<a target="_blank" href="https://github.com/mzlogin">
 				<img src="https://avatars.githubusercontent.com/u/1646590?s=72&u=e15bbd6268c887569542091cad27d13ea1e26df5&v=4" width="24" alt="Avatar of mzlogin"/> mzlogin
@@ -9637,19 +9650,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Wuhan China</td>
 		<td>907</td>
-	</tr>
-	<tr>
-		<td>734</td>
-		<td>
-			<a target="_blank" href="https://github.com/FranzKafkaYu">
-				<img src="https://avatars.githubusercontent.com/u/38254177?s=72&u=abf42548a14c7eb401801966f023def3f14d57fa&v=4" width="24" alt="Avatar of FranzKafkaYu"/> FranzKafkaYu
-			</a><br/>
-			Yu FranzKafka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>China</td>
-		<td>906</td>
 	</tr>
 	<tr>
 		<td>735</td>
@@ -9784,6 +9784,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>745</td>
 		<td>
+			<a target="_blank" href="https://github.com/owenliang">
+				<img src="https://avatars.githubusercontent.com/u/7803472?s=72&u=b98e5b528351a7579f8ad4c95a71a68eb7caea35&v=4" width="24" alt="Avatar of owenliang"/> owenliang
+			</a><br/>
+			owenliang
+		</td>
+		<td>Wwwbaiducom </td>
+		<td>No Twitter Username</td>
+		<td>china</td>
+		<td>897</td>
+	</tr>
+	<tr>
+		<td>746</td>
+		<td>
 			<a target="_blank" href="https://github.com/laiwei">
 				<img src="https://avatars.githubusercontent.com/u/792850?s=72&u=d5a494a16ea69bf2088c1137df2338ba300da465&v=4" width="24" alt="Avatar of laiwei"/> laiwei
 			</a><br/>
@@ -9795,7 +9808,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>897</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a target="_blank" href="https://github.com/TommyLemon">
 				<img src="https://avatars.githubusercontent.com/u/5738175?s=72&u=5b2f372f0c03fae8f249d2d754e38971c2e17b92&v=4" width="24" alt="Avatar of TommyLemon"/> TommyLemon
@@ -9808,7 +9821,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>895</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a target="_blank" href="https://github.com/GuoYongfeng">
 				<img src="https://avatars.githubusercontent.com/u/8686869?s=72&u=135624328d65f8f5887c758feb68556d9dc83a1c&v=4" width="24" alt="Avatar of GuoYongfeng"/> GuoYongfeng
@@ -9821,7 +9834,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>895</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlexV525">
 				<img src="https://avatars.githubusercontent.com/u/15884415?s=72&u=f4675b407118c2153c98f4348226c57e2bab2bfd&v=4" width="24" alt="Avatar of AlexV525"/> AlexV525
@@ -9832,19 +9845,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/AlexV525">AlexV525</a></td>
 		<td>China Shanghai</td>
 		<td>894</td>
-	</tr>
-	<tr>
-		<td>749</td>
-		<td>
-			<a target="_blank" href="https://github.com/owenliang">
-				<img src="https://avatars.githubusercontent.com/u/7803472?s=72&u=b98e5b528351a7579f8ad4c95a71a68eb7caea35&v=4" width="24" alt="Avatar of owenliang"/> owenliang
-			</a><br/>
-			owenliang
-		</td>
-		<td>Wwwbaiducom </td>
-		<td>No Twitter Username</td>
-		<td>china</td>
-		<td>893</td>
 	</tr>
 	<tr>
 		<td>750</td>
@@ -10195,10 +10195,23 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chongqing China</td>
-		<td>868</td>
+		<td>869</td>
 	</tr>
 	<tr>
 		<td>777</td>
+		<td>
+			<a target="_blank" href="https://github.com/stanzhai">
+				<img src="https://avatars.githubusercontent.com/u/1438757?s=72&u=6e9d191c944bb7a074fcce7bf11be76225dd4e02&v=4" width="24" alt="Avatar of stanzhai"/> stanzhai
+			</a><br/>
+			Stan Zhai
+		</td>
+		<td>Haizhi Holding Inc </td>
+		<td>No Twitter Username</td>
+		<td>Beijing China</td>
+		<td>868</td>
+	</tr>
+	<tr>
+		<td>778</td>
 		<td>
 			<a target="_blank" href="https://github.com/netcan">
 				<img src="https://avatars.githubusercontent.com/u/11377070?s=72&u=a2c15d68fabc306aee2f5bb156dcd9b82aac7278&v=4" width="24" alt="Avatar of netcan"/> netcan
@@ -10211,7 +10224,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>867</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a target="_blank" href="https://github.com/BPI-SINOVOIP">
 				<img src="https://avatars.githubusercontent.com/u/12443020?s=72&u=56df24571f0fecd4a9c3468bb93a5043bbce1141&v=4" width="24" alt="Avatar of BPI-SINOVOIP"/> BPI-SINOVOIP
@@ -10221,19 +10234,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Sinovoip Colimted </td>
 		<td>No Twitter Username</td>
 		<td>ShenzhenChina</td>
-		<td>867</td>
-	</tr>
-	<tr>
-		<td>779</td>
-		<td>
-			<a target="_blank" href="https://github.com/stanzhai">
-				<img src="https://avatars.githubusercontent.com/u/1438757?s=72&u=6e9d191c944bb7a074fcce7bf11be76225dd4e02&v=4" width="24" alt="Avatar of stanzhai"/> stanzhai
-			</a><br/>
-			Stan Zhai
-		</td>
-		<td>Haizhi Holding Inc </td>
-		<td>No Twitter Username</td>
-		<td>Beijing China</td>
 		<td>867</td>
 	</tr>
 	<tr>
@@ -10429,7 +10429,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Httpmarchliugithubio </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>852</td>
+		<td>853</td>
 	</tr>
 	<tr>
 		<td>795</td>
@@ -10585,7 +10585,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Follow  </td>
 		<td><a target="_blank" href="https://twitter.com/wangrongding">wangrongding</a></td>
 		<td>Beijing China</td>
-		<td>841</td>
+		<td>842</td>
 	</tr>
 	<tr>
 		<td>807</td>
@@ -10837,6 +10837,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>826</td>
 		<td>
+			<a target="_blank" href="https://github.com/chyroc">
+				<img src="https://avatars.githubusercontent.com/u/15604894?s=72&u=420ab32f71fa4a6839da653b5a5d97381b087902&v=4" width="24" alt="Avatar of chyroc"/> chyroc
+			</a><br/>
+			chyroc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>820</td>
+	</tr>
+	<tr>
+		<td>827</td>
+		<td>
 			<a target="_blank" href="https://github.com/tianyucoder">
 				<img src="https://avatars.githubusercontent.com/u/18099129?s=72&u=385d7ad951f5d91c4cc0dd6dfe8bbd6b20b6c23a&v=4" width="24" alt="Avatar of tianyucoder"/> tianyucoder
 			</a><br/>
@@ -10848,7 +10861,33 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>820</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>828</td>
+		<td>
+			<a target="_blank" href="https://github.com/hardfist">
+				<img src="https://avatars.githubusercontent.com/u/8898718?s=72&u=ea2bfed7df5b2925cd6668ef5ea2041fbba4b169&v=4" width="24" alt="Avatar of hardfist"/> hardfist
+			</a><br/>
+			hardfist
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/hardfist_1">hardfist_1</a></td>
+		<td>beijing</td>
+		<td>819</td>
+	</tr>
+	<tr>
+		<td>829</td>
+		<td>
+			<a target="_blank" href="https://github.com/slievrly">
+				<img src="https://avatars.githubusercontent.com/u/8758457?s=72&u=720f1354bd5273832ea425d84bac5cfce151e037&v=4" width="24" alt="Avatar of slievrly"/> slievrly
+			</a><br/>
+			jimin
+		</td>
+		<td>@alibaba </td>
+		<td>No Twitter Username</td>
+		<td>Beijing China</td>
+		<td>819</td>
+	</tr>
+	<tr>
+		<td>830</td>
 		<td>
 			<a target="_blank" href="https://github.com/spacewander">
 				<img src="https://avatars.githubusercontent.com/u/4161644?s=72&u=74582fe680edfb51564c621fcb6086a3fe1b49ea&v=4" width="24" alt="Avatar of spacewander"/> spacewander
@@ -10861,20 +10900,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>819</td>
 	</tr>
 	<tr>
-		<td>828</td>
-		<td>
-			<a target="_blank" href="https://github.com/chyroc">
-				<img src="https://avatars.githubusercontent.com/u/15604894?s=72&u=420ab32f71fa4a6839da653b5a5d97381b087902&v=4" width="24" alt="Avatar of chyroc"/> chyroc
-			</a><br/>
-			chyroc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>China</td>
-		<td>819</td>
-	</tr>
-	<tr>
-		<td>829</td>
+		<td>831</td>
 		<td>
 			<a target="_blank" href="https://github.com/watashi">
 				<img src="https://avatars.githubusercontent.com/u/1107121?s=72&v=4" width="24" alt="Avatar of watashi"/> watashi
@@ -10887,7 +10913,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>819</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>832</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesge">
 				<img src="https://avatars.githubusercontent.com/u/6566535?s=72&u=addb0d1fd8117fb5192044fe9b4f6f38852f57d6&v=4" width="24" alt="Avatar of jamesge"/> jamesge
@@ -10900,7 +10926,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>819</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/P4nda0s">
 				<img src="https://avatars.githubusercontent.com/u/9513384?s=72&u=3eaa449db97a200066245ff0dc967a267bce4b25&v=4" width="24" alt="Avatar of P4nda0s"/> P4nda0s
@@ -10911,32 +10937,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chengdu</td>
 		<td>819</td>
-	</tr>
-	<tr>
-		<td>832</td>
-		<td>
-			<a target="_blank" href="https://github.com/hardfist">
-				<img src="https://avatars.githubusercontent.com/u/8898718?s=72&u=ea2bfed7df5b2925cd6668ef5ea2041fbba4b169&v=4" width="24" alt="Avatar of hardfist"/> hardfist
-			</a><br/>
-			hardfist
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/hardfist_1">hardfist_1</a></td>
-		<td>beijing</td>
-		<td>818</td>
-	</tr>
-	<tr>
-		<td>833</td>
-		<td>
-			<a target="_blank" href="https://github.com/slievrly">
-				<img src="https://avatars.githubusercontent.com/u/8758457?s=72&u=720f1354bd5273832ea425d84bac5cfce151e037&v=4" width="24" alt="Avatar of slievrly"/> slievrly
-			</a><br/>
-			jimin
-		</td>
-		<td>@alibaba </td>
-		<td>No Twitter Username</td>
-		<td>Beijing China</td>
-		<td>818</td>
 	</tr>
 	<tr>
 		<td>834</td>
@@ -11149,6 +11149,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>850</td>
 		<td>
+			<a target="_blank" href="https://github.com/the1812">
+				<img src="https://avatars.githubusercontent.com/u/26504152?s=72&u=0360dd7ed7fe68d694ffa0658bba30b101aad7c6&v=4" width="24" alt="Avatar of the1812"/> the1812
+			</a><br/>
+			Grant Howard
+		</td>
+		<td>Hdu </td>
+		<td><a target="_blank" href="https://twitter.com/GrantHowardNw">GrantHowardNw</a></td>
+		<td>Hangzhou China</td>
+		<td>791</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
 			<a target="_blank" href="https://github.com/wuxianlin">
 				<img src="https://avatars.githubusercontent.com/u/5378164?s=72&v=4" width="24" alt="Avatar of wuxianlin"/> wuxianlin
 			</a><br/>
@@ -11158,19 +11171,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>China</td>
 		<td>791</td>
-	</tr>
-	<tr>
-		<td>851</td>
-		<td>
-			<a target="_blank" href="https://github.com/the1812">
-				<img src="https://avatars.githubusercontent.com/u/26504152?s=72&u=0360dd7ed7fe68d694ffa0658bba30b101aad7c6&v=4" width="24" alt="Avatar of the1812"/> the1812
-			</a><br/>
-			Grant Howard
-		</td>
-		<td>Hdu </td>
-		<td><a target="_blank" href="https://twitter.com/GrantHowardNw">GrantHowardNw</a></td>
-		<td>Hangzhou China</td>
-		<td>790</td>
 	</tr>
 	<tr>
 		<td>852</td>
@@ -11461,6 +11461,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>874</td>
 		<td>
+			<a target="_blank" href="https://github.com/TurtleZhong">
+				<img src="https://avatars.githubusercontent.com/u/19700579?s=72&u=6ed0e200eb9f7dd210c598916be0294e6247c32d&v=4" width="24" alt="Avatar of TurtleZhong"/> TurtleZhong
+			</a><br/>
+			Xinliang Zhong
+		</td>
+		<td>Beijing Institute Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hang ZhouChina</td>
+		<td>772</td>
+	</tr>
+	<tr>
+		<td>875</td>
+		<td>
 			<a target="_blank" href="https://github.com/leohxj">
 				<img src="https://avatars.githubusercontent.com/u/1506900?s=72&u=71d958963c99af23ace2807deb88740c536c17ea&v=4" width="24" alt="Avatar of leohxj"/> leohxj
 			</a><br/>
@@ -11472,7 +11485,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>771</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>876</td>
 		<td>
 			<a target="_blank" href="https://github.com/TonyCrane">
 				<img src="https://avatars.githubusercontent.com/u/44120331?s=72&u=fd846e0820e2880970eb1081ea4a47f84a8708db&v=4" width="24" alt="Avatar of TonyCrane"/> TonyCrane
@@ -11485,7 +11498,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>771</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>877</td>
 		<td>
 			<a target="_blank" href="https://github.com/surunzi">
 				<img src="https://avatars.githubusercontent.com/u/3487535?s=72&u=09027d0dcfdecee36d6fd60e997140c39c976267&v=4" width="24" alt="Avatar of surunzi"/> surunzi
@@ -11495,19 +11508,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>Guangzhou China</td>
-		<td>771</td>
-	</tr>
-	<tr>
-		<td>877</td>
-		<td>
-			<a target="_blank" href="https://github.com/TurtleZhong">
-				<img src="https://avatars.githubusercontent.com/u/19700579?s=72&u=6ed0e200eb9f7dd210c598916be0294e6247c32d&v=4" width="24" alt="Avatar of TurtleZhong"/> TurtleZhong
-			</a><br/>
-			Xinliang Zhong
-		</td>
-		<td>Beijing Institute Of Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hang ZhouChina</td>
 		<td>771</td>
 	</tr>
 	<tr>
@@ -11617,6 +11617,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>886</td>
 		<td>
+			<a target="_blank" href="https://github.com/dreampiggy">
+				<img src="https://avatars.githubusercontent.com/u/6919743?s=72&u=67760b0394f46eaf84d414085bb19c40079677c7&v=4" width="24" alt="Avatar of dreampiggy"/> dreampiggy
+			</a><br/>
+			DreamPiggy
+		</td>
+		<td>@bytedance </td>
+		<td><a target="_blank" href="https://twitter.com/DreamingPiggy">DreamingPiggy</a></td>
+		<td>China</td>
+		<td>756</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
 			<a target="_blank" href="https://github.com/Jinxiansen">
 				<img src="https://avatars.githubusercontent.com/u/16829428?s=72&u=2e921b38d75aef8c5a76f89d122c7b8e64b49387&v=4" width="24" alt="Avatar of Jinxiansen"/> Jinxiansen
 			</a><br/>
@@ -11626,19 +11639,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/Jinxiansen">Jinxiansen</a></td>
 		<td>Shanghai</td>
 		<td>756</td>
-	</tr>
-	<tr>
-		<td>887</td>
-		<td>
-			<a target="_blank" href="https://github.com/dreampiggy">
-				<img src="https://avatars.githubusercontent.com/u/6919743?s=72&u=67760b0394f46eaf84d414085bb19c40079677c7&v=4" width="24" alt="Avatar of dreampiggy"/> dreampiggy
-			</a><br/>
-			DreamPiggy
-		</td>
-		<td>@bytedance </td>
-		<td><a target="_blank" href="https://twitter.com/DreamingPiggy">DreamingPiggy</a></td>
-		<td>China</td>
-		<td>755</td>
 	</tr>
 	<tr>
 		<td>888</td>
@@ -11864,19 +11864,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>905</td>
 		<td>
-			<a target="_blank" href="https://github.com/joyqi">
-				<img src="https://avatars.githubusercontent.com/u/59437?s=72&u=005f5fd14203b198831d5e71d67e256fbf46f5db&v=4" width="24" alt="Avatar of joyqi"/> joyqi
-			</a><br/>
-			joyqi
-		</td>
-		<td>Segmentfault </td>
-		<td><a target="_blank" href="https://twitter.com/joyqi">joyqi</a></td>
-		<td>Hangzhou China</td>
-		<td>740</td>
-	</tr>
-	<tr>
-		<td>906</td>
-		<td>
 			<a target="_blank" href="https://github.com/avwo">
 				<img src="https://avatars.githubusercontent.com/u/11450939?s=72&u=b5821d4c587007e073214888ecf799b579351a17&v=4" width="24" alt="Avatar of avwo"/> avwo
 			</a><br/>
@@ -11885,6 +11872,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td> </td>
 		<td>No Twitter Username</td>
 		<td>shenzhen China</td>
+		<td>741</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
+			<a target="_blank" href="https://github.com/joyqi">
+				<img src="https://avatars.githubusercontent.com/u/59437?s=72&u=005f5fd14203b198831d5e71d67e256fbf46f5db&v=4" width="24" alt="Avatar of joyqi"/> joyqi
+			</a><br/>
+			joyqi
+		</td>
+		<td>Segmentfault </td>
+		<td><a target="_blank" href="https://twitter.com/joyqi">joyqi</a></td>
+		<td>Hangzhou China</td>
 		<td>740</td>
 	</tr>
 	<tr>
@@ -11911,7 +11911,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/realTheLSA">realTheLSA</a></td>
 		<td>China</td>
-		<td>737</td>
+		<td>738</td>
 	</tr>
 	<tr>
 		<td>909</td>
@@ -12059,6 +12059,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>920</td>
 		<td>
+			<a target="_blank" href="https://github.com/RealKai42">
+				<img src="https://avatars.githubusercontent.com/u/44634134?s=72&u=b086d3ec3cb1780d59be57bcb097ea469781b891&v=4" width="24" alt="Avatar of RealKai42"/> RealKai42
+			</a><br/>
+			Kai
+		</td>
+		<td>@microsoft  </td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>727</td>
+	</tr>
+	<tr>
+		<td>921</td>
+		<td>
 			<a target="_blank" href="https://github.com/erning">
 				<img src="https://avatars.githubusercontent.com/u/42628?s=72&v=4" width="24" alt="Avatar of erning"/> erning
 			</a><br/>
@@ -12070,7 +12083,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>727</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a target="_blank" href="https://github.com/pandao">
 				<img src="https://avatars.githubusercontent.com/u/2695717?s=72&v=4" width="24" alt="Avatar of pandao"/> pandao
@@ -12081,19 +12094,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Xiamen China</td>
 		<td>727</td>
-	</tr>
-	<tr>
-		<td>922</td>
-		<td>
-			<a target="_blank" href="https://github.com/RealKai42">
-				<img src="https://avatars.githubusercontent.com/u/44634134?s=72&u=b086d3ec3cb1780d59be57bcb097ea469781b891&v=4" width="24" alt="Avatar of RealKai42"/> RealKai42
-			</a><br/>
-			Kai
-		</td>
-		<td>@microsoft  </td>
-		<td>No Twitter Username</td>
-		<td>China</td>
-		<td>726</td>
 	</tr>
 	<tr>
 		<td>923</td>
@@ -12280,6 +12280,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>937</td>
 		<td>
+			<a target="_blank" href="https://github.com/DefTruth">
+				<img src="https://avatars.githubusercontent.com/u/31974251?s=72&u=b7d035be625416512794badb08dedc648983bf3f&v=4" width="24" alt="Avatar of DefTruth"/> DefTruth
+			</a><br/>
+			DefTruth
+		</td>
+		<td>@paddlepaddle </td>
+		<td>No Twitter Username</td>
+		<td>ShenZhen China</td>
+		<td>713</td>
+	</tr>
+	<tr>
+		<td>938</td>
+		<td>
 			<a target="_blank" href="https://github.com/dualface">
 				<img src="https://avatars.githubusercontent.com/u/62318?s=72&u=01bd46f344e3fe5b46f05a8acdca2231c6a20ce4&v=4" width="24" alt="Avatar of dualface"/> dualface
 			</a><br/>
@@ -12289,19 +12302,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>China</td>
 		<td>713</td>
-	</tr>
-	<tr>
-		<td>938</td>
-		<td>
-			<a target="_blank" href="https://github.com/DefTruth">
-				<img src="https://avatars.githubusercontent.com/u/31974251?s=72&u=b7d035be625416512794badb08dedc648983bf3f&v=4" width="24" alt="Avatar of DefTruth"/> DefTruth
-			</a><br/>
-			DefTruth
-		</td>
-		<td>@paddlepaddle </td>
-		<td>No Twitter Username</td>
-		<td>ShenZhen China</td>
-		<td>712</td>
 	</tr>
 	<tr>
 		<td>939</td>
@@ -12423,6 +12423,19 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 	<tr>
 		<td>948</td>
 		<td>
+			<a target="_blank" href="https://github.com/babysor">
+				<img src="https://avatars.githubusercontent.com/u/7423248?s=72&v=4" width="24" alt="Avatar of babysor"/> babysor
+			</a><br/>
+			Vega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Beijing</td>
+		<td>708</td>
+	</tr>
+	<tr>
+		<td>949</td>
+		<td>
 			<a target="_blank" href="https://github.com/xiaohanyu">
 				<img src="https://avatars.githubusercontent.com/u/1164623?s=72&u=7111adfde6bb800fe1ba627e9b35119d2528788d&v=4" width="24" alt="Avatar of xiaohanyu"/> xiaohanyu
 			</a><br/>
@@ -12434,7 +12447,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>707</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>950</td>
 		<td>
 			<a target="_blank" href="https://github.com/rpplusplus">
 				<img src="https://avatars.githubusercontent.com/u/1753142?s=72&u=5e21a292d0d96fa955f6e4e7fa97b341f0665373&v=4" width="24" alt="Avatar of rpplusplus"/> rpplusplus
@@ -12447,7 +12460,7 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>707</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>951</td>
 		<td>
 			<a target="_blank" href="https://github.com/zixun">
 				<img src="https://avatars.githubusercontent.com/u/6824547?s=72&u=b903a694a2ecb5ae06fda99486b5560b694cd16d&v=4" width="24" alt="Avatar of zixun"/> zixun
@@ -12458,19 +12471,6 @@ There are `957 users`  in China. You need at least `704 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>HangzhouZheJiangChina</td>
 		<td>707</td>
-	</tr>
-	<tr>
-		<td>951</td>
-		<td>
-			<a target="_blank" href="https://github.com/babysor">
-				<img src="https://avatars.githubusercontent.com/u/7423248?s=72&v=4" width="24" alt="Avatar of babysor"/> babysor
-			</a><br/>
-			Vega
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Beijing</td>
-		<td>706</td>
 	</tr>
 	<tr>
 		<td>952</td>
