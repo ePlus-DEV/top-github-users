@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Belgium
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" alt="Belgium"/>
 </a>
 
-The `number of followers` of users in Belgium on `2024/4/23 6:53 PM UTC`. This list contains users from Belgium and cities Antwerp Brussels Ghent Bruges Leuven Lige Namur.
+The `number of followers` of users in Belgium on `2024/4/24 12:17 AM UTC`. This list contains users from Belgium and cities Antwerp Brussels Ghent Bruges Leuven Lige Namur.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>@laravel  </td>
 		<td><a target="_blank" href="https://twitter.com/driesvints">driesvints</a></td>
 		<td>Belgium</td>
-		<td>4918</td>
+		<td>4917</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/folke">folke</a></td>
 		<td>Ghent Belgium</td>
-		<td>4910</td>
+		<td>4912</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/anthdm">anthdm</a></td>
 		<td>Belgium</td>
-		<td>3584</td>
+		<td>3587</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -198,7 +198,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>Huggingface </td>
 		<td><a target="_blank" href="https://twitter.com/NielsRogge">NielsRogge</a></td>
 		<td>Belgium</td>
-		<td>2145</td>
+		<td>2146</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -250,7 +250,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>@resembleai  </td>
 		<td><a target="_blank" href="https://twitter.com/CorentinJemine">CorentinJemine</a></td>
 		<td>Belgium</td>
-		<td>1633</td>
+		<td>1634</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -393,7 +393,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgium  United Kingdom</td>
-		<td>1014</td>
+		<td>1015</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -653,7 +653,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/AndrewRadev">AndrewRadev</a></td>
 		<td>Leuven Belgium</td>
-		<td>569</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -996,6 +996,19 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 	<tr>
 		<td>69</td>
 		<td>
+			<a target="_blank" href="https://github.com/CarbonAeronautics">
+				<img src="https://avatars.githubusercontent.com/u/110851620?s=72&u=d7236f6d4b026a28f4f16eea3a0d4ac7b96267dc&v=4" width="24" alt="Avatar of CarbonAeronautics"/> CarbonAeronautics
+			</a><br/>
+			Carbon Aeronautics
+		</td>
+		<td>Carbon Aeronautics </td>
+		<td>No Twitter Username</td>
+		<td>Antwerp Belgium</td>
+		<td>370</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
 			<a target="_blank" href="https://github.com/DeMoorJasper">
 				<img src="https://avatars.githubusercontent.com/u/2175521?s=72&u=26bd0ea50eae546522545c75bd019d3bb83bb7b9&v=4" width="24" alt="Avatar of DeMoorJasper"/> DeMoorJasper
 			</a><br/>
@@ -1005,19 +1018,6 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/JasperDeMoor">JasperDeMoor</a></td>
 		<td>Belgium</td>
 		<td>369</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
-			<a target="_blank" href="https://github.com/CarbonAeronautics">
-				<img src="https://avatars.githubusercontent.com/u/110851620?s=72&u=d7236f6d4b026a28f4f16eea3a0d4ac7b96267dc&v=4" width="24" alt="Avatar of CarbonAeronautics"/> CarbonAeronautics
-			</a><br/>
-			Carbon Aeronautics
-		</td>
-		<td>Carbon Aeronautics </td>
-		<td>No Twitter Username</td>
-		<td>Antwerp Belgium</td>
-		<td>368</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -5988,6 +5988,19 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 	<tr>
 		<td>453</td>
 		<td>
+			<a target="_blank" href="https://github.com/kkostov">
+				<img src="https://avatars.githubusercontent.com/u/4718042?s=72&u=f66fbb3281fd95f06e720f24379a165a2eea55e8&v=4" width="24" alt="Avatar of kkostov"/> kkostov
+			</a><br/>
+			Konstantin
+		</td>
+		<td>Headbright Group </td>
+		<td>No Twitter Username</td>
+		<td>Belgium</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
 			<a target="_blank" href="https://github.com/rdehuyss">
 				<img src="https://avatars.githubusercontent.com/u/567842?s=72&u=0155705a1b98ff222b9907f048c7b4bdb0746e3b&v=4" width="24" alt="Avatar of rdehuyss"/> rdehuyss
 			</a><br/>
@@ -5999,7 +6012,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a target="_blank" href="https://github.com/veloxy">
 				<img src="https://avatars.githubusercontent.com/u/491675?s=72&u=be0d16fb4f0b261c78f4483d9aee639ee578e921&v=4" width="24" alt="Avatar of veloxy"/> veloxy
@@ -6012,7 +6025,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a target="_blank" href="https://github.com/jverdeyen">
 				<img src="https://avatars.githubusercontent.com/u/117409?s=72&u=a2dc6a5722f354ce14577afb554abe1e1b167ba5&v=4" width="24" alt="Avatar of jverdeyen"/> jverdeyen
@@ -6025,7 +6038,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a target="_blank" href="https://github.com/souvikg10">
 				<img src="https://avatars.githubusercontent.com/u/10572261?s=72&u=9271c86cb6f470e1b5c161ab92be23d8ee618b95&v=4" width="24" alt="Avatar of souvikg10"/> souvikg10
@@ -6038,7 +6051,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a target="_blank" href="https://github.com/andyprasetya">
 				<img src="https://avatars.githubusercontent.com/u/765224?s=72&u=3e0cd83b3c48344407f073acc0b505e6a4f5a43b&v=4" width="24" alt="Avatar of andyprasetya"/> andyprasetya
@@ -6051,7 +6064,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a target="_blank" href="https://github.com/veyselalevcan">
 				<img src="https://avatars.githubusercontent.com/u/98468825?s=72&u=74f0518bdcfb192b05c471a54e0ee0341505c20d&v=4" width="24" alt="Avatar of veyselalevcan"/> veyselalevcan
@@ -6064,7 +6077,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a target="_blank" href="https://github.com/zoroarch">
 				<img src="https://avatars.githubusercontent.com/u/87889589?s=72&u=515a82c151529c15f3ac00982c1755f3f7c8c7f4&v=4" width="24" alt="Avatar of zoroarch"/> zoroarch
@@ -6077,7 +6090,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a target="_blank" href="https://github.com/thomasvds">
 				<img src="https://avatars.githubusercontent.com/u/17250698?s=72&u=4bc32c01fe0b1e372d8b49ba11100716f20c6fe3&v=4" width="24" alt="Avatar of thomasvds"/> thomasvds
@@ -6088,19 +6101,6 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Brussels Belgium</td>
 		<td>74</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a target="_blank" href="https://github.com/kkostov">
-				<img src="https://avatars.githubusercontent.com/u/4718042?s=72&u=f66fbb3281fd95f06e720f24379a165a2eea55e8&v=4" width="24" alt="Avatar of kkostov"/> kkostov
-			</a><br/>
-			Konstantin
-		</td>
-		<td>Headbright Group </td>
-		<td>No Twitter Username</td>
-		<td>Belgium</td>
-		<td>73</td>
 	</tr>
 	<tr>
 		<td>462</td>
@@ -6976,19 +6976,6 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 	<tr>
 		<td>529</td>
 		<td>
-			<a target="_blank" href="https://github.com/mabdullahsari">
-				<img src="https://avatars.githubusercontent.com/u/24608797?s=72&u=c59bec420b118b528042b85df4638fc35bf7834e&v=4" width="24" alt="Avatar of mabdullahsari"/> mabdullahsari
-			</a><br/>
-			Muhammed Sari
-		</td>
-		<td>Dive Interactive </td>
-		<td><a target="_blank" href="https://twitter.com/mabdullahsari">mabdullahsari</a></td>
-		<td>Belgium Ghent</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>530</td>
-		<td>
 			<a target="_blank" href="https://github.com/MatthiasBenaets">
 				<img src="https://avatars.githubusercontent.com/u/89214559?s=72&u=d03a410fc7b9ee70317f969e37fcf54c7445a7ce&v=4" width="24" alt="Avatar of MatthiasBenaets"/> MatthiasBenaets
 			</a><br/>
@@ -6997,6 +6984,19 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>Hasselt University </td>
 		<td>No Twitter Username</td>
 		<td>Hasselt Belgium</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>530</td>
+		<td>
+			<a target="_blank" href="https://github.com/mabdullahsari">
+				<img src="https://avatars.githubusercontent.com/u/24608797?s=72&u=c59bec420b118b528042b85df4638fc35bf7834e&v=4" width="24" alt="Avatar of mabdullahsari"/> mabdullahsari
+			</a><br/>
+			Muhammed Sari
+		</td>
+		<td>Dive Interactive </td>
+		<td><a target="_blank" href="https://twitter.com/mabdullahsari">mabdullahsari</a></td>
+		<td>Belgium Ghent</td>
 		<td>64</td>
 	</tr>
 	<tr>
@@ -11539,6 +11539,19 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 	<tr>
 		<td>880</td>
 		<td>
+			<a target="_blank" href="https://github.com/JeroenDM">
+				<img src="https://avatars.githubusercontent.com/u/11537861?s=72&u=4f30ac08e7359013cad5967fb78c3fc859eb19e3&v=4" width="24" alt="Avatar of JeroenDM"/> JeroenDM
+			</a><br/>
+			Jeroen
+		</td>
+		<td>Ku Leuven </td>
+		<td>No Twitter Username</td>
+		<td>Belgium</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
 			<a target="_blank" href="https://github.com/gilles-bertrand">
 				<img src="https://avatars.githubusercontent.com/u/2115187?s=72&u=e8c37a9b6e407c218f21b43a41f922dae088adad&v=4" width="24" alt="Avatar of gilles-bertrand"/> gilles-bertrand
 			</a><br/>
@@ -11550,7 +11563,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a target="_blank" href="https://github.com/jomz">
 				<img src="https://avatars.githubusercontent.com/u/3541?s=72&v=4" width="24" alt="Avatar of jomz"/> jomz
@@ -11563,7 +11576,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a target="_blank" href="https://github.com/nsahloum">
 				<img src="https://avatars.githubusercontent.com/u/7255138?s=72&u=886b77d709d75fb362a400718795551ea112e64a&v=4" width="24" alt="Avatar of nsahloum"/> nsahloum
@@ -11576,7 +11589,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a target="_blank" href="https://github.com/Vincevrp">
 				<img src="https://avatars.githubusercontent.com/u/13933712?s=72&u=a470738534c0d41e22161a07fbbf933de698729a&v=4" width="24" alt="Avatar of Vincevrp"/> Vincevrp
@@ -11589,7 +11602,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a target="_blank" href="https://github.com/ovv">
 				<img src="https://avatars.githubusercontent.com/u/13254829?s=72&u=e52ab8d8db96ddd2bbdab68da377e76b6fcbe2c8&v=4" width="24" alt="Avatar of ovv"/> ovv
@@ -11602,7 +11615,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
 		<td>
 			<a target="_blank" href="https://github.com/RafaelDeJongh">
 				<img src="https://avatars.githubusercontent.com/u/4523615?s=72&v=4" width="24" alt="Avatar of RafaelDeJongh"/> RafaelDeJongh
@@ -11615,7 +11628,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a target="_blank" href="https://github.com/Farris27">
 				<img src="https://avatars.githubusercontent.com/u/13883476?s=72&u=3e486ff1baa4511142f7baacb44003b82443b6d9&v=4" width="24" alt="Avatar of Farris27"/> Farris27
@@ -11628,7 +11641,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>888</td>
 		<td>
 			<a target="_blank" href="https://github.com/thomastuts">
 				<img src="https://avatars.githubusercontent.com/u/1914255?s=72&u=67bb385c07fd47a2c9a744233d61d4cba7bdb994&v=4" width="24" alt="Avatar of thomastuts"/> thomastuts
@@ -11641,7 +11654,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a target="_blank" href="https://github.com/grypyrg">
 				<img src="https://avatars.githubusercontent.com/u/1330700?s=72&u=d7448ac33fb3d617fd8aacc72d6b2ae8219fc581&v=4" width="24" alt="Avatar of grypyrg"/> grypyrg
@@ -11654,7 +11667,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a target="_blank" href="https://github.com/no0be">
 				<img src="https://avatars.githubusercontent.com/u/26097759?s=72&u=ea0f2b2f34635009e1637ae9bbd95cde17e979a1&v=4" width="24" alt="Avatar of no0be"/> no0be
@@ -11667,7 +11680,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>891</td>
 		<td>
 			<a target="_blank" href="https://github.com/fknop">
 				<img src="https://avatars.githubusercontent.com/u/6775689?s=72&u=da27b740d9bee59299d7e9c1c5501dbbe2407fbc&v=4" width="24" alt="Avatar of fknop"/> fknop
@@ -11680,7 +11693,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a target="_blank" href="https://github.com/WDaan">
 				<img src="https://avatars.githubusercontent.com/u/25707052?s=72&u=23317f7035a419bdc370240fb98f4cf875fb9784&v=4" width="24" alt="Avatar of WDaan"/> WDaan
@@ -11693,7 +11706,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a target="_blank" href="https://github.com/yannickdeturck">
 				<img src="https://avatars.githubusercontent.com/u/1644089?s=72&u=3c86037a840fd8e429dc2899c710b4f886a05f1c&v=4" width="24" alt="Avatar of yannickdeturck"/> yannickdeturck
@@ -11706,7 +11719,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
 		<td>
 			<a target="_blank" href="https://github.com/hermansje">
 				<img src="https://avatars.githubusercontent.com/u/3393736?s=72&u=a8e94eff0fc762e0f9b363e39d70641587a7358e&v=4" width="24" alt="Avatar of hermansje"/> hermansje
@@ -11719,7 +11732,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a target="_blank" href="https://github.com/Williambraecky">
 				<img src="https://avatars.githubusercontent.com/u/4508773?s=72&u=31b6693dac5c641fcc13b9d24ea750efd7d2d6c8&v=4" width="24" alt="Avatar of Williambraecky"/> Williambraecky
@@ -11732,7 +11745,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a target="_blank" href="https://github.com/dcoraboeuf">
 				<img src="https://avatars.githubusercontent.com/u/1206964?s=72&u=11a18f67a215fbc43d4d5eb42a1a2c3015e269a3&v=4" width="24" alt="Avatar of dcoraboeuf"/> dcoraboeuf
@@ -11745,7 +11758,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeroenvermeulen">
 				<img src="https://avatars.githubusercontent.com/u/658024?s=72&u=a7583de0b538739a60d5271944a95a13d178d819&v=4" width="24" alt="Avatar of jeroenvermeulen"/> jeroenvermeulen
@@ -11758,7 +11771,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a target="_blank" href="https://github.com/pforret">
 				<img src="https://avatars.githubusercontent.com/u/474312?s=72&u=b58c8fbb9258e85a69909ce4c275f7cea4b27fe8&v=4" width="24" alt="Avatar of pforret"/> pforret
@@ -11771,7 +11784,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>899</td>
 		<td>
 			<a target="_blank" href="https://github.com/cristianvasquez">
 				<img src="https://avatars.githubusercontent.com/u/361916?s=72&u=b78eb1003cc9bf3afab90f6a14cc5eaf14ca76e7&v=4" width="24" alt="Avatar of cristianvasquez"/> cristianvasquez
@@ -11784,7 +11797,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>900</td>
 		<td>
 			<a target="_blank" href="https://github.com/plmercereau">
 				<img src="https://avatars.githubusercontent.com/u/24897252?s=72&u=a1a5ca20d33935b3b3cbabaee13b377ad9ebe4ac&v=4" width="24" alt="Avatar of plmercereau"/> plmercereau
@@ -11797,7 +11810,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlgoQ">
 				<img src="https://avatars.githubusercontent.com/u/42657049?s=72&u=2ead1f1c4b4cb423198b862abb4b288149790d08&v=4" width="24" alt="Avatar of AlgoQ"/> AlgoQ
@@ -11810,7 +11823,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a target="_blank" href="https://github.com/kayleighpilgrim">
 				<img src="https://avatars.githubusercontent.com/u/86235097?s=72&u=344395ec6858b9cf2d0577d98c936844195178fc&v=4" width="24" alt="Avatar of kayleighpilgrim"/> kayleighpilgrim
@@ -11823,7 +11836,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a target="_blank" href="https://github.com/jvdd">
 				<img src="https://avatars.githubusercontent.com/u/18898740?s=72&u=e727229a5ff37724250609ebe94a37da10bbb963&v=4" width="24" alt="Avatar of jvdd"/> jvdd
@@ -11836,7 +11849,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a target="_blank" href="https://github.com/ancailliau">
 				<img src="https://avatars.githubusercontent.com/u/28399?s=72&u=f414048c1babfd0f22aada04b80bbf6e924ca664&v=4" width="24" alt="Avatar of ancailliau"/> ancailliau
@@ -11849,7 +11862,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a target="_blank" href="https://github.com/klaascuvelier">
 				<img src="https://avatars.githubusercontent.com/u/354147?s=72&u=d8843ea0d3851ea2cdd3d0ab9b4a9d20d80eb2c6&v=4" width="24" alt="Avatar of klaascuvelier"/> klaascuvelier
@@ -11862,7 +11875,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a target="_blank" href="https://github.com/kod-man">
 				<img src="https://avatars.githubusercontent.com/u/54946794?s=72&u=4d92148332306a5eb65e46fcb68e2e7718f95f92&v=4" width="24" alt="Avatar of kod-man"/> kod-man
@@ -11875,7 +11888,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a target="_blank" href="https://github.com/Alienxbe">
 				<img src="https://avatars.githubusercontent.com/u/61824558?s=72&u=22fa5a49e161c85ec75ef55dfd07589798cc501f&v=4" width="24" alt="Avatar of Alienxbe"/> Alienxbe
@@ -11888,7 +11901,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a target="_blank" href="https://github.com/timothyverhaeghe">
 				<img src="https://avatars.githubusercontent.com/u/18483013?s=72&u=37c09d9f0e5374778f4a4f83fc6b58eb1237625f&v=4" width="24" alt="Avatar of timothyverhaeghe"/> timothyverhaeghe
@@ -11901,7 +11914,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a target="_blank" href="https://github.com/legovaer">
 				<img src="https://avatars.githubusercontent.com/u/5813212?s=72&u=d193f8f2d70dbbdd6df2d17b4ee5a275459ede4b&v=4" width="24" alt="Avatar of legovaer"/> legovaer
@@ -11914,7 +11927,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a target="_blank" href="https://github.com/curiousTauseef">
 				<img src="https://avatars.githubusercontent.com/u/18098441?s=72&u=8d93e112f1ad869d95ab3b2cd7924b6c5f3db699&v=4" width="24" alt="Avatar of curiousTauseef"/> curiousTauseef
@@ -11927,7 +11940,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a target="_blank" href="https://github.com/ivanvermeyen">
 				<img src="https://avatars.githubusercontent.com/u/3598622?s=72&v=4" width="24" alt="Avatar of ivanvermeyen"/> ivanvermeyen
@@ -11940,7 +11953,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a target="_blank" href="https://github.com/KasperZutterman">
 				<img src="https://avatars.githubusercontent.com/u/21260838?s=72&u=4f7687179a02bec286baebffac6120998488f6ba&v=4" width="24" alt="Avatar of KasperZutterman"/> KasperZutterman
@@ -11953,7 +11966,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a target="_blank" href="https://github.com/frankiezafe">
 				<img src="https://avatars.githubusercontent.com/u/3447074?s=72&v=4" width="24" alt="Avatar of frankiezafe"/> frankiezafe
@@ -11966,7 +11979,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a target="_blank" href="https://github.com/realeroberto">
 				<img src="https://avatars.githubusercontent.com/u/2953487?s=72&u=b2a84a444b4f6275ad3e0fe914bbebe04d1067d3&v=4" width="24" alt="Avatar of realeroberto"/> realeroberto
@@ -11976,19 +11989,6 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>@agid @reale  </td>
 		<td><a target="_blank" href="https://twitter.com/Reale_EU">Reale_EU</a></td>
 		<td>Rome  Brussels</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>914</td>
-		<td>
-			<a target="_blank" href="https://github.com/JeroenDM">
-				<img src="https://avatars.githubusercontent.com/u/11537861?s=72&u=4f30ac08e7359013cad5967fb78c3fc859eb19e3&v=4" width="24" alt="Avatar of JeroenDM"/> JeroenDM
-			</a><br/>
-			Jeroen
-		</td>
-		<td>Ku Leuven </td>
-		<td>No Twitter Username</td>
-		<td>Belgium</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -12462,19 +12462,6 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 	<tr>
 		<td>951</td>
 		<td>
-			<a target="_blank" href="https://github.com/yozhgoor">
-				<img src="https://avatars.githubusercontent.com/u/63659479?s=72&u=044bae16a88296deef6c8b368db2adf11fbcd043&v=4" width="24" alt="Avatar of yozhgoor"/> yozhgoor
-			</a><br/>
-			Yohan Boogaert 
-		</td>
-		<td>Rustminded </td>
-		<td><a target="_blank" href="https://twitter.com/yozhgoor">yozhgoor</a></td>
-		<td>Belgium</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>952</td>
-		<td>
 			<a target="_blank" href="https://github.com/Tibowl">
 				<img src="https://avatars.githubusercontent.com/u/5676386?s=72&u=1220d9793f0ec20c76ad1a08fb639c39ac9ed396&v=4" width="24" alt="Avatar of Tibowl"/> Tibowl
 			</a><br/>
@@ -12486,7 +12473,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>952</td>
 		<td>
 			<a target="_blank" href="https://github.com/robertvandeneynde">
 				<img src="https://avatars.githubusercontent.com/u/7661856?s=72&u=13eb04c73c6ba7632e3342978b32e86fe552f778&v=4" width="24" alt="Avatar of robertvandeneynde"/> robertvandeneynde
@@ -12499,7 +12486,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>953</td>
 		<td>
 			<a target="_blank" href="https://github.com/fvdsn">
 				<img src="https://avatars.githubusercontent.com/u/16931?s=72&u=0c1c82d3266508bc2deb99b7d2b7022d245e78ba&v=4" width="24" alt="Avatar of fvdsn"/> fvdsn
@@ -12512,7 +12499,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>954</td>
 		<td>
 			<a target="_blank" href="https://github.com/Alekuso">
 				<img src="https://avatars.githubusercontent.com/u/48645888?s=72&u=2c608537a616d66e57a3d8644f6d7e32c42ea709&v=4" width="24" alt="Avatar of Alekuso"/> Alekuso
@@ -12525,7 +12512,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a target="_blank" href="https://github.com/rohansachdeva1990">
 				<img src="https://avatars.githubusercontent.com/u/12099120?s=72&u=81dfbdbd3f870682269137cebcf15b2e9c8177df&v=4" width="24" alt="Avatar of rohansachdeva1990"/> rohansachdeva1990
@@ -12538,7 +12525,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a target="_blank" href="https://github.com/anthonyringoet">
 				<img src="https://avatars.githubusercontent.com/u/576905?s=72&u=8fb8b697e09230422c58da5570738306e5668950&v=4" width="24" alt="Avatar of anthonyringoet"/> anthonyringoet
@@ -12551,7 +12538,7 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a target="_blank" href="https://github.com/NicoVermeir">
 				<img src="https://avatars.githubusercontent.com/u/3177418?s=72&u=d099a253e75e4a7ae09589b49467ba16f4af7893&v=4" width="24" alt="Avatar of NicoVermeir"/> NicoVermeir
@@ -12561,6 +12548,19 @@ There are `964 users`  in Belgium. You need at least `39 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/nicovermeir">nicovermeir</a></td>
 		<td>Belgium</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>958</td>
+		<td>
+			<a target="_blank" href="https://github.com/juniset">
+				<img src="https://avatars.githubusercontent.com/u/7093218?s=72&u=9b4711af3ec84e5b902bde34f232705b1f5697db&v=4" width="24" alt="Avatar of juniset"/> juniset
+			</a><br/>
+			Julien Niset
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brussels</td>
 		<td>39</td>
 	</tr>
 	<tr>
