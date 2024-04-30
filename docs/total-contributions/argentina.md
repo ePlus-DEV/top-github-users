@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Argentina on `2024/4/30 9:12 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` and `private contributions` by users in Argentina on `2024/4/30 9:28 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -444,7 +444,7 @@ There are `969 users`  in Argentina. You need at least `44 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/kikeVngz">kikeVngz</a></td>
 		<td>Cordoba Spain</td>
 		<td>186</td>
-		<td>2524</td>
+		<td>2525</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -2647,20 +2647,6 @@ There are `969 users`  in Argentina. You need at least `44 followers` to be on t
 	<tr>
 		<td>182</td>
 		<td>
-			<a target="_blank" href="https://github.com/aloctavodia">
-				<img src="https://avatars.githubusercontent.com/u/1338958?s=72&u=0547da525376ab051a6140ec1210e530a201199a&v=4" width="24" alt="Avatar of aloctavodia"/> aloctavodia
-			</a><br/>
-			Osvaldo A Martin
-		</td>
-		<td>Imaslconicet </td>
-		<td><a target="_blank" href="https://twitter.com/aloctavodia">aloctavodia</a></td>
-		<td>San Luis Argentina</td>
-		<td>821</td>
-		<td>821</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
 			<a target="_blank" href="https://github.com/deepch">
 				<img src="https://avatars.githubusercontent.com/u/7899955?s=72&u=0bfa9ab57c1d01a158760ca82788d60154448a00&v=4" width="24" alt="Avatar of deepch"/> deepch
 			</a><br/>
@@ -2670,6 +2656,20 @@ There are `969 users`  in Argentina. You need at least `44 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Repblica Argentina Buenos Aires</td>
 		<td>29</td>
+		<td>822</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a target="_blank" href="https://github.com/aloctavodia">
+				<img src="https://avatars.githubusercontent.com/u/1338958?s=72&u=0547da525376ab051a6140ec1210e530a201199a&v=4" width="24" alt="Avatar of aloctavodia"/> aloctavodia
+			</a><br/>
+			Osvaldo A Martin
+		</td>
+		<td>Imaslconicet </td>
+		<td><a target="_blank" href="https://twitter.com/aloctavodia">aloctavodia</a></td>
+		<td>San Luis Argentina</td>
+		<td>821</td>
 		<td>821</td>
 	</tr>
 	<tr>
