@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in United Kingdom
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom"/>
 </a>
 
-The `number of followers` of users in United Kingdom on `2024/5/12 6:39 AM UTC`. This list contains users from United Kingdom and cities London Birmingham Edinburgh Manchester Glasgow Liverpool Bristol.
+The `number of followers` of users in United Kingdom on `2024/5/12 12:20 PM UTC`. This list contains users from United Kingdom and cities London Birmingham Edinburgh Manchester Glasgow Liverpool Bristol.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -133,7 +133,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Civo </td>
 		<td><a target="_blank" href="https://twitter.com/kunalstwt">kunalstwt</a></td>
 		<td>London UK</td>
-		<td>27971</td>
+		<td>27975</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,7 +146,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@appbrewery </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>17478</td>
+		<td>17479</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -172,7 +172,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/nickchapsas">nickchapsas</a></td>
 		<td>London UK</td>
-		<td>9971</td>
+		<td>9973</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -211,7 +211,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/alyssaxuu">alyssaxuu</a></td>
 		<td>London UK</td>
-		<td>7916</td>
+		<td>7918</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -263,7 +263,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Charcoal Design </td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>6162</td>
+		<td>6163</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -276,7 +276,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jgthms">jgthms</a></td>
 		<td>London</td>
-		<td>5754</td>
+		<td>5755</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -432,7 +432,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@vercel </td>
 		<td><a target="_blank" href="https://twitter.com/trueadm">trueadm</a></td>
 		<td>London United Kingdom</td>
-		<td>3808</td>
+		<td>3810</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -471,7 +471,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@workbrew </td>
 		<td><a target="_blank" href="https://twitter.com/MikeMcQuaid">MikeMcQuaid</a></td>
 		<td>Edinburgh Scotland</td>
-		<td>3707</td>
+		<td>3708</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -679,7 +679,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Facebook </td>
 		<td><a target="_blank" href="https://twitter.com/lucasratmundo">lucasratmundo</a></td>
 		<td>London UK</td>
-		<td>2739</td>
+		<td>2740</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -731,7 +731,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Trycatchlearn </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>2524</td>
+		<td>2526</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -757,7 +757,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kuizinas">kuizinas</a></td>
 		<td>London</td>
-		<td>2461</td>
+		<td>2462</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -822,7 +822,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>2090</td>
+		<td>2091</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -874,7 +874,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Httpnoboilerplateorg </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>1965</td>
+		<td>1964</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -926,7 +926,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@facebook </td>
 		<td><a target="_blank" href="https://twitter.com/fabiospampinato">fabiospampinato</a></td>
 		<td>London UK</td>
-		<td>1784</td>
+		<td>1785</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -939,7 +939,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Boolean Knot Ltd </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>1760</td>
+		<td>1761</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1095,7 +1095,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/louispilfold">louispilfold</a></td>
 		<td>London UK</td>
-		<td>1583</td>
+		<td>1585</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1108,7 +1108,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@mavenoid  </td>
 		<td><a target="_blank" href="https://twitter.com/ForbesLindesay">ForbesLindesay</a></td>
 		<td>London UK</td>
-		<td>1574</td>
+		<td>1575</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1420,7 +1420,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>1241</td>
+		<td>1242</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -1459,7 +1459,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/kelset">kelset</a></td>
 		<td>London UK</td>
-		<td>1214</td>
+		<td>1215</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1524,7 +1524,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/abreslav">abreslav</a></td>
 		<td>London UK</td>
-		<td>1197</td>
+		<td>1198</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1589,7 +1589,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@atherosai  </td>
 		<td><a target="_blank" href="https://twitter.com/davidm_ml">davidm_ml</a></td>
 		<td>London  Prague</td>
-		<td>1149</td>
+		<td>1150</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1633,19 +1633,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>118</td>
 		<td>
-			<a target="_blank" href="https://github.com/MattIPv4">
-				<img src="https://avatars.githubusercontent.com/u/12371363?s=72&v=4" width="24" alt="Avatar of MattIPv4"/> MattIPv4
-			</a><br/>
-			Matt Cowley
-		</td>
-		<td>@digitalocean @alveusgg @cdnjs </td>
-		<td><a target="_blank" href="https://twitter.com/MattIPv4">MattIPv4</a></td>
-		<td>London United Kingdom</td>
-		<td>1123</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
 			<a target="_blank" href="https://github.com/arkivanov">
 				<img src="https://avatars.githubusercontent.com/u/26204457?s=72&u=f14ad13913edb35e5f24fe07b665e26587b79e7d&v=4" width="24" alt="Avatar of arkivanov"/> arkivanov
 			</a><br/>
@@ -1654,6 +1641,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@google </td>
 		<td><a target="_blank" href="https://twitter.com/arkann1985">arkann1985</a></td>
 		<td>London UK</td>
+		<td>1124</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a target="_blank" href="https://github.com/MattIPv4">
+				<img src="https://avatars.githubusercontent.com/u/12371363?s=72&v=4" width="24" alt="Avatar of MattIPv4"/> MattIPv4
+			</a><br/>
+			Matt Cowley
+		</td>
+		<td>@digitalocean @alveusgg @cdnjs </td>
+		<td><a target="_blank" href="https://twitter.com/MattIPv4">MattIPv4</a></td>
+		<td>London United Kingdom</td>
 		<td>1123</td>
 	</tr>
 	<tr>
@@ -2096,7 +2096,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@laravel @vuejs @reactjs </td>
 		<td><a target="_blank" href="https://twitter.com/azimidev">azimidev</a></td>
 		<td>London UK</td>
-		<td>910</td>
+		<td>911</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2278,7 +2278,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bristol UK</td>
-		<td>837</td>
+		<td>838</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2426,6 +2426,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>179</td>
 		<td>
+			<a target="_blank" href="https://github.com/arfon">
+				<img src="https://avatars.githubusercontent.com/u/4483?s=72&u=c2c4ec025973b5bde22dec346aa8519f4d5bbc89&v=4" width="24" alt="Avatar of arfon"/> arfon
+			</a><br/>
+			Arfon Smith
+		</td>
+		<td>@github </td>
+		<td><a target="_blank" href="https://twitter.com/arfon">arfon</a></td>
+		<td>Edinburgh</td>
+		<td>785</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
 			<a target="_blank" href="https://github.com/LondonAppDev">
 				<img src="https://avatars.githubusercontent.com/u/4703936?s=72&u=2fde67018933d8e1609e3dd7e21760cc0a2e5d8e&v=4" width="24" alt="Avatar of LondonAppDev"/> LondonAppDev
 			</a><br/>
@@ -2435,19 +2448,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Twitter Username</td>
 		<td>London</td>
 		<td>785</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a target="_blank" href="https://github.com/arfon">
-				<img src="https://avatars.githubusercontent.com/u/4483?s=72&u=c2c4ec025973b5bde22dec346aa8519f4d5bbc89&v=4" width="24" alt="Avatar of arfon"/> arfon
-			</a><br/>
-			Arfon Smith
-		</td>
-		<td>@github </td>
-		<td><a target="_blank" href="https://twitter.com/arfon">arfon</a></td>
-		<td>Edinburgh</td>
-		<td>784</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -2863,7 +2863,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Big Business </td>
 		<td><a target="_blank" href="https://twitter.com/predict_addict">predict_addict</a></td>
 		<td>London UK</td>
-		<td>685</td>
+		<td>688</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -2933,19 +2933,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>218</td>
 		<td>
-			<a target="_blank" href="https://github.com/PierfrancescoSoffritti">
-				<img src="https://avatars.githubusercontent.com/u/7457011?s=72&u=edae026a3edf0c7fcdacfbd57eec5bd64b330e67&v=4" width="24" alt="Avatar of PierfrancescoSoffritti"/> PierfrancescoSoffritti
-			</a><br/>
-			Pierfrancesco Soffritti
-		</td>
-		<td>@google </td>
-		<td><a target="_blank" href="https://twitter.com/psoffritti">psoffritti</a></td>
-		<td>London UK</td>
-		<td>676</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
 			<a target="_blank" href="https://github.com/kbuzzard">
 				<img src="https://avatars.githubusercontent.com/u/31867827?s=72&u=116524534d661c5de93d32aaf1866a21edabfc66&v=4" width="24" alt="Avatar of kbuzzard"/> kbuzzard
 			</a><br/>
@@ -2954,6 +2941,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@imperialcollegelond  </td>
 		<td><a target="_blank" href="https://twitter.com/XenaProject">XenaProject</a></td>
 		<td>London</td>
+		<td>677</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a target="_blank" href="https://github.com/PierfrancescoSoffritti">
+				<img src="https://avatars.githubusercontent.com/u/7457011?s=72&u=edae026a3edf0c7fcdacfbd57eec5bd64b330e67&v=4" width="24" alt="Avatar of PierfrancescoSoffritti"/> PierfrancescoSoffritti
+			</a><br/>
+			Pierfrancesco Soffritti
+		</td>
+		<td>@google </td>
+		<td><a target="_blank" href="https://twitter.com/psoffritti">psoffritti</a></td>
+		<td>London UK</td>
 		<td>676</td>
 	</tr>
 	<tr>
@@ -3357,7 +3357,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@indentinc </td>
 		<td><a target="_blank" href="https://twitter.com/nataliemarleny">nataliemarleny</a></td>
 		<td>London</td>
-		<td>623</td>
+		<td>624</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -3375,6 +3375,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>252</td>
 		<td>
+			<a target="_blank" href="https://github.com/akinsho">
+				<img src="https://avatars.githubusercontent.com/u/22454918?s=72&u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4" width="24" alt="Avatar of akinsho"/> akinsho
+			</a><br/>
+			Akin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>London</td>
+		<td>622</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
 			<a target="_blank" href="https://github.com/RobertTLange">
 				<img src="https://avatars.githubusercontent.com/u/20374662?s=72&u=e0698b272bf419d88e4a32bae7d29cf22165e189&v=4" width="24" alt="Avatar of RobertTLange"/> RobertTLange
 			</a><br/>
@@ -3384,19 +3397,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td><a target="_blank" href="https://twitter.com/RobertTLange">RobertTLange</a></td>
 		<td>Tokyo Berlin Barcelona London</td>
 		<td>622</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a target="_blank" href="https://github.com/akinsho">
-				<img src="https://avatars.githubusercontent.com/u/22454918?s=72&u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4" width="24" alt="Avatar of akinsho"/> akinsho
-			</a><br/>
-			Akin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London</td>
-		<td>621</td>
 	</tr>
 	<tr>
 		<td>254</td>
@@ -3474,7 +3474,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@huggingface  </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>608</td>
+		<td>610</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -3687,19 +3687,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>276</td>
 		<td>
-			<a target="_blank" href="https://github.com/moyheen">
-				<img src="https://avatars.githubusercontent.com/u/8110201?s=72&u=ad994c64afe948496ce5ebf0ab0f7f95d543278e&v=4" width="24" alt="Avatar of moyheen"/> moyheen
-			</a><br/>
-			Moyinoluwa Adeyemi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London</td>
-		<td>568</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
 			<a target="_blank" href="https://github.com/tomwilkie">
 				<img src="https://avatars.githubusercontent.com/u/444037?s=72&v=4" width="24" alt="Avatar of tomwilkie"/> tomwilkie
 			</a><br/>
@@ -3707,6 +3694,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		</td>
 		<td>@grafana  </td>
 		<td><a target="_blank" href="https://twitter.com/tom_wilkie">tom_wilkie</a></td>
+		<td>London</td>
+		<td>569</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a target="_blank" href="https://github.com/moyheen">
+				<img src="https://avatars.githubusercontent.com/u/8110201?s=72&u=ad994c64afe948496ce5ebf0ab0f7f95d543278e&v=4" width="24" alt="Avatar of moyheen"/> moyheen
+			</a><br/>
+			Moyinoluwa Adeyemi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>London</td>
 		<td>568</td>
 	</tr>
@@ -3908,19 +3908,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>293</td>
 		<td>
-			<a target="_blank" href="https://github.com/chrismaltby">
-				<img src="https://avatars.githubusercontent.com/u/16776042?s=72&u=f864c54158cf721c0815808fdd39ed117c080def&v=4" width="24" alt="Avatar of chrismaltby"/> chrismaltby
-			</a><br/>
-			Chris Maltby
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London</td>
-		<td>533</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
 			<a target="_blank" href="https://github.com/bitbrain">
 				<img src="https://avatars.githubusercontent.com/u/822035?s=72&u=d7070a745d54e4361c3b5b56856fba4e0194acc3&v=4" width="24" alt="Avatar of bitbrain"/> bitbrain
 			</a><br/>
@@ -3929,6 +3916,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Global </td>
 		<td><a target="_blank" href="https://twitter.com/bitbrain">bitbrain</a></td>
 		<td>London United Kingdom</td>
+		<td>534</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a target="_blank" href="https://github.com/chrismaltby">
+				<img src="https://avatars.githubusercontent.com/u/16776042?s=72&u=f864c54158cf721c0815808fdd39ed117c080def&v=4" width="24" alt="Avatar of chrismaltby"/> chrismaltby
+			</a><br/>
+			Chris Maltby
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>London</td>
 		<td>533</td>
 	</tr>
 	<tr>
@@ -4254,7 +4254,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Clickhouse </td>
 		<td><a target="_blank" href="https://twitter.com/markhneedham">markhneedham</a></td>
 		<td>London United Kingdom</td>
-		<td>496</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>320</td>
@@ -4696,7 +4696,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>461</td>
+		<td>462</td>
 	</tr>
 	<tr>
 		<td>354</td>
@@ -4813,7 +4813,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@vercel </td>
 		<td><a target="_blank" href="https://twitter.com/tomlienard">tomlienard</a></td>
 		<td>London</td>
-		<td>455</td>
+		<td>454</td>
 	</tr>
 	<tr>
 		<td>363</td>
@@ -5026,6 +5026,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>379</td>
 		<td>
+			<a target="_blank" href="https://github.com/chermehdi">
+				<img src="https://avatars.githubusercontent.com/u/17690147?s=72&u=03867d2b11579381d214b7eeab716f0ce904d387&v=4" width="24" alt="Avatar of chermehdi"/> chermehdi
+			</a><br/>
+			Mehdi Cheracher
+		</td>
+		<td>@facebook </td>
+		<td><a target="_blank" href="https://twitter.com/Mehdi_Cheracher">Mehdi_Cheracher</a></td>
+		<td>London</td>
+		<td>430</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
 			<a target="_blank" href="https://github.com/KarenOk">
 				<img src="https://avatars.githubusercontent.com/u/33874484?s=72&u=053dba2e126ca241f6a2f9c30cde5cb7d528f5f6&v=4" width="24" alt="Avatar of KarenOk"/> KarenOk
 			</a><br/>
@@ -5037,7 +5050,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>430</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a target="_blank" href="https://github.com/pavel-odintsov">
 				<img src="https://avatars.githubusercontent.com/u/2744166?s=72&u=539ae131c1cc02f76e8774698d81e6075f725c8e&v=4" width="24" alt="Avatar of pavel-odintsov"/> pavel-odintsov
@@ -5047,19 +5060,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Fastnetmon Ltd </td>
 		<td><a target="_blank" href="https://twitter.com/odintsov_pavel">odintsov_pavel</a></td>
 		<td>UK London</td>
-		<td>429</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a target="_blank" href="https://github.com/chermehdi">
-				<img src="https://avatars.githubusercontent.com/u/17690147?s=72&u=03867d2b11579381d214b7eeab716f0ce904d387&v=4" width="24" alt="Avatar of chermehdi"/> chermehdi
-			</a><br/>
-			Mehdi Cheracher
-		</td>
-		<td>@facebook </td>
-		<td><a target="_blank" href="https://twitter.com/Mehdi_Cheracher">Mehdi_Cheracher</a></td>
-		<td>London</td>
 		<td>429</td>
 	</tr>
 	<tr>
@@ -5104,19 +5104,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>385</td>
 		<td>
-			<a target="_blank" href="https://github.com/dturner">
-				<img src="https://avatars.githubusercontent.com/u/873212?s=72&u=532269cb3b7ef600766755d9e4a3814ac3908444&v=4" width="24" alt="Avatar of dturner"/> dturner
-			</a><br/>
-			Don Turner
-		</td>
-		<td>Google </td>
-		<td><a target="_blank" href="https://twitter.com/donturner">donturner</a></td>
-		<td>London</td>
-		<td>424</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
 			<a target="_blank" href="https://github.com/AlexIoannides">
 				<img src="https://avatars.githubusercontent.com/u/5968486?s=72&u=9b7167682a379245b26608bf4840f3823b1b1be7&v=4" width="24" alt="Avatar of AlexIoannides"/> AlexIoannides
 			</a><br/>
@@ -5128,7 +5115,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>424</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a target="_blank" href="https://github.com/andkulikov">
 				<img src="https://avatars.githubusercontent.com/u/744491?s=72&u=8e9e0dff54e13a4206c2f9f09d710e54c5782dfb&v=4" width="24" alt="Avatar of andkulikov"/> andkulikov
@@ -5139,6 +5126,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Twitter Username</td>
 		<td>London</td>
 		<td>424</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a target="_blank" href="https://github.com/dturner">
+				<img src="https://avatars.githubusercontent.com/u/873212?s=72&u=532269cb3b7ef600766755d9e4a3814ac3908444&v=4" width="24" alt="Avatar of dturner"/> dturner
+			</a><br/>
+			Don Turner
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/donturner">donturner</a></td>
+		<td>London</td>
+		<td>423</td>
 	</tr>
 	<tr>
 		<td>388</td>
@@ -5676,19 +5676,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>429</td>
 		<td>
-			<a target="_blank" href="https://github.com/forthright48">
-				<img src="https://avatars.githubusercontent.com/u/7130525?s=72&u=5135047830c1163f6ff02bf1002dc9f9d7a3dad9&v=4" width="24" alt="Avatar of forthright48"/> forthright48
-			</a><br/>
-			Mohammad Samiul Islam
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>London</td>
-		<td>388</td>
-	</tr>
-	<tr>
-		<td>430</td>
-		<td>
 			<a target="_blank" href="https://github.com/weissi">
 				<img src="https://avatars.githubusercontent.com/u/624238?s=72&v=4" width="24" alt="Avatar of weissi"/> weissi
 			</a><br/>
@@ -5700,7 +5687,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a target="_blank" href="https://github.com/davidADSP">
 				<img src="https://avatars.githubusercontent.com/u/22745344?s=72&v=4" width="24" alt="Avatar of davidADSP"/> davidADSP
@@ -5713,7 +5700,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/danharper">
 				<img src="https://avatars.githubusercontent.com/u/510740?s=72&u=36b24ea21302a2b67204dc12b1a084fb78d34961&v=4" width="24" alt="Avatar of danharper"/> danharper
@@ -5723,6 +5710,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@facebook </td>
 		<td><a target="_blank" href="https://twitter.com/danharper7">danharper7</a></td>
 		<td>London UK</td>
+		<td>387</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a target="_blank" href="https://github.com/forthright48">
+				<img src="https://avatars.githubusercontent.com/u/7130525?s=72&u=5135047830c1163f6ff02bf1002dc9f9d7a3dad9&v=4" width="24" alt="Avatar of forthright48"/> forthright48
+			</a><br/>
+			Mohammad Samiul Islam
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>London</td>
 		<td>387</td>
 	</tr>
 	<tr>
@@ -8263,6 +8263,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>628</td>
 		<td>
+			<a target="_blank" href="https://github.com/aspiers">
+				<img src="https://avatars.githubusercontent.com/u/100738?s=72&v=4" width="24" alt="Avatar of aspiers"/> aspiers
+			</a><br/>
+			Adam Spiers
+		</td>
+		<td>@toucanprotocol </td>
+		<td><a target="_blank" href="https://twitter.com/adamspiers">adamspiers</a></td>
+		<td>London</td>
+		<td>296</td>
+	</tr>
+	<tr>
+		<td>629</td>
+		<td>
 			<a target="_blank" href="https://github.com/ozancaglayan">
 				<img src="https://avatars.githubusercontent.com/u/330946?s=72&u=f40447b98cebcec898e0d9ac8986b7c482aa3d33&v=4" width="24" alt="Avatar of ozancaglayan"/> ozancaglayan
 			</a><br/>
@@ -8272,19 +8285,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Twitter Username</td>
 		<td>London</td>
 		<td>296</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
-			<a target="_blank" href="https://github.com/aspiers">
-				<img src="https://avatars.githubusercontent.com/u/100738?s=72&v=4" width="24" alt="Avatar of aspiers"/> aspiers
-			</a><br/>
-			Adam Spiers
-		</td>
-		<td>@toucanprotocol </td>
-		<td><a target="_blank" href="https://twitter.com/adamspiers">adamspiers</a></td>
-		<td>London</td>
-		<td>295</td>
 	</tr>
 	<tr>
 		<td>630</td>
@@ -9979,6 +9979,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>760</td>
 		<td>
+			<a target="_blank" href="https://github.com/jbarrasa">
+				<img src="https://avatars.githubusercontent.com/u/9989143?s=72&v=4" width="24" alt="Avatar of jbarrasa"/> jbarrasa
+			</a><br/>
+			J Barrasa
+		</td>
+		<td>Neo4j </td>
+		<td>No Twitter Username</td>
+		<td>London UK</td>
+		<td>254</td>
+	</tr>
+	<tr>
+		<td>761</td>
+		<td>
 			<a target="_blank" href="https://github.com/dasilvacontin">
 				<img src="https://avatars.githubusercontent.com/u/1260830?s=72&u=103f58f68c4c609a40451f881e86c8a594bb9f1f&v=4" width="24" alt="Avatar of dasilvacontin"/> dasilvacontin
 			</a><br/>
@@ -9990,7 +10003,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>254</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a target="_blank" href="https://github.com/daviddrysdale">
 				<img src="https://avatars.githubusercontent.com/u/457208?s=72&v=4" width="24" alt="Avatar of daviddrysdale"/> daviddrysdale
@@ -10003,7 +10016,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>253</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a target="_blank" href="https://github.com/Chengcheng-Xiao">
 				<img src="https://avatars.githubusercontent.com/u/24631005?s=72&u=97d6c3a4f9eaeb0bf9c04f96691aee1f7d0b1992&v=4" width="24" alt="Avatar of Chengcheng-Xiao"/> Chengcheng-Xiao
@@ -10013,19 +10026,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Imperial College London </td>
 		<td><a target="_blank" href="https://twitter.com/iconxicon">iconxicon</a></td>
 		<td>London United Kingdom</td>
-		<td>253</td>
-	</tr>
-	<tr>
-		<td>763</td>
-		<td>
-			<a target="_blank" href="https://github.com/jbarrasa">
-				<img src="https://avatars.githubusercontent.com/u/9989143?s=72&v=4" width="24" alt="Avatar of jbarrasa"/> jbarrasa
-			</a><br/>
-			J Barrasa
-		</td>
-		<td>Neo4j </td>
-		<td>No Twitter Username</td>
-		<td>London UK</td>
 		<td>253</td>
 	</tr>
 	<tr>
@@ -10382,6 +10382,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>791</td>
 		<td>
+			<a target="_blank" href="https://github.com/yeeking">
+				<img src="https://avatars.githubusercontent.com/u/26504?s=72&u=14cfae30703595c94cf8b83d7fe9c44db7891f7e&v=4" width="24" alt="Avatar of yeeking"/> yeeking
+			</a><br/>
+			Matthew YeeKing
+		</td>
+		<td>Goldsmiths University Of London<br/></td>
+		<td>No Twitter Username</td>
+		<td>London UK</td>
+		<td>247</td>
+	</tr>
+	<tr>
+		<td>792</td>
+		<td>
 			<a target="_blank" href="https://github.com/felixangell">
 				<img src="https://avatars.githubusercontent.com/u/6254332?s=72&u=1ddfe6028db47dd23e18452b75eb75a516aa76fd&v=4" width="24" alt="Avatar of felixangell"/> felixangell
 			</a><br/>
@@ -10391,19 +10404,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Twitter Username</td>
 		<td>London United Kingdom</td>
 		<td>247</td>
-	</tr>
-	<tr>
-		<td>792</td>
-		<td>
-			<a target="_blank" href="https://github.com/yeeking">
-				<img src="https://avatars.githubusercontent.com/u/26504?s=72&u=14cfae30703595c94cf8b83d7fe9c44db7891f7e&v=4" width="24" alt="Avatar of yeeking"/> yeeking
-			</a><br/>
-			Matthew YeeKing
-		</td>
-		<td>Goldsmiths University Of London<br/></td>
-		<td>No Twitter Username</td>
-		<td>London UK</td>
-		<td>246</td>
 	</tr>
 	<tr>
 		<td>793</td>
@@ -10681,6 +10681,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>814</td>
 		<td>
+			<a target="_blank" href="https://github.com/witchfindertr">
+				<img src="https://avatars.githubusercontent.com/u/12663252?s=72&v=4" width="24" alt="Avatar of witchfindertr"/> witchfindertr
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>london</td>
+		<td>239</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
 			<a target="_blank" href="https://github.com/mahemoff">
 				<img src="https://avatars.githubusercontent.com/u/55860?s=72&v=4" width="24" alt="Avatar of mahemoff"/> mahemoff
 			</a><br/>
@@ -10692,7 +10705,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/davemorrissey">
 				<img src="https://avatars.githubusercontent.com/u/1893039?s=72&v=4" width="24" alt="Avatar of davemorrissey"/> davemorrissey
@@ -10705,7 +10718,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>817</td>
 		<td>
 			<a target="_blank" href="https://github.com/drsimonj">
 				<img src="https://avatars.githubusercontent.com/u/11235783?s=72&u=456424936e650db6205496be62ba4b15f95f2b73&v=4" width="24" alt="Avatar of drsimonj"/> drsimonj
@@ -10718,7 +10731,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>818</td>
 		<td>
 			<a target="_blank" href="https://github.com/rowanmanning">
 				<img src="https://avatars.githubusercontent.com/u/138944?s=72&u=8d44d5e172b40e83665c95befb1901896a2f19e0&v=4" width="24" alt="Avatar of rowanmanning"/> rowanmanning
@@ -10731,7 +10744,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a target="_blank" href="https://github.com/igorcanadi">
 				<img src="https://avatars.githubusercontent.com/u/1091023?s=72&u=c952bb88511fdb0a8407226fd95c453114ea7a30&v=4" width="24" alt="Avatar of igorcanadi"/> igorcanadi
@@ -10744,7 +10757,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
 		<td>
 			<a target="_blank" href="https://github.com/antonioru">
 				<img src="https://avatars.githubusercontent.com/u/6342784?s=72&v=4" width="24" alt="Avatar of antonioru"/> antonioru
@@ -10757,7 +10770,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/solarrust">
 				<img src="https://avatars.githubusercontent.com/u/13676514?s=72&u=2b091b11cc73eda38a91aa7706df0353ac2debde&v=4" width="24" alt="Avatar of solarrust"/> solarrust
@@ -10770,7 +10783,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>822</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomtaylor">
 				<img src="https://avatars.githubusercontent.com/u/565?s=72&u=d701ecd45db8f95376ec5eef7cda9ea380bb5d33&v=4" width="24" alt="Avatar of tomtaylor"/> tomtaylor
@@ -10780,19 +10793,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>@breakroom  </td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>822</td>
-		<td>
-			<a target="_blank" href="https://github.com/witchfindertr">
-				<img src="https://avatars.githubusercontent.com/u/12663252?s=72&v=4" width="24" alt="Avatar of witchfindertr"/> witchfindertr
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>london</td>
 		<td>238</td>
 	</tr>
 	<tr>
@@ -11149,6 +11149,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>850</td>
 		<td>
+			<a target="_blank" href="https://github.com/LionZXY">
+				<img src="https://avatars.githubusercontent.com/u/5871715?s=72&u=755642fad1fa7b8f09f73f988784d5866fe6dc42&v=4" width="24" alt="Avatar of LionZXY"/> LionZXY
+			</a><br/>
+			Nikita Kulikov
+		</td>
+		<td>@flipperdevices </td>
+		<td>No Twitter Username</td>
+		<td>London UK</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
 			<a target="_blank" href="https://github.com/Miffyli">
 				<img src="https://avatars.githubusercontent.com/u/1633800?s=72&u=f56774a9c670aad818724fde9c9ffd6305aa93c6&v=4" width="24" alt="Avatar of Miffyli"/> Miffyli
 			</a><br/>
@@ -11160,7 +11173,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>852</td>
 		<td>
 			<a target="_blank" href="https://github.com/jondjones">
 				<img src="https://avatars.githubusercontent.com/u/2204053?s=72&u=54d33b2c702742d9c3a98c4839497cd9ce536ece&v=4" width="24" alt="Avatar of jondjones"/> jondjones
@@ -11173,7 +11186,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>853</td>
 		<td>
 			<a target="_blank" href="https://github.com/ZahraBayatgh">
 				<img src="https://avatars.githubusercontent.com/u/58395585?s=72&u=19c06eb96e18aafd7cead1733611b3e53c792d66&v=4" width="24" alt="Avatar of ZahraBayatgh"/> ZahraBayatgh
@@ -11186,7 +11199,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>854</td>
 		<td>
 			<a target="_blank" href="https://github.com/leifos">
 				<img src="https://avatars.githubusercontent.com/u/1914375?s=72&u=4614bebc2c61f48a00f4026e0027ec4a8a85b07c&v=4" width="24" alt="Avatar of leifos"/> leifos
@@ -11199,20 +11212,20 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>855</td>
 		<td>
-			<a target="_blank" href="https://github.com/LionZXY">
-				<img src="https://avatars.githubusercontent.com/u/5871715?s=72&u=755642fad1fa7b8f09f73f988784d5866fe6dc42&v=4" width="24" alt="Avatar of LionZXY"/> LionZXY
+			<a target="_blank" href="https://github.com/aniawsz">
+				<img src="https://avatars.githubusercontent.com/u/2896004?s=72&u=b9eec8e0b60cf2f360d8e2f0fe685267c4cfa171&v=4" width="24" alt="Avatar of aniawsz"/> aniawsz
 			</a><br/>
-			Nikita Kulikov
+			Anna Wsz
 		</td>
-		<td>@flipperdevices </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London UK</td>
-		<td>230</td>
+		<td>231</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>856</td>
 		<td>
 			<a target="_blank" href="https://github.com/kbariotis">
 				<img src="https://avatars.githubusercontent.com/u/605742?s=72&u=9fd573bfd89de964229d139284c29030c093fa2a&v=4" width="24" alt="Avatar of kbariotis"/> kbariotis
@@ -11225,7 +11238,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>857</td>
 		<td>
 			<a target="_blank" href="https://github.com/TrvsF">
 				<img src="https://avatars.githubusercontent.com/u/51509797?s=72&u=f5aa45c93bb684195d8f22234fb3bec2993de02f&v=4" width="24" alt="Avatar of TrvsF"/> TrvsF
@@ -11238,7 +11251,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>858</td>
 		<td>
 			<a target="_blank" href="https://github.com/ozan-oktay">
 				<img src="https://avatars.githubusercontent.com/u/10244985?s=72&u=1f011265c1997662cd4bad7fec6c0817603f5975&v=4" width="24" alt="Avatar of ozan-oktay"/> ozan-oktay
@@ -11251,7 +11264,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>859</td>
 		<td>
 			<a target="_blank" href="https://github.com/williamjiamin">
 				<img src="https://avatars.githubusercontent.com/u/33894470?s=72&v=4" width="24" alt="Avatar of williamjiamin"/> williamjiamin
@@ -11261,19 +11274,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>859</td>
-		<td>
-			<a target="_blank" href="https://github.com/aniawsz">
-				<img src="https://avatars.githubusercontent.com/u/2896004?s=72&u=b9eec8e0b60cf2f360d8e2f0fe685267c4cfa171&v=4" width="24" alt="Avatar of aniawsz"/> aniawsz
-			</a><br/>
-			Anna Wsz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London UK</td>
 		<td>230</td>
 	</tr>
 	<tr>
@@ -12020,6 +12020,19 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 	<tr>
 		<td>917</td>
 		<td>
+			<a target="_blank" href="https://github.com/ebassi">
+				<img src="https://avatars.githubusercontent.com/u/1665?s=72&u=707b3a4743ccd4957970bbb384dc23fb61a21646&v=4" width="24" alt="Avatar of ebassi"/> ebassi
+			</a><br/>
+			Emmanuele Bassi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>London UK</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>918</td>
+		<td>
 			<a target="_blank" href="https://github.com/skanti">
 				<img src="https://avatars.githubusercontent.com/u/11197940?s=72&u=86832c5d533a17e0ce7c915ab817c37172782f38&v=4" width="24" alt="Avatar of skanti"/> skanti
 			</a><br/>
@@ -12031,7 +12044,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a target="_blank" href="https://github.com/graphicbeacon">
 				<img src="https://avatars.githubusercontent.com/u/2960965?s=72&u=b9af60af846ff27aad01e753a6682d3abc78bbd3&v=4" width="24" alt="Avatar of graphicbeacon"/> graphicbeacon
@@ -12044,7 +12057,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomgco">
 				<img src="https://avatars.githubusercontent.com/u/524382?s=72&u=081b46d5c590db7542af1428a3ca80c34ba7d7e3&v=4" width="24" alt="Avatar of tomgco"/> tomgco
@@ -12057,7 +12070,7 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a target="_blank" href="https://github.com/besarthoxhaj">
 				<img src="https://avatars.githubusercontent.com/u/7887496?s=72&u=039f4bab2df0573c2a4d567cefbe8de96032bef8&v=4" width="24" alt="Avatar of besarthoxhaj"/> besarthoxhaj
@@ -12067,19 +12080,6 @@ There are `957 users`  in United Kingdom. You need at least `207 followers` to b
 		<td>Ai @ Mlx </td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>213</td>
-	</tr>
-	<tr>
-		<td>921</td>
-		<td>
-			<a target="_blank" href="https://github.com/ebassi">
-				<img src="https://avatars.githubusercontent.com/u/1665?s=72&u=707b3a4743ccd4957970bbb384dc23fb61a21646&v=4" width="24" alt="Avatar of ebassi"/> ebassi
-			</a><br/>
-			Emmanuele Bassi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London UK</td>
 		<td>213</td>
 	</tr>
 	<tr>
