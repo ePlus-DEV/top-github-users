@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in China
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China"/>
 </a>
 
-The `public contributions` by users in China on `2024/5/16 11:11 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
+The `public contributions` by users in China on `2024/5/16 11:28 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -159,7 +159,7 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xian China</td>
-		<td>38331</td>
+		<td>38333</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -3297,19 +3297,6 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 	<tr>
 		<td>246</td>
 		<td>
-			<a target="_blank" href="https://github.com/yanhaijing">
-				<img src="https://avatars.githubusercontent.com/u/3192087?s=72&v=4" width="24" alt="Avatar of yanhaijing"/> yanhaijing
-			</a><br/>
-			
-		</td>
-		<td>Httpsgithubcomjsmini </td>
-		<td><a target="_blank" href="https://twitter.com/yanhaijing">yanhaijing</a></td>
-		<td>BeijingChina</td>
-		<td>282</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
 			<a target="_blank" href="https://github.com/airyland">
 				<img src="https://avatars.githubusercontent.com/u/559179?s=72&u=476048642dbc5e4c8d0e60d7bb20a03b41340a69&v=4" width="24" alt="Avatar of airyland"/> airyland
 			</a><br/>
@@ -3318,6 +3305,19 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 		<td>Ainativelab </td>
 		<td><a target="_blank" href="https://twitter.com/iamairyland">iamairyland</a></td>
 		<td>China</td>
+		<td>283</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a target="_blank" href="https://github.com/yanhaijing">
+				<img src="https://avatars.githubusercontent.com/u/3192087?s=72&v=4" width="24" alt="Avatar of yanhaijing"/> yanhaijing
+			</a><br/>
+			
+		</td>
+		<td>Httpsgithubcomjsmini </td>
+		<td><a target="_blank" href="https://twitter.com/yanhaijing">yanhaijing</a></td>
+		<td>BeijingChina</td>
 		<td>282</td>
 	</tr>
 	<tr>

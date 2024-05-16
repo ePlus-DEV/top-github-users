@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in China
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China"/>
 </a>
 
-The `number of followers` of users in China on `2024/5/16 11:11 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
+The `number of followers` of users in China on `2024/5/16 11:28 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -1732,7 +1732,7 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/lencx_">lencx_</a></td>
 		<td>Shanghai China</td>
-		<td>4039</td>
+		<td>4040</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -2577,7 +2577,7 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>2945</td>
+		<td>2946</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -7457,19 +7457,6 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 	<tr>
 		<td>566</td>
 		<td>
-			<a target="_blank" href="https://github.com/DianQK">
-				<img src="https://avatars.githubusercontent.com/u/10829914?s=72&u=d8938b684b8ecb6d1b248909e716eab9c76b4e94&v=4" width="24" alt="Avatar of DianQK"/> DianQK
-			</a><br/>
-			DianQK
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/quentin_dian">quentin_dian</a></td>
-		<td>Beijing China</td>
-		<td>1151</td>
-	</tr>
-	<tr>
-		<td>567</td>
-		<td>
 			<a target="_blank" href="https://github.com/Dr-TSNG">
 				<img src="https://avatars.githubusercontent.com/u/52071314?s=72&u=8b7c7c95d34a0b03e60ff352d739c95e64061e08&v=4" width="24" alt="Avatar of Dr-TSNG"/> Dr-TSNG
 			</a><br/>
@@ -7478,6 +7465,19 @@ There are `957 users`  in China. You need at least `707 followers` to be on this
 		<td>Harbin Institute Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>China</td>
+		<td>1152</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a target="_blank" href="https://github.com/DianQK">
+				<img src="https://avatars.githubusercontent.com/u/10829914?s=72&u=d8938b684b8ecb6d1b248909e716eab9c76b4e94&v=4" width="24" alt="Avatar of DianQK"/> DianQK
+			</a><br/>
+			DianQK
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/quentin_dian">quentin_dian</a></td>
+		<td>Beijing China</td>
 		<td>1151</td>
 	</tr>
 	<tr>
