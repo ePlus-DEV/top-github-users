@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Poland
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Poland on `2024/5/16 7:37 AM UTC`. This list contains users from Poland and cities Warsaw Krakw d Wrocaw Pozna Gdansk Szczecin Bydgoszcz.
+The `public contributions` and `private contributions` by users in Poland on `2024/5/16 1:26 PM UTC`. This list contains users from Poland and cities Warsaw Krakw d Wrocaw Pozna Gdansk Szczecin Bydgoszcz.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -122,7 +122,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>32</td>
-		<td>40631</td>
+		<td>40633</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -135,8 +135,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@projg2 </td>
 		<td>No Twitter Username</td>
 		<td>Greater Poland PL</td>
-		<td>34875</td>
-		<td>34875</td>
+		<td>34879</td>
+		<td>34879</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -150,7 +150,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>35</td>
-		<td>11890</td>
+		<td>11893</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -164,7 +164,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/wojtekmaj91">wojtekmaj91</a></td>
 		<td>Krakw Poland</td>
 		<td>4166</td>
-		<td>10570</td>
+		<td>10591</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -191,8 +191,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@starburstdata  </td>
 		<td><a target="_blank" href="https://twitter.com/findepi">findepi</a></td>
 		<td>Poland</td>
-		<td>2435</td>
-		<td>7878</td>
+		<td>2443</td>
+		<td>7892</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -206,7 +206,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>1325</td>
-		<td>7632</td>
+		<td>7645</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -234,7 +234,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/vladholubiev">vladholubiev</a></td>
 		<td>Wrocaw Poland</td>
 		<td>325</td>
-		<td>6637</td>
+		<td>6639</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -261,8 +261,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@trinodb @starburstdata </td>
 		<td><a target="_blank" href="https://twitter.com/wendigo">wendigo</a></td>
 		<td>Poland</td>
-		<td>2543</td>
-		<td>5937</td>
+		<td>2554</td>
+		<td>5951</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -276,7 +276,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>17</td>
-		<td>5770</td>
+		<td>5790</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -317,8 +317,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>4245</td>
-		<td>4415</td>
+		<td>4249</td>
+		<td>4419</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -331,8 +331,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@cncf @linuxfoundation @kubernetes </td>
 		<td><a target="_blank" href="https://twitter.com/LukaszGryglicki">LukaszGryglicki</a></td>
 		<td>Misk Mazowiecki Poland</td>
-		<td>2287</td>
-		<td>4305</td>
+		<td>2290</td>
+		<td>4309</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -345,8 +345,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@denoland </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw PL</td>
-		<td>3959</td>
-		<td>4241</td>
+		<td>3961</td>
+		<td>4243</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -359,8 +359,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@dashbitco  </td>
 		<td><a target="_blank" href="https://twitter.com/josevalim">josevalim</a></td>
 		<td>Krakw Poland</td>
-		<td>4056</td>
-		<td>4056</td>
+		<td>4062</td>
+		<td>4062</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -374,7 +374,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jpudysz">jpudysz</a></td>
 		<td>Poland Rzeszow</td>
 		<td>685</td>
-		<td>4014</td>
+		<td>4015</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -402,7 +402,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gliwice Poland</td>
 		<td>0</td>
-		<td>3488</td>
+		<td>3502</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -415,8 +415,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@virtuslab </td>
 		<td><a target="_blank" href="https://twitter.com/TomekGodzik">TomekGodzik</a></td>
 		<td>Krakow Poland</td>
-		<td>3445</td>
-		<td>3462</td>
+		<td>3458</td>
+		<td>3475</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -430,7 +430,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/DariuszGafka">DariuszGafka</a></td>
 		<td>Poland</td>
 		<td>1947</td>
-		<td>3357</td>
+		<td>3365</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -472,7 +472,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>34</td>
-		<td>3153</td>
+		<td>3169</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -513,8 +513,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@expo </td>
 		<td><a target="_blank" href="https://twitter.com/simek">simek</a></td>
 		<td>Gdask Poland</td>
-		<td>1446</td>
-		<td>3016</td>
+		<td>1447</td>
+		<td>3018</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -542,7 +542,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>337</td>
-		<td>2984</td>
+		<td>2986</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -556,7 +556,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>RzeszwKrakw</td>
 		<td>2399</td>
-		<td>2935</td>
+		<td>2936</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -570,7 +570,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>145</td>
-		<td>2913</td>
+		<td>2916</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -584,7 +584,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/moczul">moczul</a></td>
 		<td>Pozna Poland</td>
 		<td>1</td>
-		<td>2840</td>
+		<td>2865</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -611,8 +611,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Splunk </td>
 		<td>No Twitter Username</td>
 		<td>Poland Cracow</td>
-		<td>2769</td>
-		<td>2802</td>
+		<td>2778</td>
+		<td>2811</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -639,8 +639,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Mindventures @unleash </td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>1976</td>
-		<td>2718</td>
+		<td>1982</td>
+		<td>2730</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -653,53 +653,11 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/thetarnav">thetarnav</a></td>
 		<td>Wrocaw Poland</td>
-		<td>2483</td>
-		<td>2707</td>
+		<td>2488</td>
+		<td>2712</td>
 	</tr>
 	<tr>
 		<td>40</td>
-		<td>
-			<a target="_blank" href="https://github.com/tlakomy">
-				<img src="https://avatars.githubusercontent.com/u/16646517?s=72&u=ab62d97532c45a219fa5ac26ec529c1159b0bbc4&v=4" width="24" alt="Avatar of tlakomy"/> tlakomy
-			</a><br/>
-			Tomasz akomy
-		</td>
-		<td>Cloudash </td>
-		<td><a target="_blank" href="https://twitter.com/tlakomy">tlakomy</a></td>
-		<td>Pozna Poland</td>
-		<td>127</td>
-		<td>2701</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a target="_blank" href="https://github.com/damianlegawiec">
-				<img src="https://avatars.githubusercontent.com/u/55154?s=72&u=3ed4482def17090d2e6c51e4259328382a552479&v=4" width="24" alt="Avatar of damianlegawiec"/> damianlegawiec
-			</a><br/>
-			Damian Legawiec
-		</td>
-		<td>@vendodev @spree Lead Developer<br/></td>
-		<td><a target="_blank" href="https://twitter.com/damianlegawiec">damianlegawiec</a></td>
-		<td>Warsaw Poland</td>
-		<td>191</td>
-		<td>2687</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a target="_blank" href="https://github.com/nekiro">
-				<img src="https://avatars.githubusercontent.com/u/14142246?s=72&u=6549607486befb686a77049bf413e24d2e89c5b8&v=4" width="24" alt="Avatar of nekiro"/> nekiro
-			</a><br/>
-			Marcin Jaocha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>83</td>
-		<td>2655</td>
-	</tr>
-	<tr>
-		<td>43</td>
 		<td>
 			<a target="_blank" href="https://github.com/yankouskia">
 				<img src="https://avatars.githubusercontent.com/u/10101073?s=72&u=c7a039ca0df58b26ccad9f64cd6771c5d515ec71&v=4" width="24" alt="Avatar of yankouskia"/> yankouskia
@@ -710,7 +668,49 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warszawa Poland</td>
 		<td>1</td>
-		<td>2655</td>
+		<td>2708</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a target="_blank" href="https://github.com/tlakomy">
+				<img src="https://avatars.githubusercontent.com/u/16646517?s=72&u=ab62d97532c45a219fa5ac26ec529c1159b0bbc4&v=4" width="24" alt="Avatar of tlakomy"/> tlakomy
+			</a><br/>
+			Tomasz akomy
+		</td>
+		<td>Cloudash </td>
+		<td><a target="_blank" href="https://twitter.com/tlakomy">tlakomy</a></td>
+		<td>Pozna Poland</td>
+		<td>127</td>
+		<td>2706</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a target="_blank" href="https://github.com/damianlegawiec">
+				<img src="https://avatars.githubusercontent.com/u/55154?s=72&u=3ed4482def17090d2e6c51e4259328382a552479&v=4" width="24" alt="Avatar of damianlegawiec"/> damianlegawiec
+			</a><br/>
+			Damian Legawiec
+		</td>
+		<td>@vendodev @spree Lead Developer<br/></td>
+		<td><a target="_blank" href="https://twitter.com/damianlegawiec">damianlegawiec</a></td>
+		<td>Warsaw Poland</td>
+		<td>194</td>
+		<td>2691</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a target="_blank" href="https://github.com/nekiro">
+				<img src="https://avatars.githubusercontent.com/u/14142246?s=72&u=6549607486befb686a77049bf413e24d2e89c5b8&v=4" width="24" alt="Avatar of nekiro"/> nekiro
+			</a><br/>
+			Marcin Jaocha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>85</td>
+		<td>2657</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -751,8 +751,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/wfigat">wfigat</a></td>
 		<td>Poland</td>
-		<td>2608</td>
-		<td>2608</td>
+		<td>2614</td>
+		<td>2614</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -765,8 +765,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@prestashop </td>
 		<td><a target="_blank" href="https://twitter.com/podemski">podemski</a></td>
 		<td>Bydgoszcz Poland</td>
-		<td>1554</td>
-		<td>2576</td>
+		<td>1555</td>
+		<td>2587</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -779,8 +779,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Software Mansion </td>
 		<td>No Twitter Username</td>
 		<td>Krakw</td>
-		<td>2246</td>
-		<td>2568</td>
+		<td>2247</td>
+		<td>2569</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -794,7 +794,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Pozna</td>
 		<td>0</td>
-		<td>2544</td>
+		<td>2548</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -807,8 +807,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@ziglang  </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>2528</td>
-		<td>2533</td>
+		<td>2529</td>
+		<td>2534</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -892,7 +892,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/karol_wrotniak">karol_wrotniak</a></td>
 		<td>Wrocaw Poland</td>
 		<td>219</td>
-		<td>2424</td>
+		<td>2434</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -919,8 +919,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Automattic </td>
 		<td><a target="_blank" href="https://twitter.com/adamzielin">adamzielin</a></td>
 		<td>Wrocaw Poland</td>
-		<td>1984</td>
-		<td>2354</td>
+		<td>1995</td>
+		<td>2365</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -947,8 +947,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Pozna Poland</td>
-		<td>1143</td>
-		<td>2292</td>
+		<td>1145</td>
+		<td>2299</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -976,7 +976,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/MichalZalecki">MichalZalecki</a></td>
 		<td>Wrocaw Poland</td>
 		<td>1</td>
-		<td>2273</td>
+		<td>2280</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1003,8 +1003,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Tcode </td>
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
-		<td>2210</td>
-		<td>2224</td>
+		<td>2219</td>
+		<td>2233</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1018,7 +1018,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/ka8725">ka8725</a></td>
 		<td>WarsawPoland</td>
 		<td>511</td>
-		<td>2220</td>
+		<td>2224</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1032,7 +1032,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland d</td>
 		<td>261</td>
-		<td>2184</td>
+		<td>2188</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1046,7 +1046,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/igloczek">igloczek</a></td>
 		<td>BielskoBiaa Poland</td>
 		<td>126</td>
-		<td>2152</td>
+		<td>2154</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1060,7 +1060,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Biaystok Poland</td>
 		<td>47</td>
-		<td>2142</td>
+		<td>2149</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1074,7 +1074,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/piecioshka">piecioshka</a></td>
 		<td>Warsaw Poland</td>
 		<td>399</td>
-		<td>2141</td>
+		<td>2142</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1088,7 +1088,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakw</td>
 		<td>202</td>
-		<td>2134</td>
+		<td>2135</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1101,8 +1101,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@statelyai </td>
 		<td><a target="_blank" href="https://twitter.com/AndaristRake">AndaristRake</a></td>
 		<td>Wrocaw Poland</td>
-		<td>2029</td>
-		<td>2126</td>
+		<td>2032</td>
+		<td>2129</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1130,7 +1130,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mostlyobvious">mostlyobvious</a></td>
 		<td>Wrocaw PL</td>
 		<td>673</td>
-		<td>2086</td>
+		<td>2087</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1144,7 +1144,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jacobandrewsky">jacobandrewsky</a></td>
 		<td>Wrocaw</td>
 		<td>633</td>
-		<td>2081</td>
+		<td>2082</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1157,8 +1157,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@saleor </td>
 		<td><a target="_blank" href="https://twitter.com/krzysztof_zuraw">krzysztof_zuraw</a></td>
 		<td>Wrocaw</td>
-		<td>1350</td>
-		<td>2056</td>
+		<td>1352</td>
+		<td>2058</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1171,8 +1171,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw</td>
-		<td>1952</td>
-		<td>2053</td>
+		<td>1955</td>
+		<td>2056</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1186,7 +1186,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakw</td>
 		<td>41</td>
-		<td>2025</td>
+		<td>2028</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1270,7 +1270,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/milansachani">milansachani</a></td>
 		<td>Warsaw Poland</td>
 		<td>178</td>
-		<td>1972</td>
+		<td>1974</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1284,7 +1284,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/feimosi">feimosi</a></td>
 		<td>Poland</td>
 		<td>18</td>
-		<td>1948</td>
+		<td>1955</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1298,7 +1298,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Cracow Poland</td>
 		<td>377</td>
-		<td>1945</td>
+		<td>1946</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1312,7 +1312,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/veelenga">veelenga</a></td>
 		<td>Poland</td>
 		<td>347</td>
-		<td>1944</td>
+		<td>1945</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1325,8 +1325,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@dashbitco </td>
 		<td>No Twitter Username</td>
 		<td>Krakw Poland</td>
-		<td>1854</td>
-		<td>1939</td>
+		<td>1859</td>
+		<td>1944</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1340,7 +1340,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Wrocaw PL</td>
 		<td>209</td>
-		<td>1938</td>
+		<td>1944</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1353,8 +1353,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Godot </td>
 		<td><a target="_blank" href="https://twitter.com/KoBeWi_">KoBeWi_</a></td>
 		<td>Poland</td>
-		<td>1935</td>
-		<td>1935</td>
+		<td>1937</td>
+		<td>1937</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1368,7 +1368,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/norbert_tech">norbert_tech</a></td>
 		<td>Krakw Poland</td>
 		<td>1713</td>
-		<td>1925</td>
+		<td>1926</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1382,10 +1382,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
 		<td>358</td>
-		<td>1911</td>
+		<td>1919</td>
 	</tr>
 	<tr>
 		<td>92</td>
+		<td>
+			<a target="_blank" href="https://github.com/aradzie">
+				<img src="https://avatars.githubusercontent.com/u/44386?s=72&u=512ca7ae7ddc8a161078305af8709efb11f6d2ba&v=4" width="24" alt="Avatar of aradzie"/> aradzie
+			</a><br/>
+			Aliaksandr Radzivanovich
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Krakw Poland</td>
+		<td>1192</td>
+		<td>1908</td>
+	</tr>
+	<tr>
+		<td>93</td>
 		<td>
 			<a target="_blank" href="https://github.com/mackuba">
 				<img src="https://avatars.githubusercontent.com/u/28465?s=72&u=6e8fbb1a642aaae35c502a43c678d79fea9e1c51&v=4" width="24" alt="Avatar of mackuba"/> mackuba
@@ -1399,20 +1413,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1906</td>
 	</tr>
 	<tr>
-		<td>93</td>
-		<td>
-			<a target="_blank" href="https://github.com/aradzie">
-				<img src="https://avatars.githubusercontent.com/u/44386?s=72&u=512ca7ae7ddc8a161078305af8709efb11f6d2ba&v=4" width="24" alt="Avatar of aradzie"/> aradzie
-			</a><br/>
-			Aliaksandr Radzivanovich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Krakw Poland</td>
-		<td>1189</td>
-		<td>1905</td>
-	</tr>
-	<tr>
 		<td>94</td>
 		<td>
 			<a target="_blank" href="https://github.com/szemek">
@@ -1424,7 +1424,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gdask Poland</td>
 		<td>52</td>
-		<td>1904</td>
+		<td>1906</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1451,8 +1451,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland Krakw</td>
-		<td>481</td>
-		<td>1874</td>
+		<td>483</td>
+		<td>1876</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1466,7 +1466,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jtompl">jtompl</a></td>
 		<td>Poznan Poland</td>
 		<td>20</td>
-		<td>1860</td>
+		<td>1866</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1494,10 +1494,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/pawel_lukasik">pawel_lukasik</a></td>
 		<td>Poland</td>
 		<td>178</td>
-		<td>1845</td>
+		<td>1846</td>
 	</tr>
 	<tr>
 		<td>100</td>
+		<td>
+			<a target="_blank" href="https://github.com/pigmej">
+				<img src="https://avatars.githubusercontent.com/u/496754?s=72&v=4" width="24" alt="Avatar of pigmej"/> pigmej
+			</a><br/>
+			Jdrzej Nowak
+		</td>
+		<td>@spacemeshos </td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw</td>
+		<td>422</td>
+		<td>1834</td>
+	</tr>
+	<tr>
+		<td>101</td>
 		<td>
 			<a target="_blank" href="https://github.com/hasparus">
 				<img src="https://avatars.githubusercontent.com/u/15332326?s=72&u=0ee15040eaa9b894bd007cf514d00b6d1bc67d60&v=4" width="24" alt="Avatar of hasparus"/> hasparus
@@ -1511,7 +1525,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1830</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
 		<td>
 			<a target="_blank" href="https://github.com/YasiOnFire">
 				<img src="https://avatars.githubusercontent.com/u/3300701?s=72&v=4" width="24" alt="Avatar of YasiOnFire"/> YasiOnFire
@@ -1523,20 +1537,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poland</td>
 		<td>87</td>
 		<td>1827</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a target="_blank" href="https://github.com/pigmej">
-				<img src="https://avatars.githubusercontent.com/u/496754?s=72&v=4" width="24" alt="Avatar of pigmej"/> pigmej
-			</a><br/>
-			Jdrzej Nowak
-		</td>
-		<td>@spacemeshos </td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw</td>
-		<td>422</td>
-		<td>1824</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1592,7 +1592,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/bibix1999">bibix1999</a></td>
 		<td>Warsaw Poland</td>
 		<td>522</td>
-		<td>1779</td>
+		<td>1781</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1605,11 +1605,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@expo </td>
 		<td><a target="_blank" href="https://twitter.com/sjchmiela">sjchmiela</a></td>
 		<td>Krakw Poland</td>
-		<td>337</td>
-		<td>1775</td>
+		<td>339</td>
+		<td>1780</td>
 	</tr>
 	<tr>
 		<td>108</td>
+		<td>
+			<a target="_blank" href="https://github.com/felixxm">
+				<img src="https://avatars.githubusercontent.com/u/2865885?s=72&u=0df0a3d45b6dae54e1d08e5b4aeb70201aa5d31c&v=4" width="24" alt="Avatar of felixxm"/> felixxm
+			</a><br/>
+			Mariusz Felisiak
+		</td>
+		<td>@lawprct </td>
+		<td>No Twitter Username</td>
+		<td>Toru Poland</td>
+		<td>1129</td>
+		<td>1768</td>
+	</tr>
+	<tr>
+		<td>109</td>
 		<td>
 			<a target="_blank" href="https://github.com/michalsn">
 				<img src="https://avatars.githubusercontent.com/u/459185?s=72&u=db46383d2c539975afce8494c4da70930e5171f6&v=4" width="24" alt="Avatar of michalsn"/> michalsn
@@ -1623,7 +1637,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1763</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a target="_blank" href="https://github.com/sthalik">
 				<img src="https://avatars.githubusercontent.com/u/1896811?s=72&v=4" width="24" alt="Avatar of sthalik"/> sthalik
@@ -1637,21 +1651,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1762</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
-			<a target="_blank" href="https://github.com/felixxm">
-				<img src="https://avatars.githubusercontent.com/u/2865885?s=72&u=0df0a3d45b6dae54e1d08e5b4aeb70201aa5d31c&v=4" width="24" alt="Avatar of felixxm"/> felixxm
+			<a target="_blank" href="https://github.com/Zaczero">
+				<img src="https://avatars.githubusercontent.com/u/10835147?s=72&u=902d5692df5d97f323ebd357ef3589c08589f837&v=4" width="24" alt="Avatar of Zaczero"/> Zaczero
 			</a><br/>
-			Mariusz Felisiak
+			Kamil Monicz
 		</td>
-		<td>@lawprct </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Toru Poland</td>
-		<td>1129</td>
-		<td>1761</td>
+		<td>Poland</td>
+		<td>1733</td>
+		<td>1756</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a target="_blank" href="https://github.com/magul">
 				<img src="https://avatars.githubusercontent.com/u/1165138?s=72&u=e8beea4a20df325ffd02e23d6336ba5208d39fd4&v=4" width="24" alt="Avatar of magul"/> magul
@@ -1663,20 +1677,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Pozna Poland</td>
 		<td>31</td>
 		<td>1755</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a target="_blank" href="https://github.com/Zaczero">
-				<img src="https://avatars.githubusercontent.com/u/10835147?s=72&u=902d5692df5d97f323ebd357ef3589c08589f837&v=4" width="24" alt="Avatar of Zaczero"/> Zaczero
-			</a><br/>
-			Kamil Monicz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>1730</td>
-		<td>1753</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1703,8 +1703,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Chainsafe </td>
 		<td>No Twitter Username</td>
 		<td>Pozna Poland</td>
-		<td>1718</td>
-		<td>1721</td>
+		<td>1719</td>
+		<td>1722</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1718,7 +1718,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/OrestesGaolin">OrestesGaolin</a></td>
 		<td>Warsaw Poland</td>
 		<td>63</td>
-		<td>1708</td>
+		<td>1714</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1779,6 +1779,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>120</td>
 		<td>
+			<a target="_blank" href="https://github.com/KamilaBorowska">
+				<img src="https://avatars.githubusercontent.com/u/1297598?s=72&u=dd46432ca6a2d0dc620146d3cbfd40f924352b3e&v=4" width="24" alt="Avatar of KamilaBorowska"/> KamilaBorowska
+			</a><br/>
+			Kamila Borowska
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>863</td>
+		<td>1650</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
 			<a target="_blank" href="https://github.com/asiekierka">
 				<img src="https://avatars.githubusercontent.com/u/113514?s=72&u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="24" alt="Avatar of asiekierka"/> asiekierka
 			</a><br/>
@@ -1791,35 +1805,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1645</td>
 	</tr>
 	<tr>
-		<td>121</td>
-		<td>
-			<a target="_blank" href="https://github.com/KamilaBorowska">
-				<img src="https://avatars.githubusercontent.com/u/1297598?s=72&u=dd46432ca6a2d0dc620146d3cbfd40f924352b3e&v=4" width="24" alt="Avatar of KamilaBorowska"/> KamilaBorowska
-			</a><br/>
-			Kamila Borowska
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>863</td>
-		<td>1644</td>
-	</tr>
-	<tr>
 		<td>122</td>
-		<td>
-			<a target="_blank" href="https://github.com/Sekhmet">
-				<img src="https://avatars.githubusercontent.com/u/1968722?s=72&u=b0f93d844346f4aa907de06eb068b3419dda5a1e&v=4" width="24" alt="Avatar of Sekhmet"/> Sekhmet
-			</a><br/>
-			Wiktor Tkaczyski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>1514</td>
-		<td>1637</td>
-	</tr>
-	<tr>
-		<td>123</td>
 		<td>
 			<a target="_blank" href="https://github.com/morgoth">
 				<img src="https://avatars.githubusercontent.com/u/10766?s=72&v=4" width="24" alt="Avatar of morgoth"/> morgoth
@@ -1830,7 +1816,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/morgoth85">morgoth85</a></td>
 		<td>Gliwice Poland</td>
 		<td>123</td>
-		<td>1634</td>
+		<td>1642</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a target="_blank" href="https://github.com/Sekhmet">
+				<img src="https://avatars.githubusercontent.com/u/1968722?s=72&u=b0f93d844346f4aa907de06eb068b3419dda5a1e&v=4" width="24" alt="Avatar of Sekhmet"/> Sekhmet
+			</a><br/>
+			Wiktor Tkaczyski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>1517</td>
+		<td>1640</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1872,7 +1872,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>221</td>
-		<td>1625</td>
+		<td>1628</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1885,8 +1885,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@pluralsh </td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>702</td>
-		<td>1599</td>
+		<td>707</td>
+		<td>1604</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1913,8 +1913,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Appunite </td>
 		<td><a target="_blank" href="https://twitter.com/sulich_olaf">sulich_olaf</a></td>
 		<td>Poland Toru</td>
-		<td>1</td>
-		<td>1573</td>
+		<td>2</td>
+		<td>1576</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1927,8 +1927,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kjk">kjk</a></td>
 		<td>Krakow Poland</td>
-		<td>826</td>
-		<td>1569</td>
+		<td>828</td>
+		<td>1572</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -1941,8 +1941,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gdask Poland</td>
-		<td>1550</td>
-		<td>1561</td>
+		<td>1551</td>
+		<td>1562</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -1969,8 +1969,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@invertase </td>
 		<td><a target="_blank" href="https://twitter.com/lesnitsky_dev">lesnitsky_dev</a></td>
 		<td>Poland Gdask</td>
-		<td>383</td>
-		<td>1547</td>
+		<td>384</td>
+		<td>1549</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -1984,10 +1984,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>205</td>
-		<td>1536</td>
+		<td>1539</td>
 	</tr>
 	<tr>
 		<td>135</td>
+		<td>
+			<a target="_blank" href="https://github.com/mkaput">
+				<img src="https://avatars.githubusercontent.com/u/3450050?s=72&u=b75fa0b45bb4217ac99ecb1cc0d05c7bb42b4e2c&v=4" width="24" alt="Avatar of mkaput"/> mkaput
+			</a><br/>
+			Marek Kaput
+		</td>
+		<td>@softwaremansion @starkwarelibs </td>
+		<td><a target="_blank" href="https://twitter.com/jajakobyly">jajakobyly</a></td>
+		<td>Krakw Poland</td>
+		<td>1462</td>
+		<td>1527</td>
+	</tr>
+	<tr>
+		<td>136</td>
 		<td>
 			<a target="_blank" href="https://github.com/ravicious">
 				<img src="https://avatars.githubusercontent.com/u/27113?s=72&u=d823a03fe5014a9aa230d56972041b1a0b740ffc&v=4" width="24" alt="Avatar of ravicious"/> ravicious
@@ -1997,11 +2011,11 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@gravitational </td>
 		<td><a target="_blank" href="https://twitter.com/Ravicious">Ravicious</a></td>
 		<td>Krakw Poland</td>
-		<td>1522</td>
-		<td>1522</td>
+		<td>1525</td>
+		<td>1525</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a target="_blank" href="https://github.com/piomin">
 				<img src="https://avatars.githubusercontent.com/u/2892502?s=72&u=bffc151a5df6b2c9ae56385d42e76fb7546aac91&v=4" width="24" alt="Avatar of piomin"/> piomin
@@ -2012,20 +2026,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/piotr_minkowski">piotr_minkowski</a></td>
 		<td>Warsaw</td>
 		<td>1519</td>
-		<td>1519</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a target="_blank" href="https://github.com/mkaput">
-				<img src="https://avatars.githubusercontent.com/u/3450050?s=72&u=b75fa0b45bb4217ac99ecb1cc0d05c7bb42b4e2c&v=4" width="24" alt="Avatar of mkaput"/> mkaput
-			</a><br/>
-			Marek Kaput
-		</td>
-		<td>@softwaremansion @starkwarelibs </td>
-		<td><a target="_blank" href="https://twitter.com/jajakobyly">jajakobyly</a></td>
-		<td>Krakw Poland</td>
-		<td>1454</td>
 		<td>1519</td>
 	</tr>
 	<tr>
@@ -2053,8 +2053,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@trainiteu  </td>
 		<td><a target="_blank" href="https://twitter.com/mateusz_pusz">mateusz_pusz</a></td>
 		<td>Gdask Poland</td>
-		<td>1501</td>
-		<td>1502</td>
+		<td>1513</td>
+		<td>1514</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2087,16 +2087,16 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>142</td>
 		<td>
-			<a target="_blank" href="https://github.com/MarshalX">
-				<img src="https://avatars.githubusercontent.com/u/15520314?s=72&u=314075534fae487a02425e6385e32ee8525d01e8&v=4" width="24" alt="Avatar of MarshalX"/> MarshalX
+			<a target="_blank" href="https://github.com/kamilogorek">
+				<img src="https://avatars.githubusercontent.com/u/1523305?s=72&u=010169979c66d4fa2d3b533c3c9979e805158c45&v=4" width="24" alt="Avatar of kamilogorek"/> kamilogorek
 			</a><br/>
-			Ilya Siamionau
+			Kamil Ogrek
 		</td>
-		<td>@cycodehq </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>1310</td>
-		<td>1490</td>
+		<td>@supabase  </td>
+		<td><a target="_blank" href="https://twitter.com/kamilogorek">kamilogorek</a></td>
+		<td>Krakw Poland</td>
+		<td>544</td>
+		<td>1495</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2109,22 +2109,22 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@saleor  </td>
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
-		<td>1487</td>
-		<td>1487</td>
+		<td>1492</td>
+		<td>1492</td>
 	</tr>
 	<tr>
 		<td>144</td>
 		<td>
-			<a target="_blank" href="https://github.com/kamilogorek">
-				<img src="https://avatars.githubusercontent.com/u/1523305?s=72&u=010169979c66d4fa2d3b533c3c9979e805158c45&v=4" width="24" alt="Avatar of kamilogorek"/> kamilogorek
+			<a target="_blank" href="https://github.com/MarshalX">
+				<img src="https://avatars.githubusercontent.com/u/15520314?s=72&u=314075534fae487a02425e6385e32ee8525d01e8&v=4" width="24" alt="Avatar of MarshalX"/> MarshalX
 			</a><br/>
-			Kamil Ogrek
+			Ilya Siamionau
 		</td>
-		<td>@supabase  </td>
-		<td><a target="_blank" href="https://twitter.com/kamilogorek">kamilogorek</a></td>
-		<td>Krakw Poland</td>
-		<td>543</td>
-		<td>1485</td>
+		<td>@cycodehq </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>1311</td>
+		<td>1491</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2138,7 +2138,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gdansk</td>
 		<td>9</td>
-		<td>1485</td>
+		<td>1489</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2171,6 +2171,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>148</td>
 		<td>
+			<a target="_blank" href="https://github.com/wtrocki">
+				<img src="https://avatars.githubusercontent.com/u/981838?s=72&u=58f8ad0ae003f8bc8d741a9c355420caeeff36d5&v=4" width="24" alt="Avatar of wtrocki"/> wtrocki
+			</a><br/>
+			Wojciech Trocki
+		</td>
+		<td>Mongodb </td>
+		<td><a target="_blank" href="https://twitter.com/typeapi">typeapi</a></td>
+		<td>Poznan Poland</td>
+		<td>729</td>
+		<td>1467</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a target="_blank" href="https://github.com/KrystianZybura">
 				<img src="https://avatars.githubusercontent.com/u/121553175?s=72&u=f67f9e8ba189dedaadec3b463bbedc211d1a217a&v=4" width="24" alt="Avatar of KrystianZybura"/> KrystianZybura
 			</a><br/>
@@ -2183,20 +2197,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1465</td>
 	</tr>
 	<tr>
-		<td>149</td>
-		<td>
-			<a target="_blank" href="https://github.com/wtrocki">
-				<img src="https://avatars.githubusercontent.com/u/981838?s=72&u=58f8ad0ae003f8bc8d741a9c355420caeeff36d5&v=4" width="24" alt="Avatar of wtrocki"/> wtrocki
-			</a><br/>
-			Wojciech Trocki
-		</td>
-		<td>Mongodb </td>
-		<td><a target="_blank" href="https://twitter.com/typeapi">typeapi</a></td>
-		<td>Poznan Poland</td>
-		<td>728</td>
-		<td>1463</td>
-	</tr>
-	<tr>
 		<td>150</td>
 		<td>
 			<a target="_blank" href="https://github.com/oskardudycz">
@@ -2207,8 +2207,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/oskar_at_net">oskar_at_net</a></td>
 		<td>Wrocaw</td>
-		<td>1443</td>
-		<td>1461</td>
+		<td>1444</td>
+		<td>1462</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2263,8 +2263,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Httpswwwsoftwaremill </td>
 		<td><a target="_blank" href="https://twitter.com/adamwarski">adamwarski</a></td>
 		<td>Warsaw Poland</td>
-		<td>1389</td>
-		<td>1409</td>
+		<td>1391</td>
+		<td>1411</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -2292,7 +2292,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/bzagrodzki">bzagrodzki</a></td>
 		<td>Poland Katowice</td>
 		<td>594</td>
-		<td>1405</td>
+		<td>1406</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2311,6 +2311,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>158</td>
 		<td>
+			<a target="_blank" href="https://github.com/mikegapinski">
+				<img src="https://avatars.githubusercontent.com/u/930055?s=72&u=32c154c005774d985c4cc9d48f6901d0ce07e58d&v=4" width="24" alt="Avatar of mikegapinski"/> mikegapinski
+			</a><br/>
+			Micha Gapiski
+		</td>
+		<td>Tesla Android </td>
+		<td><a target="_blank" href="https://twitter.com/mikegapinski">mikegapinski</a></td>
+		<td>Szczecin Poland</td>
+		<td>677</td>
+		<td>1400</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
 			<a target="_blank" href="https://github.com/psmyrdek">
 				<img src="https://avatars.githubusercontent.com/u/6187417?s=72&u=51290cfb5bc386f9a819575c2b2f728ba5edad69&v=4" width="24" alt="Avatar of psmyrdek"/> psmyrdek
 			</a><br/>
@@ -2323,21 +2337,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1396</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
-			<a target="_blank" href="https://github.com/mikegapinski">
-				<img src="https://avatars.githubusercontent.com/u/930055?s=72&u=32c154c005774d985c4cc9d48f6901d0ce07e58d&v=4" width="24" alt="Avatar of mikegapinski"/> mikegapinski
+			<a target="_blank" href="https://github.com/burnpiro">
+				<img src="https://avatars.githubusercontent.com/u/3284639?s=72&u=af4e3140674c6545928d5bb74322c78282e14403&v=4" width="24" alt="Avatar of burnpiro"/> burnpiro
 			</a><br/>
-			Micha Gapiski
+			Kemal Erdem
 		</td>
-		<td>Tesla Android </td>
-		<td><a target="_blank" href="https://twitter.com/mikegapinski">mikegapinski</a></td>
-		<td>Szczecin Poland</td>
-		<td>671</td>
-		<td>1394</td>
+		<td>@primeintellectai </td>
+		<td><a target="_blank" href="https://twitter.com/burnpiro">burnpiro</a></td>
+		<td>Wroclaw Poland</td>
+		<td>366</td>
+		<td>1393</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a target="_blank" href="https://github.com/alovak">
 				<img src="https://avatars.githubusercontent.com/u/19233?s=72&u=f3df0061d736037ac5300ce6e4199a91e527b29a&v=4" width="24" alt="Avatar of alovak"/> alovak
@@ -2351,7 +2365,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1386</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a target="_blank" href="https://github.com/serathius">
 				<img src="https://avatars.githubusercontent.com/u/5873433?s=72&u=db75a9ad7956b6116229c5b05d20c74a5a3e1cab&v=4" width="24" alt="Avatar of serathius"/> serathius
@@ -2365,20 +2379,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1383</td>
 	</tr>
 	<tr>
-		<td>162</td>
-		<td>
-			<a target="_blank" href="https://github.com/burnpiro">
-				<img src="https://avatars.githubusercontent.com/u/3284639?s=72&u=af4e3140674c6545928d5bb74322c78282e14403&v=4" width="24" alt="Avatar of burnpiro"/> burnpiro
-			</a><br/>
-			Kemal Erdem
-		</td>
-		<td>@primeintellectai </td>
-		<td><a target="_blank" href="https://twitter.com/burnpiro">burnpiro</a></td>
-		<td>Wroclaw Poland</td>
-		<td>366</td>
-		<td>1382</td>
-	</tr>
-	<tr>
 		<td>163</td>
 		<td>
 			<a target="_blank" href="https://github.com/soltysh">
@@ -2389,8 +2389,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Red Hat Inc </td>
 		<td><a target="_blank" href="https://twitter.com/soltysh">soltysh</a></td>
 		<td>Poland</td>
-		<td>1326</td>
-		<td>1375</td>
+		<td>1328</td>
+		<td>1377</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2409,20 +2409,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>165</td>
 		<td>
-			<a target="_blank" href="https://github.com/fesor">
-				<img src="https://avatars.githubusercontent.com/u/172247?s=72&u=45f374e995e0639f53b4f92b876004ee09f04026&v=4" width="24" alt="Avatar of fesor"/> fesor
-			</a><br/>
-			Sergey Protko
-		</td>
-		<td>Teladoc </td>
-		<td>No Twitter Username</td>
-		<td>Poland Warsaw</td>
-		<td>0</td>
-		<td>1366</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
 			<a target="_blank" href="https://github.com/bkielbasa">
 				<img src="https://avatars.githubusercontent.com/u/1235620?s=72&u=8dcb00ac7132f4de19392d7f8b1b4e2b17e692b7&v=4" width="24" alt="Avatar of bkielbasa"/> bkielbasa
 			</a><br/>
@@ -2432,6 +2418,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/kabanek">kabanek</a></td>
 		<td>Krakw</td>
 		<td>130</td>
+		<td>1367</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a target="_blank" href="https://github.com/fesor">
+				<img src="https://avatars.githubusercontent.com/u/172247?s=72&u=45f374e995e0639f53b4f92b876004ee09f04026&v=4" width="24" alt="Avatar of fesor"/> fesor
+			</a><br/>
+			Sergey Protko
+		</td>
+		<td>Teladoc </td>
+		<td>No Twitter Username</td>
+		<td>Poland Warsaw</td>
+		<td>0</td>
 		<td>1366</td>
 	</tr>
 	<tr>
@@ -2493,6 +2493,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>171</td>
 		<td>
+			<a target="_blank" href="https://github.com/chrmod">
+				<img src="https://avatars.githubusercontent.com/u/1228153?s=72&u=e7ec6c80aaa5e632018ba5ea1ffeaa05679f6116&v=4" width="24" alt="Avatar of chrmod"/> chrmod
+			</a><br/>
+			Krzysztof Modras
+		</td>
+		<td>@ghostery </td>
+		<td><a target="_blank" href="https://twitter.com/chrmod">chrmod</a></td>
+		<td>Europe Warsaw</td>
+		<td>872</td>
+		<td>1335</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
 			<a target="_blank" href="https://github.com/aerosol">
 				<img src="https://avatars.githubusercontent.com/u/173738?s=72&u=4feee9e783e5cd767108d900fa6488fa7a7a1269&v=4" width="24" alt="Avatar of aerosol"/> aerosol
 			</a><br/>
@@ -2505,21 +2519,35 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1334</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
-			<a target="_blank" href="https://github.com/chrmod">
-				<img src="https://avatars.githubusercontent.com/u/1228153?s=72&u=e7ec6c80aaa5e632018ba5ea1ffeaa05679f6116&v=4" width="24" alt="Avatar of chrmod"/> chrmod
+			<a target="_blank" href="https://github.com/mthenw">
+				<img src="https://avatars.githubusercontent.com/u/455261?s=72&u=526589479e400bcbd57b4241d88acd1fd8d1396f&v=4" width="24" alt="Avatar of mthenw"/> mthenw
 			</a><br/>
-			Krzysztof Modras
+			Maciej Winnicki
 		</td>
-		<td>@ghostery </td>
-		<td><a target="_blank" href="https://twitter.com/chrmod">chrmod</a></td>
-		<td>Europe Warsaw</td>
-		<td>868</td>
-		<td>1331</td>
+		<td>@cloudashdev </td>
+		<td><a target="_blank" href="https://twitter.com/mthenw">mthenw</a></td>
+		<td>Pozna Poland</td>
+		<td>10</td>
+		<td>1330</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
+		<td>
+			<a target="_blank" href="https://github.com/MajkiIT">
+				<img src="https://avatars.githubusercontent.com/u/11302675?s=72&u=ebd96537fdeef4a0e14bc3ad88a8a2e7b67de0ba&v=4" width="24" alt="Avatar of MajkiIT"/> MajkiIT
+			</a><br/>
+			MajkiIT
+		</td>
+		<td>Official Polish Filters For<br/>Adblock<br/>Ublock<br/>Origin<br/><br/>Adguard<br/></td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>1330</td>
+		<td>1330</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a target="_blank" href="https://github.com/masagrator">
 				<img src="https://avatars.githubusercontent.com/u/8557858?s=72&u=5805b254ea6e5af12df21b61a591830e3dbcadb5&v=4" width="24" alt="Avatar of masagrator"/> masagrator
@@ -2533,21 +2561,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1329</td>
 	</tr>
 	<tr>
-		<td>174</td>
-		<td>
-			<a target="_blank" href="https://github.com/MajkiIT">
-				<img src="https://avatars.githubusercontent.com/u/11302675?s=72&u=ebd96537fdeef4a0e14bc3ad88a8a2e7b67de0ba&v=4" width="24" alt="Avatar of MajkiIT"/> MajkiIT
-			</a><br/>
-			MajkiIT
-		</td>
-		<td>Official Polish Filters For<br/>Adblock<br/>Ublock<br/>Origin<br/><br/>Adguard<br/></td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>1328</td>
-		<td>1328</td>
-	</tr>
-	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a target="_blank" href="https://github.com/fracz">
 				<img src="https://avatars.githubusercontent.com/u/3918865?s=72&u=0cc608f7cbac31962d49273f2a5f3bd9792084fa&v=4" width="24" alt="Avatar of fracz"/> fracz
@@ -2558,21 +2572,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>929</td>
-		<td>1320</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a target="_blank" href="https://github.com/mthenw">
-				<img src="https://avatars.githubusercontent.com/u/455261?s=72&u=526589479e400bcbd57b4241d88acd1fd8d1396f&v=4" width="24" alt="Avatar of mthenw"/> mthenw
-			</a><br/>
-			Maciej Winnicki
-		</td>
-		<td>@cloudashdev </td>
-		<td><a target="_blank" href="https://twitter.com/mthenw">mthenw</a></td>
-		<td>Pozna Poland</td>
-		<td>10</td>
-		<td>1319</td>
+		<td>1322</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2586,7 +2586,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>743</td>
-		<td>1318</td>
+		<td>1319</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2642,7 +2642,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/_0sh10">_0sh10</a></td>
 		<td>Wrocaw</td>
 		<td>141</td>
-		<td>1298</td>
+		<td>1305</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2689,6 +2689,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>185</td>
 		<td>
+			<a target="_blank" href="https://github.com/kamilkisiela">
+				<img src="https://avatars.githubusercontent.com/u/8167190?s=72&u=d6fb3b26298a4a6174630019a50247dad2c670b6&v=4" width="24" alt="Avatar of kamilkisiela"/> kamilkisiela
+			</a><br/>
+			Kamil Kisiela
+		</td>
+		<td>@theguildorg </td>
+		<td><a target="_blank" href="https://twitter.com/kamilkisiela">kamilkisiela</a></td>
+		<td>Warsaw Poland</td>
+		<td>1061</td>
+		<td>1273</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
 			<a target="_blank" href="https://github.com/Comandeer">
 				<img src="https://avatars.githubusercontent.com/u/1078728?s=72&v=4" width="24" alt="Avatar of Comandeer"/> Comandeer
 			</a><br/>
@@ -2701,7 +2715,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1273</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a target="_blank" href="https://github.com/keradus">
 				<img src="https://avatars.githubusercontent.com/u/2716794?s=72&u=94c0ff41ced5639d37e5f1f32df8e531fa7af70d&v=4" width="24" alt="Avatar of keradus"/> keradus
@@ -2712,10 +2726,10 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/keradus">keradus</a></td>
 		<td>Szczecin Poland</td>
 		<td>1043</td>
-		<td>1269</td>
+		<td>1271</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a target="_blank" href="https://github.com/AndreiMisiukevich">
 				<img src="https://avatars.githubusercontent.com/u/10124814?s=72&u=1a30139ed32862515e94c84fd3c8195ba3bcc345&v=4" width="24" alt="Avatar of AndreiMisiukevich"/> AndreiMisiukevich
@@ -2726,21 +2740,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>29</td>
-		<td>1266</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a target="_blank" href="https://github.com/kamilkisiela">
-				<img src="https://avatars.githubusercontent.com/u/8167190?s=72&u=d6fb3b26298a4a6174630019a50247dad2c670b6&v=4" width="24" alt="Avatar of kamilkisiela"/> kamilkisiela
-			</a><br/>
-			Kamil Kisiela
-		</td>
-		<td>@theguildorg </td>
-		<td><a target="_blank" href="https://twitter.com/kamilkisiela">kamilkisiela</a></td>
-		<td>Warsaw Poland</td>
-		<td>1059</td>
-		<td>1263</td>
+		<td>1267</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -2768,10 +2768,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/katafrakt_pl">katafrakt_pl</a></td>
 		<td>Wrocaw PL</td>
 		<td>157</td>
-		<td>1256</td>
+		<td>1257</td>
 	</tr>
 	<tr>
 		<td>191</td>
+		<td>
+			<a target="_blank" href="https://github.com/sulmar">
+				<img src="https://avatars.githubusercontent.com/u/779025?s=72&u=df7f90748be298a82335dff6742a5019eb26ee51&v=4" width="24" alt="Avatar of sulmar"/> sulmar
+			</a><br/>
+			Marcin Sulecki
+		</td>
+		<td>Sulmar </td>
+		<td><a target="_blank" href="https://twitter.com/sulmar">sulmar</a></td>
+		<td>Poland</td>
+		<td>1250</td>
+		<td>1250</td>
+	</tr>
+	<tr>
+		<td>192</td>
 		<td>
 			<a target="_blank" href="https://github.com/bmstefanski">
 				<img src="https://avatars.githubusercontent.com/u/28964599?s=72&u=e870baf5ddc2dcde9f5f2444896c53361ecdf15a&v=4" width="24" alt="Avatar of bmstefanski"/> bmstefanski
@@ -2785,7 +2799,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1247</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a target="_blank" href="https://github.com/pelotasplus">
 				<img src="https://avatars.githubusercontent.com/u/925866?s=72&u=f47f150f0de33793d65c3d6836273474f2ee2708&v=4" width="24" alt="Avatar of pelotasplus"/> pelotasplus
@@ -2796,10 +2810,10 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/pelotasplus">pelotasplus</a></td>
 		<td>Warsaw Poland</td>
 		<td>0</td>
-		<td>1240</td>
+		<td>1241</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/radekmie">
 				<img src="https://avatars.githubusercontent.com/u/1379064?s=72&u=e1a0ad56d8011469b041f24515a1c84563087397&v=4" width="24" alt="Avatar of radekmie"/> radekmie
@@ -2813,7 +2827,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1237</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a target="_blank" href="https://github.com/philips77">
 				<img src="https://avatars.githubusercontent.com/u/6576580?s=72&u=535c4602d9cf7033772107afaecf1a53f5c4f025&v=4" width="24" alt="Avatar of philips77"/> philips77
@@ -2825,20 +2839,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Warsaw Poland</td>
 		<td>1135</td>
 		<td>1236</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a target="_blank" href="https://github.com/sulmar">
-				<img src="https://avatars.githubusercontent.com/u/779025?s=72&u=df7f90748be298a82335dff6742a5019eb26ee51&v=4" width="24" alt="Avatar of sulmar"/> sulmar
-			</a><br/>
-			Marcin Sulecki
-		</td>
-		<td>Sulmar </td>
-		<td><a target="_blank" href="https://twitter.com/sulmar">sulmar</a></td>
-		<td>Poland</td>
-		<td>1232</td>
-		<td>1232</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -2871,6 +2871,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>198</td>
 		<td>
+			<a target="_blank" href="https://github.com/bizley">
+				<img src="https://avatars.githubusercontent.com/u/8577314?s=72&u=87787dbd2d931204e5168c7412db28b4cbc437a6&v=4" width="24" alt="Avatar of bizley"/> bizley
+			</a><br/>
+			Bizley
+		</td>
+		<td>@positivecodes @sagacapital @yiisoft </td>
+		<td><a target="_blank" href="https://twitter.com/Bizley_">Bizley_</a></td>
+		<td>Wrocaw Poland</td>
+		<td>300</td>
+		<td>1215</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
 			<a target="_blank" href="https://github.com/rjaros">
 				<img src="https://avatars.githubusercontent.com/u/5646804?s=72&u=39b0513e9ee3b74eaa540a2b929fb70922da3ad5&v=4" width="24" alt="Avatar of rjaros"/> rjaros
 			</a><br/>
@@ -2883,7 +2897,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1214</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotmag769">
 				<img src="https://avatars.githubusercontent.com/u/56825108?s=72&v=4" width="24" alt="Avatar of piotmag769"/> piotmag769
@@ -2893,22 +2907,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Software Mansion </td>
 		<td>No Twitter Username</td>
 		<td>Cracow Poland</td>
-		<td>1200</td>
-		<td>1211</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a target="_blank" href="https://github.com/bizley">
-				<img src="https://avatars.githubusercontent.com/u/8577314?s=72&u=87787dbd2d931204e5168c7412db28b4cbc437a6&v=4" width="24" alt="Avatar of bizley"/> bizley
-			</a><br/>
-			Bizley
-		</td>
-		<td>@positivecodes @sagacapital @yiisoft </td>
-		<td><a target="_blank" href="https://twitter.com/Bizley_">Bizley_</a></td>
-		<td>Wrocaw Poland</td>
-		<td>299</td>
-		<td>1207</td>
+		<td>1201</td>
+		<td>1212</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -2977,8 +2977,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@redhatofficial </td>
 		<td><a target="_blank" href="https://twitter.com/janiszt">janiszt</a></td>
 		<td>Warsaw</td>
-		<td>1171</td>
-		<td>1177</td>
+		<td>1176</td>
+		<td>1182</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -3020,7 +3020,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/_jakubhajek">_jakubhajek</a></td>
 		<td>Poland</td>
 		<td>46</td>
-		<td>1154</td>
+		<td>1156</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -3053,6 +3053,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>211</td>
 		<td>
+			<a target="_blank" href="https://github.com/nurkiewicz">
+				<img src="https://avatars.githubusercontent.com/u/164045?s=72&v=4" width="24" alt="Avatar of nurkiewicz"/> nurkiewicz
+			</a><br/>
+			Tomasz Nurkiewicz
+		</td>
+		<td>Mondaycom </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw</td>
+		<td>413</td>
+		<td>1140</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a target="_blank" href="https://github.com/erszcz">
 				<img src="https://avatars.githubusercontent.com/u/112145?s=72&u=63813094b6d545d9bd74b9f7694636a84ed01672&v=4" width="24" alt="Avatar of erszcz"/> erszcz
 			</a><br/>
@@ -3063,20 +3077,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Cracow Poland</td>
 		<td>332</td>
 		<td>1140</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a target="_blank" href="https://github.com/nurkiewicz">
-				<img src="https://avatars.githubusercontent.com/u/164045?s=72&v=4" width="24" alt="Avatar of nurkiewicz"/> nurkiewicz
-			</a><br/>
-			Tomasz Nurkiewicz
-		</td>
-		<td>Mondaycom </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw</td>
-		<td>413</td>
-		<td>1139</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -3103,8 +3103,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/lukaszsamson">lukaszsamson</a></td>
 		<td>Warsaw Poland</td>
-		<td>1136</td>
-		<td>1136</td>
+		<td>1137</td>
+		<td>1137</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -3117,8 +3117,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@ibexa Formerly Known As<br/>@ezsystems<br/></td>
 		<td><a target="_blank" href="https://twitter.com/webhdx">webhdx</a></td>
 		<td>Poland</td>
-		<td>497</td>
-		<td>1135</td>
+		<td>498</td>
+		<td>1136</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -3131,11 +3131,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@starburstdata </td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>288</td>
-		<td>1132</td>
+		<td>291</td>
+		<td>1135</td>
 	</tr>
 	<tr>
 		<td>217</td>
+		<td>
+			<a target="_blank" href="https://github.com/lukmccall">
+				<img src="https://avatars.githubusercontent.com/u/9578601?s=72&u=1f59f477a2afba3e7cff8f8e9904d0eee6e656df&v=4" width="24" alt="Avatar of lukmccall"/> lukmccall
+			</a><br/>
+			ukasz Kosmaty
+		</td>
+		<td>@softwaremansion @expo </td>
+		<td><a target="_blank" href="https://twitter.com/lkosmaty">lkosmaty</a></td>
+		<td>Krakw</td>
+		<td>952</td>
+		<td>1123</td>
+	</tr>
+	<tr>
+		<td>218</td>
 		<td>
 			<a target="_blank" href="https://github.com/ayoy">
 				<img src="https://avatars.githubusercontent.com/u/14022?s=72&v=4" width="24" alt="Avatar of ayoy"/> ayoy
@@ -3147,20 +3161,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>d Poland</td>
 		<td>450</td>
 		<td>1122</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a target="_blank" href="https://github.com/lukmccall">
-				<img src="https://avatars.githubusercontent.com/u/9578601?s=72&u=1f59f477a2afba3e7cff8f8e9904d0eee6e656df&v=4" width="24" alt="Avatar of lukmccall"/> lukmccall
-			</a><br/>
-			ukasz Kosmaty
-		</td>
-		<td>@softwaremansion @expo </td>
-		<td><a target="_blank" href="https://twitter.com/lkosmaty">lkosmaty</a></td>
-		<td>Krakw</td>
-		<td>948</td>
-		<td>1119</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3202,7 +3202,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/JustArchi">JustArchi</a></td>
 		<td>Warsaw Poland</td>
 		<td>696</td>
-		<td>1107</td>
+		<td>1108</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -3216,7 +3216,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/iteamon">iteamon</a></td>
 		<td>Poland</td>
 		<td>46</td>
-		<td>1102</td>
+		<td>1103</td>
 	</tr>
 	<tr>
 		<td>223</td>
@@ -3235,6 +3235,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>224</td>
 		<td>
+			<a target="_blank" href="https://github.com/satya164">
+				<img src="https://avatars.githubusercontent.com/u/1174278?s=72&v=4" width="24" alt="Avatar of satya164"/> satya164
+			</a><br/>
+			Satyajit Sahoo
+		</td>
+		<td>@callstack  </td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw Poland</td>
+		<td>1045</td>
+		<td>1090</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a target="_blank" href="https://github.com/MateuszKubuszok">
 				<img src="https://avatars.githubusercontent.com/u/1900121?s=72&u=42a77a6cf72b58d01f59014ac01f26f51059ec2b&v=4" width="24" alt="Avatar of MateuszKubuszok"/> MateuszKubuszok
 			</a><br/>
@@ -3247,20 +3261,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1089</td>
 	</tr>
 	<tr>
-		<td>225</td>
-		<td>
-			<a target="_blank" href="https://github.com/satya164">
-				<img src="https://avatars.githubusercontent.com/u/1174278?s=72&v=4" width="24" alt="Avatar of satya164"/> satya164
-			</a><br/>
-			Satyajit Sahoo
-		</td>
-		<td>@callstack  </td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw Poland</td>
-		<td>1042</td>
-		<td>1087</td>
-	</tr>
-	<tr>
 		<td>226</td>
 		<td>
 			<a target="_blank" href="https://github.com/kacperkapusciak">
@@ -3271,11 +3271,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Software Mansion </td>
 		<td><a target="_blank" href="https://twitter.com/kacperkapusciak">kacperkapusciak</a></td>
 		<td>Krakw Poland</td>
-		<td>470</td>
-		<td>1052</td>
+		<td>473</td>
+		<td>1056</td>
 	</tr>
 	<tr>
 		<td>227</td>
+		<td>
+			<a target="_blank" href="https://github.com/RIP21">
+				<img src="https://avatars.githubusercontent.com/u/3940079?s=72&u=165b63d92a1989fdf1bd2b51ef3eeae05a4be488&v=4" width="24" alt="Avatar of RIP21"/> RIP21
+			</a><br/>
+			Andrey Andrii Los
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/RIP212">RIP212</a></td>
+		<td>Krakow Poland</td>
+		<td>40</td>
+		<td>1048</td>
+	</tr>
+	<tr>
+		<td>228</td>
 		<td>
 			<a target="_blank" href="https://github.com/jacklul">
 				<img src="https://avatars.githubusercontent.com/u/8418678?s=72&u=e61507783522a1c0972d15914ff36d44aa182ecf&v=4" width="24" alt="Avatar of jacklul"/> jacklul
@@ -3289,7 +3303,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>1046</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a target="_blank" href="https://github.com/kasper93">
 				<img src="https://avatars.githubusercontent.com/u/1126053?s=72&v=4" width="24" alt="Avatar of kasper93"/> kasper93
@@ -3301,20 +3315,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poland</td>
 		<td>1044</td>
 		<td>1044</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
-			<a target="_blank" href="https://github.com/RIP21">
-				<img src="https://avatars.githubusercontent.com/u/3940079?s=72&u=165b63d92a1989fdf1bd2b51ef3eeae05a4be488&v=4" width="24" alt="Avatar of RIP21"/> RIP21
-			</a><br/>
-			Andrey Andrii Los
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/RIP212">RIP212</a></td>
-		<td>Krakow Poland</td>
-		<td>40</td>
-		<td>1039</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -3341,8 +3341,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Krakw</td>
-		<td>826</td>
-		<td>1034</td>
+		<td>828</td>
+		<td>1036</td>
 	</tr>
 	<tr>
 		<td>232</td>
@@ -3356,7 +3356,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/artur_bien">artur_bien</a></td>
 		<td>Wrocaw</td>
 		<td>419</td>
-		<td>1031</td>
+		<td>1032</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3481,8 +3481,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@kubeshop  @kubernetes <br/></td>
 		<td><a target="_blank" href="https://twitter.com/m_szostok">m_szostok</a></td>
 		<td>Poland</td>
-		<td>409</td>
-		<td>1000</td>
+		<td>411</td>
+		<td>1003</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3571,6 +3571,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>248</td>
 		<td>
+			<a target="_blank" href="https://github.com/kirillzyusko">
+				<img src="https://avatars.githubusercontent.com/u/22820318?s=72&u=b4eeaec7b022a83602edb18c362615a74b178917&v=4" width="24" alt="Avatar of kirillzyusko"/> kirillzyusko
+			</a><br/>
+			Kirill Zyusko
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ziusko">ziusko</a></td>
+		<td>Poland Warsaw</td>
+		<td>811</td>
+		<td>957</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
 			<a target="_blank" href="https://github.com/chalup">
 				<img src="https://avatars.githubusercontent.com/u/518902?s=72&u=cd292af426baf814debde0b57970e96279bf895b&v=4" width="24" alt="Avatar of chalup"/> chalup
 			</a><br/>
@@ -3583,20 +3597,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>957</td>
 	</tr>
 	<tr>
-		<td>249</td>
-		<td>
-			<a target="_blank" href="https://github.com/kirillzyusko">
-				<img src="https://avatars.githubusercontent.com/u/22820318?s=72&u=b4eeaec7b022a83602edb18c362615a74b178917&v=4" width="24" alt="Avatar of kirillzyusko"/> kirillzyusko
-			</a><br/>
-			Kirill Zyusko
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/ziusko">ziusko</a></td>
-		<td>Poland Warsaw</td>
-		<td>805</td>
-		<td>951</td>
-	</tr>
-	<tr>
 		<td>250</td>
 		<td>
 			<a target="_blank" href="https://github.com/kuba2k2">
@@ -3607,11 +3607,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@szkolnyeu @libretinyeu </td>
 		<td>No Twitter Username</td>
 		<td>Pozna Poland</td>
-		<td>927</td>
-		<td>945</td>
+		<td>928</td>
+		<td>946</td>
 	</tr>
 	<tr>
 		<td>251</td>
+		<td>
+			<a target="_blank" href="https://github.com/EgorBo">
+				<img src="https://avatars.githubusercontent.com/u/523221?s=72&u=928bd85ed90950adb6fbc06270173ef9bcbbe707&v=4" width="24" alt="Avatar of EgorBo"/> EgorBo
+			</a><br/>
+			Egor Bogatov
+		</td>
+		<td>@microsoft </td>
+		<td><a target="_blank" href="https://twitter.com/EgorBo">EgorBo</a></td>
+		<td>Warsaw Poland</td>
+		<td>933</td>
+		<td>944</td>
+	</tr>
+	<tr>
+		<td>252</td>
 		<td>
 			<a target="_blank" href="https://github.com/mwydmuch">
 				<img src="https://avatars.githubusercontent.com/u/8513199?s=72&u=224ee05fa0f463020ea471be544459c091723954&v=4" width="24" alt="Avatar of mwydmuch"/> mwydmuch
@@ -3623,20 +3637,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poznan Poland</td>
 		<td>768</td>
 		<td>943</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a target="_blank" href="https://github.com/EgorBo">
-				<img src="https://avatars.githubusercontent.com/u/523221?s=72&u=928bd85ed90950adb6fbc06270173ef9bcbbe707&v=4" width="24" alt="Avatar of EgorBo"/> EgorBo
-			</a><br/>
-			Egor Bogatov
-		</td>
-		<td>@microsoft </td>
-		<td><a target="_blank" href="https://twitter.com/EgorBo">EgorBo</a></td>
-		<td>Warsaw Poland</td>
-		<td>930</td>
-		<td>941</td>
 	</tr>
 	<tr>
 		<td>253</td>
@@ -3663,8 +3663,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>844</td>
-		<td>940</td>
+		<td>845</td>
+		<td>941</td>
 	</tr>
 	<tr>
 		<td>255</td>
@@ -3706,10 +3706,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mpapis">mpapis</a></td>
 		<td>Krakw Poland</td>
 		<td>14</td>
-		<td>922</td>
+		<td>924</td>
 	</tr>
 	<tr>
 		<td>258</td>
+		<td>
+			<a target="_blank" href="https://github.com/DominikN">
+				<img src="https://avatars.githubusercontent.com/u/7963800?s=72&u=4b96341ae3ebd2e39f59c7f8cedd644025e58299&v=4" width="24" alt="Avatar of DominikN"/> DominikN
+			</a><br/>
+			Dominik Nowak
+		</td>
+		<td>@husarion </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>916</td>
+		<td>916</td>
+	</tr>
+	<tr>
+		<td>259</td>
 		<td>
 			<a target="_blank" href="https://github.com/gbaranski">
 				<img src="https://avatars.githubusercontent.com/u/34353640?s=72&u=b53b1c858dc351b68a3c4868eb11c010e71779cf&v=4" width="24" alt="Avatar of gbaranski"/> gbaranski
@@ -3723,20 +3737,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>915</td>
 	</tr>
 	<tr>
-		<td>259</td>
-		<td>
-			<a target="_blank" href="https://github.com/DominikN">
-				<img src="https://avatars.githubusercontent.com/u/7963800?s=72&u=4b96341ae3ebd2e39f59c7f8cedd644025e58299&v=4" width="24" alt="Avatar of DominikN"/> DominikN
-			</a><br/>
-			Dominik Nowak
-		</td>
-		<td>@husarion </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>914</td>
-		<td>914</td>
-	</tr>
-	<tr>
 		<td>260</td>
 		<td>
 			<a target="_blank" href="https://github.com/stloyd">
@@ -3748,7 +3748,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/stloyd">stloyd</a></td>
 		<td>Warsaw Poland</td>
 		<td>795</td>
-		<td>913</td>
+		<td>914</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -3767,6 +3767,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>262</td>
 		<td>
+			<a target="_blank" href="https://github.com/mdjastrzebski">
+				<img src="https://avatars.githubusercontent.com/u/6368606?s=72&u=92f45a67a4f565eb71e17dbf68055b8a98b851bd&v=4" width="24" alt="Avatar of mdjastrzebski"/> mdjastrzebski
+			</a><br/>
+			Maciej Jastrzebski
+		</td>
+		<td>@callstack </td>
+		<td><a target="_blank" href="https://twitter.com/mdj_dev">mdj_dev</a></td>
+		<td>Wrocaw</td>
+		<td>768</td>
+		<td>908</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
 			<a target="_blank" href="https://github.com/AdrianEddy">
 				<img src="https://avatars.githubusercontent.com/u/3849067?s=72&u=9a723b83b3cf1e348176c9169a3e6b3dc66679f3&v=4" width="24" alt="Avatar of AdrianEddy"/> AdrianEddy
 			</a><br/>
@@ -3776,20 +3790,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>900</td>
-		<td>903</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a target="_blank" href="https://github.com/mdjastrzebski">
-				<img src="https://avatars.githubusercontent.com/u/6368606?s=72&u=92f45a67a4f565eb71e17dbf68055b8a98b851bd&v=4" width="24" alt="Avatar of mdjastrzebski"/> mdjastrzebski
-			</a><br/>
-			Maciej Jastrzebski
-		</td>
-		<td>@callstack </td>
-		<td><a target="_blank" href="https://twitter.com/mdj_dev">mdj_dev</a></td>
-		<td>Wrocaw</td>
-		<td>764</td>
 		<td>903</td>
 	</tr>
 	<tr>
@@ -3831,8 +3831,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Warsaw University Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>378</td>
-		<td>883</td>
+		<td>380</td>
+		<td>887</td>
 	</tr>
 	<tr>
 		<td>267</td>
@@ -3845,11 +3845,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@dashbitco   </td>
 		<td><a target="_blank" href="https://twitter.com/wojtekmach">wojtekmach</a></td>
 		<td>Krakw Poland</td>
-		<td>874</td>
-		<td>874</td>
+		<td>875</td>
+		<td>875</td>
 	</tr>
 	<tr>
 		<td>268</td>
+		<td>
+			<a target="_blank" href="https://github.com/ochococo">
+				<img src="https://avatars.githubusercontent.com/u/3382607?s=72&u=b91e25ed3780844bd63bf83c361894bf07b1a262&v=4" width="24" alt="Avatar of ochococo"/> ochococo
+			</a><br/>
+			Oktawian Chojnacki
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw Poland Europe</td>
+		<td>6</td>
+		<td>874</td>
+	</tr>
+	<tr>
+		<td>269</td>
 		<td>
 			<a target="_blank" href="https://github.com/FractalFir">
 				<img src="https://avatars.githubusercontent.com/u/75212430?s=72&v=4" width="24" alt="Avatar of FractalFir"/> FractalFir
@@ -3861,20 +3875,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Szcecin Poland EU</td>
 		<td>832</td>
 		<td>872</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
-			<a target="_blank" href="https://github.com/ochococo">
-				<img src="https://avatars.githubusercontent.com/u/3382607?s=72&u=b91e25ed3780844bd63bf83c361894bf07b1a262&v=4" width="24" alt="Avatar of ochococo"/> ochococo
-			</a><br/>
-			Oktawian Chojnacki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw Poland Europe</td>
-		<td>6</td>
-		<td>860</td>
 	</tr>
 	<tr>
 		<td>270</td>
@@ -3893,6 +3893,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>271</td>
 		<td>
+			<a target="_blank" href="https://github.com/maks-rafalko">
+				<img src="https://avatars.githubusercontent.com/u/3725595?s=72&u=6a51065b7ccac83a60ba8c1f05621004e3d95078&v=4" width="24" alt="Avatar of maks-rafalko"/> maks-rafalko
+			</a><br/>
+			Maks Rafalko
+		</td>
+		<td>@infection  </td>
+		<td><a target="_blank" href="https://twitter.com/maks_rafalko">maks_rafalko</a></td>
+		<td>Warsaw</td>
+		<td>348</td>
+		<td>853</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
 			<a target="_blank" href="https://github.com/mczachurski">
 				<img src="https://avatars.githubusercontent.com/u/6191974?s=72&u=4f49646743530ae5578e293a4ed2433a1a9ca5fa&v=4" width="24" alt="Avatar of mczachurski"/> mczachurski
 			</a><br/>
@@ -3903,20 +3917,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Wrocaw Poland</td>
 		<td>834</td>
 		<td>851</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a target="_blank" href="https://github.com/maks-rafalko">
-				<img src="https://avatars.githubusercontent.com/u/3725595?s=72&u=6a51065b7ccac83a60ba8c1f05621004e3d95078&v=4" width="24" alt="Avatar of maks-rafalko"/> maks-rafalko
-			</a><br/>
-			Maks Rafalko
-		</td>
-		<td>@infection  </td>
-		<td><a target="_blank" href="https://twitter.com/maks_rafalko">maks_rafalko</a></td>
-		<td>Warsaw</td>
-		<td>346</td>
-		<td>849</td>
 	</tr>
 	<tr>
 		<td>273</td>
@@ -3935,6 +3935,34 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>274</td>
 		<td>
+			<a target="_blank" href="https://github.com/arcusfelis">
+				<img src="https://avatars.githubusercontent.com/u/639796?s=72&v=4" width="24" alt="Avatar of arcusfelis"/> arcusfelis
+			</a><br/>
+			Michael Uvarov
+		</td>
+		<td>Erlang Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Krakow Poland</td>
+		<td>847</td>
+		<td>847</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a target="_blank" href="https://github.com/Jackenmen">
+				<img src="https://avatars.githubusercontent.com/u/6032823?s=72&u=1993db2325c3003159f5417df5155699ad9b2523&v=4" width="24" alt="Avatar of Jackenmen"/> Jackenmen
+			</a><br/>
+			Jakub Kuczys
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/JakubKuczys">JakubKuczys</a></td>
+		<td>Poland</td>
+		<td>802</td>
+		<td>845</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
 			<a target="_blank" href="https://github.com/wdanilo">
 				<img src="https://avatars.githubusercontent.com/u/1623053?s=72&u=5a8c02675af4c8a4812f3f9985ae2220d15faf8d&v=4" width="24" alt="Avatar of wdanilo"/> wdanilo
 			</a><br/>
@@ -3947,7 +3975,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>843</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>277</td>
 		<td>
 			<a target="_blank" href="https://github.com/ambv">
 				<img src="https://avatars.githubusercontent.com/u/55281?s=72&u=e9e2a4147de2bb9a92dc0b865daf89bbfa666428&v=4" width="24" alt="Avatar of ambv"/> ambv
@@ -3961,7 +3989,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>840</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>278</td>
 		<td>
 			<a target="_blank" href="https://github.com/NicolasLM">
 				<img src="https://avatars.githubusercontent.com/u/7612656?s=72&u=8cd64238014f47cbe1c3337b9b9bddd401d91948&v=4" width="24" alt="Avatar of NicolasLM"/> NicolasLM
@@ -3975,7 +4003,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>840</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>279</td>
 		<td>
 			<a target="_blank" href="https://github.com/Trancever">
 				<img src="https://avatars.githubusercontent.com/u/18584155?s=72&u=aee44f0a0e437b913abd631010d0fef6316f7a70&v=4" width="24" alt="Avatar of Trancever"/> Trancever
@@ -3989,21 +4017,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>837</td>
 	</tr>
 	<tr>
-		<td>278</td>
-		<td>
-			<a target="_blank" href="https://github.com/Jackenmen">
-				<img src="https://avatars.githubusercontent.com/u/6032823?s=72&u=1993db2325c3003159f5417df5155699ad9b2523&v=4" width="24" alt="Avatar of Jackenmen"/> Jackenmen
-			</a><br/>
-			Jakub Kuczys
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/JakubKuczys">JakubKuczys</a></td>
-		<td>Poland</td>
-		<td>800</td>
-		<td>835</td>
-	</tr>
-	<tr>
-		<td>279</td>
+		<td>280</td>
 		<td>
 			<a target="_blank" href="https://github.com/zefhemel">
 				<img src="https://avatars.githubusercontent.com/u/59073?s=72&u=c237cc0572008a5b730d5cdd0e07eecc315bc223&v=4" width="24" alt="Avatar of zefhemel"/> zefhemel
@@ -4017,7 +4031,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>834</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomickigrzegorz">
 				<img src="https://avatars.githubusercontent.com/u/25438490?s=72&u=59952ae1532b6de6766872f6ac3a9be5a8f2be65&v=4" width="24" alt="Avatar of tomickigrzegorz"/> tomickigrzegorz
@@ -4031,20 +4045,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>829</td>
 	</tr>
 	<tr>
-		<td>281</td>
-		<td>
-			<a target="_blank" href="https://github.com/arcusfelis">
-				<img src="https://avatars.githubusercontent.com/u/639796?s=72&v=4" width="24" alt="Avatar of arcusfelis"/> arcusfelis
-			</a><br/>
-			Michael Uvarov
-		</td>
-		<td>Erlang Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Krakow Poland</td>
-		<td>828</td>
-		<td>828</td>
-	</tr>
-	<tr>
 		<td>282</td>
 		<td>
 			<a target="_blank" href="https://github.com/xnerhu">
@@ -4056,7 +4056,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/xnerhu">xnerhu</a></td>
 		<td>Poland Sopot</td>
 		<td>154</td>
-		<td>827</td>
+		<td>828</td>
 	</tr>
 	<tr>
 		<td>283</td>
@@ -4089,6 +4089,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>285</td>
 		<td>
+			<a target="_blank" href="https://github.com/Szymon20000">
+				<img src="https://avatars.githubusercontent.com/u/12784455?s=72&u=c8242d279ad241ed4a507f7889e4a98280e15990&v=4" width="24" alt="Avatar of Szymon20000"/> Szymon20000
+			</a><br/>
+			Szymon Kapaa
+		</td>
+		<td>@margelo  </td>
+		<td><a target="_blank" href="https://twitter.com/Turbo_Szymon">Turbo_Szymon</a></td>
+		<td>Poland</td>
+		<td>138</td>
+		<td>810</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
 			<a target="_blank" href="https://github.com/m1entus">
 				<img src="https://avatars.githubusercontent.com/u/1565368?s=72&u=869a2af95711cc1c9698e71173be67188dfdeaf6&v=4" width="24" alt="Avatar of m1entus"/> m1entus
 			</a><br/>
@@ -4099,20 +4113,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Cracow Poland</td>
 		<td>1</td>
 		<td>808</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a target="_blank" href="https://github.com/Szymon20000">
-				<img src="https://avatars.githubusercontent.com/u/12784455?s=72&u=c8242d279ad241ed4a507f7889e4a98280e15990&v=4" width="24" alt="Avatar of Szymon20000"/> Szymon20000
-			</a><br/>
-			Szymon Kapaa
-		</td>
-		<td>@margelo  </td>
-		<td><a target="_blank" href="https://twitter.com/Turbo_Szymon">Turbo_Szymon</a></td>
-		<td>Poland</td>
-		<td>138</td>
-		<td>807</td>
 	</tr>
 	<tr>
 		<td>287</td>
@@ -4173,6 +4173,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>291</td>
 		<td>
+			<a target="_blank" href="https://github.com/mat3e">
+				<img src="https://avatars.githubusercontent.com/u/8582753?s=72&u=f0a0a940c3245a28ebfe2c3ed019ea5a5553b828&v=4" width="24" alt="Avatar of mat3e"/> mat3e
+			</a><br/>
+			Mateusz Chrzonstowski
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/_mat3e_">_mat3e_</a></td>
+		<td>Poland</td>
+		<td>100</td>
+		<td>794</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
 			<a target="_blank" href="https://github.com/Arminek">
 				<img src="https://avatars.githubusercontent.com/u/6368946?s=72&u=b2c5e81b2aeb97a85eb071c7b5fe8eab90e22e0c&v=4" width="24" alt="Avatar of Arminek"/> Arminek
 			</a><br/>
@@ -4185,21 +4199,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>792</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
-			<a target="_blank" href="https://github.com/mat3e">
-				<img src="https://avatars.githubusercontent.com/u/8582753?s=72&u=f0a0a940c3245a28ebfe2c3ed019ea5a5553b828&v=4" width="24" alt="Avatar of mat3e"/> mat3e
+			<a target="_blank" href="https://github.com/studzien">
+				<img src="https://avatars.githubusercontent.com/u/1367110?s=72&u=7eb1e7b6b1d950da3d2b91df3f46355811447282&v=4" width="24" alt="Avatar of studzien"/> studzien
 			</a><br/>
-			Mateusz Chrzonstowski
+			Rafa Studnicki
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/_mat3e_">_mat3e_</a></td>
-		<td>Poland</td>
-		<td>100</td>
-		<td>790</td>
+		<td>Whatnot Inc </td>
+		<td>No Twitter Username</td>
+		<td>Krakw Poland</td>
+		<td>20</td>
+		<td>789</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a target="_blank" href="https://github.com/leszko">
 				<img src="https://avatars.githubusercontent.com/u/2834997?s=72&u=3e62d3b8e4ccf599b0b8db60298d5183f5f7730d&v=4" width="24" alt="Avatar of leszko"/> leszko
@@ -4211,20 +4225,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Krakw Poland</td>
 		<td>611</td>
 		<td>788</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a target="_blank" href="https://github.com/studzien">
-				<img src="https://avatars.githubusercontent.com/u/1367110?s=72&u=7eb1e7b6b1d950da3d2b91df3f46355811447282&v=4" width="24" alt="Avatar of studzien"/> studzien
-			</a><br/>
-			Rafa Studnicki
-		</td>
-		<td>Whatnot Inc </td>
-		<td>No Twitter Username</td>
-		<td>Krakw Poland</td>
-		<td>20</td>
-		<td>782</td>
 	</tr>
 	<tr>
 		<td>295</td>
@@ -4293,8 +4293,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>476</td>
-		<td>764</td>
+		<td>477</td>
+		<td>765</td>
 	</tr>
 	<tr>
 		<td>300</td>
@@ -4307,8 +4307,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>3mdeb </td>
 		<td><a target="_blank" href="https://twitter.com/pietrushnic">pietrushnic</a></td>
 		<td>GdanskPoland</td>
-		<td>761</td>
-		<td>761</td>
+		<td>762</td>
+		<td>762</td>
 	</tr>
 	<tr>
 		<td>301</td>
@@ -4336,7 +4336,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/IhorBurlachenko">IhorBurlachenko</a></td>
 		<td>Wroclaw Poland</td>
 		<td>91</td>
-		<td>755</td>
+		<td>757</td>
 	</tr>
 	<tr>
 		<td>303</td>
@@ -4419,8 +4419,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@rob006software </td>
 		<td><a target="_blank" href="https://twitter.com/rkorulczyk">rkorulczyk</a></td>
 		<td>Lublin Poland</td>
-		<td>741</td>
-		<td>741</td>
+		<td>742</td>
+		<td>742</td>
 	</tr>
 	<tr>
 		<td>309</td>
@@ -4453,6 +4453,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>311</td>
 		<td>
+			<a target="_blank" href="https://github.com/bartaz">
+				<img src="https://avatars.githubusercontent.com/u/83575?s=72&u=3bb36bba00a39af5bd0e3da220b360513412b18e&v=4" width="24" alt="Avatar of bartaz"/> bartaz
+			</a><br/>
+			Bartek Szopka
+		</td>
+		<td>@canonical  </td>
+		<td>No Twitter Username</td>
+		<td>Pozna Poland</td>
+		<td>733</td>
+		<td>733</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a target="_blank" href="https://github.com/DanielTRZ">
 				<img src="https://avatars.githubusercontent.com/u/71105883?s=72&u=913324380cd585f8f3185a6c76ffd0748e95d2f6&v=4" width="24" alt="Avatar of DanielTRZ"/> DanielTRZ
 			</a><br/>
@@ -4465,7 +4479,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>733</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukaszb">
 				<img src="https://avatars.githubusercontent.com/u/190381?s=72&u=58303494d9633720b7357637eaf46a70f72b4c29&v=4" width="24" alt="Avatar of lukaszb"/> lukaszb
@@ -4479,7 +4493,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>733</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a target="_blank" href="https://github.com/thepylot">
 				<img src="https://avatars.githubusercontent.com/u/42200400?s=72&u=e4565f1f76c978a70327c34f8d54766e690ef302&v=4" width="24" alt="Avatar of thepylot"/> thepylot
@@ -4493,20 +4507,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>732</td>
 	</tr>
 	<tr>
-		<td>314</td>
-		<td>
-			<a target="_blank" href="https://github.com/bartaz">
-				<img src="https://avatars.githubusercontent.com/u/83575?s=72&u=3bb36bba00a39af5bd0e3da220b360513412b18e&v=4" width="24" alt="Avatar of bartaz"/> bartaz
-			</a><br/>
-			Bartek Szopka
-		</td>
-		<td>@canonical  </td>
-		<td>No Twitter Username</td>
-		<td>Pozna Poland</td>
-		<td>731</td>
-		<td>731</td>
-	</tr>
-	<tr>
 		<td>315</td>
 		<td>
 			<a target="_blank" href="https://github.com/jstolarek">
@@ -4518,7 +4518,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>d Poland</td>
 		<td>75</td>
-		<td>730</td>
+		<td>731</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -4532,10 +4532,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/_cichocinski">_cichocinski</a></td>
 		<td>Krakw Poland</td>
 		<td>65</td>
-		<td>725</td>
+		<td>727</td>
 	</tr>
 	<tr>
 		<td>317</td>
+		<td>
+			<a target="_blank" href="https://github.com/smalluban">
+				<img src="https://avatars.githubusercontent.com/u/1906677?s=72&u=d2cc761e680a079ffa06508949ed1aab6a3ca07d&v=4" width="24" alt="Avatar of smalluban"/> smalluban
+			</a><br/>
+			Dominik Lubaski
+		</td>
+		<td>Ghostery </td>
+		<td><a target="_blank" href="https://twitter.com/smalluban">smalluban</a></td>
+		<td>Warsaw Poland</td>
+		<td>487</td>
+		<td>727</td>
+	</tr>
+	<tr>
+		<td>318</td>
 		<td>
 			<a target="_blank" href="https://github.com/panrafal">
 				<img src="https://avatars.githubusercontent.com/u/1268900?s=72&u=72e3def25d062b2e294fbb25812fdfe553eea919&v=4" width="24" alt="Avatar of panrafal"/> panrafal
@@ -4549,20 +4563,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>722</td>
 	</tr>
 	<tr>
-		<td>318</td>
-		<td>
-			<a target="_blank" href="https://github.com/smalluban">
-				<img src="https://avatars.githubusercontent.com/u/1906677?s=72&u=d2cc761e680a079ffa06508949ed1aab6a3ca07d&v=4" width="24" alt="Avatar of smalluban"/> smalluban
-			</a><br/>
-			Dominik Lubaski
-		</td>
-		<td>Ghostery </td>
-		<td><a target="_blank" href="https://twitter.com/smalluban">smalluban</a></td>
-		<td>Warsaw Poland</td>
-		<td>479</td>
-		<td>719</td>
-	</tr>
-	<tr>
 		<td>319</td>
 		<td>
 			<a target="_blank" href="https://github.com/marekkirejczyk">
@@ -4573,11 +4573,39 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Vlayer </td>
 		<td><a target="_blank" href="https://twitter.com/zkmarek">zkmarek</a></td>
 		<td>Warsaw</td>
-		<td>710</td>
-		<td>710</td>
+		<td>712</td>
+		<td>712</td>
 	</tr>
 	<tr>
 		<td>320</td>
+		<td>
+			<a target="_blank" href="https://github.com/bogdal">
+				<img src="https://avatars.githubusercontent.com/u/1451824?s=72&u=d89309eeb4b83098be8cae4dcd5bb179452d043a&v=4" width="24" alt="Avatar of bogdal"/> bogdal
+			</a><br/>
+			Adam Bogda
+		</td>
+		<td>@mirumee  </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>16</td>
+		<td>704</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a target="_blank" href="https://github.com/dawidd6">
+				<img src="https://avatars.githubusercontent.com/u/9713907?s=72&u=caab643eb55ea344a0f739c9f01b14b551d5ae51&v=4" width="24" alt="Avatar of dawidd6"/> dawidd6
+			</a><br/>
+			Dawid Dziurla
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>699</td>
+		<td>701</td>
+	</tr>
+	<tr>
+		<td>322</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamawallsec">
 				<img src="https://avatars.githubusercontent.com/u/84046930?s=72&u=b431d7de98a67dd518232fcef61173160f224210&v=4" width="24" alt="Avatar of kamawallsec"/> kamawallsec
@@ -4589,34 +4617,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poland</td>
 		<td>701</td>
 		<td>701</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a target="_blank" href="https://github.com/bogdal">
-				<img src="https://avatars.githubusercontent.com/u/1451824?s=72&u=d89309eeb4b83098be8cae4dcd5bb179452d043a&v=4" width="24" alt="Avatar of bogdal"/> bogdal
-			</a><br/>
-			Adam Bogda
-		</td>
-		<td>@mirumee  </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>16</td>
-		<td>700</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a target="_blank" href="https://github.com/dawidd6">
-				<img src="https://avatars.githubusercontent.com/u/9713907?s=72&u=caab643eb55ea344a0f739c9f01b14b551d5ae51&v=4" width="24" alt="Avatar of dawidd6"/> dawidd6
-			</a><br/>
-			Dawid Dziurla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>697</td>
-		<td>699</td>
 	</tr>
 	<tr>
 		<td>323</td>
@@ -4649,6 +4649,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>325</td>
 		<td>
+			<a target="_blank" href="https://github.com/kamilchm">
+				<img src="https://avatars.githubusercontent.com/u/1621930?s=72&v=4" width="24" alt="Avatar of kamilchm"/> kamilchm
+			</a><br/>
+			Kamil Chmielewski
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/kamilchm">kamilchm</a></td>
+		<td>Warsaw Poland</td>
+		<td>5</td>
+		<td>691</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
 			<a target="_blank" href="https://github.com/plokhotnyuk">
 				<img src="https://avatars.githubusercontent.com/u/890289?s=72&u=111f284af4796a29da51286ffee017d6c7ef66f4&v=4" width="24" alt="Avatar of plokhotnyuk"/> plokhotnyuk
 			</a><br/>
@@ -4659,20 +4673,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Krakw Poland</td>
 		<td>684</td>
 		<td>684</td>
-	</tr>
-	<tr>
-		<td>326</td>
-		<td>
-			<a target="_blank" href="https://github.com/kamilchm">
-				<img src="https://avatars.githubusercontent.com/u/1621930?s=72&v=4" width="24" alt="Avatar of kamilchm"/> kamilchm
-			</a><br/>
-			Kamil Chmielewski
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/kamilchm">kamilchm</a></td>
-		<td>Warsaw Poland</td>
-		<td>5</td>
-		<td>683</td>
 	</tr>
 	<tr>
 		<td>327</td>
@@ -4727,11 +4727,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Softwaremill </td>
 		<td><a target="_blank" href="https://twitter.com/kpciesielski">kpciesielski</a></td>
 		<td>Lublin Poland</td>
-		<td>655</td>
-		<td>655</td>
+		<td>657</td>
+		<td>657</td>
 	</tr>
 	<tr>
 		<td>331</td>
+		<td>
+			<a target="_blank" href="https://github.com/blefnk">
+				<img src="https://avatars.githubusercontent.com/u/104720746?s=72&u=5872611e1358768c20ddcb1f6c268bf4459943dd&v=4" width="24" alt="Avatar of blefnk"/> blefnk
+			</a><br/>
+			Nazar Kornienko
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/blefnk">blefnk</a></td>
+		<td>Poland</td>
+		<td>313</td>
+		<td>653</td>
+	</tr>
+	<tr>
+		<td>332</td>
 		<td>
 			<a target="_blank" href="https://github.com/hbaniecki">
 				<img src="https://avatars.githubusercontent.com/u/32574004?s=72&u=8c0d141f75c490d0dca23fd31c184a85d51c0e03&v=4" width="24" alt="Avatar of hbaniecki"/> hbaniecki
@@ -4745,21 +4759,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>653</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
-			<a target="_blank" href="https://github.com/blefnk">
-				<img src="https://avatars.githubusercontent.com/u/104720746?s=72&u=5872611e1358768c20ddcb1f6c268bf4459943dd&v=4" width="24" alt="Avatar of blefnk"/> blefnk
+			<a target="_blank" href="https://github.com/pawurb">
+				<img src="https://avatars.githubusercontent.com/u/1131944?s=72&u=cfab866e0eb42e909723a84a2111d38f6055594d&v=4" width="24" alt="Avatar of pawurb"/> pawurb
 			</a><br/>
-			Nazar Kornienko
+			Pawe Urbanek
 		</td>
 		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/blefnk">blefnk</a></td>
+		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>312</td>
-		<td>652</td>
+		<td>647</td>
+		<td>647</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a target="_blank" href="https://github.com/meshuga">
 				<img src="https://avatars.githubusercontent.com/u/1073936?s=72&u=714ea1f4fd04a2c083f3b9bee05cc245c327962e&v=4" width="24" alt="Avatar of meshuga"/> meshuga
@@ -4773,7 +4787,35 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>646</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
+		<td>
+			<a target="_blank" href="https://github.com/Scooletz">
+				<img src="https://avatars.githubusercontent.com/u/519707?s=72&u=2b70e642fdaf9f5110c04697275a7b860b83ad5d&v=4" width="24" alt="Avatar of Scooletz"/> Scooletz
+			</a><br/>
+			Szymon Kulec
+		</td>
+		<td>@dotnetos  </td>
+		<td><a target="_blank" href="https://twitter.com/scooletz">scooletz</a></td>
+		<td>Poland</td>
+		<td>556</td>
+		<td>645</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a target="_blank" href="https://github.com/tilk">
+				<img src="https://avatars.githubusercontent.com/u/509167?s=72&v=4" width="24" alt="Avatar of tilk"/> tilk
+			</a><br/>
+			Marek Materzok
+		</td>
+		<td>University Of Wrocaw </td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw Poland</td>
+		<td>624</td>
+		<td>645</td>
+	</tr>
+	<tr>
+		<td>337</td>
 		<td>
 			<a target="_blank" href="https://github.com/cahitihac">
 				<img src="https://avatars.githubusercontent.com/u/20772217?s=72&u=b05c968b93ef7872cbe3f5bc74f0d9bd17d2d521&v=4" width="24" alt="Avatar of cahitihac"/> cahitihac
@@ -4787,21 +4829,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>644</td>
 	</tr>
 	<tr>
-		<td>335</td>
-		<td>
-			<a target="_blank" href="https://github.com/Scooletz">
-				<img src="https://avatars.githubusercontent.com/u/519707?s=72&u=2b70e642fdaf9f5110c04697275a7b860b83ad5d&v=4" width="24" alt="Avatar of Scooletz"/> Scooletz
-			</a><br/>
-			Szymon Kulec
-		</td>
-		<td>@dotnetos  </td>
-		<td><a target="_blank" href="https://twitter.com/scooletz">scooletz</a></td>
-		<td>Poland</td>
-		<td>554</td>
-		<td>643</td>
-	</tr>
-	<tr>
-		<td>336</td>
+		<td>338</td>
 		<td>
 			<a target="_blank" href="https://github.com/advantis">
 				<img src="https://avatars.githubusercontent.com/u/853858?s=72&v=4" width="24" alt="Avatar of advantis"/> advantis
@@ -4815,7 +4843,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>643</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>339</td>
 		<td>
 			<a target="_blank" href="https://github.com/RaVbaker">
 				<img src="https://avatars.githubusercontent.com/u/56023?s=72&u=76d7cc9f056a7e53b9f9a57250a17e73e63e458d&v=4" width="24" alt="Avatar of RaVbaker"/> RaVbaker
@@ -4829,7 +4857,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>642</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>340</td>
 		<td>
 			<a target="_blank" href="https://github.com/zaps166">
 				<img src="https://avatars.githubusercontent.com/u/6239090?s=72&u=6e4bd1e6b88b0cad1b1a394f676c0c2c403579e7&v=4" width="24" alt="Avatar of zaps166"/> zaps166
@@ -4843,7 +4871,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>641</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>341</td>
 		<td>
 			<a target="_blank" href="https://github.com/gziolo">
 				<img src="https://avatars.githubusercontent.com/u/699132?s=72&u=f37a9d5ab9b8bd429780db87fe385a1eb4cdcff0&v=4" width="24" alt="Avatar of gziolo"/> gziolo
@@ -4853,11 +4881,11 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@automattic </td>
 		<td><a target="_blank" href="https://twitter.com/gziolo">gziolo</a></td>
 		<td>Olenica Poland</td>
-		<td>498</td>
-		<td>635</td>
+		<td>500</td>
+		<td>637</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>342</td>
 		<td>
 			<a target="_blank" href="https://github.com/peterblazejewicz">
 				<img src="https://avatars.githubusercontent.com/u/14539?s=72&v=4" width="24" alt="Avatar of peterblazejewicz"/> peterblazejewicz
@@ -4871,7 +4899,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>628</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>343</td>
 		<td>
 			<a target="_blank" href="https://github.com/Zales0123">
 				<img src="https://avatars.githubusercontent.com/u/6212718?s=72&u=8dce05b218e13faa6ab2092dfe6e0b1cdcd66780&v=4" width="24" alt="Avatar of Zales0123"/> Zales0123
@@ -4885,21 +4913,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>627</td>
 	</tr>
 	<tr>
-		<td>342</td>
-		<td>
-			<a target="_blank" href="https://github.com/tilk">
-				<img src="https://avatars.githubusercontent.com/u/509167?s=72&v=4" width="24" alt="Avatar of tilk"/> tilk
-			</a><br/>
-			Marek Materzok
-		</td>
-		<td>University Of Wrocaw </td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw Poland</td>
-		<td>603</td>
-		<td>624</td>
-	</tr>
-	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a target="_blank" href="https://github.com/Xyueta">
 				<img src="https://avatars.githubusercontent.com/u/101590573?s=72&u=70a20dca979b52b2612a7c95037764cc39d1c5da&v=4" width="24" alt="Avatar of Xyueta"/> Xyueta
@@ -4913,7 +4927,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>621</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a target="_blank" href="https://github.com/pie6k">
 				<img src="https://avatars.githubusercontent.com/u/7311462?s=72&u=bfd51d99536243402c528d1fe13567bc845f0205&v=4" width="24" alt="Avatar of pie6k"/> pie6k
@@ -4927,7 +4941,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>620</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a target="_blank" href="https://github.com/zamazan4ik">
 				<img src="https://avatars.githubusercontent.com/u/7355383?s=72&u=e660e0683b9637e93454f3ab385ee71cf65b5194&v=4" width="24" alt="Avatar of zamazan4ik"/> zamazan4ik
@@ -4941,7 +4955,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>620</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkljczk">
 				<img src="https://avatars.githubusercontent.com/u/21127288?s=72&u=fc93b6be126732653fc100110e8d40c1b6163187&v=4" width="24" alt="Avatar of mkljczk"/> mkljczk
@@ -4955,7 +4969,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>620</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a target="_blank" href="https://github.com/ales-tsurko">
 				<img src="https://avatars.githubusercontent.com/u/8686568?s=72&u=bd88eec743d063bced23ee593c33c01c01c319dd&v=4" width="24" alt="Avatar of ales-tsurko"/> ales-tsurko
@@ -4969,20 +4983,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>618</td>
 	</tr>
 	<tr>
-		<td>348</td>
-		<td>
-			<a target="_blank" href="https://github.com/pawurb">
-				<img src="https://avatars.githubusercontent.com/u/1131944?s=72&u=cfab866e0eb42e909723a84a2111d38f6055594d&v=4" width="24" alt="Avatar of pawurb"/> pawurb
-			</a><br/>
-			Pawe Urbanek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>612</td>
-		<td>612</td>
-	</tr>
-	<tr>
 		<td>349</td>
 		<td>
 			<a target="_blank" href="https://github.com/dzienisz">
@@ -4994,7 +4994,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/dzienko">dzienko</a></td>
 		<td>Warsaw</td>
 		<td>92</td>
-		<td>611</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>350</td>
@@ -5111,6 +5111,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>358</td>
 		<td>
+			<a target="_blank" href="https://github.com/luk6xff">
+				<img src="https://avatars.githubusercontent.com/u/4447615?s=72&u=2aae2e059d59b903574914a881c461d13a013a73&v=4" width="24" alt="Avatar of luk6xff"/> luk6xff
+			</a><br/>
+			Lukasz Uszko
+		</td>
+		<td>Volvocars </td>
+		<td><a target="_blank" href="https://twitter.com/luk6xff">luk6xff</a></td>
+		<td>Nowy Sacz Poland</td>
+		<td>349</td>
+		<td>585</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
 			<a target="_blank" href="https://github.com/mkwiatkowski">
 				<img src="https://avatars.githubusercontent.com/u/51481?s=72&v=4" width="24" alt="Avatar of mkwiatkowski"/> mkwiatkowski
 			</a><br/>
@@ -5121,20 +5135,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Gdask Poland</td>
 		<td>1</td>
 		<td>583</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a target="_blank" href="https://github.com/luk6xff">
-				<img src="https://avatars.githubusercontent.com/u/4447615?s=72&u=2aae2e059d59b903574914a881c461d13a013a73&v=4" width="24" alt="Avatar of luk6xff"/> luk6xff
-			</a><br/>
-			Lukasz Uszko
-		</td>
-		<td>Volvocars </td>
-		<td><a target="_blank" href="https://twitter.com/luk6xff">luk6xff</a></td>
-		<td>Nowy Sacz Poland</td>
-		<td>349</td>
-		<td>582</td>
 	</tr>
 	<tr>
 		<td>360</td>
@@ -5195,6 +5195,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>364</td>
 		<td>
+			<a target="_blank" href="https://github.com/WoLewicki">
+				<img src="https://avatars.githubusercontent.com/u/32481228?s=72&u=a11a30f43153b0bec3d97ec23b999bec7d2320d7&v=4" width="24" alt="Avatar of WoLewicki"/> WoLewicki
+			</a><br/>
+			Wojciech Lewicki
+		</td>
+		<td>Software Mansion </td>
+		<td>No Twitter Username</td>
+		<td>Krakw Poland</td>
+		<td>554</td>
+		<td>576</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
 			<a target="_blank" href="https://github.com/konhi">
 				<img src="https://avatars.githubusercontent.com/u/61631665?s=72&u=f3f87e7a275e11bf71013248429e75ddc96eb611&v=4" width="24" alt="Avatar of konhi"/> konhi
 			</a><br/>
@@ -5205,20 +5219,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Zielona Gra Poland</td>
 		<td>63</td>
 		<td>575</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a target="_blank" href="https://github.com/WoLewicki">
-				<img src="https://avatars.githubusercontent.com/u/32481228?s=72&u=a11a30f43153b0bec3d97ec23b999bec7d2320d7&v=4" width="24" alt="Avatar of WoLewicki"/> WoLewicki
-			</a><br/>
-			Wojciech Lewicki
-		</td>
-		<td>Software Mansion </td>
-		<td>No Twitter Username</td>
-		<td>Krakw Poland</td>
-		<td>552</td>
-		<td>574</td>
 	</tr>
 	<tr>
 		<td>366</td>
@@ -5265,6 +5265,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>369</td>
 		<td>
+			<a target="_blank" href="https://github.com/pdabrowski6">
+				<img src="https://avatars.githubusercontent.com/u/238076?s=72&u=59379c584bcad0c1923a7f6bc6a84c73a7beb5b4&v=4" width="24" alt="Avatar of pdabrowski6"/> pdabrowski6
+			</a><br/>
+			Pawe Dbrowski
+		</td>
+		<td>Ironin </td>
+		<td><a target="_blank" href="https://twitter.com/pdabrowski6">pdabrowski6</a></td>
+		<td>Poland</td>
+		<td>43</td>
+		<td>562</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
 			<a target="_blank" href="https://github.com/pbiecek">
 				<img src="https://avatars.githubusercontent.com/u/4624318?s=72&u=4831d730d77db8101740a02222119d68ec9f0a53&v=4" width="24" alt="Avatar of pbiecek"/> pbiecek
 			</a><br/>
@@ -5277,7 +5291,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>559</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a target="_blank" href="https://github.com/pieh">
 				<img src="https://avatars.githubusercontent.com/u/419821?s=72&u=07527b928c3f4456e471633b73c74f7c7b5ee7db&v=4" width="24" alt="Avatar of pieh"/> pieh
@@ -5291,7 +5305,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>559</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a target="_blank" href="https://github.com/4IceG">
 				<img src="https://avatars.githubusercontent.com/u/59826889?s=72&u=3db312dd3e6b4a0fc60b12d2f75998008e843ba9&v=4" width="24" alt="Avatar of 4IceG"/> 4IceG
@@ -5303,20 +5317,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Radom Poland</td>
 		<td>559</td>
 		<td>559</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a target="_blank" href="https://github.com/pdabrowski6">
-				<img src="https://avatars.githubusercontent.com/u/238076?s=72&u=59379c584bcad0c1923a7f6bc6a84c73a7beb5b4&v=4" width="24" alt="Avatar of pdabrowski6"/> pdabrowski6
-			</a><br/>
-			Pawe Dbrowski
-		</td>
-		<td>Ironin </td>
-		<td><a target="_blank" href="https://twitter.com/pdabrowski6">pdabrowski6</a></td>
-		<td>Poland</td>
-		<td>43</td>
-		<td>558</td>
 	</tr>
 	<tr>
 		<td>373</td>
@@ -5399,8 +5399,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Oazo Apps </td>
 		<td><a target="_blank" href="https://twitter.com/piotrekwitek">piotrekwitek</a></td>
 		<td>Remote from Poland</td>
-		<td>525</td>
-		<td>546</td>
+		<td>526</td>
+		<td>547</td>
 	</tr>
 	<tr>
 		<td>379</td>
@@ -5427,8 +5427,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Gdask Poland</td>
-		<td>484</td>
-		<td>544</td>
+		<td>485</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>381</td>
@@ -5461,6 +5461,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>383</td>
 		<td>
+			<a target="_blank" href="https://github.com/neongreen">
+				<img src="https://avatars.githubusercontent.com/u/1523306?s=72&u=5f293a31f737a8c26614dc8e42af9a09e54fcb47&v=4" width="24" alt="Avatar of neongreen"/> neongreen
+			</a><br/>
+			Emily
+		</td>
+		<td>@monadfix @brickdo @flolet </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>436</td>
+		<td>532</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
 			<a target="_blank" href="https://github.com/gikf">
 				<img src="https://avatars.githubusercontent.com/u/60067306?s=72&v=4" width="24" alt="Avatar of gikf"/> gikf
 			</a><br/>
@@ -5473,7 +5487,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>532</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a target="_blank" href="https://github.com/mariuszgil">
 				<img src="https://avatars.githubusercontent.com/u/108696?s=72&u=efda4fb63600bc2c8b4c3e1cb4c5bde99e120e7a&v=4" width="24" alt="Avatar of mariuszgil"/> mariuszgil
@@ -5487,7 +5501,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>531</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a target="_blank" href="https://github.com/Patryk27">
 				<img src="https://avatars.githubusercontent.com/u/3395477?s=72&u=3320cf7e9560f550c75237b29d8d0ae9769d25b1&v=4" width="24" alt="Avatar of Patryk27"/> Patryk27
@@ -5499,20 +5513,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Wrocaw Poland</td>
 		<td>531</td>
 		<td>531</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a target="_blank" href="https://github.com/neongreen">
-				<img src="https://avatars.githubusercontent.com/u/1523306?s=72&u=5f293a31f737a8c26614dc8e42af9a09e54fcb47&v=4" width="24" alt="Avatar of neongreen"/> neongreen
-			</a><br/>
-			Emily
-		</td>
-		<td>@monadfix @brickdo @flolet </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>435</td>
-		<td>530</td>
 	</tr>
 	<tr>
 		<td>387</td>
@@ -5554,7 +5554,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/CzajkowskiDarek">CzajkowskiDarek</a></td>
 		<td>Krakw Poland</td>
 		<td>15</td>
-		<td>520</td>
+		<td>522</td>
 	</tr>
 	<tr>
 		<td>390</td>
@@ -5637,25 +5637,11 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Software Engineer @toptal </td>
 		<td><a target="_blank" href="https://twitter.com/mkrl__">mkrl__</a></td>
 		<td>Warsaw Poland</td>
-		<td>311</td>
-		<td>507</td>
+		<td>312</td>
+		<td>511</td>
 	</tr>
 	<tr>
 		<td>396</td>
-		<td>
-			<a target="_blank" href="https://github.com/Ace-Krypton">
-				<img src="https://avatars.githubusercontent.com/u/75210504?s=72&u=cd172af6d7cb5d1420605b9d653f2e84e1c34b9f&v=4" width="24" alt="Avatar of Ace-Krypton"/> Ace-Krypton
-			</a><br/>
-			Ramiz Abbasov
-		</td>
-		<td>Pjait </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>424</td>
-		<td>506</td>
-	</tr>
-	<tr>
-		<td>397</td>
 		<td>
 			<a target="_blank" href="https://github.com/paneq">
 				<img src="https://avatars.githubusercontent.com/u/65587?s=72&u=42b11eb0c54ffc2698c3b23b4fd5cf96fff3d7fa&v=4" width="24" alt="Avatar of paneq"/> paneq
@@ -5666,6 +5652,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland Wrocaw</td>
 		<td>11</td>
+		<td>507</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a target="_blank" href="https://github.com/Ace-Krypton">
+				<img src="https://avatars.githubusercontent.com/u/75210504?s=72&u=cd172af6d7cb5d1420605b9d653f2e84e1c34b9f&v=4" width="24" alt="Avatar of Ace-Krypton"/> Ace-Krypton
+			</a><br/>
+			Ramiz Abbasov
+		</td>
+		<td>Pjait </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>424</td>
 		<td>506</td>
 	</tr>
 	<tr>
@@ -5721,8 +5721,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/naugtur">naugtur</a></td>
 		<td>Poland</td>
-		<td>495</td>
-		<td>495</td>
+		<td>496</td>
+		<td>496</td>
 	</tr>
 	<tr>
 		<td>402</td>
@@ -5783,20 +5783,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>406</td>
 		<td>
-			<a target="_blank" href="https://github.com/fastred">
-				<img src="https://avatars.githubusercontent.com/u/197767?s=72&u=56f516dd56f7b41f3e44758b6d1b72b539877ca7&v=4" width="24" alt="Avatar of fastred"/> fastred
-			</a><br/>
-			Arek Holko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>1</td>
-		<td>483</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
 			<a target="_blank" href="https://github.com/JavaSaBr">
 				<img src="https://avatars.githubusercontent.com/u/7160534?s=72&u=b12de6badce8e91bdb2098fa56f230f68dcf3bed&v=4" width="24" alt="Avatar of JavaSaBr"/> JavaSaBr
 			</a><br/>
@@ -5806,6 +5792,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/javasabr">javasabr</a></td>
 		<td>Krakow Poland</td>
 		<td>0</td>
+		<td>485</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a target="_blank" href="https://github.com/fastred">
+				<img src="https://avatars.githubusercontent.com/u/197767?s=72&u=56f516dd56f7b41f3e44758b6d1b72b539877ca7&v=4" width="24" alt="Avatar of fastred"/> fastred
+			</a><br/>
+			Arek Holko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>1</td>
 		<td>483</td>
 	</tr>
 	<tr>
@@ -5867,6 +5867,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>412</td>
 		<td>
+			<a target="_blank" href="https://github.com/xxczaki">
+				<img src="https://avatars.githubusercontent.com/u/22645979?s=72&u=5dbefa6b986851813d397cfe21b1edfecb3a285e&v=4" width="24" alt="Avatar of xxczaki"/> xxczaki
+			</a><br/>
+			Antoni Kpiski
+		</td>
+		<td>@omnicalculator @parsifydev </td>
+		<td><a target="_blank" href="https://twitter.com/xxczaki">xxczaki</a></td>
+		<td>Warsaw Poland</td>
+		<td>73</td>
+		<td>471</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
 			<a target="_blank" href="https://github.com/exelban">
 				<img src="https://avatars.githubusercontent.com/u/13332412?s=72&u=839d583ed658483af96a6fe40cd384d910522e1a&v=4" width="24" alt="Avatar of exelban"/> exelban
 			</a><br/>
@@ -5879,7 +5893,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>470</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/w84death">
 				<img src="https://avatars.githubusercontent.com/u/2567162?s=72&u=6fb2e06731bd1f74f87df2d9aade9e872a78d61a&v=4" width="24" alt="Avatar of w84death"/> w84death
@@ -5891,20 +5905,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poland</td>
 		<td>467</td>
 		<td>470</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a target="_blank" href="https://github.com/xxczaki">
-				<img src="https://avatars.githubusercontent.com/u/22645979?s=72&u=5dbefa6b986851813d397cfe21b1edfecb3a285e&v=4" width="24" alt="Avatar of xxczaki"/> xxczaki
-			</a><br/>
-			Antoni Kpiski
-		</td>
-		<td>@omnicalculator @parsifydev </td>
-		<td><a target="_blank" href="https://twitter.com/xxczaki">xxczaki</a></td>
-		<td>Warsaw Poland</td>
-		<td>73</td>
-		<td>469</td>
 	</tr>
 	<tr>
 		<td>415</td>
@@ -5923,6 +5923,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>416</td>
 		<td>
+			<a target="_blank" href="https://github.com/Szymon-Budziak">
+				<img src="https://avatars.githubusercontent.com/u/75530523?s=72&u=078f6132b0f0f51a6a668ec1a4874d1fc8cbdd8d&v=4" width="24" alt="Avatar of Szymon-Budziak"/> Szymon-Budziak
+			</a><br/>
+			Szymon Budziak
+		</td>
+		<td>Transmission Dynamics Poland </td>
+		<td>No Twitter Username</td>
+		<td>Cracow Poland</td>
+		<td>267</td>
+		<td>468</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a target="_blank" href="https://github.com/panr">
 				<img src="https://avatars.githubusercontent.com/u/1303365?s=72&u=a7d962df508f736813b707540bb4f44c59cce120&v=4" width="24" alt="Avatar of panr"/> panr
 			</a><br/>
@@ -5935,7 +5949,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>465</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a target="_blank" href="https://github.com/Psyhackological">
 				<img src="https://avatars.githubusercontent.com/u/47569716?s=72&u=66dc5e86731eaf8c6bc78a1bff34420ed2e5402b&v=4" width="24" alt="Avatar of Psyhackological"/> Psyhackological
@@ -5949,7 +5963,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>465</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/wolfgarbe">
 				<img src="https://avatars.githubusercontent.com/u/7057583?s=72&u=27ae406dbba45ebd0e9dfc608bdcfe5baa740134&v=4" width="24" alt="Avatar of wolfgarbe"/> wolfgarbe
@@ -5963,7 +5977,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>464</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgol">
 				<img src="https://avatars.githubusercontent.com/u/1758366?s=72&u=b8bbaee0cb1861098456b83b8674e0a6897fc9f3&v=4" width="24" alt="Avatar of mgol"/> mgol
@@ -5977,7 +5991,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a target="_blank" href="https://github.com/fcambus">
 				<img src="https://avatars.githubusercontent.com/u/825456?s=72&v=4" width="24" alt="Avatar of fcambus"/> fcambus
@@ -5991,7 +6005,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a target="_blank" href="https://github.com/retyui">
 				<img src="https://avatars.githubusercontent.com/u/4661784?s=72&v=4" width="24" alt="Avatar of retyui"/> retyui
@@ -6005,21 +6019,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>460</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
-			<a target="_blank" href="https://github.com/Szymon-Budziak">
-				<img src="https://avatars.githubusercontent.com/u/75530523?s=72&u=078f6132b0f0f51a6a668ec1a4874d1fc8cbdd8d&v=4" width="24" alt="Avatar of Szymon-Budziak"/> Szymon-Budziak
+			<a target="_blank" href="https://github.com/kbakdev">
+				<img src="https://avatars.githubusercontent.com/u/56700396?s=72&u=c971647b22ff2720f6f173fc3c0371eff5222c12&v=4" width="24" alt="Avatar of kbakdev"/> kbakdev
 			</a><br/>
-			Szymon Budziak
+			Kacper Bk
 		</td>
-		<td>Transmission Dynamics Poland </td>
-		<td>No Twitter Username</td>
-		<td>Cracow Poland</td>
-		<td>267</td>
-		<td>460</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/KacperBk18">KacperBk18</a></td>
+		<td>Poland</td>
+		<td>178</td>
+		<td>455</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a target="_blank" href="https://github.com/OrestTa">
 				<img src="https://avatars.githubusercontent.com/u/830847?s=72&v=4" width="24" alt="Avatar of OrestTa"/> OrestTa
@@ -6033,7 +6047,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>455</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a target="_blank" href="https://github.com/DamianGlowala">
 				<img src="https://avatars.githubusercontent.com/u/48835293?s=72&u=35e90ee7a0b11b84c26484c178bcecee8e77daa8&v=4" width="24" alt="Avatar of DamianGlowala"/> DamianGlowala
@@ -6047,21 +6061,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>455</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
-			<a target="_blank" href="https://github.com/kbakdev">
-				<img src="https://avatars.githubusercontent.com/u/56700396?s=72&u=c971647b22ff2720f6f173fc3c0371eff5222c12&v=4" width="24" alt="Avatar of kbakdev"/> kbakdev
+			<a target="_blank" href="https://github.com/krzysztofzablocki">
+				<img src="https://avatars.githubusercontent.com/u/1468993?s=72&u=e3b8c60cc5878bad71c073d8b901b882780d5e1c&v=4" width="24" alt="Avatar of krzysztofzablocki"/> krzysztofzablocki
 			</a><br/>
-			Kacper Bk
+			Krzysztof Zabocki
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/KacperBk18">KacperBk18</a></td>
-		<td>Poland</td>
-		<td>178</td>
-		<td>452</td>
+		<td>@thebrowsercompany  </td>
+		<td><a target="_blank" href="https://twitter.com/merowing_">merowing_</a></td>
+		<td>Warsaw Poland</td>
+		<td>147</td>
+		<td>451</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a target="_blank" href="https://github.com/gambala">
 				<img src="https://avatars.githubusercontent.com/u/2563426?s=72&u=2c7276f0923cb7e79482dc44558669a1fea8f5c1&v=4" width="24" alt="Avatar of gambala"/> gambala
@@ -6073,20 +6087,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Warsaw Poland</td>
 		<td>42</td>
 		<td>450</td>
-	</tr>
-	<tr>
-		<td>427</td>
-		<td>
-			<a target="_blank" href="https://github.com/krzysztofzablocki">
-				<img src="https://avatars.githubusercontent.com/u/1468993?s=72&u=e3b8c60cc5878bad71c073d8b901b882780d5e1c&v=4" width="24" alt="Avatar of krzysztofzablocki"/> krzysztofzablocki
-			</a><br/>
-			Krzysztof Zabocki
-		</td>
-		<td>@thebrowsercompany  </td>
-		<td><a target="_blank" href="https://twitter.com/merowing_">merowing_</a></td>
-		<td>Warsaw Poland</td>
-		<td>147</td>
-		<td>449</td>
 	</tr>
 	<tr>
 		<td>428</td>
@@ -6239,11 +6239,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Invisible Things Lab @invisiblethingslab<br/>@qubesos<br/>@gramineproject<br/></td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>377</td>
-		<td>403</td>
+		<td>378</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>439</td>
+		<td>
+			<a target="_blank" href="https://github.com/DoomHammer">
+				<img src="https://avatars.githubusercontent.com/u/695373?s=72&v=4" width="24" alt="Avatar of DoomHammer"/> DoomHammer
+			</a><br/>
+			Piotr Gaczkowski
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/DoomHammerNG">DoomHammerNG</a></td>
+		<td>Gdask Poland</td>
+		<td>329</td>
+		<td>403</td>
+	</tr>
+	<tr>
+		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcinwyszynski">
 				<img src="https://avatars.githubusercontent.com/u/571786?s=72&u=7020a2448400e279113f62bfa63240a69f3f3a11&v=4" width="24" alt="Avatar of marcinwyszynski"/> marcinwyszynski
@@ -6257,7 +6271,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>403</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a target="_blank" href="https://github.com/blipinsk">
 				<img src="https://avatars.githubusercontent.com/u/6371716?s=72&u=c854413a9184195c2e6f74af79331fa88eb26fd1&v=4" width="24" alt="Avatar of blipinsk"/> blipinsk
@@ -6268,20 +6282,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/blipinsk">blipinsk</a></td>
 		<td>Warsaw Poland</td>
 		<td>29</td>
-		<td>402</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a target="_blank" href="https://github.com/DoomHammer">
-				<img src="https://avatars.githubusercontent.com/u/695373?s=72&v=4" width="24" alt="Avatar of DoomHammer"/> DoomHammer
-			</a><br/>
-			Piotr Gaczkowski
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/DoomHammerNG">DoomHammerNG</a></td>
-		<td>Gdask Poland</td>
-		<td>329</td>
 		<td>402</td>
 	</tr>
 	<tr>
@@ -6310,7 +6310,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gdask Poland</td>
 		<td>0</td>
-		<td>398</td>
+		<td>399</td>
 	</tr>
 	<tr>
 		<td>444</td>
@@ -6329,6 +6329,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>445</td>
 		<td>
+			<a target="_blank" href="https://github.com/nesbox">
+				<img src="https://avatars.githubusercontent.com/u/1101448?s=72&u=0eca70a6c88f2c8fbfa2cb2fa4e1f19fa1a630e7&v=4" width="24" alt="Avatar of nesbox"/> nesbox
+			</a><br/>
+			Vadim Grigoruk
+		</td>
+		<td>Nesbox </td>
+		<td><a target="_blank" href="https://twitter.com/tic_computer">tic_computer</a></td>
+		<td>Wrocaw Poland</td>
+		<td>246</td>
+		<td>396</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
 			<a target="_blank" href="https://github.com/kolinko">
 				<img src="https://avatars.githubusercontent.com/u/274250?s=72&v=4" width="24" alt="Avatar of kolinko"/> kolinko
 			</a><br/>
@@ -6341,7 +6355,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>396</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a target="_blank" href="https://github.com/wuub">
 				<img src="https://avatars.githubusercontent.com/u/588857?s=72&u=4c63e9d84a3c71594744e86e7165cf22809b4f75&v=4" width="24" alt="Avatar of wuub"/> wuub
@@ -6353,20 +6367,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Warsaw Poland</td>
 		<td>1</td>
 		<td>395</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a target="_blank" href="https://github.com/nesbox">
-				<img src="https://avatars.githubusercontent.com/u/1101448?s=72&u=0eca70a6c88f2c8fbfa2cb2fa4e1f19fa1a630e7&v=4" width="24" alt="Avatar of nesbox"/> nesbox
-			</a><br/>
-			Vadim Grigoruk
-		</td>
-		<td>Nesbox </td>
-		<td><a target="_blank" href="https://twitter.com/tic_computer">tic_computer</a></td>
-		<td>Wrocaw Poland</td>
-		<td>244</td>
-		<td>394</td>
 	</tr>
 	<tr>
 		<td>448</td>
@@ -6463,8 +6463,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Haulethdev </td>
 		<td><a target="_blank" href="https://twitter.com/hauleth">hauleth</a></td>
 		<td>Pozna Poland</td>
-		<td>358</td>
-		<td>374</td>
+		<td>359</td>
+		<td>375</td>
 	</tr>
 	<tr>
 		<td>455</td>
@@ -6492,7 +6492,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakw Poland</td>
 		<td>21</td>
-		<td>365</td>
+		<td>366</td>
 	</tr>
 	<tr>
 		<td>457</td>
@@ -6534,10 +6534,24 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw</td>
 		<td>18</td>
-		<td>361</td>
+		<td>362</td>
 	</tr>
 	<tr>
 		<td>460</td>
+		<td>
+			<a target="_blank" href="https://github.com/MonsieurZbanowanYY">
+				<img src="https://avatars.githubusercontent.com/u/81767518?s=72&u=dc805e710e6d02f9406a851bf4ac36da736a3428&v=4" width="24" alt="Avatar of MonsieurZbanowanYY"/> MonsieurZbanowanYY
+			</a><br/>
+			Martin Gogoowicz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland Katowice</td>
+		<td>16</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>461</td>
 		<td>
 			<a target="_blank" href="https://github.com/pxtrez">
 				<img src="https://avatars.githubusercontent.com/u/79142358?s=72&u=2bc8587b7ec317592ff20f98951f129a06a656d8&v=4" width="24" alt="Avatar of pxtrez"/> pxtrez
@@ -6551,7 +6565,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>360</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a target="_blank" href="https://github.com/wzslr321">
 				<img src="https://avatars.githubusercontent.com/u/59893892?s=72&u=b8050e652b4f816f9c3e6cdaac3b8954363a8e22&v=4" width="24" alt="Avatar of wzslr321"/> wzslr321
@@ -6562,10 +6576,10 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>158</td>
-		<td>359</td>
+		<td>360</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a target="_blank" href="https://github.com/tdi">
 				<img src="https://avatars.githubusercontent.com/u/376847?s=72&u=139c8d6430624e9123fc5e9aa0ea20ad10b1ef78&v=4" width="24" alt="Avatar of tdi"/> tdi
@@ -6579,7 +6593,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>359</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a target="_blank" href="https://github.com/VEINHORN">
 				<img src="https://avatars.githubusercontent.com/u/3595400?s=72&u=9d91d5b1df4452c8938d4cd46c2bd11b293e445b&v=4" width="24" alt="Avatar of VEINHORN"/> VEINHORN
@@ -6593,7 +6607,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>358</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/micorix">
 				<img src="https://avatars.githubusercontent.com/u/20800459?s=72&u=86aa23cee5e566975dd1f6632d95740db5464385&v=4" width="24" alt="Avatar of micorix"/> micorix
@@ -6607,7 +6621,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a target="_blank" href="https://github.com/alecpl">
 				<img src="https://avatars.githubusercontent.com/u/546788?s=72&u=dc11ee904d06487ded30ae8e3f38295900bf9ab2&v=4" width="24" alt="Avatar of alecpl"/> alecpl
@@ -6621,7 +6635,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>356</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojciech12">
 				<img src="https://avatars.githubusercontent.com/u/30651937?s=72&u=bea0a7d63f5e20a253c98d43d5f154e3cf462b06&v=4" width="24" alt="Avatar of wojciech12"/> wojciech12
@@ -6635,7 +6649,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>355</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/StanczakDominik">
 				<img src="https://avatars.githubusercontent.com/u/11289391?s=72&u=dd018d354598549d67a404561596666c23e80a9d&v=4" width="24" alt="Avatar of StanczakDominik"/> StanczakDominik
@@ -6649,7 +6663,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>354</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/jakub-gonet">
 				<img src="https://avatars.githubusercontent.com/u/12465392?s=72&u=2026b4dfdbd26679707bc2db125b098ce91aef8c&v=4" width="24" alt="Avatar of jakub-gonet"/> jakub-gonet
@@ -6660,20 +6674,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakow Poland</td>
 		<td>8</td>
-		<td>354</td>
-	</tr>
-	<tr>
-		<td>469</td>
-		<td>
-			<a target="_blank" href="https://github.com/MonsieurZbanowanYY">
-				<img src="https://avatars.githubusercontent.com/u/81767518?s=72&u=dc805e710e6d02f9406a851bf4ac36da736a3428&v=4" width="24" alt="Avatar of MonsieurZbanowanYY"/> MonsieurZbanowanYY
-			</a><br/>
-			Martin Gogoowicz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland Katowice</td>
-		<td>16</td>
 		<td>354</td>
 	</tr>
 	<tr>
@@ -6875,6 +6875,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>484</td>
 		<td>
+			<a target="_blank" href="https://github.com/ayufan">
+				<img src="https://avatars.githubusercontent.com/u/2419009?s=72&u=ecea20fdf1c9b3581ff5cc4a26039f024af7a7de&v=4" width="24" alt="Avatar of ayufan"/> ayufan
+			</a><br/>
+			Kamil Trzciski
+		</td>
+		<td>Senior Distinguished Engineer At<br/>Gitlab<br/></td>
+		<td><a target="_blank" href="https://twitter.com/ayufanpl">ayufanpl</a></td>
+		<td>Warsaw Poland</td>
+		<td>255</td>
+		<td>334</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
 			<a target="_blank" href="https://github.com/mpostol">
 				<img src="https://avatars.githubusercontent.com/u/11937915?s=72&v=4" width="24" alt="Avatar of mpostol"/> mpostol
 			</a><br/>
@@ -6885,20 +6899,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Lodz Poland</td>
 		<td>215</td>
 		<td>333</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a target="_blank" href="https://github.com/ayufan">
-				<img src="https://avatars.githubusercontent.com/u/2419009?s=72&u=ecea20fdf1c9b3581ff5cc4a26039f024af7a7de&v=4" width="24" alt="Avatar of ayufan"/> ayufan
-			</a><br/>
-			Kamil Trzciski
-		</td>
-		<td>Senior Distinguished Engineer At<br/>Gitlab<br/></td>
-		<td><a target="_blank" href="https://twitter.com/ayufanpl">ayufanpl</a></td>
-		<td>Warsaw Poland</td>
-		<td>255</td>
-		<td>332</td>
 	</tr>
 	<tr>
 		<td>486</td>
@@ -6931,20 +6931,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>488</td>
 		<td>
-			<a target="_blank" href="https://github.com/patrys">
-				<img src="https://avatars.githubusercontent.com/u/81205?s=72&u=83aefd1ab1e4219ec7135f173ddf7b1335ef0301&v=4" width="24" alt="Avatar of patrys"/> patrys
-			</a><br/>
-			Patryk Zawadzki
-		</td>
-		<td>Saleor Commerce </td>
-		<td><a target="_blank" href="https://twitter.com/patrys">patrys</a></td>
-		<td>Wrocaw Poland</td>
-		<td>229</td>
-		<td>321</td>
-	</tr>
-	<tr>
-		<td>489</td>
-		<td>
 			<a target="_blank" href="https://github.com/alec-c4">
 				<img src="https://avatars.githubusercontent.com/u/25312?s=72&u=2c0dc99077decca52a0e4dd5291be46e0d6ef48d&v=4" width="24" alt="Avatar of alec-c4"/> alec-c4
 			</a><br/>
@@ -6954,6 +6940,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/alec_c4">alec_c4</a></td>
 		<td>Warsaw Poland  Yerevan Armenia  Moscow Russia </td>
 		<td>53</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a target="_blank" href="https://github.com/patrys">
+				<img src="https://avatars.githubusercontent.com/u/81205?s=72&u=83aefd1ab1e4219ec7135f173ddf7b1335ef0301&v=4" width="24" alt="Avatar of patrys"/> patrys
+			</a><br/>
+			Patryk Zawadzki
+		</td>
+		<td>Saleor Commerce </td>
+		<td><a target="_blank" href="https://twitter.com/patrys">patrys</a></td>
+		<td>Wrocaw Poland</td>
+		<td>229</td>
 		<td>321</td>
 	</tr>
 	<tr>
@@ -7099,20 +7099,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>500</td>
 		<td>
-			<a target="_blank" href="https://github.com/bkamins">
-				<img src="https://avatars.githubusercontent.com/u/6187170?s=72&u=5c3740d232a74800a9909dd05851d49e7d8805f6&v=4" width="24" alt="Avatar of bkamins"/> bkamins
-			</a><br/>
-			Bogumi Kamiski
-		</td>
-		<td>Sgh Warsaw School Of<br/>Economics<br/></td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>191</td>
-		<td>297</td>
-	</tr>
-	<tr>
-		<td>501</td>
-		<td>
 			<a target="_blank" href="https://github.com/pxseu">
 				<img src="https://avatars.githubusercontent.com/u/57842793?s=72&u=64c09facbeef3ab2670b628c7c6239d806e43012&v=4" width="24" alt="Avatar of pxseu"/> pxseu
 			</a><br/>
@@ -7122,6 +7108,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/pxseu">pxseu</a></td>
 		<td>Poland</td>
 		<td>117</td>
+		<td>299</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a target="_blank" href="https://github.com/bkamins">
+				<img src="https://avatars.githubusercontent.com/u/6187170?s=72&u=5c3740d232a74800a9909dd05851d49e7d8805f6&v=4" width="24" alt="Avatar of bkamins"/> bkamins
+			</a><br/>
+			Bogumi Kamiski
+		</td>
+		<td>Sgh Warsaw School Of<br/>Economics<br/></td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>191</td>
 		<td>297</td>
 	</tr>
 	<tr>
@@ -7192,7 +7192,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Szczecin Poland</td>
 		<td>0</td>
-		<td>285</td>
+		<td>287</td>
 	</tr>
 	<tr>
 		<td>507</td>
@@ -7421,6 +7421,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>523</td>
 		<td>
+			<a target="_blank" href="https://github.com/mdtanrikulu">
+				<img src="https://avatars.githubusercontent.com/u/2774845?s=72&u=2fff75fc8fbeb69ed20189dbaac862c22c5a9987&v=4" width="24" alt="Avatar of mdtanrikulu"/> mdtanrikulu
+			</a><br/>
+			Muhammed Tanrkulu
+		</td>
+		<td>@ensdomains @almonit </td>
+		<td><a target="_blank" href="https://twitter.com/md_tanrikulu">md_tanrikulu</a></td>
+		<td>Warsaw Poland</td>
+		<td>231</td>
+		<td>247</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
 			<a target="_blank" href="https://github.com/pzduniak">
 				<img src="https://avatars.githubusercontent.com/u/917230?s=72&u=f277e7deb18659ce831a37cfe59cfe05119e3c2d&v=4" width="24" alt="Avatar of pzduniak"/> pzduniak
 			</a><br/>
@@ -7431,20 +7445,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>d Poland</td>
 		<td>8</td>
 		<td>247</td>
-	</tr>
-	<tr>
-		<td>524</td>
-		<td>
-			<a target="_blank" href="https://github.com/mdtanrikulu">
-				<img src="https://avatars.githubusercontent.com/u/2774845?s=72&u=2fff75fc8fbeb69ed20189dbaac862c22c5a9987&v=4" width="24" alt="Avatar of mdtanrikulu"/> mdtanrikulu
-			</a><br/>
-			Muhammed Tanrkulu
-		</td>
-		<td>@ensdomains @almonit </td>
-		<td><a target="_blank" href="https://twitter.com/md_tanrikulu">md_tanrikulu</a></td>
-		<td>Warsaw Poland</td>
-		<td>230</td>
-		<td>246</td>
 	</tr>
 	<tr>
 		<td>525</td>
@@ -7477,6 +7477,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>527</td>
 		<td>
+			<a target="_blank" href="https://github.com/Emzi0767">
+				<img src="https://avatars.githubusercontent.com/u/784448?s=72&u=62fe7c245e7df584ce3b52d69ad117a0d78209a7&v=4" width="24" alt="Avatar of Emzi0767"/> Emzi0767
+			</a><br/>
+			Mateusz Brawaski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>28</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
 			<a target="_blank" href="https://github.com/divadsn">
 				<img src="https://avatars.githubusercontent.com/u/28547847?s=72&u=e238fcab898a4694a054a582a281904dc9f28f8b&v=4" width="24" alt="Avatar of divadsn"/> divadsn
 			</a><br/>
@@ -7487,20 +7501,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Krakow Poland</td>
 		<td>99</td>
 		<td>241</td>
-	</tr>
-	<tr>
-		<td>528</td>
-		<td>
-			<a target="_blank" href="https://github.com/Emzi0767">
-				<img src="https://avatars.githubusercontent.com/u/784448?s=72&u=62fe7c245e7df584ce3b52d69ad117a0d78209a7&v=4" width="24" alt="Avatar of Emzi0767"/> Emzi0767
-			</a><br/>
-			Mateusz Brawaski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>28</td>
-		<td>240</td>
 	</tr>
 	<tr>
 		<td>529</td>
@@ -7612,7 +7612,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw </td>
 		<td>87</td>
-		<td>232</td>
+		<td>235</td>
 	</tr>
 	<tr>
 		<td>537</td>
@@ -7667,8 +7667,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>75</td>
-		<td>223</td>
+		<td>76</td>
+		<td>224</td>
 	</tr>
 	<tr>
 		<td>541</td>
@@ -7701,6 +7701,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>543</td>
 		<td>
+			<a target="_blank" href="https://github.com/Esemesek">
+				<img src="https://avatars.githubusercontent.com/u/9092510?s=72&u=9cce7cba91494d7ba5c0d29662a45e603c465fbf&v=4" width="24" alt="Avatar of Esemesek"/> Esemesek
+			</a><br/>
+			Kacper Wiszczuk
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/esemesek">esemesek</a></td>
+		<td>Wrocaw Poland</td>
+		<td>65</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
 			<a target="_blank" href="https://github.com/andy128k">
 				<img src="https://avatars.githubusercontent.com/u/16103?s=72&u=db96758f3d945fd10b2661d6c1e5830f9f614675&v=4" width="24" alt="Avatar of andy128k"/> andy128k
 			</a><br/>
@@ -7711,20 +7725,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Krakw</td>
 		<td>216</td>
 		<td>219</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a target="_blank" href="https://github.com/Esemesek">
-				<img src="https://avatars.githubusercontent.com/u/9092510?s=72&u=9cce7cba91494d7ba5c0d29662a45e603c465fbf&v=4" width="24" alt="Avatar of Esemesek"/> Esemesek
-			</a><br/>
-			Kacper Wiszczuk
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/esemesek">esemesek</a></td>
-		<td>Wrocaw Poland</td>
-		<td>65</td>
-		<td>218</td>
 	</tr>
 	<tr>
 		<td>545</td>
@@ -7822,7 +7822,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/tomekl007">tomekl007</a></td>
 		<td>Poland</td>
 		<td>4</td>
-		<td>204</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>552</td>
@@ -7925,6 +7925,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>559</td>
 		<td>
+			<a target="_blank" href="https://github.com/ducin">
+				<img src="https://avatars.githubusercontent.com/u/375027?s=72&v=4" width="24" alt="Avatar of ducin"/> ducin
+			</a><br/>
+			Tomasz Ducin
+		</td>
+		<td>@tomaszducin </td>
+		<td><a target="_blank" href="https://twitter.com/tomasz_ducin">tomasz_ducin</a></td>
+		<td>Poland</td>
+		<td>185</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
 			<a target="_blank" href="https://github.com/kdzwinel">
 				<img src="https://avatars.githubusercontent.com/u/985504?s=72&u=5217b4407b94a5837696843d9af563d43dd1b436&v=4" width="24" alt="Avatar of kdzwinel"/> kdzwinel
 			</a><br/>
@@ -7937,7 +7951,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a target="_blank" href="https://github.com/MateuszDabrowski">
 				<img src="https://avatars.githubusercontent.com/u/13339456?s=72&u=dcf24819530a44203c6300f1612569a86a1a30c3&v=4" width="24" alt="Avatar of MateuszDabrowski"/> MateuszDabrowski
@@ -7949,20 +7963,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poland Warsaw</td>
 		<td>184</td>
 		<td>184</td>
-	</tr>
-	<tr>
-		<td>561</td>
-		<td>
-			<a target="_blank" href="https://github.com/ducin">
-				<img src="https://avatars.githubusercontent.com/u/375027?s=72&v=4" width="24" alt="Avatar of ducin"/> ducin
-			</a><br/>
-			Tomasz Ducin
-		</td>
-		<td>@tomaszducin </td>
-		<td><a target="_blank" href="https://twitter.com/tomasz_ducin">tomasz_ducin</a></td>
-		<td>Poland</td>
-		<td>183</td>
-		<td>183</td>
 	</tr>
 	<tr>
 		<td>562</td>
@@ -8177,6 +8177,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>577</td>
 		<td>
+			<a target="_blank" href="https://github.com/adrianolszewski">
+				<img src="https://avatars.githubusercontent.com/u/95669100?s=72&u=065ed50151af015a37720c5631cdfeb536cd0725&v=4" width="24" alt="Avatar of adrianolszewski"/> adrianolszewski
+			</a><br/>
+			Adrian Olszewski
+		</td>
+		<td>2kmm Cro </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>168</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
 			<a target="_blank" href="https://github.com/elgatito">
 				<img src="https://avatars.githubusercontent.com/u/1247242?s=72&u=d9b8894270efbee3778e0b929d7cc07f0bea7071&v=4" width="24" alt="Avatar of elgatito"/> elgatito
 			</a><br/>
@@ -8189,7 +8203,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzjoa">
 				<img src="https://avatars.githubusercontent.com/u/17183113?s=72&u=ad32507b9e440e4d4cf517fbc9b0e753205989da&v=4" width="24" alt="Avatar of krzjoa"/> krzjoa
@@ -8200,20 +8214,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Pozna Poland</td>
 		<td>157</td>
-		<td>167</td>
-	</tr>
-	<tr>
-		<td>579</td>
-		<td>
-			<a target="_blank" href="https://github.com/adrianolszewski">
-				<img src="https://avatars.githubusercontent.com/u/95669100?s=72&u=065ed50151af015a37720c5631cdfeb536cd0725&v=4" width="24" alt="Avatar of adrianolszewski"/> adrianolszewski
-			</a><br/>
-			Adrian Olszewski
-		</td>
-		<td>2kmm Cro </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>167</td>
 		<td>167</td>
 	</tr>
 	<tr>
@@ -8241,8 +8241,8 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Protocol Labs </td>
 		<td>No Twitter Username</td>
 		<td>Krakw Poland</td>
-		<td>163</td>
-		<td>165</td>
+		<td>164</td>
+		<td>166</td>
 	</tr>
 	<tr>
 		<td>582</td>
@@ -8373,6 +8373,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>591</td>
 		<td>
+			<a target="_blank" href="https://github.com/mikigal">
+				<img src="https://avatars.githubusercontent.com/u/10632503?s=72&u=02de5a4be67350a92ac51831246a3e7c8f1f863b&v=4" width="24" alt="Avatar of mikigal"/> mikigal
+			</a><br/>
+			Mikoaj Gazka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>121</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
 			<a target="_blank" href="https://github.com/lowleveldesign">
 				<img src="https://avatars.githubusercontent.com/u/6109268?s=72&u=dfe6993007cb4c50502ffc5467e8949d0bfb01fd&v=4" width="24" alt="Avatar of lowleveldesign"/> lowleveldesign
 			</a><br/>
@@ -8385,7 +8399,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/komar007">
 				<img src="https://avatars.githubusercontent.com/u/108297?s=72&v=4" width="24" alt="Avatar of komar007"/> komar007
@@ -8399,7 +8413,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/Chmarusso">
 				<img src="https://avatars.githubusercontent.com/u/1804368?s=72&u=49702e959d64bb8a7a79388caea362705307f35a&v=4" width="24" alt="Avatar of Chmarusso"/> Chmarusso
@@ -8409,11 +8423,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ArtiChmaro">ArtiChmaro</a></td>
 		<td>Poland</td>
-		<td>156</td>
-		<td>156</td>
+		<td>155</td>
+		<td>155</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
+		<td>
+			<a target="_blank" href="https://github.com/dawidwys">
+				<img src="https://avatars.githubusercontent.com/u/6242259?s=72&u=9afed5c548b788de404826d3a3d03520821c78a3&v=4" width="24" alt="Avatar of dawidwys"/> dawidwys
+			</a><br/>
+			Dawid Wysakowicz
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/dwysakowicz">dwysakowicz</a></td>
+		<td>Warsaw</td>
+		<td>152</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/mstaniak">
 				<img src="https://avatars.githubusercontent.com/u/20418265?s=72&u=3ad73370ffc1e0f7f68afb98a1e495666c4977b2&v=4" width="24" alt="Avatar of mstaniak"/> mstaniak
@@ -8425,34 +8453,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Poland</td>
 		<td>133</td>
 		<td>152</td>
-	</tr>
-	<tr>
-		<td>595</td>
-		<td>
-			<a target="_blank" href="https://github.com/mikigal">
-				<img src="https://avatars.githubusercontent.com/u/10632503?s=72&u=02de5a4be67350a92ac51831246a3e7c8f1f863b&v=4" width="24" alt="Avatar of mikigal"/> mikigal
-			</a><br/>
-			Mikoaj Gazka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>121</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
-			<a target="_blank" href="https://github.com/dawidwys">
-				<img src="https://avatars.githubusercontent.com/u/6242259?s=72&u=9afed5c548b788de404826d3a3d03520821c78a3&v=4" width="24" alt="Avatar of dawidwys"/> dawidwys
-			</a><br/>
-			Dawid Wysakowicz
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/dwysakowicz">dwysakowicz</a></td>
-		<td>Warsaw</td>
-		<td>151</td>
-		<td>151</td>
 	</tr>
 	<tr>
 		<td>597</td>
@@ -8513,6 +8513,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>601</td>
 		<td>
+			<a target="_blank" href="https://github.com/kolorobot">
+				<img src="https://avatars.githubusercontent.com/u/1202934?s=72&v=4" width="24" alt="Avatar of kolorobot"/> kolorobot
+			</a><br/>
+			Rafal Borowiec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>2</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>602</td>
+		<td>
 			<a target="_blank" href="https://github.com/lenhattung">
 				<img src="https://avatars.githubusercontent.com/u/49211930?s=72&u=50ab65dfaf821da9bb20f4e6f04b83fe290f61c9&v=4" width="24" alt="Avatar of lenhattung"/> lenhattung
 			</a><br/>
@@ -8523,20 +8537,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Warsaw</td>
 		<td>140</td>
 		<td>140</td>
-	</tr>
-	<tr>
-		<td>602</td>
-		<td>
-			<a target="_blank" href="https://github.com/kolorobot">
-				<img src="https://avatars.githubusercontent.com/u/1202934?s=72&v=4" width="24" alt="Avatar of kolorobot"/> kolorobot
-			</a><br/>
-			Rafal Borowiec
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>2</td>
-		<td>139</td>
 	</tr>
 	<tr>
 		<td>603</td>
@@ -8793,6 +8793,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>621</td>
 		<td>
+			<a target="_blank" href="https://github.com/ecler">
+				<img src="https://avatars.githubusercontent.com/u/2544319?s=72&u=08f890dd39fede8b820779d6b7c3f842855e9e77&v=4" width="24" alt="Avatar of ecler"/> ecler
+			</a><br/>
+			Pawe Biaecki
+		</td>
+		<td>Astro Photons </td>
+		<td>No Twitter Username</td>
+		<td>Bogatynia Poland</td>
+		<td>0</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
 			<a target="_blank" href="https://github.com/jochym">
 				<img src="https://avatars.githubusercontent.com/u/5993422?s=72&u=c7a02b6fc48cf04d0cea69b7aec5839752439449&v=4" width="24" alt="Avatar of jochym"/> jochym
 			</a><br/>
@@ -8805,21 +8819,21 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
-			<a target="_blank" href="https://github.com/ecler">
-				<img src="https://avatars.githubusercontent.com/u/2544319?s=72&u=08f890dd39fede8b820779d6b7c3f842855e9e77&v=4" width="24" alt="Avatar of ecler"/> ecler
+			<a target="_blank" href="https://github.com/PJDude">
+				<img src="https://avatars.githubusercontent.com/u/113237362?s=72&u=288f3095518863ac08ab81ea2cf610081563d314&v=4" width="24" alt="Avatar of PJDude"/> PJDude
 			</a><br/>
-			Pawe Biaecki
+			Piotr Jochymek
 		</td>
-		<td>Astro Photons </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bogatynia Poland</td>
-		<td>0</td>
+		<td>Poland</td>
+		<td>114</td>
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a target="_blank" href="https://github.com/pczarn">
 				<img src="https://avatars.githubusercontent.com/u/3356767?s=72&u=fba14ad7263450250d0c551b404652b528a78c3a&v=4" width="24" alt="Avatar of pczarn"/> pczarn
@@ -8833,35 +8847,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>624</td>
-		<td>
-			<a target="_blank" href="https://github.com/nevzatcelik">
-				<img src="https://avatars.githubusercontent.com/u/114315038?s=72&u=8aa6a870a639ea988ce11831885ef7587fc33afa&v=4" width="24" alt="Avatar of nevzatcelik"/> nevzatcelik
-			</a><br/>
-			Nevzat 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>113</td>
-		<td>113</td>
-	</tr>
-	<tr>
 		<td>625</td>
-		<td>
-			<a target="_blank" href="https://github.com/PJDude">
-				<img src="https://avatars.githubusercontent.com/u/113237362?s=72&u=288f3095518863ac08ab81ea2cf610081563d314&v=4" width="24" alt="Avatar of PJDude"/> PJDude
-			</a><br/>
-			Piotr Jochymek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>113</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>626</td>
 		<td>
 			<a target="_blank" href="https://github.com/d33tah">
 				<img src="https://avatars.githubusercontent.com/u/295322?s=72&v=4" width="24" alt="Avatar of d33tah"/> d33tah
@@ -8871,6 +8857,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland d</td>
+		<td>114</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a target="_blank" href="https://github.com/nevzatcelik">
+				<img src="https://avatars.githubusercontent.com/u/114315038?s=72&u=8aa6a870a639ea988ce11831885ef7587fc33afa&v=4" width="24" alt="Avatar of nevzatcelik"/> nevzatcelik
+			</a><br/>
+			Nevzat 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
 		<td>113</td>
 		<td>113</td>
 	</tr>
@@ -9045,6 +9045,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>639</td>
 		<td>
+			<a target="_blank" href="https://github.com/Tuhaj">
+				<img src="https://avatars.githubusercontent.com/u/6118271?s=72&u=e50503656e03fdb231cc767ee7809d1d19e3da49&v=4" width="24" alt="Avatar of Tuhaj"/> Tuhaj
+			</a><br/>
+			Piotr Zientara
+		</td>
+		<td>@xfaang </td>
+		<td><a target="_blank" href="https://twitter.com/piotr_zientara">piotr_zientara</a></td>
+		<td>Warsaw Poland</td>
+		<td>3</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
 			<a target="_blank" href="https://github.com/wowo">
 				<img src="https://avatars.githubusercontent.com/u/100724?s=72&u=1318d38901eaff89f3943264335d68c64c3ac319&v=4" width="24" alt="Avatar of wowo"/> wowo
 			</a><br/>
@@ -9057,7 +9071,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>641</td>
 		<td>
 			<a target="_blank" href="https://github.com/kondrak">
 				<img src="https://avatars.githubusercontent.com/u/423295?s=72&u=a91b7214a624ec1cdf4270500659cf22e3317fb6&v=4" width="24" alt="Avatar of kondrak"/> kondrak
@@ -9071,7 +9085,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>642</td>
 		<td>
 			<a target="_blank" href="https://github.com/0fca">
 				<img src="https://avatars.githubusercontent.com/u/25554250?s=72&u=9a23e8e382f9d36d17b2cf6af8bddc678c3f8dda&v=4" width="24" alt="Avatar of 0fca"/> 0fca
@@ -9083,20 +9097,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Lublin Poland</td>
 		<td>99</td>
 		<td>99</td>
-	</tr>
-	<tr>
-		<td>642</td>
-		<td>
-			<a target="_blank" href="https://github.com/Tuhaj">
-				<img src="https://avatars.githubusercontent.com/u/6118271?s=72&u=e50503656e03fdb231cc767ee7809d1d19e3da49&v=4" width="24" alt="Avatar of Tuhaj"/> Tuhaj
-			</a><br/>
-			Piotr Zientara
-		</td>
-		<td>@xfaang </td>
-		<td><a target="_blank" href="https://twitter.com/piotr_zientara">piotr_zientara</a></td>
-		<td>Warsaw Poland</td>
-		<td>3</td>
-		<td>98</td>
 	</tr>
 	<tr>
 		<td>643</td>
@@ -9235,11 +9235,25 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>62</td>
-		<td>85</td>
+		<td>63</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>653</td>
+		<td>
+			<a target="_blank" href="https://github.com/ardcore">
+				<img src="https://avatars.githubusercontent.com/u/49605?s=72&v=4" width="24" alt="Avatar of ardcore"/> ardcore
+			</a><br/>
+			Szymon Pikowski
+		</td>
+		<td>@moleculeone </td>
+		<td><a target="_blank" href="https://twitter.com/ard">ard</a></td>
+		<td>Warsaw Poland</td>
+		<td>6</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>654</td>
 		<td>
 			<a target="_blank" href="https://github.com/Michal2SAB">
 				<img src="https://avatars.githubusercontent.com/u/38110165?s=72&u=f39b430bf27dad3052ae6f462b373b2bc06e3086&v=4" width="24" alt="Avatar of Michal2SAB"/> Michal2SAB
@@ -9253,7 +9267,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a target="_blank" href="https://github.com/PanNiebieski">
 				<img src="https://avatars.githubusercontent.com/u/1837595?s=72&u=efa4071b301e78bcbfd52d2c0c3a381e8b6c3ed9&v=4" width="24" alt="Avatar of PanNiebieski"/> PanNiebieski
@@ -9267,7 +9281,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lerg">
 				<img src="https://avatars.githubusercontent.com/u/859486?s=72&v=4" width="24" alt="Avatar of Lerg"/> Lerg
@@ -9281,7 +9295,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a target="_blank" href="https://github.com/gregxsunday">
 				<img src="https://avatars.githubusercontent.com/u/26839305?s=72&u=e80c938f894ff735000b77f246732c63f1c8a69f&v=4" width="24" alt="Avatar of gregxsunday"/> gregxsunday
@@ -9295,7 +9309,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikewojtyna">
 				<img src="https://avatars.githubusercontent.com/u/26151957?s=72&u=7aabb820222c7ca310d08400c93bd06da728fcdd&v=4" width="24" alt="Avatar of mikewojtyna"/> mikewojtyna
@@ -9309,7 +9323,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a target="_blank" href="https://github.com/zsiciarz">
 				<img src="https://avatars.githubusercontent.com/u/182194?s=72&u=a7b58eb4e9b2c00b306e0ce64ca530833ca6bfbc&v=4" width="24" alt="Avatar of zsiciarz"/> zsiciarz
@@ -9323,7 +9337,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a target="_blank" href="https://github.com/dyjakan">
 				<img src="https://avatars.githubusercontent.com/u/587985?s=72&u=4eb6dd85ab81d944809317f9601a97f93caa675b&v=4" width="24" alt="Avatar of dyjakan"/> dyjakan
@@ -9337,7 +9351,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a target="_blank" href="https://github.com/lewuss">
 				<img src="https://avatars.githubusercontent.com/u/67756566?s=72&u=8cd4afe0a46aa8d1c62bc6373b3263336e6563d6&v=4" width="24" alt="Avatar of lewuss"/> lewuss
@@ -9351,7 +9365,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/szmarczak">
 				<img src="https://avatars.githubusercontent.com/u/36894700?s=72&u=d904463d62998824fe6e4055d55475515ace7d87&v=4" width="24" alt="Avatar of szmarczak"/> szmarczak
@@ -9362,20 +9376,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/szmarczak">szmarczak</a></td>
 		<td>Lublin Poland</td>
 		<td>78</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>662</td>
-		<td>
-			<a target="_blank" href="https://github.com/ardcore">
-				<img src="https://avatars.githubusercontent.com/u/49605?s=72&v=4" width="24" alt="Avatar of ardcore"/> ardcore
-			</a><br/>
-			Szymon Pikowski
-		</td>
-		<td>@moleculeone </td>
-		<td><a target="_blank" href="https://twitter.com/ard">ard</a></td>
-		<td>Warsaw Poland</td>
-		<td>6</td>
 		<td>83</td>
 	</tr>
 	<tr>
@@ -9437,6 +9437,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>667</td>
 		<td>
+			<a target="_blank" href="https://github.com/Valian">
+				<img src="https://avatars.githubusercontent.com/u/3935986?s=72&u=bd5de272ed3df5037992dd9ce32c3f0865aed937&v=4" width="24" alt="Avatar of Valian"/> Valian
+			</a><br/>
+			Jakub Skaecki
+		</td>
+		<td>Mindnexusdev </td>
+		<td><a target="_blank" href="https://twitter.com/jskalc">jskalc</a></td>
+		<td>Poland</td>
+		<td>80</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
 			<a target="_blank" href="https://github.com/rahmanusta">
 				<img src="https://avatars.githubusercontent.com/u/1158804?s=72&u=7a6f2aadf7b9fa2698741d98d37bee2795d7cfe4&v=4" width="24" alt="Avatar of rahmanusta"/> rahmanusta
 			</a><br/>
@@ -9449,7 +9463,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a target="_blank" href="https://github.com/szajjch">
 				<img src="https://avatars.githubusercontent.com/u/45857590?s=72&u=0e1babf1105a5c76afa543be349dec7e2a35261c&v=4" width="24" alt="Avatar of szajjch"/> szajjch
@@ -9463,7 +9477,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a target="_blank" href="https://github.com/sawickiap">
 				<img src="https://avatars.githubusercontent.com/u/10674866?s=72&v=4" width="24" alt="Avatar of sawickiap"/> sawickiap
@@ -9473,20 +9487,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>77</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>670</td>
-		<td>
-			<a target="_blank" href="https://github.com/Valian">
-				<img src="https://avatars.githubusercontent.com/u/3935986?s=72&u=bd5de272ed3df5037992dd9ce32c3f0865aed937&v=4" width="24" alt="Avatar of Valian"/> Valian
-			</a><br/>
-			Jakub Skaecki
-		</td>
-		<td>Mindnexusdev </td>
-		<td><a target="_blank" href="https://twitter.com/jskalc">jskalc</a></td>
-		<td>Poland</td>
 		<td>77</td>
 		<td>77</td>
 	</tr>
@@ -9759,6 +9759,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>690</td>
 		<td>
+			<a target="_blank" href="https://github.com/Reinmar">
+				<img src="https://avatars.githubusercontent.com/u/156149?s=72&u=b1069e01fff1c82c942d829fa46aea3a2dfca3c4&v=4" width="24" alt="Avatar of Reinmar"/> Reinmar
+			</a><br/>
+			Piotrek Koszuliski
+		</td>
+		<td>Cksource </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>51</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
 			<a target="_blank" href="https://github.com/lkurzyniec">
 				<img src="https://avatars.githubusercontent.com/u/5943484?s=72&u=8c1415eb1f0cba4aedd2aaeefbcb3f7759d98212&v=4" width="24" alt="Avatar of lkurzyniec"/> lkurzyniec
 			</a><br/>
@@ -9771,7 +9785,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a target="_blank" href="https://github.com/xNombre">
 				<img src="https://avatars.githubusercontent.com/u/25608350?s=72&v=4" width="24" alt="Avatar of xNombre"/> xNombre
@@ -9785,7 +9799,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/jhomlala">
 				<img src="https://avatars.githubusercontent.com/u/1329033?s=72&u=41fa42ef1a8bef6e6ef9360d2c822b1ac37d695f&v=4" width="24" alt="Avatar of jhomlala"/> jhomlala
@@ -9796,20 +9810,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland  Zielona Gra</td>
 		<td>56</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>693</td>
-		<td>
-			<a target="_blank" href="https://github.com/Reinmar">
-				<img src="https://avatars.githubusercontent.com/u/156149?s=72&u=b1069e01fff1c82c942d829fa46aea3a2dfca3c4&v=4" width="24" alt="Avatar of Reinmar"/> Reinmar
-			</a><br/>
-			Piotrek Koszuliski
-		</td>
-		<td>Cksource </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>50</td>
 		<td>56</td>
 	</tr>
 	<tr>
@@ -10249,6 +10249,20 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 	<tr>
 		<td>725</td>
 		<td>
+			<a target="_blank" href="https://github.com/fleurdelune7">
+				<img src="https://avatars.githubusercontent.com/u/73917725?s=72&u=9d9c1a3edbe3debbc0996223e569f9bb2ff1fe67&v=4" width="24" alt="Avatar of fleurdelune7"/> fleurdelune7
+			</a><br/>
+			Mehmet Arda Anket
+		</td>
+		<td>Payu </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw</td>
+		<td>0</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>726</td>
+		<td>
 			<a target="_blank" href="https://github.com/hckr">
 				<img src="https://avatars.githubusercontent.com/u/1078650?s=72&u=77b057b34a301f61b08429ff90dae919daf29da9&v=4" width="24" alt="Avatar of hckr"/> hckr
 			</a><br/>
@@ -10261,7 +10275,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a target="_blank" href="https://github.com/porimol">
 				<img src="https://avatars.githubusercontent.com/u/3611305?s=72&u=c50053419cdaf8fe9f76bb5632526c3409ad1952&v=4" width="24" alt="Avatar of porimol"/> porimol
@@ -10275,7 +10289,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a target="_blank" href="https://github.com/EmilMalanczak">
 				<img src="https://avatars.githubusercontent.com/u/53233583?s=72&u=70be9450718af11e0630a59268fbc77bf67b549b&v=4" width="24" alt="Avatar of EmilMalanczak"/> EmilMalanczak
@@ -10289,7 +10303,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a target="_blank" href="https://github.com/kgrzybek">
 				<img src="https://avatars.githubusercontent.com/u/1327418?s=72&v=4" width="24" alt="Avatar of kgrzybek"/> kgrzybek
@@ -10303,7 +10317,7 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a target="_blank" href="https://github.com/mateuszbuda">
 				<img src="https://avatars.githubusercontent.com/u/5720638?s=72&u=da6569aefbed1581c87686b921848567645e980d&v=4" width="24" alt="Avatar of mateuszbuda"/> mateuszbuda
@@ -10315,20 +10329,6 @@ There are `957 users`  in Poland. You need at least `66 followers` to be on this
 		<td>Warsaw Poland</td>
 		<td>6</td>
 		<td>34</td>
-	</tr>
-	<tr>
-		<td>730</td>
-		<td>
-			<a target="_blank" href="https://github.com/fleurdelune7">
-				<img src="https://avatars.githubusercontent.com/u/73917725?s=72&u=9d9c1a3edbe3debbc0996223e569f9bb2ff1fe67&v=4" width="24" alt="Avatar of fleurdelune7"/> fleurdelune7
-			</a><br/>
-			Mehmet Arda Anket
-		</td>
-		<td>Payu </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw</td>
-		<td>0</td>
-		<td>33</td>
 	</tr>
 	<tr>
 		<td>731</td>
