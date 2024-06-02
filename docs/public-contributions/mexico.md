@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` by users in Mexico on `2024/6/2 4:17 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` by users in Mexico on `2024/6/2 10:15 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -159,7 +159,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>@archdotdev  @meltano </td>
 		<td><a target="_blank" href="https://twitter.com/cofonlafaefe">cofonlafaefe</a></td>
 		<td>Mexico</td>
-		<td>8394</td>
+		<td>8396</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,7 +172,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>Pakin </td>
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
-		<td>3693</td>
+		<td>3696</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -588,7 +588,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>Oracle </td>
 		<td><a target="_blank" href="https://twitter.com/pedroalonsoms">pedroalonsoms</a></td>
 		<td>Mexico</td>
-		<td>842</td>
+		<td>843</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -796,7 +796,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>Blacksmith Softworks </td>
 		<td><a target="_blank" href="https://twitter.com/EmilioBlacksmit">EmilioBlacksmit</a></td>
 		<td>Puebla Mx</td>
-		<td>683</td>
+		<td>686</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1082,7 +1082,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>Mrmartc0d3s </td>
 		<td><a target="_blank" href="https://twitter.com/GeovasYoSoy">GeovasYoSoy</a></td>
 		<td>Ciudad de Mexico</td>
-		<td>471</td>
+		<td>474</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1667,7 +1667,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>Instituto Tecnolgico De Tijuana<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Tijuana Baja California MX</td>
-		<td>315</td>
+		<td>316</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1953,7 +1953,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>Blankt </td>
 		<td><a target="_blank" href="https://twitter.com/AltagaHacker">AltagaHacker</a></td>
 		<td>Mexico CDMX</td>
-		<td>265</td>
+		<td>267</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -3253,7 +3253,7 @@ There are `969 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>@thekrakendev </td>
 		<td><a target="_blank" href="https://twitter.com/alfredohdzdev">alfredohdzdev</a></td>
 		<td>Mexico</td>
-		<td>123</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>243</td>
