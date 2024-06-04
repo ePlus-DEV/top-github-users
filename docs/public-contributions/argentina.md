@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/6/4 4:45 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/6/4 11:07 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>Nan </td>
 		<td><a target="_blank" href="https://twitter.com/CalcagniGabriel">CalcagniGabriel</a></td>
 		<td>Concarn San luis Argentina</td>
-		<td>3772</td>
+		<td>3777</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -263,7 +263,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>Automattic </td>
 		<td><a target="_blank" href="https://twitter.com/retrofox">retrofox</a></td>
 		<td>Centenario Neuquen Argentina</td>
-		<td>1756</td>
+		<td>1759</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -367,7 +367,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>Agilpad </td>
 		<td>No Twitter Username</td>
 		<td>San Miguel de Tucuman Argentina</td>
-		<td>1320</td>
+		<td>1333</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -419,7 +419,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/smpalladino">smpalladino</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>1266</td>
+		<td>1272</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -471,7 +471,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>@devlooped </td>
 		<td><a target="_blank" href="https://twitter.com/kzu">kzu</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>1133</td>
+		<td>1134</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -1004,7 +1004,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>663</td>
+		<td>665</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1069,7 +1069,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>627</td>
+		<td>628</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1290,10 +1290,23 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>524</td>
+		<td>525</td>
 	</tr>
 	<tr>
 		<td>92</td>
+		<td>
+			<a target="_blank" href="https://github.com/igaray">
+				<img src="https://avatars.githubusercontent.com/u/167193?s=72&v=4" width="24" alt="Avatar of igaray"/> igaray
+			</a><br/>
+			Iaki Garay
+		</td>
+		<td>@lambdaclass  </td>
+		<td><a target="_blank" href="https://twitter.com/maitasunarekin">maitasunarekin</a></td>
+		<td>Bahia Blanca Argentina</td>
+		<td>515</td>
+	</tr>
+	<tr>
+		<td>93</td>
 		<td>
 			<a target="_blank" href="https://github.com/rozagerardo">
 				<img src="https://avatars.githubusercontent.com/u/7059941?s=72&u=9f0b34f85b84808dd99e6dd8003433dcfbfa0408&v=4" width="24" alt="Avatar of rozagerardo"/> rozagerardo
@@ -1304,19 +1317,6 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Cordoba Argentina</td>
 		<td>513</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a target="_blank" href="https://github.com/igaray">
-				<img src="https://avatars.githubusercontent.com/u/167193?s=72&v=4" width="24" alt="Avatar of igaray"/> igaray
-			</a><br/>
-			Iaki Garay
-		</td>
-		<td>@lambdaclass  </td>
-		<td><a target="_blank" href="https://twitter.com/maitasunarekin">maitasunarekin</a></td>
-		<td>Bahia Blanca Argentina</td>
-		<td>509</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1381,7 +1381,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>Fictioncom  Supereonai </td>
 		<td><a target="_blank" href="https://twitter.com/arpowers">arpowers</a></td>
 		<td>San Francisco  Irvine  Utah  Buenos Aires</td>
-		<td>477</td>
+		<td>479</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1758,7 +1758,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>391</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1953,7 +1953,7 @@ There are `968 users`  in Argentina. You need at least `45 followers` to be on t
 		<td>Gzi </td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>349</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>143</td>
