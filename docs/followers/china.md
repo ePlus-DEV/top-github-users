@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in China
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China"/>
 </a>
 
-The `number of followers` of users in China on `2024/7/31 6:17 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
+The `number of followers` of users in China on `2024/7/31 6:39 PM UTC`. This list contains users from China and cities Beijing Shanghai Guangzhou Shenzhen Chongqing Chengdu Harbin Tianjin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -705,7 +705,7 @@ There are `954 users`  in China. You need at least `719 followers` to be on this
 		<td>Hellogithub </td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>8762</td>
+		<td>8763</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -6919,7 +6919,7 @@ There are `954 users`  in China. You need at least `719 followers` to be on this
 		<td>Harbin Institute Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1253</td>
+		<td>1254</td>
 	</tr>
 	<tr>
 		<td>525</td>
@@ -11903,6 +11903,19 @@ There are `954 users`  in China. You need at least `719 followers` to be on this
 	<tr>
 		<td>908</td>
 		<td>
+			<a target="_blank" href="https://github.com/danfenghong">
+				<img src="https://avatars.githubusercontent.com/u/22520678?s=72&u=4194418e3c7fc109459186ddaa57ba7db0706ef4&v=4" width="24" alt="Avatar of danfenghong"/> danfenghong
+			</a><br/>
+			Danfeng Hong
+		</td>
+		<td>Aerospace Information Research Institute<br/>Chinese<br/>Academy<br/>Of<br/>Sciences<br/></td>
+		<td>No Twitter Username</td>
+		<td>9 dengzhuangnanlu Haidian Distinct Beijing China</td>
+		<td>759</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
 			<a target="_blank" href="https://github.com/xuexb">
 				<img src="https://avatars.githubusercontent.com/u/3872051?s=72&u=9553ef7088701758d1343c6802df47ccec1fe42e&v=4" width="24" alt="Avatar of xuexb"/> xuexb
 			</a><br/>
@@ -11914,7 +11927,7 @@ There are `954 users`  in China. You need at least `719 followers` to be on this
 		<td>759</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a target="_blank" href="https://github.com/ftiasch">
 				<img src="https://avatars.githubusercontent.com/u/672477?s=72&v=4" width="24" alt="Avatar of ftiasch"/> ftiasch
@@ -11924,19 +11937,6 @@ There are `954 users`  in China. You need at least `719 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>758</td>
-	</tr>
-	<tr>
-		<td>910</td>
-		<td>
-			<a target="_blank" href="https://github.com/danfenghong">
-				<img src="https://avatars.githubusercontent.com/u/22520678?s=72&u=4194418e3c7fc109459186ddaa57ba7db0706ef4&v=4" width="24" alt="Avatar of danfenghong"/> danfenghong
-			</a><br/>
-			Danfeng Hong
-		</td>
-		<td>Aerospace Information Research Institute<br/>Chinese<br/>Academy<br/>Of<br/>Sciences<br/></td>
-		<td>No Twitter Username</td>
-		<td>9 dengzhuangnanlu Haidian Distinct Beijing China</td>
 		<td>758</td>
 	</tr>
 	<tr>
