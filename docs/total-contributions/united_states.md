@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in United States
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States"/>
 </a>
 
-The `public contributions` and `private contributions` by users in United States on `2024/8/15 8:39 PM UTC`. This list contains users from United States and cities Newyork Chicago Losangeles Sanfrancisco Austin Seattle.
+The `public contributions` and `private contributions` by users in United States on `2024/8/16 4:02 AM UTC`. This list contains users from United States and cities Newyork Chicago Losangeles Sanfrancisco Austin Seattle.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -121,8 +121,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/zhaoolee">zhaoolee</a></td>
 		<td>New York</td>
-		<td>33495</td>
-		<td>33495</td>
+		<td>33523</td>
+		<td>33523</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -135,8 +135,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Liferay Inc </td>
 		<td>No Twitter Username</td>
 		<td>Los Angeles CA</td>
-		<td>31154</td>
-		<td>31154</td>
+		<td>31158</td>
+		<td>31158</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -164,7 +164,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/hdmoore">hdmoore</a></td>
 		<td>Austin TX</td>
 		<td>90</td>
-		<td>12985</td>
+		<td>12995</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -178,7 +178,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/colebemis">colebemis</a></td>
 		<td>San Francisco CA</td>
 		<td>795</td>
-		<td>12323</td>
+		<td>12329</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -191,8 +191,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@langchainai </td>
 		<td><a target="_blank" href="https://twitter.com/nfcampos">nfcampos</a></td>
 		<td>San Francisco</td>
-		<td>2842</td>
-		<td>10282</td>
+		<td>2847</td>
+		<td>10296</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -206,7 +206,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/_sksamuel">_sksamuel</a></td>
 		<td>Chicago IL</td>
 		<td>1178</td>
-		<td>10239</td>
+		<td>10242</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -219,8 +219,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Layer5 </td>
 		<td><a target="_blank" href="https://twitter.com/lcalcote">lcalcote</a></td>
 		<td>Austin TX</td>
-		<td>7134</td>
-		<td>8796</td>
+		<td>7138</td>
+		<td>8800</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -276,7 +276,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/0xggoma">0xggoma</a></td>
 		<td>Los Angeles CA</td>
 		<td>797</td>
-		<td>7069</td>
+		<td>7090</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -317,8 +317,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/mitchellh">mitchellh</a></td>
 		<td>Los Angeles CA</td>
-		<td>707</td>
-		<td>5293</td>
+		<td>708</td>
+		<td>5298</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -346,7 +346,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>New York</td>
 		<td>2967</td>
-		<td>5069</td>
+		<td>5079</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -360,7 +360,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/arkadiyt">arkadiyt</a></td>
 		<td>San Francisco CA</td>
 		<td>63</td>
-		<td>5058</td>
+		<td>5076</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -374,7 +374,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/NachoSoto">NachoSoto</a></td>
 		<td>San Francisco California</td>
 		<td>2091</td>
-		<td>5030</td>
+		<td>5041</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -402,7 +402,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/snakajima">snakajima</a></td>
 		<td>Seattle WA USA</td>
 		<td>3025</td>
-		<td>4880</td>
+		<td>4882</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -429,25 +429,11 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>4794</td>
-		<td>4794</td>
+		<td>4798</td>
+		<td>4798</td>
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>
-			<a target="_blank" href="https://github.com/lucidrains">
-				<img src="https://avatars.githubusercontent.com/u/108653?s=72&u=71a8f2f26b707fd35e8c6dc3fdf906b49f131584&v=4" width="24" alt="Avatar of lucidrains"/> lucidrains
-			</a><br/>
-			Phil Wang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Francisco</td>
-		<td>4013</td>
-		<td>4774</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a target="_blank" href="https://github.com/keith">
 				<img src="https://avatars.githubusercontent.com/u/283886?s=72&v=4" width="24" alt="Avatar of keith"/> keith
@@ -457,8 +443,22 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@modularml </td>
 		<td><a target="_blank" href="https://twitter.com/SmileyKeith">SmileyKeith</a></td>
 		<td>Seattle WA</td>
-		<td>1732</td>
-		<td>4748</td>
+		<td>1738</td>
+		<td>4776</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a target="_blank" href="https://github.com/lucidrains">
+				<img src="https://avatars.githubusercontent.com/u/108653?s=72&u=71a8f2f26b707fd35e8c6dc3fdf906b49f131584&v=4" width="24" alt="Avatar of lucidrains"/> lucidrains
+			</a><br/>
+			Phil Wang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>4014</td>
+		<td>4775</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -486,7 +486,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/bruflow">bruflow</a></td>
 		<td>New York NY</td>
 		<td>732</td>
-		<td>4359</td>
+		<td>4360</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -514,7 +514,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/kevopuff">kevopuff</a></td>
 		<td>Los Angeles CA</td>
 		<td>69</td>
-		<td>4117</td>
+		<td>4126</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -542,7 +542,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/jnewland">jnewland</a></td>
 		<td>Austin TX</td>
 		<td>735</td>
-		<td>4079</td>
+		<td>4080</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -556,7 +556,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/bromann">bromann</a></td>
 		<td>San Francisco</td>
 		<td>3658</td>
-		<td>4067</td>
+		<td>4068</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -570,10 +570,24 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>New York United States</td>
 		<td>36</td>
-		<td>4031</td>
+		<td>4034</td>
 	</tr>
 	<tr>
 		<td>34</td>
+		<td>
+			<a target="_blank" href="https://github.com/ahmadawais">
+				<img src="https://avatars.githubusercontent.com/u/960133?s=72&u=1a1a9863b2dd635be4ddfae7692060b0963c5c4b&v=4" width="24" alt="Avatar of ahmadawais"/> ahmadawais
+			</a><br/>
+			Ahmad Awais 
+		</td>
+		<td>Founder Ceo @langbaseinc Vp<br/>Devtools<br/>@google<br/>Gdab<br/>Gde<br/><br/></td>
+		<td><a target="_blank" href="https://twitter.com/MrAhmadAwais">MrAhmadAwais</a></td>
+		<td>San Francisco Bay Area CA US</td>
+		<td>196</td>
+		<td>3994</td>
+	</tr>
+	<tr>
+		<td>35</td>
 		<td>
 			<a target="_blank" href="https://github.com/tclem">
 				<img src="https://avatars.githubusercontent.com/u/136521?s=72&u=7ad11de1a907960ec3afa9c43464602ae046ab3a&v=4" width="24" alt="Avatar of tclem"/> tclem
@@ -584,21 +598,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>166</td>
-		<td>3979</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a target="_blank" href="https://github.com/ahmadawais">
-				<img src="https://avatars.githubusercontent.com/u/960133?s=72&u=1a1a9863b2dd635be4ddfae7692060b0963c5c4b&v=4" width="24" alt="Avatar of ahmadawais"/> ahmadawais
-			</a><br/>
-			Ahmad Awais 
-		</td>
-		<td>Founder Ceo @langbaseinc Vp<br/>Devtools<br/>@google<br/>Gdab<br/>Gde<br/><br/></td>
-		<td><a target="_blank" href="https://twitter.com/MrAhmadAwais">MrAhmadAwais</a></td>
-		<td>San Francisco Bay Area CA US</td>
-		<td>191</td>
-		<td>3968</td>
+		<td>3984</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -617,6 +617,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>37</td>
 		<td>
+			<a target="_blank" href="https://github.com/Trinkle23897">
+				<img src="https://avatars.githubusercontent.com/u/8189182?s=72&v=4" width="24" alt="Avatar of Trinkle23897"/> Trinkle23897
+			</a><br/>
+			Jiayi Weng
+		</td>
+		<td>@openai  </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>55</td>
+		<td>3890</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
 			<a target="_blank" href="https://github.com/ekzhang">
 				<img src="https://avatars.githubusercontent.com/u/7550632?s=72&u=14bb98217af15123593097a2406e379258c89484&v=4" width="24" alt="Avatar of ekzhang"/> ekzhang
 			</a><br/>
@@ -626,10 +640,10 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/ekzhang1">ekzhang1</a></td>
 		<td>New York NY</td>
 		<td>731</td>
-		<td>3889</td>
+		<td>3890</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a target="_blank" href="https://github.com/brianlovin">
 				<img src="https://avatars.githubusercontent.com/u/1923260?s=72&u=36aacd5307a88dfb8e42d014b4107d9c7e3411e1&v=4" width="24" alt="Avatar of brianlovin"/> brianlovin
@@ -640,21 +654,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/brian_lovin">brian_lovin</a></td>
 		<td>San Francisco</td>
 		<td>17</td>
-		<td>3876</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a target="_blank" href="https://github.com/Trinkle23897">
-				<img src="https://avatars.githubusercontent.com/u/8189182?s=72&v=4" width="24" alt="Avatar of Trinkle23897"/> Trinkle23897
-			</a><br/>
-			Jiayi Weng
-		</td>
-		<td>@openai  </td>
-		<td>No Twitter Username</td>
-		<td>San Francisco</td>
-		<td>55</td>
-		<td>3875</td>
+		<td>3882</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -667,8 +667,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seattle WA</td>
-		<td>3412</td>
-		<td>3709</td>
+		<td>3416</td>
+		<td>3713</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -681,8 +681,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jarredsumner">jarredsumner</a></td>
 		<td>San Francisco CA</td>
-		<td>3033</td>
-		<td>3574</td>
+		<td>3036</td>
+		<td>3577</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -695,8 +695,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Fasterxmlcom </td>
 		<td><a target="_blank" href="https://twitter.com/cowtowncoder">cowtowncoder</a></td>
 		<td>Seattle WA USA</td>
-		<td>3491</td>
-		<td>3531</td>
+		<td>3504</td>
+		<td>3546</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -710,7 +710,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/felangelov">felangelov</a></td>
 		<td>Chicago</td>
 		<td>1967</td>
-		<td>3524</td>
+		<td>3525</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -738,7 +738,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/sh_reya">sh_reya</a></td>
 		<td>San Francisco CA</td>
 		<td>441</td>
-		<td>3477</td>
+		<td>3479</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -765,8 +765,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@trailofbits  </td>
 		<td><a target="_blank" href="https://twitter.com/8x5clPW2">8x5clPW2</a></td>
 		<td>New York NY</td>
-		<td>3109</td>
-		<td>3416</td>
+		<td>3110</td>
+		<td>3417</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -779,8 +779,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>2326</td>
-		<td>3363</td>
+		<td>2336</td>
+		<td>3385</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -793,8 +793,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Servicestack </td>
 		<td>No Twitter Username</td>
 		<td>New York</td>
-		<td>3190</td>
-		<td>3338</td>
+		<td>3191</td>
+		<td>3339</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -808,7 +808,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/Javi">Javi</a></td>
 		<td>San Francisco</td>
 		<td>7</td>
-		<td>3308</td>
+		<td>3319</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -821,8 +821,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New York NY</td>
-		<td>3281</td>
-		<td>3281</td>
+		<td>3289</td>
+		<td>3289</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -835,8 +835,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@developmentseed </td>
 		<td><a target="_blank" href="https://twitter.com/kylebarron2">kylebarron2</a></td>
 		<td>New York New York</td>
-		<td>3271</td>
-		<td>3271</td>
+		<td>3277</td>
+		<td>3277</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -849,8 +849,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/eddelbuettel">eddelbuettel</a></td>
 		<td>Chicago IL USA</td>
-		<td>2461</td>
-		<td>3228</td>
+		<td>2462</td>
+		<td>3229</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -863,8 +863,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@apple @apache  </td>
 		<td><a target="_blank" href="https://twitter.com/dongjoonhyun">dongjoonhyun</a></td>
 		<td>San Francisco Bay Area</td>
-		<td>3089</td>
-		<td>3203</td>
+		<td>3096</td>
+		<td>3210</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -877,8 +877,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@vercel </td>
 		<td><a target="_blank" href="https://twitter.com/_ijjk">_ijjk</a></td>
 		<td>San Francisco CA</td>
-		<td>2038</td>
-		<td>3118</td>
+		<td>2040</td>
+		<td>3120</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -891,8 +891,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Google Inc </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
-		<td>3082</td>
-		<td>3082</td>
+		<td>3085</td>
+		<td>3085</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -905,11 +905,25 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Tabbyml Inc </td>
 		<td><a target="_blank" href="https://twitter.com/mzh1024">mzh1024</a></td>
 		<td>San Francisco</td>
-		<td>3074</td>
-		<td>3074</td>
+		<td>3078</td>
+		<td>3078</td>
 	</tr>
 	<tr>
 		<td>58</td>
+		<td>
+			<a target="_blank" href="https://github.com/leafo">
+				<img src="https://avatars.githubusercontent.com/u/15198?s=72&u=10e02dc595fc7a9728ebc841eb12a11922b20637&v=4" width="24" alt="Avatar of leafo"/> leafo
+			</a><br/>
+			leaf
+		</td>
+		<td>Itchzone </td>
+		<td><a target="_blank" href="https://twitter.com/moonscript">moonscript</a></td>
+		<td>San Francisco</td>
+		<td>344</td>
+		<td>3064</td>
+	</tr>
+	<tr>
+		<td>59</td>
 		<td>
 			<a target="_blank" href="https://github.com/dblock">
 				<img src="https://avatars.githubusercontent.com/u/542335?s=72&u=7e0f1abe8aef4d466a384131d8606156c67f1fd8&v=4" width="24" alt="Avatar of dblock"/> dblock
@@ -923,7 +937,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>3063</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>60</td>
 		<td>
 			<a target="_blank" href="https://github.com/tonistiigi">
 				<img src="https://avatars.githubusercontent.com/u/585223?s=72&v=4" width="24" alt="Avatar of tonistiigi"/> tonistiigi
@@ -937,20 +951,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>3054</td>
 	</tr>
 	<tr>
-		<td>60</td>
-		<td>
-			<a target="_blank" href="https://github.com/leafo">
-				<img src="https://avatars.githubusercontent.com/u/15198?s=72&u=10e02dc595fc7a9728ebc841eb12a11922b20637&v=4" width="24" alt="Avatar of leafo"/> leafo
-			</a><br/>
-			leaf
-		</td>
-		<td>Itchzone </td>
-		<td><a target="_blank" href="https://twitter.com/moonscript">moonscript</a></td>
-		<td>San Francisco</td>
-		<td>344</td>
-		<td>3047</td>
-	</tr>
-	<tr>
 		<td>61</td>
 		<td>
 			<a target="_blank" href="https://github.com/indirect">
@@ -962,7 +962,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>608</td>
-		<td>3043</td>
+		<td>3046</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -975,8 +975,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Fleet @fleetdm </td>
 		<td><a target="_blank" href="https://twitter.com/mikermcneil">mikermcneil</a></td>
 		<td>Austin Texas</td>
-		<td>1251</td>
-		<td>3023</td>
+		<td>1253</td>
+		<td>3025</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1004,7 +1004,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Chicago  the Future</td>
 		<td>1815</td>
-		<td>2903</td>
+		<td>2904</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1018,7 +1018,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/basnijholt">basnijholt</a></td>
 		<td>Seattle USA</td>
 		<td>2136</td>
-		<td>2861</td>
+		<td>2862</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1031,11 +1031,25 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@google </td>
 		<td><a target="_blank" href="https://twitter.com/sbc100">sbc100</a></td>
 		<td>San Francisco</td>
-		<td>2833</td>
-		<td>2833</td>
+		<td>2834</td>
+		<td>2834</td>
 	</tr>
 	<tr>
 		<td>67</td>
+		<td>
+			<a target="_blank" href="https://github.com/kognise">
+				<img src="https://avatars.githubusercontent.com/u/42556441?s=72&u=ec599a2b2e2af0a524e8fd7d024bb71f91f63e6b&v=4" width="24" alt="Avatar of kognise"/> kognise
+			</a><br/>
+			Lexi Mattick
+		</td>
+		<td>@neuralinkcorp </td>
+		<td><a target="_blank" href="https://twitter.com/kognise7">kognise7</a></td>
+		<td>San Francisco CA</td>
+		<td>338</td>
+		<td>2822</td>
+	</tr>
+	<tr>
+		<td>68</td>
 		<td>
 			<a target="_blank" href="https://github.com/leostratus">
 				<img src="https://avatars.githubusercontent.com/u/954624?s=72&u=347ac6532fb270846d4becb0f7de39f82d0f18e9&v=4" width="24" alt="Avatar of leostratus"/> leostratus
@@ -1049,7 +1063,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>2790</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>69</td>
 		<td>
 			<a target="_blank" href="https://github.com/liuliu">
 				<img src="https://avatars.githubusercontent.com/u/127987?s=72&v=4" width="24" alt="Avatar of liuliu"/> liuliu
@@ -1059,22 +1073,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/liuliu">liuliu</a></td>
 		<td>San Francisco</td>
-		<td>905</td>
-		<td>2758</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a target="_blank" href="https://github.com/kognise">
-				<img src="https://avatars.githubusercontent.com/u/42556441?s=72&u=ec599a2b2e2af0a524e8fd7d024bb71f91f63e6b&v=4" width="24" alt="Avatar of kognise"/> kognise
-			</a><br/>
-			Lexi Mattick
-		</td>
-		<td>@neuralinkcorp </td>
-		<td><a target="_blank" href="https://twitter.com/kognise7">kognise7</a></td>
-		<td>San Francisco CA</td>
-		<td>338</td>
-		<td>2748</td>
+		<td>906</td>
+		<td>2760</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1101,8 +1101,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Seattle</td>
-		<td>845</td>
-		<td>2717</td>
+		<td>846</td>
+		<td>2719</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1116,7 +1116,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Los Angeles CA</td>
 		<td>53</td>
-		<td>2666</td>
+		<td>2667</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1143,8 +1143,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Google </td>
 		<td><a target="_blank" href="https://twitter.com/mihaimaruseac">mihaimaruseac</a></td>
 		<td>San Francisco</td>
-		<td>2544</td>
-		<td>2553</td>
+		<td>2546</td>
+		<td>2555</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1158,7 +1158,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/ottomated_">ottomated_</a></td>
 		<td>Seattle</td>
 		<td>338</td>
-		<td>2507</td>
+		<td>2511</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1172,7 +1172,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/jonrohan">jonrohan</a></td>
 		<td>Seattle WA</td>
 		<td>632</td>
-		<td>2496</td>
+		<td>2497</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1186,7 +1186,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/alex_frantic">alex_frantic</a></td>
 		<td>Seattle WA</td>
 		<td>48</td>
-		<td>2474</td>
+		<td>2488</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1199,8 +1199,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@sourcegraph </td>
 		<td><a target="_blank" href="https://twitter.com/sqs">sqs</a></td>
 		<td>San Francisco CA</td>
-		<td>1733</td>
-		<td>2463</td>
+		<td>1735</td>
+		<td>2465</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1213,8 +1213,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Weezer </td>
 		<td><a target="_blank" href="https://twitter.com/riverscuomo">riverscuomo</a></td>
 		<td>Los Angeles</td>
-		<td>415</td>
-		<td>2443</td>
+		<td>419</td>
+		<td>2449</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1241,8 +1241,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Harper Rules Llc </td>
 		<td><a target="_blank" href="https://twitter.com/harper">harper</a></td>
 		<td>Chicago Il</td>
-		<td>1512</td>
-		<td>2376</td>
+		<td>1513</td>
+		<td>2377</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1256,7 +1256,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>88</td>
-		<td>2373</td>
+		<td>2377</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1297,8 +1297,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@zulip  </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>1645</td>
-		<td>2346</td>
+		<td>1648</td>
+		<td>2349</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1312,7 +1312,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Seattle WA</td>
 		<td>409</td>
-		<td>2337</td>
+		<td>2346</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1325,11 +1325,25 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Seattlerb Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Seattle WA</td>
-		<td>508</td>
-		<td>2302</td>
+		<td>509</td>
+		<td>2303</td>
 	</tr>
 	<tr>
 		<td>88</td>
+		<td>
+			<a target="_blank" href="https://github.com/buckyroberts">
+				<img src="https://avatars.githubusercontent.com/u/8547538?s=72&u=8a4be84ff4870a332fe94c11fca02b432fb9f83e&v=4" width="24" alt="Avatar of buckyroberts"/> buckyroberts
+			</a><br/>
+			Bucky Roberts
+		</td>
+		<td>Thenewboston </td>
+		<td><a target="_blank" href="https://twitter.com/bucky_roberts">bucky_roberts</a></td>
+		<td>New York NY</td>
+		<td>521</td>
+		<td>2299</td>
+	</tr>
+	<tr>
+		<td>89</td>
 		<td>
 			<a target="_blank" href="https://github.com/Marak">
 				<img src="https://avatars.githubusercontent.com/u/70011?s=72&v=4" width="24" alt="Avatar of Marak"/> Marak
@@ -1341,20 +1355,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York City New York</td>
 		<td>1594</td>
 		<td>2294</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a target="_blank" href="https://github.com/buckyroberts">
-				<img src="https://avatars.githubusercontent.com/u/8547538?s=72&u=8a4be84ff4870a332fe94c11fca02b432fb9f83e&v=4" width="24" alt="Avatar of buckyroberts"/> buckyroberts
-			</a><br/>
-			Bucky Roberts
-		</td>
-		<td>Thenewboston </td>
-		<td><a target="_blank" href="https://twitter.com/bucky_roberts">bucky_roberts</a></td>
-		<td>New York NY</td>
-		<td>521</td>
-		<td>2292</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1395,8 +1395,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New York NY</td>
-		<td>2272</td>
-		<td>2272</td>
+		<td>2273</td>
+		<td>2273</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1437,8 +1437,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@natsio  </td>
 		<td><a target="_blank" href="https://twitter.com/derekcollison">derekcollison</a></td>
 		<td>Los Angeles CA</td>
-		<td>1743</td>
-		<td>2232</td>
+		<td>1745</td>
+		<td>2234</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1452,7 +1452,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>130</td>
-		<td>2221</td>
+		<td>2226</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1466,10 +1466,24 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/GabrielVergnaud">GabrielVergnaud</a></td>
 		<td>New York</td>
 		<td>110</td>
-		<td>2198</td>
+		<td>2199</td>
 	</tr>
 	<tr>
 		<td>98</td>
+		<td>
+			<a target="_blank" href="https://github.com/ryanseys">
+				<img src="https://avatars.githubusercontent.com/u/163873?s=72&v=4" width="24" alt="Avatar of ryanseys"/> ryanseys
+			</a><br/>
+			Ryan Seys
+		</td>
+		<td>Staff Software Engineer @shopify<br/></td>
+		<td><a target="_blank" href="https://twitter.com/ryanseys">ryanseys</a></td>
+		<td>San Francisco</td>
+		<td>67</td>
+		<td>2138</td>
+	</tr>
+	<tr>
+		<td>99</td>
 		<td>
 			<a target="_blank" href="https://github.com/abi">
 				<img src="https://avatars.githubusercontent.com/u/23818?s=72&u=20a6bb441ca25e49b4d8bdb602c171c5e1a065bf&v=4" width="24" alt="Avatar of abi"/> abi
@@ -1483,20 +1497,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>2132</td>
 	</tr>
 	<tr>
-		<td>99</td>
-		<td>
-			<a target="_blank" href="https://github.com/ryanseys">
-				<img src="https://avatars.githubusercontent.com/u/163873?s=72&v=4" width="24" alt="Avatar of ryanseys"/> ryanseys
-			</a><br/>
-			Ryan Seys
-		</td>
-		<td>Staff Software Engineer @shopify<br/></td>
-		<td><a target="_blank" href="https://twitter.com/ryanseys">ryanseys</a></td>
-		<td>San Francisco</td>
-		<td>63</td>
-		<td>2129</td>
-	</tr>
-	<tr>
 		<td>100</td>
 		<td>
 			<a target="_blank" href="https://github.com/yurishkuro">
@@ -1507,8 +1507,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/yurishkuro">yurishkuro</a></td>
 		<td>New York</td>
-		<td>2126</td>
-		<td>2126</td>
+		<td>2132</td>
+		<td>2132</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1550,7 +1550,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>New York</td>
 		<td>265</td>
-		<td>2102</td>
+		<td>2104</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1563,8 +1563,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Bluesky </td>
 		<td>No Twitter Username</td>
 		<td>Austin TX</td>
-		<td>1992</td>
-		<td>2102</td>
+		<td>1993</td>
+		<td>2103</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1577,8 +1577,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
-		<td>1284</td>
-		<td>2084</td>
+		<td>1290</td>
+		<td>2090</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1592,7 +1592,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/timsuchanek">timsuchanek</a></td>
 		<td>San Francisco</td>
 		<td>61</td>
-		<td>2075</td>
+		<td>2081</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1605,8 +1605,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>New York</td>
-		<td>123</td>
-		<td>2060</td>
+		<td>124</td>
+		<td>2064</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1633,8 +1633,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>The Spring Team At<br/>Broadcom<br/>Httpsspringio<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>1731</td>
-		<td>2023</td>
+		<td>1733</td>
+		<td>2025</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1648,7 +1648,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>1445</td>
-		<td>2015</td>
+		<td>2016</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1676,7 +1676,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/dfinke">dfinke</a></td>
 		<td>New York City</td>
 		<td>711</td>
-		<td>1995</td>
+		<td>1996</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1690,7 +1690,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/marcosgriselli">marcosgriselli</a></td>
 		<td>San Francisco CA</td>
 		<td>52</td>
-		<td>1970</td>
+		<td>1976</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1704,24 +1704,10 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>561</td>
-		<td>1952</td>
+		<td>1955</td>
 	</tr>
 	<tr>
 		<td>115</td>
-		<td>
-			<a target="_blank" href="https://github.com/shiffman">
-				<img src="https://avatars.githubusercontent.com/u/191758?s=72&u=a6f4a24c363ab8271c20754e1bdcef6ce4020360&v=4" width="24" alt="Avatar of shiffman"/> shiffman
-			</a><br/>
-			Daniel Shiffman
-		</td>
-		<td>@codingtrain @itpnyu @processing <br/>@ml5js<br/>@natureofcode<br/>@programmingfromatoz<br/><br/></td>
-		<td><a target="_blank" href="https://twitter.com/shiffman">shiffman</a></td>
-		<td>New York NY</td>
-		<td>1933</td>
-		<td>1943</td>
-	</tr>
-	<tr>
-		<td>116</td>
 		<td>
 			<a target="_blank" href="https://github.com/keyz">
 				<img src="https://avatars.githubusercontent.com/u/2268452?s=72&u=902a1c95985d6ce150c8a538629a579b4922eae5&v=4" width="24" alt="Avatar of keyz"/> keyz
@@ -1732,7 +1718,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/keyanzhang">keyanzhang</a></td>
 		<td>San Francisco CA</td>
 		<td>302</td>
-		<td>1940</td>
+		<td>1946</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a target="_blank" href="https://github.com/shiffman">
+				<img src="https://avatars.githubusercontent.com/u/191758?s=72&u=a6f4a24c363ab8271c20754e1bdcef6ce4020360&v=4" width="24" alt="Avatar of shiffman"/> shiffman
+			</a><br/>
+			Daniel Shiffman
+		</td>
+		<td>@codingtrain @itpnyu @processing <br/>@ml5js<br/>@natureofcode<br/>@programmingfromatoz<br/><br/></td>
+		<td><a target="_blank" href="https://twitter.com/shiffman">shiffman</a></td>
+		<td>New York NY</td>
+		<td>1935</td>
+		<td>1945</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1745,11 +1745,25 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@tangohq </td>
 		<td><a target="_blank" href="https://twitter.com/MaximeHeckel">MaximeHeckel</a></td>
 		<td>New York NY</td>
-		<td>107</td>
-		<td>1934</td>
+		<td>111</td>
+		<td>1939</td>
 	</tr>
 	<tr>
 		<td>118</td>
+		<td>
+			<a target="_blank" href="https://github.com/lostintangent">
+				<img src="https://avatars.githubusercontent.com/u/116461?s=72&u=696403c7f1d14b3bb4d4d4dcbb1b92942ddae8ae&v=4" width="24" alt="Avatar of lostintangent"/> lostintangent
+			</a><br/>
+			Jonathan Carter
+		</td>
+		<td>Github </td>
+		<td><a target="_blank" href="https://twitter.com/lostintangent">lostintangent</a></td>
+		<td>Seattle WA</td>
+		<td>323</td>
+		<td>1917</td>
+	</tr>
+	<tr>
+		<td>119</td>
 		<td>
 			<a target="_blank" href="https://github.com/syrusakbary">
 				<img src="https://avatars.githubusercontent.com/u/188257?s=72&u=5972424c4a683223929b7b3d783d34948b640399&v=4" width="24" alt="Avatar of syrusakbary"/> syrusakbary
@@ -1763,20 +1777,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1916</td>
 	</tr>
 	<tr>
-		<td>119</td>
-		<td>
-			<a target="_blank" href="https://github.com/lostintangent">
-				<img src="https://avatars.githubusercontent.com/u/116461?s=72&u=696403c7f1d14b3bb4d4d4dcbb1b92942ddae8ae&v=4" width="24" alt="Avatar of lostintangent"/> lostintangent
-			</a><br/>
-			Jonathan Carter
-		</td>
-		<td>Github </td>
-		<td><a target="_blank" href="https://twitter.com/lostintangent">lostintangent</a></td>
-		<td>Seattle WA</td>
-		<td>323</td>
-		<td>1912</td>
-	</tr>
-	<tr>
 		<td>120</td>
 		<td>
 			<a target="_blank" href="https://github.com/jameslamb">
@@ -1787,8 +1787,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Nvidia </td>
 		<td><a target="_blank" href="https://twitter.com/_jameslamb">_jameslamb</a></td>
 		<td>Chicago IL</td>
-		<td>1898</td>
-		<td>1898</td>
+		<td>1901</td>
+		<td>1901</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1802,7 +1802,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/joshdholtz">joshdholtz</a></td>
 		<td>Chicago IL Previously Milwaukee WI</td>
 		<td>590</td>
-		<td>1890</td>
+		<td>1891</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1821,6 +1821,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>123</td>
 		<td>
+			<a target="_blank" href="https://github.com/kevmoo">
+				<img src="https://avatars.githubusercontent.com/u/17034?s=72&v=4" width="24" alt="Avatar of kevmoo"/> kevmoo
+			</a><br/>
+			Kevin Moore
+		</td>
+		<td>@dartlang @flutter @google </td>
+		<td><a target="_blank" href="https://twitter.com/kevmoo">kevmoo</a></td>
+		<td>Seattle WA USA</td>
+		<td>1761</td>
+		<td>1884</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
 			<a target="_blank" href="https://github.com/transcranial">
 				<img src="https://avatars.githubusercontent.com/u/6182852?s=72&u=67dbef5e6b499f3f48887a6674b4c6b5968dd39f&v=4" width="24" alt="Avatar of transcranial"/> transcranial
 			</a><br/>
@@ -1831,20 +1845,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Seattle</td>
 		<td>15</td>
 		<td>1883</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a target="_blank" href="https://github.com/kevmoo">
-				<img src="https://avatars.githubusercontent.com/u/17034?s=72&v=4" width="24" alt="Avatar of kevmoo"/> kevmoo
-			</a><br/>
-			Kevin Moore
-		</td>
-		<td>@dartlang @flutter @google </td>
-		<td><a target="_blank" href="https://twitter.com/kevmoo">kevmoo</a></td>
-		<td>Seattle WA USA</td>
-		<td>1759</td>
-		<td>1882</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1871,8 +1871,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area CA</td>
-		<td>682</td>
-		<td>1862</td>
+		<td>684</td>
+		<td>1864</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1885,8 +1885,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seattle WA USA</td>
-		<td>1855</td>
-		<td>1855</td>
+		<td>1857</td>
+		<td>1857</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1914,7 +1914,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/swizec">swizec</a></td>
 		<td>San Francisco</td>
 		<td>319</td>
-		<td>1851</td>
+		<td>1853</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1928,7 +1928,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/deshrajdry">deshrajdry</a></td>
 		<td>San Francisco</td>
 		<td>732</td>
-		<td>1819</td>
+		<td>1827</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -1942,7 +1942,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area</td>
 		<td>2</td>
-		<td>1793</td>
+		<td>1800</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -1969,8 +1969,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Uc Berkeley </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>850</td>
-		<td>1770</td>
+		<td>851</td>
+		<td>1774</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -1998,7 +1998,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/cameronmcefee">cameronmcefee</a></td>
 		<td>San Francisco</td>
 		<td>18</td>
-		<td>1754</td>
+		<td>1755</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -2040,7 +2040,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/rodydavis">rodydavis</a></td>
 		<td>San Francisco CA</td>
 		<td>1129</td>
-		<td>1740</td>
+		<td>1744</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2053,8 +2053,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/zeuxcg">zeuxcg</a></td>
 		<td>San Francisco</td>
-		<td>1725</td>
-		<td>1725</td>
+		<td>1735</td>
+		<td>1735</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2124,7 +2124,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area</td>
 		<td>79</td>
-		<td>1641</td>
+		<td>1644</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2137,8 +2137,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@jasperfx  </td>
 		<td><a target="_blank" href="https://twitter.com/jeremydmiller">jeremydmiller</a></td>
 		<td>Austin TX</td>
-		<td>1641</td>
-		<td>1641</td>
+		<td>1644</td>
+		<td>1644</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2165,8 +2165,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Aws </td>
 		<td>No Twitter Username</td>
 		<td>Seattle</td>
-		<td>1615</td>
-		<td>1615</td>
+		<td>1618</td>
+		<td>1618</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2194,7 +2194,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco California</td>
 		<td>54</td>
-		<td>1583</td>
+		<td>1586</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2208,7 +2208,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Los Angeles</td>
 		<td>11</td>
-		<td>1563</td>
+		<td>1567</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2222,7 +2222,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Seattle Washington</td>
 		<td>132</td>
-		<td>1559</td>
+		<td>1562</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2235,8 +2235,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Seattle</td>
-		<td>1015</td>
-		<td>1556</td>
+		<td>1017</td>
+		<td>1559</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2264,7 +2264,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/miyagawa">miyagawa</a></td>
 		<td>San Francisco CA</td>
 		<td>69</td>
-		<td>1542</td>
+		<td>1548</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -2292,7 +2292,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Los Angeles CA</td>
 		<td>60</td>
-		<td>1517</td>
+		<td>1520</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2333,8 +2333,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@resend </td>
 		<td><a target="_blank" href="https://twitter.com/zenorocha">zenorocha</a></td>
 		<td>San Francisco California</td>
-		<td>202</td>
-		<td>1499</td>
+		<td>206</td>
+		<td>1511</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2348,7 +2348,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/devinsays">devinsays</a></td>
 		<td>Austin Texas</td>
 		<td>6</td>
-		<td>1479</td>
+		<td>1481</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2367,6 +2367,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>162</td>
 		<td>
+			<a target="_blank" href="https://github.com/whitead">
+				<img src="https://avatars.githubusercontent.com/u/908389?s=72&v=4" width="24" alt="Avatar of whitead"/> whitead
+			</a><br/>
+			Andrew White
+		</td>
+		<td>University Of Rochesterfuturehouse </td>
+		<td><a target="_blank" href="https://twitter.com/andrewwhite01">andrewwhite01</a></td>
+		<td>San Francisco CA</td>
+		<td>300</td>
+		<td>1467</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
 			<a target="_blank" href="https://github.com/Nutlope">
 				<img src="https://avatars.githubusercontent.com/u/63742054?s=72&u=befe4ae74b906698be965bad482d0e02fc7707ab&v=4" width="24" alt="Avatar of Nutlope"/> Nutlope
 			</a><br/>
@@ -2379,7 +2393,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1461</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a target="_blank" href="https://github.com/natemoo-re">
 				<img src="https://avatars.githubusercontent.com/u/7118177?s=72&u=bb2518ed3d5b34846e6e778845e42b9564c15f5a&v=4" width="24" alt="Avatar of natemoo-re"/> natemoo-re
@@ -2393,21 +2407,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1460</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
-			<a target="_blank" href="https://github.com/whitead">
-				<img src="https://avatars.githubusercontent.com/u/908389?s=72&v=4" width="24" alt="Avatar of whitead"/> whitead
+			<a target="_blank" href="https://github.com/ljvmiranda921">
+				<img src="https://avatars.githubusercontent.com/u/12949683?s=72&u=eea2ae993b7efc4ea6cc1031463dcefe6ac212cf&v=4" width="24" alt="Avatar of ljvmiranda921"/> ljvmiranda921
 			</a><br/>
-			Andrew White
+			Lj Miranda
 		</td>
-		<td>University Of Rochesterfuturehouse </td>
-		<td><a target="_blank" href="https://twitter.com/andrewwhite01">andrewwhite01</a></td>
-		<td>San Francisco CA</td>
-		<td>300</td>
-		<td>1457</td>
+		<td>@allenai </td>
+		<td><a target="_blank" href="https://twitter.com/ljvmiranda">ljvmiranda</a></td>
+		<td>Seattle</td>
+		<td>614</td>
+		<td>1450</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/kcharwood">
 				<img src="https://avatars.githubusercontent.com/u/198768?s=72&u=170a84aa44cb4ad20274ef87a5592c968fe14895&v=4" width="24" alt="Avatar of kcharwood"/> kcharwood
@@ -2421,7 +2435,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1450</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/tennisonchan">
 				<img src="https://avatars.githubusercontent.com/u/719938?s=72&u=5683a85df9f7c474d3c64555856f8f649d4f5ccc&v=4" width="24" alt="Avatar of tennisonchan"/> tennisonchan
@@ -2435,20 +2449,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1447</td>
 	</tr>
 	<tr>
-		<td>167</td>
-		<td>
-			<a target="_blank" href="https://github.com/ljvmiranda921">
-				<img src="https://avatars.githubusercontent.com/u/12949683?s=72&u=eea2ae993b7efc4ea6cc1031463dcefe6ac212cf&v=4" width="24" alt="Avatar of ljvmiranda921"/> ljvmiranda921
-			</a><br/>
-			Lj Miranda
-		</td>
-		<td>@allenai </td>
-		<td><a target="_blank" href="https://twitter.com/ljvmiranda">ljvmiranda</a></td>
-		<td>Seattle</td>
-		<td>614</td>
-		<td>1447</td>
-	</tr>
-	<tr>
 		<td>168</td>
 		<td>
 			<a target="_blank" href="https://github.com/sryza">
@@ -2459,8 +2459,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Dagster Labs </td>
 		<td><a target="_blank" href="https://twitter.com/s_ryz">s_ryz</a></td>
 		<td>San Francisco</td>
-		<td>1418</td>
-		<td>1418</td>
+		<td>1421</td>
+		<td>1421</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2488,7 +2488,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>29</td>
-		<td>1402</td>
+		<td>1403</td>
 	</tr>
 	<tr>
 		<td>171</td>
@@ -2502,7 +2502,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>2</td>
-		<td>1394</td>
+		<td>1398</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -2515,11 +2515,39 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@valtown </td>
 		<td><a target="_blank" href="https://twitter.com/tmcw">tmcw</a></td>
 		<td>brooklyn new york</td>
-		<td>1389</td>
-		<td>1389</td>
+		<td>1391</td>
+		<td>1391</td>
 	</tr>
 	<tr>
 		<td>173</td>
+		<td>
+			<a target="_blank" href="https://github.com/ummcheng">
+				<img src="https://avatars.githubusercontent.com/u/5747974?s=72&u=9a75037c2415be2373825ba4a674b19ce9116952&v=4" width="24" alt="Avatar of ummcheng"/> ummcheng
+			</a><br/>
+			Cheng Gong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>3</td>
+		<td>1390</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a target="_blank" href="https://github.com/mmp">
+				<img src="https://avatars.githubusercontent.com/u/102567?s=72&u=156107457c2b0ae97e582f59e97aa5bea438072f&v=4" width="24" alt="Avatar of mmp"/> mmp
+			</a><br/>
+			Matt Pharr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1387</td>
+		<td>1387</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a target="_blank" href="https://github.com/JimLiu">
 				<img src="https://avatars.githubusercontent.com/u/648674?s=72&v=4" width="24" alt="Avatar of JimLiu"/> JimLiu
@@ -2533,34 +2561,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1387</td>
 	</tr>
 	<tr>
-		<td>174</td>
-		<td>
-			<a target="_blank" href="https://github.com/ummcheng">
-				<img src="https://avatars.githubusercontent.com/u/5747974?s=72&u=9a75037c2415be2373825ba4a674b19ce9116952&v=4" width="24" alt="Avatar of ummcheng"/> ummcheng
-			</a><br/>
-			Cheng Gong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>New York NY</td>
-		<td>3</td>
-		<td>1387</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a target="_blank" href="https://github.com/arogozhnikov">
-				<img src="https://avatars.githubusercontent.com/u/6318811?s=72&u=5e99e15d9400a4bd8a449939093d38df94fd3e90&v=4" width="24" alt="Avatar of arogozhnikov"/> arogozhnikov
-			</a><br/>
-			Alex Rogozhnikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Francisco</td>
-		<td>246</td>
-		<td>1384</td>
-	</tr>
-	<tr>
 		<td>176</td>
 		<td>
 			<a target="_blank" href="https://github.com/trek">
@@ -2572,21 +2572,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/trek">trek</a></td>
 		<td>Chicago IL</td>
 		<td>484</td>
-		<td>1382</td>
+		<td>1386</td>
 	</tr>
 	<tr>
 		<td>177</td>
 		<td>
-			<a target="_blank" href="https://github.com/mmp">
-				<img src="https://avatars.githubusercontent.com/u/102567?s=72&u=156107457c2b0ae97e582f59e97aa5bea438072f&v=4" width="24" alt="Avatar of mmp"/> mmp
+			<a target="_blank" href="https://github.com/arogozhnikov">
+				<img src="https://avatars.githubusercontent.com/u/6318811?s=72&u=5e99e15d9400a4bd8a449939093d38df94fd3e90&v=4" width="24" alt="Avatar of arogozhnikov"/> arogozhnikov
 			</a><br/>
-			Matt Pharr
+			Alex Rogozhnikov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>San Francisco CA</td>
-		<td>1376</td>
-		<td>1376</td>
+		<td>San Francisco</td>
+		<td>246</td>
+		<td>1384</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2605,6 +2605,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>179</td>
 		<td>
+			<a target="_blank" href="https://github.com/holman">
+				<img src="https://avatars.githubusercontent.com/u/2723?s=72&u=af4e36d0aca5cf5a6a1f73948f7873a53735ab81&v=4" width="24" alt="Avatar of holman"/> holman
+			</a><br/>
+			Zach Holman
+		</td>
+		<td>@americanoutlaws  </td>
+		<td><a target="_blank" href="https://twitter.com/holman">holman</a></td>
+		<td>San Francisco</td>
+		<td>44</td>
+		<td>1338</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
 			<a target="_blank" href="https://github.com/cassidoo">
 				<img src="https://avatars.githubusercontent.com/u/1454517?s=72&u=92a133438fecfefc65c4c73143a0f717bd5e7515&v=4" width="24" alt="Avatar of cassidoo"/> cassidoo
 			</a><br/>
@@ -2617,7 +2631,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1331</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a target="_blank" href="https://github.com/ingydotnet">
 				<img src="https://avatars.githubusercontent.com/u/21826?s=72&v=4" width="24" alt="Avatar of ingydotnet"/> ingydotnet
@@ -2627,11 +2641,11 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Yaml Llc </td>
 		<td>No Twitter Username</td>
 		<td>Seattle</td>
-		<td>1325</td>
-		<td>1325</td>
+		<td>1326</td>
+		<td>1326</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a target="_blank" href="https://github.com/yzh119">
 				<img src="https://avatars.githubusercontent.com/u/11773619?s=72&u=142cbc4d40ea28b1e6ddc568ae98b82c9ff09126&v=4" width="24" alt="Avatar of yzh119"/> yzh119
@@ -2641,25 +2655,25 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@uwsampl  </td>
 		<td>No Twitter Username</td>
 		<td>Seattle WA</td>
-		<td>1072</td>
-		<td>1318</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a target="_blank" href="https://github.com/holman">
-				<img src="https://avatars.githubusercontent.com/u/2723?s=72&u=af4e36d0aca5cf5a6a1f73948f7873a53735ab81&v=4" width="24" alt="Avatar of holman"/> holman
-			</a><br/>
-			Zach Holman
-		</td>
-		<td>@americanoutlaws  </td>
-		<td><a target="_blank" href="https://twitter.com/holman">holman</a></td>
-		<td>San Francisco</td>
-		<td>44</td>
-		<td>1310</td>
+		<td>1074</td>
+		<td>1320</td>
 	</tr>
 	<tr>
 		<td>183</td>
+		<td>
+			<a target="_blank" href="https://github.com/nolanlawson">
+				<img src="https://avatars.githubusercontent.com/u/283842?s=72&u=c63d169c54860bde229ad6b428fb150345114ab0&v=4" width="24" alt="Avatar of nolanlawson"/> nolanlawson
+			</a><br/>
+			Nolan Lawson
+		</td>
+		<td>@salesforce </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>1309</td>
+		<td>1309</td>
+	</tr>
+	<tr>
+		<td>184</td>
 		<td>
 			<a target="_blank" href="https://github.com/dvf">
 				<img src="https://avatars.githubusercontent.com/u/1169974?s=72&u=9acbfe22a907e13b039a15ad744f4dd95e93de78&v=4" width="24" alt="Avatar of dvf"/> dvf
@@ -2671,20 +2685,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York City</td>
 		<td>9</td>
 		<td>1306</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a target="_blank" href="https://github.com/nolanlawson">
-				<img src="https://avatars.githubusercontent.com/u/283842?s=72&u=c63d169c54860bde229ad6b428fb150345114ab0&v=4" width="24" alt="Avatar of nolanlawson"/> nolanlawson
-			</a><br/>
-			Nolan Lawson
-		</td>
-		<td>@salesforce </td>
-		<td>No Twitter Username</td>
-		<td>Seattle</td>
-		<td>1305</td>
-		<td>1305</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -2712,7 +2712,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/trishume">trishume</a></td>
 		<td>San Francisco</td>
 		<td>21</td>
-		<td>1291</td>
+		<td>1292</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -2754,7 +2754,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Seattle Washington</td>
 		<td>7</td>
-		<td>1270</td>
+		<td>1271</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2768,7 +2768,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/yining_shi">yining_shi</a></td>
 		<td>New York</td>
 		<td>106</td>
-		<td>1260</td>
+		<td>1261</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2781,8 +2781,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Brookhaven National Lab </td>
 		<td>No Twitter Username</td>
 		<td>New York</td>
-		<td>1073</td>
-		<td>1253</td>
+		<td>1076</td>
+		<td>1256</td>
 	</tr>
 	<tr>
 		<td>192</td>
@@ -2795,11 +2795,25 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chicago IL</td>
-		<td>504</td>
-		<td>1250</td>
+		<td>505</td>
+		<td>1251</td>
 	</tr>
 	<tr>
 		<td>193</td>
+		<td>
+			<a target="_blank" href="https://github.com/maryrosecook">
+				<img src="https://avatars.githubusercontent.com/u/2716?s=72&u=f7f4465635c06cb589291e6f694a4d44178f88f7&v=4" width="24" alt="Avatar of maryrosecook"/> maryrosecook
+			</a><br/>
+			Mary Rose Cook
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/maryrosecook">maryrosecook</a></td>
+		<td>San Francisco</td>
+		<td>36</td>
+		<td>1245</td>
+	</tr>
+	<tr>
+		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/Empact">
 				<img src="https://avatars.githubusercontent.com/u/5470?s=72&u=524da946ce15abf0c1284454fdc9818f49e1dfe6&v=4" width="24" alt="Avatar of Empact"/> Empact
@@ -2811,20 +2825,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Austin TX</td>
 		<td>52</td>
 		<td>1245</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a target="_blank" href="https://github.com/maryrosecook">
-				<img src="https://avatars.githubusercontent.com/u/2716?s=72&u=f7f4465635c06cb589291e6f694a4d44178f88f7&v=4" width="24" alt="Avatar of maryrosecook"/> maryrosecook
-			</a><br/>
-			Mary Rose Cook
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/maryrosecook">maryrosecook</a></td>
-		<td>San Francisco</td>
-		<td>36</td>
-		<td>1235</td>
 	</tr>
 	<tr>
 		<td>195</td>
@@ -2851,8 +2851,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area CA USA</td>
-		<td>1226</td>
-		<td>1226</td>
+		<td>1227</td>
+		<td>1227</td>
 	</tr>
 	<tr>
 		<td>197</td>
@@ -2880,7 +2880,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/JustinBeckwith">JustinBeckwith</a></td>
 		<td>Seattle WA</td>
 		<td>368</td>
-		<td>1204</td>
+		<td>1205</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -2927,6 +2927,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>202</td>
 		<td>
+			<a target="_blank" href="https://github.com/sergeyk">
+				<img src="https://avatars.githubusercontent.com/u/4881?s=72&v=4" width="24" alt="Avatar of sergeyk"/> sergeyk
+			</a><br/>
+			Sergey Karayev
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/sergeykarayev">sergeykarayev</a></td>
+		<td>Seattle WA</td>
+		<td>11</td>
+		<td>1180</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
 			<a target="_blank" href="https://github.com/probablycorey">
 				<img src="https://avatars.githubusercontent.com/u/596?s=72&v=4" width="24" alt="Avatar of probablycorey"/> probablycorey
 			</a><br/>
@@ -2939,7 +2953,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1180</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
+		<td>
+			<a target="_blank" href="https://github.com/mattgodbolt">
+				<img src="https://avatars.githubusercontent.com/u/633973?s=72&u=ff82a4220d65da056d36f22322aca146a9f94862&v=4" width="24" alt="Avatar of mattgodbolt"/> mattgodbolt
+			</a><br/>
+			Matt Godbolt
+		</td>
+		<td>Aquatic Capital Management </td>
+		<td>No Twitter Username</td>
+		<td>Chicago IL</td>
+		<td>1150</td>
+		<td>1177</td>
+	</tr>
+	<tr>
+		<td>205</td>
 		<td>
 			<a target="_blank" href="https://github.com/ACyphus">
 				<img src="https://avatars.githubusercontent.com/u/983880?s=72&u=c434b14be31fa77dc3fca84fed79bbced303df7c&v=4" width="24" alt="Avatar of ACyphus"/> ACyphus
@@ -2951,34 +2979,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Austin Texas</td>
 		<td>68</td>
 		<td>1177</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a target="_blank" href="https://github.com/sergeyk">
-				<img src="https://avatars.githubusercontent.com/u/4881?s=72&v=4" width="24" alt="Avatar of sergeyk"/> sergeyk
-			</a><br/>
-			Sergey Karayev
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/sergeykarayev">sergeykarayev</a></td>
-		<td>Seattle WA</td>
-		<td>11</td>
-		<td>1176</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a target="_blank" href="https://github.com/mattgodbolt">
-				<img src="https://avatars.githubusercontent.com/u/633973?s=72&u=ff82a4220d65da056d36f22322aca146a9f94862&v=4" width="24" alt="Avatar of mattgodbolt"/> mattgodbolt
-			</a><br/>
-			Matt Godbolt
-		</td>
-		<td>Aquatic Capital Management </td>
-		<td>No Twitter Username</td>
-		<td>Chicago IL</td>
-		<td>1147</td>
-		<td>1174</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -3006,7 +3006,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco California USA</td>
 		<td>18</td>
-		<td>1155</td>
+		<td>1158</td>
 	</tr>
 	<tr>
 		<td>208</td>
@@ -3019,8 +3019,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Adobe </td>
 		<td><a target="_blank" href="https://twitter.com/devongovett">devongovett</a></td>
 		<td>San Francisco</td>
-		<td>1138</td>
-		<td>1150</td>
+		<td>1141</td>
+		<td>1153</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -3048,7 +3048,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/pquerna">pquerna</a></td>
 		<td>San Francisco CA</td>
 		<td>157</td>
-		<td>1138</td>
+		<td>1139</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -3061,8 +3061,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@google @flutter  </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>1076</td>
-		<td>1134</td>
+		<td>1077</td>
+		<td>1135</td>
 	</tr>
 	<tr>
 		<td>212</td>
@@ -3089,8 +3089,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@google </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
-		<td>1091</td>
-		<td>1123</td>
+		<td>1092</td>
+		<td>1124</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -3137,6 +3137,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>217</td>
 		<td>
+			<a target="_blank" href="https://github.com/iagox86">
+				<img src="https://avatars.githubusercontent.com/u/526412?s=72&u=2dc6c1c971dd494626e650dc07379e29b11a470b&v=4" width="24" alt="Avatar of iagox86"/> iagox86
+			</a><br/>
+			Ron Bowes
+		</td>
+		<td>Greynoise  Skullsecurity </td>
+		<td><a target="_blank" href="https://twitter.com/iagox86">iagox86</a></td>
+		<td>Seattle</td>
+		<td>83</td>
+		<td>1092</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
 			<a target="_blank" href="https://github.com/aardappel">
 				<img src="https://avatars.githubusercontent.com/u/4663648?s=72&u=3c9199cf6983cf44b3255d4779f282cd050b595b&v=4" width="24" alt="Avatar of aardappel"/> aardappel
 			</a><br/>
@@ -3149,7 +3163,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1089</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuchenlin">
 				<img src="https://avatars.githubusercontent.com/u/10104354?s=72&u=3a5cd7d11737addb33806fafc6d53f388806ff62&v=4" width="24" alt="Avatar of yuchenlin"/> yuchenlin
@@ -3163,7 +3177,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1089</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
+		<td>
+			<a target="_blank" href="https://github.com/bautistaaa">
+				<img src="https://avatars.githubusercontent.com/u/3660667?s=72&u=f0dc28c76979383e5f517f56f4ab0119e80f959e&v=4" width="24" alt="Avatar of bautistaaa"/> bautistaaa
+			</a><br/>
+			No Name
+		</td>
+		<td>Netflix </td>
+		<td><a target="_blank" href="https://twitter.com/typeheroapp">typeheroapp</a></td>
+		<td>Los Angeles CA</td>
+		<td>1021</td>
+		<td>1087</td>
+	</tr>
+	<tr>
+		<td>221</td>
 		<td>
 			<a target="_blank" href="https://github.com/shilman">
 				<img src="https://avatars.githubusercontent.com/u/488689?s=72&u=f8d1033c37b25d2314552b72fcac9531ae44e4ea&v=4" width="24" alt="Avatar of shilman"/> shilman
@@ -3177,34 +3205,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>1086</td>
 	</tr>
 	<tr>
-		<td>220</td>
-		<td>
-			<a target="_blank" href="https://github.com/bautistaaa">
-				<img src="https://avatars.githubusercontent.com/u/3660667?s=72&u=f0dc28c76979383e5f517f56f4ab0119e80f959e&v=4" width="24" alt="Avatar of bautistaaa"/> bautistaaa
-			</a><br/>
-			No Name
-		</td>
-		<td>Netflix </td>
-		<td><a target="_blank" href="https://twitter.com/typeheroapp">typeheroapp</a></td>
-		<td>Los Angeles CA</td>
-		<td>1020</td>
-		<td>1086</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a target="_blank" href="https://github.com/jxnblk">
-				<img src="https://avatars.githubusercontent.com/u/3451712?s=72&u=f6f9aee58f995c8b14827a9c3c1277adaf5d84fc&v=4" width="24" alt="Avatar of jxnblk"/> jxnblk
-			</a><br/>
-			Brent Jackson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>New York City</td>
-		<td>80</td>
-		<td>1081</td>
-	</tr>
-	<tr>
 		<td>222</td>
 		<td>
 			<a target="_blank" href="https://github.com/nbarbettini">
@@ -3216,21 +3216,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>8</td>
-		<td>1078</td>
+		<td>1083</td>
 	</tr>
 	<tr>
 		<td>223</td>
 		<td>
-			<a target="_blank" href="https://github.com/iagox86">
-				<img src="https://avatars.githubusercontent.com/u/526412?s=72&u=2dc6c1c971dd494626e650dc07379e29b11a470b&v=4" width="24" alt="Avatar of iagox86"/> iagox86
+			<a target="_blank" href="https://github.com/jxnblk">
+				<img src="https://avatars.githubusercontent.com/u/3451712?s=72&u=f6f9aee58f995c8b14827a9c3c1277adaf5d84fc&v=4" width="24" alt="Avatar of jxnblk"/> jxnblk
 			</a><br/>
-			Ron Bowes
+			Brent Jackson
 		</td>
-		<td>Greynoise  Skullsecurity </td>
-		<td><a target="_blank" href="https://twitter.com/iagox86">iagox86</a></td>
-		<td>Seattle</td>
-		<td>83</td>
-		<td>1077</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York City</td>
+		<td>80</td>
+		<td>1082</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -3263,6 +3263,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>226</td>
 		<td>
+			<a target="_blank" href="https://github.com/ternaus">
+				<img src="https://avatars.githubusercontent.com/u/5481618?s=72&u=513a26b02a39e7a28d587cd37c6cc877ea368e6e&v=4" width="24" alt="Avatar of ternaus"/> ternaus
+			</a><br/>
+			Vladimir Iglovikov
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/viglovikov">viglovikov</a></td>
+		<td>San Francisco</td>
+		<td>660</td>
+		<td>1068</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
 			<a target="_blank" href="https://github.com/schneems">
 				<img src="https://avatars.githubusercontent.com/u/59744?s=72&u=dcc56246ab9ed7f43103e10a1b09b6cecf8599cf&v=4" width="24" alt="Avatar of schneems"/> schneems
 			</a><br/>
@@ -3273,20 +3287,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Austin Tx</td>
 		<td>635</td>
 		<td>1063</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a target="_blank" href="https://github.com/ternaus">
-				<img src="https://avatars.githubusercontent.com/u/5481618?s=72&u=513a26b02a39e7a28d587cd37c6cc877ea368e6e&v=4" width="24" alt="Avatar of ternaus"/> ternaus
-			</a><br/>
-			Vladimir Iglovikov
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/viglovikov">viglovikov</a></td>
-		<td>San Francisco</td>
-		<td>651</td>
-		<td>1059</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3361,6 +3361,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>233</td>
 		<td>
+			<a target="_blank" href="https://github.com/osnr">
+				<img src="https://avatars.githubusercontent.com/u/96857?s=72&u=fdb1f72ccd71e5e53ff0edee7f60c5bde632cd10&v=4" width="24" alt="Avatar of osnr"/> osnr
+			</a><br/>
+			Omar Rizwan
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/rsnous">rsnous</a></td>
+		<td>New York NY</td>
+		<td>895</td>
+		<td>1027</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
 			<a target="_blank" href="https://github.com/aslushnikov">
 				<img src="https://avatars.githubusercontent.com/u/746130?s=72&u=bc83ba749f90def9710c03f1502595f1c3af49a9&v=4" width="24" alt="Avatar of aslushnikov"/> aslushnikov
 			</a><br/>
@@ -3371,20 +3385,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco CA</td>
 		<td>242</td>
 		<td>1026</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a target="_blank" href="https://github.com/osnr">
-				<img src="https://avatars.githubusercontent.com/u/96857?s=72&u=fdb1f72ccd71e5e53ff0edee7f60c5bde632cd10&v=4" width="24" alt="Avatar of osnr"/> osnr
-			</a><br/>
-			Omar Rizwan
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/rsnous">rsnous</a></td>
-		<td>New York NY</td>
-		<td>893</td>
-		<td>1025</td>
 	</tr>
 	<tr>
 		<td>235</td>
@@ -3398,7 +3398,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>16</td>
-		<td>1009</td>
+		<td>1011</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -3425,8 +3425,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@dotnet  </td>
 		<td>No Twitter Username</td>
 		<td>Seattle  Toronto</td>
-		<td>624</td>
-		<td>1005</td>
+		<td>626</td>
+		<td>1007</td>
 	</tr>
 	<tr>
 		<td>238</td>
@@ -3445,6 +3445,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>239</td>
 		<td>
+			<a target="_blank" href="https://github.com/henryjeff">
+				<img src="https://avatars.githubusercontent.com/u/13322650?s=72&u=bde31561a6d811f096c16015d469ab8d552dff37&v=4" width="24" alt="Avatar of henryjeff"/> henryjeff
+			</a><br/>
+			Henry Heffernan
+		</td>
+		<td>@vercel </td>
+		<td><a target="_blank" href="https://twitter.com/henryheffernan">henryheffernan</a></td>
+		<td>San Francisco</td>
+		<td>1</td>
+		<td>988</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
 			<a target="_blank" href="https://github.com/benvanik">
 				<img src="https://avatars.githubusercontent.com/u/75337?s=72&v=4" width="24" alt="Avatar of benvanik"/> benvanik
 			</a><br/>
@@ -3455,20 +3469,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Seattle WA</td>
 		<td>985</td>
 		<td>985</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
-			<a target="_blank" href="https://github.com/henryjeff">
-				<img src="https://avatars.githubusercontent.com/u/13322650?s=72&u=bde31561a6d811f096c16015d469ab8d552dff37&v=4" width="24" alt="Avatar of henryjeff"/> henryjeff
-			</a><br/>
-			Henry Heffernan
-		</td>
-		<td>@vercel </td>
-		<td><a target="_blank" href="https://twitter.com/henryheffernan">henryheffernan</a></td>
-		<td>San Francisco</td>
-		<td>1</td>
-		<td>984</td>
 	</tr>
 	<tr>
 		<td>241</td>
@@ -3565,8 +3565,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Editor Goodies @ Microsoft<br/><br/></td>
 		<td><a target="_blank" href="https://twitter.com/MariaSolanoOs">MariaSolanoOs</a></td>
 		<td>Seattle WA</td>
-		<td>922</td>
-		<td>934</td>
+		<td>925</td>
+		<td>937</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -3664,7 +3664,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/chaitjo">chaitjo</a></td>
 		<td>San Francisco</td>
 		<td>193</td>
-		<td>866</td>
+		<td>875</td>
 	</tr>
 	<tr>
 		<td>255</td>
@@ -3692,7 +3692,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>New York City</td>
 		<td>10</td>
-		<td>848</td>
+		<td>851</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3719,25 +3719,11 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/SeaweedFS">SeaweedFS</a></td>
 		<td>San Francisco</td>
-		<td>842</td>
-		<td>842</td>
+		<td>843</td>
+		<td>843</td>
 	</tr>
 	<tr>
 		<td>259</td>
-		<td>
-			<a target="_blank" href="https://github.com/raxod502">
-				<img src="https://avatars.githubusercontent.com/u/6559064?s=72&u=558e0407a91007c571648f4355c35f5d5f45df06&v=4" width="24" alt="Avatar of raxod502"/> raxod502
-			</a><br/>
-			Radon Rosborough
-		</td>
-		<td>@plaid </td>
-		<td>No Twitter Username</td>
-		<td>San Francisco CA</td>
-		<td>840</td>
-		<td>840</td>
-	</tr>
-	<tr>
-		<td>260</td>
 		<td>
 			<a target="_blank" href="https://github.com/thinkyhead">
 				<img src="https://avatars.githubusercontent.com/u/698003?s=72&u=5478fdda751ee3077b37a1a2fe8f208ddd486319&v=4" width="24" alt="Avatar of thinkyhead"/> thinkyhead
@@ -3747,6 +3733,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Thinkyhead Software </td>
 		<td><a target="_blank" href="https://twitter.com/thinkyhead">thinkyhead</a></td>
 		<td>Austin TX</td>
+		<td>843</td>
+		<td>843</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a target="_blank" href="https://github.com/raxod502">
+				<img src="https://avatars.githubusercontent.com/u/6559064?s=72&u=558e0407a91007c571648f4355c35f5d5f45df06&v=4" width="24" alt="Avatar of raxod502"/> raxod502
+			</a><br/>
+			Radon Rosborough
+		</td>
+		<td>@plaid </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
 		<td>840</td>
 		<td>840</td>
 	</tr>
@@ -3761,8 +3761,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Vercel </td>
 		<td><a target="_blank" href="https://twitter.com/sebmarkbage">sebmarkbage</a></td>
 		<td>New York City</td>
-		<td>838</td>
-		<td>838</td>
+		<td>839</td>
+		<td>839</td>
 	</tr>
 	<tr>
 		<td>262</td>
@@ -3781,6 +3781,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>263</td>
 		<td>
+			<a target="_blank" href="https://github.com/SanderMertens">
+				<img src="https://avatars.githubusercontent.com/u/9919222?s=72&u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4" width="24" alt="Avatar of SanderMertens"/> SanderMertens
+			</a><br/>
+			Sander Mertens
+		</td>
+		<td>Hypnos Entertainment </td>
+		<td><a target="_blank" href="https://twitter.com/ajmmertens">ajmmertens</a></td>
+		<td>San Francisco California</td>
+		<td>818</td>
+		<td>818</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
 			<a target="_blank" href="https://github.com/jbranchaud">
 				<img src="https://avatars.githubusercontent.com/u/694063?s=72&u=06371b7c536f6a270132b8acf2cb299199de13b1&v=4" width="24" alt="Avatar of jbranchaud"/> jbranchaud
 			</a><br/>
@@ -3793,7 +3807,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>816</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a target="_blank" href="https://github.com/andyleejordan">
 				<img src="https://avatars.githubusercontent.com/u/2226434?s=72&u=5c8f26b2f163f40955d8331a9c24b993a8852d59&v=4" width="24" alt="Avatar of andyleejordan"/> andyleejordan
@@ -3805,20 +3819,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Seattle WA</td>
 		<td>811</td>
 		<td>816</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a target="_blank" href="https://github.com/SanderMertens">
-				<img src="https://avatars.githubusercontent.com/u/9919222?s=72&u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4" width="24" alt="Avatar of SanderMertens"/> SanderMertens
-			</a><br/>
-			Sander Mertens
-		</td>
-		<td>Hypnos Entertainment </td>
-		<td><a target="_blank" href="https://twitter.com/ajmmertens">ajmmertens</a></td>
-		<td>San Francisco California</td>
-		<td>813</td>
-		<td>813</td>
 	</tr>
 	<tr>
 		<td>266</td>
@@ -3846,7 +3846,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>84</td>
-		<td>810</td>
+		<td>811</td>
 	</tr>
 	<tr>
 		<td>268</td>
@@ -3874,7 +3874,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/zhuohan123">zhuohan123</a></td>
 		<td> San Francisco Bay Area</td>
 		<td>573</td>
-		<td>803</td>
+		<td>804</td>
 	</tr>
 	<tr>
 		<td>270</td>
@@ -3893,6 +3893,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>271</td>
 		<td>
+			<a target="_blank" href="https://github.com/aarongustafson">
+				<img src="https://avatars.githubusercontent.com/u/75736?s=72&v=4" width="24" alt="Avatar of aarongustafson"/> aarongustafson
+			</a><br/>
+			Aaron Gustafson
+		</td>
+		<td>@microsoft </td>
+		<td><a target="_blank" href="https://twitter.com/AaronGustafson">AaronGustafson</a></td>
+		<td>Unceded Coast Salish land Seattle WA</td>
+		<td>420</td>
+		<td>800</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
 			<a target="_blank" href="https://github.com/kentonv">
 				<img src="https://avatars.githubusercontent.com/u/4001805?s=72&u=68b3a332314918b414acc1667c628f95d417aad6&v=4" width="24" alt="Avatar of kentonv"/> kentonv
 			</a><br/>
@@ -3905,7 +3919,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>796</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>273</td>
 		<td>
 			<a target="_blank" href="https://github.com/kdexd">
 				<img src="https://avatars.githubusercontent.com/u/10494087?s=72&u=5d44e2268be5b3f90ae7b791dfb3485f5531cd2d&v=4" width="24" alt="Avatar of kdexd"/> kdexd
@@ -3916,21 +3930,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/kdexd">kdexd</a></td>
 		<td>San Francisco CA</td>
 		<td>22</td>
-		<td>794</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
-			<a target="_blank" href="https://github.com/aarongustafson">
-				<img src="https://avatars.githubusercontent.com/u/75736?s=72&v=4" width="24" alt="Avatar of aarongustafson"/> aarongustafson
-			</a><br/>
-			Aaron Gustafson
-		</td>
-		<td>@microsoft </td>
-		<td><a target="_blank" href="https://twitter.com/AaronGustafson">AaronGustafson</a></td>
-		<td>Unceded Coast Salish land Seattle WA</td>
-		<td>416</td>
-		<td>793</td>
+		<td>795</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -3943,8 +3943,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@denoland  </td>
 		<td>No Twitter Username</td>
 		<td>New York City</td>
-		<td>346</td>
-		<td>789</td>
+		<td>348</td>
+		<td>793</td>
 	</tr>
 	<tr>
 		<td>275</td>
@@ -3971,8 +3971,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/velersoftware">velersoftware</a></td>
 		<td>Seattle WA</td>
-		<td>693</td>
-		<td>781</td>
+		<td>696</td>
+		<td>784</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -3991,20 +3991,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>278</td>
 		<td>
-			<a target="_blank" href="https://github.com/mxstbr">
-				<img src="https://avatars.githubusercontent.com/u/7525670?s=72&v=4" width="24" alt="Avatar of mxstbr"/> mxstbr
-			</a><br/>
-			Max Stoiber
-		</td>
-		<td>@stellatehq </td>
-		<td><a target="_blank" href="https://twitter.com/mxstbr">mxstbr</a></td>
-		<td>San Francisco CA</td>
-		<td>455</td>
-		<td>771</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
 			<a target="_blank" href="https://github.com/meowgorithm">
 				<img src="https://avatars.githubusercontent.com/u/25087?s=72&u=1dc2f182860e2771dbb0c33226a0ef89aecd5f17&v=4" width="24" alt="Avatar of meowgorithm"/> meowgorithm
 			</a><br/>
@@ -4014,7 +4000,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/meowgorithm">meowgorithm</a></td>
 		<td>New York</td>
 		<td>493</td>
-		<td>766</td>
+		<td>773</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a target="_blank" href="https://github.com/mxstbr">
+				<img src="https://avatars.githubusercontent.com/u/7525670?s=72&v=4" width="24" alt="Avatar of mxstbr"/> mxstbr
+			</a><br/>
+			Max Stoiber
+		</td>
+		<td>@stellatehq </td>
+		<td><a target="_blank" href="https://twitter.com/mxstbr">mxstbr</a></td>
+		<td>San Francisco CA</td>
+		<td>456</td>
+		<td>772</td>
 	</tr>
 	<tr>
 		<td>280</td>
@@ -4027,8 +4027,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/danielhanchen">danielhanchen</a></td>
 		<td>San Francisco</td>
-		<td>623</td>
-		<td>761</td>
+		<td>625</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>281</td>
@@ -4070,7 +4070,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>2</td>
-		<td>756</td>
+		<td>757</td>
 	</tr>
 	<tr>
 		<td>284</td>
@@ -4181,8 +4181,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Github </td>
 		<td><a target="_blank" href="https://twitter.com/juanpflores_">juanpflores_</a></td>
 		<td>Seattle</td>
-		<td>148</td>
-		<td>731</td>
+		<td>149</td>
+		<td>732</td>
 	</tr>
 	<tr>
 		<td>292</td>
@@ -4237,8 +4237,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kaycebasques">kaycebasques</a></td>
 		<td>San Francisco</td>
-		<td>309</td>
-		<td>721</td>
+		<td>310</td>
+		<td>722</td>
 	</tr>
 	<tr>
 		<td>296</td>
@@ -4266,7 +4266,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>148</td>
-		<td>716</td>
+		<td>717</td>
 	</tr>
 	<tr>
 		<td>298</td>
@@ -4369,6 +4369,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>305</td>
 		<td>
+			<a target="_blank" href="https://github.com/deltakosh">
+				<img src="https://avatars.githubusercontent.com/u/1306056?s=72&v=4" width="24" alt="Avatar of deltakosh"/> deltakosh
+			</a><br/>
+			David Catuhe
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>704</td>
+		<td>704</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
 			<a target="_blank" href="https://github.com/brminnick">
 				<img src="https://avatars.githubusercontent.com/u/13558917?s=72&u=6e0d77ca0420f418c8ad5110cb155dea5d427a35&v=4" width="24" alt="Avatar of brminnick"/> brminnick
 			</a><br/>
@@ -4381,7 +4395,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>702</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a target="_blank" href="https://github.com/progrium">
 				<img src="https://avatars.githubusercontent.com/u/647?s=72&u=a8763eceda160cfff002f9686978118ef51883f0&v=4" width="24" alt="Avatar of progrium"/> progrium
@@ -4391,22 +4405,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Progrium Technology Company </td>
 		<td><a target="_blank" href="https://twitter.com/progrium">progrium</a></td>
 		<td>Austin TX</td>
-		<td>693</td>
-		<td>693</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a target="_blank" href="https://github.com/coolstar">
-				<img src="https://avatars.githubusercontent.com/u/1431548?s=72&u=0f49694845f4ef341e7defa8da998371238aedb5&v=4" width="24" alt="Avatar of coolstar"/> coolstar
-			</a><br/>
-			CoolStar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Francisco CA</td>
-		<td>483</td>
-		<td>692</td>
+		<td>695</td>
+		<td>695</td>
 	</tr>
 	<tr>
 		<td>308</td>
@@ -4420,21 +4420,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area</td>
 		<td>44</td>
-		<td>692</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>309</td>
 		<td>
-			<a target="_blank" href="https://github.com/deltakosh">
-				<img src="https://avatars.githubusercontent.com/u/1306056?s=72&v=4" width="24" alt="Avatar of deltakosh"/> deltakosh
+			<a target="_blank" href="https://github.com/coolstar">
+				<img src="https://avatars.githubusercontent.com/u/1431548?s=72&u=0f49694845f4ef341e7defa8da998371238aedb5&v=4" width="24" alt="Avatar of coolstar"/> coolstar
 			</a><br/>
-			David Catuhe
+			CoolStar
 		</td>
-		<td>Microsoft </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Seattle</td>
-		<td>686</td>
-		<td>686</td>
+		<td>San Francisco CA</td>
+		<td>483</td>
+		<td>692</td>
 	</tr>
 	<tr>
 		<td>310</td>
@@ -4509,6 +4509,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>315</td>
 		<td>
+			<a target="_blank" href="https://github.com/wardviaene">
+				<img src="https://avatars.githubusercontent.com/u/7711378?s=72&u=1a8483136bcf2a437dded2d3677026250dcb8326&v=4" width="24" alt="Avatar of wardviaene"/> wardviaene
+			</a><br/>
+			Edward Viaene
+		</td>
+		<td>In4it </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>132</td>
+		<td>662</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
 			<a target="_blank" href="https://github.com/DavidWells">
 				<img src="https://avatars.githubusercontent.com/u/532272?s=72&u=e7b96b32a71ed740a741cb666fbe8c3f7fd65c5c&v=4" width="24" alt="Avatar of DavidWells"/> DavidWells
 			</a><br/>
@@ -4519,20 +4533,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco</td>
 		<td>273</td>
 		<td>662</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a target="_blank" href="https://github.com/wardviaene">
-				<img src="https://avatars.githubusercontent.com/u/7711378?s=72&u=1a8483136bcf2a437dded2d3677026250dcb8326&v=4" width="24" alt="Avatar of wardviaene"/> wardviaene
-			</a><br/>
-			Edward Viaene
-		</td>
-		<td>In4it </td>
-		<td>No Twitter Username</td>
-		<td>Austin TX</td>
-		<td>130</td>
-		<td>660</td>
 	</tr>
 	<tr>
 		<td>317</td>
@@ -4593,6 +4593,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>321</td>
 		<td>
+			<a target="_blank" href="https://github.com/felixrieseberg">
+				<img src="https://avatars.githubusercontent.com/u/1426799?s=72&u=4f954e789d82f34fdc808de92622fb0e22996032&v=4" width="24" alt="Avatar of felixrieseberg"/> felixrieseberg
+			</a><br/>
+			Felix Rieseberg
+		</td>
+		<td>@makenotion  </td>
+		<td><a target="_blank" href="https://twitter.com/felixrieseberg">felixrieseberg</a></td>
+		<td>San Francisco</td>
+		<td>174</td>
+		<td>644</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
 			<a target="_blank" href="https://github.com/zaiste">
 				<img src="https://avatars.githubusercontent.com/u/200613?s=72&u=ff3f9e33a4fe78c99bcfa3b174b6756016c0885f&v=4" width="24" alt="Avatar of zaiste"/> zaiste
 			</a><br/>
@@ -4605,21 +4619,35 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>643</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
-			<a target="_blank" href="https://github.com/felixrieseberg">
-				<img src="https://avatars.githubusercontent.com/u/1426799?s=72&u=4f954e789d82f34fdc808de92622fb0e22996032&v=4" width="24" alt="Avatar of felixrieseberg"/> felixrieseberg
+			<a target="_blank" href="https://github.com/MarioCarrion">
+				<img src="https://avatars.githubusercontent.com/u/104050?s=72&u=5024159504d2aab7e774bf4fe499bf102d09c02b&v=4" width="24" alt="Avatar of MarioCarrion"/> MarioCarrion
 			</a><br/>
-			Felix Rieseberg
+			Mario Carrion
 		</td>
-		<td>@makenotion  </td>
-		<td><a target="_blank" href="https://twitter.com/felixrieseberg">felixrieseberg</a></td>
-		<td>San Francisco</td>
-		<td>174</td>
-		<td>642</td>
+		<td>Paramount </td>
+		<td><a target="_blank" href="https://twitter.com/MarioCarrion">MarioCarrion</a></td>
+		<td>New York NY</td>
+		<td>68</td>
+		<td>635</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
+		<td>
+			<a target="_blank" href="https://github.com/zsxwing">
+				<img src="https://avatars.githubusercontent.com/u/1000778?s=72&v=4" width="24" alt="Avatar of zsxwing"/> zsxwing
+			</a><br/>
+			Shixiong Zhu
+		</td>
+		<td>Databricks Inc </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>7</td>
+		<td>634</td>
+	</tr>
+	<tr>
+		<td>325</td>
 		<td>
 			<a target="_blank" href="https://github.com/iamcal">
 				<img src="https://avatars.githubusercontent.com/u/173750?s=72&v=4" width="24" alt="Avatar of iamcal"/> iamcal
@@ -4633,35 +4661,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>634</td>
 	</tr>
 	<tr>
-		<td>324</td>
-		<td>
-			<a target="_blank" href="https://github.com/MarioCarrion">
-				<img src="https://avatars.githubusercontent.com/u/104050?s=72&u=5024159504d2aab7e774bf4fe499bf102d09c02b&v=4" width="24" alt="Avatar of MarioCarrion"/> MarioCarrion
-			</a><br/>
-			Mario Carrion
-		</td>
-		<td>Paramount </td>
-		<td><a target="_blank" href="https://twitter.com/MarioCarrion">MarioCarrion</a></td>
-		<td>New York NY</td>
-		<td>68</td>
-		<td>634</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a target="_blank" href="https://github.com/zsxwing">
-				<img src="https://avatars.githubusercontent.com/u/1000778?s=72&v=4" width="24" alt="Avatar of zsxwing"/> zsxwing
-			</a><br/>
-			Shixiong Zhu
-		</td>
-		<td>Databricks Inc </td>
-		<td>No Twitter Username</td>
-		<td>San Francisco</td>
-		<td>7</td>
-		<td>632</td>
-	</tr>
-	<tr>
 		<td>326</td>
+		<td>
+			<a target="_blank" href="https://github.com/Fryingpannn">
+				<img src="https://avatars.githubusercontent.com/u/59063950?s=72&u=96c57758d895c52bf382ec53a69bfe4c6e75c76b&v=4" width="24" alt="Avatar of Fryingpannn"/> Fryingpannn
+			</a><br/>
+			Duke Pan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>524</td>
+		<td>630</td>
+	</tr>
+	<tr>
+		<td>327</td>
 		<td>
 			<a target="_blank" href="https://github.com/nornagon">
 				<img src="https://avatars.githubusercontent.com/u/172800?s=72&v=4" width="24" alt="Avatar of nornagon"/> nornagon
@@ -4673,20 +4687,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco CA</td>
 		<td>629</td>
 		<td>629</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
-			<a target="_blank" href="https://github.com/Fryingpannn">
-				<img src="https://avatars.githubusercontent.com/u/59063950?s=72&u=96c57758d895c52bf382ec53a69bfe4c6e75c76b&v=4" width="24" alt="Avatar of Fryingpannn"/> Fryingpannn
-			</a><br/>
-			Duke Pan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>New York</td>
-		<td>522</td>
-		<td>628</td>
 	</tr>
 	<tr>
 		<td>328</td>
@@ -4784,7 +4784,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
 		<td>330</td>
-		<td>613</td>
+		<td>614</td>
 	</tr>
 	<tr>
 		<td>335</td>
@@ -4840,10 +4840,38 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/benawad">benawad</a></td>
 		<td>Austin TX</td>
 		<td>310</td>
-		<td>596</td>
+		<td>603</td>
 	</tr>
 	<tr>
 		<td>339</td>
+		<td>
+			<a target="_blank" href="https://github.com/holdenk">
+				<img src="https://avatars.githubusercontent.com/u/59893?s=72&v=4" width="24" alt="Avatar of holdenk"/> holdenk
+			</a><br/>
+			Holden Karau
+		</td>
+		<td>Open Source Big Data<br/>Dev<br/></td>
+		<td><a target="_blank" href="https://twitter.com/holdenkarau">holdenkarau</a></td>
+		<td>San Francisco CA USA</td>
+		<td>581</td>
+		<td>587</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a target="_blank" href="https://github.com/seankross">
+				<img src="https://avatars.githubusercontent.com/u/1819813?s=72&u=148e9e64b5c3ff1e907b6c6095b08233e948a29e&v=4" width="24" alt="Avatar of seankross"/> seankross
+			</a><br/>
+			Sean Kross
+		</td>
+		<td>Fred Hutchinson Cancer Center<br/></td>
+		<td><a target="_blank" href="https://twitter.com/seankross">seankross</a></td>
+		<td>Seattle WA</td>
+		<td>311</td>
+		<td>587</td>
+	</tr>
+	<tr>
+		<td>341</td>
 		<td>
 			<a target="_blank" href="https://github.com/shykes">
 				<img src="https://avatars.githubusercontent.com/u/29565?s=72&u=13ae12e8e93659cab6d6b36c6892d038a0550051&v=4" width="24" alt="Avatar of shykes"/> shykes
@@ -4857,7 +4885,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>585</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>342</td>
 		<td>
 			<a target="_blank" href="https://github.com/tenderlove">
 				<img src="https://avatars.githubusercontent.com/u/3124?s=72&u=6ece6a5a8b8ea32c5fa94c325d151bc01d1e44e8&v=4" width="24" alt="Avatar of tenderlove"/> tenderlove
@@ -4871,34 +4899,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>583</td>
 	</tr>
 	<tr>
-		<td>341</td>
-		<td>
-			<a target="_blank" href="https://github.com/seankross">
-				<img src="https://avatars.githubusercontent.com/u/1819813?s=72&u=148e9e64b5c3ff1e907b6c6095b08233e948a29e&v=4" width="24" alt="Avatar of seankross"/> seankross
-			</a><br/>
-			Sean Kross
-		</td>
-		<td>Fred Hutchinson Cancer Center<br/></td>
-		<td><a target="_blank" href="https://twitter.com/seankross">seankross</a></td>
-		<td>Seattle WA</td>
-		<td>307</td>
-		<td>583</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a target="_blank" href="https://github.com/holdenk">
-				<img src="https://avatars.githubusercontent.com/u/59893?s=72&v=4" width="24" alt="Avatar of holdenk"/> holdenk
-			</a><br/>
-			Holden Karau
-		</td>
-		<td>Open Source Big Data<br/>Dev<br/></td>
-		<td><a target="_blank" href="https://twitter.com/holdenkarau">holdenkarau</a></td>
-		<td>San Francisco CA USA</td>
-		<td>576</td>
-		<td>582</td>
-	</tr>
-	<tr>
 		<td>343</td>
 		<td>
 			<a target="_blank" href="https://github.com/coreyhaines">
@@ -4910,7 +4910,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/coreyhaines">coreyhaines</a></td>
 		<td>chicago il</td>
 		<td>15</td>
-		<td>582</td>
+		<td>583</td>
 	</tr>
 	<tr>
 		<td>344</td>
@@ -4985,6 +4985,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>349</td>
 		<td>
+			<a target="_blank" href="https://github.com/necolas">
+				<img src="https://avatars.githubusercontent.com/u/239676?s=72&u=4b545d3dd62d217b40a624ebbe987cfc67e73803&v=4" width="24" alt="Avatar of necolas"/> necolas
+			</a><br/>
+			Nicolas Gallagher
+		</td>
+		<td>Meta </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>370</td>
+		<td>568</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
 			<a target="_blank" href="https://github.com/agermanidis">
 				<img src="https://avatars.githubusercontent.com/u/600956?s=72&u=0b5b57ed3ee42e913c2292741b81a44c33335bcc&v=4" width="24" alt="Avatar of agermanidis"/> agermanidis
 			</a><br/>
@@ -4997,7 +5011,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>567</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a target="_blank" href="https://github.com/lkzhao">
 				<img src="https://avatars.githubusercontent.com/u/3359850?s=72&u=ec5ae8b9f69fd58f197ed32c6e3198f8f6b8e097&v=4" width="24" alt="Avatar of lkzhao"/> lkzhao
@@ -5011,7 +5025,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>566</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a target="_blank" href="https://github.com/stemkoski">
 				<img src="https://avatars.githubusercontent.com/u/1270123?s=72&u=f18fdb3411ad502882608d9fdce5f296b64234b0&v=4" width="24" alt="Avatar of stemkoski"/> stemkoski
@@ -5025,7 +5039,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>566</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a target="_blank" href="https://github.com/reem">
 				<img src="https://avatars.githubusercontent.com/u/4745181?s=72&u=82e858e155935e334d490d811117551260823b39&v=4" width="24" alt="Avatar of reem"/> reem
@@ -5036,10 +5050,10 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco CA</td>
 		<td>94</td>
-		<td>565</td>
+		<td>566</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a target="_blank" href="https://github.com/taranjeet">
 				<img src="https://avatars.githubusercontent.com/u/4302268?s=72&u=69a5af6602ab4faa803dcf60b2c50ed33cf44d89&v=4" width="24" alt="Avatar of taranjeet"/> taranjeet
@@ -5051,20 +5065,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco</td>
 		<td>452</td>
 		<td>565</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
-			<a target="_blank" href="https://github.com/necolas">
-				<img src="https://avatars.githubusercontent.com/u/239676?s=72&u=4b545d3dd62d217b40a624ebbe987cfc67e73803&v=4" width="24" alt="Avatar of necolas"/> necolas
-			</a><br/>
-			Nicolas Gallagher
-		</td>
-		<td>Meta </td>
-		<td>No Twitter Username</td>
-		<td>San Francisco CA</td>
-		<td>366</td>
-		<td>564</td>
 	</tr>
 	<tr>
 		<td>355</td>
@@ -5251,6 +5251,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>368</td>
 		<td>
+			<a target="_blank" href="https://github.com/ibab">
+				<img src="https://avatars.githubusercontent.com/u/890531?s=72&u=0d1f34e46e08f470e87f71436a81e7aca6209ae6&v=4" width="24" alt="Avatar of ibab"/> ibab
+			</a><br/>
+			Igor Babuschkin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>5</td>
+		<td>510</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
 			<a target="_blank" href="https://github.com/acdlite">
 				<img src="https://avatars.githubusercontent.com/u/3624098?s=72&u=94d8ba563cef4d8fd24c4b666272a71af46a2fa1&v=4" width="24" alt="Avatar of acdlite"/> acdlite
 			</a><br/>
@@ -5261,20 +5275,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York</td>
 		<td>422</td>
 		<td>509</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a target="_blank" href="https://github.com/ibab">
-				<img src="https://avatars.githubusercontent.com/u/890531?s=72&u=0d1f34e46e08f470e87f71436a81e7aca6209ae6&v=4" width="24" alt="Avatar of ibab"/> ibab
-			</a><br/>
-			Igor Babuschkin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Francisco</td>
-		<td>5</td>
-		<td>508</td>
 	</tr>
 	<tr>
 		<td>370</td>
@@ -5441,8 +5441,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@voltrondata </td>
 		<td><a target="_blank" href="https://twitter.com/trentnelson">trentnelson</a></td>
 		<td>Seattle WA</td>
-		<td>58</td>
-		<td>469</td>
+		<td>59</td>
+		<td>470</td>
 	</tr>
 	<tr>
 		<td>382</td>
@@ -5545,6 +5545,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>389</td>
 		<td>
+			<a target="_blank" href="https://github.com/steve8708">
+				<img src="https://avatars.githubusercontent.com/u/844291?s=72&u=88bf37d457b44126ea03f5ca2243267a467c1557&v=4" width="24" alt="Avatar of steve8708"/> steve8708
+			</a><br/>
+			Steve Sewell
+		</td>
+		<td>Builderio </td>
+		<td><a target="_blank" href="https://twitter.com/steve8708">steve8708</a></td>
+		<td>San Francisco CA</td>
+		<td>451</td>
+		<td>451</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a target="_blank" href="https://github.com/tpolecat">
 				<img src="https://avatars.githubusercontent.com/u/1200131?s=72&v=4" width="24" alt="Avatar of tpolecat"/> tpolecat
 			</a><br/>
@@ -5557,7 +5571,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>450</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a target="_blank" href="https://github.com/srush">
 				<img src="https://avatars.githubusercontent.com/u/35882?s=72&u=f8d3deecb70343c1f2ab67b26514c56b2b22b349&v=4" width="24" alt="Avatar of srush"/> srush
@@ -5567,20 +5581,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Cornell </td>
 		<td><a target="_blank" href="https://twitter.com/srush_nlp">srush_nlp</a></td>
 		<td>New York</td>
-		<td>449</td>
-		<td>449</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a target="_blank" href="https://github.com/steve8708">
-				<img src="https://avatars.githubusercontent.com/u/844291?s=72&u=88bf37d457b44126ea03f5ca2243267a467c1557&v=4" width="24" alt="Avatar of steve8708"/> steve8708
-			</a><br/>
-			Steve Sewell
-		</td>
-		<td>Builderio </td>
-		<td><a target="_blank" href="https://twitter.com/steve8708">steve8708</a></td>
-		<td>San Francisco CA</td>
 		<td>449</td>
 		<td>449</td>
 	</tr>
@@ -5651,8 +5651,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>University Of Washington </td>
 		<td>No Twitter Username</td>
 		<td>Seattle</td>
-		<td>435</td>
-		<td>435</td>
+		<td>437</td>
+		<td>437</td>
 	</tr>
 	<tr>
 		<td>397</td>
@@ -5721,8 +5721,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/ritazzhang">ritazzhang</a></td>
 		<td>San Francisco</td>
-		<td>381</td>
-		<td>425</td>
+		<td>382</td>
+		<td>426</td>
 	</tr>
 	<tr>
 		<td>402</td>
@@ -5755,6 +5755,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>404</td>
 		<td>
+			<a target="_blank" href="https://github.com/josephmachado">
+				<img src="https://avatars.githubusercontent.com/u/61124148?s=72&u=d27c709f23cc791a9735cb2bf538f114ad99f73e&v=4" width="24" alt="Avatar of josephmachado"/> josephmachado
+			</a><br/>
+			Start Data Engineering
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/startdataeng">startdataeng</a></td>
+		<td>New York</td>
+		<td>319</td>
+		<td>414</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a target="_blank" href="https://github.com/anvaka">
 				<img src="https://avatars.githubusercontent.com/u/225407?s=72&u=ae5ab58bd50a325fdd0b8fa419f42f983a3f04ba&v=4" width="24" alt="Avatar of anvaka"/> anvaka
 			</a><br/>
@@ -5767,7 +5781,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>413</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/ccampbell">
 				<img src="https://avatars.githubusercontent.com/u/259316?s=72&v=4" width="24" alt="Avatar of ccampbell"/> ccampbell
@@ -5781,20 +5795,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>413</td>
 	</tr>
 	<tr>
-		<td>406</td>
-		<td>
-			<a target="_blank" href="https://github.com/josephmachado">
-				<img src="https://avatars.githubusercontent.com/u/61124148?s=72&u=d27c709f23cc791a9735cb2bf538f114ad99f73e&v=4" width="24" alt="Avatar of josephmachado"/> josephmachado
-			</a><br/>
-			Start Data Engineering
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/startdataeng">startdataeng</a></td>
-		<td>New York</td>
-		<td>319</td>
-		<td>411</td>
-	</tr>
-	<tr>
 		<td>407</td>
 		<td>
 			<a target="_blank" href="https://github.com/davelab6">
@@ -5805,8 +5805,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@googlefonts  </td>
 		<td>No Twitter Username</td>
 		<td>New York City</td>
-		<td>407</td>
-		<td>407</td>
+		<td>412</td>
+		<td>412</td>
 	</tr>
 	<tr>
 		<td>408</td>
@@ -5833,8 +5833,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Seniot Ml Scientist @sap<br/></td>
 		<td><a target="_blank" href="https://twitter.com/ashutosh_1919">ashutosh_1919</a></td>
 		<td>San Francisco CA USA</td>
-		<td>401</td>
 		<td>402</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>410</td>
@@ -5853,6 +5853,34 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>411</td>
 		<td>
+			<a target="_blank" href="https://github.com/paf31">
+				<img src="https://avatars.githubusercontent.com/u/630306?s=72&u=66bc54abe23de666c480dca02da9c5e5d123855e&v=4" width="24" alt="Avatar of paf31"/> paf31
+			</a><br/>
+			Phil Freeman
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/paf31">paf31</a></td>
+		<td>Los Angeles CA</td>
+		<td>336</td>
+		<td>400</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a target="_blank" href="https://github.com/rothgar">
+				<img src="https://avatars.githubusercontent.com/u/371796?s=72&u=30e95faf008fa57b04427949ce761c696bc64bcd&v=4" width="24" alt="Avatar of rothgar"/> rothgar
+			</a><br/>
+			Justin Garrison
+		</td>
+		<td>@sideorlabs </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles</td>
+		<td>364</td>
+		<td>400</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
 			<a target="_blank" href="https://github.com/nickjj">
 				<img src="https://avatars.githubusercontent.com/u/813219?s=72&u=67c094e2a34196aa5d4c88221cc22c6e5e48b164&v=4" width="24" alt="Avatar of nickjj"/> nickjj
 			</a><br/>
@@ -5865,7 +5893,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>398</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/bizarro">
 				<img src="https://avatars.githubusercontent.com/u/12835911?s=72&u=1c443ddc1e1c72b26b8bed2413e68f632c0a9cca&v=4" width="24" alt="Avatar of bizarro"/> bizarro
@@ -5879,34 +5907,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>398</td>
 	</tr>
 	<tr>
-		<td>413</td>
-		<td>
-			<a target="_blank" href="https://github.com/paf31">
-				<img src="https://avatars.githubusercontent.com/u/630306?s=72&u=66bc54abe23de666c480dca02da9c5e5d123855e&v=4" width="24" alt="Avatar of paf31"/> paf31
-			</a><br/>
-			Phil Freeman
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/paf31">paf31</a></td>
-		<td>Los Angeles CA</td>
-		<td>335</td>
-		<td>397</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a target="_blank" href="https://github.com/rothgar">
-				<img src="https://avatars.githubusercontent.com/u/371796?s=72&u=30e95faf008fa57b04427949ce761c696bc64bcd&v=4" width="24" alt="Avatar of rothgar"/> rothgar
-			</a><br/>
-			Justin Garrison
-		</td>
-		<td>@sideorlabs </td>
-		<td>No Twitter Username</td>
-		<td>Los Angeles</td>
-		<td>362</td>
-		<td>397</td>
-	</tr>
-	<tr>
 		<td>415</td>
 		<td>
 			<a target="_blank" href="https://github.com/slightlyoff">
@@ -5918,7 +5918,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/slightlylate">slightlylate</a></td>
 		<td>San Francisco</td>
 		<td>63</td>
-		<td>395</td>
+		<td>397</td>
 	</tr>
 	<tr>
 		<td>416</td>
@@ -5932,7 +5932,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/okdistribute">okdistribute</a></td>
 		<td>San Francisco CA</td>
 		<td>108</td>
-		<td>394</td>
+		<td>397</td>
 	</tr>
 	<tr>
 		<td>417</td>
@@ -6002,7 +6002,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/bfirsh">bfirsh</a></td>
 		<td>San Francisco CA USA</td>
 		<td>69</td>
-		<td>385</td>
+		<td>386</td>
 	</tr>
 	<tr>
 		<td>422</td>
@@ -6114,7 +6114,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Seattle WA USA</td>
 		<td>1</td>
-		<td>363</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>430</td>
@@ -6133,6 +6133,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>431</td>
 		<td>
+			<a target="_blank" href="https://github.com/williamFalcon">
+				<img src="https://avatars.githubusercontent.com/u/3640001?s=72&u=d59d76462674d3e95288a0e767dfbb6203ba4dfd&v=4" width="24" alt="Avatar of williamFalcon"/> williamFalcon
+			</a><br/>
+			William Falcon
+		</td>
+		<td>Lightning Ai </td>
+		<td><a target="_blank" href="https://twitter.com/_willfalcon">_willfalcon</a></td>
+		<td>New York City NY</td>
+		<td>358</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
 			<a target="_blank" href="https://github.com/zertosh">
 				<img src="https://avatars.githubusercontent.com/u/830952?s=72&u=860d52ab2446c32e8eae49d056688c45554ab189&v=4" width="24" alt="Avatar of zertosh"/> zertosh
 			</a><br/>
@@ -6143,20 +6157,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York NY</td>
 		<td>356</td>
 		<td>356</td>
-	</tr>
-	<tr>
-		<td>432</td>
-		<td>
-			<a target="_blank" href="https://github.com/williamFalcon">
-				<img src="https://avatars.githubusercontent.com/u/3640001?s=72&u=d59d76462674d3e95288a0e767dfbb6203ba4dfd&v=4" width="24" alt="Avatar of williamFalcon"/> williamFalcon
-			</a><br/>
-			William Falcon
-		</td>
-		<td>Lightning Ai </td>
-		<td><a target="_blank" href="https://twitter.com/_willfalcon">_willfalcon</a></td>
-		<td>New York City NY</td>
-		<td>355</td>
-		<td>355</td>
 	</tr>
 	<tr>
 		<td>433</td>
@@ -6198,7 +6198,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/hdjirdeh">hdjirdeh</a></td>
 		<td>New York NY</td>
 		<td>69</td>
-		<td>344</td>
+		<td>345</td>
 	</tr>
 	<tr>
 		<td>436</td>
@@ -6267,7 +6267,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/pengyuc_">pengyuc_</a></td>
 		<td>New York NY</td>
-		<td>194</td>
+		<td>192</td>
 		<td>329</td>
 	</tr>
 	<tr>
@@ -6547,8 +6547,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@mongodb  </td>
 		<td><a target="_blank" href="https://twitter.com/jessejiryudavis">jessejiryudavis</a></td>
 		<td>New York City</td>
-		<td>286</td>
-		<td>286</td>
+		<td>287</td>
+		<td>287</td>
 	</tr>
 	<tr>
 		<td>461</td>
@@ -6609,6 +6609,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>465</td>
 		<td>
+			<a target="_blank" href="https://github.com/jlfwong">
+				<img src="https://avatars.githubusercontent.com/u/150329?s=72&u=6d27cdd9ffef433f3d5a9de93ef5fec3fe3889f1&v=4" width="24" alt="Avatar of jlfwong"/> jlfwong
+			</a><br/>
+			Jamie Wong
+		</td>
+		<td>South Park Commons </td>
+		<td><a target="_blank" href="https://twitter.com/jlfwong">jlfwong</a></td>
+		<td>San Francisco</td>
+		<td>149</td>
+		<td>281</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
 			<a target="_blank" href="https://github.com/karanpratapsingh">
 				<img src="https://avatars.githubusercontent.com/u/29705703?s=72&u=86ebfad703133010a33dd748660b3233d21de9cd&v=4" width="24" alt="Avatar of karanpratapsingh"/> karanpratapsingh
 			</a><br/>
@@ -6621,7 +6635,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/pkmital">
 				<img src="https://avatars.githubusercontent.com/u/429252?s=72&u=bc8e64c6a78d15c56509cdfed904ae693705b33d&v=4" width="24" alt="Avatar of pkmital"/> pkmital
@@ -6635,7 +6649,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/littledan">
 				<img src="https://avatars.githubusercontent.com/u/189835?s=72&u=2d60c25c3f0cbdad0e8c9239a7283e887a3e490c&v=4" width="24" alt="Avatar of littledan"/> littledan
@@ -6649,7 +6663,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/mnielsen">
 				<img src="https://avatars.githubusercontent.com/u/52171?s=72&v=4" width="24" alt="Avatar of mnielsen"/> mnielsen
@@ -6663,7 +6677,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/apsdehal">
 				<img src="https://avatars.githubusercontent.com/u/3616806?s=72&v=4" width="24" alt="Avatar of apsdehal"/> apsdehal
@@ -6674,20 +6688,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/apsdehal">apsdehal</a></td>
 		<td>San Francisco</td>
 		<td>1</td>
-		<td>277</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
-			<a target="_blank" href="https://github.com/jlfwong">
-				<img src="https://avatars.githubusercontent.com/u/150329?s=72&u=6d27cdd9ffef433f3d5a9de93ef5fec3fe3889f1&v=4" width="24" alt="Avatar of jlfwong"/> jlfwong
-			</a><br/>
-			Jamie Wong
-		</td>
-		<td>South Park Commons </td>
-		<td><a target="_blank" href="https://twitter.com/jlfwong">jlfwong</a></td>
-		<td>San Francisco</td>
-		<td>149</td>
 		<td>277</td>
 	</tr>
 	<tr>
@@ -6707,6 +6707,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>472</td>
 		<td>
+			<a target="_blank" href="https://github.com/adrianmg">
+				<img src="https://avatars.githubusercontent.com/u/589285?s=72&u=60188b84b43add944c70425c0137d601f088f5e8&v=4" width="24" alt="Avatar of adrianmg"/> adrianmg
+			</a><br/>
+			Adrian Mato
+		</td>
+		<td>@github  </td>
+		<td><a target="_blank" href="https://twitter.com/adrianmg">adrianmg</a></td>
+		<td>San Francisco CA</td>
+		<td>29</td>
+		<td>276</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
 			<a target="_blank" href="https://github.com/hongchaodeng">
 				<img src="https://avatars.githubusercontent.com/u/920884?s=72&u=cc63d5b1b552add32c981d96335cb58c27d12e21&v=4" width="24" alt="Avatar of hongchaodeng"/> hongchaodeng
 			</a><br/>
@@ -6719,7 +6733,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>276</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/djspiewak">
 				<img src="https://avatars.githubusercontent.com/u/752?s=72&u=f66a866217720f5763420ab269fc06126f169009&v=4" width="24" alt="Avatar of djspiewak"/> djspiewak
@@ -6733,7 +6747,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a target="_blank" href="https://github.com/armankhondker">
 				<img src="https://avatars.githubusercontent.com/u/22623742?s=72&u=823cc4a537c273e057003b3a55e928b42ba7119a&v=4" width="24" alt="Avatar of armankhondker"/> armankhondker
@@ -6747,20 +6761,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>475</td>
-		<td>
-			<a target="_blank" href="https://github.com/adrianmg">
-				<img src="https://avatars.githubusercontent.com/u/589285?s=72&u=60188b84b43add944c70425c0137d601f088f5e8&v=4" width="24" alt="Avatar of adrianmg"/> adrianmg
-			</a><br/>
-			Adrian Mato
-		</td>
-		<td>@github  </td>
-		<td><a target="_blank" href="https://twitter.com/adrianmg">adrianmg</a></td>
-		<td>San Francisco CA</td>
-		<td>29</td>
-		<td>273</td>
-	</tr>
-	<tr>
 		<td>476</td>
 		<td>
 			<a target="_blank" href="https://github.com/kevinburke">
@@ -6771,8 +6771,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Httpsburkeservices </td>
 		<td><a target="_blank" href="https://twitter.com/derivativeburke">derivativeburke</a></td>
 		<td>San Francisco CA</td>
-		<td>101</td>
-		<td>272</td>
+		<td>102</td>
+		<td>273</td>
 	</tr>
 	<tr>
 		<td>477</td>
@@ -6828,7 +6828,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area</td>
 		<td>159</td>
-		<td>265</td>
+		<td>267</td>
 	</tr>
 	<tr>
 		<td>481</td>
@@ -6987,6 +6987,34 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>492</td>
 		<td>
+			<a target="_blank" href="https://github.com/pauldix">
+				<img src="https://avatars.githubusercontent.com/u/4331?s=72&u=f224add70ff8a79445d7bca8881f91f8a6d6ad51&v=4" width="24" alt="Avatar of pauldix"/> pauldix
+			</a><br/>
+			Paul Dix
+		</td>
+		<td>@influxdata  </td>
+		<td><a target="_blank" href="https://twitter.com/pauldix">pauldix</a></td>
+		<td>New York NY</td>
+		<td>195</td>
+		<td>244</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a target="_blank" href="https://github.com/mkheck">
+				<img src="https://avatars.githubusercontent.com/u/1933484?s=72&u=c51ca8dbdc9b5228985d6947f8e4c5ab35b04be8&v=4" width="24" alt="Avatar of mkheck"/> mkheck
+			</a><br/>
+			Mark Heckler
+		</td>
+		<td>@springprojects </td>
+		<td>No Twitter Username</td>
+		<td>St LouisSeattleGotham</td>
+		<td>243</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
 			<a target="_blank" href="https://github.com/adamschwartz">
 				<img src="https://avatars.githubusercontent.com/u/154613?s=72&u=2e9b2e3b836d93b137efc2b10b52580473897de1&v=4" width="24" alt="Avatar of adamschwartz"/> adamschwartz
 			</a><br/>
@@ -6997,34 +7025,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Los Angeles CA</td>
 		<td>11</td>
 		<td>242</td>
-	</tr>
-	<tr>
-		<td>493</td>
-		<td>
-			<a target="_blank" href="https://github.com/pauldix">
-				<img src="https://avatars.githubusercontent.com/u/4331?s=72&u=f224add70ff8a79445d7bca8881f91f8a6d6ad51&v=4" width="24" alt="Avatar of pauldix"/> pauldix
-			</a><br/>
-			Paul Dix
-		</td>
-		<td>@influxdata  </td>
-		<td><a target="_blank" href="https://twitter.com/pauldix">pauldix</a></td>
-		<td>New York NY</td>
-		<td>193</td>
-		<td>242</td>
-	</tr>
-	<tr>
-		<td>494</td>
-		<td>
-			<a target="_blank" href="https://github.com/mkheck">
-				<img src="https://avatars.githubusercontent.com/u/1933484?s=72&u=c51ca8dbdc9b5228985d6947f8e4c5ab35b04be8&v=4" width="24" alt="Avatar of mkheck"/> mkheck
-			</a><br/>
-			Mark Heckler
-		</td>
-		<td>@springprojects </td>
-		<td>No Twitter Username</td>
-		<td>St LouisSeattleGotham</td>
-		<td>241</td>
-		<td>241</td>
 	</tr>
 	<tr>
 		<td>495</td>
@@ -7169,6 +7169,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>505</td>
 		<td>
+			<a target="_blank" href="https://github.com/getify">
+				<img src="https://avatars.githubusercontent.com/u/150330?s=72&u=41aa48771028d34bcf025eefe919bf75fbda77d4&v=4" width="24" alt="Avatar of getify"/> getify
+			</a><br/>
+			Kyle Simpson
+		</td>
+		<td>Getify Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>212</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
 			<a target="_blank" href="https://github.com/recmo">
 				<img src="https://avatars.githubusercontent.com/u/4532328?s=72&u=db65d77fd630be1159b22b0bc64246e65af05609&v=4" width="24" alt="Avatar of recmo"/> recmo
 			</a><br/>
@@ -7181,7 +7195,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a target="_blank" href="https://github.com/mahseema">
 				<img src="https://avatars.githubusercontent.com/u/143227828?s=72&u=966f0154eb1bee33077b2f00f8632cd3bf719845&v=4" width="24" alt="Avatar of mahseema"/> mahseema
@@ -7195,7 +7209,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a target="_blank" href="https://github.com/tanghaibao">
 				<img src="https://avatars.githubusercontent.com/u/106987?s=72&u=cd6875f72e764d76eb4f94098521759412c1f446&v=4" width="24" alt="Avatar of tanghaibao"/> tanghaibao
@@ -7209,7 +7223,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a target="_blank" href="https://github.com/nsoojin">
 				<img src="https://avatars.githubusercontent.com/u/3890050?s=72&u=aa74eb6ba293b2c44c89cf3179aeca41da75c276&v=4" width="24" alt="Avatar of nsoojin"/> nsoojin
@@ -7223,7 +7237,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a target="_blank" href="https://github.com/yaahc">
 				<img src="https://avatars.githubusercontent.com/u/1993852?s=72&u=561c830e6ddd6310bb47c9bd669dcf860a68dd64&v=4" width="24" alt="Avatar of yaahc"/> yaahc
@@ -7235,20 +7249,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco</td>
 		<td>221</td>
 		<td>221</td>
-	</tr>
-	<tr>
-		<td>510</td>
-		<td>
-			<a target="_blank" href="https://github.com/getify">
-				<img src="https://avatars.githubusercontent.com/u/150330?s=72&u=41aa48771028d34bcf025eefe919bf75fbda77d4&v=4" width="24" alt="Avatar of getify"/> getify
-			</a><br/>
-			Kyle Simpson
-		</td>
-		<td>Getify Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Austin TX</td>
-		<td>206</td>
-		<td>220</td>
 	</tr>
 	<tr>
 		<td>511</td>
@@ -7318,7 +7318,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/_JessicaSachs">_JessicaSachs</a></td>
 		<td>Austin TX</td>
 		<td>52</td>
-		<td>205</td>
+		<td>208</td>
 	</tr>
 	<tr>
 		<td>516</td>
@@ -7415,8 +7415,8 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>@linkedin  </td>
 		<td><a target="_blank" href="https://twitter.com/ahmetb">ahmetb</a></td>
 		<td>Seattle WA</td>
-		<td>174</td>
-		<td>192</td>
+		<td>175</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>523</td>
@@ -7491,6 +7491,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>528</td>
 		<td>
+			<a target="_blank" href="https://github.com/kuleshov">
+				<img src="https://avatars.githubusercontent.com/u/2359246?s=72&u=9625f5ed48d54962855b5218f3699763d4a55615&v=4" width="24" alt="Avatar of kuleshov"/> kuleshov
+			</a><br/>
+			Volodymyr Kuleshov
+		</td>
+		<td>Cornell Tech </td>
+		<td><a target="_blank" href="https://twitter.com/volokuleshov">volokuleshov</a></td>
+		<td>New York NY</td>
+		<td>128</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
 			<a target="_blank" href="https://github.com/sciguy14">
 				<img src="https://avatars.githubusercontent.com/u/709615?s=72&v=4" width="24" alt="Avatar of sciguy14"/> sciguy14
 			</a><br/>
@@ -7503,7 +7517,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a target="_blank" href="https://github.com/d0nutptr">
 				<img src="https://avatars.githubusercontent.com/u/4058559?s=72&u=8a50b3fa15fae611020fea3d07b972d712f78ab0&v=4" width="24" alt="Avatar of d0nutptr"/> d0nutptr
@@ -7515,20 +7529,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco</td>
 		<td>61</td>
 		<td>176</td>
-	</tr>
-	<tr>
-		<td>530</td>
-		<td>
-			<a target="_blank" href="https://github.com/kuleshov">
-				<img src="https://avatars.githubusercontent.com/u/2359246?s=72&u=9625f5ed48d54962855b5218f3699763d4a55615&v=4" width="24" alt="Avatar of kuleshov"/> kuleshov
-			</a><br/>
-			Volodymyr Kuleshov
-		</td>
-		<td>Cornell Tech </td>
-		<td><a target="_blank" href="https://twitter.com/volokuleshov">volokuleshov</a></td>
-		<td>New York NY</td>
-		<td>128</td>
-		<td>175</td>
 	</tr>
 	<tr>
 		<td>531</td>
@@ -7570,7 +7570,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/shoyer">shoyer</a></td>
 		<td>San Francisco CA</td>
 		<td>171</td>
-		<td>172</td>
+		<td>173</td>
 	</tr>
 	<tr>
 		<td>534</td>
@@ -7673,6 +7673,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>541</td>
 		<td>
+			<a target="_blank" href="https://github.com/vinniefalco">
+				<img src="https://avatars.githubusercontent.com/u/1503976?s=72&u=f29bff47be72d03988c3f428dfad3f52e91451ae&v=4" width="24" alt="Avatar of vinniefalco"/> vinniefalco
+			</a><br/>
+			Vinnie Falco
+		</td>
+		<td>Httpscppal </td>
+		<td><a target="_blank" href="https://twitter.com/FalcoVinnie">FalcoVinnie</a></td>
+		<td>Los Angeles CA</td>
+		<td>158</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
 			<a target="_blank" href="https://github.com/minamarkham">
 				<img src="https://avatars.githubusercontent.com/u/876210?s=72&v=4" width="24" alt="Avatar of minamarkham"/> minamarkham
 			</a><br/>
@@ -7685,7 +7699,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdempsky">
 				<img src="https://avatars.githubusercontent.com/u/38349?s=72&u=18f59c790a513d457be20ceb9d5969ad806f7cc7&v=4" width="24" alt="Avatar of mdempsky"/> mdempsky
@@ -7699,7 +7713,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a target="_blank" href="https://github.com/una">
 				<img src="https://avatars.githubusercontent.com/u/1693164?s=72&u=64ca03315cf0383010b25e6e02701859d959ab42&v=4" width="24" alt="Avatar of una"/> una
@@ -7711,20 +7725,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York NY</td>
 		<td>77</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a target="_blank" href="https://github.com/vinniefalco">
-				<img src="https://avatars.githubusercontent.com/u/1503976?s=72&u=f29bff47be72d03988c3f428dfad3f52e91451ae&v=4" width="24" alt="Avatar of vinniefalco"/> vinniefalco
-			</a><br/>
-			Vinnie Falco
-		</td>
-		<td>Httpscppal </td>
-		<td><a target="_blank" href="https://twitter.com/FalcoVinnie">FalcoVinnie</a></td>
-		<td>Los Angeles CA</td>
-		<td>156</td>
-		<td>157</td>
 	</tr>
 	<tr>
 		<td>545</td>
@@ -7869,6 +7869,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>555</td>
 		<td>
+			<a target="_blank" href="https://github.com/filmgirl">
+				<img src="https://avatars.githubusercontent.com/u/110683?s=72&u=a5de839b748ea566d8c1bd795bd0ea32edfc691c&v=4" width="24" alt="Avatar of filmgirl"/> filmgirl
+			</a><br/>
+			Christina Warren
+		</td>
+		<td>Github </td>
+		<td><a target="_blank" href="https://twitter.com/film_girl">film_girl</a></td>
+		<td>Seattle WA</td>
+		<td>122</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
 			<a target="_blank" href="https://github.com/caffix">
 				<img src="https://avatars.githubusercontent.com/u/7319658?s=72&u=76945bf61baa76e7afe2baada2f73b2737bf9159&v=4" width="24" alt="Avatar of caffix"/> caffix
 			</a><br/>
@@ -7878,20 +7892,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td><a target="_blank" href="https://twitter.com/jeff_foley">jeff_foley</a></td>
 		<td>New York United States</td>
 		<td>144</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a target="_blank" href="https://github.com/filmgirl">
-				<img src="https://avatars.githubusercontent.com/u/110683?s=72&u=a5de839b748ea566d8c1bd795bd0ea32edfc691c&v=4" width="24" alt="Avatar of filmgirl"/> filmgirl
-			</a><br/>
-			Christina Warren
-		</td>
-		<td>Github </td>
-		<td><a target="_blank" href="https://twitter.com/film_girl">film_girl</a></td>
-		<td>Seattle WA</td>
-		<td>121</td>
 		<td>144</td>
 	</tr>
 	<tr>
@@ -8107,20 +8107,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>572</td>
 		<td>
-			<a target="_blank" href="https://github.com/xingyizhou">
-				<img src="https://avatars.githubusercontent.com/u/8860935?s=72&u=34e875c63c7fcc256607ae027a975cff8b7a736c&v=4" width="24" alt="Avatar of xingyizhou"/> xingyizhou
-			</a><br/>
-			Xingyi Zhou
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Seattle</td>
-		<td>0</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>573</td>
-		<td>
 			<a target="_blank" href="https://github.com/rpandey1234">
 				<img src="https://avatars.githubusercontent.com/u/336303?s=72&u=827fb528343e1721e1250a5f5e6da00181ac8a90&v=4" width="24" alt="Avatar of rpandey1234"/> rpandey1234
 			</a><br/>
@@ -8129,6 +8115,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Facebook </td>
 		<td><a target="_blank" href="https://twitter.com/rpandey1234">rpandey1234</a></td>
 		<td>San Francisco CA</td>
+		<td>0</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
+			<a target="_blank" href="https://github.com/xingyizhou">
+				<img src="https://avatars.githubusercontent.com/u/8860935?s=72&u=34e875c63c7fcc256607ae027a975cff8b7a736c&v=4" width="24" alt="Avatar of xingyizhou"/> xingyizhou
+			</a><br/>
+			Xingyi Zhou
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
 		<td>0</td>
 		<td>129</td>
 	</tr>
@@ -8163,6 +8163,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>576</td>
 		<td>
+			<a target="_blank" href="https://github.com/cbeust">
+				<img src="https://avatars.githubusercontent.com/u/92322?s=72&v=4" width="24" alt="Avatar of cbeust"/> cbeust
+			</a><br/>
+			Cedric Beust
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA USA</td>
+		<td>126</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
 			<a target="_blank" href="https://github.com/gregheo">
 				<img src="https://avatars.githubusercontent.com/u/77462?s=72&u=4be94927c19d884a20d3687fbc03271bb965b0de&v=4" width="24" alt="Avatar of gregheo"/> gregheo
 			</a><br/>
@@ -8173,20 +8187,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>San Francisco CA</td>
 		<td>0</td>
 		<td>126</td>
-	</tr>
-	<tr>
-		<td>577</td>
-		<td>
-			<a target="_blank" href="https://github.com/cbeust">
-				<img src="https://avatars.githubusercontent.com/u/92322?s=72&v=4" width="24" alt="Avatar of cbeust"/> cbeust
-			</a><br/>
-			Cedric Beust
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Francisco CA USA</td>
-		<td>125</td>
-		<td>125</td>
 	</tr>
 	<tr>
 		<td>578</td>
@@ -8331,6 +8331,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>588</td>
 		<td>
+			<a target="_blank" href="https://github.com/Atcold">
+				<img src="https://avatars.githubusercontent.com/u/2119355?s=72&v=4" width="24" alt="Avatar of Atcold"/> Atcold
+			</a><br/>
+			Alfredo Canziani
+		</td>
+		<td>Nyu </td>
+		<td><a target="_blank" href="https://twitter.com/alfcnz">alfcnz</a></td>
+		<td>New York City</td>
+		<td>51</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
 			<a target="_blank" href="https://github.com/ramnathv">
 				<img src="https://avatars.githubusercontent.com/u/346288?s=72&v=4" width="24" alt="Avatar of ramnathv"/> ramnathv
 			</a><br/>
@@ -8343,7 +8357,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a target="_blank" href="https://github.com/yigit">
 				<img src="https://avatars.githubusercontent.com/u/89202?s=72&v=4" width="24" alt="Avatar of yigit"/> yigit
@@ -8357,7 +8371,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
+		<td>
+			<a target="_blank" href="https://github.com/cvalenzuela">
+				<img src="https://avatars.githubusercontent.com/u/10605821?s=72&u=6cc5097f1e05dbecc6b14a8ab0b06d325ea6ab64&v=4" width="24" alt="Avatar of cvalenzuela"/> cvalenzuela
+			</a><br/>
+			Cristbal Valenzuela
+		</td>
+		<td>@runwayml  </td>
+		<td><a target="_blank" href="https://twitter.com/c_valenzuelab">c_valenzuelab</a></td>
+		<td>New York NY</td>
+		<td>26</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>592</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdo">
 				<img src="https://avatars.githubusercontent.com/u/98681?s=72&u=06189d8e78eb46bb608df3f705c229c5d43d797c&v=4" width="24" alt="Avatar of mdo"/> mdo
@@ -8371,21 +8399,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>591</td>
-		<td>
-			<a target="_blank" href="https://github.com/Atcold">
-				<img src="https://avatars.githubusercontent.com/u/2119355?s=72&v=4" width="24" alt="Avatar of Atcold"/> Atcold
-			</a><br/>
-			Alfredo Canziani
-		</td>
-		<td>Nyu </td>
-		<td><a target="_blank" href="https://twitter.com/alfcnz">alfcnz</a></td>
-		<td>New York City</td>
-		<td>51</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/ongardie">
 				<img src="https://avatars.githubusercontent.com/u/463856?s=72&v=4" width="24" alt="Avatar of ongardie"/> ongardie
@@ -8399,7 +8413,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/ro31337">
 				<img src="https://avatars.githubusercontent.com/u/1477672?s=72&u=b08c3f38548597b2b9caafef90c08b4a99ea4980&v=4" width="24" alt="Avatar of ro31337"/> ro31337
@@ -8413,7 +8427,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a target="_blank" href="https://github.com/pengsongyou">
 				<img src="https://avatars.githubusercontent.com/u/14327202?s=72&u=b541d307e36fafe4ea604088692dfe94fa620a5b&v=4" width="24" alt="Avatar of pengsongyou"/> pengsongyou
@@ -8427,7 +8441,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/ericchiang">
 				<img src="https://avatars.githubusercontent.com/u/2342749?s=72&u=c581f8bc0b9771b21b97725f591fb478759beabe&v=4" width="24" alt="Avatar of ericchiang"/> ericchiang
@@ -8441,7 +8455,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/iblh">
 				<img src="https://avatars.githubusercontent.com/u/8141232?s=72&u=a025e1ce0990b90dcb05a65ea290d7a9840de134&v=4" width="24" alt="Avatar of iblh"/> iblh
@@ -8455,7 +8469,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a target="_blank" href="https://github.com/lexi-lambda">
 				<img src="https://avatars.githubusercontent.com/u/759911?s=72&u=38d483e07778f91e1969014c77b05b43205e7d22&v=4" width="24" alt="Avatar of lexi-lambda"/> lexi-lambda
@@ -8469,7 +8483,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a target="_blank" href="https://github.com/HFTrader">
 				<img src="https://avatars.githubusercontent.com/u/11621271?s=72&u=04df6db5da5e0bad188a29469cd0c1f2f99de742&v=4" width="24" alt="Avatar of HFTrader"/> HFTrader
@@ -8483,7 +8497,21 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
+		<td>
+			<a target="_blank" href="https://github.com/mhart">
+				<img src="https://avatars.githubusercontent.com/u/367936?s=72&v=4" width="24" alt="Avatar of mhart"/> mhart
+			</a><br/>
+			Michael Hart
+		</td>
+		<td>@cloudflare </td>
+		<td><a target="_blank" href="https://twitter.com/hichaelmart">hichaelmart</a></td>
+		<td>New York</td>
+		<td>93</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>601</td>
 		<td>
 			<a target="_blank" href="https://github.com/yasoob">
 				<img src="https://avatars.githubusercontent.com/u/3696393?s=72&u=91ddee8830e865087c169b239733593b96f54cee&v=4" width="24" alt="Avatar of yasoob"/> yasoob
@@ -8497,21 +8525,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>600</td>
-		<td>
-			<a target="_blank" href="https://github.com/mhart">
-				<img src="https://avatars.githubusercontent.com/u/367936?s=72&v=4" width="24" alt="Avatar of mhart"/> mhart
-			</a><br/>
-			Michael Hart
-		</td>
-		<td>@cloudflare </td>
-		<td><a target="_blank" href="https://twitter.com/hichaelmart">hichaelmart</a></td>
-		<td>New York</td>
-		<td>92</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a target="_blank" href="https://github.com/BYVoid">
 				<img src="https://avatars.githubusercontent.com/u/245270?s=72&v=4" width="24" alt="Avatar of BYVoid"/> BYVoid
@@ -8525,7 +8539,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a target="_blank" href="https://github.com/alloy">
 				<img src="https://avatars.githubusercontent.com/u/2320?s=72&u=dfd9210795b264e4d1ec951d4a1327c5c5c9dde9&v=4" width="24" alt="Avatar of alloy"/> alloy
@@ -8539,7 +8553,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a target="_blank" href="https://github.com/alysonla">
 				<img src="https://avatars.githubusercontent.com/u/2623954?s=72&u=46fa17c1e2a1b0f699d37788cf00dc3a33972f43&v=4" width="24" alt="Avatar of alysonla"/> alysonla
@@ -8553,7 +8567,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a target="_blank" href="https://github.com/caiogondim">
 				<img src="https://avatars.githubusercontent.com/u/33044?s=72&u=16310f14f357b9226bc9aadd5afab7c551decf24&v=4" width="24" alt="Avatar of caiogondim"/> caiogondim
@@ -8567,7 +8581,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a target="_blank" href="https://github.com/sean-codes">
 				<img src="https://avatars.githubusercontent.com/u/21677355?s=72&u=3d20a790b74d7e51bbfbbf3e360c5863660e3823&v=4" width="24" alt="Avatar of sean-codes"/> sean-codes
@@ -8581,7 +8595,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a target="_blank" href="https://github.com/zellux">
 				<img src="https://avatars.githubusercontent.com/u/84004?s=72&u=0c7fc4d9c63a732d2b466d0a1ff53a804458512a&v=4" width="24" alt="Avatar of zellux"/> zellux
@@ -8595,7 +8609,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a target="_blank" href="https://github.com/mhartl">
 				<img src="https://avatars.githubusercontent.com/u/6232?s=72&v=4" width="24" alt="Avatar of mhartl"/> mhartl
@@ -8609,7 +8623,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a target="_blank" href="https://github.com/imtumbleweed">
 				<img src="https://avatars.githubusercontent.com/u/4739311?s=72&u=4d4de95bc6bfcbe580df829339801789f355c19e&v=4" width="24" alt="Avatar of imtumbleweed"/> imtumbleweed
@@ -8623,7 +8637,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a target="_blank" href="https://github.com/yongjhih">
 				<img src="https://avatars.githubusercontent.com/u/213736?s=72&u=3e6f2e1f2456435c1f9570aff0327388b76e2e84&v=4" width="24" alt="Avatar of yongjhih"/> yongjhih
@@ -8637,7 +8651,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaayperez">
 				<img src="https://avatars.githubusercontent.com/u/46203291?s=72&u=54a0968e5fb4904870570fc8bb6fe637c9e0e1cb&v=4" width="24" alt="Avatar of jaayperez"/> jaayperez
@@ -8651,7 +8665,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a target="_blank" href="https://github.com/Akshar-code">
 				<img src="https://avatars.githubusercontent.com/u/59618640?s=72&u=6eb84e872ec05aa62a97f4cfe86f725089144932&v=4" width="24" alt="Avatar of Akshar-code"/> Akshar-code
@@ -8665,7 +8679,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/adashofdata">
 				<img src="https://avatars.githubusercontent.com/u/30323348?s=72&u=e85b24dedf8d5260563494d2e58077d2e2ef9442&v=4" width="24" alt="Avatar of adashofdata"/> adashofdata
@@ -8679,7 +8693,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/rentzsch">
 				<img src="https://avatars.githubusercontent.com/u/2971?s=72&v=4" width="24" alt="Avatar of rentzsch"/> rentzsch
@@ -8693,7 +8707,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/hwayne">
 				<img src="https://avatars.githubusercontent.com/u/2660212?s=72&u=08982246dd420271d81c8c43bb6d44b2ec723d97&v=4" width="24" alt="Avatar of hwayne"/> hwayne
@@ -8707,7 +8721,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a target="_blank" href="https://github.com/FranxYao">
 				<img src="https://avatars.githubusercontent.com/u/17723677?s=72&u=9d0409501dfb479049aea1d6e2c9108f0748cc01&v=4" width="24" alt="Avatar of FranxYao"/> FranxYao
@@ -8721,7 +8735,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a target="_blank" href="https://github.com/indragiek">
 				<img src="https://avatars.githubusercontent.com/u/353158?s=72&u=07d68ab4e978973477b264f56dd67a9c67f594d1&v=4" width="24" alt="Avatar of indragiek"/> indragiek
@@ -8735,7 +8749,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a target="_blank" href="https://github.com/redblobgames">
 				<img src="https://avatars.githubusercontent.com/u/8757369?s=72&u=cf4be7bb66f8f9dc1d2c77a7e84c10c0abc1c21d&v=4" width="24" alt="Avatar of redblobgames"/> redblobgames
@@ -8749,7 +8763,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a target="_blank" href="https://github.com/annapawlicka">
 				<img src="https://avatars.githubusercontent.com/u/2522010?s=72&u=7535b15297d6f7eeb744cb9679d4a725978f4976&v=4" width="24" alt="Avatar of annapawlicka"/> annapawlicka
@@ -8760,20 +8774,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco Bay Area</td>
 		<td>55</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
-			<a target="_blank" href="https://github.com/cvalenzuela">
-				<img src="https://avatars.githubusercontent.com/u/10605821?s=72&u=6cc5097f1e05dbecc6b14a8ab0b06d325ea6ab64&v=4" width="24" alt="Avatar of cvalenzuela"/> cvalenzuela
-			</a><br/>
-			Cristbal Valenzuela
-		</td>
-		<td>@runwayml  </td>
-		<td><a target="_blank" href="https://twitter.com/c_valenzuelab">c_valenzuelab</a></td>
-		<td>New York NY</td>
-		<td>0</td>
 		<td>74</td>
 	</tr>
 	<tr>
@@ -8877,6 +8877,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>627</td>
 		<td>
+			<a target="_blank" href="https://github.com/NickCH-K">
+				<img src="https://avatars.githubusercontent.com/u/44816781?s=72&u=4033dfd34f947ee5a89255771b0633190dd0a47a&v=4" width="24" alt="Avatar of NickCH-K"/> NickCH-K
+			</a><br/>
+			No Name
+		</td>
+		<td>Seattle University </td>
+		<td><a target="_blank" href="https://twitter.com/nickchk">nickchk</a></td>
+		<td>Seattle WA</td>
+		<td>65</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
 			<a target="_blank" href="https://github.com/jbevain">
 				<img src="https://avatars.githubusercontent.com/u/79284?s=72&u=c4ac853824321fc963ca249f4e928ce0ad231459&v=4" width="24" alt="Avatar of jbevain"/> jbevain
 			</a><br/>
@@ -8889,7 +8903,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a target="_blank" href="https://github.com/alexholdenmiller">
 				<img src="https://avatars.githubusercontent.com/u/1141354?s=72&u=0910cb2a142ac3b8c728f1ed993bc1dbc84a4777&v=4" width="24" alt="Avatar of alexholdenmiller"/> alexholdenmiller
@@ -8901,20 +8915,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York</td>
 		<td>38</td>
 		<td>64</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
-			<a target="_blank" href="https://github.com/NickCH-K">
-				<img src="https://avatars.githubusercontent.com/u/44816781?s=72&u=4033dfd34f947ee5a89255771b0633190dd0a47a&v=4" width="24" alt="Avatar of NickCH-K"/> NickCH-K
-			</a><br/>
-			No Name
-		</td>
-		<td>Seattle University </td>
-		<td><a target="_blank" href="https://twitter.com/nickchk">nickchk</a></td>
-		<td>Seattle WA</td>
-		<td>63</td>
-		<td>63</td>
 	</tr>
 	<tr>
 		<td>630</td>
@@ -9269,6 +9269,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>655</td>
 		<td>
+			<a target="_blank" href="https://github.com/dannguyen">
+				<img src="https://avatars.githubusercontent.com/u/121520?s=72&u=41b46114f1e960adf957598ff5b8ede1e25747df&v=4" width="24" alt="Avatar of dannguyen"/> dannguyen
+			</a><br/>
+			Dan Nguyen
+		</td>
+		<td>Freelancer Data Wranglerengineer </td>
+		<td><a target="_blank" href="https://twitter.com/dancow">dancow</a></td>
+		<td>Chicago</td>
+		<td>38</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
 			<a target="_blank" href="https://github.com/dabeaz">
 				<img src="https://avatars.githubusercontent.com/u/350836?s=72&u=8d1d3258eba286468d6d014661ac9cc6e31974ff&v=4" width="24" alt="Avatar of dabeaz"/> dabeaz
 			</a><br/>
@@ -9281,7 +9295,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a target="_blank" href="https://github.com/ujjwalkarn">
 				<img src="https://avatars.githubusercontent.com/u/5948390?s=72&v=4" width="24" alt="Avatar of ujjwalkarn"/> ujjwalkarn
@@ -9295,7 +9309,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a target="_blank" href="https://github.com/dustinvtran">
 				<img src="https://avatars.githubusercontent.com/u/2569867?s=72&u=08104eb5168fcc79590d075155ad3908b056c1ae&v=4" width="24" alt="Avatar of dustinvtran"/> dustinvtran
@@ -9305,20 +9319,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>Google Deepmind </td>
 		<td><a target="_blank" href="https://twitter.com/dustinvtran">dustinvtran</a></td>
 		<td>San Francisco CA</td>
-		<td>37</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>658</td>
-		<td>
-			<a target="_blank" href="https://github.com/dannguyen">
-				<img src="https://avatars.githubusercontent.com/u/121520?s=72&u=41b46114f1e960adf957598ff5b8ede1e25747df&v=4" width="24" alt="Avatar of dannguyen"/> dannguyen
-			</a><br/>
-			Dan Nguyen
-		</td>
-		<td>Freelancer Data Wranglerengineer </td>
-		<td><a target="_blank" href="https://twitter.com/dancow">dancow</a></td>
-		<td>Chicago</td>
 		<td>37</td>
 		<td>40</td>
 	</tr>
@@ -9339,6 +9339,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>660</td>
 		<td>
+			<a target="_blank" href="https://github.com/ArthurHub">
+				<img src="https://avatars.githubusercontent.com/u/5463635?s=72&u=54b78e58723c53f80ae7343fe8fd502bc4fe2566&v=4" width="24" alt="Avatar of ArthurHub"/> ArthurHub
+			</a><br/>
+			Arthur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>7</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
 			<a target="_blank" href="https://github.com/petehunt">
 				<img src="https://avatars.githubusercontent.com/u/239742?s=72&u=d23a37b678429916399d2706be2f1f25bf865efe&v=4" width="24" alt="Avatar of petehunt"/> petehunt
 			</a><br/>
@@ -9351,7 +9365,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/ilblackdragon">
 				<img src="https://avatars.githubusercontent.com/u/175486?s=72&u=f8fc45cf877cf6b497596bef6ef8dd9c5c015a8a&v=4" width="24" alt="Avatar of ilblackdragon"/> ilblackdragon
@@ -9365,7 +9379,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamstac">
 				<img src="https://avatars.githubusercontent.com/u/2933?s=72&v=4" width="24" alt="Avatar of adamstac"/> adamstac
@@ -9379,7 +9393,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a target="_blank" href="https://github.com/TimothyGu">
 				<img src="https://avatars.githubusercontent.com/u/1538624?s=72&v=4" width="24" alt="Avatar of TimothyGu"/> TimothyGu
@@ -9393,7 +9407,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a target="_blank" href="https://github.com/hacktoberfest-team">
 				<img src="https://avatars.githubusercontent.com/u/56001270?s=72&u=87fc971077ddc8e39d7df29f5112ae0a487f7098&v=4" width="24" alt="Avatar of hacktoberfest-team"/> hacktoberfest-team
@@ -9407,7 +9421,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a target="_blank" href="https://github.com/lelandrichardson">
 				<img src="https://avatars.githubusercontent.com/u/1885623?s=72&u=e19f38132dc7f03a979c0107b10342364d445332&v=4" width="24" alt="Avatar of lelandrichardson"/> lelandrichardson
@@ -9421,7 +9435,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a target="_blank" href="https://github.com/evilrabbit">
 				<img src="https://avatars.githubusercontent.com/u/6880091?s=72&u=da42714aac11597801cdded4c02ea6123f87888e&v=4" width="24" alt="Avatar of evilrabbit"/> evilrabbit
@@ -9435,7 +9449,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a target="_blank" href="https://github.com/natemcmaster">
 				<img src="https://avatars.githubusercontent.com/u/2696087?s=72&v=4" width="24" alt="Avatar of natemcmaster"/> natemcmaster
@@ -9449,7 +9463,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a target="_blank" href="https://github.com/amanchadha">
 				<img src="https://avatars.githubusercontent.com/u/20895241?s=72&u=270e2d768d7482d269ca619fd6f5b1b3f607b464&v=4" width="24" alt="Avatar of amanchadha"/> amanchadha
@@ -9463,7 +9477,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a target="_blank" href="https://github.com/RodneyShag">
 				<img src="https://avatars.githubusercontent.com/u/21094724?s=72&u=b26e38337ec2b806bc43f5dc2c74dd2f6b8debae&v=4" width="24" alt="Avatar of RodneyShag"/> RodneyShag
@@ -9477,7 +9491,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a target="_blank" href="https://github.com/dshaw">
 				<img src="https://avatars.githubusercontent.com/u/4322?s=72&u=f9f3f6c95057ade113fcdedb45165b86d1fd899b&v=4" width="24" alt="Avatar of dshaw"/> dshaw
@@ -9491,7 +9505,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a target="_blank" href="https://github.com/AfrazCodes">
 				<img src="https://avatars.githubusercontent.com/u/30810254?s=72&u=0a1035d701c8c3cb6e9f38aab832649899a63a95&v=4" width="24" alt="Avatar of AfrazCodes"/> AfrazCodes
@@ -9505,7 +9519,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a target="_blank" href="https://github.com/wybiral">
 				<img src="https://avatars.githubusercontent.com/u/3092000?s=72&u=487927498545350546fae5c6f1ce26711daa85a5&v=4" width="24" alt="Avatar of wybiral"/> wybiral
@@ -9519,7 +9533,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a target="_blank" href="https://github.com/chrisalbon">
 				<img src="https://avatars.githubusercontent.com/u/3612307?s=72&u=3396e48cd171028c56ae91938043438a4ed8d865&v=4" width="24" alt="Avatar of chrisalbon"/> chrisalbon
@@ -9533,7 +9547,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a target="_blank" href="https://github.com/monahatami1">
 				<img src="https://avatars.githubusercontent.com/u/35810581?s=72&u=44183c0b98f179beb38fac484eaf5e4f225d67ae&v=4" width="24" alt="Avatar of monahatami1"/> monahatami1
@@ -9545,20 +9559,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>New York City</td>
 		<td>31</td>
 		<td>31</td>
-	</tr>
-	<tr>
-		<td>675</td>
-		<td>
-			<a target="_blank" href="https://github.com/ArthurHub">
-				<img src="https://avatars.githubusercontent.com/u/5463635?s=72&u=54b78e58723c53f80ae7343fe8fd502bc4fe2566&v=4" width="24" alt="Avatar of ArthurHub"/> ArthurHub
-			</a><br/>
-			Arthur
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seattle</td>
-		<td>7</td>
-		<td>30</td>
 	</tr>
 	<tr>
 		<td>676</td>
@@ -9815,6 +9815,20 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 	<tr>
 		<td>694</td>
 		<td>
+			<a target="_blank" href="https://github.com/shmsw25">
+				<img src="https://avatars.githubusercontent.com/u/8692105?s=72&v=4" width="24" alt="Avatar of shmsw25"/> shmsw25
+			</a><br/>
+			Sewon Min
+		</td>
+		<td>University Of Washington </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>14</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
 			<a target="_blank" href="https://github.com/jonkrohn">
 				<img src="https://avatars.githubusercontent.com/u/10055735?s=72&u=c3b6aa97b107e44771b944efcb5ac894b5fdd53d&v=4" width="24" alt="Avatar of jonkrohn"/> jonkrohn
 			</a><br/>
@@ -9827,7 +9841,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/billerickson">
 				<img src="https://avatars.githubusercontent.com/u/685131?s=72&v=4" width="24" alt="Avatar of billerickson"/> billerickson
@@ -9841,7 +9855,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/Valve">
 				<img src="https://avatars.githubusercontent.com/u/27387?s=72&u=85c949fa35f7cf5bebf8c75274c4969d4ee8f69c&v=4" width="24" alt="Avatar of Valve"/> Valve
@@ -9855,7 +9869,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/dynamicwebpaige">
 				<img src="https://avatars.githubusercontent.com/u/3712347?s=72&u=ba23e74ea570db418af15bc0dea835bdcc7a8b5b&v=4" width="24" alt="Avatar of dynamicwebpaige"/> dynamicwebpaige
@@ -9869,7 +9883,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/AstronomerAmber">
 				<img src="https://avatars.githubusercontent.com/u/29620179?s=72&u=6bbcb49cf8c405535d58d3b97964199396983e87&v=4" width="24" alt="Avatar of AstronomerAmber"/> AstronomerAmber
@@ -9883,7 +9897,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/LuChengTHU">
 				<img src="https://avatars.githubusercontent.com/u/25171708?s=72&u=013b43059ec693bc0735848383816890d5fd6dcd&v=4" width="24" alt="Avatar of LuChengTHU"/> LuChengTHU
@@ -9897,7 +9911,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a target="_blank" href="https://github.com/jtleek">
 				<img src="https://avatars.githubusercontent.com/u/1571674?s=72&u=3887206f975b456d181c83d7a1a19a6cc96804fa&v=4" width="24" alt="Avatar of jtleek"/> jtleek
@@ -9911,7 +9925,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/idf">
 				<img src="https://avatars.githubusercontent.com/u/2493622?s=72&u=50d0972a404c70c580342c8daf9cdbdf46f16e33&v=4" width="24" alt="Avatar of idf"/> idf
@@ -9925,7 +9939,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a target="_blank" href="https://github.com/pry0cc">
 				<img src="https://avatars.githubusercontent.com/u/4334403?s=72&u=3babaf459cec7c4657c127c2d4f030be7ad9936c&v=4" width="24" alt="Avatar of pry0cc"/> pry0cc
@@ -9939,7 +9953,7 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a target="_blank" href="https://github.com/teoliphant">
 				<img src="https://avatars.githubusercontent.com/u/254880?s=72&v=4" width="24" alt="Avatar of teoliphant"/> teoliphant
@@ -9950,20 +9964,6 @@ There are `900 users`  in United States. You need at least `553 followers` to be
 		<td>No Twitter Username</td>
 		<td>Austin TX</td>
 		<td>12</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>704</td>
-		<td>
-			<a target="_blank" href="https://github.com/shmsw25">
-				<img src="https://avatars.githubusercontent.com/u/8692105?s=72&v=4" width="24" alt="Avatar of shmsw25"/> shmsw25
-			</a><br/>
-			Sewon Min
-		</td>
-		<td>University Of Washington </td>
-		<td>No Twitter Username</td>
-		<td>Seattle WA</td>
-		<td>14</td>
 		<td>17</td>
 	</tr>
 	<tr>
