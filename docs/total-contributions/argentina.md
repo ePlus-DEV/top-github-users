@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Argentina on `2024/8/25 12:14 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` and `private contributions` by users in Argentina on `2024/8/25 7:37 AM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -122,7 +122,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/jpromanonet">jpromanonet</a></td>
 		<td>Argentina</td>
 		<td>605</td>
-		<td>457316</td>
+		<td>458138</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -135,8 +135,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>The Music Nft Engineer<br/><br/></td>
 		<td><a target="_blank" href="https://twitter.com/sweetman_eth">sweetman_eth</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>3776</td>
-		<td>7856</td>
+		<td>3783</td>
+		<td>7863</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -178,7 +178,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Buenos Aires</td>
 		<td>141</td>
-		<td>3948</td>
+		<td>3951</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -262,7 +262,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/francosbenitez">francosbenitez</a></td>
 		<td>Buenos Aires Argentina</td>
 		<td>82</td>
-		<td>3473</td>
+		<td>3477</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -331,8 +331,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>@vlang @nanlabs </td>
 		<td><a target="_blank" href="https://twitter.com/ulisesjcf">ulisesjcf</a></td>
 		<td>La Plata Buenos Aires Argentina</td>
-		<td>2349</td>
-		<td>3104</td>
+		<td>2350</td>
+		<td>3105</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -429,8 +429,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Jujinga Inc </td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>858</td>
-		<td>2546</td>
+		<td>859</td>
+		<td>2547</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -696,7 +696,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/jrgarciadev">jrgarciadev</a></td>
 		<td>Argentina</td>
 		<td>869</td>
-		<td>2081</td>
+		<td>2085</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -933,8 +933,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Particular </td>
 		<td>No Twitter Username</td>
 		<td>Argentina  Mendoza</td>
-		<td>1781</td>
-		<td>1781</td>
+		<td>1782</td>
+		<td>1782</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -976,7 +976,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
 		<td>0</td>
-		<td>1731</td>
+		<td>1737</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1060,7 +1060,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
 		<td>3</td>
-		<td>1645</td>
+		<td>1654</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1311,8 +1311,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/SpartanDev">SpartanDev</a></td>
 		<td>Argentina</td>
-		<td>608</td>
-		<td>1446</td>
+		<td>609</td>
+		<td>1447</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1326,7 +1326,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
 		<td>1256</td>
-		<td>1436</td>
+		<td>1437</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1452,7 +1452,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>La Plata Argentina</td>
 		<td>420</td>
-		<td>1353</td>
+		<td>1354</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1472,15 +1472,15 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>98</td>
 		<td>
 			<a target="_blank" href="https://github.com/jd-apprentice">
-				<img src="https://avatars.githubusercontent.com/u/68082746?s=72&u=bc9505182b196e6db5c83a8ac69e0480d9292000&v=4" width="24" alt="Avatar of jd-apprentice"/> jd-apprentice
+				<img src="https://avatars.githubusercontent.com/u/68082746?s=72&u=83fef9c2a325a4ff18531abb7cb5204ff8e9421e&v=4" width="24" alt="Avatar of jd-apprentice"/> jd-apprentice
 			</a><br/>
 			Jonathan
 		</td>
 		<td>@dyallab @cloudlegion </td>
 		<td>No Twitter Username</td>
 		<td>Argentina  World</td>
-		<td>1115</td>
-		<td>1343</td>
+		<td>1117</td>
+		<td>1345</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1760,7 +1760,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/lucasjanon">lucasjanon</a></td>
 		<td>Argentina</td>
 		<td>104</td>
-		<td>1170</td>
+		<td>1172</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1815,8 +1815,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Fictioncom  Supereonai </td>
 		<td><a target="_blank" href="https://twitter.com/arpowers">arpowers</a></td>
 		<td>San Francisco  Irvine  Utah  Buenos Aires</td>
-		<td>806</td>
-		<td>1139</td>
+		<td>807</td>
+		<td>1140</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -2123,8 +2123,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Ombulabs </td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>562</td>
-		<td>1019</td>
+		<td>563</td>
+		<td>1020</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2241,6 +2241,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>153</td>
 		<td>
+			<a target="_blank" href="https://github.com/florluzduarte">
+				<img src="https://avatars.githubusercontent.com/u/77161808?s=72&u=a58949bd8176440c83108cebd3e370f16929359b&v=4" width="24" alt="Avatar of florluzduarte"/> florluzduarte
+			</a><br/>
+			Florencia Luz Duarte
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/florluzduarte">florluzduarte</a></td>
+		<td>Buenos Aires Argentina</td>
+		<td>587</td>
+		<td>987</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
 			<a target="_blank" href="https://github.com/gianca1994">
 				<img src="https://avatars.githubusercontent.com/u/44784488?s=72&u=af7325856432a1be2b9cd1b441c8cc4bed70cda5&v=4" width="24" alt="Avatar of gianca1994"/> gianca1994
 			</a><br/>
@@ -2253,7 +2267,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>983</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a target="_blank" href="https://github.com/aloctavodia">
 				<img src="https://avatars.githubusercontent.com/u/1338958?s=72&u=0547da525376ab051a6140ec1210e530a201199a&v=4" width="24" alt="Avatar of aloctavodia"/> aloctavodia
@@ -2267,7 +2281,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>980</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/humbertodrc">
 				<img src="https://avatars.githubusercontent.com/u/63797901?s=72&u=af79b3fd29ef84029dc39ef2c357c9d01df32196&v=4" width="24" alt="Avatar of humbertodrc"/> humbertodrc
@@ -2281,7 +2295,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>969</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a target="_blank" href="https://github.com/zapaiamarce">
 				<img src="https://avatars.githubusercontent.com/u/1208547?s=72&u=3ee93ad75f3946ca6126bafe47e1e95d2df06e90&v=4" width="24" alt="Avatar of zapaiamarce"/> zapaiamarce
@@ -2295,7 +2309,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>968</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a target="_blank" href="https://github.com/MartinCura">
 				<img src="https://avatars.githubusercontent.com/u/14017665?s=72&u=2cefe3edf902358bd2482426766b3ac5cc9de01f&v=4" width="24" alt="Avatar of MartinCura"/> MartinCura
@@ -2309,7 +2323,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>966</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a target="_blank" href="https://github.com/evaferreira">
 				<img src="https://avatars.githubusercontent.com/u/5454742?s=72&u=bad79a92f64169ded2bd1010c62768feecd42b67&v=4" width="24" alt="Avatar of evaferreira"/> evaferreira
@@ -2323,7 +2337,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>961</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a target="_blank" href="https://github.com/elianparedes">
 				<img src="https://avatars.githubusercontent.com/u/70670549?s=72&u=eeaf87f01fcd9648e22c35f6f01cfc4076443fe7&v=4" width="24" alt="Avatar of elianparedes"/> elianparedes
@@ -2337,7 +2351,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>960</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a target="_blank" href="https://github.com/jjo">
 				<img src="https://avatars.githubusercontent.com/u/88727?s=72&u=ba6a912883befafb2c98a66a9e1cc0561a66edfb&v=4" width="24" alt="Avatar of jjo"/> jjo
@@ -2351,7 +2365,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>957</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a target="_blank" href="https://github.com/sojeda">
 				<img src="https://avatars.githubusercontent.com/u/17851841?s=72&u=f6863dac58b55d44bcbc792346c907288a7ce155&v=4" width="24" alt="Avatar of sojeda"/> sojeda
@@ -2365,7 +2379,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>948</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a target="_blank" href="https://github.com/sergiomedinaio">
 				<img src="https://avatars.githubusercontent.com/u/63879459?s=72&u=358f7c6fe5d0fbee7a0f5327e93dfdfd4b7e1d76&v=4" width="24" alt="Avatar of sergiomedinaio"/> sergiomedinaio
@@ -2379,7 +2393,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>944</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a target="_blank" href="https://github.com/federicomiranda">
 				<img src="https://avatars.githubusercontent.com/u/15703550?s=72&u=3eea7edf49ee86886d7e2075c1bb06d8df520b64&v=4" width="24" alt="Avatar of federicomiranda"/> federicomiranda
@@ -2393,7 +2407,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>944</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/gvolpe">
 				<img src="https://avatars.githubusercontent.com/u/443978?s=72&u=d9845904b6660ab20563d305d83e60a178506f9b&v=4" width="24" alt="Avatar of gvolpe"/> gvolpe
@@ -2403,11 +2417,25 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>@profunktor  </td>
 		<td><a target="_blank" href="https://twitter.com/volpegabriel87">volpegabriel87</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>789</td>
-		<td>937</td>
+		<td>793</td>
+		<td>941</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
+		<td>
+			<a target="_blank" href="https://github.com/seppo0010">
+				<img src="https://avatars.githubusercontent.com/u/223776?s=72&u=a9284ab30903862c116478fe905c387b790c4128&v=4" width="24" alt="Avatar of seppo0010"/> seppo0010
+			</a><br/>
+			Sebastian Waisbrot
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Buenos Aires Argentina</td>
+		<td>936</td>
+		<td>936</td>
+	</tr>
+	<tr>
+		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcosnils">
 				<img src="https://avatars.githubusercontent.com/u/1578458?s=72&u=840c84d5f930b0d04a77ca320507a1572797bf7b&v=4" width="24" alt="Avatar of marcosnils"/> marcosnils
@@ -2421,21 +2449,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>934</td>
 	</tr>
 	<tr>
-		<td>166</td>
-		<td>
-			<a target="_blank" href="https://github.com/seppo0010">
-				<img src="https://avatars.githubusercontent.com/u/223776?s=72&u=a9284ab30903862c116478fe905c387b790c4128&v=4" width="24" alt="Avatar of seppo0010"/> seppo0010
-			</a><br/>
-			Sebastian Waisbrot
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Buenos Aires Argentina</td>
-		<td>934</td>
-		<td>934</td>
-	</tr>
-	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a target="_blank" href="https://github.com/emaraschio">
 				<img src="https://avatars.githubusercontent.com/u/988715?s=72&u=97ace2ec715f4d58a20345a4d134a1867a426b54&v=4" width="24" alt="Avatar of emaraschio"/> emaraschio
@@ -2447,20 +2461,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Buenos Aires Argentina</td>
 		<td>5</td>
 		<td>933</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a target="_blank" href="https://github.com/florluzduarte">
-				<img src="https://avatars.githubusercontent.com/u/77161808?s=72&u=a58949bd8176440c83108cebd3e370f16929359b&v=4" width="24" alt="Avatar of florluzduarte"/> florluzduarte
-			</a><br/>
-			Florencia Luz Duarte
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/florluzduarte">florluzduarte</a></td>
-		<td>Buenos Aires Argentina</td>
-		<td>587</td>
-		<td>929</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2557,8 +2557,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/soyagvs">soyagvs</a></td>
 		<td>Buenos Aires AR</td>
-		<td>819</td>
-		<td>903</td>
+		<td>820</td>
+		<td>904</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2628,7 +2628,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
 		<td>151</td>
-		<td>892</td>
+		<td>894</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -2725,8 +2725,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>@supabase </td>
 		<td><a target="_blank" href="https://twitter.com/juancarlospaco">juancarlospaco</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>632</td>
-		<td>868</td>
+		<td>633</td>
+		<td>869</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -3509,8 +3509,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>354</td>
-		<td>667</td>
+		<td>355</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>244</td>
@@ -3879,6 +3879,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>270</td>
 		<td>
+			<a target="_blank" href="https://github.com/matifanger">
+				<img src="https://avatars.githubusercontent.com/u/39188240?s=72&u=586665b816261a6e414160b4d5ba95224447b827&v=4" width="24" alt="Avatar of matifanger"/> matifanger
+			</a><br/>
+			Matias Fanger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Argentina</td>
+		<td>60</td>
+		<td>598</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
 			<a target="_blank" href="https://github.com/JuanuMusic">
 				<img src="https://avatars.githubusercontent.com/u/1811292?s=72&u=b65a89dad17a01859a94b218519ed0e466bad097&v=4" width="24" alt="Avatar of JuanuMusic"/> JuanuMusic
 			</a><br/>
@@ -3891,7 +3905,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>598</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>272</td>
 		<td>
 			<a target="_blank" href="https://github.com/apillet">
 				<img src="https://avatars.githubusercontent.com/u/10289?s=72&v=4" width="24" alt="Avatar of apillet"/> apillet
@@ -3905,20 +3919,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>597</td>
 	</tr>
 	<tr>
-		<td>272</td>
-		<td>
-			<a target="_blank" href="https://github.com/matifanger">
-				<img src="https://avatars.githubusercontent.com/u/39188240?s=72&u=586665b816261a6e414160b4d5ba95224447b827&v=4" width="24" alt="Avatar of matifanger"/> matifanger
-			</a><br/>
-			Matias Fanger
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Argentina</td>
-		<td>58</td>
-		<td>596</td>
-	</tr>
-	<tr>
 		<td>273</td>
 		<td>
 			<a target="_blank" href="https://github.com/FiammaMuscari">
@@ -3929,8 +3929,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Fiammamuscari@gmailc </td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>220</td>
-		<td>593</td>
+		<td>222</td>
+		<td>595</td>
 	</tr>
 	<tr>
 		<td>274</td>
@@ -4005,20 +4005,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>279</td>
 		<td>
-			<a target="_blank" href="https://github.com/victorkane">
-				<img src="https://avatars.githubusercontent.com/u/106342?s=72&v=4" width="24" alt="Avatar of victorkane"/> victorkane
-			</a><br/>
-			Victor Kane
-		</td>
-		<td>Awebfactory </td>
-		<td><a target="_blank" href="https://twitter.com/a_web_factory">a_web_factory</a></td>
-		<td>Buenos Aires Argentina</td>
-		<td>433</td>
-		<td>568</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
 			<a target="_blank" href="https://github.com/alejoaquili">
 				<img src="https://avatars.githubusercontent.com/u/26585322?s=72&u=bfd2991042cd3d790f31c74bcbe8b3bb22a46e0b&v=4" width="24" alt="Avatar of alejoaquili"/> alejoaquili
 			</a><br/>
@@ -4028,6 +4014,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
 		<td>3</td>
+		<td>570</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a target="_blank" href="https://github.com/victorkane">
+				<img src="https://avatars.githubusercontent.com/u/106342?s=72&v=4" width="24" alt="Avatar of victorkane"/> victorkane
+			</a><br/>
+			Victor Kane
+		</td>
+		<td>Awebfactory </td>
+		<td><a target="_blank" href="https://twitter.com/a_web_factory">a_web_factory</a></td>
+		<td>Buenos Aires Argentina</td>
+		<td>433</td>
 		<td>568</td>
 	</tr>
 	<tr>
@@ -4041,8 +4041,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/carpicoder">carpicoder</a></td>
 		<td>From Argentina in Spain</td>
-		<td>564</td>
-		<td>564</td>
+		<td>565</td>
+		<td>565</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -4069,8 +4069,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>205</td>
-		<td>559</td>
+		<td>207</td>
+		<td>561</td>
 	</tr>
 	<tr>
 		<td>284</td>
@@ -4223,8 +4223,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rosario Santa Fe Argentina</td>
-		<td>525</td>
-		<td>525</td>
+		<td>526</td>
+		<td>526</td>
 	</tr>
 	<tr>
 		<td>295</td>
@@ -4923,8 +4923,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Salvador de Jujuy Jujuy Argentina</td>
-		<td>232</td>
-		<td>417</td>
+		<td>235</td>
+		<td>420</td>
 	</tr>
 	<tr>
 		<td>345</td>
@@ -4957,6 +4957,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>347</td>
 		<td>
+			<a target="_blank" href="https://github.com/julicastro">
+				<img src="https://avatars.githubusercontent.com/u/70999224?s=72&u=466a54a4f40595aea8a572b1cc0e738da01b8eee&v=4" width="24" alt="Avatar of julicastro"/> julicastro
+			</a><br/>
+			Julian Castro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Haedo Buenos Aires</td>
+		<td>171</td>
+		<td>414</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
 			<a target="_blank" href="https://github.com/Ariel-Eitner">
 				<img src="https://avatars.githubusercontent.com/u/105615462?s=72&u=0e166a0e975e20030c1951c7a9251f85965ac10c&v=4" width="24" alt="Avatar of Ariel-Eitner"/> Ariel-Eitner
 			</a><br/>
@@ -4967,20 +4981,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Buenos Aires  Argentina</td>
 		<td>105</td>
 		<td>413</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a target="_blank" href="https://github.com/julicastro">
-				<img src="https://avatars.githubusercontent.com/u/70999224?s=72&u=466a54a4f40595aea8a572b1cc0e738da01b8eee&v=4" width="24" alt="Avatar of julicastro"/> julicastro
-			</a><br/>
-			Julian Castro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Haedo Buenos Aires</td>
-		<td>170</td>
-		<td>412</td>
 	</tr>
 	<tr>
 		<td>349</td>
@@ -5021,8 +5021,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Bitpay Inc </td>
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
-		<td>401</td>
-		<td>401</td>
+		<td>402</td>
+		<td>402</td>
 	</tr>
 	<tr>
 		<td>352</td>
@@ -5315,8 +5315,8 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>San Miguel </td>
 		<td>No Twitter Username</td>
 		<td>buenos aires Argentina</td>
-		<td>308</td>
-		<td>327</td>
+		<td>309</td>
+		<td>328</td>
 	</tr>
 	<tr>
 		<td>373</td>
@@ -5405,6 +5405,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>379</td>
 		<td>
+			<a target="_blank" href="https://github.com/ArielBetancud22">
+				<img src="https://avatars.githubusercontent.com/u/105942321?s=72&u=530126dacec1d4e604dc0738b2126c7a1e90cf70&v=4" width="24" alt="Avatar of ArielBetancud22"/> ArielBetancud22
+			</a><br/>
+			Ariel Betancud
+		</td>
+		<td>Holyfire </td>
+		<td>No Twitter Username</td>
+		<td>Guaymalln Mendoza Argentina</td>
+		<td>21</td>
+		<td>315</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
 			<a target="_blank" href="https://github.com/dpaez">
 				<img src="https://avatars.githubusercontent.com/u/837500?s=72&u=75d7ee084b07cc9699f53303b12f14ac8feea9f4&v=4" width="24" alt="Avatar of dpaez"/> dpaez
 			</a><br/>
@@ -5417,7 +5431,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>315</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a target="_blank" href="https://github.com/aledruetta">
 				<img src="https://avatars.githubusercontent.com/u/4238536?s=72&u=209b40b7006792e4de50b09930e4267cfa7a6b39&v=4" width="24" alt="Avatar of aledruetta"/> aledruetta
@@ -5429,20 +5443,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Santa Fe Argentina</td>
 		<td>46</td>
 		<td>315</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a target="_blank" href="https://github.com/ArielBetancud22">
-				<img src="https://avatars.githubusercontent.com/u/105942321?s=72&u=530126dacec1d4e604dc0738b2126c7a1e90cf70&v=4" width="24" alt="Avatar of ArielBetancud22"/> ArielBetancud22
-			</a><br/>
-			Ariel Betancud
-		</td>
-		<td>Holyfire </td>
-		<td>No Twitter Username</td>
-		<td>Guaymalln Mendoza Argentina</td>
-		<td>21</td>
-		<td>314</td>
 	</tr>
 	<tr>
 		<td>382</td>
@@ -5713,6 +5713,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>401</td>
 		<td>
+			<a target="_blank" href="https://github.com/Kapelu">
+				<img src="https://avatars.githubusercontent.com/u/95049947?s=72&u=34763f8e097b286492e8cb9420a63fb85c7637b6&v=4" width="24" alt="Avatar of Kapelu"/> Kapelu
+			</a><br/>
+			
+		</td>
+		<td>Keiko Web Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Argentina</td>
+		<td>189</td>
+		<td>290</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
 			<a target="_blank" href="https://github.com/epidemian">
 				<img src="https://avatars.githubusercontent.com/u/722544?s=72&u=fba9e2ada9a35a34fe87f092b170100010a1d64d&v=4" width="24" alt="Avatar of epidemian"/> epidemian
 			</a><br/>
@@ -5725,7 +5739,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>288</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>403</td>
 		<td>
 			<a target="_blank" href="https://github.com/FabioDrizZt">
 				<img src="https://avatars.githubusercontent.com/u/12085182?s=72&u=b2542d6868a1b44910a06379d40a3fe40e91074b&v=4" width="24" alt="Avatar of FabioDrizZt"/> FabioDrizZt
@@ -5739,7 +5753,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a target="_blank" href="https://github.com/ronibandini">
 				<img src="https://avatars.githubusercontent.com/u/30272192?s=72&u=e9ee171fb5f97077a370259eb80c26eec59ec34c&v=4" width="24" alt="Avatar of ronibandini"/> ronibandini
@@ -5753,7 +5767,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a target="_blank" href="https://github.com/GabrielAlberini">
 				<img src="https://avatars.githubusercontent.com/u/77715611?s=72&u=4ffc8b09370416bb4b872bf173351ecf2be15a27&v=4" width="24" alt="Avatar of GabrielAlberini"/> GabrielAlberini
@@ -5767,7 +5781,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/alejandro-medici">
 				<img src="https://avatars.githubusercontent.com/u/1306920?s=72&u=99c62f4064a3e62b39d100d2f5c0f3a375468b9d&v=4" width="24" alt="Avatar of alejandro-medici"/> alejandro-medici
@@ -5778,20 +5792,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/MediciAlejandro">MediciAlejandro</a></td>
 		<td>Argentina</td>
 		<td>246</td>
-		<td>277</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a target="_blank" href="https://github.com/Kapelu">
-				<img src="https://avatars.githubusercontent.com/u/95049947?s=72&u=34763f8e097b286492e8cb9420a63fb85c7637b6&v=4" width="24" alt="Avatar of Kapelu"/> Kapelu
-			</a><br/>
-			
-		</td>
-		<td>Keiko Web Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Argentina</td>
-		<td>158</td>
 		<td>277</td>
 	</tr>
 	<tr>
@@ -5951,6 +5951,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>418</td>
 		<td>
+			<a target="_blank" href="https://github.com/AndreaDiazCorreia">
+				<img src="https://avatars.githubusercontent.com/u/85651492?s=72&u=175e32bacfd9949cb533515120b5afc5221669b5&v=4" width="24" alt="Avatar of AndreaDiazCorreia"/> AndreaDiazCorreia
+			</a><br/>
+			Andrea Daz Correia
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/AndreaDCorreia">AndreaDCorreia</a></td>
+		<td>Argentina</td>
+		<td>97</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
 			<a target="_blank" href="https://github.com/contepablod">
 				<img src="https://avatars.githubusercontent.com/u/80008587?s=72&u=70b4d79ab93d7723ce78aadc5a8623dc24007b0d&v=4" width="24" alt="Avatar of contepablod"/> contepablod
 			</a><br/>
@@ -5961,20 +5975,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Cipolletti Argentina</td>
 		<td>262</td>
 		<td>262</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a target="_blank" href="https://github.com/AndreaDiazCorreia">
-				<img src="https://avatars.githubusercontent.com/u/85651492?s=72&u=175e32bacfd9949cb533515120b5afc5221669b5&v=4" width="24" alt="Avatar of AndreaDiazCorreia"/> AndreaDiazCorreia
-			</a><br/>
-			Andrea Daz Correia
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/AndreaDCorreia">AndreaDCorreia</a></td>
-		<td>Argentina</td>
-		<td>93</td>
-		<td>260</td>
 	</tr>
 	<tr>
 		<td>420</td>
@@ -6819,6 +6819,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>480</td>
 		<td>
+			<a target="_blank" href="https://github.com/imAETHER">
+				<img src="https://avatars.githubusercontent.com/u/36291026?s=72&u=ca162c32ef761201161be36cb5483c86e703c962&v=4" width="24" alt="Avatar of imAETHER"/> imAETHER
+			</a><br/>
+			Aether
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Argentina</td>
+		<td>8</td>
+		<td>187</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
 			<a target="_blank" href="https://github.com/Josemiranda989">
 				<img src="https://avatars.githubusercontent.com/u/84145112?s=72&u=9a217cd75f9a9b00438dac150750562f79385a0f&v=4" width="24" alt="Avatar of Josemiranda989"/> Josemiranda989
 			</a><br/>
@@ -6831,21 +6845,21 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
-			<a target="_blank" href="https://github.com/imAETHER">
-				<img src="https://avatars.githubusercontent.com/u/36291026?s=72&u=ca162c32ef761201161be36cb5483c86e703c962&v=4" width="24" alt="Avatar of imAETHER"/> imAETHER
+			<a target="_blank" href="https://github.com/fedecaccia">
+				<img src="https://avatars.githubusercontent.com/u/17413112?s=72&u=ca3d0c3ca24ba8422d5cdfe6849f1ae4779c9c44&v=4" width="24" alt="Avatar of fedecaccia"/> fedecaccia
 			</a><br/>
-			Aether
+			Federico Caccia
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Argentina</td>
-		<td>8</td>
-		<td>186</td>
+		<td>Rather Labs </td>
+		<td><a target="_blank" href="https://twitter.com/fedeecaccia">fedeecaccia</a></td>
+		<td>Buenos Aires</td>
+		<td>5</td>
+		<td>185</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a target="_blank" href="https://github.com/sebasjm">
 				<img src="https://avatars.githubusercontent.com/u/161916?s=72&v=4" width="24" alt="Avatar of sebasjm"/> sebasjm
@@ -6859,7 +6873,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a target="_blank" href="https://github.com/ivandiazwm">
 				<img src="https://avatars.githubusercontent.com/u/6447076?s=72&u=a083698a07fd9e984f0b299ee7712a13eb12561c&v=4" width="24" alt="Avatar of ivandiazwm"/> ivandiazwm
@@ -6873,7 +6887,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lawxsz">
 				<img src="https://avatars.githubusercontent.com/u/116668706?s=72&u=0ecb7ce9a1eb2fc109bb9483f3b872cf869fafb6&v=4" width="24" alt="Avatar of Lawxsz"/> Lawxsz
@@ -6887,7 +6901,21 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
+		<td>
+			<a target="_blank" href="https://github.com/MartinNievas">
+				<img src="https://avatars.githubusercontent.com/u/24465803?s=72&u=2dfd4b7d102702e06bd70617259568c9396f6a67&v=4" width="24" alt="Avatar of MartinNievas"/> MartinNievas
+			</a><br/>
+			SNOW
+		</td>
+		<td>Ciii  Centro De<br/>Investigacin<br/>En<br/>Informtica<br/>Para<br/>La<br/>Ingeniera<br/>Utn<br/><br/>Frc<br/></td>
+		<td><a target="_blank" href="https://twitter.com/mlnievas">mlnievas</a></td>
+		<td>Crdoba Argentina</td>
+		<td>144</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>487</td>
 		<td>
 			<a target="_blank" href="https://github.com/sebastian-asm">
 				<img src="https://avatars.githubusercontent.com/u/44483501?s=72&u=94527903b5b1ba9c018b57b0451ce9d79d809c2b&v=4" width="24" alt="Avatar of sebastian-asm"/> sebastian-asm
@@ -6901,7 +6929,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>488</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcsee">
 				<img src="https://avatars.githubusercontent.com/u/265495?s=72&u=19b4b78acfafb9904753b7cf6ffa21dae58e1a1a&v=4" width="24" alt="Avatar of mcsee"/> mcsee
@@ -6915,7 +6943,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>489</td>
 		<td>
 			<a target="_blank" href="https://github.com/german-bortoli">
 				<img src="https://avatars.githubusercontent.com/u/36618?s=72&u=bbe75da6f9de490d3f37192878931a96661ea906&v=4" width="24" alt="Avatar of german-bortoli"/> german-bortoli
@@ -6929,7 +6957,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>490</td>
 		<td>
 			<a target="_blank" href="https://github.com/andresgalante">
 				<img src="https://avatars.githubusercontent.com/u/1832037?s=72&u=15d4bd0765fe51200e1a40f8f6c723a72b1a75e8&v=4" width="24" alt="Avatar of andresgalante"/> andresgalante
@@ -6943,7 +6971,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>491</td>
 		<td>
 			<a target="_blank" href="https://github.com/gcorallo">
 				<img src="https://avatars.githubusercontent.com/u/1738321?s=72&v=4" width="24" alt="Avatar of gcorallo"/> gcorallo
@@ -6957,21 +6985,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>490</td>
-		<td>
-			<a target="_blank" href="https://github.com/MartinNievas">
-				<img src="https://avatars.githubusercontent.com/u/24465803?s=72&u=2dfd4b7d102702e06bd70617259568c9396f6a67&v=4" width="24" alt="Avatar of MartinNievas"/> MartinNievas
-			</a><br/>
-			SNOW
-		</td>
-		<td>Ciii  Centro De<br/>Investigacin<br/>En<br/>Informtica<br/>Para<br/>La<br/>Ingeniera<br/>Utn<br/><br/>Frc<br/></td>
-		<td><a target="_blank" href="https://twitter.com/mlnievas">mlnievas</a></td>
-		<td>Crdoba Argentina</td>
-		<td>144</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a target="_blank" href="https://github.com/anadiedrichs">
 				<img src="https://avatars.githubusercontent.com/u/3030113?s=72&u=355abaca80437d12b3cb76a8cef66e8e899c630f&v=4" width="24" alt="Avatar of anadiedrichs"/> anadiedrichs
@@ -6983,20 +6997,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Mendoza Argentina</td>
 		<td>153</td>
 		<td>179</td>
-	</tr>
-	<tr>
-		<td>492</td>
-		<td>
-			<a target="_blank" href="https://github.com/fedecaccia">
-				<img src="https://avatars.githubusercontent.com/u/17413112?s=72&u=ca3d0c3ca24ba8422d5cdfe6849f1ae4779c9c44&v=4" width="24" alt="Avatar of fedecaccia"/> fedecaccia
-			</a><br/>
-			Federico Caccia
-		</td>
-		<td>Rather Labs </td>
-		<td><a target="_blank" href="https://twitter.com/fedeecaccia">fedeecaccia</a></td>
-		<td>Buenos Aires</td>
-		<td>5</td>
-		<td>178</td>
 	</tr>
 	<tr>
 		<td>493</td>
@@ -7631,6 +7631,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>538</td>
 		<td>
+			<a target="_blank" href="https://github.com/lainz">
+				<img src="https://avatars.githubusercontent.com/u/4131395?s=72&u=1647a4334e5da98faa0c10f71bc7c75b041205db&v=4" width="24" alt="Avatar of lainz"/> lainz
+			</a><br/>
+			Leandro Oscar Ezequiel Diaz
+		</td>
+		<td>@arandusoft </td>
+		<td>No Twitter Username</td>
+		<td>Buenos Aires Argentina</td>
+		<td>131</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
 			<a target="_blank" href="https://github.com/SebastianMaciel">
 				<img src="https://avatars.githubusercontent.com/u/4841148?s=72&u=c6977b9a67c2b577dbf6f01558afbf346df5e794&v=4" width="24" alt="Avatar of SebastianMaciel"/> SebastianMaciel
 			</a><br/>
@@ -7643,7 +7657,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/woloski">
 				<img src="https://avatars.githubusercontent.com/u/175880?s=72&v=4" width="24" alt="Avatar of woloski"/> woloski
@@ -7657,7 +7671,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/facundouferer">
 				<img src="https://avatars.githubusercontent.com/u/19623270?s=72&u=749e78bc98796be9684086536a3db614b8e708d8&v=4" width="24" alt="Avatar of facundouferer"/> facundouferer
@@ -7667,20 +7681,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>@facundouferer </td>
 		<td><a target="_blank" href="https://twitter.com/facundouferer">facundouferer</a></td>
 		<td>Argentina</td>
-		<td>127</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
-			<a target="_blank" href="https://github.com/lainz">
-				<img src="https://avatars.githubusercontent.com/u/4131395?s=72&u=1647a4334e5da98faa0c10f71bc7c75b041205db&v=4" width="24" alt="Avatar of lainz"/> lainz
-			</a><br/>
-			Leandro Oscar Ezequiel Diaz
-		</td>
-		<td>@arandusoft </td>
-		<td>No Twitter Username</td>
-		<td>Buenos Aires Argentina</td>
 		<td>127</td>
 		<td>127</td>
 	</tr>
@@ -9129,6 +9129,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>645</td>
 		<td>
+			<a target="_blank" href="https://github.com/andrespagella">
+				<img src="https://avatars.githubusercontent.com/u/783074?s=72&u=a2a1b83ea560cb113e60f50bb88e69a832b3c1cd&v=4" width="24" alt="Avatar of andrespagella"/> andrespagella
+			</a><br/>
+			M Andres Pagella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Buenos Aires Argentina</td>
+		<td>0</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>646</td>
+		<td>
 			<a target="_blank" href="https://github.com/ezelf">
 				<img src="https://avatars.githubusercontent.com/u/15113645?s=72&u=dd1d64f6236ecb59dd929d32e34ba4cf9d03e9be&v=4" width="24" alt="Avatar of ezelf"/> ezelf
 			</a><br/>
@@ -9141,7 +9155,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>647</td>
 		<td>
 			<a target="_blank" href="https://github.com/Estebamq">
 				<img src="https://avatars.githubusercontent.com/u/45549537?s=72&u=267567639995d3a64e30ac8a21b01b14270e7870&v=4" width="24" alt="Avatar of Estebamq"/> Estebamq
@@ -9155,7 +9169,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
 		<td>
 			<a target="_blank" href="https://github.com/CharlyCimino">
 				<img src="https://avatars.githubusercontent.com/u/47070235?s=72&u=4a072c29a1fd2a8813c7c711bbbe781fdd4a4114&v=4" width="24" alt="Avatar of CharlyCimino"/> CharlyCimino
@@ -9169,7 +9183,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a target="_blank" href="https://github.com/fernandoggaitan">
 				<img src="https://avatars.githubusercontent.com/u/5505868?s=72&u=1ebc76b10de03f2529331fa7fc22761407a03a5d&v=4" width="24" alt="Avatar of fernandoggaitan"/> fernandoggaitan
@@ -9183,7 +9197,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a target="_blank" href="https://github.com/andresvisco">
 				<img src="https://avatars.githubusercontent.com/u/30133342?s=72&u=688d7a0bc93d65631bd2de40ae2cc57173afa003&v=4" width="24" alt="Avatar of andresvisco"/> andresvisco
@@ -9194,20 +9208,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Argentina</td>
 		<td>33</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>650</td>
-		<td>
-			<a target="_blank" href="https://github.com/andrespagella">
-				<img src="https://avatars.githubusercontent.com/u/783074?s=72&u=a2a1b83ea560cb113e60f50bb88e69a832b3c1cd&v=4" width="24" alt="Avatar of andrespagella"/> andrespagella
-			</a><br/>
-			M Andres Pagella
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Buenos Aires Argentina</td>
-		<td>0</td>
 		<td>52</td>
 	</tr>
 	<tr>
@@ -9759,6 +9759,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>690</td>
 		<td>
+			<a target="_blank" href="https://github.com/PandaFoss">
+				<img src="https://avatars.githubusercontent.com/u/6508835?s=72&u=9803704a206e50e07db6f62807fcea0a5111b941&v=4" width="24" alt="Avatar of PandaFoss"/> PandaFoss
+			</a><br/>
+			Max Ferrer
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/PandaFoss">PandaFoss</a></td>
+		<td>Argentina</td>
+		<td>33</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
 			<a target="_blank" href="https://github.com/JoaPaloBael">
 				<img src="https://avatars.githubusercontent.com/u/9344831?s=72&u=a31f65fb48d6feef772b5b0b44b5974a5e80525c&v=4" width="24" alt="Avatar of JoaPaloBael"/> JoaPaloBael
 			</a><br/>
@@ -9771,7 +9785,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a target="_blank" href="https://github.com/alanmartinc">
 				<img src="https://avatars.githubusercontent.com/u/52534693?s=72&u=1e252a3bcdafedfb60501bb826648f00041735bf&v=4" width="24" alt="Avatar of alanmartinc"/> alanmartinc
@@ -9785,7 +9799,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/JohnMunsch">
 				<img src="https://avatars.githubusercontent.com/u/20567?s=72&v=4" width="24" alt="Avatar of JohnMunsch"/> JohnMunsch
@@ -9797,20 +9811,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Santa Fe NM</td>
 		<td>35</td>
 		<td>35</td>
-	</tr>
-	<tr>
-		<td>693</td>
-		<td>
-			<a target="_blank" href="https://github.com/PandaFoss">
-				<img src="https://avatars.githubusercontent.com/u/6508835?s=72&u=9803704a206e50e07db6f62807fcea0a5111b941&v=4" width="24" alt="Avatar of PandaFoss"/> PandaFoss
-			</a><br/>
-			Max Ferrer
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/PandaFoss">PandaFoss</a></td>
-		<td>Argentina</td>
-		<td>32</td>
-		<td>34</td>
 	</tr>
 	<tr>
 		<td>694</td>
@@ -10193,6 +10193,20 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>721</td>
 		<td>
+			<a target="_blank" href="https://github.com/chrisrm86">
+				<img src="https://avatars.githubusercontent.com/u/30218413?s=72&u=df2017599a12b3f5eab1cf11f0cc33813d658236&v=4" width="24" alt="Avatar of chrisrm86"/> chrisrm86
+			</a><br/>
+			Christian
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Crdoba Argentina</td>
+		<td>0</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
 			<a target="_blank" href="https://github.com/FranciscoDA">
 				<img src="https://avatars.githubusercontent.com/u/7649096?s=72&u=cd763a4b838c437e96f7f1582d8fa73aacc8ba98&v=4" width="24" alt="Avatar of FranciscoDA"/> FranciscoDA
 			</a><br/>
@@ -10205,7 +10219,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a target="_blank" href="https://github.com/fitoprincipe">
 				<img src="https://avatars.githubusercontent.com/u/10751505?s=72&u=3e5426fb239a7f3566216bc223933e272e225731&v=4" width="24" alt="Avatar of fitoprincipe"/> fitoprincipe
@@ -10219,7 +10233,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a target="_blank" href="https://github.com/waj">
 				<img src="https://avatars.githubusercontent.com/u/22697?s=72&u=8ce8d3ce1ab1bfa36ff1cecf7cb60d193706afda&v=4" width="24" alt="Avatar of waj"/> waj
@@ -10233,7 +10247,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a target="_blank" href="https://github.com/durancristhian">
 				<img src="https://avatars.githubusercontent.com/u/4248944?s=72&u=1fb344d85b719dcf1028c037489547004de7228e&v=4" width="24" alt="Avatar of durancristhian"/> durancristhian
@@ -10244,20 +10258,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/durancristhian">durancristhian</a></td>
 		<td>Buenos Aires Argentina</td>
 		<td>22</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a target="_blank" href="https://github.com/chrisrm86">
-				<img src="https://avatars.githubusercontent.com/u/30218413?s=72&u=df2017599a12b3f5eab1cf11f0cc33813d658236&v=4" width="24" alt="Avatar of chrisrm86"/> chrisrm86
-			</a><br/>
-			Christian
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Crdoba Argentina</td>
-		<td>0</td>
 		<td>23</td>
 	</tr>
 	<tr>
