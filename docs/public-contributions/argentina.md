@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `public contributions` by users in Argentina on `2024/9/25 2:14 PM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `public contributions` by users in Argentina on `2024/9/25 2:40 PM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -549,7 +549,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/aloctavodia">aloctavodia</a></td>
 		<td>San Luis Argentina</td>
-		<td>1058</td>
+		<td>1060</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1160,7 +1160,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Data Science </td>
 		<td><a target="_blank" href="https://twitter.com/joacode33">joacode33</a></td>
 		<td>Santa Fe</td>
-		<td>582</td>
+		<td>584</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1264,7 +1264,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>@lambdaclass </td>
 		<td><a target="_blank" href="https://twitter.com/ivanlitteri">ivanlitteri</a></td>
 		<td>Argentina</td>
-		<td>550</td>
+		<td>552</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1277,7 +1277,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Noredink </td>
 		<td>No Twitter Username</td>
 		<td>Buenos Aires Argentina</td>
-		<td>536</td>
+		<td>537</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -4150,7 +4150,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/luisvid">luisvid</a></td>
 		<td>Mendoza Argentina</td>
-		<td>131</td>
+		<td>132</td>
 	</tr>
 	<tr>
 		<td>312</td>
@@ -4428,6 +4428,19 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>333</td>
 		<td>
+			<a target="_blank" href="https://github.com/buanzo">
+				<img src="https://avatars.githubusercontent.com/u/553167?s=72&u=e168d18f98a88b8d74f148d4ceba197b2c74c542&v=4" width="24" alt="Avatar of buanzo"/> buanzo
+			</a><br/>
+			Arturo Busleiman aka Buanzo
+		</td>
+		<td>Independent And Ciso @<br/>Ministry<br/>Of<br/>Foreign<br/>Affairs<br/>International<br/>Trade<br/>And<br/>Worship<br/>Of<br/>Argentina<br/></td>
+		<td><a target="_blank" href="https://twitter.com/buanzo">buanzo</a></td>
+		<td>Buenos Aires Argentina</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
 			<a target="_blank" href="https://github.com/guidovarela">
 				<img src="https://avatars.githubusercontent.com/u/12563283?s=72&u=18535cab86a31995d36fb59c1917548b7a99e455&v=4" width="24" alt="Avatar of guidovarela"/> guidovarela
 			</a><br/>
@@ -4439,7 +4452,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a target="_blank" href="https://github.com/megagringa">
 				<img src="https://avatars.githubusercontent.com/u/38148731?s=72&u=84f12ecb4ea5101ba40e0d9b1b1dea8eee804e14&v=4" width="24" alt="Avatar of megagringa"/> megagringa
@@ -4452,7 +4465,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a target="_blank" href="https://github.com/AntonellaLV">
 				<img src="https://avatars.githubusercontent.com/u/118840064?s=72&u=56d87c78df0f1a1438639cbd4df4f2e92c249ad6&v=4" width="24" alt="Avatar of AntonellaLV"/> AntonellaLV
@@ -4465,7 +4478,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a target="_blank" href="https://github.com/deusdevok">
 				<img src="https://avatars.githubusercontent.com/u/24867268?s=72&u=9e678f04a3112ac07869933009ec2da42e5c1c72&v=4" width="24" alt="Avatar of deusdevok"/> deusdevok
@@ -4474,19 +4487,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/deusdevok">deusdevok</a></td>
-		<td>Buenos Aires Argentina</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
-			<a target="_blank" href="https://github.com/buanzo">
-				<img src="https://avatars.githubusercontent.com/u/553167?s=72&u=e168d18f98a88b8d74f148d4ceba197b2c74c542&v=4" width="24" alt="Avatar of buanzo"/> buanzo
-			</a><br/>
-			Arturo Busleiman aka Buanzo
-		</td>
-		<td>Independent And Ciso @<br/>Ministry<br/>Of<br/>Foreign<br/>Affairs<br/>International<br/>Trade<br/>And<br/>Worship<br/>Of<br/>Argentina<br/></td>
-		<td><a target="_blank" href="https://twitter.com/buanzo">buanzo</a></td>
 		<td>Buenos Aires Argentina</td>
 		<td>110</td>
 	</tr>

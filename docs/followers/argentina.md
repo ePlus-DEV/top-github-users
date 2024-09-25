@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Argentina
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina"/>
 </a>
 
-The `number of followers` of users in Argentina on `2024/9/25 2:14 PM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
+The `number of followers` of users in Argentina on `2024/9/25 2:40 PM UTC`. This list contains users from Argentina and cities Buenosaires Cordoba Rosario Laplata Tucumn Mardelplata Salta Santafe.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -198,7 +198,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Particular </td>
 		<td>No Twitter Username</td>
 		<td>Argentina  Mendoza</td>
-		<td>1918</td>
+		<td>1919</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1134,7 +1134,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Impallari Type </td>
 		<td><a target="_blank" href="https://twitter.com/impallaritype">impallaritype</a></td>
 		<td>Rosario Argentina</td>
-		<td>321</td>
+		<td>322</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -4397,7 +4397,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>@securityscorecard  </td>
 		<td><a target="_blank" href="https://twitter.com/beneidel">beneidel</a></td>
 		<td>Buenos Aires Argentina</td>
-		<td>102</td>
+		<td>103</td>
 	</tr>
 	<tr>
 		<td>331</td>
@@ -5780,6 +5780,19 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 	<tr>
 		<td>437</td>
 		<td>
+			<a target="_blank" href="https://github.com/Jordan-Iralde">
+				<img src="https://avatars.githubusercontent.com/u/173688848?s=72&u=f3aab98273a8cac992cfc810b0e08fbe2581fabb&v=4" width="24" alt="Avatar of Jordan-Iralde"/> Jordan-Iralde
+			</a><br/>
+			Jordan Iralde
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cordoba Argentina</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
 			<a target="_blank" href="https://github.com/IgnacioPardo">
 				<img src="https://avatars.githubusercontent.com/u/65306107?s=72&u=ca3c7528e79a0c53e9f80a065343111682175536&v=4" width="24" alt="Avatar of IgnacioPardo"/> IgnacioPardo
 			</a><br/>
@@ -5791,7 +5804,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a target="_blank" href="https://github.com/fmdlc">
 				<img src="https://avatars.githubusercontent.com/u/2071428?s=72&u=de66c77c8c95bfab7235e99c5b415ecfacd45082&v=4" width="24" alt="Avatar of fmdlc"/> fmdlc
@@ -5804,7 +5817,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/Soyagvs">
 				<img src="https://avatars.githubusercontent.com/u/110870206?s=72&u=f8554b388ea0dca9cf16fcb4904ef7528c4cfeb9&v=4" width="24" alt="Avatar of Soyagvs"/> Soyagvs
@@ -5817,7 +5830,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a target="_blank" href="https://github.com/MarsicoFL">
 				<img src="https://avatars.githubusercontent.com/u/55600771?s=72&u=617b8396774c2954fd8674d07135e6cbea8aea64&v=4" width="24" alt="Avatar of MarsicoFL"/> MarsicoFL
@@ -5830,7 +5843,7 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a target="_blank" href="https://github.com/AdelFetner">
 				<img src="https://avatars.githubusercontent.com/u/77463982?s=72&u=3251e1181fa8b1441f690c5aac429169e7d2c5c5&v=4" width="24" alt="Avatar of AdelFetner"/> AdelFetner
@@ -5840,19 +5853,6 @@ There are `963 users`  in Argentina. You need at least `48 followers` to be on t
 		<td>Polilat </td>
 		<td><a target="_blank" href="https://twitter.com/AdelFetner">AdelFetner</a></td>
 		<td>Argentina</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
-			<a target="_blank" href="https://github.com/Jordan-Iralde">
-				<img src="https://avatars.githubusercontent.com/u/173688848?s=72&u=f3aab98273a8cac992cfc810b0e08fbe2581fabb&v=4" width="24" alt="Avatar of Jordan-Iralde"/> Jordan-Iralde
-			</a><br/>
-			Jordan Iralde
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cordoba Argentina</td>
 		<td>82</td>
 	</tr>
 	<tr>
