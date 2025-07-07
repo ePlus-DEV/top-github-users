@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Mexico
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Mexico on `2025/7/7 4:31 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
+The `public contributions` and `private contributions` by users in Mexico on `2025/7/7 5:05 AM UTC`. This list contains users from Mexico and cities Mexicocity Guadalajara Puebla Ciudadjurez Tijuana Monterrey Mexicali.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -163,8 +163,8 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mexico City</td>
-		<td>4992</td>
-		<td>6638</td>
+		<td>4993</td>
+		<td>6639</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -374,7 +374,7 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/dieg02587">dieg02587</a></td>
 		<td>Villahermosa Tabasco Mexico</td>
 		<td>330</td>
-		<td>3159</td>
+		<td>3163</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -542,7 +542,7 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/victor_aguilarc">victor_aguilarc</a></td>
 		<td>Mexico City</td>
 		<td>73</td>
-		<td>2385</td>
+		<td>2386</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -625,8 +625,8 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td>Custodian Of @onlinego <br/></td>
 		<td>No Twitter Username</td>
 		<td>New Mexico United States</td>
-		<td>907</td>
-		<td>2183</td>
+		<td>909</td>
+		<td>2185</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -1004,7 +1004,7 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/Chepe">Chepe</a></td>
 		<td>Mexico City</td>
 		<td>37</td>
-		<td>1717</td>
+		<td>1719</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1941,8 +1941,8 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td>Kronops </td>
 		<td><a target="_blank" href="https://twitter.com/j0rshma">j0rshma</a></td>
 		<td>Mexico City</td>
-		<td>106</td>
-		<td>1001</td>
+		<td>108</td>
+		<td>1003</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -2068,7 +2068,7 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Guadalajara Jalisco Mxico</td>
 		<td>55</td>
-		<td>948</td>
+		<td>950</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -3496,7 +3496,7 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
 		<td>257</td>
-		<td>549</td>
+		<td>550</td>
 	</tr>
 	<tr>
 		<td>243</td>
@@ -8877,6 +8877,20 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 	<tr>
 		<td>627</td>
 		<td>
+			<a target="_blank" href="https://github.com/ggcrunchy">
+				<img src="https://avatars.githubusercontent.com/u/1261363?s=72&v=4" width="24" alt="Avatar of ggcrunchy"/> ggcrunchy
+			</a><br/>
+			Steven Johnson
+		</td>
+		<td>Xibalba Studios </td>
+		<td>No Twitter Username</td>
+		<td>Monterrey MX</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
 			<a target="_blank" href="https://github.com/foobar404">
 				<img src="https://avatars.githubusercontent.com/u/28680349?s=72&u=f77aa6bb628b32ba9b47149e64e1f13bfa9d3845&v=4" width="24" alt="Avatar of foobar404"/> foobar404
 			</a><br/>
@@ -8889,7 +8903,7 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a target="_blank" href="https://github.com/AliciaMstt">
 				<img src="https://avatars.githubusercontent.com/u/5412404?s=72&u=b4682f4dd27d4ec3a5a423cf19ff78eec533702e&v=4" width="24" alt="Avatar of AliciaMstt"/> AliciaMstt
@@ -8900,20 +8914,6 @@ There are `962 users`  in Mexico. You need at least `37 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/AliciaMstt">AliciaMstt</a></td>
 		<td>Mexico</td>
 		<td>35</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
-			<a target="_blank" href="https://github.com/ggcrunchy">
-				<img src="https://avatars.githubusercontent.com/u/1261363?s=72&v=4" width="24" alt="Avatar of ggcrunchy"/> ggcrunchy
-			</a><br/>
-			Steven Johnson
-		</td>
-		<td>Xibalba Studios </td>
-		<td>No Twitter Username</td>
-		<td>Monterrey MX</td>
-		<td>37</td>
 		<td>37</td>
 	</tr>
 	<tr>
