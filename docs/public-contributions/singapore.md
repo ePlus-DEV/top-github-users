@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Singapore
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore"/>
 </a>
 
-The `public contributions` by users in Singapore on `2025/9/15 9:16 AM UTC`. This list contains users from Singapore and citiesSingapore and cities.
+The `public contributions` by users in Singapore on `2025/9/15 9:43 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@apache Nuttx Rtos Pmc<br/></td>
 		<td><a target="_blank" href="https://twitter.com/MisterTechBlog">MisterTechBlog</a></td>
 		<td>Singapore</td>
-		<td>35815</td>
+		<td>35855</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Ecrox Chain Labs </td>
 		<td><a target="_blank" href="https://twitter.com/ecroxchain">ecroxchain</a></td>
 		<td>Singapore</td>
-		<td>27733</td>
+		<td>28032</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,7 +146,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ZhongRuoyu">ZhongRuoyu</a></td>
 		<td>Singapore</td>
-		<td>6935</td>
+		<td>7373</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -172,7 +172,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Uestc </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>5342</td>
+		<td>5343</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -198,7 +198,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>National University Of Singapore<br/></td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>3497</td>
+		<td>3511</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -211,7 +211,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Apple </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>3094</td>
+		<td>3096</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -237,7 +237,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/Brooooook_lyn">Brooooook_lyn</a></td>
 		<td>Singapore</td>
-		<td>2428</td>
+		<td>2429</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -263,7 +263,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@nerdsodde  </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>2192</td>
+		<td>2194</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -289,7 +289,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1984</td>
+		<td>1989</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -302,7 +302,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Unemployed Since Jul22 </td>
 		<td><a target="_blank" href="https://twitter.com/cheeaun">cheeaun</a></td>
 		<td>Singapore</td>
-		<td>1843</td>
+		<td>1849</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -315,7 +315,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Nanyang Technology University </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1839</td>
+		<td>1840</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -328,7 +328,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1815</td>
+		<td>1818</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -341,7 +341,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1733</td>
+		<td>1735</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -367,7 +367,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Httpslegendappcom </td>
 		<td><a target="_blank" href="https://twitter.com/jmeistrich">jmeistrich</a></td>
 		<td>Singapore</td>
-		<td>1703</td>
+		<td>1705</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -419,7 +419,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1458</td>
+		<td>1459</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -471,7 +471,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jinglescode">jinglescode</a></td>
 		<td>Singapore</td>
-		<td>1388</td>
+		<td>1396</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -484,7 +484,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@supabase </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1380</td>
+		<td>1384</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -510,7 +510,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Straive </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1350</td>
+		<td>1353</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -536,7 +536,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Natural Selection Labs </td>
 		<td><a target="_blank" href="https://twitter.com/DIYdoge">DIYdoge</a></td>
 		<td>Singapore</td>
-		<td>1292</td>
+		<td>1293</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -554,6 +554,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>35</td>
 		<td>
+			<a target="_blank" href="https://github.com/BugenZhao">
+				<img src="https://avatars.githubusercontent.com/u/25862682?s=72&u=18e49829c8c6b426cf66e25f2523ee6bd3118b6a&v=4" width="24" alt="Avatar of BugenZhao"/> BugenZhao
+			</a><br/>
+			Bugen Zhao
+		</td>
+		<td>@risingwavelabs </td>
+		<td><a target="_blank" href="https://twitter.com/BugenZhao">BugenZhao</a></td>
+		<td>Singapore</td>
+		<td>1289</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a target="_blank" href="https://github.com/zhengruifeng">
 				<img src="https://avatars.githubusercontent.com/u/7322292?s=72&u=02f5c5fb8f774015ebd31fb9105cdb8dc3b24add&v=4" width="24" alt="Avatar of zhengruifeng"/> zhengruifeng
 			</a><br/>
@@ -563,19 +576,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Beijing  Singapore</td>
 		<td>1282</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a target="_blank" href="https://github.com/BugenZhao">
-				<img src="https://avatars.githubusercontent.com/u/25862682?s=72&u=18e49829c8c6b426cf66e25f2523ee6bd3118b6a&v=4" width="24" alt="Avatar of BugenZhao"/> BugenZhao
-			</a><br/>
-			Bugen Zhao
-		</td>
-		<td>@risingwavelabs </td>
-		<td><a target="_blank" href="https://twitter.com/BugenZhao">BugenZhao</a></td>
-		<td>Singapore</td>
-		<td>1280</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -692,7 +692,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Risingwave Labs </td>
 		<td><a target="_blank" href="https://twitter.com/DylanGalois">DylanGalois</a></td>
 		<td>Singapore</td>
-		<td>1061</td>
+		<td>1062</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -744,7 +744,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/pwnedmio">pwnedmio</a></td>
 		<td>Singapore</td>
-		<td>1021</td>
+		<td>1022</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -757,7 +757,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Tinkertanker </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1014</td>
+		<td>1018</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -796,7 +796,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Nbits Labs  Excoinhako<br/></td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>946</td>
+		<td>947</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -835,7 +835,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>921</td>
+		<td>923</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -853,19 +853,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>58</td>
 		<td>
-			<a target="_blank" href="https://github.com/unclecode">
-				<img src="https://avatars.githubusercontent.com/u/12494079?s=72&u=413d68156031fdfe74861491b75ffe6d426d8228&v=4" width="24" alt="Avatar of unclecode"/> unclecode
-			</a><br/>
-			UncleCode
-		</td>
-		<td>Alephnul And Kidocode </td>
-		<td><a target="_blank" href="https://twitter.com/unclecode">unclecode</a></td>
-		<td>Singapore</td>
-		<td>854</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
 			<a target="_blank" href="https://github.com/TalEliyahu">
 				<img src="https://avatars.githubusercontent.com/u/31100945?s=72&u=a9a7914eba602be04a0e06ed506e7cd91bb02e2e&v=4" width="24" alt="Avatar of TalEliyahu"/> TalEliyahu
 			</a><br/>
@@ -873,6 +860,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/Eliyahu_Tal_">Eliyahu_Tal_</a></td>
+		<td>Singapore</td>
+		<td>857</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a target="_blank" href="https://github.com/unclecode">
+				<img src="https://avatars.githubusercontent.com/u/12494079?s=72&u=413d68156031fdfe74861491b75ffe6d426d8228&v=4" width="24" alt="Avatar of unclecode"/> unclecode
+			</a><br/>
+			UncleCode
+		</td>
+		<td>Alephnul And Kidocode </td>
+		<td><a target="_blank" href="https://twitter.com/unclecode">unclecode</a></td>
 		<td>Singapore</td>
 		<td>854</td>
 	</tr>
@@ -913,23 +913,10 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Fossasia </td>
 		<td><a target="_blank" href="https://twitter.com/mariobehling">mariobehling</a></td>
 		<td>Singapore</td>
-		<td>842</td>
+		<td>843</td>
 	</tr>
 	<tr>
 		<td>63</td>
-		<td>
-			<a target="_blank" href="https://github.com/lyqht">
-				<img src="https://avatars.githubusercontent.com/u/35736525?s=72&u=fe3c97ae45263ad982eb246e3ce961c725cf74da&v=4" width="24" alt="Avatar of lyqht"/> lyqht
-			</a><br/>
-			Estee Tey
-		</td>
-		<td>@padlet </td>
-		<td><a target="_blank" href="https://twitter.com/estee_tey">estee_tey</a></td>
-		<td>Singapore</td>
-		<td>830</td>
-	</tr>
-	<tr>
-		<td>64</td>
 		<td>
 			<a target="_blank" href="https://github.com/gau-nernst">
 				<img src="https://avatars.githubusercontent.com/u/26946864?s=72&v=4" width="24" alt="Avatar of gau-nernst"/> gau-nernst
@@ -938,6 +925,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/gaunernst">gaunernst</a></td>
+		<td>Singapore</td>
+		<td>833</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a target="_blank" href="https://github.com/lyqht">
+				<img src="https://avatars.githubusercontent.com/u/35736525?s=72&u=fe3c97ae45263ad982eb246e3ce961c725cf74da&v=4" width="24" alt="Avatar of lyqht"/> lyqht
+			</a><br/>
+			Estee Tey
+		</td>
+		<td>@padlet </td>
+		<td><a target="_blank" href="https://twitter.com/estee_tey">estee_tey</a></td>
 		<td>Singapore</td>
 		<td>830</td>
 	</tr>
@@ -978,7 +978,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>806</td>
+		<td>808</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -991,7 +991,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Purslane Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>801</td>
+		<td>802</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1004,7 +1004,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@shopee </td>
 		<td><a target="_blank" href="https://twitter.com/LeonHuayra">LeonHuayra</a></td>
 		<td>Singapore</td>
-		<td>799</td>
+		<td>800</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1017,7 +1017,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@ithacaxyz  </td>
 		<td><a target="_blank" href="https://twitter.com/chiayong_">chiayong_</a></td>
 		<td>Singapore</td>
-		<td>783</td>
+		<td>785</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1134,7 +1134,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Singapore </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>684</td>
+		<td>685</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1173,7 +1173,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>679</td>
+		<td>681</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1186,7 +1186,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Nanyang Technological University Singapore<br/></td>
 		<td><a target="_blank" href="https://twitter.com/xiaotaoshen1990">xiaotaoshen1990</a></td>
 		<td>Singapore</td>
-		<td>672</td>
+		<td>674</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1212,7 +1212,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Abaxxtech </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>643</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1225,23 +1225,10 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@deliveryhero Ex@perxtech </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>612</td>
+		<td>617</td>
 	</tr>
 	<tr>
 		<td>87</td>
-		<td>
-			<a target="_blank" href="https://github.com/timlrx">
-				<img src="https://avatars.githubusercontent.com/u/28362229?s=72&u=9a745ca31372ee324af682715ae88ce8522f9094&v=4" width="24" alt="Avatar of timlrx"/> timlrx
-			</a><br/>
-			Timothy
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/timlrxx">timlrxx</a></td>
-		<td>Singapore</td>
-		<td>606</td>
-	</tr>
-	<tr>
-		<td>88</td>
 		<td>
 			<a target="_blank" href="https://github.com/gaqzi">
 				<img src="https://avatars.githubusercontent.com/u/18167?s=72&v=4" width="24" alt="Avatar of gaqzi"/> gaqzi
@@ -1251,7 +1238,20 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>605</td>
+		<td>612</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a target="_blank" href="https://github.com/timlrx">
+				<img src="https://avatars.githubusercontent.com/u/28362229?s=72&u=9a745ca31372ee324af682715ae88ce8522f9094&v=4" width="24" alt="Avatar of timlrx"/> timlrx
+			</a><br/>
+			Timothy
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/timlrxx">timlrxx</a></td>
+		<td>Singapore</td>
+		<td>610</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1290,7 +1290,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>595</td>
+		<td>597</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1316,7 +1316,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/solirc_">solirc_</a></td>
 		<td>Singapore</td>
-		<td>579</td>
+		<td>581</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1355,7 +1355,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>573</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1381,7 +1381,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/alex_xiong_">alex_xiong_</a></td>
 		<td>Singapore</td>
-		<td>563</td>
+		<td>564</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1485,7 +1485,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@risingwavelabs  </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>528</td>
+		<td>530</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1524,20 +1524,20 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@taptap @xindong  </td>
 		<td><a target="_blank" href="https://twitter.com/xdanger">xdanger</a></td>
 		<td>Singapore</td>
-		<td>521</td>
+		<td>522</td>
 	</tr>
 	<tr>
 		<td>110</td>
 		<td>
-			<a target="_blank" href="https://github.com/angerman">
-				<img src="https://avatars.githubusercontent.com/u/40449?s=72&u=bb3a7f932cea7c9d7b7775ab5b26bc0b265af0f5&v=4" width="24" alt="Avatar of angerman"/> angerman
+			<a target="_blank" href="https://github.com/QinghongLin">
+				<img src="https://avatars.githubusercontent.com/u/103281027?s=72&v=4" width="24" alt="Avatar of QinghongLin"/> QinghongLin
 			</a><br/>
-			Moritz Angermann
+			Kevin
 		</td>
-		<td>@inputoutputhk  </td>
-		<td><a target="_blank" href="https://twitter.com/4ngerman">4ngerman</a></td>
-		<td>Singapore Singapore</td>
-		<td>520</td>
+		<td>National University Of Singapore<br/></td>
+		<td><a target="_blank" href="https://twitter.com/KevinQHLin">KevinQHLin</a></td>
+		<td>Singapore</td>
+		<td>521</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1550,10 +1550,23 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Foosn And Kosagi </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>519</td>
+		<td>520</td>
 	</tr>
 	<tr>
 		<td>112</td>
+		<td>
+			<a target="_blank" href="https://github.com/angerman">
+				<img src="https://avatars.githubusercontent.com/u/40449?s=72&u=bb3a7f932cea7c9d7b7775ab5b26bc0b265af0f5&v=4" width="24" alt="Avatar of angerman"/> angerman
+			</a><br/>
+			Moritz Angermann
+		</td>
+		<td>@inputoutputhk  </td>
+		<td><a target="_blank" href="https://twitter.com/4ngerman">4ngerman</a></td>
+		<td>Singapore Singapore</td>
+		<td>520</td>
+	</tr>
+	<tr>
+		<td>113</td>
 		<td>
 			<a target="_blank" href="https://github.com/qin-guan">
 				<img src="https://avatars.githubusercontent.com/u/10321883?s=72&u=8229002f33f4ab55f977a6734f6e4f9376981fd0&v=4" width="24" alt="Avatar of qin-guan"/> qin-guan
@@ -1562,19 +1575,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>Hire Me Plz </td>
 		<td><a target="_blank" href="https://twitter.com/qinguan2004">qinguan2004</a></td>
-		<td>Singapore</td>
-		<td>519</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a target="_blank" href="https://github.com/QinghongLin">
-				<img src="https://avatars.githubusercontent.com/u/103281027?s=72&v=4" width="24" alt="Avatar of QinghongLin"/> QinghongLin
-			</a><br/>
-			Kevin
-		</td>
-		<td>National University Of Singapore<br/></td>
-		<td><a target="_blank" href="https://twitter.com/KevinQHLin">KevinQHLin</a></td>
 		<td>Singapore</td>
 		<td>519</td>
 	</tr>
@@ -1641,7 +1641,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/chuongmep">chuongmep</a></td>
 		<td>Singapore</td>
-		<td>489</td>
+		<td>492</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1654,7 +1654,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>National University Of Singapore<br/></td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>472</td>
+		<td>473</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -1823,7 +1823,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>402</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1901,7 +1901,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>374</td>
+		<td>375</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -1979,7 +1979,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@crossentropyai  </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>355</td>
+		<td>356</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -1992,7 +1992,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>Sea Ai Lab @sailsg<br/></td>
 		<td><a target="_blank" href="https://twitter.com/zzlccc">zzlccc</a></td>
 		<td>Singapore</td>
-		<td>350</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2010,6 +2010,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>147</td>
 		<td>
+			<a target="_blank" href="https://github.com/u1i">
+				<img src="https://avatars.githubusercontent.com/u/27874591?s=72&u=51490f4aa192b12aa3dee7a9d3a5b76c6153ffd5&v=4" width="24" alt="Avatar of u1i"/> u1i
+			</a><br/>
+			Uli
+		</td>
+		<td>Electric Minds </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>349</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
 			<a target="_blank" href="https://github.com/tskam">
 				<img src="https://avatars.githubusercontent.com/u/678204?s=72&v=4" width="24" alt="Avatar of tskam"/> tskam
 			</a><br/>
@@ -2019,19 +2032,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>348</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a target="_blank" href="https://github.com/u1i">
-				<img src="https://avatars.githubusercontent.com/u/27874591?s=72&u=51490f4aa192b12aa3dee7a9d3a5b76c6153ffd5&v=4" width="24" alt="Avatar of u1i"/> u1i
-			</a><br/>
-			Uli
-		</td>
-		<td>Electric Minds </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>346</td>
 	</tr>
 	<tr>
 		<td>149</td>
@@ -2057,7 +2057,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@mobbin  </td>
 		<td><a target="_blank" href="https://twitter.com/bnjmnt4n">bnjmnt4n</a></td>
 		<td>Singapore</td>
-		<td>342</td>
+		<td>343</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2101,6 +2101,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>154</td>
 		<td>
+			<a target="_blank" href="https://github.com/micheloosterhof">
+				<img src="https://avatars.githubusercontent.com/u/1063043?s=72&v=4" width="24" alt="Avatar of micheloosterhof"/> micheloosterhof
+			</a><br/>
+			Michel Oosterhof
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/micheloosterhof">micheloosterhof</a></td>
+		<td>Singapore</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
 			<a target="_blank" href="https://github.com/geocine">
 				<img src="https://avatars.githubusercontent.com/u/507464?s=72&u=7a5baefc133ef3d759822130abc393d8b8d0a187&v=4" width="24" alt="Avatar of geocine"/> geocine
 			</a><br/>
@@ -2112,7 +2125,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/decster">
 				<img src="https://avatars.githubusercontent.com/u/193300?s=72&u=989127cccee095f3565ad640d5d2232416aba6cc&v=4" width="24" alt="Avatar of decster"/> decster
@@ -2125,7 +2138,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a target="_blank" href="https://github.com/gitaalekhyapaul">
 				<img src="https://avatars.githubusercontent.com/u/54375111?s=72&u=649591dadcd65cc67cc3d4b79504efeb803b3a3f&v=4" width="24" alt="Avatar of gitaalekhyapaul"/> gitaalekhyapaul
@@ -2138,7 +2151,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a target="_blank" href="https://github.com/arkbriar">
 				<img src="https://avatars.githubusercontent.com/u/8898435?s=72&u=169643def91ab48f5606e291ceee7e24a2bcd9cb&v=4" width="24" alt="Avatar of arkbriar"/> arkbriar
@@ -2151,7 +2164,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a target="_blank" href="https://github.com/BinWang28">
 				<img src="https://avatars.githubusercontent.com/u/25280416?s=72&u=87db4253fe8c2990337e5e7b4079b75327963197&v=4" width="24" alt="Avatar of BinWang28"/> BinWang28
@@ -2164,7 +2177,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tecvan-fe">
 				<img src="https://avatars.githubusercontent.com/u/84165678?s=72&u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4" width="24" alt="Avatar of Tecvan-fe"/> Tecvan-fe
@@ -2177,7 +2190,20 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
+		<td>
+			<a target="_blank" href="https://github.com/vincentneo">
+				<img src="https://avatars.githubusercontent.com/u/23420208?s=72&u=e6ffb39b959bb998f1167dd8617ba05ede83865e&v=4" width="24" alt="Avatar of vincentneo"/> vincentneo
+			</a><br/>
+			Vincent Neo
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/iVincentNeo">iVincentNeo</a></td>
+		<td>Singapore</td>
+		<td>313</td>
+	</tr>
+	<tr>
+		<td>162</td>
 		<td>
 			<a target="_blank" href="https://github.com/notthetup">
 				<img src="https://avatars.githubusercontent.com/u/553140?s=72&u=8ffb92fd35b0d172904b8e1a542fecc0285eaeb9&v=4" width="24" alt="Avatar of notthetup"/> notthetup
@@ -2190,20 +2216,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>161</td>
-		<td>
-			<a target="_blank" href="https://github.com/vincentneo">
-				<img src="https://avatars.githubusercontent.com/u/23420208?s=72&u=e6ffb39b959bb998f1167dd8617ba05ede83865e&v=4" width="24" alt="Avatar of vincentneo"/> vincentneo
-			</a><br/>
-			Vincent Neo
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/iVincentNeo">iVincentNeo</a></td>
-		<td>Singapore</td>
-		<td>312</td>
-	</tr>
-	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a target="_blank" href="https://github.com/tetratorus">
 				<img src="https://avatars.githubusercontent.com/u/4226174?s=72&u=ef2c3dbd202b0988b626845c4c3c13d6cc2249c7&v=4" width="24" alt="Avatar of tetratorus"/> tetratorus
@@ -2214,19 +2227,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>311</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a target="_blank" href="https://github.com/micheloosterhof">
-				<img src="https://avatars.githubusercontent.com/u/1063043?s=72&v=4" width="24" alt="Avatar of micheloosterhof"/> micheloosterhof
-			</a><br/>
-			Michel Oosterhof
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/micheloosterhof">micheloosterhof</a></td>
-		<td>Singapore</td>
-		<td>306</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2244,6 +2244,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>165</td>
 		<td>
+			<a target="_blank" href="https://github.com/JaredTan95">
+				<img src="https://avatars.githubusercontent.com/u/12468337?s=72&u=3fe578fd44dcaca5fe67607d4a50258cfef080d9&v=4" width="24" alt="Avatar of JaredTan95"/> JaredTan95
+			</a><br/>
+			Jared Tan
+		</td>
+		<td>@daocloud @apache  </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>304</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a target="_blank" href="https://github.com/juzhiyuan">
 				<img src="https://avatars.githubusercontent.com/u/2106987?s=72&u=57254c8b979f446c149a0b3a152fc8b9b738fbc2&v=4" width="24" alt="Avatar of juzhiyuan"/> juzhiyuan
 			</a><br/>
@@ -2255,7 +2268,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/sajal2692">
 				<img src="https://avatars.githubusercontent.com/u/12205993?s=72&u=c4483f577ce2b9f48d1671f0e64c35a08801cffb&v=4" width="24" alt="Avatar of sajal2692"/> sajal2692
@@ -2266,19 +2279,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>300</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a target="_blank" href="https://github.com/JaredTan95">
-				<img src="https://avatars.githubusercontent.com/u/12468337?s=72&u=3fe578fd44dcaca5fe67607d4a50258cfef080d9&v=4" width="24" alt="Avatar of JaredTan95"/> JaredTan95
-			</a><br/>
-			Jared Tan
-		</td>
-		<td>@daocloud @apache  </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>299</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2629,7 +2629,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>National University Of Singapore<br/></td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>248</td>
+		<td>249</td>
 	</tr>
 	<tr>
 		<td>195</td>
@@ -2785,7 +2785,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@bytedance </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>222</td>
+		<td>223</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2954,7 +2954,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>@tencent </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>208</td>
+		<td>209</td>
 	</tr>
 	<tr>
 		<td>220</td>
@@ -2980,7 +2980,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>202</td>
+		<td>203</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -3167,19 +3167,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>236</td>
 		<td>
-			<a target="_blank" href="https://github.com/momika233">
-				<img src="https://avatars.githubusercontent.com/u/56291820?s=72&u=0e0aa33057f10e55f6ec399b11e4998522411444&v=4" width="24" alt="Avatar of momika233"/> momika233
-			</a><br/>
-			momika233
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/momika233">momika233</a></td>
-		<td>Singapore</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>237</td>
-		<td>
 			<a target="_blank" href="https://github.com/joway">
 				<img src="https://avatars.githubusercontent.com/u/8353464?s=72&u=b7d742d93e21df67ec496df8067487020a297dc2&v=4" width="24" alt="Avatar of joway"/> joway
 			</a><br/>
@@ -3191,7 +3178,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>237</td>
 		<td>
 			<a target="_blank" href="https://github.com/loongy">
 				<img src="https://avatars.githubusercontent.com/u/6580801?s=72&u=c1671919afadf708b56f1e2fe57b86a62b7b05c8&v=4" width="24" alt="Avatar of loongy"/> loongy
@@ -3204,7 +3191,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>238</td>
 		<td>
 			<a target="_blank" href="https://github.com/soujanyaporia">
 				<img src="https://avatars.githubusercontent.com/u/40890991?s=72&u=1b14895446f015fb6095b710280c88b5bfd10ca4&v=4" width="24" alt="Avatar of soujanyaporia"/> soujanyaporia
@@ -3217,7 +3204,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>239</td>
 		<td>
 			<a target="_blank" href="https://github.com/btzy">
 				<img src="https://avatars.githubusercontent.com/u/6948096?s=72&u=0a92ce049f19abc1c9e47f055233754c2147ea59&v=4" width="24" alt="Avatar of btzy"/> btzy
@@ -3230,7 +3217,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>240</td>
 		<td>
 			<a target="_blank" href="https://github.com/PicoCreator">
 				<img src="https://avatars.githubusercontent.com/u/17175484?s=72&u=9c73b5bc14d6d1430d3cef61fa6aa0aa74e185b3&v=4" width="24" alt="Avatar of PicoCreator"/> PicoCreator
@@ -3243,7 +3230,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>241</td>
 		<td>
 			<a target="_blank" href="https://github.com/wawa0210">
 				<img src="https://avatars.githubusercontent.com/u/7907809?s=72&u=c9ec79a804de61fe7ec83e8f62a4bbe91b23c1b1&v=4" width="24" alt="Avatar of wawa0210"/> wawa0210
@@ -3256,7 +3243,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>242</td>
 		<td>
 			<a target="_blank" href="https://github.com/hpdang">
 				<img src="https://avatars.githubusercontent.com/u/1658742?s=72&u=47f83edbdae3ede5eba1aca10ea3eb378a74b8fd&v=4" width="24" alt="Avatar of hpdang"/> hpdang
@@ -3269,7 +3256,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>243</td>
 		<td>
 			<a target="_blank" href="https://github.com/ztjhz">
 				<img src="https://avatars.githubusercontent.com/u/59118459?s=72&u=4b15efa2be0f71a1e61d6af0baea5ea036a73a44&v=4" width="24" alt="Avatar of ztjhz"/> ztjhz
@@ -3282,7 +3269,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>244</td>
 		<td>
 			<a target="_blank" href="https://github.com/JSeam2">
 				<img src="https://avatars.githubusercontent.com/u/22354889?s=72&u=93224406d415abaf8ab43c064630a41c5e01a9f3&v=4" width="24" alt="Avatar of JSeam2"/> JSeam2
@@ -3295,7 +3282,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>245</td>
 		<td>
 			<a target="_blank" href="https://github.com/uzyn">
 				<img src="https://avatars.githubusercontent.com/u/280505?s=72&u=0b437c7004bf969b7718fa223423a5ce09154f94&v=4" width="24" alt="Avatar of uzyn"/> uzyn
@@ -3308,7 +3295,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a target="_blank" href="https://github.com/ncduy0303">
 				<img src="https://avatars.githubusercontent.com/u/29711188?s=72&u=9cd4256c3e4df4bdb095d5fa672f450fe10b063d&v=4" width="24" alt="Avatar of ncduy0303"/> ncduy0303
@@ -3321,7 +3308,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>247</td>
 		<td>
 			<a target="_blank" href="https://github.com/HeegerGao">
 				<img src="https://avatars.githubusercontent.com/u/48041218?s=72&u=32f6a4758ec056a8a90950f229ad449790689346&v=4" width="24" alt="Avatar of HeegerGao"/> HeegerGao
@@ -3334,7 +3321,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>248</td>
 		<td>
 			<a target="_blank" href="https://github.com/tinyAdapter">
 				<img src="https://avatars.githubusercontent.com/u/8264895?s=72&u=6df83547382f3db70710f8a41a32c74bda0e575d&v=4" width="24" alt="Avatar of tinyAdapter"/> tinyAdapter
@@ -3347,7 +3334,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a target="_blank" href="https://github.com/fbiljecki">
 				<img src="https://avatars.githubusercontent.com/u/2338506?s=72&u=0e96067e3da311be2c9573898fc8a7f8284010a6&v=4" width="24" alt="Avatar of fbiljecki"/> fbiljecki
@@ -3360,7 +3347,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a target="_blank" href="https://github.com/fikriauliya">
 				<img src="https://avatars.githubusercontent.com/u/341555?s=72&u=632c9773bed26eaa7db7778f710908050eb961cb&v=4" width="24" alt="Avatar of fikriauliya"/> fikriauliya
@@ -3373,7 +3360,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>251</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuankunzhang">
 				<img src="https://avatars.githubusercontent.com/u/10398845?s=72&u=6edd9dca3fe7d6d438c21185a6995000457fc2f1&v=4" width="24" alt="Avatar of yuankunzhang"/> yuankunzhang
@@ -3382,6 +3369,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a target="_blank" href="https://github.com/momika233">
+				<img src="https://avatars.githubusercontent.com/u/56291820?s=72&u=0e0aa33057f10e55f6ec399b11e4998522411444&v=4" width="24" alt="Avatar of momika233"/> momika233
+			</a><br/>
+			momika233
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/momika233">momika233</a></td>
 		<td>Singapore</td>
 		<td>168</td>
 	</tr>
@@ -3505,6 +3505,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>262</td>
 		<td>
+			<a target="_blank" href="https://github.com/benjypng">
+				<img src="https://avatars.githubusercontent.com/u/47936793?s=72&u=869ca490ac8492cdc3ce77ad6d181e7cb109db1d&v=4" width="24" alt="Avatar of benjypng"/> benjypng
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/hkgnp">hkgnp</a></td>
+		<td>Singapore</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
 			<a target="_blank" href="https://github.com/xizaoqu">
 				<img src="https://avatars.githubusercontent.com/u/45515569?s=72&v=4" width="24" alt="Avatar of xizaoqu"/> xizaoqu
 			</a><br/>
@@ -3514,19 +3527,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td><a target="_blank" href="https://twitter.com/zeqi_xiao">zeqi_xiao</a></td>
 		<td>Singapore</td>
 		<td>154</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a target="_blank" href="https://github.com/benjypng">
-				<img src="https://avatars.githubusercontent.com/u/47936793?s=72&u=869ca490ac8492cdc3ce77ad6d181e7cb109db1d&v=4" width="24" alt="Avatar of benjypng"/> benjypng
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/hkgnp">hkgnp</a></td>
-		<td>Singapore</td>
-		<td>152</td>
 	</tr>
 	<tr>
 		<td>264</td>
@@ -3700,6 +3700,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>277</td>
 		<td>
+			<a target="_blank" href="https://github.com/ShaunLWM">
+				<img src="https://avatars.githubusercontent.com/u/37434846?s=72&u=7010f769b616323199b08487ee87da7c0aba6216&v=4" width="24" alt="Avatar of ShaunLWM"/> ShaunLWM
+			</a><br/>
+			Shaun
+		</td>
+		<td>@secretkeylabs </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
 			<a target="_blank" href="https://github.com/mcuee">
 				<img src="https://avatars.githubusercontent.com/u/1294740?s=72&v=4" width="24" alt="Avatar of mcuee"/> mcuee
 			</a><br/>
@@ -3711,7 +3724,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a target="_blank" href="https://github.com/KaihuaTang">
 				<img src="https://avatars.githubusercontent.com/u/24402685?s=72&u=284dbea01463cc22014fb99ca31b31bb786cb192&v=4" width="24" alt="Avatar of KaihuaTang"/> KaihuaTang
@@ -3724,7 +3737,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>280</td>
 		<td>
 			<a target="_blank" href="https://github.com/freelerobot">
 				<img src="https://avatars.githubusercontent.com/u/69952136?s=72&u=af42e69573d9a06cc3358905c69383e34c79f46c&v=4" width="24" alt="Avatar of freelerobot"/> freelerobot
@@ -3737,7 +3750,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a target="_blank" href="https://github.com/prasannavl">
 				<img src="https://avatars.githubusercontent.com/u/559409?s=72&u=f12f7dd3c009cd043d6ab171637fde95b3ca422c&v=4" width="24" alt="Avatar of prasannavl"/> prasannavl
@@ -3750,7 +3763,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a target="_blank" href="https://github.com/chocnut">
 				<img src="https://avatars.githubusercontent.com/u/291424?s=72&v=4" width="24" alt="Avatar of chocnut"/> chocnut
@@ -3758,19 +3771,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 			Peter Indiola
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a target="_blank" href="https://github.com/ShaunLWM">
-				<img src="https://avatars.githubusercontent.com/u/37434846?s=72&u=7010f769b616323199b08487ee87da7c0aba6216&v=4" width="24" alt="Avatar of ShaunLWM"/> ShaunLWM
-			</a><br/>
-			Shaun
-		</td>
-		<td>@secretkeylabs </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>137</td>
@@ -4038,6 +4038,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>303</td>
 		<td>
+			<a target="_blank" href="https://github.com/knmnyn">
+				<img src="https://avatars.githubusercontent.com/u/217067?s=72&u=76e6f578d40c9c33a5edb86f745e490e34b1bbdf&v=4" width="24" alt="Avatar of knmnyn"/> knmnyn
+			</a><br/>
+			MinYen Kan
+		</td>
+		<td>National University Of Singapore<br/>@wingnus<br/><br/></td>
+		<td><a target="_blank" href="https://twitter.com/knmnyn">knmnyn</a></td>
+		<td>Singapore</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
 			<a target="_blank" href="https://github.com/michaelisvy">
 				<img src="https://avatars.githubusercontent.com/u/1440137?s=72&u=a747039caea6fd198980af2a429417d4a4f98d40&v=4" width="24" alt="Avatar of michaelisvy"/> michaelisvy
 			</a><br/>
@@ -4049,7 +4062,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a target="_blank" href="https://github.com/pioug">
 				<img src="https://avatars.githubusercontent.com/u/3654180?s=72&u=c5206071d58424c0a084196578278af814fd3817&v=4" width="24" alt="Avatar of pioug"/> pioug
@@ -4062,7 +4075,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a target="_blank" href="https://github.com/fish98">
 				<img src="https://avatars.githubusercontent.com/u/33076808?s=72&u=f2e96c6c2be45208317a458a33d713090e9ee0d8&v=4" width="24" alt="Avatar of fish98"/> fish98
@@ -4073,19 +4086,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>119</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a target="_blank" href="https://github.com/knmnyn">
-				<img src="https://avatars.githubusercontent.com/u/217067?s=72&u=76e6f578d40c9c33a5edb86f745e490e34b1bbdf&v=4" width="24" alt="Avatar of knmnyn"/> knmnyn
-			</a><br/>
-			MinYen Kan
-		</td>
-		<td>National University Of Singapore<br/>@wingnus<br/><br/></td>
-		<td><a target="_blank" href="https://twitter.com/knmnyn">knmnyn</a></td>
-		<td>Singapore</td>
-		<td>118</td>
 	</tr>
 	<tr>
 		<td>307</td>
@@ -5572,19 +5572,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>421</td>
 		<td>
-			<a target="_blank" href="https://github.com/GreyDGL">
-				<img src="https://avatars.githubusercontent.com/u/78410652?s=72&v=4" width="24" alt="Avatar of GreyDGL"/> GreyDGL
-			</a><br/>
-			Gelei Deng
-		</td>
-		<td>Quantstamp Inc </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
 			<a target="_blank" href="https://github.com/ChaoyueSong">
 				<img src="https://avatars.githubusercontent.com/u/56154447?s=72&u=bd5e8fc3b7119918e14aa56a9fa0bec68a598b0c&v=4" width="24" alt="Avatar of ChaoyueSong"/> ChaoyueSong
 			</a><br/>
@@ -5592,6 +5579,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>Nanyang Technological University </td>
 		<td><a target="_blank" href="https://twitter.com/chaoyue_song">chaoyue_song</a></td>
+		<td>Singapore</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a target="_blank" href="https://github.com/GreyDGL">
+				<img src="https://avatars.githubusercontent.com/u/78410652?s=72&v=4" width="24" alt="Avatar of GreyDGL"/> GreyDGL
+			</a><br/>
+			Gelei Deng
+		</td>
+		<td>Quantstamp Inc </td>
+		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>51</td>
 	</tr>
@@ -5637,6 +5637,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>426</td>
 		<td>
+			<a target="_blank" href="https://github.com/nvh95">
+				<img src="https://avatars.githubusercontent.com/u/8603085?s=72&v=4" width="24" alt="Avatar of nvh95"/> nvh95
+			</a><br/>
+			Hung Viet Nguyen
+		</td>
+		<td>@nutonomy </td>
+		<td><a target="_blank" href="https://twitter.com/hung_dev">hung_dev</a></td>
+		<td>Singapore</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
 			<a target="_blank" href="https://github.com/IceClear">
 				<img src="https://avatars.githubusercontent.com/u/22350795?s=72&u=72c242759ed97d04d5ee5fcd6d63722dbbca22f9&v=4" width="24" alt="Avatar of IceClear"/> IceClear
 			</a><br/>
@@ -5648,7 +5661,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a target="_blank" href="https://github.com/DulanjaliSenarathna">
 				<img src="https://avatars.githubusercontent.com/u/59603716?s=72&u=a55de1e282c9a69535d84c5413d3072e93b33288&v=4" width="24" alt="Avatar of DulanjaliSenarathna"/> DulanjaliSenarathna
@@ -5661,7 +5674,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a target="_blank" href="https://github.com/xujihui1985">
 				<img src="https://avatars.githubusercontent.com/u/1619030?s=72&u=76981e763feca0b01fdadf39dbc61afc4df7df6f&v=4" width="24" alt="Avatar of xujihui1985"/> xujihui1985
@@ -5674,7 +5687,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>430</td>
 		<td>
 			<a target="_blank" href="https://github.com/coyorkdow">
 				<img src="https://avatars.githubusercontent.com/u/30541655?s=72&u=c99c8e3dbcb93009ad41959b331f1153d03fad7d&v=4" width="24" alt="Avatar of coyorkdow"/> coyorkdow
@@ -5687,7 +5700,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/halfrost">
 				<img src="https://avatars.githubusercontent.com/u/10825609?s=72&u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4" width="24" alt="Avatar of halfrost"/> halfrost
@@ -5700,7 +5713,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
 			<a target="_blank" href="https://github.com/1989Ryan">
 				<img src="https://avatars.githubusercontent.com/u/32127430?s=72&u=76f2b175268c5205220519acd1c343baefa9a63a&v=4" width="24" alt="Avatar of 1989Ryan"/> 1989Ryan
@@ -5713,7 +5726,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a target="_blank" href="https://github.com/Barca0412">
 				<img src="https://avatars.githubusercontent.com/u/92302656?s=72&u=ee4a8a718a69429f6254a090181c2528641f491a&v=4" width="24" alt="Avatar of Barca0412"/> Barca0412
@@ -5726,7 +5739,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a target="_blank" href="https://github.com/XiaoxinHe">
 				<img src="https://avatars.githubusercontent.com/u/48676630?s=72&u=7161759ceb73dfa955c5bc543d33b4f915962663&v=4" width="24" alt="Avatar of XiaoxinHe"/> XiaoxinHe
@@ -5739,7 +5752,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a target="_blank" href="https://github.com/Benjamin-eecs">
 				<img src="https://avatars.githubusercontent.com/u/32269413?s=72&u=4a357152d8d9e2e5f4331b8562298da10e1e24d4&v=4" width="24" alt="Avatar of Benjamin-eecs"/> Benjamin-eecs
@@ -5752,7 +5765,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a target="_blank" href="https://github.com/tafia">
 				<img src="https://avatars.githubusercontent.com/u/7351502?s=72&u=69838c4383128bcdedfa62e8459235039414e6b4&v=4" width="24" alt="Avatar of tafia"/> tafia
@@ -5765,7 +5778,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a target="_blank" href="https://github.com/trungvose">
 				<img src="https://avatars.githubusercontent.com/u/6767322?s=72&u=78f2b51f7e089ffeaf82cbe817d5fe8e9aff0d19&v=4" width="24" alt="Avatar of trungvose"/> trungvose
@@ -5774,19 +5787,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>@kaligo </td>
 		<td><a target="_blank" href="https://twitter.com/trungvose">trungvose</a></td>
-		<td>Singapore</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a target="_blank" href="https://github.com/nvh95">
-				<img src="https://avatars.githubusercontent.com/u/8603085?s=72&v=4" width="24" alt="Avatar of nvh95"/> nvh95
-			</a><br/>
-			Hung Viet Nguyen
-		</td>
-		<td>@nutonomy </td>
-		<td><a target="_blank" href="https://twitter.com/hung_dev">hung_dev</a></td>
 		<td>Singapore</td>
 		<td>44</td>
 	</tr>
@@ -6053,6 +6053,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>458</td>
 		<td>
+			<a target="_blank" href="https://github.com/StarNekOvO">
+				<img src="https://avatars.githubusercontent.com/u/17907135?s=72&u=c5388a4b04ce265e7d4a77cb2d46c30c29323f2d&v=4" width="24" alt="Avatar of StarNekOvO"/> StarNekOvO
+			</a><br/>
+			Star Neko
+		</td>
+		<td>Rhodes Island </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a target="_blank" href="https://github.com/MahaMohan">
 				<img src="https://avatars.githubusercontent.com/u/69076784?s=72&u=11f41f92ff03535140087083e51db0b7363634b3&v=4" width="24" alt="Avatar of MahaMohan"/> MahaMohan
 			</a><br/>
@@ -6062,19 +6075,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>39</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
-			<a target="_blank" href="https://github.com/isuruAb">
-				<img src="https://avatars.githubusercontent.com/u/7692626?s=72&u=7ca58ce79bcca4d59392781ca53d18e991455ea9&v=4" width="24" alt="Avatar of isuruAb"/> isuruAb
-			</a><br/>
-			Isuru Abeywardana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>38</td>
 	</tr>
 	<tr>
 		<td>460</td>
@@ -6087,10 +6087,23 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>38</td>
+		<td>39</td>
 	</tr>
 	<tr>
 		<td>461</td>
+		<td>
+			<a target="_blank" href="https://github.com/isuruAb">
+				<img src="https://avatars.githubusercontent.com/u/7692626?s=72&u=7ca58ce79bcca4d59392781ca53d18e991455ea9&v=4" width="24" alt="Avatar of isuruAb"/> isuruAb
+			</a><br/>
+			Isuru Abeywardana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>462</td>
 		<td>
 			<a target="_blank" href="https://github.com/duyquang91">
 				<img src="https://avatars.githubusercontent.com/u/15357300?s=72&u=68bbca20e951b5a4bf54f33c5be28542b4d4b855&v=4" width="24" alt="Avatar of duyquang91"/> duyquang91
@@ -6103,7 +6116,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a target="_blank" href="https://github.com/j3ssie">
 				<img src="https://avatars.githubusercontent.com/u/23289085?s=72&u=7c4022bc6f9ddcea4df7fc279831cf60d2da59db&v=4" width="24" alt="Avatar of j3ssie"/> j3ssie
@@ -6116,7 +6129,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a target="_blank" href="https://github.com/lesterchan">
 				<img src="https://avatars.githubusercontent.com/u/355829?s=72&u=4e9e2db210369c070d319cf5d5aeba8ca426fede&v=4" width="24" alt="Avatar of lesterchan"/> lesterchan
@@ -6129,7 +6142,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/hongxin001">
 				<img src="https://avatars.githubusercontent.com/u/3424112?s=72&u=db6705e639929cedbb7f61d2a232c025430552ba&v=4" width="24" alt="Avatar of hongxin001"/> hongxin001
@@ -6142,7 +6155,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a target="_blank" href="https://github.com/el173">
 				<img src="https://avatars.githubusercontent.com/u/9252251?s=72&v=4" width="24" alt="Avatar of el173"/> el173
@@ -6155,7 +6168,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/suhtun">
 				<img src="https://avatars.githubusercontent.com/u/56341222?s=72&u=dae2aa899d53fa8a6b4aae2889a40b395111dcd9&v=4" width="24" alt="Avatar of suhtun"/> suhtun
@@ -6168,7 +6181,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/yutong-xia">
 				<img src="https://avatars.githubusercontent.com/u/80108368?s=72&u=b96f4dc4efddade95fed43adf496c9d1796a5a58&v=4" width="24" alt="Avatar of yutong-xia"/> yutong-xia
@@ -6181,7 +6194,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/NileshGule">
 				<img src="https://avatars.githubusercontent.com/u/1298374?s=72&u=0373ae3532efac444b86f6b43130809dfc391028&v=4" width="24" alt="Avatar of NileshGule"/> NileshGule
@@ -6194,7 +6207,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/FinnWoelm">
 				<img src="https://avatars.githubusercontent.com/u/7606194?s=72&u=8b8fa2db9b13d230cec3697d59f226adbc31e497&v=4" width="24" alt="Avatar of FinnWoelm"/> FinnWoelm
@@ -6207,7 +6220,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tai7sy">
 				<img src="https://avatars.githubusercontent.com/u/12840640?s=72&u=e97310f75c7b0bfcf94a2d9861abb192ca720a58&v=4" width="24" alt="Avatar of Tai7sy"/> Tai7sy
@@ -6220,7 +6233,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a target="_blank" href="https://github.com/yizhe-ang">
 				<img src="https://avatars.githubusercontent.com/u/17507891?s=72&u=e356bc1794e86f708c63d01f3fa1fcf1c1f86d57&v=4" width="24" alt="Avatar of yizhe-ang"/> yizhe-ang
@@ -6233,7 +6246,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/shantanu561993">
 				<img src="https://avatars.githubusercontent.com/u/8576432?s=72&u=71489410cab44d5414e9844887a4686dbcb705f1&v=4" width="24" alt="Avatar of shantanu561993"/> shantanu561993
@@ -6246,7 +6259,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/DGideas">
 				<img src="https://avatars.githubusercontent.com/u/4065128?s=72&u=57947f2a7c61640c568715a618e73293dc72528c&v=4" width="24" alt="Avatar of DGideas"/> DGideas
@@ -6259,7 +6272,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a target="_blank" href="https://github.com/sbmaruf">
 				<img src="https://avatars.githubusercontent.com/u/32699797?s=72&u=06b4f525c727afbca2e3d23e0f547143e04aead5&v=4" width="24" alt="Avatar of sbmaruf"/> sbmaruf
@@ -6272,7 +6285,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a target="_blank" href="https://github.com/liuziwei7">
 				<img src="https://avatars.githubusercontent.com/u/3158258?s=72&u=2e75848201e352bdf89a383bbaec0ba651d75f50&v=4" width="24" alt="Avatar of liuziwei7"/> liuziwei7
@@ -6285,7 +6298,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a target="_blank" href="https://github.com/chuyeow">
 				<img src="https://avatars.githubusercontent.com/u/213?s=72&u=61fec6a5fa6f10a040f8f095d8e8e85d8941f703&v=4" width="24" alt="Avatar of chuyeow"/> chuyeow
@@ -6298,7 +6311,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a target="_blank" href="https://github.com/YuemingJin">
 				<img src="https://avatars.githubusercontent.com/u/34373383?s=72&u=5ae2ed59324e5c787b25f4c8dbfddcfa48b6e12f&v=4" width="24" alt="Avatar of YuemingJin"/> YuemingJin
@@ -6311,7 +6324,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a target="_blank" href="https://github.com/dhairyashah1">
 				<img src="https://avatars.githubusercontent.com/u/64425805?s=72&u=38ae42f593a8f4859faa38439c3fd15e6f05df94&v=4" width="24" alt="Avatar of dhairyashah1"/> dhairyashah1
@@ -6324,7 +6337,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a target="_blank" href="https://github.com/wsgzao">
 				<img src="https://avatars.githubusercontent.com/u/2049845?s=72&u=df3177f76330141a0f6045e07fa7cf2fd8e6e620&v=4" width="24" alt="Avatar of wsgzao"/> wsgzao
@@ -6337,7 +6350,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a target="_blank" href="https://github.com/derekcoder">
 				<img src="https://avatars.githubusercontent.com/u/19852435?s=72&u=3987de8331deee435454637867623691a876b3f5&v=4" width="24" alt="Avatar of derekcoder"/> derekcoder
@@ -6350,7 +6363,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a target="_blank" href="https://github.com/lxcid">
 				<img src="https://avatars.githubusercontent.com/u/297156?s=72&v=4" width="24" alt="Avatar of lxcid"/> lxcid
@@ -6363,7 +6376,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a target="_blank" href="https://github.com/152334H">
 				<img src="https://avatars.githubusercontent.com/u/54623771?s=72&v=4" width="24" alt="Avatar of 152334H"/> 152334H
@@ -6376,7 +6389,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a target="_blank" href="https://github.com/vintagewang">
 				<img src="https://avatars.githubusercontent.com/u/1527648?s=72&u=9b9ed328f45640b4bc29594ffae22380a3048ae7&v=4" width="24" alt="Avatar of vintagewang"/> vintagewang
@@ -6389,7 +6402,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a target="_blank" href="https://github.com/sausheong">
 				<img src="https://avatars.githubusercontent.com/u/5962?s=72&u=a583d65ecd450fc4384bd75dbe6800efa46ddae1&v=4" width="24" alt="Avatar of sausheong"/> sausheong
@@ -6402,7 +6415,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a target="_blank" href="https://github.com/yujqiao">
 				<img src="https://avatars.githubusercontent.com/u/20105061?s=72&u=e55c3bf8df9fb523e75fa61da42487496f4880dd&v=4" width="24" alt="Avatar of yujqiao"/> yujqiao
@@ -6415,7 +6428,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a target="_blank" href="https://github.com/binmakeswell">
 				<img src="https://avatars.githubusercontent.com/u/61670638?s=72&u=f748723ab6b7713f4262aab51e8362503441327c&v=4" width="24" alt="Avatar of binmakeswell"/> binmakeswell
@@ -6428,7 +6441,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a target="_blank" href="https://github.com/GuoLanqing">
 				<img src="https://avatars.githubusercontent.com/u/39672615?s=72&u=b371135981c5d83a150555786277b2e8577e72e8&v=4" width="24" alt="Avatar of GuoLanqing"/> GuoLanqing
@@ -6441,7 +6454,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a target="_blank" href="https://github.com/ferrygun">
 				<img src="https://avatars.githubusercontent.com/u/3617343?s=72&u=e475b0a75913c06846c8d73495894b671f986f00&v=4" width="24" alt="Avatar of ferrygun"/> ferrygun
@@ -6454,7 +6467,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a target="_blank" href="https://github.com/cmiller8">
 				<img src="https://avatars.githubusercontent.com/u/193675?s=72&v=4" width="24" alt="Avatar of cmiller8"/> cmiller8
@@ -6467,7 +6480,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a target="_blank" href="https://github.com/yukuku">
 				<img src="https://avatars.githubusercontent.com/u/1407837?s=72&u=90c4227aac1845f1c84c4874617ccd263314695d&v=4" width="24" alt="Avatar of yukuku"/> yukuku
@@ -6480,7 +6493,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a target="_blank" href="https://github.com/motss">
 				<img src="https://avatars.githubusercontent.com/u/10607759?s=72&u=b3b5289d446def85a15b2549ac7190fe59f99094&v=4" width="24" alt="Avatar of motss"/> motss
@@ -6493,7 +6506,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a target="_blank" href="https://github.com/Shenggan">
 				<img src="https://avatars.githubusercontent.com/u/20657639?s=72&u=c70b468355608bf7d7ac15a07b253891b9385e82&v=4" width="24" alt="Avatar of Shenggan"/> Shenggan
@@ -6506,7 +6519,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
 		<td>
 			<a target="_blank" href="https://github.com/owen800q">
 				<img src="https://avatars.githubusercontent.com/u/19252045?s=72&u=8a842f62883855de2623a6f2730a94cdafb6f0ed&v=4" width="24" alt="Avatar of owen800q"/> owen800q
@@ -6519,7 +6532,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>495</td>
 		<td>
 			<a target="_blank" href="https://github.com/canhtran">
 				<img src="https://avatars.githubusercontent.com/u/3214379?s=72&u=83ed5fc6afc60d59c0b59227717669affaec6530&v=4" width="24" alt="Avatar of canhtran"/> canhtran
@@ -6532,7 +6545,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>496</td>
 		<td>
 			<a target="_blank" href="https://github.com/rainbend">
 				<img src="https://avatars.githubusercontent.com/u/26432832?s=72&u=f03a5f2bbb5de8e80cd56d2918a347604045d13c&v=4" width="24" alt="Avatar of rainbend"/> rainbend
@@ -6545,7 +6558,20 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
+		<td>
+			<a target="_blank" href="https://github.com/P2333">
+				<img src="https://avatars.githubusercontent.com/u/18375572?s=72&u=9a225b0af3593c5a6a3ac964c8f1626e5773bbeb&v=4" width="24" alt="Avatar of P2333"/> P2333
+			</a><br/>
+			Tianyu Pang
+		</td>
+		<td>Sea Ai Lab </td>
+		<td><a target="_blank" href="https://twitter.com/TianyuPang1">TianyuPang1</a></td>
+		<td>Singapore</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>498</td>
 		<td>
 			<a target="_blank" href="https://github.com/sourcepirate">
 				<img src="https://avatars.githubusercontent.com/u/5940286?s=72&u=5533c96701b7b9dd584f5e5522bb1e27e2a54cdb&v=4" width="24" alt="Avatar of sourcepirate"/> sourcepirate
@@ -6558,7 +6584,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>499</td>
 		<td>
 			<a target="_blank" href="https://github.com/hujiecpp">
 				<img src="https://avatars.githubusercontent.com/u/32758886?s=72&u=2132d4989c7f3b184c5cbe18dde0980ca68533fd&v=4" width="24" alt="Avatar of hujiecpp"/> hujiecpp
@@ -6571,7 +6597,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>500</td>
 		<td>
 			<a target="_blank" href="https://github.com/JacobYuan7">
 				<img src="https://avatars.githubusercontent.com/u/30721381?s=72&u=4fd00b365c830d83403a046874d5eb9702d0ecc2&v=4" width="24" alt="Avatar of JacobYuan7"/> JacobYuan7
@@ -6584,7 +6610,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>501</td>
 		<td>
 			<a target="_blank" href="https://github.com/cch123">
 				<img src="https://avatars.githubusercontent.com/u/384546?s=72&u=b9f101045b6b9c0322ed6a41aad316c4f2ac5704&v=4" width="24" alt="Avatar of cch123"/> cch123
@@ -6597,7 +6623,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>502</td>
 		<td>
 			<a target="_blank" href="https://github.com/mbrochh">
 				<img src="https://avatars.githubusercontent.com/u/166590?s=72&u=604e52cccfef02728b3dc762f682963d68adda45&v=4" width="24" alt="Avatar of mbrochh"/> mbrochh
@@ -6610,20 +6636,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>501</td>
-		<td>
-			<a target="_blank" href="https://github.com/P2333">
-				<img src="https://avatars.githubusercontent.com/u/18375572?s=72&u=9a225b0af3593c5a6a3ac964c8f1626e5773bbeb&v=4" width="24" alt="Avatar of P2333"/> P2333
-			</a><br/>
-			Tianyu Pang
-		</td>
-		<td>Sea Ai Lab </td>
-		<td><a target="_blank" href="https://twitter.com/TianyuPang1">TianyuPang1</a></td>
-		<td>Singapore</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a target="_blank" href="https://github.com/cobaltdisco">
 				<img src="https://avatars.githubusercontent.com/u/7610406?s=72&u=68b982a13aee5360d1a5182bef66c9667a2dc055&v=4" width="24" alt="Avatar of cobaltdisco"/> cobaltdisco
@@ -6636,7 +6649,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a target="_blank" href="https://github.com/allanchua101">
 				<img src="https://avatars.githubusercontent.com/u/26626798?s=72&u=b0490a22becd366d0e7ca800398aba4d08703c19&v=4" width="24" alt="Avatar of allanchua101"/> allanchua101
@@ -6649,7 +6662,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/km0930">
 				<img src="https://avatars.githubusercontent.com/u/5466508?s=72&u=596396256bfd60f540a32e86d67fc2d39593bd47&v=4" width="24" alt="Avatar of km0930"/> km0930
@@ -6662,7 +6675,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a target="_blank" href="https://github.com/SS47816">
 				<img src="https://avatars.githubusercontent.com/u/36634506?s=72&u=b6c07360eeb61421b9a1ab64b11f2525a67f6cee&v=4" width="24" alt="Avatar of SS47816"/> SS47816
@@ -6670,19 +6683,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 			Shuo SUN
 		</td>
 		<td>Singaporemit Alliance For Research<br/>And<br/>Technology<br/>Smart<br/></td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>506</td>
-		<td>
-			<a target="_blank" href="https://github.com/Ye-D">
-				<img src="https://avatars.githubusercontent.com/u/23722139?s=72&v=4" width="24" alt="Avatar of Ye-D"/> Ye-D
-			</a><br/>
-			YDong
-		</td>
-		<td>Soc @ Nus </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>25</td>
@@ -6703,6 +6703,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>508</td>
 		<td>
+			<a target="_blank" href="https://github.com/Ye-D">
+				<img src="https://avatars.githubusercontent.com/u/23722139?s=72&v=4" width="24" alt="Avatar of Ye-D"/> Ye-D
+			</a><br/>
+			YDong
+		</td>
+		<td>Soc @ Nus </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
 			<a target="_blank" href="https://github.com/wmira">
 				<img src="https://avatars.githubusercontent.com/u/468496?s=72&u=6805b7213f85b062ce7fa80f660aba513b7c0acd&v=4" width="24" alt="Avatar of wmira"/> wmira
 			</a><br/>
@@ -6714,7 +6727,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a target="_blank" href="https://github.com/donydchen">
 				<img src="https://avatars.githubusercontent.com/u/5866866?s=72&u=2eb1a1e187133dbf33751fdf6d1edd9fa22a75ca&v=4" width="24" alt="Avatar of donydchen"/> donydchen
@@ -6727,7 +6740,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a target="_blank" href="https://github.com/gabehollombe">
 				<img src="https://avatars.githubusercontent.com/u/28283?s=72&u=a026902f330e80941bc4a5f95619598e5cb6ccbe&v=4" width="24" alt="Avatar of gabehollombe"/> gabehollombe
@@ -6736,19 +6749,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/gabehollombe">gabehollombe</a></td>
-		<td>Singapore</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
-			<a target="_blank" href="https://github.com/ramanagali">
-				<img src="https://avatars.githubusercontent.com/u/55323295?s=72&u=49dd260e04936a6816b6590865ac053ca752e637&v=4" width="24" alt="Avatar of ramanagali"/> ramanagali
-			</a><br/>
-			GVR
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>24</td>
 	</tr>
@@ -6768,6 +6768,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>513</td>
 		<td>
+			<a target="_blank" href="https://github.com/ramanagali">
+				<img src="https://avatars.githubusercontent.com/u/55323295?s=72&u=49dd260e04936a6816b6590865ac053ca752e637&v=4" width="24" alt="Avatar of ramanagali"/> ramanagali
+			</a><br/>
+			GVR
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
 			<a target="_blank" href="https://github.com/NaiboWang">
 				<img src="https://avatars.githubusercontent.com/u/30287768?s=72&u=430d71312cd7b74533c807b08d7211a6e25d4edd&v=4" width="24" alt="Avatar of NaiboWang"/> NaiboWang
 			</a><br/>
@@ -6779,7 +6792,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a target="_blank" href="https://github.com/awalias">
 				<img src="https://avatars.githubusercontent.com/u/458736?s=72&u=7bc13764a2f8dd974acc7ca284850390a6f914e0&v=4" width="24" alt="Avatar of awalias"/> awalias
@@ -6792,7 +6805,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a target="_blank" href="https://github.com/7kms">
 				<img src="https://avatars.githubusercontent.com/u/12625342?s=72&u=1548d9cb8bd763f138e98849b4ed18b8cad95ab7&v=4" width="24" alt="Avatar of 7kms"/> 7kms
@@ -6805,7 +6818,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a target="_blank" href="https://github.com/SachaEpskamp">
 				<img src="https://avatars.githubusercontent.com/u/1207242?s=72&u=ff98feec958a4ed63f8be89f24871949f555a83c&v=4" width="24" alt="Avatar of SachaEpskamp"/> SachaEpskamp
@@ -6818,7 +6831,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a target="_blank" href="https://github.com/sojamo">
 				<img src="https://avatars.githubusercontent.com/u/81155?s=72&u=e35b273a8529845a1e74d9fcfa6f97671fd89dbf&v=4" width="24" alt="Avatar of sojamo"/> sojamo
@@ -6831,7 +6844,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a target="_blank" href="https://github.com/allanj">
 				<img src="https://avatars.githubusercontent.com/u/3351187?s=72&u=f0feab47627bad404470aea574d848ba3f5621c4&v=4" width="24" alt="Avatar of allanj"/> allanj
@@ -6844,7 +6857,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a target="_blank" href="https://github.com/itsbagpack">
 				<img src="https://avatars.githubusercontent.com/u/2077895?s=72&u=ec5656fbf5061a91f5d0714a31e1f7900c547127&v=4" width="24" alt="Avatar of itsbagpack"/> itsbagpack
@@ -6857,7 +6870,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a target="_blank" href="https://github.com/tohweizhong">
 				<img src="https://avatars.githubusercontent.com/u/8409155?s=72&u=e8c82038199d25781d14d050bc4a3d20de712d01&v=4" width="24" alt="Avatar of tohweizhong"/> tohweizhong
@@ -6870,7 +6883,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a target="_blank" href="https://github.com/pq-yang">
 				<img src="https://avatars.githubusercontent.com/u/142089663?s=72&u=70c4638d0d44f3cd45a2c5f21d2a5e3dac6a7f87&v=4" width="24" alt="Avatar of pq-yang"/> pq-yang
@@ -6883,7 +6896,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a target="_blank" href="https://github.com/CodexploreRepo">
 				<img src="https://avatars.githubusercontent.com/u/64508435?s=72&u=a6d521b6c483739524d88f64152047aed0bf87c6&v=4" width="24" alt="Avatar of CodexploreRepo"/> CodexploreRepo
@@ -6896,7 +6909,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a target="_blank" href="https://github.com/plumenator">
 				<img src="https://avatars.githubusercontent.com/u/103852?s=72&u=e48724a4274af053423b9fe927fc7df1f9e2f196&v=4" width="24" alt="Avatar of plumenator"/> plumenator
@@ -6909,7 +6922,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a target="_blank" href="https://github.com/SingularityKChen">
 				<img src="https://avatars.githubusercontent.com/u/26040964?s=72&u=3b8840ea56c078665a5837484584bef409d78fba&v=4" width="24" alt="Avatar of SingularityKChen"/> SingularityKChen
@@ -6922,7 +6935,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a target="_blank" href="https://github.com/kaiwren">
 				<img src="https://avatars.githubusercontent.com/u/19141?s=72&v=4" width="24" alt="Avatar of kaiwren"/> kaiwren
@@ -6935,7 +6948,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a target="_blank" href="https://github.com/dukedaily">
 				<img src="https://avatars.githubusercontent.com/u/57478150?s=72&u=2ffdd9f54c69ff8aad109eed4f535f792ab62704&v=4" width="24" alt="Avatar of dukedaily"/> dukedaily
@@ -6948,7 +6961,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a target="_blank" href="https://github.com/jefferyklass8">
 				<img src="https://avatars.githubusercontent.com/u/194735620?s=72&u=47d37ccf9a1a2f2b3f13cdf116afbe9ca52dfadc&v=4" width="24" alt="Avatar of jefferyklass8"/> jefferyklass8
@@ -6961,7 +6974,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a target="_blank" href="https://github.com/vesense">
 				<img src="https://avatars.githubusercontent.com/u/6711230?s=72&u=6232f611feaefca83b2c40ef92d5e7a0d054a6e3&v=4" width="24" alt="Avatar of vesense"/> vesense
@@ -6974,7 +6987,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a target="_blank" href="https://github.com/lisiyao21">
 				<img src="https://avatars.githubusercontent.com/u/81355712?s=72&u=1bc4e32755eccc4cc4963183c51754a6011172d3&v=4" width="24" alt="Avatar of lisiyao21"/> lisiyao21
@@ -6987,7 +7000,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a target="_blank" href="https://github.com/Na-Z">
 				<img src="https://avatars.githubusercontent.com/u/35828432?s=72&v=4" width="24" alt="Avatar of Na-Z"/> Na-Z
@@ -7000,7 +7013,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a target="_blank" href="https://github.com/ShuhuaGao">
 				<img src="https://avatars.githubusercontent.com/u/20141984?s=72&u=9156704a5995f70a3aa8a2ca02eeb13a817e1b23&v=4" width="24" alt="Avatar of ShuhuaGao"/> ShuhuaGao
@@ -7013,7 +7026,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a target="_blank" href="https://github.com/ruqqq">
 				<img src="https://avatars.githubusercontent.com/u/175895?s=72&u=77f2e7ef609f92cd8c6a349206626a1eaa3c1d9f&v=4" width="24" alt="Avatar of ruqqq"/> ruqqq
@@ -7026,7 +7039,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a target="_blank" href="https://github.com/johannwyh">
 				<img src="https://avatars.githubusercontent.com/u/18141440?s=72&u=676bfede021352d0e54e20ca0dfa71fe5fa20bb8&v=4" width="24" alt="Avatar of johannwyh"/> johannwyh
@@ -7039,7 +7052,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a target="_blank" href="https://github.com/vatanaksoytezer">
 				<img src="https://avatars.githubusercontent.com/u/13888103?s=72&u=441f12f6919705bc88e6f41eaa45dc121027def5&v=4" width="24" alt="Avatar of vatanaksoytezer"/> vatanaksoytezer
@@ -7052,7 +7065,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/h33tlit">
 				<img src="https://avatars.githubusercontent.com/u/97327489?s=72&u=39d127acf39feea2989dafa9277f6dddc57eddad&v=4" width="24" alt="Avatar of h33tlit"/> h33tlit
@@ -7065,7 +7078,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a target="_blank" href="https://github.com/guoyang9">
 				<img src="https://avatars.githubusercontent.com/u/35999950?s=72&u=84af99ed7657805166f7ee7aaf5cbf1deae50c28&v=4" width="24" alt="Avatar of guoyang9"/> guoyang9
@@ -7078,7 +7091,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a target="_blank" href="https://github.com/tanhauhau">
 				<img src="https://avatars.githubusercontent.com/u/2338632?s=72&u=7ca35d9de31aadd8e9af2f8e75ac185c6c42d1ab&v=4" width="24" alt="Avatar of tanhauhau"/> tanhauhau
@@ -7091,7 +7104,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/the-robot">
 				<img src="https://avatars.githubusercontent.com/u/9334746?s=72&u=0b223e39ccc4c92e6dd26305cb44c5eb07624395&v=4" width="24" alt="Avatar of the-robot"/> the-robot
@@ -7104,7 +7117,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/caizhongang">
 				<img src="https://avatars.githubusercontent.com/u/62529255?s=72&u=ef20e3616158fab63bcd5587124430111244fe0e&v=4" width="24" alt="Avatar of caizhongang"/> caizhongang
@@ -7117,7 +7130,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/antao97">
 				<img src="https://avatars.githubusercontent.com/u/41320807?s=72&u=666b3e1d9c5454b793e799ca29c6bb6d5d671294&v=4" width="24" alt="Avatar of antao97"/> antao97
@@ -7130,7 +7143,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a target="_blank" href="https://github.com/liaujianjie">
 				<img src="https://avatars.githubusercontent.com/u/3143132?s=72&u=009e1b25e78b68c12f7c0507a629a0fcd2ac987c&v=4" width="24" alt="Avatar of liaujianjie"/> liaujianjie
@@ -7143,7 +7156,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/wgx731">
 				<img src="https://avatars.githubusercontent.com/u/494702?s=72&v=4" width="24" alt="Avatar of wgx731"/> wgx731
@@ -7156,7 +7169,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a target="_blank" href="https://github.com/clvrobj">
 				<img src="https://avatars.githubusercontent.com/u/437388?s=72&u=39612b5fdd2a5c49f4c66cb622e91f301073c238&v=4" width="24" alt="Avatar of clvrobj"/> clvrobj
@@ -7166,19 +7179,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore Singapore</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a target="_blank" href="https://github.com/ooibc88">
-				<img src="https://avatars.githubusercontent.com/u/14207834?s=72&u=929383d0c8bc3dadbdd00dfbacf04d87dfb3f5ca&v=4" width="24" alt="Avatar of ooibc88"/> ooibc88
-			</a><br/>
-			Beng Chin Ooi
-		</td>
-		<td>Bc 001 </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -7327,6 +7327,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>556</td>
 		<td>
+			<a target="_blank" href="https://github.com/lnfi-network">
+				<img src="https://avatars.githubusercontent.com/u/124413725?s=72&u=12f172e77a78366e1ecbe1e6352508973ae9a238&v=4" width="24" alt="Avatar of lnfi-network"/> lnfi-network
+			</a><br/>
+			Lnfi Network
+		</td>
+		<td>Lnfi </td>
+		<td><a target="_blank" href="https://twitter.com/LnfiNetwork">LnfiNetwork</a></td>
+		<td>Singapore</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
 			<a target="_blank" href="https://github.com/LotusWallet">
 				<img src="https://avatars.githubusercontent.com/u/96046205?s=72&u=a982cfa523299ef4a2a51621bf0dd82077c80d61&v=4" width="24" alt="Avatar of LotusWallet"/> LotusWallet
 			</a><br/>
@@ -7338,7 +7351,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a target="_blank" href="https://github.com/IoTThinks">
 				<img src="https://avatars.githubusercontent.com/u/29994971?s=72&u=5461272a87dd780a55f7edd9764fa0f25a5bb9a1&v=4" width="24" alt="Avatar of IoTThinks"/> IoTThinks
@@ -7351,7 +7364,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a target="_blank" href="https://github.com/Yikai-Wang">
 				<img src="https://avatars.githubusercontent.com/u/26347268?s=72&u=7b2fa069ccfc1f158258699b2609fb39cce03a18&v=4" width="24" alt="Avatar of Yikai-Wang"/> Yikai-Wang
@@ -7364,7 +7377,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a target="_blank" href="https://github.com/DerekChia">
 				<img src="https://avatars.githubusercontent.com/u/1457728?s=72&u=48823b560f3f07ac413973cb712d8d067473201d&v=4" width="24" alt="Avatar of DerekChia"/> DerekChia
@@ -7377,7 +7390,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a target="_blank" href="https://github.com/moonD4rk">
 				<img src="https://avatars.githubusercontent.com/u/24284231?s=72&u=af1a9d4ce5bef9859942c478479799d1d0b92411&v=4" width="24" alt="Avatar of moonD4rk"/> moonD4rk
@@ -7390,7 +7403,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a target="_blank" href="https://github.com/filecxx">
 				<img src="https://avatars.githubusercontent.com/u/100348948?s=72&u=d8563d779bdb796b1ad7ba640313a8da4c2c354a&v=4" width="24" alt="Avatar of filecxx"/> filecxx
@@ -7403,7 +7416,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a target="_blank" href="https://github.com/mingyuan-zhang">
 				<img src="https://avatars.githubusercontent.com/u/72491369?s=72&u=fefb213f7c68ca96ac23aebb265f1abd2afb4e96&v=4" width="24" alt="Avatar of mingyuan-zhang"/> mingyuan-zhang
@@ -7416,7 +7429,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a target="_blank" href="https://github.com/juchengquan">
 				<img src="https://avatars.githubusercontent.com/u/34294876?s=72&u=8a754ed8ad9432ce754853e08e117e262b53be79&v=4" width="24" alt="Avatar of juchengquan"/> juchengquan
@@ -7429,7 +7442,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a target="_blank" href="https://github.com/renettarenula">
 				<img src="https://avatars.githubusercontent.com/u/724458?s=72&u=40506f891e76a8b7079c4b4c7204d389ab297247&v=4" width="24" alt="Avatar of renettarenula"/> renettarenula
@@ -7442,7 +7455,20 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
+		<td>
+			<a target="_blank" href="https://github.com/qoelet">
+				<img src="https://avatars.githubusercontent.com/u/115877?s=72&u=e00fb21f2e23b27d0827b501a1618bc433a14180&v=4" width="24" alt="Avatar of qoelet"/> qoelet
+			</a><br/>
+			Kenny Shen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>567</td>
 		<td>
 			<a target="_blank" href="https://github.com/IzaiahSun">
 				<img src="https://avatars.githubusercontent.com/u/34444372?s=72&v=4" width="24" alt="Avatar of IzaiahSun"/> IzaiahSun
@@ -7455,20 +7481,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>566</td>
-		<td>
-			<a target="_blank" href="https://github.com/lnfi-network">
-				<img src="https://avatars.githubusercontent.com/u/124413725?s=72&u=12f172e77a78366e1ecbe1e6352508973ae9a238&v=4" width="24" alt="Avatar of lnfi-network"/> lnfi-network
-			</a><br/>
-			Lnfi Network
-		</td>
-		<td>Lnfi </td>
-		<td><a target="_blank" href="https://twitter.com/LnfiNetwork">LnfiNetwork</a></td>
-		<td>Singapore</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a target="_blank" href="https://github.com/zeyuxiao1997">
 				<img src="https://avatars.githubusercontent.com/u/38995741?s=72&u=f8f3874cdeb9f6c12044850977cd19ef790fa2ce&v=4" width="24" alt="Avatar of zeyuxiao1997"/> zeyuxiao1997
@@ -7481,25 +7494,12 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgajda">
 				<img src="https://avatars.githubusercontent.com/u/685529?s=72&u=639c786cdfe96e14a26c81b439960099f70ee9dd&v=4" width="24" alt="Avatar of mgajda"/> mgajda
 			</a><br/>
 			Micha J Gajda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>569</td>
-		<td>
-			<a target="_blank" href="https://github.com/qoelet">
-				<img src="https://avatars.githubusercontent.com/u/115877?s=72&u=e00fb21f2e23b27d0827b501a1618bc433a14180&v=4" width="24" alt="Avatar of qoelet"/> qoelet
-			</a><br/>
-			Kenny Shen
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7600,6 +7600,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>577</td>
 		<td>
+			<a target="_blank" href="https://github.com/goz">
+				<img src="https://avatars.githubusercontent.com/u/20762?s=72&u=c139211a1192cbaaaa591c2b73fbb93d409e5e91&v=4" width="24" alt="Avatar of goz"/> goz
+			</a><br/>
+			Goz Gozali
+		</td>
+		<td>That Fruit Company </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
 			<a target="_blank" href="https://github.com/jyek">
 				<img src="https://avatars.githubusercontent.com/u/3284409?s=72&u=ca1431cf688af90641d1e92245ba582fdb0ae50d&v=4" width="24" alt="Avatar of jyek"/> jyek
 			</a><br/>
@@ -7611,7 +7624,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jiang-Yidi">
 				<img src="https://avatars.githubusercontent.com/u/85482606?s=72&u=86fc21208ae892cd4a182bb7b0be9a032bb993b6&v=4" width="24" alt="Avatar of Jiang-Yidi"/> Jiang-Yidi
@@ -7624,7 +7637,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a target="_blank" href="https://github.com/wilsonwid">
 				<img src="https://avatars.githubusercontent.com/u/87320062?s=72&u=6e31d8cbf1c50b91c2d9dad59be8c541ad750c20&v=4" width="24" alt="Avatar of wilsonwid"/> wilsonwid
@@ -7637,7 +7650,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a target="_blank" href="https://github.com/jhdxr">
 				<img src="https://avatars.githubusercontent.com/u/1993373?s=72&u=818fc5f6fe767f1277ac43d76bfea057dd439acc&v=4" width="24" alt="Avatar of jhdxr"/> jhdxr
@@ -7650,7 +7663,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a target="_blank" href="https://github.com/mymai91">
 				<img src="https://avatars.githubusercontent.com/u/6791942?s=72&u=fd9d902b7de0b0fb0fe7be88477a24247deb9b04&v=4" width="24" alt="Avatar of mymai91"/> mymai91
@@ -7663,7 +7676,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcdulltii">
 				<img src="https://avatars.githubusercontent.com/u/30497633?s=72&u=00319fabf62960e57abe3fb040499f16d4b39b1a&v=4" width="24" alt="Avatar of mcdulltii"/> mcdulltii
@@ -7676,7 +7689,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a target="_blank" href="https://github.com/anthonyng2">
 				<img src="https://avatars.githubusercontent.com/u/11265777?s=72&u=4b6fee79761ec33f12967be9991a492093b6f332&v=4" width="24" alt="Avatar of anthonyng2"/> anthonyng2
@@ -7689,7 +7702,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a target="_blank" href="https://github.com/26hzhang">
 				<img src="https://avatars.githubusercontent.com/u/20762516?s=72&u=48f3a86a5a366ce267488b9ab39cbd3b4866fdd2&v=4" width="24" alt="Avatar of 26hzhang"/> 26hzhang
@@ -7702,7 +7715,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiawei-ren">
 				<img src="https://avatars.githubusercontent.com/u/72253125?s=72&u=685feab7fb90cbd3374f9daaa5d4296272d36030&v=4" width="24" alt="Avatar of jiawei-ren"/> jiawei-ren
@@ -7715,7 +7728,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a target="_blank" href="https://github.com/nkorange">
 				<img src="https://avatars.githubusercontent.com/u/4593375?s=72&u=edadb62057c3d0744f4a8ce68071feebb697dab1&v=4" width="24" alt="Avatar of nkorange"/> nkorange
@@ -7723,19 +7736,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 			Peter Zhu
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>587</td>
-		<td>
-			<a target="_blank" href="https://github.com/goz">
-				<img src="https://avatars.githubusercontent.com/u/20762?s=72&u=c139211a1192cbaaaa591c2b73fbb93d409e5e91&v=4" width="24" alt="Avatar of goz"/> goz
-			</a><br/>
-			Goz Gozali
-		</td>
-		<td>Fruit Company </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>13</td>
@@ -7782,6 +7782,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>591</td>
 		<td>
+			<a target="_blank" href="https://github.com/quangh33">
+				<img src="https://avatars.githubusercontent.com/u/52104370?s=72&u=c805ea5524855caf01a1325b8108daec6ace6181&v=4" width="24" alt="Avatar of quangh33"/> quangh33
+			</a><br/>
+			Hoang Dinh Quang
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
 			<a target="_blank" href="https://github.com/zer0yu">
 				<img src="https://avatars.githubusercontent.com/u/16551733?s=72&u=0d6437de7d96a6b559df49c99578adf5771952a5&v=4" width="24" alt="Avatar of zer0yu"/> zer0yu
 			</a><br/>
@@ -7793,7 +7806,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/atsixian">
 				<img src="https://avatars.githubusercontent.com/u/43892874?s=72&u=dbfcb62ef6279f2b38602d5c4cfb7084c902110e&v=4" width="24" alt="Avatar of atsixian"/> atsixian
@@ -7806,7 +7819,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/rbiswasfc">
 				<img src="https://avatars.githubusercontent.com/u/47070681?s=72&v=4" width="24" alt="Avatar of rbiswasfc"/> rbiswasfc
@@ -7819,7 +7832,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a target="_blank" href="https://github.com/zst123">
 				<img src="https://avatars.githubusercontent.com/u/4743390?s=72&v=4" width="24" alt="Avatar of zst123"/> zst123
@@ -7832,7 +7845,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/indocomsoft">
 				<img src="https://avatars.githubusercontent.com/u/11135744?s=72&u=24ff683c958feb1f0f3c77e9d90dc675b6849164&v=4" width="24" alt="Avatar of indocomsoft"/> indocomsoft
@@ -7845,7 +7858,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/enghwa">
 				<img src="https://avatars.githubusercontent.com/u/7866724?s=72&u=5fcdf9125c39951850c60c60ba73cb0f7772a164&v=4" width="24" alt="Avatar of enghwa"/> enghwa
@@ -7858,7 +7871,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a target="_blank" href="https://github.com/sumleo">
 				<img src="https://avatars.githubusercontent.com/u/29517764?s=72&v=4" width="24" alt="Avatar of sumleo"/> sumleo
@@ -7871,7 +7884,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a target="_blank" href="https://github.com/bobmayuze">
 				<img src="https://avatars.githubusercontent.com/u/14257524?s=72&u=b158fdcda5321cb848ccf83009d5116e28c96898&v=4" width="24" alt="Avatar of bobmayuze"/> bobmayuze
@@ -7884,7 +7897,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a target="_blank" href="https://github.com/annamalai-nr">
 				<img src="https://avatars.githubusercontent.com/u/4783644?s=72&u=93da584a09fb1fe43815340f7f4f01855904ec11&v=4" width="24" alt="Avatar of annamalai-nr"/> annamalai-nr
@@ -7897,7 +7910,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a target="_blank" href="https://github.com/lawliet89">
 				<img src="https://avatars.githubusercontent.com/u/983101?s=72&u=8d3cff6c6582bb9fba7d71dfc543fe5fecb48b68&v=4" width="24" alt="Avatar of lawliet89"/> lawliet89
@@ -7910,7 +7923,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a target="_blank" href="https://github.com/barnabemonnot">
 				<img src="https://avatars.githubusercontent.com/u/4910325?s=72&u=ab02b5a4a7388eb45b51cc98967b32479b607f45&v=4" width="24" alt="Avatar of barnabemonnot"/> barnabemonnot
@@ -7918,19 +7931,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 			Barnab Monnot
 		</td>
 		<td>Ethereum Foundation </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>602</td>
-		<td>
-			<a target="_blank" href="https://github.com/quangh33">
-				<img src="https://avatars.githubusercontent.com/u/52104370?s=72&u=c805ea5524855caf01a1325b8108daec6ace6181&v=4" width="24" alt="Avatar of quangh33"/> quangh33
-			</a><br/>
-			Hoang Dinh Quang
-		</td>
-		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>11</td>
@@ -8796,6 +8796,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>669</td>
 		<td>
+			<a target="_blank" href="https://github.com/Ariana1729">
+				<img src="https://avatars.githubusercontent.com/u/22134168?s=72&u=2b04c8d0d40649196fed9a5967656db01709b317&v=4" width="24" alt="Avatar of Ariana1729"/> Ariana1729
+			</a><br/>
+			Ariana
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/1729ariana">1729ariana</a></td>
+		<td>Singapore</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
 			<a target="_blank" href="https://github.com/lhyfst">
 				<img src="https://avatars.githubusercontent.com/u/29816816?s=72&u=ade61b1c286b6a0121a27cbef4f3428b75731850&v=4" width="24" alt="Avatar of lhyfst"/> lhyfst
 			</a><br/>
@@ -8807,7 +8820,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a target="_blank" href="https://github.com/yongjun21">
 				<img src="https://avatars.githubusercontent.com/u/8717401?s=72&u=4138d18f73c37faef455a3f2c94a3105e65f5a2d&v=4" width="24" alt="Avatar of yongjun21"/> yongjun21
@@ -8820,7 +8833,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeromewu">
 				<img src="https://avatars.githubusercontent.com/u/5723124?s=72&u=fe7954be095f7852e8f9a076a1d478e16e2e1d2f&v=4" width="24" alt="Avatar of jeromewu"/> jeromewu
@@ -8833,7 +8846,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a target="_blank" href="https://github.com/atyenoria">
 				<img src="https://avatars.githubusercontent.com/u/7510974?s=72&u=c55aa7166e6e78a24e73f6ccffe7104c8f168204&v=4" width="24" alt="Avatar of atyenoria"/> atyenoria
@@ -8846,7 +8859,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a target="_blank" href="https://github.com/winzou">
 				<img src="https://avatars.githubusercontent.com/u/702928?s=72&u=c1b861cc48fcdd2409bd5a43e5c10d9053a7b0d5&v=4" width="24" alt="Avatar of winzou"/> winzou
@@ -8859,7 +8872,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ayrx">
 				<img src="https://avatars.githubusercontent.com/u/1937160?s=72&u=06c2f82759e3d5c9dcafcbf15c62c4d596a3f094&v=4" width="24" alt="Avatar of Ayrx"/> Ayrx
@@ -8872,7 +8885,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajmalafif">
 				<img src="https://avatars.githubusercontent.com/u/827167?s=72&u=e54e2a0099cdc9f06c84fd9c33ce2ef055946b8c&v=4" width="24" alt="Avatar of ajmalafif"/> ajmalafif
@@ -8885,7 +8898,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a target="_blank" href="https://github.com/supermamon">
 				<img src="https://avatars.githubusercontent.com/u/6381508?s=72&v=4" width="24" alt="Avatar of supermamon"/> supermamon
@@ -8898,7 +8911,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a target="_blank" href="https://github.com/hungpham2511">
 				<img src="https://avatars.githubusercontent.com/u/9715532?s=72&u=e810f6cc7e274428ece2453b009b28b5779114e3&v=4" width="24" alt="Avatar of hungpham2511"/> hungpham2511
@@ -8911,7 +8924,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a target="_blank" href="https://github.com/jetnew">
 				<img src="https://avatars.githubusercontent.com/u/27071473?s=72&u=fdccc2283bbf7bc91683c4646cc57428ad0f51fd&v=4" width="24" alt="Avatar of jetnew"/> jetnew
@@ -8924,7 +8937,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a target="_blank" href="https://github.com/liruoteng">
 				<img src="https://avatars.githubusercontent.com/u/7472795?s=72&u=5a41979a2296707b233760d5b048814f34fedf59&v=4" width="24" alt="Avatar of liruoteng"/> liruoteng
@@ -8937,7 +8950,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a target="_blank" href="https://github.com/Garvit244">
 				<img src="https://avatars.githubusercontent.com/u/6849301?s=72&u=8cfc0864552bfbfc068dda00f632f861ecbbb3df&v=4" width="24" alt="Avatar of Garvit244"/> Garvit244
@@ -8950,7 +8963,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a target="_blank" href="https://github.com/samwize">
 				<img src="https://avatars.githubusercontent.com/u/68338?s=72&v=4" width="24" alt="Avatar of samwize"/> samwize
@@ -8963,7 +8976,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshchoo">
 				<img src="https://avatars.githubusercontent.com/u/16533168?s=72&v=4" width="24" alt="Avatar of joshchoo"/> joshchoo
@@ -8976,7 +8989,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a target="_blank" href="https://github.com/GIANTCRAB">
 				<img src="https://avatars.githubusercontent.com/u/1075708?s=72&u=820ac5d86ccb997fa4df0714f533e5baeddb677b&v=4" width="24" alt="Avatar of GIANTCRAB"/> GIANTCRAB
@@ -8989,7 +9002,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a target="_blank" href="https://github.com/hustnn">
 				<img src="https://avatars.githubusercontent.com/u/73186?s=72&u=c1e0ab857c63074cf3ef9c8f4bfa75e90766251e&v=4" width="24" alt="Avatar of hustnn"/> hustnn
@@ -8998,19 +9011,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>685</td>
-		<td>
-			<a target="_blank" href="https://github.com/Ariana1729">
-				<img src="https://avatars.githubusercontent.com/u/22134168?s=72&u=2b04c8d0d40649196fed9a5967656db01709b317&v=4" width="24" alt="Avatar of Ariana1729"/> Ariana1729
-			</a><br/>
-			Ariana
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/1729ariana">1729ariana</a></td>
 		<td>Singapore</td>
 		<td>4</td>
 	</tr>
@@ -9121,6 +9121,19 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 	<tr>
 		<td>694</td>
 		<td>
+			<a target="_blank" href="https://github.com/winkyao">
+				<img src="https://avatars.githubusercontent.com/u/6949944?s=72&u=1cef7e0dc0787fbf56e6e71de5031c5343d8b72e&v=4" width="24" alt="Avatar of winkyao"/> winkyao
+			</a><br/>
+			winkyao
+		</td>
+		<td>Pingcap </td>
+		<td><a target="_blank" href="https://twitter.com/golangwink">golangwink</a></td>
+		<td>Singapore</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
 			<a target="_blank" href="https://github.com/Xuedixuedi">
 				<img src="https://avatars.githubusercontent.com/u/43920794?s=72&u=98e0e8ec120942fd880ed1824470a45ba3f749f0&v=4" width="24" alt="Avatar of Xuedixuedi"/> Xuedixuedi
 			</a><br/>
@@ -9132,7 +9145,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/imhele">
 				<img src="https://avatars.githubusercontent.com/u/32428655?s=72&u=85214442fd202a517ac2ee243807fd18cfab2726&v=4" width="24" alt="Avatar of imhele"/> imhele
@@ -9145,7 +9158,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/corollari">
 				<img src="https://avatars.githubusercontent.com/u/32309574?s=72&u=6aecdb6bf589ad173324301ecddfa2182b85a156&v=4" width="24" alt="Avatar of corollari"/> corollari
@@ -9158,7 +9171,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiaxiang-cheng">
 				<img src="https://avatars.githubusercontent.com/u/67684198?s=72&u=e9b4cb810c281e9904573582be6fb56b224d3a52&v=4" width="24" alt="Avatar of jiaxiang-cheng"/> jiaxiang-cheng
@@ -9171,7 +9184,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/mogol">
 				<img src="https://avatars.githubusercontent.com/u/3447934?s=72&u=1ddcb2824148d4cbd3f855551c473713f51405a2&v=4" width="24" alt="Avatar of mogol"/> mogol
@@ -9184,7 +9197,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/KunZhou9646">
 				<img src="https://avatars.githubusercontent.com/u/59918673?s=72&v=4" width="24" alt="Avatar of KunZhou9646"/> KunZhou9646
@@ -9197,7 +9210,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a target="_blank" href="https://github.com/mitcho">
 				<img src="https://avatars.githubusercontent.com/u/57769?s=72&v=4" width="24" alt="Avatar of mitcho"/> mitcho
@@ -9210,7 +9223,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/paul007pl">
 				<img src="https://avatars.githubusercontent.com/u/6849822?s=72&v=4" width="24" alt="Avatar of paul007pl"/> paul007pl
@@ -9223,7 +9236,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a target="_blank" href="https://github.com/spinningarrow">
 				<img src="https://avatars.githubusercontent.com/u/1797328?s=72&v=4" width="24" alt="Avatar of spinningarrow"/> spinningarrow
@@ -9236,7 +9249,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a target="_blank" href="https://github.com/yunpengn">
 				<img src="https://avatars.githubusercontent.com/u/18503402?s=72&u=2ef0e4833d0f5f6a087d838bdb4a086b0518e669&v=4" width="24" alt="Avatar of yunpengn"/> yunpengn
@@ -9249,7 +9262,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a target="_blank" href="https://github.com/honcheng">
 				<img src="https://avatars.githubusercontent.com/u/208827?s=72&v=4" width="24" alt="Avatar of honcheng"/> honcheng
@@ -9262,7 +9275,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a target="_blank" href="https://github.com/Li-Chongyi">
 				<img src="https://avatars.githubusercontent.com/u/34166801?s=72&u=753827a82e1dea517790895da3547e01a09501fa&v=4" width="24" alt="Avatar of Li-Chongyi"/> Li-Chongyi
@@ -9275,7 +9288,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a target="_blank" href="https://github.com/loverajoel">
 				<img src="https://avatars.githubusercontent.com/u/1700100?s=72&u=e954e099320ea935177ff4f8e4fdd2e301e6bc11&v=4" width="24" alt="Avatar of loverajoel"/> loverajoel
@@ -9288,7 +9301,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a target="_blank" href="https://github.com/WhoKnowInfinity">
 				<img src="https://avatars.githubusercontent.com/u/9530963?s=72&u=4f6241ff28d18620f01efcdb201dacff6bcc7fc2&v=4" width="24" alt="Avatar of WhoKnowInfinity"/> WhoKnowInfinity
@@ -9301,7 +9314,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a target="_blank" href="https://github.com/sogko">
 				<img src="https://avatars.githubusercontent.com/u/78585?s=72&v=4" width="24" alt="Avatar of sogko"/> sogko
@@ -9314,7 +9327,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/hosch3n">
 				<img src="https://avatars.githubusercontent.com/u/29953808?s=72&u=33ddbaebd50c891b6df86fcf79057777607d85dd&v=4" width="24" alt="Avatar of hosch3n"/> hosch3n
@@ -9327,7 +9340,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a target="_blank" href="https://github.com/sonictk">
 				<img src="https://avatars.githubusercontent.com/u/2504199?s=72&u=716428a8f6ca32ee5024c267ed64c867bbdbd6da&v=4" width="24" alt="Avatar of sonictk"/> sonictk
@@ -9340,7 +9353,7 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a target="_blank" href="https://github.com/lei-cao">
 				<img src="https://avatars.githubusercontent.com/u/136104?s=72&u=76ca3917b646fb74755161615aba11eaf1068b6b&v=4" width="24" alt="Avatar of lei-cao"/> lei-cao
@@ -9349,19 +9362,6 @@ There are `887 users`  in Singapore. You need at least `84 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>712</td>
-		<td>
-			<a target="_blank" href="https://github.com/winkyao">
-				<img src="https://avatars.githubusercontent.com/u/6949944?s=72&u=1cef7e0dc0787fbf56e6e71de5031c5343d8b72e&v=4" width="24" alt="Avatar of winkyao"/> winkyao
-			</a><br/>
-			winkyao
-		</td>
-		<td>Pingcap </td>
-		<td><a target="_blank" href="https://twitter.com/golangwink">golangwink</a></td>
 		<td>Singapore</td>
 		<td>2</td>
 	</tr>
