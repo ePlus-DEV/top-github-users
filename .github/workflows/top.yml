@@ -1,26 +1,56 @@
 name: Top GitHub Users
+
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Chạy mỗi ngày lúc 00:00 UTC (tuỳ timezone repo)
+    - cron: "0 0 * * *"
   push:
     branches:
       - "main"
   workflow_dispatch:
+
 jobs:
   release:
     name: GitHub Active Users
     runs-on: ubuntu-22.04
+
     steps:
+      # 1) Xoá toàn bộ GitHub Actions cache (best effort)
+      - name: Delete all GitHub Actions caches
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh cache delete --all || echo "Cannot delete cache (gh not available or no cache)"
+
+      # 2) Checkout code (dùng PAT riêng để action có thể commit/push)
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
           token: ${{ secrets.CUSTOM_TOKEN }}
+
+      # 3) Dọn các dữ liệu cũ trong repo (nếu có)
+      - name: Remove old generated data
+        run: |
+          rm -rf cache
+          rm -rf docs
+
+      # 4) Setup Node (nếu action cần Node 18)
       - name: Setup node
         uses: actions/setup-node@v4
         with:
           node-version: 18.16.1
+
+      # 5) Chạy TOP GITHUB USERS ACTION
       - name: TOP GITHUB USERS ACTION
         uses: ePlus-DEV/top-github-users-action@master
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+
+      # 6) Cleanup workspace cuối job, để runner nhẹ nhất có thể
+      - name: Cleanup workspace
+        if: always()
+        run: |
+          rm -rf cache
+          rm -rf docs
+          rm -rf node_modules
+          rm -rf dist build .next .nuxt
