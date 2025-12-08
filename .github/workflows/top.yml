@@ -2,7 +2,8 @@ name: Top GitHub Users
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # mỗi ngày 00:00 UTC
+    # Chạy mỗi ngày lúc 00:00 UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - "main"
@@ -14,9 +15,11 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
+      # ---- Debug dung lượng trước khi dọn (chỉ để xem) ----
       - name: Show disk before cleanup
         run: df -h
 
+      # ---- Dọn bớt các tool nặng trên GitHub-hosted runner ----
       - name: Free disk space on runner
         uses: endersonmenezes/free-disk-space@v3
         with:
@@ -29,26 +32,50 @@ jobs:
       - name: Show disk after cleanup
         run: df -h
 
+      # ---- Checkout repo (dùng PAT của bạn để action có quyền push nếu cần) ----
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.CUSTOM_TOKEN }}
 
+      # ---- Đảm bảo config.json & checkpoint.json tồn tại, nếu mất thì tạo bản default ----
+      - name: Ensure config.json exists
+        run: |
+          if [ ! -f config.json ]; then
+            echo '{
+              "locations": ["Vietnam"],
+              "batchSize": 25,
+              "devMode": false
+            }' > config.json
+          fi
+
+      - name: Ensure checkpoint.json exists
+        run: |
+          if [ ! -f checkpoint.json ]; then
+            echo '{
+              "lastUpdated": null
+            }' > checkpoint.json
+          fi
+
+      # ---- Xoá dữ liệu sinh ra ở lần chạy trước (cache/docs), KHÔNG đụng vào config/checkpoint ----
       - name: Remove old generated data
         run: |
           rm -rf cache
           rm -rf docs
 
+      # ---- Setup Node ----
       - name: Setup node
         uses: actions/setup-node@v4
         with:
           node-version: 18.16.1
 
+      # ---- Chạy TOP GITHUB USERS ACTION ----
       - name: TOP GITHUB USERS ACTION
         uses: ePlus-DEV/top-github-users-action@master
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
 
+      # ---- Dọn workspace cuối job cho nhẹ ----
       - name: Cleanup workspace
         if: always()
         run: |
@@ -56,3 +83,9 @@ jobs:
           rm -rf docs
           rm -rf node_modules
           rm -rf dist build .next .nuxt
+
+      # (optional) Xem thư mục nào còn nặng nhất
+      - name: Top 20 biggest dirs
+        if: always()
+        run: |
+          du -h . | sort -h | tail -n 20
