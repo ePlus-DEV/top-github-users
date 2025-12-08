@@ -2,8 +2,7 @@ name: Top GitHub Users
 
 on:
   schedule:
-    # Chạy mỗi ngày lúc 00:00 UTC
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # mỗi ngày 00:00 UTC
   push:
     branches:
       - "main"
@@ -15,13 +14,11 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      # 0) In thử dung lượng trước khi dọn (để debug)
       - name: Show disk before cleanup
         run: df -h
 
-      # 1) Free disk space trên GitHub-hosted runner
       - name: Free disk space on runner
-        uses: endersonmenezes/free-disk-space-ubuntu-runners@v3
+        uses: endersonmenezes/free-disk-space@v3
         with:
           remove_android: true
           remove_dotnet: true
@@ -29,35 +26,29 @@ jobs:
           remove_tool_cache: true
           remove_swap: true
 
-      # 1.1) In lại dung lượng sau khi dọn để thấy khác biệt
       - name: Show disk after cleanup
         run: df -h
 
-      # 2) Checkout repo (dùng PAT của bạn)
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.CUSTOM_TOKEN }}
 
-      # 3) Xoá dữ liệu cũ trong repo (nếu có)
       - name: Remove old generated data
         run: |
           rm -rf cache
           rm -rf docs
 
-      # 4) Setup Node (version như bạn cần)
       - name: Setup node
         uses: actions/setup-node@v4
         with:
           node-version: 18.16.1
 
-      # 5) Chạy TOP GITHUB USERS ACTION
       - name: TOP GITHUB USERS ACTION
         uses: ePlus-DEV/top-github-users-action@master
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
 
-      # 6) Cleanup cuối job cho chắc ăn
       - name: Cleanup workspace
         if: always()
         run: |
@@ -65,9 +56,3 @@ jobs:
           rm -rf docs
           rm -rf node_modules
           rm -rf dist build .next .nuxt
-
-      # 7) (Optional) Xem thư mục nào nặng nhất để debug thêm
-      - name: Top 20 biggest dirs
-        if: always()
-        run: |
-          du -h . | sort -h | tail -n 20
