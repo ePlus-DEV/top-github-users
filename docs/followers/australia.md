@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Australia
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia"/>
 </a>
 
-The `number of followers` of users in Australia on `2026/4/22 2:29 AM UTC`. This list contains users from Australia and cities Sydney Melbourne Perth Adelaide Brisbane Canberra Hobart Goldcoast Darwin.
+The `number of followers` of users in Australia on `2026/4/22 3:07 AM UTC`. This list contains users from Australia and cities Sydney Melbourne Perth Adelaide Brisbane Canberra Hobart Goldcoast Darwin.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -575,7 +575,7 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 		<td>@github  </td>
 		<td><a target="_blank" href="https://twitter.com/MishManners">MishManners</a></td>
 		<td>Melbourne Australia</td>
-		<td>2009</td>
+		<td>2010</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -5268,7 +5268,7 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/AvangelistaDev">AvangelistaDev</a></td>
 		<td>Sydney Australia</td>
-		<td>334</td>
+		<td>335</td>
 	</tr>
 	<tr>
 		<td>398</td>
@@ -6391,6 +6391,19 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 	<tr>
 		<td>484</td>
 		<td>
+			<a target="_blank" href="https://github.com/tobyilee">
+				<img src="https://avatars.githubusercontent.com/u/19189?s=72&v=4" width="24" alt="Avatar of tobyilee"/> tobyilee
+			</a><br/>
+			Toby Lee
+		</td>
+		<td>Epril Pty Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Brisbane AU</td>
+		<td>284</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
 			<a target="_blank" href="https://github.com/NathanW2">
 				<img src="https://avatars.githubusercontent.com/u/381660?s=72&u=18ca8adcdd61491607c1336f0cf245c1e503eb03&v=4" width="24" alt="Avatar of NathanW2"/> NathanW2
 			</a><br/>
@@ -6400,19 +6413,6 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Australia</td>
 		<td>284</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a target="_blank" href="https://github.com/tobyilee">
-				<img src="https://avatars.githubusercontent.com/u/19189?s=72&v=4" width="24" alt="Avatar of tobyilee"/> tobyilee
-			</a><br/>
-			Toby Lee
-		</td>
-		<td>Epril Pty Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Brisbane AU</td>
-		<td>283</td>
 	</tr>
 	<tr>
 		<td>486</td>
@@ -7080,6 +7080,19 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 	<tr>
 		<td>537</td>
 		<td>
+			<a target="_blank" href="https://github.com/KimMeen">
+				<img src="https://avatars.githubusercontent.com/u/33118451?s=72&u=713b605cdb4fc3da717e945ab14b2e237be6a9f6&v=4" width="24" alt="Avatar of KimMeen"/> KimMeen
+			</a><br/>
+			Ming Jin
+		</td>
+		<td>Griffith University </td>
+		<td>No Twitter Username</td>
+		<td>Brisbane Australia</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
 			<a target="_blank" href="https://github.com/adevnadia">
 				<img src="https://avatars.githubusercontent.com/u/6586830?s=72&u=6c03f4a6cf5acad5e6a564297219356ebfb8c52d&v=4" width="24" alt="Avatar of adevnadia"/> adevnadia
 			</a><br/>
@@ -7091,7 +7104,7 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/stuartcarnie">
 				<img src="https://avatars.githubusercontent.com/u/52852?s=72&v=4" width="24" alt="Avatar of stuartcarnie"/> stuartcarnie
@@ -7101,19 +7114,6 @@ There are `929 users`  in Australia. You need at least `156 followers` to be on 
 		<td>Influxdata </td>
 		<td><a target="_blank" href="https://twitter.com/stuartcarnie">stuartcarnie</a></td>
 		<td>Launceston TAS Australia</td>
-		<td>259</td>
-	</tr>
-	<tr>
-		<td>539</td>
-		<td>
-			<a target="_blank" href="https://github.com/KimMeen">
-				<img src="https://avatars.githubusercontent.com/u/33118451?s=72&u=713b605cdb4fc3da717e945ab14b2e237be6a9f6&v=4" width="24" alt="Avatar of KimMeen"/> KimMeen
-			</a><br/>
-			Ming Jin
-		</td>
-		<td>Griffith University </td>
-		<td>No Twitter Username</td>
-		<td>Brisbane Australia</td>
 		<td>259</td>
 	</tr>
 	<tr>
