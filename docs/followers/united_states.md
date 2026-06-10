@@ -1,0 +1,5177 @@
+---
+title: United States 
+description: Top GitHub Users By Followers in United States 
+---
+
+# Top GitHub Users By Followers in United States [<img alt="Image of insights" src="https://github.com/ePlus-DEV/view-counter/raw/main/graph/749591754/small/week.png" height="24"/>](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+[![Top GitHub Users](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml/badge.svg)](https://github.com/ePlus-DEV/top-github-users/actions/workflows/top.yml) [![Image of insights](https://github.com/ePlus-DEV/view-counter/raw/main/svg/749591754/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/master/readme/749591754/week.md)
+
+<a target="_blank" href="https://top-github-users.eplus.dev">
+	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States"/>
+</a>
+
+The `number of followers` of users in United States on `2026/6/10 3:08 PM UTC`. This list contains users from United States and cities Newyork Chicago Losangeles Sanfrancisco Austin Seattle.
+
+There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
+
+There are `384 users`  in United States. You need at least `1447 followers` to be on this list.
+
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/public-contributions/united_states.md">Top Users By Public Contributions</a>
+		</td>
+		<td>
+			<a href="https://github.com/ePlus-DEV/top-github-users/blob/main/docs/total-contributions/united_states.md">Top Users By Total Contributions</a>
+		</td>
+		<td>
+			<strong>Top Users By Followers</strong>
+		</td>
+	</tr>
+</table>
+
+### 🚀 Share on
+
+<table>
+	<tr>
+		<td>
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&_rdc=1&_rdr">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&app_id=291494419107518&redirect_uri=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://t.me/share/url?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://vk.com/share.php?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
+			</a>
+		</td>
+		<td>
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
+			</a>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th>#</th>
+		<th>Name</th>
+		<th>Company</th>
+		<th>Twitter Username</th>
+		<th>Location</th>
+		<th>Followers</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>
+			<a target="_blank" href="https://github.com/lucidrains">
+				<img src="https://avatars.githubusercontent.com/u/108653?s=72&u=6d8a8e8d28f8512933d729d7503ae3e622d59c64&v=4" width="24" alt="Avatar of lucidrains"/> lucidrains
+			</a><br/>
+			Phil Wang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>60845</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
+			<a target="_blank" href="https://github.com/steipete">
+				<img src="https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4" width="24" alt="Avatar of steipete"/> steipete
+			</a><br/>
+			Peter Steinberger
+		</td>
+		<td>Openai </td>
+		<td><a target="_blank" href="https://twitter.com/steipete">steipete</a></td>
+		<td>London  San Francisco</td>
+		<td>51239</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a target="_blank" href="https://github.com/getify">
+				<img src="https://avatars.githubusercontent.com/u/150330?s=72&u=41aa48771028d34bcf025eefe919bf75fbda77d4&v=4" width="24" alt="Avatar of getify"/> getify
+			</a><br/>
+			Kyle Simpson
+		</td>
+		<td>Getify Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>45141</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a target="_blank" href="https://github.com/ry">
+				<img src="https://avatars.githubusercontent.com/u/80?s=72&v=4" width="24" alt="Avatar of ry"/> ry
+			</a><br/>
+			Ryan Dahl
+		</td>
+		<td>@denoland  </td>
+		<td>No Twitter Username</td>
+		<td>New York City</td>
+		<td>33197</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a target="_blank" href="https://github.com/benawad">
+				<img src="https://avatars.githubusercontent.com/u/7872329?s=72&u=fe75ed131c7e03df13fedd43c03aed86fdf85dcc&v=4" width="24" alt="Avatar of benawad"/> benawad
+			</a><br/>
+			Ben Awad
+		</td>
+		<td>Voidpet </td>
+		<td><a target="_blank" href="https://twitter.com/benawad">benawad</a></td>
+		<td>San Francisco CA</td>
+		<td>28984</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a target="_blank" href="https://github.com/buckyroberts">
+				<img src="https://avatars.githubusercontent.com/u/8547538?s=72&u=8a4be84ff4870a332fe94c11fca02b432fb9f83e&v=4" width="24" alt="Avatar of buckyroberts"/> buckyroberts
+			</a><br/>
+			Bucky Roberts
+		</td>
+		<td>Thenewboston </td>
+		<td><a target="_blank" href="https://twitter.com/bucky_roberts">bucky_roberts</a></td>
+		<td>New York NY</td>
+		<td>27006</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a target="_blank" href="https://github.com/gvanrossum">
+				<img src="https://avatars.githubusercontent.com/u/2894642?s=72&u=3fd95e46e081102446b1ebdf31e1cf3d77406c0b&v=4" width="24" alt="Avatar of gvanrossum"/> gvanrossum
+			</a><br/>
+			Guido van Rossum
+		</td>
+		<td>Microsoft </td>
+		<td><a target="_blank" href="https://twitter.com/gvanrossum">gvanrossum</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>26332</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a target="_blank" href="https://github.com/mojombo">
+				<img src="https://avatars.githubusercontent.com/u/1?s=72&v=4" width="24" alt="Avatar of mojombo"/> mojombo
+			</a><br/>
+			Tom PrestonWerner
+		</td>
+		<td>@chatterbugapp @redwoodjs @prestonwernerventur <br/></td>
+		<td><a target="_blank" href="https://twitter.com/mojombo">mojombo</a></td>
+		<td>San Francisco</td>
+		<td>24632</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a target="_blank" href="https://github.com/mdo">
+				<img src="https://avatars.githubusercontent.com/u/98681?s=72&u=06189d8e78eb46bb608df3f705c229c5d43d797c&v=4" width="24" alt="Avatar of mdo"/> mdo
+			</a><br/>
+			Mark Otto
+		</td>
+		<td>@pierredotco  </td>
+		<td><a target="_blank" href="https://twitter.com/mdo">mdo</a></td>
+		<td>San Francisco CA</td>
+		<td>23668</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
+			<a target="_blank" href="https://github.com/mbostock">
+				<img src="https://avatars.githubusercontent.com/u/230541?s=72&u=1daa79b65f78d09663f7e6b97bf0b74a0bce8a97&v=4" width="24" alt="Avatar of mbostock"/> mbostock
+			</a><br/>
+			Mike Bostock
+		</td>
+		<td>@observablehq  </td>
+		<td><a target="_blank" href="https://twitter.com/mbostock">mbostock</a></td>
+		<td>San Francisco CA</td>
+		<td>23384</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a target="_blank" href="https://github.com/chiphuyen">
+				<img src="https://avatars.githubusercontent.com/u/11997567?s=72&u=53a5591a265a57dc2edc648ebdce277317101c14&v=4" width="24" alt="Avatar of chiphuyen"/> chiphuyen
+			</a><br/>
+			Chip Huyen
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/chipro">chipro</a></td>
+		<td>San Francisco</td>
+		<td>23250</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a target="_blank" href="https://github.com/mitchellh">
+				<img src="https://avatars.githubusercontent.com/u/1299?s=72&u=cc88a733b0c95bdfd323ec661c0da4c6768c4e4b&v=4" width="24" alt="Avatar of mitchellh"/> mitchellh
+			</a><br/>
+			Mitchell Hashimoto
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/mitchellh">mitchellh</a></td>
+		<td>Los Angeles CA</td>
+		<td>22969</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a target="_blank" href="https://github.com/octocat">
+				<img src="https://avatars.githubusercontent.com/u/583231?s=72&u=a59fef2a493e2b67dd13754231daf220c82ba84d&v=4" width="24" alt="Avatar of octocat"/> octocat
+			</a><br/>
+			The Octocat
+		</td>
+		<td>@github </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>22909</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a target="_blank" href="https://github.com/shiffman">
+				<img src="https://avatars.githubusercontent.com/u/191758?s=72&u=a6f4a24c363ab8271c20754e1bdcef6ce4020360&v=4" width="24" alt="Avatar of shiffman"/> shiffman
+			</a><br/>
+			Daniel Shiffman
+		</td>
+		<td>@codingtrain @itpnyu @processing <br/>@ml5js<br/>@natureofcode<br/>@programmingfromatoz<br/><br/></td>
+		<td><a target="_blank" href="https://twitter.com/shiffman">shiffman</a></td>
+		<td>New York NY</td>
+		<td>19502</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a target="_blank" href="https://github.com/t3dotgg">
+				<img src="https://avatars.githubusercontent.com/u/6751787?s=72&u=69a6486b20fc980615e51457f6a5b56103cea295&v=4" width="24" alt="Avatar of t3dotgg"/> t3dotgg
+			</a><br/>
+			Theo Browne
+		</td>
+		<td>Ceo @ Pinggg </td>
+		<td><a target="_blank" href="https://twitter.com/theo">theo</a></td>
+		<td>San Francisco CA</td>
+		<td>18840</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a target="_blank" href="https://github.com/cumsoft">
+				<img src="https://avatars.githubusercontent.com/u/97250816?s=72&u=208afef4fb98cb0e28832a9ebba59247c5bacb95&v=4" width="24" alt="Avatar of cumsoft"/> cumsoft
+			</a><br/>
+			cumsoft
+		</td>
+		<td>Cumsoft </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>18477</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a target="_blank" href="https://github.com/trekhleb">
+				<img src="https://avatars.githubusercontent.com/u/3000285?s=72&u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4" width="24" alt="Avatar of trekhleb"/> trekhleb
+			</a><br/>
+			Oleksii Trekhleb
+		</td>
+		<td>Uber </td>
+		<td><a target="_blank" href="https://twitter.com/trekhleb">trekhleb</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>17890</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a target="_blank" href="https://github.com/vczh">
+				<img src="https://avatars.githubusercontent.com/u/773569?s=72&u=6e9b51d46dc1c12778b42b944d1ccaa3cda5446f&v=4" width="24" alt="Avatar of vczh"/> vczh
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA USA</td>
+		<td>17521</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a target="_blank" href="https://github.com/danielmiessler">
+				<img src="https://avatars.githubusercontent.com/u/50654?s=72&u=2d065ec8d4a19ed53ccbaed7fddbb28adbce12cd&v=4" width="24" alt="Avatar of danielmiessler"/> danielmiessler
+			</a><br/>
+			Daniel Miessler 
+		</td>
+		<td>Unsupervised Learning </td>
+		<td><a target="_blank" href="https://twitter.com/danielmiessler">danielmiessler</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>16011</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a target="_blank" href="https://github.com/idimetrix">
+				<img src="https://avatars.githubusercontent.com/u/6536323?s=72&u=8bdc3b5ad5ad63a6956ba6890107e8efc6c2d67c&v=4" width="24" alt="Avatar of idimetrix"/> idimetrix
+			</a><br/>
+			Dmitry Selikhov
+		</td>
+		<td>@elevanceit </td>
+		<td><a target="_blank" href="https://twitter.com/idimetrix">idimetrix</a></td>
+		<td>New York</td>
+		<td>15801</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a target="_blank" href="https://github.com/mosh-hamedani">
+				<img src="https://avatars.githubusercontent.com/u/5441280?s=72&u=0cd33f47d20dc54ef8ef4a9ac233b4ad558cecc7&v=4" width="24" alt="Avatar of mosh-hamedani"/> mosh-hamedani
+			</a><br/>
+			Mosh Hamedani
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/moshhamedani">moshhamedani</a></td>
+		<td>Los Angeles</td>
+		<td>15690</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a target="_blank" href="https://github.com/lydiahallie">
+				<img src="https://avatars.githubusercontent.com/u/29451794?s=72&u=f45877206b6d211383c6fe83ac8d0fdf50724b64&v=4" width="24" alt="Avatar of lydiahallie"/> lydiahallie
+			</a><br/>
+			Lydia Hallie
+		</td>
+		<td>@anthropics </td>
+		<td><a target="_blank" href="https://twitter.com/lydiahallie">lydiahallie</a></td>
+		<td>San Francisco</td>
+		<td>15188</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a target="_blank" href="https://github.com/acdlite">
+				<img src="https://avatars.githubusercontent.com/u/3624098?s=72&u=94d8ba563cef4d8fd24c4b666272a71af46a2fa1&v=4" width="24" alt="Avatar of acdlite"/> acdlite
+			</a><br/>
+			Andrew Clark
+		</td>
+		<td>@vercel  </td>
+		<td><a target="_blank" href="https://twitter.com/acdlite">acdlite</a></td>
+		<td>New York</td>
+		<td>14953</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a target="_blank" href="https://github.com/cassidoo">
+				<img src="https://avatars.githubusercontent.com/u/1454517?s=72&u=92a133438fecfefc65c4c73143a0f717bd5e7515&v=4" width="24" alt="Avatar of cassidoo"/> cassidoo
+			</a><br/>
+			Cassidy Williams
+		</td>
+		<td>Github </td>
+		<td><a target="_blank" href="https://twitter.com/cassidoo">cassidoo</a></td>
+		<td>Chicago IL</td>
+		<td>14866</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a target="_blank" href="https://github.com/evanw">
+				<img src="https://avatars.githubusercontent.com/u/406394?s=72&u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4" width="24" alt="Avatar of evanw"/> evanw
+			</a><br/>
+			Evan Wallace
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>14061</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a target="_blank" href="https://github.com/btholt">
+				<img src="https://avatars.githubusercontent.com/u/999523?s=72&u=396cf362bd606f319e3e9178453b7c726c9cf7b8&v=4" width="24" alt="Avatar of btholt"/> btholt
+			</a><br/>
+			Brian Holt
+		</td>
+		<td>@microsoft </td>
+		<td><a target="_blank" href="https://twitter.com/holtbt">holtbt</a></td>
+		<td>Seattle WA</td>
+		<td>13512</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a target="_blank" href="https://github.com/soumith">
+				<img src="https://avatars.githubusercontent.com/u/1310570?s=72&u=0770d24defb6f5e5e891aa0e7915a3ba8adb02be&v=4" width="24" alt="Avatar of soumith"/> soumith
+			</a><br/>
+			Soumith Chintala
+		</td>
+		<td>Thinking Machines </td>
+		<td>No Twitter Username</td>
+		<td>New York USA</td>
+		<td>13343</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a target="_blank" href="https://github.com/bradfitz">
+				<img src="https://avatars.githubusercontent.com/u/2621?s=72&u=6deb06d9916328265486504f364c80ec2d969f2c&v=4" width="24" alt="Avatar of bradfitz"/> bradfitz
+			</a><br/>
+			Brad Fitzpatrick
+		</td>
+		<td>Tailscale </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>13315</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a target="_blank" href="https://github.com/rakyll">
+				<img src="https://avatars.githubusercontent.com/u/108380?s=72&u=767dd811588feea1f93f65fb1fad44a754f70315&v=4" width="24" alt="Avatar of rakyll"/> rakyll
+			</a><br/>
+			Jaana Dogan
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/rakyll">rakyll</a></td>
+		<td>San Francisco CA</td>
+		<td>13115</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a target="_blank" href="https://github.com/BYVoid">
+				<img src="https://avatars.githubusercontent.com/u/245270?s=72&v=4" width="24" alt="Avatar of BYVoid"/> BYVoid
+			</a><br/>
+			Carbo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>12669</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a target="_blank" href="https://github.com/mnielsen">
+				<img src="https://avatars.githubusercontent.com/u/52171?s=72&v=4" width="24" alt="Avatar of mnielsen"/> mnielsen
+			</a><br/>
+			Michael Nielsen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco California</td>
+		<td>12284</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a target="_blank" href="https://github.com/agentzh">
+				<img src="https://avatars.githubusercontent.com/u/56241?s=72&u=9bfe3cdd99f8aceb640302747b3396ff979d10bd&v=4" width="24" alt="Avatar of agentzh"/> agentzh
+			</a><br/>
+			Yichun Zhang
+		</td>
+		<td>Openresty Inc </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area</td>
+		<td>11836</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a target="_blank" href="https://github.com/samyk">
+				<img src="https://avatars.githubusercontent.com/u/411832?s=72&u=d6784ef5a350c4132e1604b7f152eaed1d6ed3a8&v=4" width="24" alt="Avatar of samyk"/> samyk
+			</a><br/>
+			samy kamkar
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/samykamkar">samykamkar</a></td>
+		<td>los angeles</td>
+		<td>11816</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a target="_blank" href="https://github.com/bvaughn">
+				<img src="https://avatars.githubusercontent.com/u/29597?s=72&u=9b8b4e1ce7a2a51c9bb6791becb6cba65f904dfd&v=4" width="24" alt="Avatar of bvaughn"/> bvaughn
+			</a><br/>
+			Brian Vaughn
+		</td>
+		<td>Citadel </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>11644</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a target="_blank" href="https://github.com/zenorocha">
+				<img src="https://avatars.githubusercontent.com/u/398893?s=72&u=06bdf08d3ce2e81c8f5778aa7c3a47068e97c475&v=4" width="24" alt="Avatar of zenorocha"/> zenorocha
+			</a><br/>
+			Zeno Rocha
+		</td>
+		<td>@resend </td>
+		<td><a target="_blank" href="https://twitter.com/zenorocha">zenorocha</a></td>
+		<td>San Francisco California</td>
+		<td>11504</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a target="_blank" href="https://github.com/necolas">
+				<img src="https://avatars.githubusercontent.com/u/239676?s=72&u=41d5fbb1076c8e568152702a2a6c29fb4d80c485&v=4" width="24" alt="Avatar of necolas"/> necolas
+			</a><br/>
+			Nicolas Gallagher
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>11371</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a target="_blank" href="https://github.com/garrytan">
+				<img src="https://avatars.githubusercontent.com/u/19957?s=72&u=d95c4a92ff27aea2b16949b1a31b434c61b64453&v=4" width="24" alt="Avatar of garrytan"/> garrytan
+			</a><br/>
+			Garry Tan
+		</td>
+		<td>Y Combinator </td>
+		<td><a target="_blank" href="https://twitter.com/garrytan">garrytan</a></td>
+		<td>San Francisco CA</td>
+		<td>11144</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a target="_blank" href="https://github.com/munificent">
+				<img src="https://avatars.githubusercontent.com/u/46275?s=72&v=4" width="24" alt="Avatar of munificent"/> munificent
+			</a><br/>
+			Bob Nystrom
+		</td>
+		<td>@google On @dartlang <br/></td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>11008</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a target="_blank" href="https://github.com/romannurik">
+				<img src="https://avatars.githubusercontent.com/u/100155?s=72&v=4" width="24" alt="Avatar of romannurik"/> romannurik
+			</a><br/>
+			Roman Nurik
+		</td>
+		<td>@google  </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>10682</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a target="_blank" href="https://github.com/sophiebits">
+				<img src="https://avatars.githubusercontent.com/u/6820?s=72&u=d3f94842a6c3c49299ccca93be4979d0a849d7c9&v=4" width="24" alt="Avatar of sophiebits"/> sophiebits
+			</a><br/>
+			Sophie Alpert
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/sophiebits">sophiebits</a></td>
+		<td>San Francisco CA</td>
+		<td>10453</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a target="_blank" href="https://github.com/jaredpalmer">
+				<img src="https://avatars.githubusercontent.com/u/4060187?s=72&u=8093f80db577610c38c680a82550e6b1952b8f7e&v=4" width="24" alt="Avatar of jaredpalmer"/> jaredpalmer
+			</a><br/>
+			Jared Palmer
+		</td>
+		<td>Xbox @microsoft  </td>
+		<td><a target="_blank" href="https://twitter.com/jaredpalmer">jaredpalmer</a></td>
+		<td>New York NY</td>
+		<td>10323</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a target="_blank" href="https://github.com/joshlong">
+				<img src="https://avatars.githubusercontent.com/u/54473?s=72&v=4" width="24" alt="Avatar of joshlong"/> joshlong
+			</a><br/>
+			Josh Long
+		</td>
+		<td>The Spring Team Httpsspringio<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>9999</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a target="_blank" href="https://github.com/colah">
+				<img src="https://avatars.githubusercontent.com/u/61658?s=72&v=4" width="24" alt="Avatar of colah"/> colah
+			</a><br/>
+			Christopher Olah
+		</td>
+		<td>Anthropic </td>
+		<td><a target="_blank" href="https://twitter.com/ch402">ch402</a></td>
+		<td>San Francisco</td>
+		<td>9853</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a target="_blank" href="https://github.com/tenderlove">
+				<img src="https://avatars.githubusercontent.com/u/3124?s=72&u=6ece6a5a8b8ea32c5fa94c325d151bc01d1e44e8&v=4" width="24" alt="Avatar of tenderlove"/> tenderlove
+			</a><br/>
+			Aaron Patterson
+		</td>
+		<td>@shopify </td>
+		<td><a target="_blank" href="https://twitter.com/tenderlove">tenderlove</a></td>
+		<td>Seattle</td>
+		<td>9621</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a target="_blank" href="https://github.com/sebmarkbage">
+				<img src="https://avatars.githubusercontent.com/u/63648?s=72&u=f1387d49fb1d3a6e7b26f0e5847eca5fa82c26a5&v=4" width="24" alt="Avatar of sebmarkbage"/> sebmarkbage
+			</a><br/>
+			Sebastian Markbge
+		</td>
+		<td>Vercel </td>
+		<td>No Twitter Username</td>
+		<td>New York City</td>
+		<td>9421</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a target="_blank" href="https://github.com/carpedm20">
+				<img src="https://avatars.githubusercontent.com/u/3346407?s=72&u=066fee5dfe83dd1a0cce9da40a184f9aa3ef284e&v=4" width="24" alt="Avatar of carpedm20"/> carpedm20
+			</a><br/>
+			Taehoon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>9282</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a target="_blank" href="https://github.com/felangel">
+				<img src="https://avatars.githubusercontent.com/u/8855632?s=72&u=4a3d7c7d18ec5ead905d12f9ba8401f1de495d8b&v=4" width="24" alt="Avatar of felangel"/> felangel
+			</a><br/>
+			Felix Angelov
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/felangelov">felangelov</a></td>
+		<td>Chicago</td>
+		<td>9245</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a target="_blank" href="https://github.com/bcherny">
+				<img src="https://avatars.githubusercontent.com/u/1761758?s=72&u=a7b1ed42ce41cc6761d0f6a67c8ef9a029a2fa8f&v=4" width="24" alt="Avatar of bcherny"/> bcherny
+			</a><br/>
+			Boris Cherny
+		</td>
+		<td>@anthropic </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>8941</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a target="_blank" href="https://github.com/ahmetb">
+				<img src="https://avatars.githubusercontent.com/u/159209?s=72&u=7484858b12e4c4a7fe1351d1f0b406076805deb2&v=4" width="24" alt="Avatar of ahmetb"/> ahmetb
+			</a><br/>
+			Ahmet Alp Balkan
+		</td>
+		<td>@linkedin  </td>
+		<td><a target="_blank" href="https://twitter.com/ahmetb">ahmetb</a></td>
+		<td>Seattle WA</td>
+		<td>8833</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a target="_blank" href="https://github.com/CleverProgrammer">
+				<img src="https://avatars.githubusercontent.com/u/8461930?s=72&v=4" width="24" alt="Avatar of CleverProgrammer"/> CleverProgrammer
+			</a><br/>
+			Rafeh Qazi
+		</td>
+		<td>Clever Programmer </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles</td>
+		<td>8774</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a target="_blank" href="https://github.com/Jarred-Sumner">
+				<img src="https://avatars.githubusercontent.com/u/709451?s=72&u=c72c2dd8b0368dc63bf2278e0f4f2ff290449cfb&v=4" width="24" alt="Avatar of Jarred-Sumner"/> Jarred-Sumner
+			</a><br/>
+			Jarred Sumner
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/jarredsumner">jarredsumner</a></td>
+		<td>San Francisco CA</td>
+		<td>8523</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a target="_blank" href="https://github.com/koush">
+				<img src="https://avatars.githubusercontent.com/u/73924?s=72&u=66dae9ea097c1f29a2723bd2f6f7c434d49433cf&v=4" width="24" alt="Avatar of koush"/> koush
+			</a><br/>
+			Koushik Dutta
+		</td>
+		<td>Clockworkmod </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>8407</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a target="_blank" href="https://github.com/Nutlope">
+				<img src="https://avatars.githubusercontent.com/u/63742054?s=72&u=befe4ae74b906698be965bad482d0e02fc7707ab&v=4" width="24" alt="Avatar of Nutlope"/> Nutlope
+			</a><br/>
+			Hassan El Mghari
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/nutlope">nutlope</a></td>
+		<td>New York City NY</td>
+		<td>8161</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a target="_blank" href="https://github.com/ethanflower1903">
+				<img src="https://avatars.githubusercontent.com/u/84658436?s=72&u=fa4791c10bdb6d04372f788f4f6250ab0d27a090&v=4" width="24" alt="Avatar of ethanflower1903"/> ethanflower1903
+			</a><br/>
+			Ethan Flower01100101 01110100 01101000 01100001 01101110
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>san francisco</td>
+		<td>8080</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a target="_blank" href="https://github.com/Trinkle23897">
+				<img src="https://avatars.githubusercontent.com/u/8189182?s=72&v=4" width="24" alt="Avatar of Trinkle23897"/> Trinkle23897
+			</a><br/>
+			Jiayi Weng
+		</td>
+		<td>@openai  </td>
+		<td><a target="_blank" href="https://twitter.com/trinkle23897">trinkle23897</a></td>
+		<td>San Francisco</td>
+		<td>8034</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a target="_blank" href="https://github.com/DeborahK">
+				<img src="https://avatars.githubusercontent.com/u/7987365?s=72&u=9591b04ff6ddd19728a1faa14991daa2a1df3ebf&v=4" width="24" alt="Avatar of DeborahK"/> DeborahK
+			</a><br/>
+			Deborah Kurata
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/deborahkurata">deborahkurata</a></td>
+		<td>San FranciscoSilicon Valley CA</td>
+		<td>8002</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a target="_blank" href="https://github.com/swyxio">
+				<img src="https://avatars.githubusercontent.com/u/6764957?s=72&u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4" width="24" alt="Avatar of swyxio"/> swyxio
+			</a><br/>
+			swyxio
+		</td>
+		<td>Smolai </td>
+		<td><a target="_blank" href="https://twitter.com/swyx">swyx</a></td>
+		<td>San Francisco</td>
+		<td>7542</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a target="_blank" href="https://github.com/jtleek">
+				<img src="https://avatars.githubusercontent.com/u/1571674?s=72&u=3887206f975b456d181c83d7a1a19a6cc96804fa&v=4" width="24" alt="Avatar of jtleek"/> jtleek
+			</a><br/>
+			Jeff L
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>7416</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a target="_blank" href="https://github.com/steveklabnik">
+				<img src="https://avatars.githubusercontent.com/u/27786?s=72&u=5af723f67163593cc930a745f73a64a3b1e150e3&v=4" width="24" alt="Avatar of steveklabnik"/> steveklabnik
+			</a><br/>
+			Steve Klabnik
+		</td>
+		<td>East River Source Control<br/></td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>7366</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a target="_blank" href="https://github.com/affaan-m">
+				<img src="https://avatars.githubusercontent.com/u/124439313?s=72&u=9a9e442dbb6a4a4b9ce24c7548bf9071fef54651&v=4" width="24" alt="Avatar of affaan-m"/> affaan-m
+			</a><br/>
+			Affaan Mustafa
+		</td>
+		<td>It </td>
+		<td><a target="_blank" href="https://twitter.com/affaanmustafa">affaanmustafa</a></td>
+		<td>San Francisco CA  Bellevue WA</td>
+		<td>7117</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
+			<a target="_blank" href="https://github.com/mxstbr">
+				<img src="https://avatars.githubusercontent.com/u/7525670?s=72&u=567e0a98c884001cfacbffb7ccf93446aa364ab3&v=4" width="24" alt="Avatar of mxstbr"/> mxstbr
+			</a><br/>
+			Max Stoiber
+		</td>
+		<td>@shopify </td>
+		<td><a target="_blank" href="https://twitter.com/mxstbr">mxstbr</a></td>
+		<td>San Francisco CA</td>
+		<td>7114</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a target="_blank" href="https://github.com/nat">
+				<img src="https://avatars.githubusercontent.com/u/56260?s=72&u=f59f1342ef09e1c0590c1daaf423ef9ee654ee62&v=4" width="24" alt="Avatar of nat"/> nat
+			</a><br/>
+			Nat Friedman
+		</td>
+		<td>Github </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>7091</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a target="_blank" href="https://github.com/ankane">
+				<img src="https://avatars.githubusercontent.com/u/220358?s=72&u=ba13f3240d7992dc4124a33a4fc65bf4924e5375&v=4" width="24" alt="Avatar of ankane"/> ankane
+			</a><br/>
+			Andrew Kane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>6892</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a target="_blank" href="https://github.com/ahmadawais">
+				<img src="https://avatars.githubusercontent.com/u/960133?s=72&u=1a1a9863b2dd635be4ddfae7692060b0963c5c4b&v=4" width="24" alt="Avatar of ahmadawais"/> ahmadawais
+			</a><br/>
+			Ahmad Awais
+		</td>
+		<td>Founder  Ceo @commandcodeai<br/>Vp<br/>Devtools<br/>@google<br/>Gdab<br/>Gde<br/><br/></td>
+		<td><a target="_blank" href="https://twitter.com/MrAhmadAwais">MrAhmadAwais</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>6734</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a target="_blank" href="https://github.com/TooTallNate">
+				<img src="https://avatars.githubusercontent.com/u/71256?s=72&u=d6a9598cd7963ae290923ab12afeff947f542f80&v=4" width="24" alt="Avatar of TooTallNate"/> TooTallNate
+			</a><br/>
+			Nathan Rajlich
+		</td>
+		<td>@vercel  </td>
+		<td><a target="_blank" href="https://twitter.com/tootallnate">tootallnate</a></td>
+		<td>San Francisco CA</td>
+		<td>6543</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a target="_blank" href="https://github.com/holman">
+				<img src="https://avatars.githubusercontent.com/u/2723?s=72&u=af4e36d0aca5cf5a6a1f73948f7873a53735ab81&v=4" width="24" alt="Avatar of holman"/> holman
+			</a><br/>
+			Zach Holman
+		</td>
+		<td>@americanoutlaws  </td>
+		<td><a target="_blank" href="https://twitter.com/holman">holman</a></td>
+		<td>San Francisco</td>
+		<td>6502</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a target="_blank" href="https://github.com/prakhar1989">
+				<img src="https://avatars.githubusercontent.com/u/649249?s=72&u=96f77f0b3a0fb0d50682c7a31bf295e38ff64074&v=4" width="24" alt="Avatar of prakhar1989"/> prakhar1989
+			</a><br/>
+			Prakhar Srivastav
+		</td>
+		<td>@google At @firebase <br/></td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>6487</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a target="_blank" href="https://github.com/hackingthemarkets">
+				<img src="https://avatars.githubusercontent.com/u/59261823?s=72&u=dd88ffe95dd73914bfce9c2c4f104a85f40ffb42&v=4" width="24" alt="Avatar of hackingthemarkets"/> hackingthemarkets
+			</a><br/>
+			Part Time Larry
+		</td>
+		<td>Hacking The Markets </td>
+		<td><a target="_blank" href="https://twitter.com/PartTimeLarry">PartTimeLarry</a></td>
+		<td>San Francisco CA</td>
+		<td>6487</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
+			<a target="_blank" href="https://github.com/TheLarkInn">
+				<img src="https://avatars.githubusercontent.com/u/3408176?s=72&v=4" width="24" alt="Avatar of TheLarkInn"/> TheLarkInn
+			</a><br/>
+			Sean Larkin
+		</td>
+		<td>@microsoft @microsoftedge @webpack @webpackcontrib<br/>@angular<br/></td>
+		<td><a target="_blank" href="https://twitter.com/TheLarkInn">TheLarkInn</a></td>
+		<td>Seattle WA</td>
+		<td>6483</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a target="_blank" href="https://github.com/jbogard">
+				<img src="https://avatars.githubusercontent.com/u/104498?s=72&v=4" width="24" alt="Avatar of jbogard"/> jbogard
+			</a><br/>
+			Jimmy Bogard
+		</td>
+		<td>Jimmy Bogard Consulting Llc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>6455</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
+			<a target="_blank" href="https://github.com/CharlesCreativeContent">
+				<img src="https://avatars.githubusercontent.com/u/62077627?s=72&u=83aaea2c65efc1d73658309774388a1a6151969b&v=4" width="24" alt="Avatar of CharlesCreativeContent"/> CharlesCreativeContent
+			</a><br/>
+			Shawn Charles
+		</td>
+		<td>Examazon </td>
+		<td><a target="_blank" href="https://twitter.com/ShawnBasquiat">ShawnBasquiat</a></td>
+		<td>San Francisco CA</td>
+		<td>6443</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a target="_blank" href="https://github.com/mahseema">
+				<img src="https://avatars.githubusercontent.com/u/143227828?s=72&u=966f0154eb1bee33077b2f00f8632cd3bf719845&v=4" width="24" alt="Avatar of mahseema"/> mahseema
+			</a><br/>
+			Mahsima Dastan
+		</td>
+		<td>@alternbits </td>
+		<td><a target="_blank" href="https://twitter.com/mahsimadastan">mahsimadastan</a></td>
+		<td>San Francisco</td>
+		<td>6326</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a target="_blank" href="https://github.com/EvanBacon">
+				<img src="https://avatars.githubusercontent.com/u/9664363?s=72&u=46ba6d5fbd29729df2950b845c9ca2cd085a1c2b&v=4" width="24" alt="Avatar of EvanBacon"/> EvanBacon
+			</a><br/>
+			Evan Bacon
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/baconbrix">baconbrix</a></td>
+		<td>San Francisco</td>
+		<td>6115</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a target="_blank" href="https://github.com/williamfiset">
+				<img src="https://avatars.githubusercontent.com/u/5898848?s=72&u=a15cc2ea56c35736424b178b0794da2642284931&v=4" width="24" alt="Avatar of williamfiset"/> williamfiset
+			</a><br/>
+			William Fiset
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>6111</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a target="_blank" href="https://github.com/jxnblk">
+				<img src="https://avatars.githubusercontent.com/u/3451712?s=72&u=f6f9aee58f995c8b14827a9c3c1277adaf5d84fc&v=4" width="24" alt="Avatar of jxnblk"/> jxnblk
+			</a><br/>
+			Brent Jackson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York City</td>
+		<td>6092</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a target="_blank" href="https://github.com/petehunt">
+				<img src="https://avatars.githubusercontent.com/u/239742?s=72&u=d23a37b678429916399d2706be2f1f25bf865efe&v=4" width="24" alt="Avatar of petehunt"/> petehunt
+			</a><br/>
+			Pete Hunt
+		</td>
+		<td>Dagster Labs </td>
+		<td><a target="_blank" href="https://twitter.com/floydophone">floydophone</a></td>
+		<td>San Francisco CA</td>
+		<td>6063</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a target="_blank" href="https://github.com/steven-tey">
+				<img src="https://avatars.githubusercontent.com/u/28986134?s=72&u=c4b63cf70281d6e148cd852319627f5dfab632b9&v=4" width="24" alt="Avatar of steven-tey"/> steven-tey
+			</a><br/>
+			Steven Tey
+		</td>
+		<td>@dubinc </td>
+		<td><a target="_blank" href="https://twitter.com/steventey">steventey</a></td>
+		<td>Seattle WA</td>
+		<td>6037</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a target="_blank" href="https://github.com/JordanSchuetz">
+				<img src="https://avatars.githubusercontent.com/u/1023379?s=72&u=38c5e5c5ff9931120970a8885698aa7230154928&v=4" width="24" alt="Avatar of JordanSchuetz"/> JordanSchuetz
+			</a><br/>
+			Jordan Schuetz
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/jordanschuetz">jordanschuetz</a></td>
+		<td>San Francisco CA</td>
+		<td>6025</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a target="_blank" href="https://github.com/nullptrException100">
+				<img src="https://avatars.githubusercontent.com/u/156743576?s=72&u=d629ef261918297c0c5e9f9af5b0b8f65f643b20&v=4" width="24" alt="Avatar of nullptrException100"/> nullptrException100
+			</a><br/>
+			David Clark
+		</td>
+		<td>Google Youtube Music </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles California USA</td>
+		<td>5971</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a target="_blank" href="https://github.com/moxie0">
+				<img src="https://avatars.githubusercontent.com/u/512439?s=72&v=4" width="24" alt="Avatar of moxie0"/> moxie0
+			</a><br/>
+			Moxie Marlinspike
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/moxie">moxie</a></td>
+		<td>San Francisco</td>
+		<td>5957</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a target="_blank" href="https://github.com/hussien89aa">
+				<img src="https://avatars.githubusercontent.com/u/7304399?s=72&u=f51bbc2394fa51ba7d6672bc36ae4801f164fe1f&v=4" width="24" alt="Avatar of hussien89aa"/> hussien89aa
+			</a><br/>
+			Hussein Alrubaye
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>5857</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a target="_blank" href="https://github.com/felixrieseberg">
+				<img src="https://avatars.githubusercontent.com/u/1426799?s=72&u=4f954e789d82f34fdc808de92622fb0e22996032&v=4" width="24" alt="Avatar of felixrieseberg"/> felixrieseberg
+			</a><br/>
+			Felix Rieseberg
+		</td>
+		<td>Anthropic </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>5820</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a target="_blank" href="https://github.com/hosseinhezami">
+				<img src="https://avatars.githubusercontent.com/u/8210576?s=72&u=aeb1b166a7ff6bc33318a5c9eda66dd5844b71e2&v=4" width="24" alt="Avatar of hosseinhezami"/> hosseinhezami
+			</a><br/>
+			Hossein Hezami
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/hosseinhezami">hosseinhezami</a></td>
+		<td>New York</td>
+		<td>5801</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a target="_blank" href="https://github.com/hak5darren">
+				<img src="https://avatars.githubusercontent.com/u/1307248?s=72&v=4" width="24" alt="Avatar of hak5darren"/> hak5darren
+			</a><br/>
+			Darren Kitchen
+		</td>
+		<td>Hak5 Llc </td>
+		<td><a target="_blank" href="https://twitter.com/Hak5Darren">Hak5Darren</a></td>
+		<td>San Francisco CA</td>
+		<td>5787</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a target="_blank" href="https://github.com/KevinHock">
+				<img src="https://avatars.githubusercontent.com/u/3076393?s=72&u=d467ef143f7b8eb69a4c2c378793919a9c7549ee&v=4" width="24" alt="Avatar of KevinHock"/> KevinHock
+			</a><br/>
+			No Name
+		</td>
+		<td>Seceng @sierrainc Formerly @grammarly<br/>@pinterest<br/>@yelp<br/></td>
+		<td>No Twitter Username</td>
+		<td>I love San Francisco</td>
+		<td>5646</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a target="_blank" href="https://github.com/nfultz">
+				<img src="https://avatars.githubusercontent.com/u/418638?s=72&u=76fa821dabfbc97cd67519377dcd863210c1f596&v=4" width="24" alt="Avatar of nfultz"/> nfultz
+			</a><br/>
+			Neal Fultz
+		</td>
+		<td>@njnmco @ucla </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles CA</td>
+		<td>5630</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a target="_blank" href="https://github.com/anvaka">
+				<img src="https://avatars.githubusercontent.com/u/225407?s=72&u=ae5ab58bd50a325fdd0b8fa419f42f983a3f04ba&v=4" width="24" alt="Avatar of anvaka"/> anvaka
+			</a><br/>
+			Andrei Kashcha
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/anvaka">anvaka</a></td>
+		<td>Seattle </td>
+		<td>5560</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a target="_blank" href="https://github.com/dabeaz">
+				<img src="https://avatars.githubusercontent.com/u/350836?s=72&u=8d1d3258eba286468d6d014661ac9cc6e31974ff&v=4" width="24" alt="Avatar of dabeaz"/> dabeaz
+			</a><br/>
+			David Beazley
+		</td>
+		<td>Dabeaz Llc </td>
+		<td>No Twitter Username</td>
+		<td>Chicago</td>
+		<td>5541</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a target="_blank" href="https://github.com/vakila">
+				<img src="https://avatars.githubusercontent.com/u/5424927?s=72&u=cf024d4a954cbb35b913db96d66351830b28086b&v=4" width="24" alt="Avatar of vakila"/> vakila
+			</a><br/>
+			Anjana Vakil
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/AnjanaVakil">AnjanaVakil</a></td>
+		<td>San Francisco  Berlin</td>
+		<td>5507</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a target="_blank" href="https://github.com/gazijarin">
+				<img src="https://avatars.githubusercontent.com/u/32211479?s=72&u=549f94369fbdbab7960f309cae1518347fd9bab1&v=4" width="24" alt="Avatar of gazijarin"/> gazijarin
+			</a><br/>
+			Gazi
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>New York City</td>
+		<td>5393</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a target="_blank" href="https://github.com/zpao">
+				<img src="https://avatars.githubusercontent.com/u/8445?s=72&v=4" width="24" alt="Avatar of zpao"/> zpao
+			</a><br/>
+			Paul OShannessy
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/zpao">zpao</a></td>
+		<td>Seattle WA</td>
+		<td>5331</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
+			<a target="_blank" href="https://github.com/leebyron">
+				<img src="https://avatars.githubusercontent.com/u/50130?s=72&u=d3c7c18ff34107c3a4312217171ccb722d6552d7&v=4" width="24" alt="Avatar of leebyron"/> leebyron
+			</a><br/>
+			Lee Byron
+		</td>
+		<td>@watershedclimate </td>
+		<td><a target="_blank" href="https://twitter.com/leeb">leeb</a></td>
+		<td>San Francisco</td>
+		<td>5294</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a target="_blank" href="https://github.com/freddier">
+				<img src="https://avatars.githubusercontent.com/u/824191?s=72&u=5c7ed9675ee6eef0cbd5611e72d1bdb124e64955&v=4" width="24" alt="Avatar of freddier"/> freddier
+			</a><br/>
+			Freddy Vega
+		</td>
+		<td>Platzi </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>5168</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a target="_blank" href="https://github.com/ebidel">
+				<img src="https://avatars.githubusercontent.com/u/238208?s=72&u=a3436da8c87bb63638b6924b70ca6d997f685e8e&v=4" width="24" alt="Avatar of ebidel"/> ebidel
+			</a><br/>
+			Eric Bidelman
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ebidel">ebidel</a></td>
+		<td>Los Angeles CA</td>
+		<td>5093</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a target="_blank" href="https://github.com/mikeal">
+				<img src="https://avatars.githubusercontent.com/u/579?s=72&u=d2d7bcddedf4900d73a23e29c9e3873c4271efde&v=4" width="24" alt="Avatar of mikeal"/> mikeal
+			</a><br/>
+			Mikeal Rogers
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/mikeal">mikeal</a></td>
+		<td>San Francisco</td>
+		<td>5082</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a target="_blank" href="https://github.com/minimaxir">
+				<img src="https://avatars.githubusercontent.com/u/2179708?s=72&u=fa33a847bd260bee190d2994538a1ca32d467445&v=4" width="24" alt="Avatar of minimaxir"/> minimaxir
+			</a><br/>
+			Max Woolf
+		</td>
+		<td>@buzzfeed  </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>5074</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a target="_blank" href="https://github.com/eugeneyan">
+				<img src="https://avatars.githubusercontent.com/u/6831355?s=72&u=4b5cf1f33cb65e8026be3858d624530ec62bbd04&v=4" width="24" alt="Avatar of eugeneyan"/> eugeneyan
+			</a><br/>
+			Eugene Yan
+		</td>
+		<td>@anthropics </td>
+		<td><a target="_blank" href="https://twitter.com/eugeneyan">eugeneyan</a></td>
+		<td>Seattle</td>
+		<td>5051</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a target="_blank" href="https://github.com/lukeed">
+				<img src="https://avatars.githubusercontent.com/u/5855893?s=72&v=4" width="24" alt="Avatar of lukeed"/> lukeed
+			</a><br/>
+			Luke Edwards
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lukeed05">lukeed05</a></td>
+		<td>San Francisco CA</td>
+		<td>5030</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a target="_blank" href="https://github.com/philipwalton">
+				<img src="https://avatars.githubusercontent.com/u/326742?s=72&u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="24" alt="Avatar of philipwalton"/> philipwalton
+			</a><br/>
+			Philip Walton
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/philwalton">philwalton</a></td>
+		<td>Los Angeles CA</td>
+		<td>5025</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a target="_blank" href="https://github.com/soffes">
+				<img src="https://avatars.githubusercontent.com/u/52870?s=72&u=565e84c96cdcfacd929134dcd1bf8bf254712901&v=4" width="24" alt="Avatar of soffes"/> soffes
+			</a><br/>
+			Sam Soffes
+		</td>
+		<td>Apple </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>4799</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a target="_blank" href="https://github.com/kdn251">
+				<img src="https://avatars.githubusercontent.com/u/16903644?s=72&u=7ae585948bc92fb0986bc73b7d38660718aefff1&v=4" width="24" alt="Avatar of kdn251"/> kdn251
+			</a><br/>
+			Kevin Naughton Jr
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/kevinnaughtonjr">kevinnaughtonjr</a></td>
+		<td>New York New York</td>
+		<td>4664</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a target="_blank" href="https://github.com/WillKoehrsen">
+				<img src="https://avatars.githubusercontent.com/u/17484616?s=72&u=05a7c27224789b6fa84d24864e5d852b24f7f125&v=4" width="24" alt="Avatar of WillKoehrsen"/> WillKoehrsen
+			</a><br/>
+			Will Koehrsen
+		</td>
+		<td>@gridstatus  </td>
+		<td>No Twitter Username</td>
+		<td>Chicago IL</td>
+		<td>4658</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a target="_blank" href="https://github.com/jlevy">
+				<img src="https://avatars.githubusercontent.com/u/2058167?s=72&u=49d8a5df94e131b1b699162ab7a97119102742ed&v=4" width="24" alt="Avatar of jlevy"/> jlevy
+			</a><br/>
+			Joshua Levy
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ojoshe">ojoshe</a></td>
+		<td>San Francisco</td>
+		<td>4576</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a target="_blank" href="https://github.com/anishathalye">
+				<img src="https://avatars.githubusercontent.com/u/3526486?s=72&u=b5c6c765e87e17c6718563bae3e693179a039d44&v=4" width="24" alt="Avatar of anishathalye"/> anishathalye
+			</a><br/>
+			Anish Athalye
+		</td>
+		<td>@joinhandshake </td>
+		<td><a target="_blank" href="https://twitter.com/anishathalye">anishathalye</a></td>
+		<td>San Francisco CA</td>
+		<td>4553</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a target="_blank" href="https://github.com/Marak">
+				<img src="https://avatars.githubusercontent.com/u/70011?s=72&v=4" width="24" alt="Avatar of Marak"/> Marak
+			</a><br/>
+			maraketh
+		</td>
+		<td>Maraketh </td>
+		<td><a target="_blank" href="https://twitter.com/marak">marak</a></td>
+		<td>New York City New York</td>
+		<td>4552</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a target="_blank" href="https://github.com/mission-peace">
+				<img src="https://avatars.githubusercontent.com/u/8218054?s=72&v=4" width="24" alt="Avatar of mission-peace"/> mission-peace
+			</a><br/>
+			Mission Peace
+		</td>
+		<td>Amazoncom </td>
+		<td>No Twitter Username</td>
+		<td>Seattle </td>
+		<td>4492</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a target="_blank" href="https://github.com/gordicaleksa">
+				<img src="https://avatars.githubusercontent.com/u/29271842?s=72&u=6b9f534546b35391ab89ea077ab927a75fa834b9&v=4" width="24" alt="Avatar of gordicaleksa"/> gordicaleksa
+			</a><br/>
+			Aleksa Gordi
+		</td>
+		<td>Exdeepmind Exmicrosoft </td>
+		<td><a target="_blank" href="https://twitter.com/gordic_aleksa">gordic_aleksa</a></td>
+		<td>San Francisco</td>
+		<td>4470</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a target="_blank" href="https://github.com/cmuratori">
+				<img src="https://avatars.githubusercontent.com/u/10207980?s=72&u=9065018e87a977a9ee66e6079bb9ccbfde600105&v=4" width="24" alt="Avatar of cmuratori"/> cmuratori
+			</a><br/>
+			Casey Muratori
+		</td>
+		<td>Molly Rocket Inc </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>4446</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a target="_blank" href="https://github.com/hmason">
+				<img src="https://avatars.githubusercontent.com/u/17936?s=72&v=4" width="24" alt="Avatar of hmason"/> hmason
+			</a><br/>
+			Hilary Mason
+		</td>
+		<td>Hidden Door </td>
+		<td><a target="_blank" href="https://twitter.com/hmason">hmason</a></td>
+		<td>New York NY</td>
+		<td>4431</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a target="_blank" href="https://github.com/campoy">
+				<img src="https://avatars.githubusercontent.com/u/2237452?s=72&u=f35074f03fe26f246a06601c794923e63e7dd0b7&v=4" width="24" alt="Avatar of campoy"/> campoy
+			</a><br/>
+			Francesc Campoy
+		</td>
+		<td>Apple </td>
+		<td><a target="_blank" href="https://twitter.com/francesc">francesc</a></td>
+		<td>San Francisco</td>
+		<td>4410</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a target="_blank" href="https://github.com/trishume">
+				<img src="https://avatars.githubusercontent.com/u/887610?s=72&u=5aa9a0e9d96da4985178c8d7a55ab2f31785b70b&v=4" width="24" alt="Avatar of trishume"/> trishume
+			</a><br/>
+			Tristan Hume
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/trishume">trishume</a></td>
+		<td>San Francisco</td>
+		<td>4383</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a target="_blank" href="https://github.com/swannodette">
+				<img src="https://avatars.githubusercontent.com/u/13516?s=72&u=d4b32c4b3c703a42094564713d162a8ddd05fc22&v=4" width="24" alt="Avatar of swannodette"/> swannodette
+			</a><br/>
+			David Nolen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>4364</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a target="_blank" href="https://github.com/RamotionDev">
+				<img src="https://avatars.githubusercontent.com/u/8984754?s=72&u=4eaa20597c6fab16693757543e604c8c7289fe1b&v=4" width="24" alt="Avatar of RamotionDev"/> RamotionDev
+			</a><br/>
+			Ramotion
+		</td>
+		<td>@ramotion </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>4303</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a target="_blank" href="https://github.com/tholman">
+				<img src="https://avatars.githubusercontent.com/u/794999?s=72&u=bd9d5e26bab0305623f5b1adf6eeffb3b445ef21&v=4" width="24" alt="Avatar of tholman"/> tholman
+			</a><br/>
+			Tim Holman
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/twholman">twholman</a></td>
+		<td>New York</td>
+		<td>4299</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a target="_blank" href="https://github.com/karan">
+				<img src="https://avatars.githubusercontent.com/u/3261985?s=72&v=4" width="24" alt="Avatar of karan"/> karan
+			</a><br/>
+			Karan Goel
+		</td>
+		<td>@googlecloudplatform  </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>4249</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a target="_blank" href="https://github.com/petewarden">
+				<img src="https://avatars.githubusercontent.com/u/161459?s=72&v=4" width="24" alt="Avatar of petewarden"/> petewarden
+			</a><br/>
+			Pete Warden
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/petewarden">petewarden</a></td>
+		<td>San Francisco CA</td>
+		<td>4248</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a target="_blank" href="https://github.com/Newmu">
+				<img src="https://avatars.githubusercontent.com/u/2515289?s=72&u=9f824aaf4accb0d07bf884efe9b2fbd580315663&v=4" width="24" alt="Avatar of Newmu"/> Newmu
+			</a><br/>
+			Alec Radford
+		</td>
+		<td>@openai  </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>4221</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a target="_blank" href="https://github.com/mattgodbolt">
+				<img src="https://avatars.githubusercontent.com/u/633973?s=72&u=a1add397724cf2e823847cb32da4c0261d62ce2e&v=4" width="24" alt="Avatar of mattgodbolt"/> mattgodbolt
+			</a><br/>
+			Matt Godbolt
+		</td>
+		<td>@compilerexplorer  </td>
+		<td>No Twitter Username</td>
+		<td>Chicago IL</td>
+		<td>4176</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a target="_blank" href="https://github.com/dgrtwo">
+				<img src="https://avatars.githubusercontent.com/u/994718?s=72&u=8abbf6079a2ac3b10d435c4fadbf291d8624a439&v=4" width="24" alt="Avatar of dgrtwo"/> dgrtwo
+			</a><br/>
+			David Robinson
+		</td>
+		<td>@anthropics  </td>
+		<td><a target="_blank" href="https://twitter.com/drob">drob</a></td>
+		<td>New York</td>
+		<td>4167</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a target="_blank" href="https://github.com/GeostatsGuy">
+				<img src="https://avatars.githubusercontent.com/u/32042483?s=72&u=b6a54fd71eeaea1536b5da88772323e5d2730253&v=4" width="24" alt="Avatar of GeostatsGuy"/> GeostatsGuy
+			</a><br/>
+			Michael Pyrcz
+		</td>
+		<td>@utaustin </td>
+		<td><a target="_blank" href="https://twitter.com/GeostatsGuy">GeostatsGuy</a></td>
+		<td>Austin TX USA</td>
+		<td>4166</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a target="_blank" href="https://github.com/yzhao062">
+				<img src="https://avatars.githubusercontent.com/u/15079146?s=72&u=91133df299b4f29279d8bc9d55e5a85242cc657f&v=4" width="24" alt="Avatar of yzhao062"/> yzhao062
+			</a><br/>
+			Yue Zhao
+		</td>
+		<td>University Of Southern California<br/></td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles CA USA</td>
+		<td>4135</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a target="_blank" href="https://github.com/jaredhanson">
+				<img src="https://avatars.githubusercontent.com/u/10355?s=72&u=9a98b23a8c8bd131c6a3d029fc221a0c0b5df0b3&v=4" width="24" alt="Avatar of jaredhanson"/> jaredhanson
+			</a><br/>
+			Jared Hanson
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/jaredhanson">jaredhanson</a></td>
+		<td>San Francisco CA</td>
+		<td>4095</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a target="_blank" href="https://github.com/JimLiu">
+				<img src="https://avatars.githubusercontent.com/u/648674?s=72&v=4" width="24" alt="Avatar of JimLiu"/> JimLiu
+			</a><br/>
+			Jim Liu 
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/dotey">dotey</a></td>
+		<td>Chicago IL</td>
+		<td>4067</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a target="_blank" href="https://github.com/M0nica">
+				<img src="https://avatars.githubusercontent.com/u/6998954?s=72&u=78ef436473b15f90ae2a50e64883ebf39c0c1b1d&v=4" width="24" alt="Avatar of M0nica"/> M0nica
+			</a><br/>
+			Monica Powell
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/indigitalcolor">indigitalcolor</a></td>
+		<td>New York New York</td>
+		<td>4053</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a target="_blank" href="https://github.com/argyleink">
+				<img src="https://avatars.githubusercontent.com/u/1134620?s=72&u=0d420b597986af4eb82e5c84d3a16a31da8fd326&v=4" width="24" alt="Avatar of argyleink"/> argyleink
+			</a><br/>
+			Adam Argyle
+		</td>
+		<td>Shopify </td>
+		<td><a target="_blank" href="https://twitter.com/argyleink">argyleink</a></td>
+		<td>Seattle</td>
+		<td>4036</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a target="_blank" href="https://github.com/zedshaw">
+				<img src="https://avatars.githubusercontent.com/u/358171?s=72&u=8140270c89ef0d74d72ca56dcf788bec5811069c&v=4" width="24" alt="Avatar of zedshaw"/> zedshaw
+			</a><br/>
+			Zed A Shaw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>3984</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a target="_blank" href="https://github.com/harthur">
+				<img src="https://avatars.githubusercontent.com/u/140420?s=72&u=dd5d8d186e0a7db12c595129569253f3359d8bff&v=4" width="24" alt="Avatar of harthur"/> harthur
+			</a><br/>
+			Heather Arthur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>3894</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a target="_blank" href="https://github.com/gdb">
+				<img src="https://avatars.githubusercontent.com/u/211857?s=72&v=4" width="24" alt="Avatar of gdb"/> gdb
+			</a><br/>
+			Greg Brockman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>3893</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a target="_blank" href="https://github.com/ijjk">
+				<img src="https://avatars.githubusercontent.com/u/22380829?s=72&u=0d3d36a4bef923933ffa54c609191dbae9988642&v=4" width="24" alt="Avatar of ijjk"/> ijjk
+			</a><br/>
+			JJ Kasper
+		</td>
+		<td>@vercel </td>
+		<td><a target="_blank" href="https://twitter.com/_ijjk">_ijjk</a></td>
+		<td>San Francisco CA</td>
+		<td>3875</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a target="_blank" href="https://github.com/srush">
+				<img src="https://avatars.githubusercontent.com/u/35882?s=72&u=f8d3deecb70343c1f2ab67b26514c56b2b22b349&v=4" width="24" alt="Avatar of srush"/> srush
+			</a><br/>
+			Sasha Rush
+		</td>
+		<td>Cursor </td>
+		<td><a target="_blank" href="https://twitter.com/srush_nlp">srush_nlp</a></td>
+		<td>New York</td>
+		<td>3874</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a target="_blank" href="https://github.com/ed-donner">
+				<img src="https://avatars.githubusercontent.com/u/96339824?s=72&u=6385dcdef8a13afbcd8dad164f5a9008de0da7e0&v=4" width="24" alt="Avatar of ed-donner"/> ed-donner
+			</a><br/>
+			Ed Donner
+		</td>
+		<td>Nebulaio </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>3869</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a target="_blank" href="https://github.com/virattt">
+				<img src="https://avatars.githubusercontent.com/u/901795?s=72&u=c8cd7391f649623258b5f5ea848550df9407107b&v=4" width="24" alt="Avatar of virattt"/> virattt
+			</a><br/>
+			Virat Singh
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/virattt">virattt</a></td>
+		<td>New York NY</td>
+		<td>3846</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a target="_blank" href="https://github.com/devongovett">
+				<img src="https://avatars.githubusercontent.com/u/19409?s=72&u=16bbca03b15ec1cd3ec4f7cdddc4164ab6c8e425&v=4" width="24" alt="Avatar of devongovett"/> devongovett
+			</a><br/>
+			Devon Govett
+		</td>
+		<td>Adobe </td>
+		<td><a target="_blank" href="https://twitter.com/devongovett">devongovett</a></td>
+		<td>San Francisco</td>
+		<td>3808</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a target="_blank" href="https://github.com/ottomated">
+				<img src="https://avatars.githubusercontent.com/u/31470743?s=72&u=26ed8041f671da5b051f4cad76b016cea348d662&v=4" width="24" alt="Avatar of ottomated"/> ottomated
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles</td>
+		<td>3777</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a target="_blank" href="https://github.com/garybernhardt">
+				<img src="https://avatars.githubusercontent.com/u/45707?s=72&u=ed2698db947efe2ef1378be4bf2c5ed28d527ed0&v=4" width="24" alt="Avatar of garybernhardt"/> garybernhardt
+			</a><br/>
+			Gary Bernhardt
+		</td>
+		<td>Destroy All Software Llc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>3769</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a target="_blank" href="https://github.com/adeshpande3">
+				<img src="https://avatars.githubusercontent.com/u/13543909?s=72&u=fe0666f653498f908832d8685b50e268f98041a0&v=4" width="24" alt="Avatar of adeshpande3"/> adeshpande3
+			</a><br/>
+			Adit Deshpande
+		</td>
+		<td>Verse Medical </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>3753</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a target="_blank" href="https://github.com/colinhacks">
+				<img src="https://avatars.githubusercontent.com/u/3084745?s=72&u=00ba705b6a5ceaa3b4c5f3582ddb944f891f8847&v=4" width="24" alt="Avatar of colinhacks"/> colinhacks
+			</a><br/>
+			Colin McDonnell
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/colinhacks">colinhacks</a></td>
+		<td>Seattle WA</td>
+		<td>3748</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a target="_blank" href="https://github.com/HarmJ0y">
+				<img src="https://avatars.githubusercontent.com/u/5504523?s=72&u=2ae78020b034a543d5da1faf48b559b83e923fcb&v=4" width="24" alt="Avatar of HarmJ0y"/> HarmJ0y
+			</a><br/>
+			Will Schroeder
+		</td>
+		<td>Specterops </td>
+		<td><a target="_blank" href="https://twitter.com/harmj0y">harmj0y</a></td>
+		<td>Seattle WA</td>
+		<td>3728</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a target="_blank" href="https://github.com/SteveMacenski">
+				<img src="https://avatars.githubusercontent.com/u/14944147?s=72&u=0925d37e9d3569c71d930114b66e6394c2efb3c6&v=4" width="24" alt="Avatar of SteveMacenski"/> SteveMacenski
+			</a><br/>
+			Steve Macenski
+		</td>
+		<td>@opennavigation  </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA USA</td>
+		<td>3724</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a target="_blank" href="https://github.com/tmcw">
+				<img src="https://avatars.githubusercontent.com/u/32314?s=72&u=dd0a1264029f9deae8f50858829b19d3976afd47&v=4" width="24" alt="Avatar of tmcw"/> tmcw
+			</a><br/>
+			Tom MacWright
+		</td>
+		<td>@valtown </td>
+		<td>No Twitter Username</td>
+		<td>brooklyn new york</td>
+		<td>3711</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a target="_blank" href="https://github.com/Atcold">
+				<img src="https://avatars.githubusercontent.com/u/2119355?s=72&u=db3c7f1a9662667908c6b3be22a44ec770fa744b&v=4" width="24" alt="Avatar of Atcold"/> Atcold
+			</a><br/>
+			Alfredo Canziani
+		</td>
+		<td>Nyu </td>
+		<td><a target="_blank" href="https://twitter.com/alfcnz">alfcnz</a></td>
+		<td>New York City</td>
+		<td>3693</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a target="_blank" href="https://github.com/ezyang">
+				<img src="https://avatars.githubusercontent.com/u/13564?s=72&v=4" width="24" alt="Avatar of ezyang"/> ezyang
+			</a><br/>
+			Edward Z Yang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>3637</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a target="_blank" href="https://github.com/Dhravya">
+				<img src="https://avatars.githubusercontent.com/u/63950637?s=72&u=a1d804b135132cac15090fd93440a02ab5ce29b9&v=4" width="24" alt="Avatar of Dhravya"/> Dhravya
+			</a><br/>
+			Dhravya Shah
+		</td>
+		<td>@supermemoryai  </td>
+		<td><a target="_blank" href="https://twitter.com/dhravyashah">dhravyashah</a></td>
+		<td>San Francisco</td>
+		<td>3629</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a target="_blank" href="https://github.com/EcZachly">
+				<img src="https://avatars.githubusercontent.com/u/4583288?s=72&u=aac0c288c87bddef24671f230d2749b1e597d3df&v=4" width="24" alt="Avatar of EcZachly"/> EcZachly
+			</a><br/>
+			Zach Wilson
+		</td>
+		<td>Dataexpertio </td>
+		<td><a target="_blank" href="https://twitter.com/eczachly">eczachly</a></td>
+		<td>San Francisco CA</td>
+		<td>3627</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a target="_blank" href="https://github.com/schollz">
+				<img src="https://avatars.githubusercontent.com/u/6550035?s=72&u=991583b3f086b7f4cef5d2b4629e1440fd73f00b&v=4" width="24" alt="Avatar of schollz"/> schollz
+			</a><br/>
+			Zack
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>3583</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a target="_blank" href="https://github.com/erikbern">
+				<img src="https://avatars.githubusercontent.com/u/1027979?s=72&u=488cfc6300303d548cbee59842dadedb39ef1d39&v=4" width="24" alt="Avatar of erikbern"/> erikbern
+			</a><br/>
+			Erik Bernhardsson
+		</td>
+		<td>Modal Labs </td>
+		<td><a target="_blank" href="https://twitter.com/bernhardsson">bernhardsson</a></td>
+		<td>New York City</td>
+		<td>3569</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a target="_blank" href="https://github.com/PatrickJS">
+				<img src="https://avatars.githubusercontent.com/u/1016365?s=72&u=9fbfcbd299739e340fa45cd8114d2df5e91f8386&v=4" width="24" alt="Avatar of PatrickJS"/> PatrickJS
+			</a><br/>
+			PatrickJS
+		</td>
+		<td>@kunaiconsulting </td>
+		<td><a target="_blank" href="https://twitter.com/PatrickJS">PatrickJS</a></td>
+		<td>San Francisco Los Angeles Las Vegas</td>
+		<td>3550</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a target="_blank" href="https://github.com/jfeinstein10">
+				<img src="https://avatars.githubusercontent.com/u/1269143?s=72&u=09f2e91d3461b917fefbeeeb48fbd4ce4e29c1e5&v=4" width="24" alt="Avatar of jfeinstein10"/> jfeinstein10
+			</a><br/>
+			Jeremy Feinstein
+		</td>
+		<td>Zest </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>3528</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a target="_blank" href="https://github.com/logankilpatrick">
+				<img src="https://avatars.githubusercontent.com/u/35577566?s=72&u=f6784fa224ee43e5e80883b43a4479e6335192e8&v=4" width="24" alt="Avatar of logankilpatrick"/> logankilpatrick
+			</a><br/>
+			Logan Kilpatrick 
+		</td>
+		<td>Google Deepmind </td>
+		<td><a target="_blank" href="https://twitter.com/OfficialLoganK">OfficialLoganK</a></td>
+		<td>Chicago  SF Bay</td>
+		<td>3455</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a target="_blank" href="https://github.com/yigit">
+				<img src="https://avatars.githubusercontent.com/u/89202?s=72&v=4" width="24" alt="Avatar of yigit"/> yigit
+			</a><br/>
+			Yigit Boyar
+		</td>
+		<td>Pinterest </td>
+		<td>No Twitter Username</td>
+		<td>san francisco</td>
+		<td>3440</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a target="_blank" href="https://github.com/kognise">
+				<img src="https://avatars.githubusercontent.com/u/42556441?s=72&u=ccc56414ff350d84a464dec8b9a013484560aa1b&v=4" width="24" alt="Avatar of kognise"/> kognise
+			</a><br/>
+			Lexi Mattick
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/kognise7">kognise7</a></td>
+		<td>San Francisco CA</td>
+		<td>3428</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a target="_blank" href="https://github.com/brianlovin">
+				<img src="https://avatars.githubusercontent.com/u/1923260?s=72&u=36aacd5307a88dfb8e42d014b4107d9c7e3411e1&v=4" width="24" alt="Avatar of brianlovin"/> brianlovin
+			</a><br/>
+			Brian Lovin
+		</td>
+		<td>@makenotion </td>
+		<td><a target="_blank" href="https://twitter.com/brian_lovin">brian_lovin</a></td>
+		<td>San Francisco</td>
+		<td>3415</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a target="_blank" href="https://github.com/KentBeck">
+				<img src="https://avatars.githubusercontent.com/u/46154?s=72&u=42f6bb81ae77e0c2380e060527604d9e1da09d2b&v=4" width="24" alt="Avatar of KentBeck"/> KentBeck
+			</a><br/>
+			Kent Beck
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/KentBeck">KentBeck</a></td>
+		<td>San Francisco CA USA</td>
+		<td>3414</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a target="_blank" href="https://github.com/brendandburns">
+				<img src="https://avatars.githubusercontent.com/u/5751682?s=72&u=fdc4911e45896b06d1ff1ee529f7fd0957db5566&v=4" width="24" alt="Avatar of brendandburns"/> brendandburns
+			</a><br/>
+			Brendan Burns
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>3407</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a target="_blank" href="https://github.com/kangax">
+				<img src="https://avatars.githubusercontent.com/u/383?s=72&u=b13e9504cc41bc1c4441f4c49e1b67c10fa86ffb&v=4" width="24" alt="Avatar of kangax"/> kangax
+			</a><br/>
+			Juriy Zaytsev
+		</td>
+		<td>Facebook  Wework <br/>Linkedin<br/></td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>3398</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a target="_blank" href="https://github.com/btford">
+				<img src="https://avatars.githubusercontent.com/u/474988?s=72&u=772675d40daaad06636d2b0b4c2f98917339293b&v=4" width="24" alt="Avatar of btford"/> btford
+			</a><br/>
+			Brian Ford
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>3397</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a target="_blank" href="https://github.com/mwaskom">
+				<img src="https://avatars.githubusercontent.com/u/315810?s=72&u=940fea4957256c5443fed77f081db2fbdc91ac32&v=4" width="24" alt="Avatar of mwaskom"/> mwaskom
+			</a><br/>
+			Michael Waskom
+		</td>
+		<td>@modallabs </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>3394</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a target="_blank" href="https://github.com/nolanlawson">
+				<img src="https://avatars.githubusercontent.com/u/283842?s=72&u=c63d169c54860bde229ad6b428fb150345114ab0&v=4" width="24" alt="Avatar of nolanlawson"/> nolanlawson
+			</a><br/>
+			Nolan Lawson
+		</td>
+		<td>@socketdev </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>3381</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a target="_blank" href="https://github.com/shykes">
+				<img src="https://avatars.githubusercontent.com/u/29565?s=72&u=13ae12e8e93659cab6d6b36c6892d038a0550051&v=4" width="24" alt="Avatar of shykes"/> shykes
+			</a><br/>
+			Solomon Hykes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>3378</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a target="_blank" href="https://github.com/dcramer">
+				<img src="https://avatars.githubusercontent.com/u/23610?s=72&v=4" width="24" alt="Avatar of dcramer"/> dcramer
+			</a><br/>
+			David Cramer
+		</td>
+		<td>@getsentry </td>
+		<td><a target="_blank" href="https://twitter.com/zeeg">zeeg</a></td>
+		<td>San Francisco CA</td>
+		<td>3377</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a target="_blank" href="https://github.com/andymatuschak">
+				<img src="https://avatars.githubusercontent.com/u/2771?s=72&v=4" width="24" alt="Avatar of andymatuschak"/> andymatuschak
+			</a><br/>
+			Andy Matuschak
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/andy_matuschak">andy_matuschak</a></td>
+		<td>San Francisco CA</td>
+		<td>3365</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a target="_blank" href="https://github.com/antonputra">
+				<img src="https://avatars.githubusercontent.com/u/9362325?s=72&u=22bb3ba589b13bf0b4179bae4924f3018716c210&v=4" width="24" alt="Avatar of antonputra"/> antonputra
+			</a><br/>
+			Anton Putra
+		</td>
+		<td>Primecloud Labs </td>
+		<td><a target="_blank" href="https://twitter.com/antonvputra">antonvputra</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>3304</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a target="_blank" href="https://github.com/riverscuomo">
+				<img src="https://avatars.githubusercontent.com/u/24362267?s=72&u=f8a8087612411f181210ca45f7131829eb0b263b&v=4" width="24" alt="Avatar of riverscuomo"/> riverscuomo
+			</a><br/>
+			Rivers Cuomo
+		</td>
+		<td>Weezer </td>
+		<td><a target="_blank" href="https://twitter.com/riverscuomo">riverscuomo</a></td>
+		<td>Los Angeles</td>
+		<td>3238</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a target="_blank" href="https://github.com/SelmanKahya">
+				<img src="https://avatars.githubusercontent.com/u/3432700?s=72&v=4" width="24" alt="Avatar of SelmanKahya"/> SelmanKahya
+			</a><br/>
+			Selman Kahya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>3205</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a target="_blank" href="https://github.com/zeux">
+				<img src="https://avatars.githubusercontent.com/u/1106629?s=72&u=620ee97d58fc4c0e915bc36c992c86e94bd76efe&v=4" width="24" alt="Avatar of zeux"/> zeux
+			</a><br/>
+			Arseny Kapoulkine
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/zeuxcg">zeuxcg</a></td>
+		<td>San Francisco</td>
+		<td>3182</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a target="_blank" href="https://github.com/mhartl">
+				<img src="https://avatars.githubusercontent.com/u/6232?s=72&v=4" width="24" alt="Avatar of mhartl"/> mhartl
+			</a><br/>
+			Michael Hartl
+		</td>
+		<td>Independent Scholar Formerly Learn<br/>Enoughrails<br/>Tutorial<br/></td>
+		<td><a target="_blank" href="https://twitter.com/mhartl">mhartl</a></td>
+		<td>Los Angeles CA</td>
+		<td>3164</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a target="_blank" href="https://github.com/mi6paulino">
+				<img src="https://avatars.githubusercontent.com/u/181088958?s=72&u=2b173726c01b7c3eaaaf4dd0a04ddb9ef4992d53&v=4" width="24" alt="Avatar of mi6paulino"/> mi6paulino
+			</a><br/>
+			Michael Paulino 
+		</td>
+		<td>Michael Paulino Solutions </td>
+		<td>No Twitter Username</td>
+		<td>New York City </td>
+		<td>3156</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a target="_blank" href="https://github.com/ekzhang">
+				<img src="https://avatars.githubusercontent.com/u/7550632?s=72&u=14bb98217af15123593097a2406e379258c89484&v=4" width="24" alt="Avatar of ekzhang"/> ekzhang
+			</a><br/>
+			Eric Zhang
+		</td>
+		<td>@thinkingmachineslab </td>
+		<td><a target="_blank" href="https://twitter.com/ekzhang1">ekzhang1</a></td>
+		<td>New York NY</td>
+		<td>3144</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a target="_blank" href="https://github.com/jonkrohn">
+				<img src="https://avatars.githubusercontent.com/u/10055735?s=72&u=e29559204bb1f335ba26c08e32b8335442beba2f&v=4" width="24" alt="Avatar of jonkrohn"/> jonkrohn
+			</a><br/>
+			Jon Krohn
+		</td>
+		<td>Y Carrot </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>3120</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a target="_blank" href="https://github.com/kentonv">
+				<img src="https://avatars.githubusercontent.com/u/4001805?s=72&u=68b3a332314918b414acc1667c628f95d417aad6&v=4" width="24" alt="Avatar of kentonv"/> kentonv
+			</a><br/>
+			Kenton Varda
+		</td>
+		<td>@cloudflare </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>3113</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a target="_blank" href="https://github.com/armon">
+				<img src="https://avatars.githubusercontent.com/u/592032?s=72&v=4" width="24" alt="Avatar of armon"/> armon
+			</a><br/>
+			Armon Dadgar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>3099</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a target="_blank" href="https://github.com/johnmyleswhite">
+				<img src="https://avatars.githubusercontent.com/u/22064?s=72&u=0c7f9febc281838232daf5684fef6ed97b3c15f8&v=4" width="24" alt="Avatar of johnmyleswhite"/> johnmyleswhite
+			</a><br/>
+			John Myles White
+		</td>
+		<td>Meta </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>3083</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a target="_blank" href="https://github.com/keon">
+				<img src="https://avatars.githubusercontent.com/u/10793962?s=72&u=07e9af49961d7e303eb5e8ad9cee11a1f20500ce&v=4" width="24" alt="Avatar of keon"/> keon
+			</a><br/>
+			Keon
+		</td>
+		<td>Om Labs </td>
+		<td><a target="_blank" href="https://twitter.com/keonwkim">keonwkim</a></td>
+		<td>New York City</td>
+		<td>3061</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a target="_blank" href="https://github.com/leah">
+				<img src="https://avatars.githubusercontent.com/u/45870?s=72&u=3dd6d14634217d7307498d07271dc2fe34eb9f04&v=4" width="24" alt="Avatar of leah"/> leah
+			</a><br/>
+			Leah Culver
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/leahculver">leahculver</a></td>
+		<td>San Francisco CA</td>
+		<td>3028</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a target="_blank" href="https://github.com/ianstormtaylor">
+				<img src="https://avatars.githubusercontent.com/u/311752?s=72&v=4" width="24" alt="Avatar of ianstormtaylor"/> ianstormtaylor
+			</a><br/>
+			Ian Storm Taylor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>3020</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a target="_blank" href="https://github.com/cloud-shannon">
+				<img src="https://avatars.githubusercontent.com/u/88684372?s=72&u=97ab2cd1482bfa1d7692fa30fca9bb1d3636404f&v=4" width="24" alt="Avatar of cloud-shannon"/> cloud-shannon
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York United States</td>
+		<td>3006</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a target="_blank" href="https://github.com/SwiftfulThinking">
+				<img src="https://avatars.githubusercontent.com/u/44950578?s=72&u=1cac958eb4fe071f3b7ef7dd8d08a7bc1b854fae&v=4" width="24" alt="Avatar of SwiftfulThinking"/> SwiftfulThinking
+			</a><br/>
+			Nick Sarno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>2930</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a target="_blank" href="https://github.com/benlesh">
+				<img src="https://avatars.githubusercontent.com/u/1540597?s=72&u=0f2abc00e4a58cbd1c8832904cd45d6d613341a1&v=4" width="24" alt="Avatar of benlesh"/> benlesh
+			</a><br/>
+			Ben Lesh
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/benlesh">benlesh</a></td>
+		<td>Austin TX</td>
+		<td>2922</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a target="_blank" href="https://github.com/benjamn">
+				<img src="https://avatars.githubusercontent.com/u/5750?s=72&u=95c71e43d35f4b2f7ea95474f5058bb51986f556&v=4" width="24" alt="Avatar of benjamn"/> benjamn
+			</a><br/>
+			Ben Newman
+		</td>
+		<td>Apollo Graph Inc Formerly<br/>Meteor<br/>Facebookinstagram<br/>Quora<br/>Mozilla<br/></td>
+		<td>No Twitter Username</td>
+		<td>New York City</td>
+		<td>2912</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a target="_blank" href="https://github.com/chrislusf">
+				<img src="https://avatars.githubusercontent.com/u/1543151?s=72&u=b4788cca0e39aab9a6033218962aff65e0dff053&v=4" width="24" alt="Avatar of chrislusf"/> chrislusf
+			</a><br/>
+			Chris Lu
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/SeaweedFS">SeaweedFS</a></td>
+		<td>San Francisco</td>
+		<td>2875</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a target="_blank" href="https://github.com/DrBoolean">
+				<img src="https://avatars.githubusercontent.com/u/28562?s=72&v=4" width="24" alt="Avatar of DrBoolean"/> DrBoolean
+			</a><br/>
+			Brian Lonsdorf
+		</td>
+		<td>Salesforce </td>
+		<td><a target="_blank" href="https://twitter.com/drboolean">drboolean</a></td>
+		<td>San Francisco CA</td>
+		<td>2862</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a target="_blank" href="https://github.com/khan4019">
+				<img src="https://avatars.githubusercontent.com/u/1848375?s=72&u=6b34467d296956633d9c118bfa6545242278e836&v=4" width="24" alt="Avatar of khan4019"/> khan4019
+			</a><br/>
+			That JS Dude
+		</td>
+		<td>Nielsen </td>
+		<td>No Twitter Username</td>
+		<td>Chicago</td>
+		<td>2853</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a target="_blank" href="https://github.com/rxin">
+				<img src="https://avatars.githubusercontent.com/u/323388?s=72&u=99788ac5dbd0febf72955db368abb49dc2f807b4&v=4" width="24" alt="Avatar of rxin"/> rxin
+			</a><br/>
+			Reynold Xin
+		</td>
+		<td>Databricks </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2828</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a target="_blank" href="https://github.com/gboeing">
+				<img src="https://avatars.githubusercontent.com/u/4977197?s=72&u=53b802c4f37bf6e11a731113429ea9c756570217&v=4" width="24" alt="Avatar of gboeing"/> gboeing
+			</a><br/>
+			Geoff Boeing
+		</td>
+		<td>University Of Southern California<br/></td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles California</td>
+		<td>2817</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a target="_blank" href="https://github.com/malware-unicorn">
+				<img src="https://avatars.githubusercontent.com/u/19986532?s=72&u=88326145141cd76f40f02846591f0ea0f3a80aa6&v=4" width="24" alt="Avatar of malware-unicorn"/> malware-unicorn
+			</a><br/>
+			malwareunicorn
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/malwareunicorn">malwareunicorn</a></td>
+		<td>San Francisco</td>
+		<td>2724</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a target="_blank" href="https://github.com/juliemr">
+				<img src="https://avatars.githubusercontent.com/u/2081709?s=72&u=9d7e8d6549afc1626001640539ff6b861532a02f&v=4" width="24" alt="Avatar of juliemr"/> juliemr
+			</a><br/>
+			Julie Ralph
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>2715</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a target="_blank" href="https://github.com/aza-ali">
+				<img src="https://avatars.githubusercontent.com/u/63417797?s=72&u=2696afcf9e3a850086572a45fb811c542eb6f64a&v=4" width="24" alt="Avatar of aza-ali"/> aza-ali
+			</a><br/>
+			Aza
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/azaali01">azaali01</a></td>
+		<td>San Francisco California</td>
+		<td>2702</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a target="_blank" href="https://github.com/hyperb1iss">
+				<img src="https://avatars.githubusercontent.com/u/102151?s=72&u=c58674a24e82575091da1893726390b34e35fac2&v=4" width="24" alt="Avatar of hyperb1iss"/> hyperb1iss
+			</a><br/>
+			Stefanie Jane
+		</td>
+		<td>@gradial  </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>2698</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a target="_blank" href="https://github.com/ujjwalkarn">
+				<img src="https://avatars.githubusercontent.com/u/5948390?s=72&v=4" width="24" alt="Avatar of ujjwalkarn"/> ujjwalkarn
+			</a><br/>
+			Ujjwal Karn
+		</td>
+		<td>@facebook </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2671</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a target="_blank" href="https://github.com/amanchadha">
+				<img src="https://avatars.githubusercontent.com/u/20895241?s=72&u=270e2d768d7482d269ca619fd6f5b1b3f607b464&v=4" width="24" alt="Avatar of amanchadha"/> amanchadha
+			</a><br/>
+			Aman Chadha
+		</td>
+		<td>Amazon Inc  Ex<br/><br/>Stanford<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area CA</td>
+		<td>2660</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a target="_blank" href="https://github.com/coreybutler">
+				<img src="https://avatars.githubusercontent.com/u/770982?s=72&u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4" width="24" alt="Avatar of coreybutler"/> coreybutler
+			</a><br/>
+			Corey Butler
+		</td>
+		<td>@author </td>
+		<td><a target="_blank" href="https://twitter.com/goldglovecb">goldglovecb</a></td>
+		<td>Austin TX</td>
+		<td>2651</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a target="_blank" href="https://github.com/sferik">
+				<img src="https://avatars.githubusercontent.com/u/10308?s=72&u=5a2785be9d9bf021907c5c53dc1345edd137604c&v=4" width="24" alt="Avatar of sferik"/> sferik
+			</a><br/>
+			Erik Berlin
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/sferik">sferik</a></td>
+		<td>San Francisco</td>
+		<td>2644</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a target="_blank" href="https://github.com/1st1">
+				<img src="https://avatars.githubusercontent.com/u/239003?s=72&v=4" width="24" alt="Avatar of 1st1"/> 1st1
+			</a><br/>
+			Yury Selivanov
+		</td>
+		<td>@vercel  </td>
+		<td><a target="_blank" href="https://twitter.com/1st1">1st1</a></td>
+		<td>San Francisco</td>
+		<td>2627</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a target="_blank" href="https://github.com/pyricau">
+				<img src="https://avatars.githubusercontent.com/u/557033?s=72&u=e4b85cd6117b8912cd783f7152c32298794725f5&v=4" width="24" alt="Avatar of pyricau"/> pyricau
+			</a><br/>
+			py  Pierre Yves Ricau
+		</td>
+		<td>Square Inc </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2617</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a target="_blank" href="https://github.com/ZacSweers">
+				<img src="https://avatars.githubusercontent.com/u/1361086?s=72&u=f718c2d2774c7e8b85b5cf1c12df4b6aac6c13f4&v=4" width="24" alt="Avatar of ZacSweers"/> ZacSweers
+			</a><br/>
+			Zac Sweers
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>2612</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a target="_blank" href="https://github.com/chrisalbon">
+				<img src="https://avatars.githubusercontent.com/u/3612307?s=72&u=3396e48cd171028c56ae91938043438a4ed8d865&v=4" width="24" alt="Avatar of chrisalbon"/> chrisalbon
+			</a><br/>
+			Chris Albon
+		</td>
+		<td>Wikimedia Foundation </td>
+		<td><a target="_blank" href="https://twitter.com/chrisalbon">chrisalbon</a></td>
+		<td>San Francisco</td>
+		<td>2604</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a target="_blank" href="https://github.com/coolstar">
+				<img src="https://avatars.githubusercontent.com/u/1431548?s=72&u=0f49694845f4ef341e7defa8da998371238aedb5&v=4" width="24" alt="Avatar of coolstar"/> coolstar
+			</a><br/>
+			CoolStar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2604</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a target="_blank" href="https://github.com/ladyada">
+				<img src="https://avatars.githubusercontent.com/u/1214161?s=72&v=4" width="24" alt="Avatar of ladyada"/> ladyada
+			</a><br/>
+			Limor Ladyada Fried
+		</td>
+		<td>Adafruit Industries </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>2602</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a target="_blank" href="https://github.com/khanhnamle1994">
+				<img src="https://avatars.githubusercontent.com/u/10627238?s=72&u=e9cce13d49039a4e9b1ac1fa78e8e9a6d35b8ae6&v=4" width="24" alt="Avatar of khanhnamle1994"/> khanhnamle1994
+			</a><br/>
+			James Le
+		</td>
+		<td>Twelve Labs </td>
+		<td><a target="_blank" href="https://twitter.com/le_james94">le_james94</a></td>
+		<td>San Francisco CA</td>
+		<td>2600</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a target="_blank" href="https://github.com/ashutosh1919">
+				<img src="https://avatars.githubusercontent.com/u/20843596?s=72&u=6367ff9f62224bc720e425a5bb85dca377a75093&v=4" width="24" alt="Avatar of ashutosh1919"/> ashutosh1919
+			</a><br/>
+			Ashutosh Hathidara
+		</td>
+		<td>Senior Ml Scientist @sap<br/></td>
+		<td><a target="_blank" href="https://twitter.com/ashutosh_1919">ashutosh_1919</a></td>
+		<td>San Francisco CA USA</td>
+		<td>2582</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a target="_blank" href="https://github.com/josh">
+				<img src="https://avatars.githubusercontent.com/u/137?s=72&u=b8ae2314a4931c4a82a27d4fbbfffdc049779e89&v=4" width="24" alt="Avatar of josh"/> josh
+			</a><br/>
+			Joshua Peek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2568</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a target="_blank" href="https://github.com/yocontra">
+				<img src="https://avatars.githubusercontent.com/u/425716?s=72&u=0f5cc6e84ac4bce39bc2e0c1afebfb87246b4ad2&v=4" width="24" alt="Avatar of yocontra"/> yocontra
+			</a><br/>
+			Eric Schoffstall
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2564</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a target="_blank" href="https://github.com/cobanov">
+				<img src="https://avatars.githubusercontent.com/u/29142615?s=72&u=5bb63cd5037cfd4fe23d3fbb8d19f7a5f6022028&v=4" width="24" alt="Avatar of cobanov"/> cobanov
+			</a><br/>
+			Mert Cobanov
+		</td>
+		<td>@refikanadolstudio  </td>
+		<td><a target="_blank" href="https://twitter.com/mertcobanov">mertcobanov</a></td>
+		<td>Los Angeles CA</td>
+		<td>2564</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a target="_blank" href="https://github.com/RyanCavanaugh">
+				<img src="https://avatars.githubusercontent.com/u/6685088?s=72&u=dd7d4af6a697fcc985ba4b2a1d6a55354590d8ef&v=4" width="24" alt="Avatar of RyanCavanaugh"/> RyanCavanaugh
+			</a><br/>
+			Ryan Cavanaugh
+		</td>
+		<td>Microsoft </td>
+		<td><a target="_blank" href="https://twitter.com/searyanc">searyanc</a></td>
+		<td>Seattle WA</td>
+		<td>2556</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a target="_blank" href="https://github.com/davatron5000">
+				<img src="https://avatars.githubusercontent.com/u/42218?s=72&v=4" width="24" alt="Avatar of davatron5000"/> davatron5000
+			</a><br/>
+			Dave Rupert
+		</td>
+		<td>Paravel </td>
+		<td><a target="_blank" href="https://twitter.com/davatron5000">davatron5000</a></td>
+		<td>Austin TX</td>
+		<td>2546</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a target="_blank" href="https://github.com/miyagawa">
+				<img src="https://avatars.githubusercontent.com/u/3499?s=72&v=4" width="24" alt="Avatar of miyagawa"/> miyagawa
+			</a><br/>
+			Tatsuhiko Miyagawa
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/miyagawa">miyagawa</a></td>
+		<td>San Francisco CA</td>
+		<td>2543</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a target="_blank" href="https://github.com/ktbyers">
+				<img src="https://avatars.githubusercontent.com/u/899716?s=72&u=6c60348bfb9243a76ae0122430aceea6e908d688&v=4" width="24" alt="Avatar of ktbyers"/> ktbyers
+			</a><br/>
+			Kirk Byers
+		</td>
+		<td>Twin Bridges Technology </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2543</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a target="_blank" href="https://github.com/karanpratapsingh">
+				<img src="https://avatars.githubusercontent.com/u/29705703?s=72&u=86ebfad703133010a33dd748660b3233d21de9cd&v=4" width="24" alt="Avatar of karanpratapsingh"/> karanpratapsingh
+			</a><br/>
+			Karan Pratap Singh
+		</td>
+		<td>@apple </td>
+		<td><a target="_blank" href="https://twitter.com/karan_6864">karan_6864</a></td>
+		<td>San Francisco California</td>
+		<td>2540</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a target="_blank" href="https://github.com/holdenk">
+				<img src="https://avatars.githubusercontent.com/u/59893?s=72&v=4" width="24" alt="Avatar of holdenk"/> holdenk
+			</a><br/>
+			Holden Karau
+		</td>
+		<td>Open Source Big Data<br/>Dev<br/></td>
+		<td><a target="_blank" href="https://twitter.com/holdenkarau">holdenkarau</a></td>
+		<td>San Francisco CA USA</td>
+		<td>2533</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a target="_blank" href="https://github.com/DanielRosenwasser">
+				<img src="https://avatars.githubusercontent.com/u/972891?s=72&u=5a4dfe64fb09433dfa589b588361f04231144416&v=4" width="24" alt="Avatar of DanielRosenwasser"/> DanielRosenwasser
+			</a><br/>
+			Daniel Rosenwasser
+		</td>
+		<td>@microsoft </td>
+		<td><a target="_blank" href="https://twitter.com/drosenwasser">drosenwasser</a></td>
+		<td>Seattle WA</td>
+		<td>2533</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a target="_blank" href="https://github.com/wzhe06">
+				<img src="https://avatars.githubusercontent.com/u/5001803?s=72&u=75728cd0aa022832736d8ffe22844e89f8ac8bf5&v=4" width="24" alt="Avatar of wzhe06"/> wzhe06
+			</a><br/>
+			Wang Zhe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area</td>
+		<td>2533</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a target="_blank" href="https://github.com/adashofdata">
+				<img src="https://avatars.githubusercontent.com/u/30323348?s=72&u=e85b24dedf8d5260563494d2e58077d2e2ef9442&v=4" width="24" alt="Avatar of adashofdata"/> adashofdata
+			</a><br/>
+			Alice Zhao
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chicago IL</td>
+		<td>2518</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a target="_blank" href="https://github.com/charlax">
+				<img src="https://avatars.githubusercontent.com/u/120501?s=72&v=4" width="24" alt="Avatar of charlax"/> charlax
+			</a><br/>
+			CharlesAxel Dein
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>2509</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a target="_blank" href="https://github.com/schneems">
+				<img src="https://avatars.githubusercontent.com/u/59744?s=72&u=dcc56246ab9ed7f43103e10a1b09b6cecf8599cf&v=4" width="24" alt="Avatar of schneems"/> schneems
+			</a><br/>
+			Richard Schneeman
+		</td>
+		<td>@schneems  </td>
+		<td>No Twitter Username</td>
+		<td>Austin Tx</td>
+		<td>2503</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a target="_blank" href="https://github.com/williamFalcon">
+				<img src="https://avatars.githubusercontent.com/u/3640001?s=72&u=d59d76462674d3e95288a0e767dfbb6203ba4dfd&v=4" width="24" alt="Avatar of williamFalcon"/> williamFalcon
+			</a><br/>
+			William Falcon
+		</td>
+		<td>Lightning Ai </td>
+		<td><a target="_blank" href="https://twitter.com/williamfalcon">williamfalcon</a></td>
+		<td>New York City NY</td>
+		<td>2492</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a target="_blank" href="https://github.com/Stitchpunk">
+				<img src="https://avatars.githubusercontent.com/u/16246169?s=72&u=49c06bb6720fd3ce9f5f182b91a93925d21f75b9&v=4" width="24" alt="Avatar of Stitchpunk"/> Stitchpunk
+			</a><br/>
+			Winnie
+		</td>
+		<td>Facebook </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Ca</td>
+		<td>2482</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a target="_blank" href="https://github.com/ssg">
+				<img src="https://avatars.githubusercontent.com/u/241217?s=72&u=7a0def2306a5b8c34d2a36b93d1a487d1d973756&v=4" width="24" alt="Avatar of ssg"/> ssg
+			</a><br/>
+			Sedat Kapanolu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco California</td>
+		<td>2472</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a target="_blank" href="https://github.com/zhaochenyang20">
+				<img src="https://avatars.githubusercontent.com/u/74843776?s=72&u=5d11cbd6799102bca437e5aa67ecece9316a7a7f&v=4" width="24" alt="Avatar of zhaochenyang20"/> zhaochenyang20
+			</a><br/>
+			
+		</td>
+		<td>University Of California Los<br/>Angeles<br/></td>
+		<td><a target="_blank" href="https://twitter.com/GenAI_is_real">GenAI_is_real</a></td>
+		<td>Los Angeles</td>
+		<td>2468</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a target="_blank" href="https://github.com/mahmoud">
+				<img src="https://avatars.githubusercontent.com/u/130193?s=72&u=87d388d2ceb804aabda330a5f81cf078a2342b03&v=4" width="24" alt="Avatar of mahmoud"/> mahmoud
+			</a><br/>
+			Mahmoud Hashemi
+		</td>
+		<td>@hatnote </td>
+		<td><a target="_blank" href="https://twitter.com/mhashemi">mhashemi</a></td>
+		<td>San Francisco CA</td>
+		<td>2468</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a target="_blank" href="https://github.com/wardviaene">
+				<img src="https://avatars.githubusercontent.com/u/7711378?s=72&u=1a8483136bcf2a437dded2d3677026250dcb8326&v=4" width="24" alt="Avatar of wardviaene"/> wardviaene
+			</a><br/>
+			Edward Viaene
+		</td>
+		<td>In4it </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>2458</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a target="_blank" href="https://github.com/indexzero">
+				<img src="https://avatars.githubusercontent.com/u/4624?s=72&v=4" width="24" alt="Avatar of indexzero"/> indexzero
+			</a><br/>
+			Charlie Robbins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>2446</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a target="_blank" href="https://github.com/blynkkk">
+				<img src="https://avatars.githubusercontent.com/u/11541426?s=72&u=9af50b502abdb32e0a203cc985cc203576bec683&v=4" width="24" alt="Avatar of blynkkk"/> blynkkk
+			</a><br/>
+			Blynk IoT platform
+		</td>
+		<td>Blynk </td>
+		<td><a target="_blank" href="https://twitter.com/blynk_app">blynk_app</a></td>
+		<td>New York US  Kyiv Ukraine</td>
+		<td>2439</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a target="_blank" href="https://github.com/pfrazee">
+				<img src="https://avatars.githubusercontent.com/u/1270099?s=72&u=58e1803dbf420daae8846530511e818a5b9a5b1c&v=4" width="24" alt="Avatar of pfrazee"/> pfrazee
+			</a><br/>
+			Paul Frazee
+		</td>
+		<td>Bluesky </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>2432</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a target="_blank" href="https://github.com/parrt">
+				<img src="https://avatars.githubusercontent.com/u/178777?s=72&v=4" width="24" alt="Avatar of parrt"/> parrt
+			</a><br/>
+			Terence Parr
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/the_antlr_guy">the_antlr_guy</a></td>
+		<td>San Francisco</td>
+		<td>2412</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a target="_blank" href="https://github.com/leereilly">
+				<img src="https://avatars.githubusercontent.com/u/121322?s=72&u=dace6bc679e551a0876fb357304e337aa5539dc0&v=4" width="24" alt="Avatar of leereilly"/> leereilly
+			</a><br/>
+			Lee Reilly
+		</td>
+		<td>Github </td>
+		<td><a target="_blank" href="https://twitter.com/leereilly">leereilly</a></td>
+		<td>San Francisco CA</td>
+		<td>2396</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a target="_blank" href="https://github.com/kevmoo">
+				<img src="https://avatars.githubusercontent.com/u/17034?s=72&v=4" width="24" alt="Avatar of kevmoo"/> kevmoo
+			</a><br/>
+			Kevin Moore
+		</td>
+		<td>@dartlang @flutter @google </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA USA</td>
+		<td>2388</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a target="_blank" href="https://github.com/bfirsh">
+				<img src="https://avatars.githubusercontent.com/u/40906?s=72&u=8a158382fcc5a23b4f5313ee873be89667e7a0ce&v=4" width="24" alt="Avatar of bfirsh"/> bfirsh
+			</a><br/>
+			Ben Firshman
+		</td>
+		<td>@replicate </td>
+		<td><a target="_blank" href="https://twitter.com/bfirsh">bfirsh</a></td>
+		<td>San Francisco CA USA</td>
+		<td>2388</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a target="_blank" href="https://github.com/stubbornella">
+				<img src="https://avatars.githubusercontent.com/u/39398?s=72&u=8ddc610bab62b60404ae7f23512f42cba3b62874&v=4" width="24" alt="Avatar of stubbornella"/> stubbornella
+			</a><br/>
+			Nicole Sullivan
+		</td>
+		<td>Stubbornella </td>
+		<td><a target="_blank" href="https://twitter.com/stubbornella">stubbornella</a></td>
+		<td>San Francisco</td>
+		<td>2374</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a target="_blank" href="https://github.com/pedronauck">
+				<img src="https://avatars.githubusercontent.com/u/2029172?s=72&u=8f99ed98020d5e513663d738e41f654aea099a0e&v=4" width="24" alt="Avatar of pedronauck"/> pedronauck
+			</a><br/>
+			Pedro Nauck
+		</td>
+		<td>Compozy </td>
+		<td><a target="_blank" href="https://twitter.com/pedronauck">pedronauck</a></td>
+		<td>San Francisco</td>
+		<td>2373</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a target="_blank" href="https://github.com/dynamicwebpaige">
+				<img src="https://avatars.githubusercontent.com/u/3712347?s=72&u=ba23e74ea570db418af15bc0dea835bdcc7a8b5b&v=4" width="24" alt="Avatar of dynamicwebpaige"/> dynamicwebpaige
+			</a><br/>
+			Paige Bailey
+		</td>
+		<td>Google Deepmind </td>
+		<td><a target="_blank" href="https://twitter.com/dynamicwebpaige">dynamicwebpaige</a></td>
+		<td>San Francisco CA</td>
+		<td>2365</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a target="_blank" href="https://github.com/djspiewak">
+				<img src="https://avatars.githubusercontent.com/u/752?s=72&u=f66a866217720f5763420ab269fc06126f169009&v=4" width="24" alt="Avatar of djspiewak"/> djspiewak
+			</a><br/>
+			Daniel Spiewak
+		</td>
+		<td>@nvidia </td>
+		<td>No Twitter Username</td>
+		<td>Chicago IL</td>
+		<td>2363</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a target="_blank" href="https://github.com/mikermcneil">
+				<img src="https://avatars.githubusercontent.com/u/618009?s=72&u=23da0bbf25acd2a69059b93da75575a369e794c9&v=4" width="24" alt="Avatar of mikermcneil"/> mikermcneil
+			</a><br/>
+			Mike McNeil
+		</td>
+		<td>Fleet @fleetdm </td>
+		<td><a target="_blank" href="https://twitter.com/mikermcneil">mikermcneil</a></td>
+		<td>Austin Texas</td>
+		<td>2354</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a target="_blank" href="https://github.com/huan">
+				<img src="https://avatars.githubusercontent.com/u/1361891?s=72&u=8c9af1c10536f54022ef0698a1161e769fbd1d3b&v=4" width="24" alt="Avatar of huan"/> huan
+			</a><br/>
+			Huan Li
+		</td>
+		<td>@shipfail  @preangel <br/></td>
+		<td><a target="_blank" href="https://twitter.com/huan2024">huan2024</a></td>
+		<td>San Francisco</td>
+		<td>2349</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a target="_blank" href="https://github.com/SlexAxton">
+				<img src="https://avatars.githubusercontent.com/u/96554?s=72&v=4" width="24" alt="Avatar of SlexAxton"/> SlexAxton
+			</a><br/>
+			Alex Sexton
+		</td>
+		<td>Stripe </td>
+		<td><a target="_blank" href="https://twitter.com/slexaxton">slexaxton</a></td>
+		<td>Austin TX</td>
+		<td>2343</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a target="_blank" href="https://github.com/broccolini">
+				<img src="https://avatars.githubusercontent.com/u/334891?s=72&u=9e0bdd51f4d2fa9f3349cc1b8c1ac86c90a5abb1&v=4" width="24" alt="Avatar of broccolini"/> broccolini
+			</a><br/>
+			Diana Mounter
+		</td>
+		<td>Alphasense </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>2334</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a target="_blank" href="https://github.com/jackyzha0">
+				<img src="https://avatars.githubusercontent.com/u/23178940?s=72&u=1092d0a1bca8868a97d52b9020c2f87707e57219&v=4" width="24" alt="Avatar of jackyzha0"/> jackyzha0
+			</a><br/>
+			Jacky Zhao
+		</td>
+		<td>@replit </td>
+		<td><a target="_blank" href="https://twitter.com/_jzhao">_jzhao</a></td>
+		<td>San Francisco</td>
+		<td>2327</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a target="_blank" href="https://github.com/sxywu">
+				<img src="https://avatars.githubusercontent.com/u/1448449?s=72&u=dda17ae48e7bfbbd22b1503a7b83504e53e57a1e&v=4" width="24" alt="Avatar of sxywu"/> sxywu
+			</a><br/>
+			Shirley Wu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>2319</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a target="_blank" href="https://github.com/jdvillal">
+				<img src="https://avatars.githubusercontent.com/u/57422146?s=72&u=4dedccd14b194d5035e3c59988b8409a8651ebb4&v=4" width="24" alt="Avatar of jdvillal"/> jdvillal
+			</a><br/>
+			Jorge Villalta
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/CoreDumpped">CoreDumpped</a></td>
+		<td>New York</td>
+		<td>2316</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a target="_blank" href="https://github.com/ircmaxell">
+				<img src="https://avatars.githubusercontent.com/u/660654?s=72&v=4" width="24" alt="Avatar of ircmaxell"/> ircmaxell
+			</a><br/>
+			Anthony Ferrara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>2311</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a target="_blank" href="https://github.com/danijar">
+				<img src="https://avatars.githubusercontent.com/u/2111293?s=72&u=e2d7dea9f366120a557fae2ef2b928b96a0fa343&v=4" width="24" alt="Avatar of danijar"/> danijar
+			</a><br/>
+			Danijar Hafner
+		</td>
+		<td>Deepmind </td>
+		<td><a target="_blank" href="https://twitter.com/danijarh">danijarh</a></td>
+		<td>San Francisco</td>
+		<td>2307</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a target="_blank" href="https://github.com/KillianLucas">
+				<img src="https://avatars.githubusercontent.com/u/63927363?s=72&u=9a5a30771011c3cfdde19cd51d18d85e7ed6d53f&v=4" width="24" alt="Avatar of KillianLucas"/> KillianLucas
+			</a><br/>
+			killian
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/hellokillian">hellokillian</a></td>
+		<td>Seattle WA</td>
+		<td>2290</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a target="_blank" href="https://github.com/isislovecruft">
+				<img src="https://avatars.githubusercontent.com/u/907241?s=72&u=6dcdfde9170704800e58d2b60e72c3d0a1f08b4c&v=4" width="24" alt="Avatar of isislovecruft"/> isislovecruft
+			</a><br/>
+			isis agora lovecruft
+		</td>
+		<td>Independent Consultantcontractor </td>
+		<td><a target="_blank" href="https://twitter.com/isislovecruft">isislovecruft</a></td>
+		<td>San Francisco</td>
+		<td>2267</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a target="_blank" href="https://github.com/mmistakes">
+				<img src="https://avatars.githubusercontent.com/u/1376749?s=72&u=57b84c6b694342dbc9aad20579ebc31de309126f&v=4" width="24" alt="Avatar of mmistakes"/> mmistakes
+			</a><br/>
+			Michael Rose
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Buffalo New York</td>
+		<td>2242</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a target="_blank" href="https://github.com/kriskowal">
+				<img src="https://avatars.githubusercontent.com/u/60294?s=72&u=e377b1f2e2871e30b170a4535bacb403ba8189f7&v=4" width="24" alt="Avatar of kriskowal"/> kriskowal
+			</a><br/>
+			Kris Kowal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area CA USA</td>
+		<td>2229</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a target="_blank" href="https://github.com/joschu">
+				<img src="https://avatars.githubusercontent.com/u/144178?s=72&u=d812f2d170c05c4d3aaa4b2bf2ebc3538839c756&v=4" width="24" alt="Avatar of joschu"/> joschu
+			</a><br/>
+			John Schulman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2201</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a target="_blank" href="https://github.com/vasanthk">
+				<img src="https://avatars.githubusercontent.com/u/3537278?s=72&u=dd49b589cc4a8b58991ba2b3e4ce887aaf38d3a0&v=4" width="24" alt="Avatar of vasanthk"/> vasanthk
+			</a><br/>
+			Vasanth Krishnamoorthy
+		</td>
+		<td>@pinterest </td>
+		<td><a target="_blank" href="https://twitter.com/vasanth_k">vasanth_k</a></td>
+		<td>San Francisco</td>
+		<td>2198</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a target="_blank" href="https://github.com/ibab">
+				<img src="https://avatars.githubusercontent.com/u/890531?s=72&u=0d1f34e46e08f470e87f71436a81e7aca6209ae6&v=4" width="24" alt="Avatar of ibab"/> ibab
+			</a><br/>
+			Igor Babuschkin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2196</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a target="_blank" href="https://github.com/stoked-zz">
+				<img src="https://avatars.githubusercontent.com/u/13973828?s=72&u=6e8853383b1aae28ec09c2e273e6ce066c263b6e&v=4" width="24" alt="Avatar of stoked-zz"/> stoked-zz
+			</a><br/>
+			Amie Lynn
+		</td>
+		<td>Salesforcecom </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2189</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a target="_blank" href="https://github.com/maryrosecook">
+				<img src="https://avatars.githubusercontent.com/u/2716?s=72&u=f7f4465635c06cb589291e6f694a4d44178f88f7&v=4" width="24" alt="Avatar of maryrosecook"/> maryrosecook
+			</a><br/>
+			Mary Rose Cook
+		</td>
+		<td>Notion </td>
+		<td><a target="_blank" href="https://twitter.com/maryrosecook">maryrosecook</a></td>
+		<td>San Francisco</td>
+		<td>2176</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a target="_blank" href="https://github.com/Iron-Ham">
+				<img src="https://avatars.githubusercontent.com/u/3388381?s=72&u=767aeeb299a41613663a3408c68cb10cafca079d&v=4" width="24" alt="Avatar of Iron-Ham"/> Iron-Ham
+			</a><br/>
+			Hesham Salman
+		</td>
+		<td>@makenotion </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>2121</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a target="_blank" href="https://github.com/BinaryMuse">
+				<img src="https://avatars.githubusercontent.com/u/189606?s=72&u=8639fa9115ecc6030419dffcd5ed61e057800ba9&v=4" width="24" alt="Avatar of BinaryMuse"/> BinaryMuse
+			</a><br/>
+			Michelle Tilley
+		</td>
+		<td>Atuin </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2118</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a target="_blank" href="https://github.com/benhalpern">
+				<img src="https://avatars.githubusercontent.com/u/3102842?s=72&u=9dfdf168b1efd5a1ea509a6f733a4a65f2f69908&v=4" width="24" alt="Avatar of benhalpern"/> benhalpern
+			</a><br/>
+			Ben Halpern
+		</td>
+		<td>Forem </td>
+		<td><a target="_blank" href="https://twitter.com/bendhalpern">bendhalpern</a></td>
+		<td>New York</td>
+		<td>2113</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a target="_blank" href="https://github.com/mateiz">
+				<img src="https://avatars.githubusercontent.com/u/228859?s=72&u=ddaed4c728d0235a8c917060aba7ae08a40ffaed&v=4" width="24" alt="Avatar of mateiz"/> mateiz
+			</a><br/>
+			Matei Zaharia
+		</td>
+		<td>Databricks Inc </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2094</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a target="_blank" href="https://github.com/aslushnikov">
+				<img src="https://avatars.githubusercontent.com/u/746130?s=72&u=bc83ba749f90def9710c03f1502595f1c3af49a9&v=4" width="24" alt="Avatar of aslushnikov"/> aslushnikov
+			</a><br/>
+			Andrey Lushnikov
+		</td>
+		<td>@degulabs  </td>
+		<td><a target="_blank" href="https://twitter.com/aslushnikov">aslushnikov</a></td>
+		<td>San Francisco CA</td>
+		<td>2087</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a target="_blank" href="https://github.com/brianchandotcom">
+				<img src="https://avatars.githubusercontent.com/u/282080?s=72&v=4" width="24" alt="Avatar of brianchandotcom"/> brianchandotcom
+			</a><br/>
+			Brian Chan
+		</td>
+		<td>Liferay Inc </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles CA</td>
+		<td>2086</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a target="_blank" href="https://github.com/mattjj">
+				<img src="https://avatars.githubusercontent.com/u/1458824?s=72&u=5eef860ff580ed2b87adbd823cf58b3d461b4c7a&v=4" width="24" alt="Avatar of mattjj"/> mattjj
+			</a><br/>
+			Matthew Johnson
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2068</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a target="_blank" href="https://github.com/praeclarum">
+				<img src="https://avatars.githubusercontent.com/u/323548?s=72&v=4" width="24" alt="Avatar of praeclarum"/> praeclarum
+			</a><br/>
+			Frank A Krueger
+		</td>
+		<td>Krueger Systems Inc </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>2065</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a target="_blank" href="https://github.com/slightlyoff">
+				<img src="https://avatars.githubusercontent.com/u/97331?s=72&v=4" width="24" alt="Avatar of slightlyoff"/> slightlyoff
+			</a><br/>
+			Alex Russell
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>2061</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a target="_blank" href="https://github.com/mxschmitt">
+				<img src="https://avatars.githubusercontent.com/u/17984549?s=72&u=80ce36f32bc4a6e4a4a25ef5a1696ebb9186019b&v=4" width="24" alt="Avatar of mxschmitt"/> mxschmitt
+			</a><br/>
+			Max Schmitt
+		</td>
+		<td>@amzn </td>
+		<td><a target="_blank" href="https://twitter.com/mx_schmitt">mx_schmitt</a></td>
+		<td>San Francisco</td>
+		<td>2053</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a target="_blank" href="https://github.com/EnggQasim">
+				<img src="https://avatars.githubusercontent.com/u/10209765?s=72&u=71dbc579238d41bb493ab213bb9f71e36a4cda25&v=4" width="24" alt="Avatar of EnggQasim"/> EnggQasim
+			</a><br/>
+			Sir Qasim
+		</td>
+		<td>Cancerclarity Llc Nyc Usa<br/></td>
+		<td>No Twitter Username</td>
+		<td>New york</td>
+		<td>2048</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a target="_blank" href="https://github.com/jxnl">
+				<img src="https://avatars.githubusercontent.com/u/4852235?s=72&u=f3927adbaafbeaccd6fd4d0bc805414ef08b8b54&v=4" width="24" alt="Avatar of jxnl"/> jxnl
+			</a><br/>
+			Jason Liu
+		</td>
+		<td>567 Studio </td>
+		<td><a target="_blank" href="https://twitter.com/jxnlco">jxnlco</a></td>
+		<td>New York NY</td>
+		<td>2027</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a target="_blank" href="https://github.com/ctate">
+				<img src="https://avatars.githubusercontent.com/u/366502?s=72&u=46a854ffb1cc4a07075045f8096cf30d165ab459&v=4" width="24" alt="Avatar of ctate"/> ctate
+			</a><br/>
+			Chris Tate
+		</td>
+		<td>Vercel </td>
+		<td><a target="_blank" href="https://twitter.com/ctatedev">ctatedev</a></td>
+		<td>Austin TX</td>
+		<td>2021</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a target="_blank" href="https://github.com/davila7">
+				<img src="https://avatars.githubusercontent.com/u/6216945?s=72&u=9cea1838e2bdb1dbfbdb657cf54d1166bd52fc0b&v=4" width="24" alt="Avatar of davila7"/> davila7
+			</a><br/>
+			Daniel Avila
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/dani_avila7">dani_avila7</a></td>
+		<td>Grand Rapids Michigan and New York</td>
+		<td>2010</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a target="_blank" href="https://github.com/modocache">
+				<img src="https://avatars.githubusercontent.com/u/552921?s=72&u=469a0337ef1e244285e6b65af1567cb792fff359&v=4" width="24" alt="Avatar of modocache"/> modocache
+			</a><br/>
+			Brian Gesiak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York USA</td>
+		<td>2010</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a target="_blank" href="https://github.com/leafo">
+				<img src="https://avatars.githubusercontent.com/u/15198?s=72&u=10e02dc595fc7a9728ebc841eb12a11922b20637&v=4" width="24" alt="Avatar of leafo"/> leafo
+			</a><br/>
+			leaf corcoran
+		</td>
+		<td>Itchzone </td>
+		<td><a target="_blank" href="https://twitter.com/moonscript">moonscript</a></td>
+		<td>San Francisco</td>
+		<td>2003</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a target="_blank" href="https://github.com/cvander">
+				<img src="https://avatars.githubusercontent.com/u/112621?s=72&u=5cd2eb14d29778322438a7e72687fca28f8fcfc8&v=4" width="24" alt="Avatar of cvander"/> cvander
+			</a><br/>
+			Christian Van Der Henst
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2001</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a target="_blank" href="https://github.com/iamthesiz">
+				<img src="https://avatars.githubusercontent.com/u/5455859?s=72&u=5f165fca50adca64cba2867122c82fc4973026cc&v=4" width="24" alt="Avatar of iamthesiz"/> iamthesiz
+			</a><br/>
+			Alex Cory
+		</td>
+		<td>@ava </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>2000</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a target="_blank" href="https://github.com/danielhanchen">
+				<img src="https://avatars.githubusercontent.com/u/23090290?s=72&u=3200d12723a822d44abe1b28c35cdf7e5d030b75&v=4" width="24" alt="Avatar of danielhanchen"/> danielhanchen
+			</a><br/>
+			Daniel Han
+		</td>
+		<td>@unslothai </td>
+		<td><a target="_blank" href="https://twitter.com/danielhanchen">danielhanchen</a></td>
+		<td>San Francisco</td>
+		<td>1998</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a target="_blank" href="https://github.com/kara">
+				<img src="https://avatars.githubusercontent.com/u/3871688?s=72&u=c40f49a9651bb79ec1d955c7536cdd5f8a59c3be&v=4" width="24" alt="Avatar of kara"/> kara
+			</a><br/>
+			Kara
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/karaforthewin">karaforthewin</a></td>
+		<td>San Francisco CA</td>
+		<td>1992</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a target="_blank" href="https://github.com/hdm">
+				<img src="https://avatars.githubusercontent.com/u/1171392?s=72&u=df79ca1b838e533004dd028661a40223c3e344bd&v=4" width="24" alt="Avatar of hdm"/> hdm
+			</a><br/>
+			HD Moore
+		</td>
+		<td>@runzeroinc  </td>
+		<td><a target="_blank" href="https://twitter.com/hdmoore">hdmoore</a></td>
+		<td>Austin TX</td>
+		<td>1989</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a target="_blank" href="https://github.com/lvdmaaten">
+				<img src="https://avatars.githubusercontent.com/u/1168046?s=72&u=d0f3703eba44d77809d27d052835a06f7e71e56b&v=4" width="24" alt="Avatar of lvdmaaten"/> lvdmaaten
+			</a><br/>
+			Laurens van der Maaten
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1982</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a target="_blank" href="https://github.com/armankhondker">
+				<img src="https://avatars.githubusercontent.com/u/22623742?s=72&u=5437e20435b0ef994334e81a3e4a76790fe7ccfb&v=4" width="24" alt="Avatar of armankhondker"/> armankhondker
+			</a><br/>
+			Arman
+		</td>
+		<td>@microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>1969</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a target="_blank" href="https://github.com/hexsecteam">
+				<img src="https://avatars.githubusercontent.com/u/206475088?s=72&u=5b3553ef03ece1e35b458e9c2a5b5b1e9dcdbae7&v=4" width="24" alt="Avatar of hexsecteam"/> hexsecteam
+			</a><br/>
+			HexSec
+		</td>
+		<td>Hexsecteam </td>
+		<td>No Twitter Username</td>
+		<td>United States New York</td>
+		<td>1962</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a target="_blank" href="https://github.com/Swizec">
+				<img src="https://avatars.githubusercontent.com/u/56883?s=72&v=4" width="24" alt="Avatar of Swizec"/> Swizec
+			</a><br/>
+			Swizec Teller
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/swizec">swizec</a></td>
+		<td>San Francisco</td>
+		<td>1955</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a target="_blank" href="https://github.com/ashleymcnamara">
+				<img src="https://avatars.githubusercontent.com/u/3139143?s=72&u=7c97429c7373a174251721d56f02b00b00859d80&v=4" width="24" alt="Avatar of ashleymcnamara"/> ashleymcnamara
+			</a><br/>
+			Ashley Willis
+		</td>
+		<td>Github </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>1948</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a target="_blank" href="https://github.com/pc">
+				<img src="https://avatars.githubusercontent.com/u/6983?s=72&v=4" width="24" alt="Avatar of pc"/> pc
+			</a><br/>
+			Patrick Collison
+		</td>
+		<td>Stripe </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1948</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a target="_blank" href="https://github.com/xingyizhou">
+				<img src="https://avatars.githubusercontent.com/u/8860935?s=72&u=9f25b466be7ad5400f63b47c91e59b2f84e2208d&v=4" width="24" alt="Avatar of xingyizhou"/> xingyizhou
+			</a><br/>
+			Xingyi Zhou
+		</td>
+		<td>Ami Labs </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1945</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a target="_blank" href="https://github.com/eddelbuettel">
+				<img src="https://avatars.githubusercontent.com/u/673121?s=72&u=0487fed564e4d06bc4d4800d38ae649a9a632951&v=4" width="24" alt="Avatar of eddelbuettel"/> eddelbuettel
+			</a><br/>
+			Dirk Eddelbuettel
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/eddelbuettel">eddelbuettel</a></td>
+		<td>Chicago IL USA</td>
+		<td>1941</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a target="_blank" href="https://github.com/dhg">
+				<img src="https://avatars.githubusercontent.com/u/693790?s=72&v=4" width="24" alt="Avatar of dhg"/> dhg
+			</a><br/>
+			Dave Gamache
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Austin</td>
+		<td>1941</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a target="_blank" href="https://github.com/mmp">
+				<img src="https://avatars.githubusercontent.com/u/102567?s=72&u=156107457c2b0ae97e582f59e97aa5bea438072f&v=4" width="24" alt="Avatar of mmp"/> mmp
+			</a><br/>
+			Matt Pharr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1937</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
+			<a target="_blank" href="https://github.com/lalalune">
+				<img src="https://avatars.githubusercontent.com/u/18633264?s=72&u=e2e906c3712c2506ebfa98df01c2cfdc50050b30&v=4" width="24" alt="Avatar of lalalune"/> lalalune
+			</a><br/>
+			Shaw
+		</td>
+		<td>Eliza Labs </td>
+		<td><a target="_blank" href="https://twitter.com/shawmakesmagic">shawmakesmagic</a></td>
+		<td>San Francisco</td>
+		<td>1936</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a target="_blank" href="https://github.com/arogozhnikov">
+				<img src="https://avatars.githubusercontent.com/u/6318811?s=72&u=5e99e15d9400a4bd8a449939093d38df94fd3e90&v=4" width="24" alt="Avatar of arogozhnikov"/> arogozhnikov
+			</a><br/>
+			Alex Rogozhnikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1936</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a target="_blank" href="https://github.com/abi">
+				<img src="https://avatars.githubusercontent.com/u/23818?s=72&u=20a6bb441ca25e49b4d8bdb602c171c5e1a065bf&v=4" width="24" alt="Avatar of abi"/> abi
+			</a><br/>
+			Abi Raja
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1926</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a target="_blank" href="https://github.com/ImgBotApp">
+				<img src="https://avatars.githubusercontent.com/u/31427850?s=72&u=464006d20c236f7bbec4ae1b2ae80bf4c1ebd57a&v=4" width="24" alt="Avatar of ImgBotApp"/> ImgBotApp
+			</a><br/>
+			Imgbot
+		</td>
+		<td>Imgbot </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>1926</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a target="_blank" href="https://github.com/rodydavis">
+				<img src="https://avatars.githubusercontent.com/u/31253215?s=72&u=8a2a98ae2e3e5afb05cf29f32d75b12453717881&v=4" width="24" alt="Avatar of rodydavis"/> rodydavis
+			</a><br/>
+			Rody Davis
+		</td>
+		<td>@google </td>
+		<td><a target="_blank" href="https://twitter.com/rodydavis">rodydavis</a></td>
+		<td>San Francisco CA</td>
+		<td>1917</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a target="_blank" href="https://github.com/zhaoolee">
+				<img src="https://avatars.githubusercontent.com/u/15868458?s=72&u=aa3a39fdb2c4a16abeb527f343ab7909d10e1b4e&v=4" width="24" alt="Avatar of zhaoolee"/> zhaoolee
+			</a><br/>
+			zhaoolee
+		</td>
+		<td>Kingsware </td>
+		<td><a target="_blank" href="https://twitter.com/zhaoolee">zhaoolee</a></td>
+		<td>New York</td>
+		<td>1915</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a target="_blank" href="https://github.com/liroyleshed">
+				<img src="https://avatars.githubusercontent.com/u/37022194?s=72&u=e34635b3a1c74a17c7d569738fa248a3664ddd30&v=4" width="24" alt="Avatar of liroyleshed"/> liroyleshed
+			</a><br/>
+			Liroy Leshed
+		</td>
+		<td>@21tycoons </td>
+		<td><a target="_blank" href="https://twitter.com/liroyleshed">liroyleshed</a></td>
+		<td>Los Angeles</td>
+		<td>1905</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a target="_blank" href="https://github.com/mr-dev-dragon">
+				<img src="https://avatars.githubusercontent.com/u/71600486?s=72&u=07a6b3fdfd6a2346e1277803413f9a239043befe&v=4" width="24" alt="Avatar of mr-dev-dragon"/> mr-dev-dragon
+			</a><br/>
+			Mr Dev Dragon 
+		</td>
+		<td>Brooklyn </td>
+		<td><a target="_blank" href="https://twitter.com/Ahmd_dev_dragon">Ahmd_dev_dragon</a></td>
+		<td>New York</td>
+		<td>1898</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a target="_blank" href="https://github.com/saket">
+				<img src="https://avatars.githubusercontent.com/u/2387680?s=72&u=b7776a4198f63e8950a948574c1560431e8c4b78&v=4" width="24" alt="Avatar of saket"/> saket
+			</a><br/>
+			Saket Narayan
+		</td>
+		<td>Square Inc </td>
+		<td><a target="_blank" href="https://twitter.com/saketme">saketme</a></td>
+		<td>Seattle</td>
+		<td>1896</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a target="_blank" href="https://github.com/lexi-lambda">
+				<img src="https://avatars.githubusercontent.com/u/759911?s=72&u=38d483e07778f91e1969014c77b05b43205e7d22&v=4" width="24" alt="Avatar of lexi-lambda"/> lexi-lambda
+			</a><br/>
+			Alexis King
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lexi_lambda">lexi_lambda</a></td>
+		<td>Chicago IL</td>
+		<td>1896</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a target="_blank" href="https://github.com/AbrahamGreenman">
+				<img src="https://avatars.githubusercontent.com/u/8540141?s=72&u=9c2c34962b1d0dbbdf2002edb14899288693b071&v=4" width="24" alt="Avatar of AbrahamGreenman"/> AbrahamGreenman
+			</a><br/>
+			Abraham Greenman
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/abrahamgreenman">abrahamgreenman</a></td>
+		<td>Queens  New York </td>
+		<td>1891</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a target="_blank" href="https://github.com/colesbury">
+				<img src="https://avatars.githubusercontent.com/u/655866?s=72&u=b622ef6e3c8ace6e7ffe49e1cf8ca164d94c0867&v=4" width="24" alt="Avatar of colesbury"/> colesbury
+			</a><br/>
+			Sam Gross
+		</td>
+		<td>Meta </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1880</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a target="_blank" href="https://github.com/aweary">
+				<img src="https://avatars.githubusercontent.com/u/6886061?s=72&u=94ff3eb690831cefb93de0ea97e6f467f63dfbf1&v=4" width="24" alt="Avatar of aweary"/> aweary
+			</a><br/>
+			Brandon Dail
+		</td>
+		<td>@discord </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>1871</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a target="_blank" href="https://github.com/yaahc">
+				<img src="https://avatars.githubusercontent.com/u/1993852?s=72&u=561c830e6ddd6310bb47c9bd669dcf860a68dd64&v=4" width="24" alt="Avatar of yaahc"/> yaahc
+			</a><br/>
+			Jane LosareLusby
+		</td>
+		<td>Futurewei Technologies </td>
+		<td><a target="_blank" href="https://twitter.com/yaahc_">yaahc_</a></td>
+		<td>San Francisco</td>
+		<td>1871</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a target="_blank" href="https://github.com/fffaraz">
+				<img src="https://avatars.githubusercontent.com/u/895678?s=72&u=c4d7f1d0c7893275b2f777f47a2ebad2dc20d1a0&v=4" width="24" alt="Avatar of fffaraz"/> fffaraz
+			</a><br/>
+			Faraz
+		</td>
+		<td>Software Engineer </td>
+		<td><a target="_blank" href="https://twitter.com/fffaraz">fffaraz</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>1866</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a target="_blank" href="https://github.com/abhshkdz">
+				<img src="https://avatars.githubusercontent.com/u/1156489?s=72&u=515c5c6dd12a34a76aeac615e078363794d61f2a&v=4" width="24" alt="Avatar of abhshkdz"/> abhshkdz
+			</a><br/>
+			Abhishek Das
+		</td>
+		<td>Yutori </td>
+		<td><a target="_blank" href="https://twitter.com/abhshkdz">abhshkdz</a></td>
+		<td>San Francisco</td>
+		<td>1865</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a target="_blank" href="https://github.com/mrocklin">
+				<img src="https://avatars.githubusercontent.com/u/306380?s=72&u=a804c563a1f6009805dc0fe42efcf5ba52c8dab0&v=4" width="24" alt="Avatar of mrocklin"/> mrocklin
+			</a><br/>
+			Matthew Rocklin
+		</td>
+		<td>@coiled  </td>
+		<td><a target="_blank" href="https://twitter.com/mrocklin">mrocklin</a></td>
+		<td>Austin TX</td>
+		<td>1861</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a target="_blank" href="https://github.com/frankmcsherry">
+				<img src="https://avatars.githubusercontent.com/u/5741500?s=72&u=33e69eeeaae260b94c6fae4a2e15d36784b6dffe&v=4" width="24" alt="Avatar of frankmcsherry"/> frankmcsherry
+			</a><br/>
+			Frank McSherry
+		</td>
+		<td>@materializeinc </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>1859</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a target="_blank" href="https://github.com/ramnathv">
+				<img src="https://avatars.githubusercontent.com/u/346288?s=72&v=4" width="24" alt="Avatar of ramnathv"/> ramnathv
+			</a><br/>
+			Ramnath Vaidyanathan
+		</td>
+		<td>Datacamp </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1852</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a target="_blank" href="https://github.com/c4pt0r">
+				<img src="https://avatars.githubusercontent.com/u/773853?s=72&v=4" width="24" alt="Avatar of c4pt0r"/> c4pt0r
+			</a><br/>
+			dongxu
+		</td>
+		<td>Pingcap </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area</td>
+		<td>1846</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a target="_blank" href="https://github.com/romaonthego">
+				<img src="https://avatars.githubusercontent.com/u/481100?s=72&v=4" width="24" alt="Avatar of romaonthego"/> romaonthego
+			</a><br/>
+			Roman Efimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area</td>
+		<td>1846</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a target="_blank" href="https://github.com/vincentkoc">
+				<img src="https://avatars.githubusercontent.com/u/25068?s=72&u=5d9c466c1faf3fcd96870c8c9b99c7a548415369&v=4" width="24" alt="Avatar of vincentkoc"/> vincentkoc
+			</a><br/>
+			Vincent Koc
+		</td>
+		<td>@openclaw </td>
+		<td><a target="_blank" href="https://twitter.com/vincent_koc">vincent_koc</a></td>
+		<td>San Francisco CA</td>
+		<td>1843</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a target="_blank" href="https://github.com/StefanKarpinski">
+				<img src="https://avatars.githubusercontent.com/u/153596?s=72&v=4" width="24" alt="Avatar of StefanKarpinski"/> StefanKarpinski
+			</a><br/>
+			Stefan Karpinski
+		</td>
+		<td>@juliacomputing </td>
+		<td><a target="_blank" href="https://twitter.com/StefanKarpinski">StefanKarpinski</a></td>
+		<td>New York NY</td>
+		<td>1842</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a target="_blank" href="https://github.com/bkaradzic">
+				<img src="https://avatars.githubusercontent.com/u/814772?s=72&u=ea3f41b56f21a99b12b8a35df0a27456a3bf9019&v=4" width="24" alt="Avatar of bkaradzic"/> bkaradzic
+			</a><br/>
+			Branimir Karadi
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/bkaradzic">bkaradzic</a></td>
+		<td>Los Angeles CA</td>
+		<td>1838</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a target="_blank" href="https://github.com/mikedemarais">
+				<img src="https://avatars.githubusercontent.com/u/1325144?s=72&u=7b32dcd04811261405f2ed35d933b1484558758d&v=4" width="24" alt="Avatar of mikedemarais"/> mikedemarais
+			</a><br/>
+			Michael Demarais
+		</td>
+		<td>@rainbowme </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>1837</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a target="_blank" href="https://github.com/deedy">
+				<img src="https://avatars.githubusercontent.com/u/1846373?s=72&u=6c738c8985d6c2d56d0d1a61e2c00ae771207fc0&v=4" width="24" alt="Avatar of deedy"/> deedy
+			</a><br/>
+			deedy
+		</td>
+		<td>Menlo Ventures </td>
+		<td><a target="_blank" href="https://twitter.com/deedydas">deedydas</a></td>
+		<td>San Francisco CA</td>
+		<td>1834</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a target="_blank" href="https://github.com/palkan">
+				<img src="https://avatars.githubusercontent.com/u/1516722?s=72&u=58b7d69a8f28602ae667ee377a3cbed251cebd3a&v=4" width="24" alt="Avatar of palkan"/> palkan
+			</a><br/>
+			Vladimir Dementyev
+		</td>
+		<td>@evilmartians  </td>
+		<td><a target="_blank" href="https://twitter.com/palkan_tula">palkan_tula</a></td>
+		<td>Seattle</td>
+		<td>1824</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a target="_blank" href="https://github.com/tananaev">
+				<img src="https://avatars.githubusercontent.com/u/1161863?s=72&v=4" width="24" alt="Avatar of tananaev"/> tananaev
+			</a><br/>
+			Anton Tananaev
+		</td>
+		<td>@openai  @traccar <br/></td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area</td>
+		<td>1821</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a target="_blank" href="https://github.com/15Dkatz">
+				<img src="https://avatars.githubusercontent.com/u/11095053?s=72&u=9d5022b4a48ba0c6e0d46729c3b08a1428b9039e&v=4" width="24" alt="Avatar of 15Dkatz"/> 15Dkatz
+			</a><br/>
+			David Katz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1819</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a target="_blank" href="https://github.com/antimatter15">
+				<img src="https://avatars.githubusercontent.com/u/30054?s=72&v=4" width="24" alt="Avatar of antimatter15"/> antimatter15
+			</a><br/>
+			Kevin Kwok
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1814</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a target="_blank" href="https://github.com/tuvtran">
+				<img src="https://avatars.githubusercontent.com/u/13454011?s=72&u=749d2ecc20c547cdc800012d6e5ad3d12ac1fe79&v=4" width="24" alt="Avatar of tuvtran"/> tuvtran
+			</a><br/>
+			Tu V Tran
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/tuthreefour">tuthreefour</a></td>
+		<td>San Francisco CA</td>
+		<td>1814</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a target="_blank" href="https://github.com/slavingia">
+				<img src="https://avatars.githubusercontent.com/u/74396?s=72&u=d2058787f4f8221926d0088f941bf7a28eedcf5f&v=4" width="24" alt="Avatar of slavingia"/> slavingia
+			</a><br/>
+			Sahil Lavingia
+		</td>
+		<td>Irs </td>
+		<td><a target="_blank" href="https://twitter.com/shl">shl</a></td>
+		<td>New York NY</td>
+		<td>1808</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a target="_blank" href="https://github.com/ericniebler">
+				<img src="https://avatars.githubusercontent.com/u/225757?s=72&v=4" width="24" alt="Avatar of ericniebler"/> ericniebler
+			</a><br/>
+			Eric Niebler
+		</td>
+		<td>@nvidia </td>
+		<td><a target="_blank" href="https://twitter.com/ericniebler">ericniebler</a></td>
+		<td>Seattle WA</td>
+		<td>1794</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a target="_blank" href="https://github.com/lukehoban">
+				<img src="https://avatars.githubusercontent.com/u/223467?s=72&u=813d8208b74d626778368048a05de08bdf449e80&v=4" width="24" alt="Avatar of lukehoban"/> lukehoban
+			</a><br/>
+			Luke Hoban
+		</td>
+		<td>@github </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>1770</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a target="_blank" href="https://github.com/dherman">
+				<img src="https://avatars.githubusercontent.com/u/307871?s=72&u=b660aacb665f9522f41b5cb255638ae3180c9830&v=4" width="24" alt="Avatar of dherman"/> dherman
+			</a><br/>
+			Dave Herman
+		</td>
+		<td>Linkedin </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1769</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a target="_blank" href="https://github.com/cwilso">
+				<img src="https://avatars.githubusercontent.com/u/507001?s=72&v=4" width="24" alt="Avatar of cwilso"/> cwilso
+			</a><br/>
+			Chris Wilson
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA USA</td>
+		<td>1766</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a target="_blank" href="https://github.com/evanphx">
+				<img src="https://avatars.githubusercontent.com/u/7?s=72&v=4" width="24" alt="Avatar of evanphx"/> evanphx
+			</a><br/>
+			Evan Phoenix
+		</td>
+		<td>@mirendev  </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles CA</td>
+		<td>1762</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a target="_blank" href="https://github.com/RocketGod-git">
+				<img src="https://avatars.githubusercontent.com/u/57732082?s=72&u=abb95259509864b1ac6b0ba211a2cb27ee34d835&v=4" width="24" alt="Avatar of RocketGod-git"/> RocketGod-git
+			</a><br/>
+			RocketGod
+		</td>
+		<td>The Pirates Plunder </td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles </td>
+		<td>1760</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a target="_blank" href="https://github.com/TairanHe">
+				<img src="https://avatars.githubusercontent.com/u/52708081?s=72&u=14dbfedb4e6f73a7bc4bf52436423cd0306dc145&v=4" width="24" alt="Avatar of TairanHe"/> TairanHe
+			</a><br/>
+			Tairan He
+		</td>
+		<td>Openai </td>
+		<td><a target="_blank" href="https://twitter.com/TairanHe99">TairanHe99</a></td>
+		<td>San Francisco</td>
+		<td>1758</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a target="_blank" href="https://github.com/gr2m">
+				<img src="https://avatars.githubusercontent.com/u/39992?s=72&u=1ee38610bb2d8a082b3e84db7ecacf78149d061b&v=4" width="24" alt="Avatar of gr2m"/> gr2m
+			</a><br/>
+			Gregor Martynus
+		</td>
+		<td>@vercel @octokit @octoherd @probot<br/>@nock<br/>@semanticrelease<br/>@allcontributors<br/>@hearts<br/></td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles</td>
+		<td>1751</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a target="_blank" href="https://github.com/nickjj">
+				<img src="https://avatars.githubusercontent.com/u/813219?s=72&u=4071d58beb4b2fd0f75b47a1653ee5ea9b4a6261&v=4" width="24" alt="Avatar of nickjj"/> nickjj
+			</a><br/>
+			Nick Janetakis
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/nickjanetakis">nickjanetakis</a></td>
+		<td>New York</td>
+		<td>1748</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a target="_blank" href="https://github.com/DavidWells">
+				<img src="https://avatars.githubusercontent.com/u/532272?s=72&u=e7b96b32a71ed740a741cb666fbe8c3f7fd65c5c&v=4" width="24" alt="Avatar of DavidWells"/> DavidWells
+			</a><br/>
+			David Wells
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/DavidWells">DavidWells</a></td>
+		<td>San Francisco</td>
+		<td>1746</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a target="_blank" href="https://github.com/alysonla">
+				<img src="https://avatars.githubusercontent.com/u/2623954?s=72&v=4" width="24" alt="Avatar of alysonla"/> alysonla
+			</a><br/>
+			Alyson La
+		</td>
+		<td>@github  </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1735</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a target="_blank" href="https://github.com/richzhang">
+				<img src="https://avatars.githubusercontent.com/u/18079594?s=72&u=3189f5b5db7a7f1fd09a48ec15bf62063a5a3ac8&v=4" width="24" alt="Avatar of richzhang"/> richzhang
+			</a><br/>
+			Richard Zhang
+		</td>
+		<td>@adobe  </td>
+		<td><a target="_blank" href="https://twitter.com/rzhang88">rzhang88</a></td>
+		<td>San Francisco CA</td>
+		<td>1733</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a target="_blank" href="https://github.com/Roasbeef">
+				<img src="https://avatars.githubusercontent.com/u/998190?s=72&v=4" width="24" alt="Avatar of Roasbeef"/> Roasbeef
+			</a><br/>
+			Olaoluwa Osuntokun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1707</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
+			<a target="_blank" href="https://github.com/sustcsonglin">
+				<img src="https://avatars.githubusercontent.com/u/30831390?s=72&u=d1ff3f7315be9acd121cfaeb2e9735b74867e17c&v=4" width="24" alt="Avatar of sustcsonglin"/> sustcsonglin
+			</a><br/>
+			Songlin Yang
+		</td>
+		<td>Thinking Machines Lab </td>
+		<td><a target="_blank" href="https://twitter.com/SonglinYang4">SonglinYang4</a></td>
+		<td>San Francisco</td>
+		<td>1698</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a target="_blank" href="https://github.com/awjuliani">
+				<img src="https://avatars.githubusercontent.com/u/9065325?s=72&u=d6670f7d9843101ebeaae161b2bbe5b56b5ee6fe&v=4" width="24" alt="Avatar of awjuliani"/> awjuliani
+			</a><br/>
+			Arthur Juliani
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/awjuliani">awjuliani</a></td>
+		<td>San Francisco Bay Area</td>
+		<td>1695</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a target="_blank" href="https://github.com/khronokernel">
+				<img src="https://avatars.githubusercontent.com/u/48863253?s=72&u=42af6226c9cd061c266bd77768abb200dd50094d&v=4" width="24" alt="Avatar of khronokernel"/> khronokernel
+			</a><br/>
+			Mykola Grymalyuk
+		</td>
+		<td>The Fruit Company </td>
+		<td>No Twitter Username</td>
+		<td>Seattle Washington</td>
+		<td>1684</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a target="_blank" href="https://github.com/apsdehal">
+				<img src="https://avatars.githubusercontent.com/u/3616806?s=72&u=b5dda1c519449cb9856edf5846bf8f1de4b533a7&v=4" width="24" alt="Avatar of apsdehal"/> apsdehal
+			</a><br/>
+			Amanpreet Singh
+		</td>
+		<td>Something New Past @contextualai<br/>@huggingface<br/>@facebookresearch<br/><br/></td>
+		<td><a target="_blank" href="https://twitter.com/apsdehal">apsdehal</a></td>
+		<td>San Francisco</td>
+		<td>1677</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a target="_blank" href="https://github.com/RodneyShag">
+				<img src="https://avatars.githubusercontent.com/u/21094724?s=72&u=b26e38337ec2b806bc43f5dc2c74dd2f6b8debae&v=4" width="24" alt="Avatar of RodneyShag"/> RodneyShag
+			</a><br/>
+			Rodney Shaghoulian
+		</td>
+		<td>Amazon </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1667</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a target="_blank" href="https://github.com/keith">
+				<img src="https://avatars.githubusercontent.com/u/283886?s=72&v=4" width="24" alt="Avatar of keith"/> keith
+			</a><br/>
+			Keith Smiley
+		</td>
+		<td>@buildbuddyio </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>1664</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a target="_blank" href="https://github.com/ternaus">
+				<img src="https://avatars.githubusercontent.com/u/5481618?s=72&u=513a26b02a39e7a28d587cd37c6cc877ea368e6e&v=4" width="24" alt="Avatar of ternaus"/> ternaus
+			</a><br/>
+			Vladimir Iglovikov
+		</td>
+		<td>Albumentationsai </td>
+		<td><a target="_blank" href="https://twitter.com/viglovikov">viglovikov</a></td>
+		<td>San Francisco</td>
+		<td>1661</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a target="_blank" href="https://github.com/jesstess">
+				<img src="https://avatars.githubusercontent.com/u/188336?s=72&v=4" width="24" alt="Avatar of jesstess"/> jesstess
+			</a><br/>
+			Jessica McKellar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1661</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a target="_blank" href="https://github.com/samselikoff">
+				<img src="https://avatars.githubusercontent.com/u/2922250?s=72&v=4" width="24" alt="Avatar of samselikoff"/> samselikoff
+			</a><br/>
+			Sam Selikoff
+		</td>
+		<td>Vercel </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>1655</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a target="_blank" href="https://github.com/jverkoey">
+				<img src="https://avatars.githubusercontent.com/u/45670?s=72&u=927810ea447867116b0968537626045dd3175b94&v=4" width="24" alt="Avatar of jverkoey"/> jverkoey
+			</a><br/>
+			Jeff Verkoeyen
+		</td>
+		<td>Clutch Engineering </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1651</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a target="_blank" href="https://github.com/ylecun">
+				<img src="https://avatars.githubusercontent.com/u/1435513?s=72&v=4" width="24" alt="Avatar of ylecun"/> ylecun
+			</a><br/>
+			Yann LeCun
+		</td>
+		<td>New York University </td>
+		<td>No Twitter Username</td>
+		<td>New York NY USA</td>
+		<td>1650</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a target="_blank" href="https://github.com/soapyigu">
+				<img src="https://avatars.githubusercontent.com/u/3916492?s=72&u=4375cad88c712e8d833956383c2ad4a1a690f383&v=4" width="24" alt="Avatar of soapyigu"/> soapyigu
+			</a><br/>
+			Soap
+		</td>
+		<td>Netflix </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1646</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a target="_blank" href="https://github.com/dustinvtran">
+				<img src="https://avatars.githubusercontent.com/u/2569867?s=72&u=08104eb5168fcc79590d075155ad3908b056c1ae&v=4" width="24" alt="Avatar of dustinvtran"/> dustinvtran
+			</a><br/>
+			Dustin Tran
+		</td>
+		<td>Google Deepmind </td>
+		<td><a target="_blank" href="https://twitter.com/dustinvtran">dustinvtran</a></td>
+		<td>San Francisco CA</td>
+		<td>1644</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a target="_blank" href="https://github.com/ajtulloch">
+				<img src="https://avatars.githubusercontent.com/u/1121581?s=72&u=8fe1a92e6502b599a28729caf4388fe9acca0030&v=4" width="24" alt="Avatar of ajtulloch"/> ajtulloch
+			</a><br/>
+			Andrew Tulloch
+		</td>
+		<td>@openai </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco</td>
+		<td>1635</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a target="_blank" href="https://github.com/pcwalton">
+				<img src="https://avatars.githubusercontent.com/u/157897?s=72&u=fab8268f5338550918b6e4379bb3ac6f6dce67c6&v=4" width="24" alt="Avatar of pcwalton"/> pcwalton
+			</a><br/>
+			Patrick Walton
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1627</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a target="_blank" href="https://github.com/liquidslr">
+				<img src="https://avatars.githubusercontent.com/u/26876811?s=72&u=0432278286f24df958b1449c89a7c6c2c4cd8854&v=4" width="24" alt="Avatar of liquidslr"/> liquidslr
+			</a><br/>
+			Gaurav Kumar
+		</td>
+		<td>Aws </td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1625</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a target="_blank" href="https://github.com/ryanseys">
+				<img src="https://avatars.githubusercontent.com/u/163873?s=72&v=4" width="24" alt="Avatar of ryanseys"/> ryanseys
+			</a><br/>
+			Ryan Seys
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ryanseys">ryanseys</a></td>
+		<td>  San Francisco CA</td>
+		<td>1622</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a target="_blank" href="https://github.com/ellie">
+				<img src="https://avatars.githubusercontent.com/u/53315310?s=72&u=e64c8e5c360acb558a24514a8299e6b5288e9ead&v=4" width="24" alt="Avatar of ellie"/> ellie
+			</a><br/>
+			Ellie Huxtable
+		</td>
+		<td>@atuinsh </td>
+		<td><a target="_blank" href="https://twitter.com/ellie_huxtable">ellie_huxtable</a></td>
+		<td>San Francisco</td>
+		<td>1621</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a target="_blank" href="https://github.com/NatashaTheRobot">
+				<img src="https://avatars.githubusercontent.com/u/1157147?s=72&u=0f8eebd7379b7249a89ec2a205159239e6440471&v=4" width="24" alt="Avatar of NatashaTheRobot"/> NatashaTheRobot
+			</a><br/>
+			Natasha Murashev
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/natashatherobot">natashatherobot</a></td>
+		<td>San Francisco CA</td>
+		<td>1620</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a target="_blank" href="https://github.com/shrutikapoor08">
+				<img src="https://avatars.githubusercontent.com/u/2525914?s=72&u=578bfd51e2e92bc8d6b9fac5b7e035e69d9baf19&v=4" width="24" alt="Avatar of shrutikapoor08"/> shrutikapoor08
+			</a><br/>
+			Shruti Kapoor
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/shrutikapoor08">shrutikapoor08</a></td>
+		<td>Seattle</td>
+		<td>1619</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a target="_blank" href="https://github.com/Trott">
+				<img src="https://avatars.githubusercontent.com/u/718899?s=72&u=d8a77b28610eec920d8744ed76d3f625e3f06a48&v=4" width="24" alt="Avatar of Trott"/> Trott
+			</a><br/>
+			Rich Trott
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1617</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a target="_blank" href="https://github.com/legomushroom">
+				<img src="https://avatars.githubusercontent.com/u/1478800?s=72&u=c83ff15adaed8caa5c664bb50860a56b903b578a&v=4" width="24" alt="Avatar of legomushroom"/> legomushroom
+			</a><br/>
+			Oleg Solomko
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/legomushroom">legomushroom</a></td>
+		<td>Seattle US</td>
+		<td>1617</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
+			<a target="_blank" href="https://github.com/JessicaSachs">
+				<img src="https://avatars.githubusercontent.com/u/2801156?s=72&u=bdcf346cd3d774dda0b898562a8881d6cfc32abc&v=4" width="24" alt="Avatar of JessicaSachs"/> JessicaSachs
+			</a><br/>
+			Jess
+		</td>
+		<td>Herodevs </td>
+		<td><a target="_blank" href="https://twitter.com/_jessicasachs">_jessicasachs</a></td>
+		<td>Austin TX</td>
+		<td>1612</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a target="_blank" href="https://github.com/richlander">
+				<img src="https://avatars.githubusercontent.com/u/2608468?s=72&u=8344507340302c70f124f9c9b5a48a42afedb04e&v=4" width="24" alt="Avatar of richlander"/> richlander
+			</a><br/>
+			Rich Lander
+		</td>
+		<td>@dotnet  </td>
+		<td>No Twitter Username</td>
+		<td>Seattle  Toronto</td>
+		<td>1602</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a target="_blank" href="https://github.com/mar-antaya">
+				<img src="https://avatars.githubusercontent.com/u/181134073?s=72&u=785d4ab9b3d73f8a2b0740b72d1ee725ff7f72bb&v=4" width="24" alt="Avatar of mar-antaya"/> mar-antaya
+			</a><br/>
+			Mariana Antaya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>1583</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
+			<a target="_blank" href="https://github.com/slundberg">
+				<img src="https://avatars.githubusercontent.com/u/3740613?s=72&v=4" width="24" alt="Avatar of slundberg"/> slundberg
+			</a><br/>
+			Scott Lundberg
+		</td>
+		<td>Microsoft Ai </td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>1576</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a target="_blank" href="https://github.com/PWhiddy">
+				<img src="https://avatars.githubusercontent.com/u/15711120?s=72&u=331c427763bfc8faa189aaa4f760a1553afd83da&v=4" width="24" alt="Avatar of PWhiddy"/> PWhiddy
+			</a><br/>
+			Peter Whidden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seattle WA</td>
+		<td>1572</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a target="_blank" href="https://github.com/gabrielpetersson">
+				<img src="https://avatars.githubusercontent.com/u/46445785?s=72&u=b7dcfc31497e7a11a60c86680fa93d8d5ab39be4&v=4" width="24" alt="Avatar of gabrielpetersson"/> gabrielpetersson
+			</a><br/>
+			Gabriel Petersson
+		</td>
+		<td>Openai </td>
+		<td><a target="_blank" href="https://twitter.com/gabriel1">gabriel1</a></td>
+		<td>San Francisco</td>
+		<td>1571</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a target="_blank" href="https://github.com/neonichu">
+				<img src="https://avatars.githubusercontent.com/u/118992?s=72&u=544f64efa9cbdbf2adaa9c205b1a1394832c2d84&v=4" width="24" alt="Avatar of neonichu"/> neonichu
+			</a><br/>
+			Boris Bgling
+		</td>
+		<td>@apple  </td>
+		<td><a target="_blank" href="https://twitter.com/NeoNacho">NeoNacho</a></td>
+		<td>San Francisco USA</td>
+		<td>1564</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a target="_blank" href="https://github.com/codinghemp">
+				<img src="https://avatars.githubusercontent.com/u/114475644?s=72&u=00f57b5d4923adac9cfa2a8a3a54daa38975ae6b&v=4" width="24" alt="Avatar of codinghemp"/> codinghemp
+			</a><br/>
+			William Smith
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>AmericaAustin</td>
+		<td>1564</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a target="_blank" href="https://github.com/abarth">
+				<img src="https://avatars.githubusercontent.com/u/112007?s=72&u=9f7e9d9b0ee7d1a012d3cf98d8b0e6adeb565a61&v=4" width="24" alt="Avatar of abarth"/> abarth
+			</a><br/>
+			Adam Barth
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1553</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a target="_blank" href="https://github.com/pbakaus">
+				<img src="https://avatars.githubusercontent.com/u/43004?s=72&u=a2129579fad3fa98301c2d64da926bbb5fb6b129&v=4" width="24" alt="Avatar of pbakaus"/> pbakaus
+			</a><br/>
+			Paul Bakaus
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/pbakaus">pbakaus</a></td>
+		<td>San Francisco</td>
+		<td>1549</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a target="_blank" href="https://github.com/lkzhao">
+				<img src="https://avatars.githubusercontent.com/u/3359850?s=72&u=ec5ae8b9f69fd58f197ed32c6e3198f8f6b8e097&v=4" width="24" alt="Avatar of lkzhao"/> lkzhao
+			</a><br/>
+			Luke Zhao
+		</td>
+		<td>Pinterest </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1547</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a target="_blank" href="https://github.com/ztellman">
+				<img src="https://avatars.githubusercontent.com/u/31295?s=72&u=fc1847a2662ef3d590f1d85be62cbb0fb8c7d078&v=4" width="24" alt="Avatar of ztellman"/> ztellman
+			</a><br/>
+			Zach Tellman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1545</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a target="_blank" href="https://github.com/zhuohan123">
+				<img src="https://avatars.githubusercontent.com/u/17310766?s=72&u=02a60ccbc661e054e633703601390d00bb984bfe&v=4" width="24" alt="Avatar of zhuohan123"/> zhuohan123
+			</a><br/>
+			Zhuohan Li
+		</td>
+		<td>Vllm  Meta </td>
+		<td><a target="_blank" href="https://twitter.com/zhuohan123">zhuohan123</a></td>
+		<td> San Francisco Bay Area</td>
+		<td>1542</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a target="_blank" href="https://github.com/srowen">
+				<img src="https://avatars.githubusercontent.com/u/822522?s=72&u=ef57526cbc6c158ba71394a31ef565b037f466a1&v=4" width="24" alt="Avatar of srowen"/> srowen
+			</a><br/>
+			Sean Owen
+		</td>
+		<td>@databricks  </td>
+		<td>No Twitter Username</td>
+		<td>Austin TX</td>
+		<td>1541</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a target="_blank" href="https://github.com/raxod502">
+				<img src="https://avatars.githubusercontent.com/u/6559064?s=72&u=558e0407a91007c571648f4355c35f5d5f45df06&v=4" width="24" alt="Avatar of raxod502"/> raxod502
+			</a><br/>
+			Radon Rosborough
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1540</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a target="_blank" href="https://github.com/samuelclay">
+				<img src="https://avatars.githubusercontent.com/u/44229?s=72&u=f9c72e1a1cc9fae7f49996ae58d885d77bfe71f2&v=4" width="24" alt="Avatar of samuelclay"/> samuelclay
+			</a><br/>
+			Samuel Clay
+		</td>
+		<td>Newsblur </td>
+		<td><a target="_blank" href="https://twitter.com/samuelclay">samuelclay</a></td>
+		<td>San Francisco  Massachusetts</td>
+		<td>1535</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a target="_blank" href="https://github.com/benhamner">
+				<img src="https://avatars.githubusercontent.com/u/582878?s=72&u=d35887e94faea46ca8e44c03ea55e56173809798&v=4" width="24" alt="Avatar of benhamner"/> benhamner
+			</a><br/>
+			Ben Hamner
+		</td>
+		<td>Dabbling With Data Formerly<br/>Kaggle<br/></td>
+		<td><a target="_blank" href="https://twitter.com/benhamner">benhamner</a></td>
+		<td>San Francisco CA</td>
+		<td>1531</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a target="_blank" href="https://github.com/romanmichaelpaolucci">
+				<img src="https://avatars.githubusercontent.com/u/17343675?s=72&u=c138a24db04688ab94c689e8136c36301ba0d590&v=4" width="24" alt="Avatar of romanmichaelpaolucci"/> romanmichaelpaolucci
+			</a><br/>
+			Roman Paolucci
+		</td>
+		<td>@quantguild </td>
+		<td>No Twitter Username</td>
+		<td>New York NY</td>
+		<td>1524</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a target="_blank" href="https://github.com/divamgupta">
+				<img src="https://avatars.githubusercontent.com/u/1890549?s=72&u=04a403c48a19264c23c4807f853f63ba7d9a19b8&v=4" width="24" alt="Avatar of divamgupta"/> divamgupta
+			</a><br/>
+			Divam Gupta
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/divamgupta">divamgupta</a></td>
+		<td>San Francisco United States</td>
+		<td>1523</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a target="_blank" href="https://github.com/colebemis">
+				<img src="https://avatars.githubusercontent.com/u/4608155?s=72&u=9840a5cec00c7cc06fcbab038a6a0976ced3bfad&v=4" width="24" alt="Avatar of colebemis"/> colebemis
+			</a><br/>
+			Cole Bemis
+		</td>
+		<td>Notion </td>
+		<td><a target="_blank" href="https://twitter.com/colebemis">colebemis</a></td>
+		<td>San Francisco CA</td>
+		<td>1522</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a target="_blank" href="https://github.com/heapwolf">
+				<img src="https://avatars.githubusercontent.com/u/136109?s=72&u=c34e10d4200e6e055215803043c754968796dd06&v=4" width="24" alt="Avatar of heapwolf"/> heapwolf
+			</a><br/>
+			heapwolf
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/heapwolf">heapwolf</a></td>
+		<td>New York</td>
+		<td>1501</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a target="_blank" href="https://github.com/lukemelas">
+				<img src="https://avatars.githubusercontent.com/u/13307440?s=72&u=d71fb4e098ad0cd4218658d39ba1c6b3ab3d8a86&v=4" width="24" alt="Avatar of lukemelas"/> lukemelas
+			</a><br/>
+			Luke MelasKyriazi
+		</td>
+		<td>Anysphere Cursor </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1501</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a target="_blank" href="https://github.com/ruotianluo">
+				<img src="https://avatars.githubusercontent.com/u/16023153?s=72&u=f9c0a40866f5c1ce197f92858f06de7a108c0ef3&v=4" width="24" alt="Avatar of ruotianluo"/> ruotianluo
+			</a><br/>
+			RuotianRT Luo
+		</td>
+		<td>Waymo </td>
+		<td>No Twitter Username</td>
+		<td>Austin</td>
+		<td>1499</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
+			<a target="_blank" href="https://github.com/Daniel15">
+				<img src="https://avatars.githubusercontent.com/u/91933?s=72&u=13584ac6a9f66c40a2ae30fce469e2ce11c5709d&v=4" width="24" alt="Avatar of Daniel15"/> Daniel15
+			</a><br/>
+			Daniel Lo Nigro
+		</td>
+		<td>@facebook </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco Bay Area</td>
+		<td>1496</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a target="_blank" href="https://github.com/topfunky">
+				<img src="https://avatars.githubusercontent.com/u/26?s=72&u=c6bfa7ba549791b219c9bb5f05d1eee7b063a7cf&v=4" width="24" alt="Avatar of topfunky"/> topfunky
+			</a><br/>
+			Geoffrey Grosenbach
+		</td>
+		<td>@datadog </td>
+		<td>No Twitter Username</td>
+		<td>Seattle USA</td>
+		<td>1494</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a target="_blank" href="https://github.com/dfinke">
+				<img src="https://avatars.githubusercontent.com/u/67258?s=72&u=924efd6f2c8a8240308e4be7bddcad1e1d43e922&v=4" width="24" alt="Avatar of dfinke"/> dfinke
+			</a><br/>
+			Doug Finke
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/dfinke">dfinke</a></td>
+		<td>New York City</td>
+		<td>1485</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a target="_blank" href="https://github.com/caffix">
+				<img src="https://avatars.githubusercontent.com/u/7319658?s=72&u=76945bf61baa76e7afe2baada2f73b2737bf9159&v=4" width="24" alt="Avatar of caffix"/> caffix
+			</a><br/>
+			Jeff Foley
+		</td>
+		<td>@owasp </td>
+		<td><a target="_blank" href="https://twitter.com/jeff_foley">jeff_foley</a></td>
+		<td>New York United States</td>
+		<td>1485</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a target="_blank" href="https://github.com/evilrabbit">
+				<img src="https://avatars.githubusercontent.com/u/6880091?s=72&u=da42714aac11597801cdded4c02ea6123f87888e&v=4" width="24" alt="Avatar of evilrabbit"/> evilrabbit
+			</a><br/>
+			Evil Rabbit
+		</td>
+		<td>Vercel </td>
+		<td>No Twitter Username</td>
+		<td>San Francisco CA</td>
+		<td>1478</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a target="_blank" href="https://github.com/TimDettmers">
+				<img src="https://avatars.githubusercontent.com/u/5260050?s=72&v=4" width="24" alt="Avatar of TimDettmers"/> TimDettmers
+			</a><br/>
+			Tim Dettmers
+		</td>
+		<td>University Of Washington </td>
+		<td><a target="_blank" href="https://twitter.com/tim_dettmers">tim_dettmers</a></td>
+		<td>Seattle USA</td>
+		<td>1468</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a target="_blank" href="https://github.com/Fryingpannn">
+				<img src="https://avatars.githubusercontent.com/u/59063950?s=72&u=96c57758d895c52bf382ec53a69bfe4c6e75c76b&v=4" width="24" alt="Avatar of Fryingpannn"/> Fryingpannn
+			</a><br/>
+			Duke Pan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1466</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a target="_blank" href="https://github.com/josephmachado">
+				<img src="https://avatars.githubusercontent.com/u/61124148?s=72&u=d27c709f23cc791a9735cb2bf538f114ad99f73e&v=4" width="24" alt="Avatar of josephmachado"/> josephmachado
+			</a><br/>
+			Start Data Engineering
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/startdataeng">startdataeng</a></td>
+		<td>New York</td>
+		<td>1466</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a target="_blank" href="https://github.com/leecalcote">
+				<img src="https://avatars.githubusercontent.com/u/7570704?s=72&u=818c4da74f3c82e226b6fcfce4c57a76a3ecd644&v=4" width="24" alt="Avatar of leecalcote"/> leecalcote
+			</a><br/>
+			Lee Calcote
+		</td>
+		<td>Layer5 </td>
+		<td><a target="_blank" href="https://twitter.com/lcalcote">lcalcote</a></td>
+		<td>Austin TX</td>
+		<td>1465</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a target="_blank" href="https://github.com/neodigm">
+				<img src="https://avatars.githubusercontent.com/u/3151842?s=72&u=ffb96ad83c18e5e0ff0a1f221cbb6200d623202a&v=4" width="24" alt="Avatar of neodigm"/> neodigm
+			</a><br/>
+			Scott C Krause
+		</td>
+		<td>Independent </td>
+		<td>No Twitter Username</td>
+		<td>Chicago  the Future</td>
+		<td>1461</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a target="_blank" href="https://github.com/antiagainst">
+				<img src="https://avatars.githubusercontent.com/u/487928?s=72&v=4" width="24" alt="Avatar of antiagainst"/> antiagainst
+			</a><br/>
+			Lei Zhang
+		</td>
+		<td>Amd Ai Group </td>
+		<td>No Twitter Username</td>
+		<td>Seattle</td>
+		<td>1461</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a target="_blank" href="https://github.com/boujeepossum">
+				<img src="https://avatars.githubusercontent.com/u/940133?s=72&u=0c841328949fea2440a969297db1af2ace85248b&v=4" width="24" alt="Avatar of boujeepossum"/> boujeepossum
+			</a><br/>
+			Aaron Abrams
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/boujeepossum">boujeepossum</a></td>
+		<td>Austin TX</td>
+		<td>1460</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a target="_blank" href="https://github.com/amilajack">
+				<img src="https://avatars.githubusercontent.com/u/6374832?s=72&v=4" width="24" alt="Avatar of amilajack"/> amilajack
+			</a><br/>
+			Amila Welihinda
+		</td>
+		<td>@palettedev </td>
+		<td><a target="_blank" href="https://twitter.com/amilajack">amilajack</a></td>
+		<td>San Francisco CA</td>
+		<td>1453</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a target="_blank" href="https://github.com/kosamari">
+				<img src="https://avatars.githubusercontent.com/u/4581495?s=72&u=1a7103fb4df1c345b5696e80601e23f65f3d4b2d&v=4" width="24" alt="Avatar of kosamari"/> kosamari
+			</a><br/>
+			Mariko Kosaka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>New York</td>
+		<td>1447</td>
+	</tr>
+</table>
+
+### 🚀 Share on
+
+<table>
+	<tr>
+		<td>
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&_rdc=1&_rdr">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&app_id=291494419107518&redirect_uri=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://t.me/share/url?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://vk.com/share.php?url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
+			</a>
+		</td>
+		<td>
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20States&url=https://github.com/ePlus-DEV/top-github-users/blob/main/docs/followers/united_states.md">
+				<img src="https://github.com/ePlus-DEV/top-github-users-action/raw/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
+			</a>
+		</td>
+	</tr>
+</table>
+
+## 📦 Third party
+
+- [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+## 📄 License
+
+- GitHub Action - [ePlus-DEV/top-github-users-action](https://github.com/ePlus-DEV/top-github-users-action)
+- Repository - [ePlus-DEV/top-github-users](https://github.com/ePlus-DEV/top-github-users)
+- Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
