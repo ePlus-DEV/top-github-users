@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunktop_github_users=globalThis.webpackChunktop_github_users||[]).push([[903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
