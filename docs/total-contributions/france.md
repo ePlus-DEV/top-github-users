@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in France
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France"/>
 </a>
 
-The `public contributions` and `private contributions` by users in France on `2026/7/31 2:40 AM UTC`. This list contains users from France and cities Paris Marseille Lyon Bordeaux Toulouse Strasbourg Nice Nantes Montpellier Lille.
+The `public contributions` and `private contributions` by users in France on `2026/7/31 3:22 AM UTC`. This list contains users from France and cities Paris Marseille Lyon Bordeaux Toulouse Strasbourg Nice Nantes Montpellier Lille.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -135,8 +135,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>@tarides  </td>
 		<td>No Twitter Username</td>
 		<td>Paris FR</td>
-		<td>10014</td>
-		<td>36770</td>
+		<td>10025</td>
+		<td>36781</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -177,8 +177,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>@iscpif </td>
 		<td><a target="_blank" href="https://twitter.com/maziyarpanahi">maziyarpanahi</a></td>
 		<td>Paris  London</td>
-		<td>4671</td>
-		<td>18273</td>
+		<td>4672</td>
+		<td>18274</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -276,7 +276,7 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/realsteelbrain">realsteelbrain</a></td>
 		<td>France</td>
 		<td>747</td>
-		<td>11074</td>
+		<td>11079</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -290,7 +290,7 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/luongnv89">luongnv89</a></td>
 		<td>Paris France</td>
 		<td>5283</td>
-		<td>11047</td>
+		<td>11049</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -863,8 +863,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>4769</td>
-		<td>5498</td>
+		<td>4770</td>
+		<td>5499</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1116,7 +1116,7 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/sbusso">sbusso</a></td>
 		<td>France  Thailand</td>
 		<td>492</td>
-		<td>4719</td>
+		<td>4720</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1465,8 +1465,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>Oracle Labs  </td>
 		<td><a target="_blank" href="https://twitter.com/CedricChampeau">CedricChampeau</a></td>
 		<td>Nantes France</td>
-		<td>3488</td>
-		<td>3704</td>
+		<td>3489</td>
+		<td>3705</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1563,8 +1563,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>@cooptilleuls </td>
 		<td><a target="_blank" href="https://twitter.com/s0yuka">s0yuka</a></td>
 		<td>Nantes France</td>
-		<td>3060</td>
-		<td>3548</td>
+		<td>3061</td>
+		<td>3549</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1942,7 +1942,7 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/arthur_guiot">arthur_guiot</a></td>
 		<td>San Francisco  Paris</td>
 		<td>70</td>
-		<td>3106</td>
+		<td>3107</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -2249,8 +2249,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paris</td>
-		<td>2483</td>
-		<td>2841</td>
+		<td>2484</td>
+		<td>2842</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2375,8 +2375,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paris France</td>
-		<td>741</td>
-		<td>2673</td>
+		<td>744</td>
+		<td>2679</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -2572,7 +2572,7 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/jderusse">jderusse</a></td>
 		<td>Paris France</td>
 		<td>852</td>
-		<td>2516</td>
+		<td>2517</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -3635,8 +3635,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/bloodyowl">bloodyowl</a></td>
 		<td>Paris France</td>
-		<td>886</td>
-		<td>1749</td>
+		<td>887</td>
+		<td>1750</td>
 	</tr>
 	<tr>
 		<td>253</td>
@@ -5609,8 +5609,8 @@ There are `907 users`  in France. You need at least `239 followers` to be on thi
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>France  Paris</td>
-		<td>983</td>
-		<td>983</td>
+		<td>985</td>
+		<td>985</td>
 	</tr>
 	<tr>
 		<td>394</td>
